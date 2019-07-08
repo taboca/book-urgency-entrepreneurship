@@ -5,6 +5,8 @@
 
 050_rainbow_grayscale.txt
 
+070_wantrepreneur_learner.txt
+
 100_preferencias_criacao.txt
 
 140_processos_criativos.txt
