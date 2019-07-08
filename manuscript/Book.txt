@@ -1,7 +1,9 @@
 
 010_intro.txt
 
-020_mundo_startup_gestao_produtiva.txt
+020_startup_you.txt
+
+050_rainbow_grayscale.txt
 
 100_preferencias_criacao.txt
 
