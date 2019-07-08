@@ -1,0 +1,57 @@
+## Protocolos de comunicação de times
+
+### A rotina orientada as ações
+
+Alguns tipos de ações são tarefas diretas. Porém outros tipos são ações relevantes do domínio da comunicação. Todas elas são práticas porque ações são eventos diretos, síncronos, ou eventos assíncronos. Um gerente, ou um contribuidor individual, pode necessitar definir ações que dependem de outros:
+
+* Garantir — com relação aos passos de ação de outros, mas que pode envolver algumas ações ou envolvimento;
+* Aguardar — quando depende de passos de outros mas é um evento assíncrono, que caso não ocorra resposta, pode acarretar em uma ação de remediação do lado do gerente.
+
+
+## Rotina de responsabilidade social orientada as ações
+
+Ao estabelecer uma cultura de comunicação que é orientada as ações, você cria uma rotina de responsabilidade com relação as ações — porque não está capturando ações por dever mas está criando uma contabilidade e comunicação social com relação as ações. Todos devem entender as ações de outros e as ações individuais são ações que são transparentes.
+
+Nos exemplos apresentados por Scott Belsky, times se comunicam checando sobre o que as pessoas capturaram em termos de ações. Outro exemplo, é quando contribuidores estão acostumados a pedir, para eles mesmos ao final de reuniões, para elas informarem aos outras o que elas capturaram em termos de ações. Scott aponta que, nestes casos, é comum surgirem significativas modificações com relação as ações e o entendimento.
+
+## Transparência e compromisso
+
+Modelos orientados as ações passam a funcionar com produtividade quando as ações delegadas as pessoas são feitas com transparência, ou seja, um mecanismo de comunicação aonde é visível por todos estabelece uma aceitação e acordo ou suporte.
+
+Outra vantagem deste modelo é que ao tentar criar um "contrato social", demanda-se a necessidade da formatação, com clareza, sobre o esforço, permitindo maiores chances de aceitação do esforço. Caso contrário, a comunicação pobre cria razões para que um esforço não seja aceito — um efeito que também será visível.
+
+O que você não quer criar é um modelo onde cada um criou seu método de ação que são confinados aos silos individualizados. Neste espaço, você nunca sabe se algo é uma ação ou se acabou se tornando ruído de comunicação. A externalização das ações cria um mecanismo de cura que deve ser monitorado e encontrar um ponto de equilíbrio, ou seja, evite que um sistema de externalização seja de fato um muro que esconde outras atividades não contabilizadas.
+
+Estabelecendo a permissão de externalização, as pessoas simplesmente rejeitarão aceitarem as propostas caso as propostas não forem claras, como por exemplo, inclusive, contando com uma boa comunicação, e acima de tudo uma comunicação transparente — um sistema que força as comunicações e a formalização das propostas para ações, tornando-as mais claras, mais diretas, mais alcançáveis e consequentemente mais fáceis de serem aceitas por membros do time.
+
+### Pistas sociais e agilidade
+
+Na questão de estratégias, para conseguir que ações sejam atreladas com  ferramenta de comunicação do time, você pode criar modelos visuais, por exemplo e-mail os com certas etiquetas, ou cores, são relacionados às ações enquanto outros tipos de comunicação como a "FIY" (for your information) são referências, etc. Tente estabelecer um mecanismo de comunicação aonde fica claro que todo o time está de acordo que existem essas categorias.
+
+As formas que estes modelos são criados deve ser uma decisão feita em grupo, por exemplo alguns podem escolher certas ferramentas colaborativas, etc.
+
+### Comunicação e avaliação social para as prioridades
+
+Um ponto importante, para maior eficiência aos seus projetos, é a questão de prioridade na gestão. Deve-se criar uma comunicação sobre as prioridades, e assim fortalecer a cultura de transparência e também dos contratos entre times.
+
+Individuais e grupos devem deixar claro como eles quebram suas ações, entre alta prioridade, o lado extremo, até a prioridade que está em pausa. A relação da socialização dessas prioridades se faz necessário pois uma empresa é, acima de tudo, um esforço colaborativo — e esse tipo de relação se faz necessário para os casos onde realmente a colaboração é existente entre times.
+
+### Projetando o tempo de indivíduos no contexto colaborativo
+
+A razão de permitir transparência com relação aos esforços e prioridades é porque o tempo e energia são elementos fundamentais que devem ser vistos como recursos do processo de desenvolvimento colaborativo. Michael Dearing, em [Blitzscaling on Capitalism, Creativity, and Creative Destruction](https://youtu.be/3vCdfa_aeI8?t=39m51s) diz que o tempo é o recurso escasso, mais do que o capital. Ele considera a possibilidade da criação de mecanismos de medir ou avaliar o uso de recursos internos em times, exemplificando o caso de um mercado interno competitivo. Independente do exemplo de Michael, surge um ponto relevante na questão de comunicação e responsabilidade no contexto de grupos:
+
+"if people are held accountable to economic evaluation of their ideas, over time you can start to get a pattern, you can recognize a pattern whether people are good predictors of their own economic value of their ideas and then allocate the resources on the basis of the highest
+NPV projects on the list."
+
+### Comunicação social com o contratos de prioridades
+
+A ação de compartilhar o espectro de prioridades individuais, com transparência e para interação de outros, estabelece algumas vantagens:
+
+* Primeiro, que individuais vão reavaliar porque agora eles estão comunicando para outros
+* Segundo que outros, que podem ser colaboradores do mesmo esforço ou mesmo stakeholders, vão opinar sobre as suas prioridades.
+
+Este modelo cria uma vantagem no mecanismo de comunicação porque irá curar possíveis situações que estavam sendo feitas sem permissão, como esforços que estão em um tipo de "caixa dois" das prioridades. Ao expor, os times passam a reconhecer que certas coisas são importantes e que outras devem ser menores.
+
+Quando indivíduos compartilham suas prioridades, é comum observarem que muitas pessoas estão fazendo muitas coisas na área das altas prioridades. Fica óbvio que não é realista. O efeito de comunicar de forma social é parecido, de novo, com o exemplo da comunicação no final da reunião — quando alguém lhe pergunta o que você irá fazer de ações, e é comum vermos que pessoas interpretaram incorretamente, ou seja, validando a questão de se estabelecer a pergunta.
+
+O importante é permitir uma chance para levantar certos desacordos o que se traduz em acordos mais bem estabelecidos e previsões mais bem elaboradas, ou entendimento melhor sobre riscos. Membros do time podem se ajudar inclusive na capacidade de priorizar de forma coletiva, o que é uma arte complexa.
