@@ -11,4 +11,8 @@
 
 090_irreducible_collaborator.txt
 
+100_part2.txt
+
 150_managing_future_eye_present.txt
+
+170_first_to_friends_no.txt
