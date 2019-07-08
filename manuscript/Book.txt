@@ -1,6 +1,8 @@
 
 010_intro.txt
 
+020_mundo_startup_gestao_produtiva.txt
+
 100_preferencias_criacao.txt
 
 140_processos_criativos.txt
