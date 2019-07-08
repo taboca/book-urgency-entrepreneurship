@@ -15,7 +15,7 @@ Segundo Reid Hoffman [The Startup of You] o relacionamento da amizade cria uma s
 
 A empreendedora Adora Cheung vai mais além e sugere o conceito da Curva da Honestidade (How to Start a Startup, 2014, 21:18). Ela que diz tem gente que simplesmente irá mentir para você. Vamos estudar como funciona a curva. No eixo vertical temos Nível de Honestidade (Honesty Level). No eixo horizontal temos o nível de relacionamento das pessoas começando com a mãe (mom) depois amigos depois pessoas:
 
-![Figura 1]()
+![Curva da honestidade](images/adora/honesty.png)
 
 Adora apresenta duas curvas com o nível de honestidade do feedback dado por diferentes tipos de pessoas. Primeiro vamos olhar para o produto que não é de graça (a curva vermelha acima), por exemplo um produto pago. Neste caso a sua mãe provavelmente será pouco honesta com você. Na medida que avançamos, para o lado dos amigos, veremos que eles são mais honestos que a mãe. Então, para produtos pagos, quanto mais distante, no rumo das pessoas anônimas, veremos mais honestidade.
 
@@ -28,7 +28,7 @@ Na outra abordagem, quando os produtos são de graça, dai temos problemas em ob
 A questão do feedback da mãe é abordada pelo professor e psicólogo Adam Grant no livro Originais (????). Adam Grant coloca 4 tipos de pessoas nos quadrantes gerados por dois eixos. No eixo vertical temos, acima, aquele perfil de pessoa que ajuda os outros (giver) e abaixo o que quer tudo para ela (taker). No eixo horizontal, do lado direito aquela que negativista-discordante (disagreeable) e no lado esquerdo a pessoa positivista-concordante (agreeable):
 
 
-![Figura 2]()
+![Adam eixos concordante discordante](images/adam/agreeable-disagreeable.png)
 
 Adam sugere que o melhor perfil para buscar feedback é aquele que gosta de ajudar mas que faz de forma discordante ou honesta. Ou seja, aquele que não necessariamente concorda com tudo que você diz mas continua sempre do seu lado — aquele que continua dizendo “olha, eu acho que não vai dar certo porque tal e tal”. Para Adam, a mãe normalmente está no quadrante dos que querem ajudar mas concorda com tudo porque está influenciada pela relação.
 
