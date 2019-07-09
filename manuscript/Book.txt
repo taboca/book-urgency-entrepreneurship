@@ -3,6 +3,8 @@
 
 020_startup_you.txt
 
+030_part1.txt
+
 050_rainbow_grayscale.txt
 
 070_wantrepreneur_learner.txt
@@ -13,7 +15,7 @@
 
 100_part2.txt
 
-110_get_out_of_the_show.txt 
+110_get_out_of_the_show.txt
 
 150_managing_future_eye_present.txt
 
