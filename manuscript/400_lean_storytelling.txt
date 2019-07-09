@@ -2,41 +2,43 @@
 
 ## O que é PR no mundo da startup
 
-A motivação para este artigo surgiu porque eu me ví fazendo campanhas de comunicação sendo que meu produto não estava formado. Depois de muitas falhas eu decidí olhar para o papel da comunicação neste estágio inicial, seus objetivos e tentar entender como os esforços devem ser feitos e acima de tudo como eles podem contribuir para a evolução do produto e da startup. 
+A motivação para este artigo surgiu porque eu me ví fazendo campanhas de comunicação sendo que meu produto não estava formado. Depois de muitas falhas eu decidí olhar para o papel da comunicação neste estágio inicial, seus objetivos e tentar entender como os esforços devem ser feitos e acima de tudo como eles podem contribuir para a evolução do produto e da startup.
 
-### Problema 
+### Problema
 
-Muitas startups tentam projetar um produto-empresa não reconhecendo que as ações de comunicação antecipadas são só testes. Muitos querem imaginar que é o produto final ou como se a empresa estivesse com o produto que "só falta melhorar" ou que já estabeleceram a ponte presente-futuro. 
+Muitas startups tentam projetar um produto-empresa não reconhecendo que as ações de comunicação antecipadas são só testes. Muitos querem imaginar que é o produto final ou como se a empresa estivesse com o produto que "só falta melhorar" ou que já estabeleceram a ponte presente-futuro.
 
-Essa ilusão pode causar severas consequências para empreendedores. Primeiro porque empreendedores tem o perfil, ou necessidade, de executarem ações com base em dados. O professor James Green, autor de *Opportunity Analysis Canvas*, indica que empreendedores devem tomar cuidado com *representativeness*. Que é a capacidade deles associar dados, ou eventos, como sendo a evidência estatística, e assim lhes permitindo continuar executando. 
+Essa ilusão pode causar severas consequências para empreendedores. Primeiro porque empreendedores tem o perfil, ou necessidade, de executarem ações com base em dados. O professor James Green, autor de *Opportunity Analysis Canvas*, indica que empreendedores devem tomar cuidado com *representativeness*. Que é a capacidade deles associar dados, ou eventos, como sendo a evidência estatística, e assim lhes permitindo continuar executando.
 
-Steve Blank tem uma regra intitulada *72 hour rule*. Ele diz que, assim que o empreendedor volta para a empresa após visitas no processo *customer development*, eles não podem dizer a expressão "estamos pivotando" por um período de 72 horas. 
+Steve Blank tem uma regra intitulada *72 hour rule*. Ele diz que, assim que o empreendedor volta para a empresa após visitas no processo *customer development*, eles não podem dizer a expressão "estamos pivotando" por um período de 72 horas.
 
-Mas isto não significa que não devemos fazer nossas campanhas de comunicação ou que não devemos continuar comunicando em diversas formas. De fato, estes pontos são só indicadores ou motivações para nos lembrar que nós temos que reconhecer que o produto ainda está em evolução. E que quando estamos criando cenários de interação, por meio de atividades de comunicação, não estamos de fato criando produto sólidos que definirão o futuro exato de nossas empresa. De fato, nós estamos aprendendo. Com isso em mente, vamos ver um pouco sobre como podemos aprender mais rápido. 
+"Keep your mouth shut from when you think you got an insight to when you are allowed to announce the word “pivot,” inside your company." Steve Blank (MAP Unimelb, 2014, 24m34s)
 
-## Comunique o produto não-produto  
- 
-Este ponto é relevante pelo fato que a tentativa de concentrar, ou projetar, ou resumir, ou seja, a tentativa da comunicação mais sucinta, é em sí um exercicício estratégico que ajuda o empreendedor(a) na modelagem do produto em sí. É quando tentamos reduzir a comunicação – pense em um vídeo de 30 segundos ou uma landing page – é que tentamos chegar no mercado porque temos que estabelecer um contrato com este usuário. 
+Mas isto não significa que não devemos fazer nossas campanhas de comunicação ou que não devemos continuar comunicando em diversas formas. De fato, estes pontos são só indicadores ou motivações para nos lembrar que nós temos que reconhecer que o produto ainda está em evolução. E que quando estamos criando cenários de interação, por meio de atividades de comunicação, não estamos de fato criando produto sólidos que definirão o futuro exato de nossas empresa. De fato, nós estamos aprendendo. Com isso em mente, vamos ver um pouco sobre como podemos aprender mais rápido.
 
-Naquele momento não podemos mais ter o tempo ideal que gostaríamos, tipo, de uma hora de explicação sobre nosso negócio. É como se o artefato a ser comunicado não só tem que ser só curto, em tempo, mas também tem que estabelecer um encaixe, como uma chave que terá que bater com uma fechadura – hipóteses sobre as portas que o mercado já oferece. Tudo isso é diferente da ideia de se apresentar um canivete suíço, como um elemento curinga, que uma startup de fato é. 
+## Comunique o produto não-produto
 
-## Multi facetas e aprendizado lean 
+Este ponto é relevante pelo fato que a tentativa de concentrar, ou projetar, ou resumir, ou seja, a tentativa da comunicação mais sucinta, é em sí um exercicício estratégico que ajuda o empreendedor(a) na modelagem do produto em sí. É quando tentamos reduzir a comunicação – pense em um vídeo de 30 segundos ou uma landing page – é que tentamos chegar no mercado porque temos que estabelecer um contrato com este usuário.
 
-Essa dualidade, entre o que a startup é e algumas hipóteses mais ousadas, sobre o que poderia ser, pode representar um problema porque empreendedores ficam tentados em expor o que de fato é, o lado genérico. Esta exposição não só pode causar impacto negativo e direto na validação sobre hipóteses em curto prazo mas acima de tudo cria um escuto que pode impedir o aprendizado ou a descoberta de grandes oportunidades já que grandes ideias podem surgir porque usuários ou consumidores são colocados para interagir diante de ideias mais ousadas. Temos que lembrar que uma proposição mais ousada não precisa ser exatamente seu produto – mas pode sim lhe dar informações valiosas uma vez que você coloca estas proposições na frente das pessoas. 
+Naquele momento não podemos mais ter o tempo ideal que gostaríamos, tipo, de uma hora de explicação sobre nosso negócio. É como se o artefato a ser comunicado não só tem que ser só curto, em tempo, mas também tem que estabelecer um encaixe, como uma chave que terá que bater com uma fechadura – hipóteses sobre as portas que o mercado já oferece. Tudo isso é diferente da ideia de se apresentar um canivete suíço, como um elemento curinga, que uma startup de fato é.
 
-Quando empreendedores pensam que a hipótese-produto é a empresa-produto, ou quando assumem que irá influenciar o futuro, o impacto é que eles correm grande risco de recuar e surgirá o medo de não se testar uma hipótese isolada ou uma proposição mais ousada. 
+## Multi facetas e aprendizado lean
 
-Os testes das hipóteses isoladas, mesmo que vinculadas com a marca da startup, é o  assunto em questão, pertinente para a startup no caso do produto não existir, ou seja, não estar validado. 
+Essa dualidade, entre o que a startup é e algumas hipóteses mais ousadas, sobre o que poderia ser, pode representar um problema porque empreendedores ficam tentados em expor o que de fato é, o lado genérico. Esta exposição não só pode causar impacto negativo e direto na validação sobre hipóteses em curto prazo mas acima de tudo cria um escuto que pode impedir o aprendizado ou a descoberta de grandes oportunidades já que grandes ideias podem surgir porque usuários ou consumidores são colocados para interagir diante de ideias mais ousadas. Temos que lembrar que uma proposição mais ousada não precisa ser exatamente seu produto – mas pode sim lhe dar informações valiosas uma vez que você coloca estas proposições na frente das pessoas.
+
+Quando empreendedores pensam que a hipótese-produto é a empresa-produto, ou quando assumem que irá influenciar o futuro, o impacto é que eles correm grande risco de recuar e surgirá o medo de não se testar uma hipótese isolada ou uma proposição mais ousada.
+
+Os testes das hipóteses isoladas, mesmo que vinculadas com a marca da startup, é o  assunto em questão, pertinente para a startup no caso do produto não existir, ou seja, não estar validado.
 
 Para pensarmos em hipóteses isoladas temos que pensar com a ótica do MVP.  MVPs não devem ser feitos como uma versão menor de um produto maior, que existirá no amanhã. Mas devem ser versões completa que testam hipóteses, parte de um conjunto de hipóteses maiores das quais a startup ainda não sabe qual delas fará parte do produto/serviço.
 
 ## Conclusão
 
-Todos queremos mobilizar engajamento, de usuários ou possíveis consumidores, e todos nós, empreendedores, buscamos uma validação sobre as hipóteses ou as teorizações que estão em aberto nas nossas startups. 
+Todos queremos mobilizar engajamento, de usuários ou possíveis consumidores, e todos nós, empreendedores, buscamos uma validação sobre as hipóteses ou as teorizações que estão em aberto nas nossas startups.
 
-Aqui nós não estamos falando de produtos que já foram validados. Este aspecto é importante porque mesmo empreendedores nós somos também especialistas e sempre estaremos nos assediando em tentar fazer com que nossas hipóteses saiam da condição de ideia e estejam na condição de produto. 
+Aqui nós não estamos falando de produtos que já foram validados. Este aspecto é importante porque mesmo empreendedores nós somos também especialistas e sempre estaremos nos assediando em tentar fazer com que nossas hipóteses saiam da condição de ideia e estejam na condição de produto.
 
-Empreendedores não querem perder suas chances. Na primeira oportunidade, eles vão tentar evoluir. Mas a evolução deve ser feita com suporte de ainda maior esforço em validação ou seja, que possamos admitir as ações necessárias para evolução ou escala do produto.  
+Empreendedores não querem perder suas chances. Na primeira oportunidade, eles vão tentar evoluir. Mas a evolução deve ser feita com suporte de ainda maior esforço em validação ou seja, que possamos admitir as ações necessárias para evolução ou escala do produto.
 
 Em cada hipótese testada, deve-se buscar aprender. Mas acima de tudo deve-se evitar a ilusão que um esforço de aprendizado tornou-se de fato um produto, como se bastasse que o produto tivesse novas versões incrementais (a moda waterfall).
 
@@ -44,12 +46,8 @@ Em cada hipótese testada, deve-se buscar aprender. Mas acima de tudo deve-se ev
 
 * [PR and your early stage business](http://www.slidequest.com/Taboca/o9mf)
 
-
-
 ## Pitch sob a ótica dos cofudndadores
 
 ## Pitch sob a ótica do consumidor
 
 ## Pitch sob a ótica do investidor
-
-
