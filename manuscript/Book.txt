@@ -9,6 +9,8 @@
 
 080_ideas_emotions.txt
 
+085_get_out_of_the_show.txt 
+
 090_irreducible_collaborator.txt
 
 100_part2.txt
