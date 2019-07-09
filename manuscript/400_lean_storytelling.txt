@@ -1,6 +1,6 @@
-# Lean storytelling - comunicação e PR para startups
+## Lean storytelling - comunicação e PR para startups
 
-## O que é PR no mundo da startup
+### O que é PR no mundo da startup
 
 A motivação para este artigo surgiu porque eu me ví fazendo campanhas de comunicação sendo que meu produto não estava formado. Depois de muitas falhas eu decidí olhar para o papel da comunicação neste estágio inicial, seus objetivos e tentar entender como os esforços devem ser feitos e acima de tudo como eles podem contribuir para a evolução do produto e da startup.
 
@@ -16,13 +16,13 @@ Steve Blank tem uma regra intitulada *72 hour rule*. Ele diz que, assim que o em
 
 Mas isto não significa que não devemos fazer nossas campanhas de comunicação ou que não devemos continuar comunicando em diversas formas. De fato, estes pontos são só indicadores ou motivações para nos lembrar que nós temos que reconhecer que o produto ainda está em evolução. E que quando estamos criando cenários de interação, por meio de atividades de comunicação, não estamos de fato criando produto sólidos que definirão o futuro exato de nossas empresa. De fato, nós estamos aprendendo. Com isso em mente, vamos ver um pouco sobre como podemos aprender mais rápido.
 
-## Comunique o produto não-produto
+### Comunique o produto não-produto
 
 Este ponto é relevante pelo fato que a tentativa de concentrar, ou projetar, ou resumir, ou seja, a tentativa da comunicação mais sucinta, é em sí um exercicício estratégico que ajuda o empreendedor(a) na modelagem do produto em sí. É quando tentamos reduzir a comunicação – pense em um vídeo de 30 segundos ou uma landing page – é que tentamos chegar no mercado porque temos que estabelecer um contrato com este usuário.
 
 Naquele momento não podemos mais ter o tempo ideal que gostaríamos, tipo, de uma hora de explicação sobre nosso negócio. É como se o artefato a ser comunicado não só tem que ser só curto, em tempo, mas também tem que estabelecer um encaixe, como uma chave que terá que bater com uma fechadura – hipóteses sobre as portas que o mercado já oferece. Tudo isso é diferente da ideia de se apresentar um canivete suíço, como um elemento curinga, que uma startup de fato é.
 
-## Multi facetas e aprendizado lean
+### Multi facetas e aprendizado lean
 
 Essa dualidade, entre o que a startup é e algumas hipóteses mais ousadas, sobre o que poderia ser, pode representar um problema porque empreendedores ficam tentados em expor o que de fato é, o lado genérico. Esta exposição não só pode causar impacto negativo e direto na validação sobre hipóteses em curto prazo mas acima de tudo cria um escuto que pode impedir o aprendizado ou a descoberta de grandes oportunidades já que grandes ideias podem surgir porque usuários ou consumidores são colocados para interagir diante de ideias mais ousadas. Temos que lembrar que uma proposição mais ousada não precisa ser exatamente seu produto – mas pode sim lhe dar informações valiosas uma vez que você coloca estas proposições na frente das pessoas.
 
@@ -32,7 +32,7 @@ Os testes das hipóteses isoladas, mesmo que vinculadas com a marca da startup, 
 
 Para pensarmos em hipóteses isoladas temos que pensar com a ótica do MVP.  MVPs não devem ser feitos como uma versão menor de um produto maior, que existirá no amanhã. Mas devem ser versões completa que testam hipóteses, parte de um conjunto de hipóteses maiores das quais a startup ainda não sabe qual delas fará parte do produto/serviço.
 
-## Conclusão
+### Conclusão
 
 Todos queremos mobilizar engajamento, de usuários ou possíveis consumidores, e todos nós, empreendedores, buscamos uma validação sobre as hipóteses ou as teorizações que estão em aberto nas nossas startups.
 
