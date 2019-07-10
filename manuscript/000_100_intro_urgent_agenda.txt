@@ -1,10 +1,6 @@
 # Introdução
 
-## Desacelerar é contra-intuitivo 
-
 A ideia de desacelerar não normalmente bem vinda em nenhum sistema onde pessoas colaboram. Até mesmo os desenvolvedores de aplicativos de meditação precisam entregar seus trabalhos diante de uma agenda que é normalmente urgente.
-
-## como a agenda urgente do mundo externo muda nosso referencial
 
 A urgência, ou urgências, do mundo, tornam-se fatores que influenciam nossa velocidade, nossos hábitos; mesmo que não tínhamos a ideia de acelerar em primeiro lugar. Estamos mais urgentes porque o mundo se tornou mais rapido mas ninguém nos avisou porque não temos mais  tempo para estabelecermos pontos de referência.
 
