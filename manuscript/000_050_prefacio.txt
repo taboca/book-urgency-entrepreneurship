@@ -1,6 +1,6 @@
 # Prefácio
 
-Em 10 de Novembro de 1876 o imperador do Brasil Dom Pedro 1o ativou o gigante motor Corliss, durante a inauguração da exposição do centenário da independência dos Estados Unidos, na Pensilvânia, Filadélfia. Aquele motor, intitulado *Corliss Centennial Engine*, era um motor especialmente projetado para manter toda a estrutura da posição que tinha mais de 200 prédios espalhados pelos 5 km de extensão da exposição.
+Em 10 de Novembro de 1876 o imperador do Brasil Dom Pedro II ativou o gigante motor Corliss, durante a inauguração da exposição do centenário da independência dos Estados Unidos, na Pensilvânia, Filadélfia. O motor, intitulado *Corliss Centennial Engine*, tornou-se o ícone da exposição. Com 14 metros de altura e potência de 1400 hp, foi resposável por manter toda a estrutura da posição que tinha mais de 200 prédios espalhados pelos 5 km de extensão da exposição.
 
 ![Motor Corliss  engine](images/100/CentennialEngine.png)
 
