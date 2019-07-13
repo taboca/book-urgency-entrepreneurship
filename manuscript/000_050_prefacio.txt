@@ -1,8 +1,11 @@
 # Prefácio
 
-Em 1876 o imperador do Brasil Dom Pedro 1o ativou o gigante motor Corliss, durante a inauguração da exposição do centenário da independência dos Estados Unidos, na Pensilvânia, Filadélfia. O Corliss (nome do motor aqui) era o maior motor a vapor do mundo, com XX (checar) metros de altura e responsável por gerar a energia dos mais de 200 prédios espalhados nos 30 alqueires (checar dados) da exposição.
+Em 10 de Novembro de 1876 o imperador do Brasil Dom Pedro 1o ativou o gigante motor Corliss, durante a inauguração da exposição do centenário da independência dos Estados Unidos, na Pensilvânia, Filadélfia. O Corliss (nome do motor aqui) era o maior motor a vapor do mundo, com XX (checar) metros de altura e responsável por gerar a energia dos mais de 200 prédios espalhados nos 30 alqueires (checar dados) da exposição.
 
-De acordo com o historiador Maury Klein (referência), a exposição trazia todas as maravilhas modernas da mecanização (no meio da revolução industrial): retroescavadeiras, tornos, serras, empilhadeiras, motores a vapor, bombas, etc (pegar a lista completa do artigo que o Márcio fez).
+![Motor Corliss  engine](images/100/CentennialEngine.png)
+
+De acordo com o historiador Maury Klein (referência), a exposição trazia todas as maravilhas modernas da mecanização da revolução industrial: máquinas que preparavam os moldes para as máquinas de impressão, máquinas de costura, dispositivos de telégrafo, locomotivas, serras automáticas, prensa de correias, guinchos,  balanças, escavadeiras, máquinas de perfurar, moínhos de cana gigantes, prensa de algodão, máquias de triturar pedras, perfuradoras com diamante, cortadoras de pedras, ferramentas diversas, equipamentos para agricultura, carruagens, máquinas de construir telhas e tijolos,
+máquinas de encadernação, máquinas de fazer papel, papelão, máquinas de fazer fios, cabos, parafusos, rodas de carros, rodas de trem, e muito mais. Máquinas.
 
 Estes elementos, frutos do trabalho e colaboração humana, muitos na época materializados como soluções mecânicas, estavam no epicentro de uma mudança mundial que mudou a ordem econômica mundial, acelerando destruição de modelos econômicos anteriores, e lançando novas plataformas de trabalho e sistemas econômicos que criaram as condições para futuras revoluções (revisar) - sem mencionar que esses elementos estavam no meio do palco de uma história paralela mas não isolada envolvendo fim da escravidão.
 
