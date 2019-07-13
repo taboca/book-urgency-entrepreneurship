@@ -1,6 +1,6 @@
 # Prefácio
 
-Em 10 de Novembro de 1876 o imperador do Brasil Dom Pedro 1o ativou o gigante motor Corliss, durante a inauguração da exposição do centenário da independência dos Estados Unidos, na Pensilvânia, Filadélfia. Aquele Corliss era o maior motor a vapor do mundo, responsável por manter a energia dos mais de 200 prédios espalhados pelos 5 km de extensão da exposição.
+Em 10 de Novembro de 1876 o imperador do Brasil Dom Pedro 1o ativou o gigante motor Corliss, durante a inauguração da exposição do centenário da independência dos Estados Unidos, na Pensilvânia, Filadélfia. Aquele motor, intitulado *Corliss Centennial Engine*, era um motor especialmente projetado para manter toda a estrutura da posição que tinha mais de 200 prédios espalhados pelos 5 km de extensão da exposição.
 
 ![Motor Corliss  engine](images/100/CentennialEngine.png)
 
