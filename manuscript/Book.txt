@@ -1,5 +1,8 @@
 
 #010_intro.txt
+
+000_050_prefacio.txt
+
 000_100_intro_urgent_agenda.txt
 
 030_part1.txt
@@ -16,7 +19,7 @@
 
 100_part2.txt
 
-105_reactionary_execution.txt 
+105_reactionary_execution.txt
 
 110_get_out_of_the_show.txt
 
