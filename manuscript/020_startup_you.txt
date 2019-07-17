@@ -6,9 +6,9 @@ Em teoria isso também é uma síndrome no mundo do empreendedorismo já que emp
 
 A ideia desse trabalho não é falar do caso dos sortudos. Por outro lado, aqui vamos compilar lições do mundo do empreendedorismo, das startups; mas dos empreendedores que descobriram que justamente suas ações dependem da realidade, do mundo, do mercado. Esses que descobriram foram aqueles passaram a ver o papel do empreendedor como um papel que deve responder ao mundo. São aqueles que encontraram mais rápido o lado disciplinado, de rigor, um sistema de gestão que é priorizado pelo mundo, pelo ambiente externo.
 
-Essa ideia de contato com o mundo, estabelecendo uma regra do jogo, é muito bem articulada na colocação de Steve Blank que diz que Nenhum Plano de Negócios Sobrevive o Primeiro Contato com o Cliente.
+Essa ideia de contato com o mundo, estabelecendo uma regra do jogo, é muito bem articulada na colocação de Steve Blank que diz que Nenhum Plano de Negócios Sobrevive o Primeiro Contato com o Cliente[^stevebusinessplan].
 
-https://steveblank.com/2010/11/01/no-business-plan-survives-first-contact-with-a-customer-%E2%80%93-the-5-2-billion-dollar-mistake/
+[^stevebusinessplan]: O artigo do Steve Blank em inglês https://steveblank.com/2010/11/01/no-business-plan-survives-first-contact-with-a-customer-%E2%80%93-the-5-2-billion-dollar-mistake/
 
 Talvez possamos articular que Nenhum Protótipo de Pessoa Sobrevive o Primeiro Contato com a Vida, sem Aprender. A situação acima é um problema e um desafio, para startups. Na versão pessoal é normalmente um problema, já que no pessoal não necessariamente se vê como empreendedorismo ou com um rigor tão rígido até porque o mundo é muito mais dinâmico que um ou outro mercado.
 
