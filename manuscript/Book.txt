@@ -5,6 +5,8 @@
 
 000_100_intro_urgent_agenda.txt
 
+########################################### part 1
+
 030_part1.txt
 
 020_startup_you.txt
@@ -13,9 +15,13 @@
 
 070_wantrepreneur_learner.txt
 
+075_hora_h.txt
+
 080_ideas_emotions.txt
 
 090_irreducible_collaborator.txt
+
+########################################### part 2
 
 100_part2.txt
 
@@ -26,6 +32,9 @@
 150_managing_future_eye_present.txt
 
 170_first_to_friends_no.txt
+
+
+########################################### part 3
 
 200_part3.txt
 
