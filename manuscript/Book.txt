@@ -21,6 +21,8 @@
 
 080_ideas_emotions.txt
 
+085_valley_difficulties.txt 
+
 090_irreducible_collaborator.txt
 
 ########################################### part 2
