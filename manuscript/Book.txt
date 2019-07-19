@@ -7,8 +7,6 @@
 
 000_100_intro_urgent_agenda.txt
 
-000_150_art_and_urgency.txt
-
 ########################################### part 1
 
 030_part1.txt
@@ -24,6 +22,8 @@
 080_ideas_emotions.txt
 
 085_valley_difficulties.txt
+
+100_150_art_and_urgency.txt
 
 090_irreducible_collaborator.txt
 
