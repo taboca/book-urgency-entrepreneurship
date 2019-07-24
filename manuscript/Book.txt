@@ -13,7 +13,7 @@
 
 100_010_startup_you.txt
 
-050_rainbow_grayscale.txt
+100_020_rainbow_grayscale.txt
 
 070_wantrepreneur_learner.txt
 
