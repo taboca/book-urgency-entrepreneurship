@@ -11,7 +11,7 @@
 
 030_part1.txt
 
-020_startup_you.txt
+100_010_startup_you.txt
 
 050_rainbow_grayscale.txt
 
