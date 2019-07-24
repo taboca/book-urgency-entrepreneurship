@@ -46,6 +46,8 @@
 
 200_part3.txt
 
+210_invisible_contracts_and_our_roles.txt
+
 250_sistema_nao_permite.txt
 
 270_contracts_plus.txt
