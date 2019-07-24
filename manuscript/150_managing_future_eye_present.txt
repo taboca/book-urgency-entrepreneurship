@@ -1,9 +1,9 @@
-## Gestão no Futuro, de Olho no Presente — Como Planejar Quando o Terreno é Incerto
+## Gestão no futuro de olho no presente — como planejar quando o terreno é incerto
 
 Muito se fala sobre a execução — o melhor empreendedor é aquele que executa, que tem a mente no presente. Talvez essa ideia pode ser genericamente expressada quando dizemos “pés no chão”.  Do outro lado temos sonhos, visão, missão, essas coisas. Com isso podemos formar dois eixos:
 
-X - execução
-Y - ideias
+* X - execução
+* Y - ideias
 
 Em geral, dizem que esse mapa sem balanço não gera frutos. Paul Graham tem um artigo que fala sobre esses vetores desalinhados [Paul Graham]. Em outras palavras, que ideias não valem sem uma boa execução. Isso é verdade. Mas entre execução e ideias existe o planejamento. Quando execução existe mas não existe planejamento daí a execução fica dominada pelo fazejamento [Fabricio Morini].
 

@@ -54,9 +54,9 @@
 
 300_role_models_design_empatia.txt
 
-400_lean_storytelling.txt
+#400_lean_storytelling.txt
 
-470_cultura_produtividade.txt
+#470_cultura_produtividade.txt
 
 480_fear_and_entrepreneurship.txt
 
