@@ -19,6 +19,8 @@
 
 075_hora_h.txt
 
+100_400_execution_urgency_neglecting_redesign.txt
+
 080_ideas_emotions.txt
 
 085_valley_difficulties.txt
