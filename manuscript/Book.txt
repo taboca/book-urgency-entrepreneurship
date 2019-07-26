@@ -46,7 +46,7 @@
 
 170_first_to_friends_no.txt
 
-### part 3
+### part 3 #####################################################################
 
 200_part3.txt
 
@@ -57,6 +57,8 @@
 270_contracts_plus.txt
 
 300_role_models_design_empatia.txt
+
+300_300_team_dynamics_self_esteem.txt
 
 #400_lean_storytelling.txt
 
