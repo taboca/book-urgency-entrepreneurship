@@ -62,6 +62,8 @@
 
 300_300_team_dynamics_self_esteem.txt
 
+300_400_managing_certainty_gap.txt
+
 #400_lean_storytelling.txt
 
 #470_cultura_produtividade.txt
