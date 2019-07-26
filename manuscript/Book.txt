@@ -5,7 +5,7 @@
 
 000_050_prefacio.txt
 
-################################## introduction 
+################################## introduction
 ## https://drive.google.com/drive/u/0/folders/1xCbA6yTioJRq6iljnSBlcgYqPTbNRj3h
 ## https://bitbucket.org/taboca/book-empreendedor-urgente/src/master/manuscript/000_100_intro_urgent_agenda.txt
 000_100_intro_urgent_agenda.txt
@@ -38,7 +38,7 @@
 
 105_reactionary_execution.txt
 
-110_get_out_of_the_show.txt
+200_200_success_as_a_service.txt
 
 130_stop_impressing_or_being_impressed.txt
 
