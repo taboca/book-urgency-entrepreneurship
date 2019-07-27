@@ -3,8 +3,6 @@
 
 000_050_prefacio.txt
 
-000_100_intro_urgent_agenda.txt
-
 ################################## introduction
 ## https://drive.google.com/drive/u/0/folders/1xCbA6yTioJRq6iljnSBlcgYqPTbNRj3h
 ## https://bitbucket.org/taboca/book-empreendedor-urgente/src/master/manuscript/000_100_intro_urgent_agenda.txt
