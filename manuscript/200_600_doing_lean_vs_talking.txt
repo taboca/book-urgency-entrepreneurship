@@ -78,11 +78,7 @@ Most interesting companies come from domain expertise, like Facebook - 9 / 10000
 O fenômeno do "fazer lean" é complexo pois é muito confortável tentar passar em um filtro de alucinação: ir para o próximo passo. Talvez seja aquela força gravitacional que empurra o empreendedor para a vontade de fazer a coisa dar certo.
 O dilema é que essa força é justamente a força motivadora. Então, pode ser articulado que ela não é um problema, inicialmente, que é a motivação. Mas, pode-se tornar um problema grave.
 
-Qual é sua história do "falando que faz Lean" vs "fazendo de fato o lean"?
 
-Estamos procurando episódios, passagens, do dia a dia, dessas coisas críticas — as situações onde empreendedores dizem que fazem processos, ou que estão procurando um apoio argumentando o processo, mas de fato fica uma tensão, uma suspeita, que tem algo de errado no seu pequeno reino.
-
-[Motivação] Falar que faz lean versus fazer lean
 
 * Steve Blank featured at Doing lean versus talking about lean
 
@@ -90,8 +86,11 @@ Empreendedor — Precisamos pivotar, precisamos pivotar, precisamos pivotar!
 Steve — Um dado isolado não é suficiente;
 Steve — Fundadores namoram o processo;
 Regra das 72h de Steve — o fundador tem que ficar calado por 72h depois que volta das ruas.
-[Caso] A vontade da landing page
+
+### [Caso] A vontade da landing page
+
 Rafa me contou uma história: "[Daniel] Ah cara, a gente precisa entrevistar gente, to sem ideia. Vamos lançar uma landing page mesmo e fazer um ad? [Tobias] Não, vamos fazer uma lista com o máximo número de pessoas que temos e vamos ligar um por um tentando marcar entrevista".
+
 [Desafio] Defensiva
 Situação — em uma start-up. O designer contratou duas designers, e pediu para fazer teste de usabilidade. Quando ela mostrou resultado, ela sentiu que ele se sentiu ofendido e recebeu como uma crítica. Caso: é recomendável que o designer não faça o teste de usabilidade porque ele pode reagir na defensiva.
 
@@ -113,7 +112,8 @@ A ideia do processo todo é de encontrar aprendizado.
 
 Uma questão colocada, neste sentido, foi a questão do tempo e pressão. Ou seja, existem condições onde os especialistas estão com uma agenda fazendo pressão. E nesta situação, comentamos que é sempre o melhor que existam dois eixos. Um eixo de aprendizado e um eixo de execução. E faz parte do desenvolvimento lean, orientado ao aprendizado, a situação de aprender, anotar, crescer; e as vezes entregar outra coisa mas sem esconder o aprendizado, ou seja, permitindo uma opção para versões futuras e mantendo o investimento do aprendizado como pauta viva.
 
-Opções divergentes diante do aprendizado vs consenso
+### Opções divergentes diante do aprendizado vs consenso
+
 
 No mundo onde vários colaboradores estão executando suas ações debaixo de grande pressão (por exemplo resultante de indicadores chave, agenda, metas e ainda levando em consideração as agendas e tendências específicas das especialidades dos colaboradores) acontece que as vezes grupos se encontram diante de opções divergentes.
 
@@ -151,20 +151,6 @@ Marcio correlacionou que no linguajar de VC partners, do vale, esses projetos as
 Outro ponto de vista, que Marcio viu em algum lugar, é que a articulação pode ser "se a penalidade por errar é muito cara então é um projeto que aprendem com ciclos menos rápidos"
 
 A questão do mercado — Marcio aponta que o mercado (usuários) pode ter uma relação direta com este aprendizado, ou seja, se os usuários estão sendo assediados com várias opções, que mudam a todo momento, opções competidoras de algo que você pensou, então provavelmente você deverá estar aprendendo rápido também. O exemplo colocado pelo Marcio foi o viajar para a lua, que não tem muitas novas opções no mercado.
-
-### Strategic dissonance by Andy Grove - related to big companies going through a strategic inflection point
-
-Relates to the notion at Only the Paranoid Survive. The notion of strategic dissonance is presented by Andy Grove and relates, p.128 according to Andy to a  "divergence between actions and statements". It happens when companies going through strategic inflection points begins to respond but the commitment is blurred, the magnitude of the problem is not acknowledged.
-
-> "I have seen many companies fall into the trap of saying one thing and doing another while they are in the middle of coping with a strategic Inflection point. " Andy Groove, p.128.
-
-According to Andy Groove, it is inevitable because people fall in the trap of their prior success.
-
-#### The data is around and you don't even know it
-
-On detection, for the notion of strategic dissonance as presented by Andy Grove, employees can help, specially the ones that are "wise to their world and their environment". To detect is a subtle thing, it may come like, according to Andy, in situations such as when a leading team speaks — they are answering questions about strategy, and these vital employees would throw follow up questions such as "but what about... " or "does it mean... "
-
-They are working on, sharp probing for true intentions. But then the problem is to detect, and is the role of leaders, to triage, to know. Is this just a communication problem or is this a strategic dissonance between the reality and what's being said? Is it possible to tell that there is dissonance between what is being said and what is being done? If people feel that, your company may well be living the problem.
 
 ### Outras referências
 
