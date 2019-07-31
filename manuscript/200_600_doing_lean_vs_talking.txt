@@ -1,4 +1,4 @@
-## Fazendo o Lean versus falando que se faz Lean
+## O viés da agilidade dos processos ágeis — fazer lean versus dizer que faz lean
 
 O estilo Lean, o estilo que influencia o processo de trabalho das startups, está em todo lugar, no ecossistema do empreendedorismo. Mas Lean não nasceu do mundo das startups - o modo Lean de operar nasceu do mundo das grandes empresas, simplesmente decorre da competição e pressão por inovação. Lean é mais interação e aprendizado, Lean quer inovação como processo ou metodologia. Essa abordagem vai de fato na contramão da abordagem anterior, que envolvia planejar muito anteriormente e depois executar.
 
