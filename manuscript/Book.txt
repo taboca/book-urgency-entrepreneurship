@@ -46,6 +46,8 @@
 
 200_500_urgent_vs_important.txt
 
+200_600_doing_lean_vs_talking.txt
+
 ### part 3 #####################################################################
 
 200_part3.txt
