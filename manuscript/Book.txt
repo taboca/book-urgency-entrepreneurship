@@ -50,7 +50,7 @@
 
 200_500_urgent_vs_important.txt
 
-200_600_doing_lean_vs_talking.txt
+200/600/100_doing_lean_vs_talking.txt
 200/600/200_falando_que_faz_lean_vs_fazer.txt
 200/600/400_doing_lean_vs_talking_about_lean-en-us.txt
 200/600/300_strategic_dissonance_en-us.txt
