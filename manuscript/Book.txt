@@ -32,7 +32,9 @@
 
 100_800_less_is_more.txt
 
-### part 2
+100/900_personal_board-en-us.txt
+
+### part 2 ##################################################
 
 100_part2.txt
 
