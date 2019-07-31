@@ -87,7 +87,17 @@ Foi comentado sobre questões que pessoas tem preferências, relacionado com bia
 
 * A questão do mercado — Marcio aponta que o mercado (usuários) pode ter uma relação direta com este aprendizado, ou seja, se os usuários estão sendo assediados com várias opções, que mudam a todo momento, opções competidoras de algo que você pensou, então provavelmente você deverá estar aprendendo rápido também. O exemplo colocado pelo Marcio foi o viajar para a lua, que não tem muitas novas opções no mercado.
 
-### Outras referências
+### x-ray / colaboradores
+
+* No evento do Marcio, participaram as pessoas que estão [nesta página do Meetup](https://www.meetup.com/pt-BR/Slides-Ideias-e-Chat-no-Pub/events/247685868/).
+
+* [Daniel Vitaliano dos Santos](https://www.meetup.com/pt-BR/Slides-Ideias-e-Chat-no-Pub/members/204122429/profile/)
+* [Matheus Botura Pimenta](https://www.meetup.com/pt-BR/Slides-Ideias-e-Chat-no-Pub/members/243596609/profile/)
+* [Rafael Ferreira](https://www.meetup.com/pt-BR/Slides-Ideias-e-Chat-no-Pub/members/202485177/profile/)
+* Jacqueline Pereira
+* Fabricio Campos Zuardi
+
+### x-ray / referências internas 
 
 * [More openness to the startup validation process – Marcio Galli – Medium](https://medium.com/@taboca/allowing-transparency-in-the-startup-validation-process-22cdcf3bb4b1)
 
