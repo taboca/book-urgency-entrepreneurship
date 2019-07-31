@@ -1,0 +1,98 @@
+## Falando que Faz Lean Versus Fazendo Lean
+
+### Falando que Faz Lean vs Fazer Lean
+
+Semana que vem é "Falar que Faz Lean Versus Fazer Lean" que quer abordar os fenômenos tipo falsidades ou não verdades ou procrastinação.. quando mentimos para nós mesmos, por exemplo.
+
+O fenômeno do Fazer Lean é complexo pois é muito confortável tentar passar em um filtro de alucinação: Ir para o próximo passo. Talvez seja aquela força gravitacional que nos empurra para a vontade de fazer dar certo. Talvez não seja um problema, inicialmente, até uma motivação, mas pode tornar um problema grave.
+
+### Qual é sua história do "Falando que fiz Lean" vs "Fazendo de fato Lean"?
+
+Estamos procurando episódios, passagens, do dia a dia, dessas coisas críticas — as situações onde empreendedores dizem que fazem processos, ou que estão procurando um apoio argumentando o processo, mas de fato fica uma tensão, uma suspeita, que tem algo de errado no seu pequeno reino...
+
+### [Motivação] Falar que faz lean versus Fazer Lean
+
+[Steve Blank featured at Doing lean versus talking about lean](https://medium.com/founder-staging/72-hour-rule-for-founders-keep-your-mouth-shut-before-announcing-the-word-pivot-feat-bc3cf74b7815)
+
+* Empreendedor — Precisamos pivotar, precisamos pivotar, precisamos pivotar!
+* Steve — Um dado isolado não é suficiente;
+* Steve — Fundadores namoram o processo;
+* Regra das 72h de Steve — o fundador tem que ficar calado por 72h depois que volta das ruas.
+
+### [Caso] A vontade da landing page
+
+Rafa me contou uma história: "[Daniel] Ah cara, a gente precisa entrevistar gente, to sem ideia. Vamos lançar uma landing page mesmo e fazer um ad? [Tobias] Não, vamos fazer uma lista com o máximo número de pessoas que temos e vamos ligar um por um tentando marcar entrevista".
+
+### [Desafio] Defensiva
+
+* Situação — em uma start-up. O designer contratou duas designers, e pediu para fazer teste de usabilidade. Quando ela mostrou resultado, ela sentiu que ele se sentiu ofendido e recebeu como uma crítica. Caso: é recomendável que o designer não faça o teste de usabilidade porque ele pode reagir na defensiva.
+
+* Steve — a primeira reação de um grande fundador é pensar que "eles simplesmente não entendem a ideia". Mas lá na frente, cai a ficha e o founder pensa "ah, talvez eles estão tentando me dizer algo". [Steve Blank, 2014, MAP Unimelb 26m49s](https://youtu.be/UFx2CQUTpYo?t=26m49s)
+
+* Referências - [Should Designers and Developers Do Usability?](Should Designers and Developers Do Usability?)
+
+### [Caso] Caso do designer contratou UX experience designers para testes de usabilidade mas não gostou dos resultados
+
+* Um designer-chefe era seu superior e contratou ela e outra designer para fazer teste de usabilidade. Elas fizeram o trabalho mas quando apresentaram para ele a reação foi uma surpresa pois os resultados não agradaram.
+
+* A situação, para ela, foi de certa forma uma surpresa porque afinal de contas elas tinham sido contratadas para o serviço.
+
+* Uma hipótese é que ele estava com medo, por exemplo diante do que ele achou que era esperado da sua posição — por exemplo medo do seu trabalho ser julgado e sua posição ser colocada em risco. Esta situação, caso fosse uma realidade, relaciona-se com cultura da empresa e também com a comunicação das iniciativas já que o designer-chefe poderia ter trabalhado com seus superiores para que estivesse tudo bem em encontrar erros.
+
+* A ideia do processo todo é de encontrar aprendizado.
+
+* Uma questão colocada, neste sentido, foi a questão do tempo e pressão. Ou seja, existem condições onde os especialistas estão com uma agenda fazendo pressão. E nesta situação, comentamos que é sempre o melhor que existam dois eixos. Um eixo de aprendizado e um eixo de execução. E faz parte do desenvolvimento lean, orientado ao aprendizado, a situação de aprender, anotar, crescer; e as vezes entregar outra coisa mas sem esconder o aprendizado, ou seja, permitindo uma opção para versões futuras e mantendo o investimento do aprendizado como pauta viva.
+
+### Opções divergentes diante do aprendizado vs consenso
+
+No mundo onde vários colaboradores estão executando suas ações debaixo de grande pressão (por exemplo resultante de indicadores chave, agenda, metas e ainda levando em consideração as agendas e tendências específicas das especialidades dos colaboradores) acontece que as vezes grupos se encontram diante de opções divergentes.
+
+
+* Marcio colocou a história que ele viveu quando fez um contrato para o projeto SongBird, da Califórnia. O pessoal do Songbird contratou ele para fazer um tema de design para o aplicativo de música. O Marcio tentou seguir algumas especificações mas no final do dia acabou fazendo um sistema para criar vários temas coloridos. No final do mês o SongBirg novo foi lançado com um outro tema, não o do Márcio; foi quando o Márcio descobriu que haviam dois contratos sendo executados em paralelo.
+
+* Fabrício indicou sobre a situação onde pode-se optar por caminhos A ou B, mas ao mesmo tempo existe o problema da falta de tempo ou de recursos limitados.
+
+* Marcio apontou o caso do Andy Groove em High Output Management, que aponta que reuniões devem procurar permitir que as melhores ideias possam surgir, ou seja, não é importante que exista um consenso na questão das ideias, mas sim na parte da decisão para execução. Um time deve procurar melhores ideias, e mesmo que uma pessoa seja favorecida, o outro (ideia oposta) deve estar colaborando depois da decisão do todo. Essa ideia em geral deve ser algo comprado (buy-in) pelos colaboradores antes dos processos criativos, ou seja, preparando eles para a situação de aprendizado e para a posterior execução.
+
+
+### O fenômeno das preferências pode influenciar o protagonista no caminho para o conhecimento
+
+Foi comentado sobre questões que pessoas tem preferências, relacionado com biases, tanto nos individuais como nos times. Por exemplo, times precisam realizar suas metas ou individuais precisam executar seus trabalhos diante de objetivos esperados. E isso pode ser um conflito com a situação de aprendizado dos processos lean.
+
+* Fabrício aponta que trabalhou com poucos designers mas pelo que entendem designers tem preferêcias ou gostos, o que cria uma certa rigidêz no trabalho, principalmente quando existe aprendizado colateral, ou lateral, durante a execução.
+
+* Perguntamos para a designer se ela percebe este tipo de coisa nela, ela comentou que reconhece isso mas que ela nunca se viu como uma designer de fato, por exemplo no sentido de preferência por estilo (tipo arte) indicando que ela tem menos objeções e está mais disposta a aprender. Talvez isso explica ela ter pivotado para UX designer.
+
+* Jacqueline colocou que de fato o designer, ou o papel do designer, é cuidar da visão mais abrangente do processo (holistic design experience) tipo o antes, durante, depois e não focar em tentar fazer uma ou outra coisa perfeita (em uma visão de preferência).
+
+* Também alguém falou de inteligência coletiva, que a coleção de dados é maior e mais relevante do que preferências individuais.
+
+* Scott Belsky em Making Idea Happen deixa a dica sobre a prática da tolerância que permite injustiças temporárias. “The best practice here is to develop a tolerance for momentary injustice an periods of ambiguity. Stay strong and stay calm as a situation settles itself over time and the clouds around any period of change start to dissipate. “ (Scott Belsky, 2010, Making Ideas Happen)
+
+* Marcio lembrou do caso do vídeo da Mozilla onde o Aza Raskin discutiu com o John Lilly - o Aza um designer (Firefox head na época) falou que a solução do problema da enchada era o buraco. O John (CEO) falou que as pessoas aprendem quando usam as ferramentas.
+
+### [Desafio/pergunta] Mas trazer mais gente para o processo ajuda?
+
+* Daniel trouxe a dúvida/insight sobre trazer mais gente para o processo.
+
+* Marcio lembrou deste artigo – [Deliver Products People Love…Without Guessing, Part 2: Shared Understanding](https://medium.com/swlh/deliver-products-people-love-without-guessing-part-2-shared-understanding-5b512c3e6960)
+
+### [Desafio / fenômeno] Sobre os projetos que não aceitam aprendizado iteração rápido
+
+* Fabricio comentou do caso dos jogos, ou filmes, que não permitem ainda um aprendizado rápido e ainda são meio que lançados como um míssil - bum.
+
+* Marcio correlacionou que no linguajar de VC partners, do vale, esses projetos as vezes são referidos como Science Projects. http://www.fastclip.net/Taboca/bn5or#9n5f8
+
+* Outro ponto de vista, que Marcio viu em algum lugar, é que a articulação pode ser "se a penalidade por errar é muito cara então é um projeto que aprendem com ciclos menos rápidos"
+
+* A questão do mercado — Marcio aponta que o mercado (usuários) pode ter uma relação direta com este aprendizado, ou seja, se os usuários estão sendo assediados com várias opções, que mudam a todo momento, opções competidoras de algo que você pensou, então provavelmente você deverá estar aprendendo rápido também. O exemplo colocado pelo Marcio foi o viajar para a lua, que não tem muitas novas opções no mercado.
+
+### Outras referências
+
+* [More openness to the startup validation process – Marcio Galli – Medium](https://medium.com/@taboca/allowing-transparency-in-the-startup-validation-process-22cdcf3bb4b1)
+
+* [Get out of the building to get out of your head – Founder Staging – Medium](https://medium.com/founder-staging/get-out-of-the-building-to-get-out-of-your-head-2e1127f48126)
+
+* [The 9 Biggest Challenges for Corporates to implement Lean Startup](https://www.boardofinnovation.com/blog/2017/04/24/9-biggest-challenges-corporates-implement-lean-startup/)
+
+* [Deliver Products People Love…Without Guessing, Part 2: Shared Understanding](https://medium.com/swlh/deliver-products-people-love-without-guessing-part-2-shared-understanding-5b512c3e6960)
