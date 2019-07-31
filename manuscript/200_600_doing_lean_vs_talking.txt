@@ -1,16 +1,22 @@
 ## O viés da agilidade dos processos ágeis — fazer lean versus dizer que faz lean
 
+### (Sobre o que é lean, em todas as áreas, não só empreendedorismo)
+
 O estilo Lean, o estilo que influencia o processo de trabalho das startups, está em todo lugar, no ecossistema do empreendedorismo. Mas Lean não nasceu do mundo das startups - o modo Lean de operar nasceu do mundo das grandes empresas, simplesmente decorre da competição e pressão por inovação. Lean é mais interação e aprendizado, Lean quer inovação como processo ou metodologia. Essa abordagem vai de fato na contramão da abordagem anterior, que envolvia planejar muito anteriormente e depois executar.
 
 Lean entrou em tudo. No mundo do software, da programação, é chamado Agile, ou o processo ágil de desenvolvimento. No mundo do design, design thinking. No mundo da manufatura, six sigma, e tambem muito forte no mundo do empreendedorismo.
+
+### Lean para empreendedores — protagonizado por Steve, Eric e Alexander
 
 Para empreendedores, podemos dizer movimento Lean (Lean movement), que foi protagonizado por Steve Blank (customer development) Eric Ries (lean startup) e Alexander Ostwalder (business model canvas). Então hoje empreendedores simplesmente podem dizer *Lean* quando estão pensando em fazer no modo ágil, mais interativo. Lean permite começar como um processo.
 
 Um exemplo de uma de várias ferramentas Lean, disponíveis aos empreendedores, é o business model canvas, que rebate a abordagem do antigo plano de negócios. O Canvas não é equivalente, mas permite que empreendedores possam desenvolver seus modelos de negócios de uma forma mais interativa.
 
+### O mal uso na onda
+
 Assim, essa é a onda. Porém, com toda onda tem-se o mal uso, ou, dentro do ponto de vista deste livro, o uso urgente. O viés do Lean justamente deriva da intenção por atingir os resultados, quando o empreendedor, ou cofundadores, debaixo de pressão, deixam o próprio processo de lado, ou ainda fazem o processo, batendo alguns pontos. Tecnicamente eles se enquadram em estarem fazendo o processo nas fundamentalmente ignoram o que o próprio processo diz.
 
-### sobre o Canvas
+#### Exemplo de mal uso do canvas
 
 Vamos começar falando do Business Model Canvas, a ferramenta Lean desenvolvida por Alexander Ostwalder que foi concebida para aprendizado e empreendedores usam ela como quem buscar status.
 
@@ -18,23 +24,24 @@ Eu acabei escrevendo "nunca envie um canvas para seu investidor" quando estava d
 
 A processo do Canvas deixa bem claro "xxx" e mais uma coisa, não garante nada. Não tem data, não tem promessa. Assim como qualquer processo lean, a ideia central é o aprendizado não validação. Steve Blank, em customer development (four steps to the Epiphany) deixa bem claro a parte da busca no processo, como um processo que volta ao inicio, é feito para retroceder, como vários outros processos Lean. Mas, de novo e de novo, empreendores querem avançar. O senso de urgência positivo que torna-se um vilão. E nesse sentido vale um ponto fundamental da história toda - que o ato de empreender é ciência e arte que deve ser protagonizado por aquelas pessoas que estão dispostas, que estão preparadas, que tem uma conexão muito grande com a ideia, com o mérito.
 
-### sobre o papel e responsabilidade - mais a frente
+#### Sobre o papel e responsabilidade - mais a frente
+
 Isso porque os que mais estão conectados ao mérito, suas ideias, ambições, visões, tem mais chances de suportar o processo complexo, que não garante. Por não ter data, como por exemplo "vai ter que dar certo no próximo aniversário da empresa", só os apaixonados podem navegar; obviamente apaixonados mas não perdidamente apaixonados já que a ideia nas fases de busca é buscar, aprender, entender as verdades, saber se o produto ou serviço pode ser colocado no mercado, saber se tem como ser feito, saber se as pessoas e o ecossistema do lado irá dar suporte.
 
 Tem uma referência aqui, talvez relacionada com esse perfil de empreendedor correto, que está em map14, quando o entrevistador pergunta ao Steve Blank se empreendedorismo pode ser ensinado.
 
-### olhando um empreendedor no curso de Canvas de uma aceleradora
+#### Empreendedor negou alterar seu canvas pois ganhou um prêmio regional, no processo de pseudo-aceleração
 
 ### olhando customer development Como um processo sem fim
 
 
-### segundo, Steve Blank, tem um fenómeno, ou uma síndrome
+### Segundo Steve Blank é fenómeno, uma síndrome
 
 O entrevistador do map14 perguntou, se fazer Lean versus falar que faz Lean é uma situação crítica? Steve confirmou, que empreendedores frequentemente entram no processo Lean
 
-Regra das 72 horas
+#### A regra das 72 horas
 
-### pressão seletiva
+### Pressão seletiva
 
 Talvez empreendedores estejam aplicando todos os processos, um em cima do outro, de forma generalizada e mal organizada.
 
@@ -58,13 +65,13 @@ If you try to go to the White board and go like" let's find a startup" it won't 
 
 Most interesting companies come from domain expertise, like Facebook - 9 / 10000 hours / Mark Zuckerberg was just an expert in the specific Brothers market relationship.
 
-### olhar
+### Ainda, olhar
 
 * Fim do lean
 * Lean das empresas grandes
 * Sombras do Lean - Spotify, Airbnb, etc.
 
-## Falando que Faz Lean vs Fazer Lean
+## Falando que faz Lean vs fazer Lean
 
 (http://www.fastclip.net/Taboca/b8fln)
 
@@ -91,8 +98,11 @@ Situação — em uma start-up. O designer contratou duas designers, e pediu par
 Steve — a primeira reação de um grande fundador é pensar que "eles simplesmente não entendem a ideia". Mas lá na frente, cai a ficha e o founder pensa "ah, talvez eles estão tentando me dizer algo". Steve Blank, 2014, MAP Unimelb 26m49s
 
 Referências
+
 Should Designers and Developers Do Usability?
-[Caso] Caso do designer contratou UX experience designers para testes de usabilidade mas não gostou dos resultados
+
+### [Caso] Caso do designer contratou UX experience designers para testes de usabilidade mas não gostou dos resultados
+
 Um designer-chefe era seu superior e contratou ela e outra designer para fazer teste de usabilidade. Elas fizeram o trabalho mas quando apresentaram para ele a reação foi uma surpresa pois os resultados não agradaram.
 
 A situação, para ela, foi de certa forma uma surpresa porque afinal de contas elas tinham sido contratadas para o serviço.
@@ -104,6 +114,7 @@ A ideia do processo todo é de encontrar aprendizado.
 Uma questão colocada, neste sentido, foi a questão do tempo e pressão. Ou seja, existem condições onde os especialistas estão com uma agenda fazendo pressão. E nesta situação, comentamos que é sempre o melhor que existam dois eixos. Um eixo de aprendizado e um eixo de execução. E faz parte do desenvolvimento lean, orientado ao aprendizado, a situação de aprender, anotar, crescer; e as vezes entregar outra coisa mas sem esconder o aprendizado, ou seja, permitindo uma opção para versões futuras e mantendo o investimento do aprendizado como pauta viva.
 
 Opções divergentes diante do aprendizado vs consenso
+
 No mundo onde vários colaboradores estão executando suas ações debaixo de grande pressão (por exemplo resultante de indicadores chave, agenda, metas e ainda levando em consideração as agendas e tendências específicas das especialidades dos colaboradores) acontece que as vezes grupos se encontram diante de opções divergentes.
 
 Marcio colocou a história que ele viveu quando fez um contrato para o projeto SongBird, da Califórnia. O pessoal do Songbird contratou ele para fazer um tema de design para o aplicativo de música. O Marcio tentou seguir algumas especificações mas no final do dia acabou fazendo um sistema para criar vários temas coloridos. No final do mês o SongBirg novo foi lançado com um outro tema, não o do Márcio; foi quando o Márcio descobriu que haviam dois contratos sendo executados em paralelo.
