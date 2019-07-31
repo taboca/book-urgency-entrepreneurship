@@ -1,0 +1,62 @@
+## Como saber se um mentor ou investidor é bom
+
+> "Olhe sobretudo o track record da pessoa, o que já realizou, as empresas de que participou, onde trabalhou, a experiência. Veja também o que pensa, escreve e fala em posts, artigos e eventos. Se conhecer alguém que já se aconselhou com ele, melhor ainda. Procure pelo passado dele, o que já fez, não só o passado moral, mas a experiência efetiva naquilo que você precisa dele, ou seja, como esse mentor pode ser útil na sua questão específica". João Kepler, Smart Money (p.149). "
+
+O investidor, ou mentor, não vai chegar na reunião de apresentação com uma camiseta que diz "Sou um mau investidor". Daí vem a pergunta, já que empreendedores sofrem com a questão da necessidade de status, como qual é o investidor bom para meu negócio? O mesmo pode se aplicar para mentores e colaboradores. Para Marc Andreessen, da A16Z, diz que existem 5 maneiras [1] de saber: referências, referências, referências, referências e referências. Vamos falar sobre esse assunto que demanda tempo e energia já que a responsabilidade está no empreendedor em curar o sistema de apoio ao seu lado. A conversa torna-se importante justamente porque no mundo urgente, na busca por status ou diante da vontade de aparecer ao mundo empreendedores aceleram suas intenções de se relacionar e muitos deles avançam suas ações com parcerias que no final não trabalham a favor do seu negócio, da sua visão.
+
+### Porque o pitch formal é importante para bons investidores?
+
+> “For investors, the formal presentation is yet another test I think the formal presentation is another test . . . As a founder, if you are not good enough at your job as a CEO, to get up and present, to institutional investors, for 60 minutes, and sell them on your thing . . . We love when somebody walks in and has a compelling pitch so we can give them a check . . . that is a successful day for us. In contrast, every other pitch you ever gonna make is going to somebody that is going to be much worse than us … Customers, they are going to be like — no, I am not going to give you any money — like their default position right? Engineers — you going to try to recruit engineers, and they got 20 other job offers, so why does your pitch is going to be much better than the other 20 startups?” Marc Andreessen (Y Combinator, 2016, 11:49)
+
+### A good investor seeks a great people with a great theory
+
+For Chris Douvos, on distinctiveness, it's important to look "for a point of view and strong opinion" because so many of "these people are just chasing the hot deal". The best are proactive in investing, rather than reactive, with strong opinions. Put it in another way, “contrarians are courageous” — https://youtu.be/EGPn1a7D1LA?t=2063
+
+> “What data shows, to an investor, that you are a considerate person who understands how to build products and companies [..] So you can say "well, we have an exercise app, have this many monthly active users [..]" But, I have an exercise app, and we are actually recording [..] how many different exercises people do. What if found is that when people do more than 10 different exercises in our app, they end up having 50% greater chance of becoming of becoming a paid member. " When I say that I distinguish myself from the other fitness apps.."  Jason Calacanis (This Week In Startups, 2017, 23:17)
+
+### The good investor on authenticity
+
+* "You need to understand how people find their authentic self and their authentic behavior footprint." says Chris Douvos (Stanford, 2017, 29:50)
+
+* Takes into consideration that there is n o right venture fund model of success. Chris adds that some venture funds works like basketball teams, others work like tennis teams.
+
+### On Due Diligence as a Two Way Street - Do They Welcome you-the-entrepreneur Asking questions too?
+
+* Due diligence is a two way street — According to Raising Capital’s Key Best Practices affecting capital formation in the New Millennium (2012), due diligence is a two way street. "As the sources of capital learn more about you, try to learn more about them. What is their investment track record? How are date structured? Why? What additional value do they bring to the table? How many of their investments have gone public? Talk to founders of one of the companies in which they have invested. Are they happy? Do they have any regrets? What do they do differently? Was follow-up capital available, if needed? " (p. 20)
+
+*  On business due diligence — According to Raising Capital (2012), "in business due diligence, venture investors will be on the lookout for issues that are commonly found in an early stage company. " such as "undervaluation of inventories, overdue tax liabilities, inadequate management information systems, related-party transactions [??], an unhealthy reliance on a few key customers or suppliers, aging accounts receivable, unrecorded liabilities (for example warranty claims, vacation pay, claims, are sales returns and allowances), and an immediate need for significant expenditures as a result of obsolete equipment, inventory or computer systems.” (p.18)
+
+* Entrepreneurs ignore the process — According to Raising Capital (201) there is a tendency, for entrepreneurs, to ignore and not be willing to cooperate in the due diligence process. In the example pointed by Andrew they do things “such as to send lawyers of investors to dark rooms” (p. 18)
+
+### Don’t befriends your VC
+
+* Don’t befriends your VC — Guy kawasaki says that you don't want to Befriends your investors. This aligns with the note from Andrew Sherman from Raising Capital (2012) "they are looking to date, not to marry".
+
+* Alignment within the vision — On the other hand does not mean you want an investor that is not aligned with your vision - you want to have a partner “in the crime” that will endure to your vision. This may be talked from Doug Leone and Reid Hoffman?
+
+### It is not only you right?
+
+* [14386266] [Review] Seasoned investors will judge you by the team you assemble, according to Andrew Sherman, Raising Capital (2012). This translates into the question: can you check if they are looking for such characteristic as well? In the end, your coordination, needs to be based in advice, strength and credibility of these partners.
+
+### Notas de Empreendedores sobre Investidores
+
+* No mesmo barco —  "[n]ão busque somente dinheiro, mas sim sócios que vão impulsionar o crescimento de sua empresa"  Anderson Moraes, da Agenda Edu (2018, p. 155)
+
+* Estratégias e milestones —  Andréa Miranda, da Stand Out fez um depoimento (2018, p.153)  que o apoio de investidores ajudou com  estratégias de milestones que “nos direcionaram na jornada para a evolução da empresa mostrando que o funding seria uma consequência."
+
+
+* O não (quero investir) amigo - Bons investidores deixam uma porta aberta e podem indicar algum caminhando. O relato (2018, p.150) de Felipe Wasserman, da PetiteBox, fala da interação com investidores que deixam uma porta aberta. Felipe teve a oportunidade de receber um não mas um não do tipo não-no-momento, deixando uma porta aberta. [Márcio acha que leu algo relacionado com isso no livro The Startup of You do Reid Hoffman ou em Raising Capital].
+
+### x-ray References
+
+* Y Combinator. (2016, October 25). Marc Andreessen at Startup School SV 2016 [video]. Retrieved from https://www.youtube.com/watch?v=NEOR0AJsziE
+
+* This Week In Startups. (April 28th 2017). E728: “Angel” Sneak Peek+Startup Tune-up: First-look & lessons from Jason’s book + pitches [video]. Retrieved from https://www.youtube.com/watch?v=Krgz7b9oKLA
+
+* Stanford. (January 10th 2017). Chris Douvos: Escaping the Tyranny of Mediocrity: Finding Differentiation Through Authenticity [video]. Retrieved from https://www.youtube.com/watch?v=EGPn1a7D1LA
+
+* Sherman, A.J. (2012). Raising Capital: Get the Money You Need to Grow Your Business. AMACOM.
+
+* Kleper, J. (2018). Smart Money: a arte de atrair investimentos e dinheiro inteligente para seu negócio. São Paulo: Editora Gente, 2018.
+
+* Self marcio https://hackernoon.com/a-successful-interaction-with-a-bad-investor-d9d036ac5128
