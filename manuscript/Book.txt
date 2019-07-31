@@ -30,7 +30,7 @@
 
 090_irreducible_collaborator.txt
 
-100_800_less_is_more.txt
+100/800_less_is_more.txt
 
 100/900_personal_board-en-us.txt
 
