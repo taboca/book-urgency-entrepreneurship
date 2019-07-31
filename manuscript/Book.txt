@@ -61,6 +61,8 @@
 
 200_part3.txt
 
+300/100_partners_bad_investor-en-us.txt
+
 300_050_entrepreneurship_is_management.txt
 
 300_100_invisible_contracts_and_our_roles.txt
