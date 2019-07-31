@@ -52,6 +52,8 @@
 
 200_part3.txt
 
+300_050_entrepreneurship_is_management.txt
+
 300_100_invisible_contracts_and_our_roles.txt
 
 250_sistema_nao_permite.txt
