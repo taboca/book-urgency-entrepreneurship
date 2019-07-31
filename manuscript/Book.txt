@@ -48,6 +48,8 @@
 
 200_600_doing_lean_vs_talking.txt
 
+200_700_do_things_that_dont_scale.txt
+
 ### part 3 #####################################################################
 
 200_part3.txt
