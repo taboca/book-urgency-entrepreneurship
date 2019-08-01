@@ -33,7 +33,7 @@ Segundo Eric, os líderes desses departamentos, acreditam que se pudessem contro
 
 > Of course, everybody in all the silos are saying that, and, for modern managers that can be really challenging. So, for me, my aspiration for Lean Startup is not to have people adopt it as yet another silo approach, but rather to take these common elements, that are common to design thinking, and to agile, and to lean, and certain apply them at a system-wide, at the company level, so that we have a common framework for understanding what are the problems, a common approach for the process that we are going to use to solve those problems, and most importantly, we can speak the language of business to say “he are the concrete financial and business outcomes that we can achieve if we work in this way”. — Eric Ries (Google for Startups, 2017, [XX:YY](https://medium.com/@taboca/disconnection-from-the-everyday-works-purpose-7c4b29d861d9))
 
-Essa preocupação com a união, ou falta de, entre os departamentos das empresas, ou silos na visão do Eric Ries, pode servir de base para a exploração do problema que empreendedores enfrentam quando lidam com os processos ágeis.
+Essa preocupação com a união, ou falta de, entre os departamentos das empresas, pode servir de base para a exploração do problema que empreendedores também enfrentam quando lidam com os processos ágeis.
 
 O domínio do empreendedor é diferente das empresas, pois tudo começa com o nada. No início, não existe produto nem existem clientes. A única coisa que empreendedores têm são suas hipóteses iniciais. Segundo Steve Blank, uma *startup* é uma instituição em fase de descoberta. [^steveblankstartup].
 
