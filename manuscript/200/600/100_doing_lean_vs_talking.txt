@@ -1,22 +1,74 @@
 ## O viés da agilidade dos processos ágeis
 
-### (Sobre o que é lean, em todas as áreas, não só empreendedorismo)
+## Dizer que faz lean versus fazer lean
 
-O estilo Lean, o estilo que influencia o processo de trabalho das startups, está em todo lugar, no ecossistema do empreendedorismo. Mas Lean não nasceu do mundo das startups - o modo Lean de operar nasceu do mundo das grandes empresas, simplesmente decorre da competição e pressão por inovação. Lean é mais interação e aprendizado, Lean quer inovação como processo ou metodologia. Essa abordagem vai de fato na contramão da abordagem anterior, que envolvia planejar muito anteriormente e depois executar.
+> É fácil para nós, para de certa forma ficarmos confusos e esquecermos o propósito do trabalho no dia a dia. Eu acredito que muito desperdício no ambiente de trabalho moderno está relacionado com uma desconexão das pessoas com o propósito, qual é o significado maior do trabalho que fazemos” [Nossa tradução]   [Eric Ries @ 10m35s](https://youtu.be/bvFnHzU4_W8?t=10m35s) Lean Startup Meets Design Thinking
 
-Lean entrou em tudo. No mundo do software, da programação, é chamado Agile, ou o processo ágil de desenvolvimento. No mundo do design, design thinking. No mundo da manufatura, six sigma, e tambem muito forte no mundo do empreendedorismo.
+> “It’s easy for us, to kind of get lost and forget what the purpose of our work everyday is. I think a lot of the waste in the modern work environment has to do with people that become disconnected from what is that purpose, what is the greater meaning of the work that we do.” [Eric Ries @ 10m35s](https://youtu.be/bvFnHzU4_W8?t=10m35s) Lean Startup Meets Design Thinking
 
-### Lean para empreendedores — protagonizado por Steve, Eric e Alexander
+A cultura dos processos ágeis, ou *lean*, penetrou as grandes empresas e o mundo dos empreendedores, como um lubrificante que promete mais eficiência para as novas e velhas engrenagens do trabalho. Essa cultura vai de encontro com o mundo que tornou-se mais interativo e dinâmico, onde o canal entre o produtor e o consumidor está mais aberto. A ideia promove mais experimentação com ciclos de aprendizado mais curtos, ou seja, menos risco diante da velha abordagem dos grandes esforços e planos em apostas de longo prazo.
 
-Para empreendedores, podemos dizer movimento Lean (Lean movement), que foi protagonizado por Steve Blank (customer development) Eric Ries (lean startup) e Alexander Ostwalder (business model canvas). Então hoje empreendedores simplesmente podem dizer *Lean* quando estão pensando em fazer no modo ágil, mais interativo. Lean permite começar como um processo.
+Neste sentido, existem inúmeros processos e metodologias que se aplicam aos vários departamentos das empresas— não é um movimento restrito a departamentos específicos como tecnologia da informação. A própria metodologia *Lean Startup* [^leanstartup], lançada por Eric Ries, é baseada em ideias emprestadas do mundo da indústria automobilística [^leanmanufacturing] e pode ser vista como um metaprocesso que harmoniza com outros processos ágeis, mais específicos e aplicáveis na questão da criação de novos produtos e negócios.
 
-Um exemplo de uma de várias ferramentas Lean, disponíveis aos empreendedores, é o business model canvas, que rebate a abordagem do antigo plano de negócios. O Canvas não é equivalente, mas permite que empreendedores possam desenvolver seus modelos de negócios de uma forma mais interativa.
+[^leanstartup]: Lean Startup é uma metodologia que sugere um ciclo de desenvolvimento mais ágil, onde aprendizado é constante na medida que o desenvolvimento do negócio ou produto é realizado. É compatível com um movimento *lean* mais amplo, onde o desenvolvimento do produto, ou negócio, está mais próximo do consumidor ou da necessidade.  Segundo Steve Blank [HBR 2013] a abordagem diminui os riscos porque favorece a experimentação em oposição ao pré-planejamento elaborado. Vale lembrar que o padrão da fórmula de décadas envolvia a escrita do plano de negócios, o *pitch* para os investidores, a montagem do time, lançamento do produto e finalmente vendas.
 
-### O mal uso na onda
+[^leanmanufacturing]: Segundo Wikipedia, o *Lean manufacturing* ou manufatura enxuta, veio do Sistema Toyota de Produção. É uma filosofia de gestão com o objetivo de reduzir desperdícios como a super-produção, o tempo de espera, transporte, excesso de processamento, inventário, movimento e defeitos. https://pt.wikipedia.org/wiki/Lean_manufacturing
 
-Assim, essa é a onda. Porém, com toda onda tem-se o mal uso, ou, dentro do ponto de vista deste livro, o uso urgente. O viés do Lean justamente deriva da intenção por atingir os resultados, quando o empreendedor, ou cofundadores, debaixo de pressão, deixam o próprio processo de lado, ou ainda fazem o processo, batendo alguns pontos. Tecnicamente eles se enquadram em estarem fazendo o processo nas fundamentalmente ignoram o que o próprio processo diz.
+Mas *Lean Startup* é uma das muitas que estão por toda parte. O *Customer Development*, criado pelo empreendedor e professor Steve Blank é outra. Em 2014, o Google promoveu um debate entre os criadores do *Lean Startup* e do *Design Thinking* intitulada *Lean Startup Meets Design Thinking* (Lean Startup encontra-se com Design Thinking). Nesse debate o Eric Ries passa uma ideia da abrangência desses processos:
 
-#### Exemplo de mal uso do canvas
+> No silo do design, eles devem ter lido o livro do Tim[^designthinking]... Se pegar marketing, você verá Customer Development. Se pegar [a área de] operações, você encontrará Dev Ops. — Eric Ries (Google for Startups, 2017, [XX:YY](https://medium.com/@taboca/disconnection-from-the-everyday-works-purpose-7c4b29d861d9))
+
+> Grab the design silo, and they have read Tim’s book, and if they understand what a modern approach design looks like, you will see kind of design thinking that he mentioned. Grab marketing, you will see customer development. If you grab operations, you will see some dev ops.. — Eric Ries (Google for Startups, 2017, [XX:YY](https://medium.com/@taboca/disconnection-from-the-everyday-works-purpose-7c4b29d861d9))
+
+[^designthinking]: *Design Thinking* é um processo na mesma linha de outros “leves” ou “ágeis” mas originado do mundo do design e aplicável em um contexto mais amplo nas empresas. https://hbr.org/2008/06/design-thinking
+
+Com isto, podemos entender um pouco sobre a abrangência dessas metodologias, que são bem intencionadas e elevam os vários departamentos das empresas com uma cultura de execução ágil. Porém, tal abrangência, ou abundância, não necessariamente resolve outro problema — a questão da coerência, do propósito maior. No mesmo debate, Eric Ries relata essa questão não resolvida:
+
+> “*You might find an organization where at every silo, things are very iterative, customer centric, and where people are really focused on learning. But then, zoom out and you will say “wow, this must be a really adaptable, learning oriented company, this is fantastic.” But actually, what you will see in a lot of companies, is, although there all this iteration learning happening at each individual silo, the actual work product that company produces, is passed binder to binder from each silo to the next, in a totally linear and old school waterfall style approach. If you were the CEO of such a company, not a day goes by or somebody who works in one of those silos, does not come into your office and say “you know what would make the company a lot better? you should make my function in charge of all the other functions — and if we get all the other functions to do design thinking, or customer development, or agile, or pick your choice; that would make life easier”*”  — Eric Ries (Google for Startups, 2017, [XX:YY](https://medium.com/@taboca/disconnection-from-the-everyday-works-purpose-7c4b29d861d9))
+
+Essa falta de união entre departamentos, ou silos na visão de Eric Ries, é uma forte indicação que pode ajudar também o caso de empreendedores quando eles mergulham de cabeça nos processos ágeis durante o processo de construção das suas startups.
+
+No domínio do empreendedor, parte-se do pressuposto que não existe nada, no início. Não existe produto, não está validada a relação do equilíbrio, entre o produto e o mercado. Nem sequer o empreendedor sabe se seu empreendimento conseguirá materializar a ideia; ou distribuir o produto para supostos consumidores. Tudo são hipóteses. Então, em conformidade com a explicação de Steve Blank, uma *startup* é uma instituição em fase de descoberta.
+
+Assim, na jornada da descoberta, empreendedores têm a oportunidade de abraçar processos ágeis, ou *lean*, como por exemplo o *Business Model Canvas*, *Customer Development*, *Lean Startup*, dentre outros. Para eles, não faltam receitas, processos ou metodologias, que prometem o ciclo mais ágil para lançar suas ideias no mundo.
+
+Mas de forma similar ao caso das empresas, esses processos mesmo que executados de forma elegante, ainda assim oferecem riscos quando falta ao empreendedor, ou time de liderança, uma visão mais abrangente que protege a execução dos processos do propósito maior. Então, executar bem os processos é bom mas podem falhar na visão holística. Ele pode, por exemplo, estar certo sobre uma ou outra atividade mas ao mesmo tempo ignorar uma outra atividades igualmente importantes que poderiam mudar o curso das anteriores.
+
+Assim, é possível tirar nota 10 em um determinada tarefa, mas ao mesmo tempo falhar na última tarefa. E qual é a última tarefa? A startup funcionar, no mercado, diante de clientes reais, com um ciclo sustentável.
+
+O empreendedor, sozinho ou em time com seus cofundadores, não suspeita. Muitas vezes porque não sabe o que mais deveria estar olhando, qual outro processo poderia curar algum processo existente; não muito diferente do problema da falta de união na visão dos silos apresentados por Eric Ries. Tanto empresas como empreendedores muitas vezes se veem executando bem, em ciclos ágeis, algo que não resolve o todo.
+
+O curioso é que o empreendedor, ou o time inicial, sendo muito pequeno, deveria ter maiores chances de não cair no problema dos silos, uma vez que tem mais controle da comunicação, que deveria lhes conferir uma visão mais ampla e honesta.
+
+Porém, o próprio empreendedor cria seus próprios silos. Por exemplo, a percepção de sucesso parcial pode ser tão forte que contamina o processo maior, deixando o empreendedor cego sobre possíveis sinais de alerta; como se o empreendedor tornasse o advogado de seu sucesso. Outro exemplo, o empreendedor pode estar enamorado com a ideia de tal forma que ignora outras tarefas igualmente importantes, como entender o potencial do mercado, ou saber mais sobre seus supostos usuários. Um outro empreendedor pode estar fascinado com sua capacidade de inventar a tecnologia de tal forma que uma energia lhe dá forças para querer lançar ignorando outras questões igualmente importantes do negócio como um todo.
+
+Esses exemplos são casos onde emoção ou paixão são elementos que influenciam o empreendedor em suas decisões, lhe conferindo uma visão mais limitada. Mas não deveriam os processos ágeis justamente permitir mais aprendizado para que o processo estivesse mais orientado ao aprendizado com validação? Sim, em teoria. Mas na prática empreendedores frequentemente executam as atividades do mundo ágil como uma forma de auto validação para a sucessão de passos, eles se veem diante de uma agenda que demanda avançar. Como se eles usassem o processo para fortalecer suas hipóteses mirabolantes; com isso ignoram o potencial de as eliminar.  Será que empreendedores que executam as cegas os processos assim fazem porque sofrem de baixa auto estima? Como se se tornassem perfeccionistas que somam pontos e processos mas não se sentem a vontade em reconhecer os problemas, de viver os problemas.
+
+O fenômeno foi abordado por Steve Blank em uma conversa com Rohan Workman. Rohan perguntou ao Steve se ele já viu a situação onde empreendedores dizem que fazem o processo lean mas de fato não fazem.
+
+Steve Blank acknowledges the problem as a disorder that affects founders as they get enamored with the process. Let’s dig a bit more into his view. As indicated by Steve Blank, entrepreneurs may react too quick as they encounter data from the activities from what they understand is the process. To illustrate this experience, an extreme case is the situation when the founder goes out (of the building) to listen to customers. He comes back to the office and go like “We need to pivot, we need to pivot, and we need to pivot again.”
+
+ To prompt us to reflect, Steve’s 72 hour rule is a joke-like metaphor that serves well to help founders and teams to first understand the situation.
+
+> “Keeping your mouth shut, from when you think you got an insight to when you are allowed to announce the word pivot, inside your company” (Steve Blank @ MAP14, 2014, 24m34s)
+
+Então a revelação do Steve fala dessa disordem, que se dá também de outras formas. Mas uma linha geral diz que a execução do procedimento pode ser feita com o objetivo errado, de validar para o sucesso. Assim o experimento deixa de ser científico, ou frio. Na versão fria, uma pesquisa pode sim matar a hipótese. Alias, por que será que empreendedores nunca perdem tempo fazendo pesquisas com o interesse em destruir suas ideias? O que fazem, ao contrário, é dizer “ah, eu fiz o canvas” ou “estou fazendo o processo correto das entrevistas qualitativas” então estou no caminho certo. Executar o processo correto é importante mas mais importante é olhar o resultado das tarefas com uma visão mais ampla, fora da caixa.
+
+Tirar nota 10 em processos ágeis que trazem uma ou outra validação não diz que a startup vai ganhar o jogo lá na frente. Muitas vezes, lá na frente, quando vivem as grandes crises, daí percebem que estavam ignorando os sinais — que estavam de fato por toda parte.
+
+Então o problema é parecido tanto para empreendedores como para empresas, eles se perdem na coreografia entre processos. Nas empresas, como Eric colocou, elas esquecem do propósito, falham na questão da unidade entre os silos funcionais. Para o empreendedor, perde porque esquece do todo e assume que um ou outro processo é sinal que diz “avançar!”
+
+Nessa situação, quando empreendedores ainda estão na fase de descoberta, precisam se envolver nas várias questões, como generalistas que estão acima das suas ideia, dos seus produtos, acima do mercado. Ele esquecem que estão na fase de busca, eles partem para a execução. Ele nesse sentido talvez eles percam quando olham para soluções lean como pura validação.
+
+### Referências
+
+Blank, Steve. (Maio, 2013). Why the Lean Start-Up Changes Everything [Por quê a Startup Enxuta Muda Tudo]. Obtido de https://hbr.org/2013/05/why-the-lean-start-up-changes-everything.
+
+Galli, Marcio. (Junho, 2016). On agile silos: design thinking, customer development, agile, lean, and more. [Sobre os Silos Ágeis: Design Thinking, Customer Development, Ágil, Lean, e mais]. Obtido de https://medium.com/@taboca/disconnection-from-the-everyday-works-purpose-7c4b29d861d9
+
+MAP14. (2014, March 13). MAP14 Public Forum: Steve Blank. [video]. Retrieved from https://youtu.be/UFx2CQUTpYo
+
+### Exemplo de mal uso do canvas
 
 Vamos começar falando do Business Model Canvas, a ferramenta Lean desenvolvida por Alexander Ostwalder que foi concebida para aprendizado e empreendedores usam ela como quem buscar status.
 
@@ -33,13 +85,6 @@ Tem uma referência aqui, talvez relacionada com esse perfil de empreendedor cor
 #### Empreendedor negou alterar seu canvas pois ganhou um prêmio regional, no processo de pseudo-aceleração
 
 ### olhando customer development Como um processo sem fim
-
-
-### Segundo Steve Blank é fenómeno, uma síndrome
-
-O entrevistador do map14 perguntou, se fazer Lean versus falar que faz Lean é uma situação crítica? Steve confirmou, que empreendedores frequentemente entram no processo Lean
-
-#### A regra das 72 horas
 
 ### Pressão seletiva
 

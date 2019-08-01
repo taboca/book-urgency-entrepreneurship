@@ -50,10 +50,12 @@
 
 200_500_urgent_vs_important.txt
 
+#####
+####   Lean
+###
 200/600/100_doing_lean_vs_talking.txt
-200/600/150_lean_agile_design_thinking_silos.txt
-200/600/200_falando_que_faz_lean_vs_fazer.txt
-200/600/400_doing_lean_vs_talking_about_lean-en-us.txt
+#200/600/200_falando_que_faz_lean_vs_fazer.txt
+#200/600/400_doing_lean_vs_talking_about_lean-en-us.txt
 200/600/300_strategic_dissonance_en-us.txt
 
 200_700_do_things_that_dont_scale.txt
