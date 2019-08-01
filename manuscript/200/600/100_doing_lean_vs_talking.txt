@@ -20,7 +20,7 @@ Mas *Lean Startup* é somente uma dessas metodologias. Em 2014, o Google promove
 
 [^designthinking]: *Design Thinking* é um processo na mesma linha de outros “leves” ou “ágeis” mas originado do mundo do design e aplicável em um contexto mais amplo nas empresas. https://hbr.org/2008/06/design-thinking
 
-Eric passa a ideia da abrangência das metodologias ágeis, todas bem intencionadas para elevar diferentes departamentos na linha do movimento ágil. Porém, tal abrangência, ou abundância, não necessariamente resolve a questão importante, que é a coerência entre departamentos, com o o propósito maior:
+Eric passa a ideia da abrangência das metodologias ágeis, todas bem intencionadas para elevar diferentes departamentos na linha do movimento ágil. Porém, tal abrangência, ou abundância, não necessariamente resolve a questão maior da coerência entre departamentos:
 
 > “Você pode encontrar uma organização onde em cada silo, as coisas são interativas, centradas no consumidor, onde as pessoas estão realmente focadas em aprender. Mas então, faça um *zoom out* e irá dizer “Nossa, isso tudo deve ser bem adaptável, essa empresa orientada ao aprendizado, isso aqui é fantástico.” Mas de fato, o que você vê, em muitas empresas, é, que apesar que existe todo esse aprendizado interativo ocorrendo em todos os silos, de fato o produto do trabalho que a empresa produz, é passado entre essas caixas, entre esses silos, de forma linear como o  modelo antigo de cascata.” — Eric Ries (Google for Startups, 2017, [XX:YY](https://medium.com/@taboca/disconnection-from-the-everyday-works-purpose-7c4b29d861d9))
 
