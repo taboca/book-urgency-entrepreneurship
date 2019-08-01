@@ -60,6 +60,8 @@
 200/600/150_never_send_business_model_canvas.txt
 200/600/300_strategic_dissonance_en-us.txt
 
+200/600/900-awareness.txt
+
 #####
 ####
 ### Do things that dont scale
