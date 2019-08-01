@@ -33,9 +33,9 @@ Ainda, segundo Eric, os líderes dessas divisões, ou silos, acreditam que se pu
 
 > Of course, everybody in all the silos are saying that, and, for modern managers that can be really challenging. So, for me, my aspiration for Lean Startup is not to have people adopt it as yet another silo approach, but rather to take these common elements, that are common to design thinking, and to agile, and to lean, and certain apply them at a system-wide, at the company level, so that we have a common framework for understanding what are the problems, a common approach for the process that we are going to use to solve those problems, and most importantly, we can speak the language of business to say “he are the concrete financial and business outcomes that we can achieve if we work in this way”. — Eric Ries (Google for Startups, 2017, [XX:YY](https://medium.com/@taboca/disconnection-from-the-everyday-works-purpose-7c4b29d861d9))
 
-Essa preocupação com a união, ou falta de, entre departamentos (silos na visão de Eric Ries) é uma forte indicação que pode ajudar empreendedores a lidarem com os processos ágeis.
+Essa preocupação com a união, ou falta de, entre os departamentos das empresas, ou silos na visão do Eric Ries, pode servir de base para a exploração do problema que empreendedores enfrentam quando lidam com os processos ágeis.
 
-No domínio do empreendedor, diferente das empresas, tudo começa com o nada. Não existe produto, não está validada a relação do equilíbrio entre o produto e o mercado. Nem sequer o empreendedor sabe se tem condições de materializar sua ideia, ou de distribuir o produto. A única coisa que empreendedores começam são hipóteses. Então, em conformidade com a explicação de Steve Blank, uma *startup* é uma instituição em fase de descoberta. [^steveblankstartup].
+O domínio do empreendedor é diferente das empresas, pois tudo começa com o nada. No início, não existe produto nem existem clientes. A única coisa que empreendedores têm são suas hipóteses iniciais. Então, isso alinha com a definição de uma *startup* criada por Steve Blank — uma *startup* é uma instituição em fase de descoberta. [^steveblankstartup].
 
 [^steveblankstartup]: nonono nononono nonnono nononono ononono nonon ono nonono nonono nonono non on onoooo. https://steveblank.com/2010/01/14/a-startup-is-not-a-smaller-version-of-a-large-company/
 
