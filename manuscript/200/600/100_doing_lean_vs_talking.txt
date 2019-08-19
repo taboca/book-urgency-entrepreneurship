@@ -1,8 +1,8 @@
 ## O viés da agilidade dos processos ágeis
 
-> “A melhor prática aqui é desenvolver uma tolerância para  momentos de injustiça nos períodos de ambiguidade. Fique forte e calmo para que a situação se resolva e as nuvens em torno dos momentos de mudança possam se dissipar.” (Scott Belsky{id: author-scott-belsky-200-600-a}, 2010, Making Ideas Happen)
+> “A melhor prática aqui é desenvolver uma tolerância para  momentos de injustiça nos períodos de ambiguidade. Fique forte e calmo para que a situação se resolva e as nuvens em torno dos momentos de mudança possam se dissipar.” (Scott Belsky{id: author-scott-belsky-200-600-a1}, 2010, Making Ideas Happen)
 
-> “The best practice here is to develop a tolerance for momentary injustice in periods of ambiguity. Stay strong and stay calm as a situation settles itself over time and the clouds around any period of change start to dissipate. “ (Scott Belsky, 2010, Making Ideas Happen)
+> “The best practice here is to develop a tolerance for momentary injustice in periods of ambiguity. Stay strong and stay calm as a situation settles itself over time and the clouds around any period of change start to dissipate. “ (Scott Belsky{id: author-scott-belsky-200-600-a2}, 2010, Making Ideas Happen)
 
 A cultura *lean*, dos processos ágeis, permeou-se entre grandes empresas e no mundo dos empreendedores, como um lubrificante que promete mais eficiência para as novas e velhas engrenagens do trabalho. Essa cultura vai de encontro com o mundo que ficou mais interativo e dinâmico, que aproximou o produtor do consumidor. Esse processo promove melhor aprendizado com ciclos de experimentação mais rápidos — assim, menos risco diante da velha abordagem dos grandes esforços e apostas de longo prazo.
 
