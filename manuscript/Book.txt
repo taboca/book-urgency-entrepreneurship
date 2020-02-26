@@ -10,7 +10,7 @@
 
 ### part 1
 
-100_030_part1.txt
+100_000_part1.txt
 
 100_010_startup_you.txt
 
