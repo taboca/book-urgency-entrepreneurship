@@ -16,11 +16,11 @@
 
 100/020_rainbow_grayscale.txt
 
-100/400_hora_h.txt
-
 100/050_wantrepreneur_learner.txt
 
-100_400_execution_urgency_neglecting_redesign.txt
+100/300_execution_urgency_neglecting_redesign.txt
+
+100/400_hora_h.txt
 
 100/500_ideas_emotions.txt
 
