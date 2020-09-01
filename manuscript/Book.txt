@@ -70,6 +70,13 @@
 ##
 200_700_do_things_that_dont_scale.txt
 
+#####
+####
+### New medium requires a new attitude 
+##
+
+200/800/100_collaboration_innovation_management.txt
+
 ### part 3 #####################################################################
 
 200_part3.txt
