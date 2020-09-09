@@ -44,29 +44,21 @@
 
 ### part 3 #####################################################################
 
-200_part3.txt
+300/050_intro.txt
 
 300/100_partners_bad_investor-en-us.txt
 300/100/100_mal_investidor.txt
+300/150_entrepreneurship_is_management.txt
+300/200_invisible_contracts_and_our_roles.txt
+300/250_they_system_does_not_allow.txt
+300/270_contracts_plus.txt
+300/300_role_models_design_empatia.txt
+300/330_team_dynamics_self_esteem.txt
+300/400_managing_certainty_gap.txt
 
-300_050_entrepreneurship_is_management.txt
+#300/410_lean_storytelling.txt
+#300/470_culture_productivity.txt
 
-300_100_invisible_contracts_and_our_roles.txt
-
-250_sistema_nao_permite.txt
-
-270_contracts_plus.txt
-
-300_role_models_design_empatia.txt
-
-300_300_team_dynamics_self_esteem.txt
-
-300_400_managing_certainty_gap.txt
-
-#400_lean_storytelling.txt
-
-#470_cultura_produtividade.txt
-
-480_fear_and_entrepreneurship.txt
+300/480_fear_and_entrepreneurship.txt
 
 500/050_references.txt
