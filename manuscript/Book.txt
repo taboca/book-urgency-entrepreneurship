@@ -1,7 +1,8 @@
 
-000/020_agradecimentos.txt
+### Initial section 
 
-000/050_prefacio.txt
+000/020_acknowledgements.txt
+000/050_foreword.txt
 
 ################################## introduction
 ## https://drive.google.com/drive/u/0/folders/1xCbA6yTioJRq6iljnSBlcgYqPTbNRj3h
