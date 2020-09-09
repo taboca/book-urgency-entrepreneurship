@@ -8,69 +8,37 @@
 ### part 1
 
 100/000_part1.txt
-
 100/010_startup_you.txt
-
 100/020_rainbow_grayscale.txt
-
 100/050_wantrepreneur_learner.txt
-
 100/300_execution_urgency_neglecting_redesign.txt
-
 100/400_hora_h.txt
-
 100/500_ideas_emotions.txt
-
 100/600_valley_difficulties.txt
-
 100/650_art_and_urgency.txt
-
-090_irreducible_collaborator.txt
-
+100/670_irreducible_collaborator.txt
 100/800_less_is_more.txt
-
 100/900_personal_board-en-us.txt
-
 100/950_accounting_learning.txt
 
 ### part 2 ##################################################
 
 200/000_part2.txt
-
 200/100_reactionary_execution.txt
+200/200_success_as_a_service.txt
+200/250_stop_impressing_or_being_impressed.txt
+200/300_managing_future_eye_present.txt
+200/350_first_to_friends_no.txt
+200/450_urgent_vs_important.txt
 
-200_200_success_as_a_service.txt
-
-130_stop_impressing_or_being_impressed.txt
-
-150_managing_future_eye_present.txt
-
-170_first_to_friends_no.txt
-
-200_500_urgent_vs_important.txt
-
-#####
-####   Lean
-###
 #200/600/200_falando_que_faz_lean_vs_fazer.txt
 #200/600/400_doing_lean_vs_talking_about_lean-en-us.txt
 
 200/600/100_doing_lean_vs_talking.txt
 200/600/150_never_send_business_model_canvas.txt
 200/600/300_strategic_dissonance_en-us.txt
-
 200/600/900-awareness.txt
-
-#####
-####
-### Do things that dont scale
-##
 200_700_do_things_that_dont_scale.txt
-
-#####
-####
-### New medium requires a new attitude 
-##
 
 200/800/100_collaboration_innovation_management.txt
 
