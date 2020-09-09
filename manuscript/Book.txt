@@ -21,9 +21,9 @@
 
 100/500_ideas_emotions.txt
 
-085_valley_difficulties.txt
+100/600_valley_difficulties.txt
 
-100_150_art_and_urgency.txt
+100/650_art_and_urgency.txt
 
 090_irreducible_collaborator.txt
 
