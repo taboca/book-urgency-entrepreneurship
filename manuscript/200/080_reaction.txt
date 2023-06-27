@@ -2,6 +2,7 @@
 
 * Ideation - https://chat.openai.com/share/95da540f-fc05-4f4f-a439-e6619b7fffa5
 * Todo - Fix the case by Andy Grove 
+* Photo - https://unsplash.com/pt-br/fotografias/Z7OFlKUEwb8 
 
 Consider the scenario: a horse's hoof is unexpectedly damaged. Our immediate, instinctive reaction is to mend the problem promptly – to restore balance and reclaim our perceived sense of equilibrium. This automatic response is deeply rooted in the principle of loss aversion, a concept in behavioral economics that posits the pain of loss is felt more deeply than the joy of equivalent gain. We are essentially wired to react swiftly, to mitigate disturbances to our 'known normal.'
 
