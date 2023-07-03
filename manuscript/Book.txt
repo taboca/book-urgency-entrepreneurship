@@ -13,6 +13,7 @@
 100/050_wantrepreneur_learner.txt
 100/300_execution_urgency_neglecting_redesign.txt
 100/350_pressure.txt
+100/370_dontsay_donttry.txt
 100/400_hora_h.txt
 100/500_ideas_emotions.txt
 100/510_ideas_emotions_judgement.txt
