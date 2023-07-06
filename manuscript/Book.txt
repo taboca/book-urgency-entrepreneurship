@@ -49,10 +49,11 @@
 
 200/800/100_collaboration_innovation_management.txt
 
-### part 3 #####################################################################
+### part 3
 
 300/050_intro.txt
 
+# v0.2 
 300/090_saying_thanks_reflections.txt
 
 300/100_partners_bad_investor-en-us.txt
