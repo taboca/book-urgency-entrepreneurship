@@ -27,10 +27,10 @@ Sometimes, the act of gratitude can transform into a deeper moment of reflection
 
 I did not know the power of the act of gratitude, but I knew that there was something within me, in my operating system, that depended on the act of gratitude. The first time I encountered this phenomenon was when I wrote a letter, during my university days, to Dennis Ritchie, the inventor of the C programming language. My task was to write a paper comparing the C and Pascal programming languages. I crafted a narrative of 20 pages where the creator of the C language was exchanging ideas with the creator of Pascal. In the narrative, the C language emerged as the winner. I sent a letter to Dennis Ritchie, and he responded with gratitude. He also mentioned that the inventor of the Pascal language deserved recognition because the Pascal language had significant value in the educational world. I attached Dennis's response to the cover of my paper, and my professor awarded me the highest grade.
 
-Twenty years later, as mentioned above, I found a way to communicate the work of Michael Dearing. I noticed that he expresses great gratitude, such as the gratitude he extended to Barbara Minto, author of "The Pyramid Principle," in his video summary of SCqA (Harrison Metal, 2018), and in the lecture titled "Executive Communication w/ Harrison Metal" (Heavybit, 2019).
+Twenty years later, as indicated above, I discover a form of communication focused on gratitude in Michael Dearing's work. I observed that he expresses great gratitude, such as the gratitude he extended to Barbara Minto, author of "The Pyramid Principle," in his video summary of SCqA (Harrison Metal, 2018), and in the lecture titled "Executive Communication w/ Harrison Metal" (Heavybit, 2019).
 
 ### References
 
-* Harrison Metal. (2018, December 9). Thank You, Barbara Minto [Video]. YouTube. Retrieved from [URL] https://vimeo.com/305393045
+Harrison Metal. (2018, December 9). Thank You, Barbara Minto [Video]. Retrieved from https://vimeo.com/305393045
 
-* Heavybit. (2019, July 30). Executive Communication w/ Harrison Metal [Video]. Retrieved from https://www.heavybit.com/library/video/executive-communication
+Heavybit. (2019, July 30). Executive Communication w/ Harrison Metal [Video]. Retrieved from https://www.heavybit.com/library/video/executive-communication
