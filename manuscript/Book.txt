@@ -1,4 +1,3 @@
-
 ### Initial section 
 
 000/020_acknowledgements.txt
@@ -30,6 +29,7 @@
 200/050_super_fast_really_works.txt
 200/080_reaction.txt
 200/100_reactionary_execution.txt
+200/120_reaction_with_potentialized_animated_transactional_items.txt
 200/150_controlling_control.txt
 200/200_success_as_a_service.txt
 200/250_stop_impressing_or_being_impressed.txt
