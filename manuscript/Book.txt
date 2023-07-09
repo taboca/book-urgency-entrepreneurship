@@ -1,10 +1,22 @@
 ### Initial section 
 
+### 
+
 000/020_acknowledgements.txt
+
+### Prefácio
+
+# [x] Maslow, citação do Maslow on Management 
+
 000/050_foreword.txt
+
+### Introduction 
+
+* [x] 
+
 000/100_introduction.txt
 
-### part 1
+### Parte 1 
 
 100/000_part1.txt
 100/010_startup_you.txt
