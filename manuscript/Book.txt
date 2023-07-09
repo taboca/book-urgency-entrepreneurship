@@ -6,7 +6,7 @@
 
 ### Prefácio
 
-# [x] Maslow, citação do Maslow on Management 
+# [!] Maslow, citação do Maslow on Management 
 
 000/050_foreword.txt
 
