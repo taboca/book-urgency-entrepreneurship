@@ -4,7 +4,7 @@ FastClip. (13/09/2015). Exposição Universal de 1876 nos EUA. Retirado de https
 
 Klein, Maury. (2009). The power makers : steam, electricity, and the men who invented modern America. Bloomsbury Press. First U.S. edition.
 
-Greylock Partners. (2015, November 30th), Blitzscaling 18: Brian Chesky on Launching Airbnb and the Challenges of Scale. Retrieved from https://www.youtube.com/watch?v=W608u6sBFpo
+* pt-br - Greylock Partners. (2015, November 30th), Blitzscaling 18: Brian Chesky on Launching Airbnb and the Challenges of Scale. Retrieved from https://www.youtube.com/watch?v=W608u6sBFpo / @ 020_rainbow_grayscale 
 
 Grove, Andrew. (DATEGROVE). Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company. [Só os Paranóicos Sobrevivem] ??????????.
 
@@ -39,8 +39,9 @@ Stanford Graduate School of Business. (7/11/2014). Sequoia Capital's Doug Leone 
 Maslow, Abraham H. (1998). Maslow on Management. Published by John Wiley & Sons, Inc.
 
 * pt-br - Dalio, R. (2018). Princípios [Traduzido por Vitor Paolozzi]. Intrínseca.
-* en-us -  Dalio, R. (2017). Principles: Life and work. Avid Reader Press/Simon & Schuster.
+* en-us - Dalio, R. (2017). Principles: Life and work. Avid Reader Press/Simon & Schuster.
 
 Benjamin J. Warnicka, Charles Y. Murnieks, Jeffery S. McMullen, Wade T. Brooks. (2018). Passion for entrepreneurship or passion for the product? A conjoint analysis of angel and VC decision-making. Journal of Business Venturing Volume 33, Issue 3, May 2018, Pages 315-332. Obtido de https://doi.org/10.1016/j.jbusvent.2018.01.002
 
-* Collins, J. (1994). Built to Last: Successful Habits of Visionary Companies. Harper Business; 3rd ed. edition. // From Wantrepreneur. 
+* en-us - Collins, J. (1994). Built to Last: Successful Habits of Visionary Companies. Harper Business; 3rd ed. edition. // From Wantrepreneur. 
+* pt-br - Collins, J. (1994). Built to Last: Successful Habits of Visionary Companies. Harper Business; 3rd ed. edition. // From Wantrepreneur. 
