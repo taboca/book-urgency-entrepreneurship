@@ -1,0 +1,65 @@
+# Corrupção do tempo e energia 
+
+<!--
+
+[!] Procurar o vídeo do Oinegue e da Jornalista // Tati Ferreira, do canal AcidezFeminina, perguntou em um debate durante as eleições de 2018 — "Se todo esse dinheiro que fosse desviado tivesse sido investido no estado, a gente teria um cenário diferente? Eu acho que todo mundo já se perguntou isso eu não sei se vocês tem as respostas."
+
+
+--> 
+
+<!-- Prompt
+
+* Prompt geral nível geral - Estou trabalhando no livro Desacelerar para Vencer, em Inglês Slowdown to Win. A parte 1 fala sobre o Eu vs. Urgências. A parte 2 o nós, times e colaboradores, a parte 3, a consciência do time no externo, o eles, vida, sistemas, entidades, contratos, relações com o externo. 
+
+* Somar o contexto de que estamos na parte 2, que analisa o nós, times vs. urgências. 
+
+* Neste sentido, preciso de mais um artigo, razão objetivo dos meus prompts aqui para você. Vou antes falar de umas ideias, depois dar um pouco da lógica. 
+
+## Caso situação 
+
+Tati Ferreira, do canal AcidezFeminina, perguntou em um debate durante as eleições de 2018 — "Se todo esse dinheiro que fosse desviado tivesse sido investido no estado, a gente teria um cenário diferente? Eu acho que todo mundo já se perguntou isso eu não sei se vocês tem as respostas."
+
+Eduardo Oinegue respondeu "Definitivamente não. Se você pegasse todo o dinheiro da corrupção e aplicasse em políticas públicas, você não teria efeito nenhum em políticas públicas. Mas, mas, a energia que esses gestores gastam, para montar a estrutura de corrupção é um tempo que eles não gastam resolvendo os problemas da sociedade." e concluiu que "ao não trabalharem para a sociedade, é como se a sua resposta fosse sim, porque eles estão dedicados aos deles e não ao nosso, como sociedade."
+
+## Abstração 
+
+Eu notei que no ambiente empresarial, times, chefes estão acima e controlam o julgamento dos seus subordinados. E eles pedem coisas, e simplesmente o que pedem pode ferir o sistema de energia/tempo/harmonia do funcionário, recurso. Por exemplo, dependendo da exepctativa, coloca o funcionário para fazer algo em casa, passar uma noite em claro, ter que investir seu próptio tempo, própria energia e dinheiro. Isso é razão de ansiedade para muitas pessoas, razão que cresce uma energia potencial que leva pessoas a desistirem e começar também a agir de forma tóxica nas empresas, elas fazem o mesmo com outros, por exemplo, torna-se um meio de trabalho. 
+
+## Lógica para o artigo que quero que vc escreva: 
+
+* Situação - Precisamos fazer algo de forma prag´mática, estamos sendo avaliados pelo ritmo acima de tudo. 
+* Situação - Mundo não parou para pensar e criou um tipo de heurística (será que é heurística isso? ) de que lutar, perseverança, força, ralar é a forma profissional. Tem um suporte tóxico no ambiente de trabalho. 
+* Situação - Chefes aplicam isso, sabem que subordinados são mais novos e tem energia e sabem que um dia passaram por isso. Torna-se a moeda. 
+* Complicação - Chefes aplicam isso, sabem que subordinados são mais novos e tem energia e sabem que um dia passaram por isso. Torna-se a moeda.
+* Complicação - Lutar contra essa política, nem energia ninguém tera, porque está na cultura. 
+* Solução suposta - Aceitar, cortar da carne. Funcionário precisa de tempo para estudar no trabalho. Precisa poder contar para empresa. 
+* Solução pilar - Empregador deveria ter melhor contabilidade de custo real. 
+* Solução pilar - Funcionárioas saberiam planejar - Do modo "fora da contabilidade" começa que é impossíbel planejar, lógico, se tudo pode ser feito "por fora" 
+* Soluçaão pilar - Extras - Ainda, funcionários confiam, trabalham mais felizes, menos ansiedade. Planejamento fujnciona e respeita a realidade. 
+
+## Escreva o artigo, lógica SCqA na introdução. Coloque em algum lugar a história inspiradora da corrupção para mostrar que tem casos que não sabemos onde está o prejuízo real. Ainda apresente como solução - resumida o aceitar - mas com os 3 pilares de suporte sobre o porque. 
+
+
+-->
+
+Em um mundo onde o ritmo acelerado parece ser a única forma de se manter relevante, surge um problema que muitas vezes é ignorado: a cultura da urgência. Essa pressão constante, seja para cumprir prazos ou atender demandas, pode criar uma cultura de trabalho tóxica, onde o equilíbrio pessoal e a harmonia do time são frequentemente negligenciados.
+
+Essa realidade é ainda mais agravada quando líderes, que em suas próprias carreiras vivenciaram essa pressão, passam a perpetuar esse padrão. Esse ciclo vicioso cria uma espécie de corrupção silenciosa - não de dinheiro, mas de tempo, energia e potencial humano. Os colaboradores são pressionados a gastar energia extra, a comprometer seu equilíbrio e a renunciar ao seu tempo de descanso e desenvolvimento pessoal.
+
+Nesse contexto, o jornalista Eduardo Oinegue fez uma reflexão importante. Durante um debate nas campanhas presidenciais de 2018, ele comentou que se o tempo e a energia que os gestores públicos gastam para estruturar a corrupção fossem direcionados para resolver os problemas da sociedade, o impacto seria significativativamente maior do que o próprio prejuízo financeiro. Oinegue levantou luz sobre um um ponto de vista estratégico. Da mesma forma, se os líderes das empresas direcionassem a energia que investem em pressionar seus colaboradores para criar um ambiente de trabalho mais saudável e produtivo, os benefícios seriam imensos.
+
+Essa cultura da urgência e da pressão constante não apenas compromete a saúde mental e física dos colaboradores, mas também afeta a produtividade e a criatividade. Portanto, é necessário uma mudança fundamental na forma como o trabalho é visto e gerenciado. Aqui estão três pilares essenciais para essa mudança:
+
+Tempo para Desenvolvimento Pessoal: As empresas devem valorizar e encorajar o desenvolvimento pessoal de seus colaboradores. Isso envolve permitir que tenham tempo durante o horário de trabalho para estudar, aprender e crescer.
+
+Custo Real do Trabalho: Os líderes precisam ter uma visão clara e realista do custo do trabalho - um custo que inclui o impacto no bem-estar e na saúde mental dos colaboradores. Com essa compreensão, as decisões podem ser mais informadas e equilibradas.
+
+Planejamento Transparente: Com uma visão mais realista do custo do trabalho, os colaboradores podem planejar melhor seu tempo e recursos. A falta de transparência no planejamento pode levar ao estresse e à ansiedade, prejudicando o desempenho e o bem-estar geral.
+
+Ao priorizar esses três pilares, é possível criar um ambiente de trabalho onde a aceleração não seja a norma, mas sim a exceção. O verdadeiro sucesso vem quando conseguimos desacelerar, respeitando o tempo, a energia e o potencial de cada colaborador. Essa é a forma de combater a corrupção silenciosa e de construir um caminho para um sucesso mais sustentável e equilibrado.
+
+
+
+
+
+
