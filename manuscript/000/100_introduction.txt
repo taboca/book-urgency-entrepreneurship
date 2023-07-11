@@ -1,4 +1,4 @@
-# Introdução
+# Introdução #
 
 Quando alguém diz "vamos devagar", normalmente não soa bem, particularmente no ambiente de trabalho onde as pessoas colaboram. Parece algo negativo, como um alerta que diz "perigo à frente", ou transmite uma ideia de baixo desempenho. Por outro lado, "vamos acelerar!" é uma ideia que geralmente passa despercebida com um viés positivo. É mais fácil ouvir e aceitar ideias como "chegar mais cedo", "vender mais" ou "entregar mais rápido".
 
