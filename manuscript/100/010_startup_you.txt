@@ -6,35 +6,43 @@
 
 -->
 
-Todas as pessoas querem que algo bom aconteça com elas. Mas elas ou eles ou nós ou eu, pecamos. Neste sentido, apesar da nossa boa inclinação, vamos escolhendo certas atividades. Desenvolvemos preferências que não são boas para nossas metas. Às vezes achamos que uma atividade será boa e entramos de cabeça mas depois descobrimos que aquilo não saiu como o esperado. Esta questão é um assunto da relação entre o indivíduo e com o sistema, o mundo. O mundo interno versus o mundo externo. 
+Empreendedorismo vs. Descoberta: A necessidade de equilíbrio no universo empreendedor
+Todas as pessoas querem que algo bom aconteça com elas. Mas nós, em nossas infinitas escolhas e atividades, frequentemente pecamos. Apesar da nossa boa inclinação, desenvolvemos preferências que podem nos levar a um bom caminho ou não. Às vezes, acreditamos que uma atividade será benéfica e nos lançamos nela de cabeça, mas descobrimos que não saiu como o esperado. Esta questão reflete a relação entre o indivíduo e o sistema, o mundo. O mundo interno versus o mundo externo.
 
-Uma coisa fica claro, que é pouco provável que organizamos uma forma de conduzir nossas atividades, ainda mais diante do mundo que está mudança, diante das realidade, diante do mundo que está cada vez mais acelerado. Vamos meio que executando o dia a dia, meio que na tentativa e erro, meio que vivendo e aprendendo. Para Fabricio Morini, essa ideia é chamada de fazejamento [^fabriciomorinifazejamento].
+## Reagindo ao mundo: o empreendedor por necessidade
+
+Em um extremo do espectro empreendedor, temos aqueles que empreendem por necessidade. Impulsionados pela pressão do ambiente externo, eles reagem e executam. Seguindo o conceito de [^fabriciomorinifazejamento] de Fabrício Morini, esses empreendedores adotam um estilo reativo, movendo-se em resposta às pressões ambientais e sociais. Este método pode funcionar para muitos. O acaso de identificar maneiras de fazer melhor, a vontade de operacionalizar e responder aos clientes pode levar ao sucesso no tempo.
 
 [^fabriciomorinifazejamento]: Fazejamento é uma ideia que eu encontrei no livro de Fabricio Morini intitulado Faça seu Negócio Decolar. Inclusive eu troquei uma mensagem com o Fabrício via e-mail, uma forma de agradecer porque achei que ele contextualizou bem o que fazemos, o jeito que vamos fazendo e aprendendo. 
 
-Acredito que essa forma de encaminhar as coisas é também presente no mundo do empreendedorismo: Empreendedores tentam lançar ideias no mundo, ideias sonhadas. Mas diante da realidade, suas ideias não são exatamente aceitas e neste ponto surge frustração e até decepção com "a arte" de empreender. Nesse meio, muitos desistem. Neste meio, outros aprendem. Neste meio, outros tem sucesso. Neste meio, outros tem sorte. Só uma coisa não nos vem na mente, de cara, tão claro. Que neste meio, muitas vezes vivemos as coisas ao mesmo tempo, porque o mundo não é zero vs. um, tudo vs. nada, colorido vs. branco e preto. A realide é o mix de sorte, azar, cores, aprendizado, felicidade, tristeza, tudo.  
+No entanto, quando este modo de operação não funciona, a falta de planejamento pode ser desastrosa. Pode resultar em esgotamento do capital de giro, uma vez que a empresa não pode se dar ao luxo de errar por mais tempo.
 
-Uma coisa é clara neste livro sobre empreendedorismo. Não vamos focar no caso dos sortudos, como trazer receitas de sucesso, métodos específicos, fórmula para sucesso. Por outro lado, você terá uma oportunidade de refletir em cima lições de empreendedores e de suas startups. Ideias de empreendedores que descobriram que as ações dependem da realidade, do mundo, do mercado. Existe um tipo de empreendedor que vê o empreendedor como um protagonista que precisa responder ao mundo, mesmo quando suas ideias envolvem mudar o mundo. Acredito que esses inovadores encontraram um lado de disciplina, de rigor, um sistema de gestão. 
+## Planejando o futuro: o empreendedor visionário
 
-Em outras palavras, nossa jornada é para quem quer conquistar objetivos de inovação mas não sem contato com o mundo. Assim, podemos criar a nossa regra do jogo, para essa leitura, nossas reflexões. Vamos empreender engrenados na máquina, tudo bem? Vamos inovar sem ignorar o mundo, tudo bem? Essa ideia é bem articulada na colocação de Steve Blank que disse que nenhum plano de negócios sobrevive o primeiro contato com o cliente[^stevebusinessplan]. 
+No outro extremo, temos os empreendedores que planejam e olham para frente. Esses empreendedores concentram-se na visão e tentam transpor para a realidade. Eles elaboram planos de negócios meticulosos mas quando se colocam no mercado as coisas começam a dar errado.  Essa ideia é bem articulada na colocação de Steve Blank que disse que nenhum plano de negócios sobrevive o primeiro contato com o cliente[^stevebusinessplan].  
 
 [^stevebusinessplan]: O artigo do Steve Blank em inglês https://steveblank.com/2010/11/01/no-business-plan-survives-first-contact-with-a-customer-%E2%80%93-the-5-2-billion-dollar-mistake/
 
-Inspirado nessa ideia, podemos também formular uma versão para o indivíduo: Nenhum protótipo de pessoa sobrevive ao contato com a vida, sem aprender. 
+## A necessidade de adaptação e planejamento
 
-A realidade é que toda pessoa vive na rotina onde muitos dos problemas são problemas da relação com o mundo. O que acontece é que caímos na pegadinha de nos distanciarmos do mundo real. Acabamos muitas vezes cativados na mesma situação da grande maioria das ideias de startups: Vivendo em estado de frustração ou confinados com ideias em estágio de pré-lançamento, não se lançando ao mundo ou se lançando em um mundo menor, uma realidade do nosso plano inicial. A ideia do indivíduo que se lança ao mundo pode ser análoga com a ideia de lançar uma empresa:
+Nestes dois extremos apontados, surgem desafios que exigem adaptação e planejamento. Para o empreendedor reativo, há a necessidade de interromper a execução e planejar. Para o empreendedor visionário, há a necessidade de adaptar o plano de negócios à realidade.
 
-O paralelo da start-up: Uma ideia inicial, um sonho de produto e empresa, ainda que não se encontra adequado ao mercado (o mundo). Lançar essa start-up é menos relacionado com o "super lançamento", uma empresa já pronta com controle sobre o sucesso. A ideia, que precisa nascer ou sair da fase inicial, do protótipo de ideia, precisa adentrar um mercado mas sem passar em cima dos valores. Uma vez que se relaciona com o mundo, que provê serviços e ao mesmo tempo ganha lucros, ela passa se vê como adequada. Uma vez adequada ela quer se estabelecer no mercado de forma duradoura e produtiva. Para isso ela sabe que tem que fazer algo bom para seus constituintes: funcionários, sócios, investidores, fornecedores, clientes, e parceiros; consequentemente para o mundo.
+Muitos empreendedores se veem frustrados e até decepcionados com a arte de empreender quando suas ideias não são aceitas pelo mercado. Muitos desistem nesse momento. No entanto, vale lembrar que, se houvesse tempo, paciência, aprendizado e recursos ilimitados, não existiriam coisas que não funcionam. Em meio a todas essas experiências, alguns aprendem, alguns têm sucesso, outros têm sorte.
 
-Com isso vamos olhar para a pessoa como sendo uma ideia de pessoa que quer encontrar seu propósito, durar, prosperar. Com base no paralelo da startup, nós vamos trazer um pouco de rigor e gestão de produtividade - recomendações para uma vida melhor. Isso porque o mundo do empreendedorismo e gestão encontrou uma forma que dá suporte: Um pensamento para gerir o aprendizado diante de hipóteses, das experimentações, das falhas, com o objetivo de atingir verdades mais rápido.
+Encontrando um equilíbrio
+A realidade é que nem todos nós temos todo o tempo do mundo. À medida que enfrentamos desafios e prioridades concorrentes, nos encontramos na difícil situação de tentar criar mais tempo para fazer o que precisa ser feito. Mas a verdade é que o tempo é um recurso limitado e, mesmo que quiséssemos, não poderíamos simplesmente "abrir mais tempo". Em vez disso, o que precisamos é aprender a gerenciar nosso tempo de maneira mais eficiente.
 
-Com base nas lições e reflexões do pensamento de empreender, as próximas seções são recomendações para uma melhor gestão do ser, do indivíduo.
+Isso começa com o reconhecimento de que a unidade fundamental de qualquer empreendimento, seja uma startup ou uma grande corporação, são as pessoas. Cada indivíduo, seja fundador, membro da equipe ou colaborador, contribui com sua energia única para a organização. E essa energia precisa ser respeitada e administrada de forma eficaz.
 
-### Toda ação do indivíduo é uma atividade no mundo
+Não podemos simplesmente abrir mais tempo para tarefas importantes. Precisamos garantir que o tempo dedicado a essas tarefas seja bem utilizado. Isso implica permitir que cada pessoa faça sua parte, respeitando seu tempo e sua energia.
 
-Primeiro, vamos olhar para o mundo das startups mas logo depois vamos tirar uma comparação e lição que também funciona para o indivíduo. No lado da startup, podemos dizer que toda ação de uma startup é uma ação no mundo. Para empreendedores iniciantes essa ideia pode ser um tanto confusa justamente porque uma startup, sendo a empresa antes da empresa, é muito mais baseada na ideia, no conceito. Ou seja, na fase inicial ela não é o produto, não tem clientes nem parceiros nem constituintes.
+Além disso, também precisamos considerar o tempo que o time como um todo precisa para crescer e aprender. Isso significa contabilizar o tempo necessário para educar, planejar e até errar como equipe. O equilíbrio entre esses fatores - tempo, energia e aprendizado em equipe - é crucial para um gerenciamento eficiente.
 
-Mas o empreendedorismo moderno nos ensina que não é necessário se distanciar do mundo simplesmente porque ainda não estão lançadas. Longe disso, de fato as startups encontram seus caminhos estabelecendo uma relação de interação com o mundo. Mas que mundo é esse? Como podem os sonhadores, os cofundadores, que tem ideias de ações românticas projetadas para um futuro poderem usar do mundo para lançar suas plataformas? 
+O espaço entre a reação e o planejamento é onde o verdadeiro empreendedorismo prospera. Neste espaço, aprendemos a nos adaptar às realidades do mercado e a encontrar tempo para planejar e refletir.
+
+A boa notícia é que, com coragem e dedicação, é possível encontrar esse equilíbrio. Ao respeitar nosso próprio tempo e o tempo daqueles que trabalham conosco, ao reconhecer que cada um de nós contribui com uma energia única e ao dedicar tempo à aprendizagem em equipe, podemos não apenas ter sucesso no mundo do empreendedorismo, mas também evoluir no processo.
+
+<!--
 
 #### A ação de design 
 
@@ -98,3 +106,7 @@ Agora, vamos pensar que nosso planeta é uma grande empresa. Se tudo é uma gran
 O futuro não é a situação onde pessoas de fato ficam transitando entre tentativas de adequação nas empresas e nos projetos com o mundo. O futuro é mais simples e diferente: Nós estaremos com 4-10 “empregos” ao mesmo tempo justamente porque essas coisas deixarão um pouco a ideia do emprego como prisão e segurança, aquele tradicional que você tinha que voltar acabado para sua casa. No novo futuro que deixa de ver as coisas como emprego fixo, ou trabalho, estamos mais aprendendo e simplesmente convivendo conosco e com o mundo, nos adaptando e buscando fazer o melhor. É um espaço de auto aprendizagem constante. Se abraçarmos essa ideia estamos mais aptos para esse mundo e convenhamos, ele pode ser melhor.
 
  [1] https://steveblank.com/2010/11/01/no-business-plan-survives-first-contact-with-a-customer-%E2%80%93-the-5-2-billion-dollar-mistake/
+
+
+-->
+
