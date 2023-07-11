@@ -45,3 +45,10 @@ Benjamin J. Warnicka, Charles Y. Murnieks, Jeffery S. McMullen, Wade T. Brooks. 
 
 * en-us - Collins, J. (1994). Built to Last: Successful Habits of Visionary Companies. Harper Business; 3rd ed. edition. // From Wantrepreneur. 
 * pt-br - Collins, J. (1994). Built to Last: Successful Habits of Visionary Companies. Harper Business; 3rd ed. edition. // From Wantrepreneur. 
+
+<!-- From  350_shifting_sports.txt --> 
+
+* Osherove, R. (2016). Elastic Leadership: Growing Self-Organizing Teams. Manning Publications.
+
+* Leanpub. (April 4, 2012). Interview with Roy Osherove, author of Notes to a Software Team Leader [Video]. YouTube. https://www.youtube.com/watch?v=Hr6YoQH1cEs
+

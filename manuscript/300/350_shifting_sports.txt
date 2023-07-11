@@ -1,0 +1,33 @@
+# Shifting context of management 
+
+<!--
+
+## Todo
+
+* [!] BRing the notion from Brian about shifting sports 
+* [!] Bring a notion from Michael Dearing 
+
+## References
+
+Osherove, R. (2016). Elastic Leadership: Growing Self-Organizing Teams. Manning Publications.
+
+Leanpub. (April 4, 2012). Interview with Roy Osherove, author of Notes to a Software Team Leader [Video]. YouTube. https://www.youtube.com/watch?v=Hr6YoQH1cEs
+
+-->
+
+Navigating the winding, ever-changing path of a start-up is a unique challenge. Not only does the company itself undergo transformative shifts, but the leaders at the helm must also adapt their approach in accordance with the prevailing context. One notable strategy that aids in handling these changes with grace and efficiency is the idea of 'elastic leadership', an innovative approach that recognizes the fluctuating circumstances of start-up growth and aligns leadership styles accordingly.
+
+Peter Armstrong, the CEO of Leanpub, the very platform on which this book was authored, conducted an insightful interview with Roy Osherove, the author of a work entitled 'Elastic Leadership' (Osherove, 2016). In the interview, Osherove elucidates the concept of elastic leadership, noting its flexibility as a managerial approach in rapidly shifting environments: 
+
+> "One of the biggest points about the idea of elastic leadership in the book is something that I’ve been missing a lot. It’s basically a framework for deciding what type of leader should you be, based on the current situation with the team. So it’s more of a framework to say, What is the current situation of the team? Are we in chaos, are we in learning mode, are we in self-organizing mode, and then to change accordingly." (Leanpub, 2012)
+
+This concept echoes the circumstances frequently encountered by start-ups. As they find their footing, it is vital for the management to recognize the shifting contexts and respond with a mode of leadership suitable for the specific stage of the company. Thus, elastic leadership can act as a guiding principle for start-up leaders to adapt to their evolving ecosystems effectively, fostering a conducive environment for growth and progress.
+
+
+<!-- 
+
+* Abe maslow, p.178 - for Maslow, a question of time and time span affects collaboration and management. The illustration is of an environment where quick decisions are needed. In this situation, the superior (in the case of maslow a player that is superior in Intelligence) have a tendency to make decisions quick, to be directive, authoritative and to not allow room for discussion. It's an urgent agenda with no time for redesigning, possibly allowing actions such as harvesting or applying the potential that is on the table. On the other hand, there could be a situation that more time is allowed, thus in this scenario the superior can act differently. In this case, Maslow considered the building of a business to last for 50-100 years. In such protected frame, the dynamics of the group could be different and tending to the participative front, even in the condition of a natural unbalance with superiority of manager amid subordinates. If the time range is higher, such as if we extrapolate to the point of the need for a manager to find its sucessor, then the authoritativeness approach may become different, such as it may have better chances to tend to the manager approach as pointed by Andy Grove, the manager as an educator for example.
+
+* Maslow adds, p.178, "this is a little like saying again that the ideal management policies are best under good conditions in a good world for management of good people. " And "If we had a peaceful, one-world society in which there were none of the present emergencies and in which we could patiently work toward the improvement of mankind, then the more participative management would be more desirable, even under this special condition of admitted superiority. "
+
+--> 
