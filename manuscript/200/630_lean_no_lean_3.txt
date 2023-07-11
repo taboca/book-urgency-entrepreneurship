@@ -1,4 +1,4 @@
-## O viés da agilidade dos processos ágeis
+# O viés da agilidade dos processos ágeis
 
 > “A melhor prática aqui é desenvolver uma tolerância para  momentos de injustiça nos períodos de ambiguidade. Fique forte e calmo para que a situação se resolva e as nuvens em torno dos momentos de mudança possam se dissipar.” (Scott Belsky{id: author-scott-belsky-200-600-a1}, 2010, Making Ideas Happen)
 

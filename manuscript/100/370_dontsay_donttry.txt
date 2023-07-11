@@ -1,4 +1,4 @@
-## Liberação do Controle 
+# Liberação do Controle 
 
 * https://chat.openai.com/share/9807fa1a-21b2-40f0-95dc-fe6527ebae5e
 

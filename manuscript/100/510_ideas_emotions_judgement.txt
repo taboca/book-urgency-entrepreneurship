@@ -1,8 +1,10 @@
-## Julgamento de Atividades  
+# Julgamento de Atividades  
 
+<!--
 * Ajuda de Ayn Rand e Julia Cameron
 * Primeiro rascunho
 * Precisa ser traduzido para pt-br também
+-->
 
 Eu queria escrever sobre as emoções e julgamentos que podem atrapalhar a execução de projetos. Empresas, start-ups e equipes - tudo tem seus membros, pessoas. Elas sentem, eles têm emoções. Ainda, somos contadores de histórias, e fazemos sentido do que fazemos através de narrativas. E, julgamos o que fazemos, quando fazemos em tempo real. É a nossa habilidade natural.
 

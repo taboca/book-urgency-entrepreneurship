@@ -1,6 +1,8 @@
-## Explosão das Narrativas 
+# Explosão das Narrativas 
 
+<!--
 * Chatgpt - https://chat.openai.com/share/0785f6b1-3409-422a-9099-3473dca869b6
+-->
 
 Na era pré-digital, a vida era mais simples, mais tangível. Imagem uma fazenda isolada, onde o acordar não é ditado por um alarme em um dispositivo eletrônico, mas pelo cantar do galo e o nascer do sol. Nessa fazenda, o café é feito no fogão a lenha, e a conexão mais importante do dia é com a natureza. Cada evento que acontece é palpável, local, ligado a um ciclo natural e rítmico. Pode ser um bezerro nascendo, uma maçã caindo da árvore. Não existe uma expectativa de sequência, apenas a aceitação do fluxo da vida.
 

@@ -1,4 +1,14 @@
-## The Boring Yet Critical Part of Entrepreneurship is Management and Innovation Accounting (feat Eric Ries part 2)
+# Innovation Accounting 
+
+<!--
+# The Boring Yet Critical Part of Entrepreneurship is Management and Innovation Accounting (feat Eric Ries part 2)
+
+### References
+
+* This https://medium.com/@taboca/next-the-boring-yet-critical-part-of-entrepreneurship-is-management-and-innovation-accounting-88533eea44da
+* Eric Ries, 2011, The Lean Startup at Talks at Google https://www.youtube.com/watch?v=fEvKo90qBns
+
+-->
 
 > “What I think is really interesting about these stories about entrepreneurship is that 95% of the time of the movie is spent in act one and act three even though in real life all of the important work of entrepreneurship happens during the photo montage. “ Eric Ries @ Talks At Google 2011, 4:58s
 
@@ -9,8 +19,3 @@ The “photo montage” component of entrepreneurship is where the learning is h
 * Which customers to listen and how to ignore;
 * How to prioritize product features;
 * How to hold people accountable, how to measure if what they are doing means progress.
-
-### References
-
-* This https://medium.com/@taboca/next-the-boring-yet-critical-part-of-entrepreneurship-is-management-and-innovation-accounting-88533eea44da
-* Eric Ries, 2011, The Lean Startup at Talks at Google https://www.youtube.com/watch?v=fEvKo90qBns

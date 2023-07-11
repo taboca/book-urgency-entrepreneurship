@@ -1,6 +1,13 @@
-## Execução consciente
+# Execução consciente
 
-### CEO role is to bringing the pieces together
+<!--
+## History  
+
+* book-meu: Feat. Andrew from SixDegree and Proficiency for an Entrepreneur 403e0eb1-8e44-496e-9cc9-ea1628c8ee2f Wednesday, March 25⋅7:15 – 8:00pm
+-->
+
+
+## CEO role is to bringing the pieces together
 
 * One — there are best practices, and the CEO needs basic superpowers,
 or to develop the proficiency for all the best practices: commission
@@ -26,6 +33,3 @@ excuse for not having the minimum level of competency;
 [Ref](https://www.youtube.com/watch?v=t6KiEDppCVY&t=997s)
 [Duration](#duration=197s)
 
-### History  
-
-* book-meu: Feat. Andrew from SixDegree and Proficiency for an Entrepreneur 403e0eb1-8e44-496e-9cc9-ea1628c8ee2f Wednesday, March 25⋅7:15 – 8:00pm

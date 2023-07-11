@@ -1,4 +1,12 @@
-### Strategic dissonance by Andy Grove - related to big companies going through a strategic inflection point
+# Strategic dissonance 
+
+<!-- 
+
+by Andy Grove 
+
+- related to big companies going through a strategic inflection point
+
+-->
 
 Relates to the notion at Only the Paranoid Survive. The notion of strategic dissonance is presented by Andy Grove and relates, p.128 according to Andy to a  "divergence between actions and statements". It happens when companies going through strategic inflection points begins to respond but the commitment is blurred, the magnitude of the problem is not acknowledged.
 
@@ -6,7 +14,7 @@ Relates to the notion at Only the Paranoid Survive. The notion of strategic diss
 
 According to Andy Groove, it is inevitable because people fall in the trap of their prior success.
 
-#### The data is around and you don't even know it
+## The data is around and you don't even know it
 
 On detection, for the notion of strategic dissonance as presented by Andy Grove, employees can help, specially the ones that are "wise to their world and their environment". To detect is a subtle thing, it may come like, according to Andy, in situations such as when a leading team speaks — they are answering questions about strategy, and these vital employees would throw follow up questions such as "but what about... " or "does it mean... "
 
