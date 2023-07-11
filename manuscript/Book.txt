@@ -42,35 +42,33 @@
 200/000_part2.txt
 200/050_super_fast_really_works.txt
 200/080_reaction.txt
+200/090_saying_thanks_reflections.txt
 200/100_reactionary_execution.txt
 200/120_reaction_with_potentialized_animated_transactional_items.txt
 200/150_controlling_control.txt
 200/200_success_as_a_service.txt
 200/250_stop_impressing_or_being_impressed.txt
 200/300_managing_future_eye_present.txt
+200/320_strategic_dissonance.txt
 200/350_first_to_friends_no.txt
 200/450_urgent_vs_important.txt
 
-#200/600/200_falando_que_faz_lean_vs_fazer.txt
-#200/600/400_doing_lean_vs_talking_about_lean-en-us.txt
+200/610_lean_no_lean_1.txt
+200/620_lean_no_lean_2.txt
+200/630_lean_no_lean_3.txt
+200/640_business_canvas.txt
 
-200/600/100_doing_lean_vs_talking.txt
-200/600/150_never_send_business_model_canvas.txt
-200/600/300_strategic_dissonance_en-us.txt
-200/600/900-awareness.txt
-200_700_do_things_that_dont_scale.txt
-
-200/800/100_collaboration_innovation_management.txt
+200/700_do_things_that_dont_scale.txt
+200/800_collaboration_new_medium.txt
+200/900_awareness.txt
 
 ### part 3
 
 300/050_intro.txt
 
-# v0.2 
-300/090_saying_thanks_reflections.txt
+300/070_bad_investors.txt
+300/100_partners_bad_investor.txt
 
-300/100_partners_bad_investor-en-us.txt
-300/100/100_mal_investidor.txt
 300/150_entrepreneurship_is_management.txt
 300/200_invisible_contracts_and_our_roles.txt
 300/250_they_system_does_not_allow.txt
@@ -79,9 +77,8 @@
 300/330_team_dynamics_self_esteem.txt
 300/400_managing_certainty_gap.txt
 
-#300/410_lean_storytelling.txt
-#300/470_culture_productivity.txt
-
+300/410_lean_storytelling.txt
+300/470_culture_productivity.txt
 300/480_fear_and_entrepreneurship.txt
 
 500/050_references.txt
