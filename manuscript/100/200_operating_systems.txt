@@ -1,4 +1,4 @@
-# O sistema operacional invisível
+# Invisible operating systems 
 
 <!--
 
@@ -13,6 +13,68 @@
 * Eu escrevi o abaixo, passe para pt-bR mas gramaticalmente correto, estilo non-fiction, como vc percebeu. 
 
 -->
+
+When we use things, as tools, it simply does not make any sense to judge the tool, not in real-time as you are using it. A distortion in my mind s operating system probably compels me to always judge things. I know, it it a problem. 
+
+So we accept, for the sake of being and living in this society, that things are the things we have in front of us. Back in the 1700s, back in Oliver Evans days when he was a kid, he had the chance to see wheels, as he grew up as an apprentice of a wheelwright. 
+
+Looking at the river flowing, looking at the animals of the farmers, being used to flow a system of trade, he had to accept that certain things were what they were. Well, not he, not the young Oliver Evans. I will get to that point but now, for now, let's just focus in our natural ability to be pragmatic, to use systems, to find out way around by accepting the systems and tools, perhaps in many cases modifying them. But for many of us, not totally having time, or being in a position, to modify the tool. 
+
+When we are not masters, experts, in front of a tool, we tend to out ourselves in the position of being subordinate to that. Well, it's not new. The master, teaching to you, knows more. It is probably part of our biology, our brains, our natural instinct and operating reality - that we put ourselves almost in a position of being a learner. I say that because a learner, an apprentice, can be a subordinate but it is accepting incoming new data, learning. 
+
+But for many new things that we do, in our modern world when we are in front of tools, the subordinate hat is there, present. However, we don't exactly put on the learner's hat. This is also supported by the fact that you don't have a mentor by your side. We feel that we are alone. Consider how many people have underutilized a scientific calculator. The calculator itself cannot help you.
+
+![drawing of a power calculator and a finger doing 1 plus 1]()
+
+So we arrive at the door of where I wanted us to reflect. In front of tools, and systems, of our modern world, we are stuck, alone. Using our own ways to deal with these tools, eventually trying to figure a thing or another, we are being the subordinate role but we are not engaging in the apprentice role. A life with no masters and eventually, through collaboration, if you are lucky to collaborate with a tool between you the your colleagues, then yes perhaps you would have better chances to learn. 
+
+Let's zoom in in what is an operating window of a popular operating system that was created in end of the 1900s by the entrepreneur know as Bill Gates. He had helped to popularize the computer using a system and method known as the operating system. The main thing a normal person would see, in front of what came to be know as personal computers, is what the industry have named, the user interface. Now, if we go back in time to the days of the typewriter, and consider the emergence of the first personal computers that seemed to have some resemblance with type writers, we would find ourselves in a complex place to grasp. Yes, you would assume that it could be used to type text, such as an article. But the fact that you can see your text inside a window, a digital window that shows a visual representation of a page? Well, my friend, that is tricky, and new. Mainly as you instantly figure that you can throw away the page if you want, without the necessity to use paper. And better, that you can edit the paragraph. Erasing a character seems amazing. 
+
+Now, that is just one small thing of an operating system as the user would be trying to understand a text editor. 
+
+Although one could find their way in front of a user interface, a curious person, the new world of possibilities of the digital systems, the system interfaces, have created a complexity that puts the user in the subordinate position, of not knowing really how to use the tool, not entirely. This situation is not so different from the situations of a young boy in the farm in the 1700s that would not know exactly how to use a hammer. He likely need to learn with a master. Likely he has a master. Actually the very world master carries a duality in the situation. He was likely learning but also likely serving the master. 
+
+But back to the modern world of digital systems, we have no mentors and these tools can do a lot for us, already. Most tools are also designed with an intention of being simple. In other words, they invite the user at all times. 
+
+So, in a way, we know we can use a system though its user interface. We know partially how to use. We are invited to use. But we can't exactly cross the barrier to judge for a perhaps a few reasons such as the fact that we are likely using the tool because we need for something, thus pausing to learn is not in alignment with the goal. A related aspect of that is that the consideration of something new to be there, something to judge, something to learn, triggers the overwhelming possibility, the blank canvas effect. All the possible extras here are likely something that demands us to be in the apprentice mode, to have a proper mentor that would know our interest and need, the local need. And it's not entirely our fault that we won't have the inclination to seek things when we are doing things. We know that because the universe of things that digital systems offer is not curated by the one next to us, the one that would take care of us, that would know our goals. So we fear that we could be teased into a feature that us just a trap. So there is that. 
+
+Another element that we feel, in front of user interfaces of digital systems, and assuming that condition of the one that has decided to not engage in being a master of the tool, and that is inclined to use part of the tool, is the natural responded of being in the position of acceptance. Therefore, we don't become subordinate for all that the tool tell us, because we like to accept. It turns out that we have engaged with the tool with a prior mindset of being there to solve. We have our means to try to find workarounds, say in front of potential problems; but we won't be in a position of digging too much. 
+
+This position puts us in a mindset of accepting the subset of what we see, and use, as the reality. In addition, the systems also communicate, which is a strong element for any user. User interfaces written by software developers and their product people, are intended to put the user in the position to move forward. Yes, some of them have little boxes where you can inform a potential bug but the general idea of a good user interface follows from the premise that a good user interface should not be perceived by the user, as in it puts the user closer to solving the problem. A good ideal, for sure. 
+
+So the user feels to be in a certain mindset if accepting, part of the story. In addition, the user also gets straight messages from the modem user interfaces, messages that are assertive. Although we sometimes have the hint that there is a matrix behind these systems, when users have reported seen the blue screen of death, or a java error for example - see figure x. Although that, the actual formal messages never really reveal what is totally going on, possible alternate routes, their flaws. Right, as designed, not to be weak,  not to put the user in a position to modify, to change, to judge. 
+
+A common situation that I keep seeing in Brazil as we have a white developed digital payments systems when you go local and want to pay. The "card processing" machines never ever shown an error. They give all sorts of messages that many people go though. Invalid card, problems with the magnetic, try again, insufficient funds, transaction denied, and a lot more. I can't count the many times that I went through that situation and had a feeling that I had a problem in my bank or with my card. Somehow is always on me. And it is worse because if it crosses your mind, for a micro second, the possibility of being the system, that idea is vanished right away as you look at the operator and their face. They also support that idea. I even hard times with operators as they were certain it was a problem with my card. Yes, I confess, in a few occasions I didn't have money. But it is so sad to think the amount of people that feel bad for these messages, as they feel partly responsible. 
+
+As a software developer by background, i have to believe that the people that work with these systems have jobs, that they are still working. It is natural for me to even consider that some of these systems are sometimes full of requests to a point that they fail, such as specially during the hush ours, lunch time for example. 
+
+But no, never, I have never seen a message saying: apologies dear user, our system is resting now, or our system is digesting, or our system is being updated, or we have bugs. 
+
+So, going back to us in front of user interfaces? We trust too much that tool that we are not experts, that we partly use. We are subordinates to the experience. It's me, it is the way it is. 
+
+These other element of communication in tools is not only a projection that sets us in a mindset due to messages. It is also a projection related to the actual job to be done, the objective. Consider, for example, that have to access a government system, such as the system that you know it is critical such as if you are paying taxes or requesting your retirement, or modifying something related to your health plan. 
+
+Now, the experience gets quite complex, as you consider the fact that you may not even accept the whole experience, out of basic math right? Here I am, in front of a computer don't fully understand, using a operating system I don't fully understand, using a browser I don't fully understand, using a site I don't fully understand, in front of a page of this government, which is very assertive in terms of the outcome messages, such as when it says that my password is not right. But at the same time is very subjective in terms of the written texts, as I see that there are lots of information trying to help me and or trying to help others. I can't quite know this is for me, actually. The text is not curated to my exact situation. Many prefer to go physically to a department, if they could. But it is difficult too to even know where to go, as the first interaction experience with many of these critical systems start from the web. 
+
+In that situation, with the mindset we are, we are not only subordinates to how we perceive the user interface, we are lost, and not to forget, we had a mission, a pressure. Thus, to make things worse, time ia counting. And with that we find ourselves in situations such as: 
+
+* Give up 
+* Try again other time 
+* Be mad 
+* Be confused 
+* Be lost 
+* Be overwhelmed
+* You get the idea 
+
+Now, after this long attempt to visualize the complex problem when we are using user interfaces, we come to the point of trying to find value, or lessons. Well, what can I say? I don't have the answer to you aside from using your time here for us to celebrate the life of the many normal people that have created these imperfect tools that are communicating as if they were working. 
+
+To be fair with them, imagine if that payment machine threw a message to the user during lunch time saying "apologies, I am having a hard time to complete your transaction as I am updating my server database." In the online world, perhaps a lot of people would use their online connectivity to complain not only about the brand of the payment system but also the brand of the store they were. 
+
+This celebration, that you in front of a tool is part of the equation, that there is another world, or worlds acting together, is your reminder to, when possible, try to curate your way, to pounder, to be nice with yourself, to support you. 
+
+Yes it will be tough, to pause, for example to reflect, to relax in a way that can help us with systems. But when possible, when you are in a hard situation with an interface, try to. 
+
+Part of the trigger to give yourself a new chance had to do with the idea of let go. In a variation of giving up. As you figure that things are not happening, that the user interface is overwhelming, you can stop, pause, breath, reboot yourself in front of that thing instead of just rebooting the computer. When you let go your intention to control the situation, you might put yourself in a more vulnerable place, which is a place of listening, observing. You can also put compassion to the others that are still working in that department, to the software developers, to the people that wrote the text. In a way it is like judging but a judgement that will sentence you to do something different, perhaps to read the page in slow mode, perhaps to ask for help, perhaps to write a message in their support channel, try again with a different viewpoint, you name it.
 
 Quando usamos coisas, como ferramentas, simplesmente não faz sentido julgar a ferramenta, não em tempo real enquanto a estamos utilizando. Uma distorção no sistema operacional da minha mente provavelmente me obriga a julgar as coisas sempre. Eu sei, é um problema.
 
