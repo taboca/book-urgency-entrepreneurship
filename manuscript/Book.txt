@@ -29,6 +29,7 @@
 100/370_dontsay_donttry.txt
 100/390_mood_analysis_planning.txt
 100/400_hora_h.txt
+100/480_fear_and_entrepreneurship.txt
 100/500_ideas_emotions.txt
 100/510_ideas_emotions_judgement.txt
 100/600_valley_difficulties.txt
@@ -84,6 +85,5 @@
 
 300/410_lean_storytelling.txt
 300/470_culture_productivity.txt
-300/480_fear_and_entrepreneurship.txt
 
 500/050_references.txt
