@@ -24,6 +24,8 @@ Quando não somos mestres, especialistas, diante de uma ferramenta, tendemos a n
 
 Mas para muitas coisas novas que fazemos, em nosso mundo moderno quando estamos na frente de ferramentas, o chapéu de subordinado está lá, presente. Porém, não exatamente colocamos o chapéu de aprendiz. Isso também é apoiado pelo fato de que você não tem um mentor do seu lado. Sentimos que estamos sozinhos. Considere quantas pessoas subutilizaram uma calculadora científica. A própria calculadora não pode te ajudar.
 
+![Dedos utilizando uma calculadora complexa para somar um mais um]()
+
 Então chegamos à porta de onde eu queria que refletíssemos. Diante das ferramentas e sistemas do nosso mundo moderno, estamos presos, sozinhos. Usando nossos próprios meios para lidar com essas ferramentas, eventualmente tentando descobrir uma coisa ou outra, estamos sendo o papel de subordinado, mas não estamos nos engajando no papel de aprendiz. Uma vida sem mestres e, eventualmente, por meio da colaboração, se tiver a sorte de colaborar com uma ferramenta entre você e seus colegas, então talvez você tenha melhores chances de aprender.
 
 Vamos focar no que é uma janela de operação de um sistema operacional popular que foi criado no final dos anos 1900 pelo empresário conhecido como Bill Gates.
