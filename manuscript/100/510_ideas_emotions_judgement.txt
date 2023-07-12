@@ -4,6 +4,15 @@
 * Ajuda de Ayn Rand e Julia Cameron
 * Primeiro rascunho
 * Precisa ser traduzido para pt-br também
+
+## Referencias
+
+Cameron, J. (1998). The Right to Write. TarcherPerigee.
+
+Y Combinator. (2016, 25 de outubro). Marc Andreessen na Startup School SV 2016[vídeo]. Recuperado de https://www.youtube.com/watch?v=NEOR0AJsziE
+
+
+
 -->
 
 Eu queria escrever sobre as emoções e julgamentos que podem atrapalhar a execução de projetos. Empresas, start-ups e equipes - tudo tem seus membros, pessoas. Elas sentem, eles têm emoções. Ainda, somos contadores de histórias, e fazemos sentido do que fazemos através de narrativas. E, julgamos o que fazemos, quando fazemos em tempo real. É a nossa habilidade natural.
@@ -39,11 +48,6 @@ Olhar para o momento da escrita de um escritor, e suas etapas, parece nos dar um
 Julia Cameron acrescentou que, para as situações em que conseguiu deixar seu juiz de lado - "Quando voltei para polir, descobri que não havia muito a corrigir ou mudar. Uma quantidade notável do meu material de primeira versão resistiu ao teste de escrutínio posterior. "(Cameron, 1998, p. 19)
 
 Portanto, chega o ponto para refletirmos, considerarmos, que precisaremos separar o progresso do julgamento para evitar o drama no ponto de vista de Julia Cameron. Julgamento no caminho nunca é um bom julgamento e pode ser, de fato, um drama.
-
-Referências
-Cameron, J. (1998). O direito de escrever. TarcherPerigee.
-
-Y Combinator. (2016, 25 de outubro). Marc Andreessen na Startup School SV 2016[vídeo]. Recuperado de https://www.youtube.com/watch?v=NEOR0AJsziE
 
 
 
