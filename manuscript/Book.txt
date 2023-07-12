@@ -26,6 +26,7 @@
 100/300_execution_urgency_neglecting_redesign.txt
 100/350_pressure.txt
 100/370_dontsay_donttry.txt
+100/390_mood_analysis_planning.txt
 100/400_hora_h.txt
 100/500_ideas_emotions.txt
 100/510_ideas_emotions_judgement.txt
@@ -46,6 +47,7 @@
 200/080_reaction.txt
 200/090_saying_thanks_reflections.txt
 200/100_reactionary_execution.txt
+
 200/120_reaction_with_potentialized_animated_transactional_items.txt
 200/150_controlling_control.txt
 200/200_success_as_a_service.txt
