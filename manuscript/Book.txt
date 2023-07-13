@@ -36,7 +36,7 @@
 100/650_art_and_urgency.txt
 100/670_irreducible_collaborator.txt
 100/700_praise_navigation_ability.txt
-100/720_timeless.txt
+100/700_timeless.txt
 100/750_urgency_to_please.txt
 100/800_less_is_more.txt
 100/900_personal_board-en-us.txt
@@ -60,6 +60,7 @@
 200/300_managing_future_eye_present.txt
 200/320_strategic_dissonance.txt
 200/350_first_to_friends_no.txt
+200/360_team_dynamics_crying_is_ok.txt
 200/450_urgent_vs_important.txt
 
 200/610_lean_no_lean_1.txt
