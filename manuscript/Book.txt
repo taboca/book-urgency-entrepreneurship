@@ -62,7 +62,7 @@
 200/350_first_to_friends_no.txt
 200/360_team_dynamics_crying_is_ok.txt
 200/450_urgent_vs_important.txt
-
+200/500_executive_communication.txt
 200/610_lean_no_lean_1.txt
 200/620_lean_no_lean_2.txt
 200/630_lean_no_lean_3.txt
@@ -70,6 +70,7 @@
 
 200/700_do_things_that_dont_scale.txt
 200/800_collaboration_new_medium.txt
+200/850_true_collaboration_space.txt
 200/900_awareness.txt
 
 ### part 3
