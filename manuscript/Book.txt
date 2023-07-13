@@ -36,6 +36,7 @@
 100/650_art_and_urgency.txt
 100/670_irreducible_collaborator.txt
 100/700_praise_navigation_ability.txt
+100/720_timeless.txt
 100/750_urgency_to_please.txt
 100/800_less_is_more.txt
 100/900_personal_board-en-us.txt
