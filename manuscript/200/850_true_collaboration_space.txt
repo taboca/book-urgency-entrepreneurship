@@ -1,0 +1,79 @@
+# Collaborating with Tools in a Healthy Way
+
+<!--
+
+* Chatgpt - https://chat.openai.com/share/fb8fd1e1-4b52-4991-ab1b-494450c2fb1e 
+
+* [review] Refers to - "Invest in executive communication" @ 200/500_executive_communication.txt
+* [review] Refers to - "Selecting bad investors" @ 300/070_bad_investors.txt
+
+* [add] Refers to "Julia Cameron in The Artist's Way" 
+* [add] "Maslow in Maslow on Management" 
+
+* [add] Ref to book The Right to Write by Julia Cameron 
+
+* [check truth] Footnote [^alberteinsten] as I have pointed that he stressed philosophical inquiry as the means. 
+
+* Featuring ChatGPT
+
+-->
+
+ChatGPT was launched, and before I could comprehend its potential, I found myself leveraging it to craft texts. I noticed that this tool becomes increasingly effective the more experienced you are. As a seasoned individual in specific domains, you can readily guide ChatGPT, shifting its narrative. It may also resonate with those who learn through writing, like myself.
+
+However, some insights aren't tied to the technology behind the tool but to my personal experience interacting with it. The tool taught me valuable lessons about human productivity, collaboration, and how emotions and thoughts can obstruct a productive work session leading to high-quality work.
+
+Using ChatGPT has led to several discoveries about my processes and less about the tool itself. Yet, before delving into them, I must acknowledge what drove me to use ChatGPT. The incentive that led me to it was the enticing promise of potential rewards—if I communicate my desires, the tool will deliver.
+
+This article emphasizes the power of focused attention, especially when you're genuinely interested. Some professors excel at communicating the rationale behind their subject matter, encouraging students to pay attention.
+
+My trust in ChatGPT's capabilities could stem from my background—I've been interacting with computers since I was 10 and later pursued a degree in Computer Science. I hadn't expected technology to replicate reasoning in narratives. But upon using it, I realized it understood my needs in a unique way.
+
+This leads to observations about certain human shortcomings, likely brought on by our hurried approach to life.
+
+## The friendly entity that has patience to listen 
+
+The concept of an elevator pitch is familiar to many entrepreneurs—you have 30 seconds to pique an investor's interest. This approach is a test that they do - a selective system - as we will be able to reflect when reading "Selecting bad investors" in part 3. But this approach to acting has spreaded as we have mechanized communications in a way. So then in the current world as we know it, we simply can't use the time of an investor and start with a line "When I was born" or any sort of deductive [^deductionsucksforcommunication]. 
+
+[^deductionsucksforcommunication]: A sort of natural way of saying things has to do with recollecting how we learned, the deductive approach, which produces the listener to be bored and lost. A structured approach for business proposals, according to Barbara Minto in her book The Pyramid Principle, consists of structuring the introduction using Barbara's SCqA and providing supporting points in a logical order. For more, read "Invest in executive communication". 
+
+The phenomenon is in how we operate, it's demanded in everyday communication even among your friends, or family. They likely don't have the time, or the inclination and willingness, to understand upfront the reasons that compells you to be communicating something that you didn't say which you likely are trying to convey. The way we absorb information - plus the urgency of modern life - contribute to this phenomenon. Therefore, you are left on your own. The hush and harsh reality of life will eventually teach you to try again, other time, to go back home, do your homework and try to achieve clarity of ideas, then come back and try again. 
+
+However, there is now this new class of assistants that came on our way - these are the AI-based chat robots that might not suffer from these constraints. They might not be in a hurry so interacting with it might be an opportunity to clarify your ideas. By feeding it with bits and pieces of your narrative, including deductive stories; by gradually making your points, you should be able to interact with it and find yourself in a way towards clarity. 
+
+It could be the case that some people are using - or misusing - these AI robots in ways like that and are currently reporting that they are improving their lives. That the robot is listening to them. The phenomenon that leads them to put in this way might have to do with indeed their effort that was put in place, the opportunity, to iterate more. In other words, they are giving more time for themselves, writing more, putting "on paper" more. The act of putting on paper, as pointed by Julia Cameron in The Artist's Way, has therapeutic effects that can unlock the creative mind as perhaps control systems are less put in place, which resonates with the an enlightened way of living as pointed by "Maslow in Maslow on Management". 
+
+## Reading a well-Structured, friendly communication
+
+ChatGPT not only structures your ideas but also provides explanations in a clear, digestible manner, which is totally different from the approach that you typed in the first place - what it friendly has accepted with an optimistic and forward-looking inclination. Additionally, its simple, ad-free interface promotes focus and understanding. In addition, its note by note, as a chat, way of moving forward, is quite compatible with a way that the human is likely to be focused. In addition, its animated approach, typing word by word as of the version 4.0, is quite friendly to people that might have more or less difficulty to follow a lot of words in the screen. 
+
+Now, sum these features and consider the value of asking things and trying to elaborate thoughts with it, especially if you are person that is having a hard time to read online and put together the map of ideas that are working on. 
+
+I might have my own difficulties that some may try to tag as TDAH or dislexia; but I am also feeling that the web as it has contributed to develop habits in my personal operating system. I caught myself trusting too much a habit of doing searches across sites with different layouts, with a lot of unecessary additional visual things, which creates confusion. The seamless all in one screen approach of ChatGPT is a key aspect to pay attention, it gives a more relaxing interface which gives me an opportunity to improve the amount of time in front of it. 
+
+### The prize for good prompts? good questions leading to good answers 
+
+The phenomenon of creating prompts is well-acknowledged and far from being a new concept. The art and science of formulating prompts echo the larger discipline of crafting incisive questions. This subject is extensively explored. There's a famous quote by physicist Albert Einstein that encapsulates the idea:
+
+> "If I had an hour to solve a problem and my life depended on the solution, I would spend the first 55 minutes determining the proper question to ask, for once I know the proper question, I could solve the problem in less than five minutes." Albert Einstein [^alberteinsten]
+
+[^alberteinsten]: Albert Einstein (1879–1955), revered as one of history's most influential physicists, also engaged deeply in philosophical thought. Einstein stressed the importance of philosophical inquiry for fostering scientific creativity, advocating for a reflective approach as a cornerstone in advancing scientific knowledge.
+
+Or you can consider books like like "A More Beautiful Question: The Power of Inquiry to Spark Breakthrough Ideas." But we can also celebrate the interest in the idea when we check how people started to query for the word "prompt" since about February of 2023 and the correlation with searches for the word "chatgpt". 
+
+![Google Trends for the word prompt](images/google_trends_prompts.png)
+
+![Google Trends for chatgpt](images/google_trends_chatgpt.png)
+
+One more to consider is "prompt engineering" which is a keyword that can also take you to many books or courses: 
+
+![Google Trends for chatgpt](images/google_trends_prompt_engineering.png)
+
+What presents a significant opportunity - perhaps even more urgent than mastering the art of prompts - is a concept I absorbed from Julia Cameron from her course-book entitled The Right to Write. Cameron structures her book as a series of "invitations," essays that explore different aspects of writing. A particular article, "Bad Writing," resonated with me.
+
+Cameron suggests that liberating ourselves from the critic that insists on 'proper' writing can unlock our potential. Inspired, I engaged with one of her proposed exercises and encountered a profound revelation. The instant I ceased my obsession to write 'correctly,' and have accepted I could just do it, I caught myself in a space of freedom for connecting ideas, for coordinating ideas. 
+
+The approach by Julia seemed to match with the kind of prompts I was writing for ChatGPT, which gave me the impression that I was honing the skill of creating prompts. But again, not to miss the point, I was liberated from anxieties about grammar and judgment, I found myself driven to write, accessing my thoughts more effectively and efficiently.
+
+Intriguingly, even before I encountered Cameron's invitation, I experienced a glimpse of this phenomenon. One day, as I was motivated with the art of prompts, I have decided to write a prompt in a more relaxed and calmer way. The extra investment was not exaclty about trying to write a prompt like an article but still I was giving myself time and trying to write more properly. To my surprise I wasn't achieving only a well-crafted prompt but was surfacing the whole answer to what I was looking for. I caught myself joking "Hey, I am working for you, ChatGPT! It's you that should work for me!. " And, right after saying that, I experienced a chill coursing through my body as if my mind had been sucker-punched by a realization. "My friend, I was always here inside of you, able to write better, capable of crafting questions and even planning what is next in a proper way. You just didn't take the time to see me."
+
+At that moment I felt I coined the "Science and Art of Writing Prompts and Not Sending it to ChatGPT" and the revelations that you will see there resonate incredibly with the so strong point from Julia Cameron. 
