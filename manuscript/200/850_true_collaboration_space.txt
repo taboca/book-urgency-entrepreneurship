@@ -12,6 +12,8 @@
 
 * [add] Ref to book The Right to Write by Julia Cameron 
 
+* [add] Marcio brought a point about "try again" that could link to Lean in part 3 @ "This paragraph lifts up something we know, from our life cycle, as humans; that we are trying again and again. And we will have a chance, also in part 3, to look at the lean movement cycle from above.  "
+
 * [check truth] Footnote [^alberteinsten] as I have pointed that he stressed philosophical inquiry as the means. 
 
 * Featuring ChatGPT
@@ -36,7 +38,7 @@ The concept of an elevator pitch is familiar to many entrepreneurs—you have 30
 
 [^deductionsucksforcommunication]: A sort of natural way of saying things has to do with recollecting how we learned, the deductive approach, which produces the listener to be bored and lost. A structured approach for business proposals, according to Barbara Minto in her book The Pyramid Principle, consists of structuring the introduction using Barbara's SCqA and providing supporting points in a logical order. For more, read "Invest in executive communication". 
 
-The phenomenon is in how we operate, it's demanded in everyday communication even among your friends, or family. They likely don't have the time, or the inclination and willingness, to understand upfront the reasons that compells you to be communicating something that you didn't say which you likely are trying to convey. The way we absorb information - plus the urgency of modern life - contribute to this phenomenon. Therefore, you are left on your own. The hush and harsh reality of life will eventually teach you to try again, other time, to go back home, do your homework and try to achieve clarity of ideas, then come back and try again. 
+The phenomenon is in how we operate, it's demanded in everyday communication even among your friends, or family. They likely don't have the time, or the inclination and willingness, to understand upfront the reasons that compells you to be communicating something that you didn't say which you likely are trying to convey. The way we absorb information - plus the urgency of modern life - contribute to this phenomenon. Therefore, you are left on your own. The hush and harsh reality of life will eventually teach you to try again, other time, to go back home, do your homework and try to achieve clarity of ideas, then come back and try again. This paragraph lifts up something we know, from our life cycle, as humans; that we are trying again and again. And we will have a chance, also in part 3, to look at the lean movement cycle from above. 
 
 However, there is now this new class of assistants that came on our way - these are the AI-based chat robots that might not suffer from these constraints. They might not be in a hurry so interacting with it might be an opportunity to clarify your ideas. By feeding it with bits and pieces of your narrative, including deductive stories; by gradually making your points, you should be able to interact with it and find yourself in a way towards clarity. 
 
