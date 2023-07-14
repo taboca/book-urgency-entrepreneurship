@@ -2,6 +2,10 @@
 
 <!-- 
 
+## Sync 
+
+[fix en-pt] From this one 
+
 ## Todo 
 
 [add] Fix part C, bring the page 260 and make a point about networks and relationships on you way up. 
