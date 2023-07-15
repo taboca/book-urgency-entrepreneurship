@@ -1,9 +1,10 @@
-# Colaborando com ferramentas de comunicação 
+# Comunicação como ferramenta de comunicação 
 
 <!--
 
 * Chatgpt - https://chat.openai.com/share/fb8fd1e1-4b52-4991-ab1b-494450c2fb1e 
 
+* [sync] Sync this title with English title 
 * [review] Refers to - "Invest in executive communication" @ 200/500_executive_communication.txt
 * [review] Refers to - "Selecting bad investors" @ 300/070_bad_investors.txt
 
@@ -53,7 +54,7 @@ Now, sum these features and consider the value of asking things and trying to el
 
 I might have my own difficulties that some may try to tag as TDAH or dislexia; but I am also feeling that the web as it has contributed to develop habits in my personal operating system. I caught myself trusting too much a habit of doing searches across sites with different layouts, with a lot of unecessary additional visual things, which creates confusion. The seamless all in one screen approach of ChatGPT is a key aspect to pay attention, it gives a more relaxing interface which gives me an opportunity to improve the amount of time in front of it. 
 
-### The prize for good prompts? good questions leading to good answers 
+## The prize for good prompts? good questions leading to good answers 
 
 The phenomenon of creating prompts is well-acknowledged and far from being a new concept. The art and science of formulating prompts echo the larger discipline of crafting incisive questions. This subject is extensively explored. There's a famous quote by physicist Albert Einstein that encapsulates the idea:
 
