@@ -83,6 +83,7 @@
 300/150_entrepreneurship_is_management.txt
 300/170_sales_for_entrepreneurs.txt
 300/200_invisible_contracts_and_our_roles.txt
+300/220_positive_intentions_technology.txt
 300/250_they_system_does_not_allow.txt
 300/270_contracts_plus.txt
 300/300_role_models_design_empatia.txt
