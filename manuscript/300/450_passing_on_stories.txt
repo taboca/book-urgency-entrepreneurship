@@ -2,7 +2,14 @@
 
 <!-- 
 
+Synchronicity: 
+
+200_success_as_a_service.txt
+
+Chatgpt : 
+
 https://chat.openai.com/share/6eef3d42-b1ae-4ceb-88ca-58d52706430e
+
 --> 
 
 Introduction
