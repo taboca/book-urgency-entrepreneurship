@@ -2,7 +2,11 @@
 
 <!-- 
 
+v2.1
+
+[v2.1 - final, exercício reflexivo está na versão portugues]
 [!] Verificar, abaixo, inserir complicação. 
+
 
 -->
 
@@ -70,6 +74,15 @@ Para "lacrar" um pensamento e talvez até uma oportunidade. Considere se você p
 
 Agora, esses potes de soluções estão por toda parte. Reflita sobre os serviços, metodologias, sistemas. Perceba como tudo ao seu redor está prometendo algo. Perceba como tudo é atraente. Como tudo, como diria o brasileiro, chama atenção. Note como você provavelmente está preso na categoria de uma promessa, como um carro, uma pizza ou uma metodologia para expandir sua startup. Perceba como provavelmente estamos comparando opções e nos orgulhando de procurar a melhor oferta entre elas. Perceba como somos puxados para tomar decisões, para seguir em frente. Perceba como as consequências de decidir têm menos a ver com a promessa original e como soluções e decisões geram outros eventos.
 
+## Considerações e exercício reflexivo 
 
+Faça uma reflexão sobre como os produtos como metodologias se vendem. Exemplos: 
+
+* Artigos sobre empreendedorismo 
+* Business model canvas 
+* Lean start-up
+* Aceleradoras
+* Incubadoras 
+* Customer Discovery 
 
 
