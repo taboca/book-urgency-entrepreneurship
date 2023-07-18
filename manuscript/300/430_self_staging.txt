@@ -2,6 +2,8 @@
 
 <!--
 
+v2.2
+
 Referências
 
 Charman, T. (2015, June 18). The difference between Bootcamps, Incubators and Accelerators. Business Daily: Startups, Business Development, Management. Retrieved from https://medium.com/business-startup-development-and-more/the-difference-between-bootcamps-incubators-and-accelerators-632a4d4e8bd8
@@ -14,9 +16,9 @@ Graham, P. (2014, Outubro 9). Before the Startup with Paul Graham (How to Start 
 
 -->
 
-Na jornada empreendedora, a pressão por crescimento e expansão rápida é constante. Além disso, o desejo por validação social e aceitação profissional frequentemente leva os empreendedores a imergir profundamente na esfera digital. No entanto, essa imersão pode ser uma faca de dois gumes: embora ofereça feedback instantâneo e visibilidade, é também um terreno fértil para a autovalidação baseada em métricas são falhas e não representam a realidade do negócio. Esta situação torna-se uma complicação quando os empreendedores inadvertidamente começam a se validar e a tomar decisões com base nesses feedbacks falhos. Como podemos, então, compreender melhor essa dinâmica e ajudar os empreendedores a evitar essas armadilhas?
+Na jornada empreendedora, a pressão por crescimento e expansão rápida é constante. Além disso, o desejo por validação e aceitação social frequentemente leva os empreendedores a uma imersão de interações nas redes sociais. No entanto, essa imersão pode ser uma faca de dois gumes: embora ofereça feedback instantâneo e visibilidade, é também um terreno fértil para a autovalidação baseada em feedback superficial e que não representa validação para o futuro do negócio. 
 
-Para abordar essa questão, este artigo se propõe a explorar os fatores que contribuem para essa situação problemática, começando com como as redes sociais podem dar suporte para a autoestima do empreendedor levando a uma miragem de progresso. E em termos de processo para solução, a importância de não jogar com o sistema assim como compreender como os sistemas favorecem seus sistemas mais do que particularmente a história de cada um. 
+Como podemos compreender essa dinâmica e ajudar os empreendedores a evitar essas armadilhas? Para abordar essa questão, é importante a reflexão em cima dos fatores que contribuem para essa situação problemática, começando com como as comunicações nas redes são usadas como mecanismos de regular a autoestima do empreendedor levando a uma miragem de progresso. E em termos de processo para solução, a importância de não tentar trapacear os sistema de validação e compreender como os sistemas de validação também são falhos. 
 
 ## A Miragem dos Sinais Sociais e Feedback
 
