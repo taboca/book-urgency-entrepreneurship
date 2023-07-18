@@ -1,0 +1,137 @@
+# O palco da autovalidação e as redes sociais 
+
+<!--
+
+Referências
+
+Charman, T. (2015, June 18). The difference between Bootcamps, Incubators and Accelerators. Business Daily: Startups, Business Development, Management. Retrieved from https://medium.com/business-startup-development-and-more/the-difference-between-bootcamps-incubators-and-accelerators-632a4d4e8bd8
+
+Chen, A. (n.d.). After the TechCrunch bump: Life in the “Trough of Sorrow". Andrew Chen. Retrieved from https://andrewchen.com/after-the-techcrunch-bump-life-in-the-trough-of-sorrow/
+
+Fisher, M. (2023). A Máquina do Caos: Como as Redes Sociais Reprogramaram Nossa Mente e Nosso Mundo. Todavia.
+
+Graham, P. (2014, Outubro 9). Before the Startup with Paul Graham (How to Start a Startup 2014: Lecture 3) [Vídeo]. YouTube. https://youtu.be/f4_14pZlJBs?t=687
+
+-->
+
+Na jornada empreendedora, a pressão por crescimento e expansão rápida é constante. Além disso, o desejo por validação social e aceitação profissional frequentemente leva os empreendedores a imergir profundamente na esfera digital. No entanto, essa imersão pode ser uma faca de dois gumes: embora ofereça feedback instantâneo e visibilidade, é também um terreno fértil para a autovalidação baseada em métricas são falhas e não representam a realidade do negócio. Esta situação torna-se uma complicação quando os empreendedores inadvertidamente começam a se validar e a tomar decisões com base nesses feedbacks falhos. Como podemos, então, compreender melhor essa dinâmica e ajudar os empreendedores a evitar essas armadilhas?
+
+Para abordar essa questão, este artigo se propõe a explorar os fatores que contribuem para essa situação problemática, começando com como as redes sociais podem dar suporte para a autoestima do empreendedor levando a uma miragem de progresso. E em termos de processo para solução, a importância de não jogar com o sistema assim como compreender como os sistemas favorecem seus sistemas mais do que particularmente a história de cada um. 
+
+## A Miragem dos Sinais Sociais e Feedback
+
+Plataformas digitais, especialmente mídias sociais, tornaram-se um terreno fértil para feedback rápido e popularidade. Empreendedores, levados pelo grande volume dessas respostas, podem confundir aprovação social com progresso real, impulsionando-os para um ciclo de autovalidação em vez de crescimento genuíno.
+
+Este fenômeno pode ser explicado através da teoria do 'Sociômetro' de Mark Leary, como contextualizado por Fisher (2023) em seu livro "A Máquina do Caos: Como as Redes Sociais Reprogramaram Nossa Mente e Nosso Mundo". Fisher (2023) ressalta que o mundo digital lançou um sistema de feedback baseado em "likes" que atua como um sociômetro, proporcionando uma ilusão de aceitação social e, por consequência, aumentando a autoestima. A autoestima é definida por Leary, conforme explicado por Fisher, como uma "medida psicológica do grau com que as pessoas percebem que são valorizadas nas relações e são socialmente aceitas pelos outros" (p. 44).
+
+## O Jogo de Navegar no Sistema
+
+Em sua busca pelo crescimento, os empreendedores podem se encontrar envolvidos em uma caça enganosa por validação, visando manipular sistemas para refletir o aparente sucesso. Paul Graham, em uma palestra intitulada "Before the Startup with Paul Graham (How to Start a Startup 2014: Lecture 3)" afirmou que:
+
+"[...] Iniciar uma startup é onde o jogo do sistema para de funcionar. O jogo do sistema pode continuar a funcionar, se você for trabalhar para uma grande empresa; dependendo de quão quebrada a empresa esteja, você pode ter sucesso ao agradar a pessoa certa dando a impressão de produtividade ao enviar e-mails tarde da noite [...]" (Graham, 2014).
+
+Graham adiciona que em startups "isso não funciona" porque "não há chefe para enganar". Ele compara clientes de startups a tubarões - há carne ou não há carne.
+
+Charman (2015), em seu artigo "The difference between Bootcamps, Incubators and Accelerators", questiona se o próprio sistema no qual os empreendedores acreditam estar navegando pode ser, em si, um jogo. Ele afirma: "Estamos vendo cada vez mais pessoas autoqualificando suas próprias realizações pessoais e usando essas para impulsionar seus negócios e a mídia por trás deles." Esta observação levanta uma consideração importante: existe o "jogo do sistema" e a razão para fazê-lo; mas também existe o sistema em si como um possível jogo, e você pode nem perceber. O sistema social no qual você pode estar navegando é um jogo em si, que pode te confundir. Esse sistema pode ser o próprio ambiente digital da rede social que não reflete a realidade em direção ao seu objetivo.
+
+## Olhando Além da Miragem da Validação
+
+Andrew Chen, parceiro da Andreessen Horowitz, destaca o padrão conhecido como "trough of sorrow" (vale da tristeza) onde start-ups passam por momentos de dificuldade mesmo depois de suas iniciativas de lançamento com ações de comunicação. 
+
+![Source: Paul Graham via andrewchen.co](images/Trough-of-Sorrow.png)
+
+Na figura acima, o pico "TechCrunch de Iniciação", que faz referência ao famoso website de notícias e publicações, representa uma representação tipo anedota que sinaliza tráfego, ou tração. Porém, o padrão revela a depressão no tráfego que estampa o fenômeno de que o ato anterior tem um teor de narrativa que gera sinais na rede social mas não exatamente cria impacto para a história da start-up. 
+
+O ponto levantado por Andrew é justamente o alerta que diz que empreendedores estão de fato promovendo suas start-ups usando de narrativas em meios sociais; e que essas narrativas são parte de um processo: 
+
+> "Trabalhar em menções na imprensa, conferências, etc, pode ser uma boa maneira de obter um sucesso inicial de tráfego. É ótimo! Mas não é suficiente - aqui está um artigo de alguns anos atrás - após o impulso do TechCrunch, há a vida no vale da tristeza". https://twitter.com/andrewchen/status/1009574588454449152
+
+
+## Conclusão
+
+A jornada empreendedora é frequentemente marcada pela pressão de crescimento e expansão rápida. Em um cenário acelerado e imerso em redes sociais, o empreendedor pode inadvertidamente cair em um jogo perigoso de autovalidação, e assim, sem perceber, criar seu próprio palco ilusório. Impulsionado pela ilusão de progresso e aceitação social, ele pode acabar ignorando verdades desconfortáveis e, consequentemente, se encontrar em um beco sem saída. Esta realidade distorcida não é uma criação deliberada do empreendedor, mas uma armadilha fácil em um mundo digital onde o feedback instantâneo e a aparência de sucesso podem ofuscar a realidade. Portanto, é essencial que os empreendedores mantenham a consciência e questionem regularmente sua realidade para evitar serem consumidos por este palco enganador.
+
+
+<!--
+
+I am working in a book Slow Down to Win, part 3, I am concerned with a topic, a subject, a theme, which is when the entrepreneurs attempt move with evidence of sucess using signals from the networks around, falling into accelerating into not success. 
+
+Now, here, I will basically give hings to the introduction but also you will notice that my writing shall be used, of course with grammar fixes, William Zinsser style of business plan objective english. 
+
+In terms of introduction, to put a logic for this article, we can lead the reader starting with a situation, which is truthful, undeniable situation, that if she is doing an entrepreneurial path, she has started with a premise that she need to grow. That the startup thesis has a premise: to grow. 
+
+And that it implies with any project that wants to be launched, that it wants to break in the market, towards a market, to thrive in a market. And with that, that world around is likely a validation, such as customers, partners, stakeholders, investors; and that they are likely to get early evidence of these around networks of their own initial networks, as signals. 
+
+In terms of intro, it is worth recognizing that this is not new, to use signals of the ones around, such as an investor. But the complication here that brings us to the reason of this article is that the founders are navigating a  networked space that offers a potentially boosting model, starting with the fact that you can meet online people, for example people you want to hire, cofounders, and more like investors, or customers. The potential is of something that could happen quick, as we know social networks could give us that as they accelerate in public what seems to be signs of popularity. 
+
+Reiterating the theme, where we are going, is that we might be driven by feedback that shall guide ourselves in the accelerated networked world. But it also can misguide us. 
+
+The actual complication is of being out of the winning side, out of what we expect in terms of success which is likely to be nowadays a transactional propability of, say, passing the judge, passing the test with the investor, passing the test with the real user. With that, one may not notice that they are subscribing to an approach of self-validation that drives them not towards what in fact would support them to get there, to thrive.  
+
+In other words, we are likely to subscribe to the behavior of engaging in searching for ways to validate, in a hurry, in accelerated fashion, using signals as we perceive from what our network tells us. The likely revelation, an inflection point in this article, the reason to the article, is that. Thus, you are seeking to find data that offers support, thinking that any hints of support from the social offers a correlation with that truly puts you in the acceleration "esteira / convey".  
+
+In order to give us light about the phenomenon, let's first see how some of the networks and the stages of the public scene of public social systems affect us, or how these systems were designed to self in force some.mechanisms that favors our willingness to find validation and pleasure. 
+
+The situation that depicts how we search for validation and feedback, being out enemy, is explained by Max Fisher in the book "A Máquina do Caos: Como as Redes Sociais Reprogramaram Nossa Mente e Nosso Mundo; Todavia; 2023. " - notice that I want APA Citation. As he highlights how the algorithms of social networks such as Facebook, actually in fact are tuned and resonate with our survival operating model. 
+
+The point presented by Max Fisher in the book, where he pinpoints the "Sociometer" theory of Mark Leary,  is that such sociometer element is what the digital world has launched as a means that provides feedback to the user of what she said - a measurement signal that used "likes" and where she gets likes, the amount of likes, gives the illusion to the user that what she said was good, that she is accepted. That is perceived as good to us, it boost self esteem. 
+
+The psychological explanation offer by The Mark Leary work as referred by Max Fisher, is that Mark Leary has a quite accepted THEORY that defines self esteem, from the pt-br, as "medida psicológica do grau com que as pessoas percebem que são valorizadas nas relações e são socialmente aceitas pelos outros." this is page 44 of Max Fisher above book - APA Citation ok? And keep the quote. 
+
+The point here, in the context of urgency as we are in the social, supports and explains that signals from the steps of us, steps in the digital, acting on social, can be used by us to regulate our steps. We are driving looking in a mirror.   This is my bridge to pinpoint Max Fisher conveying Mark Leary's Sociometer theory, which makes the supporting case to explore dangers in the entrepreneurial navigation - a situation is to be considered for us entrepreneurs and founders - considering that the stage of what happens, where entrepreneurial navigation is likely starting for many,  these days, are likely to start in the digital.  Just consider how many people may start to attempt to innovate, express her ideas and potentially exploring an entrepreneur endeavor, starting from readings, from evaluating an idea that is digital, from iterating with digital things. The base, start point, is likely in the digital as it is the space to ideate that offers solutions such as what can be found via search or social networks. 
+
+In this context, diving a bit here on the path in the digital, there might be many entities/systems/roles that are potencially signaling if the entrepreneur is doing well or not, all around in the digital space as one dives. 
+
+Consider a comparison - as a complication exploration - Imagine a very specific transactional world such as an accelerator system, an incubator system or a challenge, that could in itself use some social validation to put you in the next phase. So, for example, one is subject to certain interactions, and performance is evaluated, then the outcome happens. But now, on the other hand, as the team is in the void of social, it might jump in too many options that may also provide social feeback, which in theory feels great, and might seem to be progress; which is also comparable of the first situation, it pushes you to the next level. But how long will these levels take you to what? To the next stage? What is really the next stage? Imagine that some interactions are so small that takes you to a few likes ahead, which for a founder promotes self esteem but in terms of goals, what really? 
+
+Consider digital influencers, for examples. As they are hubs to others, they act as speeding, or boosted validation. Would then an entrepreneur in it's digital navigation for growth, for passing criteria, seek to try to play the game of seeking validation by entering in certain easier spaces as a means to get validtion or to be promoted? 
+
+Now, moving from the Complication, towards the Q-A, or the Answer/solution, comes back to what you are doing, the question, and navigation in general. The call for us in the way of enlighted navigation is to get serious about your long real goals and the audience system that ultimately validates your goals - central introduction to the point in this essay. 
+
+And in this regard, of enlighted way to move, we need to start from the identificatin of what we might think means passing vs. the what means passing, and in terms of this Answer pilar one, I would day, the awakening about our tendency to game the system, as we are likely aware of the criteria and judgemental mechanism of networks of validation. In this regard, according to Paul Graham , YC mentor and investor, it is conterintuitive for startups the idea of not gaming the system, as perhaps we have seen some of what somewhat working, perhaps in spaces such as university model environment that might have offered to us some indication of gaming the system to work. But now, the approach would not work as there is no boss to trick. 
+
+Bring the quotation from Paul Graham, which is in APA citation for the video youtube whose link https://youtu.be/f4_14pZlJBs?t=687 and title "Before the Startup with Paul Graham (How to Start a Startup 2014: Lecture 3)" position 11 min 28 sec and the quotation block: 
+
+"[] Starting a startup is where gaming the system stops working.  Gaming the system may continue to work, if you go to work for a big company; depending on how broken the company is, you may be able to succeed by sucking up to the right person giving the impression of productivity by sending emails late at night, [..]" 
+
+He adds that in in startups "that does not work" because "there is no boss to trick". He compares startup customers with sharks - there is meat or no meat. 
+
+Now that is a case of what can be seen, as mentioned above, as the longer range case such as a startup in an acceleration track? Perhaps? But also consider the micro version of that, back to the daily activities, to a potential navigation that happens with a willingness to move by tracking feedback. Are we likely to try to regulate, or curate, the validation system? Or could we just be subject to gaming the system without even noticing?  
+
+Notice, Paul Graham has his criteria, and if you do not game that then you can pass.  But what if other validator systems had criteria, or end points, that are meaningless to your goals and yet you could pass their system and for them you would not be gaming? Such as influencers? See the point of this pilar? That although you could well not game a system, is it your responsibility to curate what you think is the system. 
+
+If your network around is applauding you, but what if for things that in the end do not contribute to you towards what you really want?
+
+Therefore in terms of this curation, or your responsibilities, it comes to the complication that you are likely listening to the walls of your network, that you have curated , or anchored yourself, in the first place. Such as the network that happens to be your friends or represent anything in terms of passing to the next sucess stage of real growth.  Consider that, listening to the signals, echo chamber, searching for maintenance of your self esteem as a founder, as an entrepreneur, in alignment with a sociometer. In netshell, the awareness of gaming the system matters, pilar one, and the awarness of the system be already a game that wil puzzle you. System of you being inside a social network's digital realm of not a reality towards your goal. 
+
+The point really to consider is that there is  micro stages that you are likely to play or a macro stage. That the phenomenon is across the board, doing a zoom out, Tom Charman, of ... , wrote: 
+
+"There are also other forms of business building that are sprouting up all over, such as ‘Online Incubators’, ‘Venture Programs’, and even ‘Virtual Accelerators’. But where is this leading? Are we finding ourselves building businesses to support other businesses? Is this an endless bubble and a ticking time bomb that’s waiting to explode like we saw in the banking sector in the recent economic crisis? We see more and more people self-qualifying their own personal achievements, and using these to drive their business and their media behind it." Put APA Citation for the article  "The difference between Bootcamps, Incubators and Accelerators" from the medium article link https://medium.com/business-startup-development-and-more/the-difference-between-bootcamps-incubators-and-accelerators-632a4d4e8bd8 published by Business Daily: Startups, Business Development, Management. 
+
+In conclusion, and reflecting about the evidence  of these moments, consider an approach that is verifiable from the patterns of founders and seen by the pattern identified as  "Trough Of Sorrow'" mentioned written here Andrew Chen, a partner at Andreessen Horowitz, in "After the Techcrunch bump: Life in the “Trough of Sorrow"", where he conveys the situation, according to Andrew, "It captures a viscerally truthful thing about the life of a new company- first you’re excited, then you’re not, and if you stick with it, you just might make it work. It could take years. But you may fail too, you never know until you do it." Retrieved from https://andrewchen.com/after-the-techcrunch-bump-life-in-the-trough-of-sorrow/ "After the Techcrunch bump: Life in the “Trough of Sorrow" 
+
+Make the point that the following illustration, according to Chen  (above) was a depiction of a life of a startup, in his words "A few years back at a YCombinator dinner, Paul Graham and the other partners drew a great diagram depicting the life of a new product." But it shows the interesting first spike of attention/feedback, the idea of super momentum that they have seen founders go through and identified in the chart as "TechCrunch of INitiation" followed by the, down of momentum noted as "Wearing Off of Novelty" and then the "Trough of Sorrow". These labels, although a Joke [footnote: Paul Graham in https://news.ycombinator.com/item?id=173261  on April 25, 2008 wrote "I didn't add those labels, though. Those were added by Trevor as a joke."] clearly indicates an indication that the signals perceived as "TechCrunch of INitiation" are in fact connected with their own effort of launching, or publishing. 
+
+[Make reference to the image here, okay to keep TXT raw 
+![Source: Paul Graham via andrewchen.co](images/Trough-of-Sorrow.png) 
+] 
+
+ Wouldn't that be a case, for us to consider the reflection in concluding, that one, the team, that perhaps has projected in its networks, given a social network that gave them temporary projection of success, naturally pushes them towards any new stage of post-mortem, a pattern, of always a "Wearing Off of Novelty"" Which is nothing more than in fact nothign to do with novelty and the realization that in a way they either gamed the system or didn't game but entered a social validity system in the first place that does not trully represent any indication of the market they are after. 
+
+And to give a discount to the teams, they don't usually know where they going, right? But anyway, still the reflection that we are moving with signals is here, and that as individuals we have that thing build in, the need for preserving, acceptance and approval.. But the key lessons, all digital systems are also doing their jobs, signaling as they are players of the networks, as judges, not always being able to feed the right but propagaging tiwh the lenses they see, they get a skim in the game, a digiral influencer, an accelerator, and more. They do not track the holistic to the end, your story, right? An accelerator cares more about the winner. 
+
+Strong saying of my workd, the thing inside you, you can't turn that off as you are thursthy see to maintain the state of acceptance. In pt-br "Estamos com sede para sermos aceitos e vamos operar com o feedback que estamos vendo. As pessoas ao lado, a rede ao lado. Cabe a nos curamos as redes de validação, escaparmos das redes que promovem sucesso iniciail na busca do sucesso além do muro. " 
+
+Now before the conclusion we should have passed through the notion of structured holes of Ronald Burt to indicate that one might be connected and have benefits, but also Ronald indicates that the qualitative approach is to break beyond too many contacts in a given network and access diversity, in other words, to reach out to other networks. The following quote  "Network benefits are enhanced in several ways. There is a higher volume of benefits because more contacts are included in the network. Beyond volume, diversity enhances the quality of benefits.
+Nonredundant contacts ensure exposure to diverse sources of
+information." APA data Structural Holes: The Social Structure of Competition
+Por Ronald S. Burt , Harvard University Press, 30 de jun. de 2009 - 
+
+Explain a bit that the social network of your friends, or groups, can self inforce the same benefits; and that also the new algorithms of pushing same interests, in a way does the same. 
+
+
+-->
+
+
+
+
