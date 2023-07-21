@@ -42,6 +42,7 @@
 100/850_true_collaboration_space.txt
 100/900_personal_board-en-us.txt
 100/950_accounting_learning.txt
+100/970_winning.txt
 
 ### part 2 ##################################################
 
