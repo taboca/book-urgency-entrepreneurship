@@ -2,7 +2,9 @@
 
 <!-- 
 
-  can go in one of the cover sheets 
+* [ ] Abstract - prompt, abstract this text plus goals from the intro, and make a book side note that goes on the flip of cover sheets of books. How you call those pages with summaries that covers the book? 
+
+* [ ] thanks - Fabricio 
 
 --> 
 
