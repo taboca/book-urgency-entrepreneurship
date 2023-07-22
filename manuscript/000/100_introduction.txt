@@ -2,6 +2,8 @@
 
 <!-- 
 
+[ Add ] reference to the references 
+
 V2.1
 
 * Situation - Culture intro - We have a lot of models to accelerate - it's in the culture. Acceleration works for execution. Acceleration works for competition. Accerelated models have reached design, such as the life of entrepreneurs which is quite complex as it requires entrepreneurs to execute and design - which involves learning. All lean-based models, which are iterative by nature, seem to work in a certain way, although it is verified that founders use them too as methods for projecting, to control, as opposed to learn. The pressure for controlling the outcome continues to act, which is good. What seem to not have time, is the process of evaluating what it going on with the how. 
@@ -13,6 +15,10 @@ V2.1
 * Support B - Rethink, consider you vs. others. 
 
 * Support C - Rethink, consider you vs. systems. 
+
+* Reference 
+
+Fried, J., & Hansson, D. H. (2018). It doesn't have to be crazy at work. HarperCollins.
 
 --> 
 
@@ -61,6 +67,8 @@ A estratégia não pode se resumir a seguir o fluxo, à sombra do ritmo acelerad
 Aqui estão recursos e situações que não foram projetadas como receitas, como soluções prontas para resolver as adversidades. Eles representam uma oportunidade para reflexão. A ideia é fortalecer um lado do seu ser empreendedor, para que você possa enfrentar a pressão padrão e os dados que muitas vezes parecem sinais, mas na verdade são apenas ruídos que perturbam a execução, o processo; e nem sempre se aplicam à jornada em questão.
 
 Quando confrontados com o caos e a pressão, muitas vezes não reconhecemos que estamos perpetuando um ciclo prejudicial. Na verdade, essa "loucura" no trabalho, essa urgência incessante, raramente é vista como tóxica. Ao invés disso, é apresentada como uma necessidade, um preço a pagar pelo sucesso. Nesse sentido, Fried e Hansson [^basecampcrazy] nos convidam para uma reflexão:
+
+> "Running a calm company is, unfortunately, not the default way to run a company these days. You have to work against your instincts for a while. You have to put toxic industry norms aside. You have to recognize that "It's crazy at work" ins't right. " (Fried & Hansson, 2018, p. 9)
 
 "Infelizmente, administrar uma empresa de maneira tranquila não é o modo padrão de gerir uma empresa atualmente. Você precisa ir contra seus instintos por um tempo. Você precisa deixar de lado as normas tóxicas da indústria. Você precisa reconhecer que 'É loucura no trabalho' não está certo" (Fried & Hansson, 2018, p. 9)^1^.
 
