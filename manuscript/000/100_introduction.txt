@@ -14,6 +14,8 @@ V2.1
 
 * Support C - Rethink, consider you vs. systems. 
 
+* ref Fried, J., & Hansson, D. H. (2018). It doesn't have to be crazy at work. HarperCollins.
+
 --> 
 
 Quando alguém diz "vamos devagar", normalmente não soa bem; particularmente no ambiente de trabalho onde as pessoas colaboram. Soa negativo, como um alerta que diz "perigo à frente". Ou pode ser dito como quem está punindo algo que foi feito, um caminho errado. Ainda, transmite uma ideia de baixo desempenho. Por outro lado, o "vamos acelerar!" passa bem e tem um viés positivo. É mais fácil ouvir e aceitar ideias como "chegar mais cedo", "vender mais" ou "entregar mais rápido".
@@ -62,7 +64,7 @@ Aqui estão recursos e situações que não foram projetadas como receitas, como
 
 Quando confrontados com o caos e a pressão, muitas vezes não reconhecemos que estamos perpetuando um ciclo prejudicial. Na verdade, essa "loucura" no trabalho, essa urgência incessante, raramente é vista como tóxica. Ao invés disso, é apresentada como uma necessidade, um preço a pagar pelo sucesso. Nesse sentido, Fried e Hansson [^basecampcrazy] nos convidam para uma reflexão:
 
-"Infelizmente, administrar uma empresa de maneira tranquila não é o modo padrão de gerir uma empresa atualmente. Você precisa ir contra seus instintos por um tempo. Você precisa deixar de lado as normas tóxicas da indústria. Você precisa reconhecer que 'É loucura no trabalho' não está certo" (Fried & Hansson, 2018, p. 9)^1^.
+"Infelizmente, administrar uma empresa de maneira tranquila não é o modo padrão de gerir uma empresa atualmente. Você precisa ir contra seus instintos por um tempo. Você precisa deixar de lado as normas tóxicas da indústria. Você precisa reconhecer que 'É loucura no trabalho' não está certo" (Fried & Hansson, 2018, p. 9).
 
 Com essa abordagem honesta, o objetivo é permitir que o empreendedor se concentre em sua agenda mais produtiva e saudável, porque é um fato que a jornada é difícil e incerta. Com autorepeito e uma visão consciente, os passos do empreendedor se tornam mais produtivos e suas chances são maiores.
 
