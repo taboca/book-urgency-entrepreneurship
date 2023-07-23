@@ -16,6 +16,14 @@ V2.1
 
 * ref Fried, J., & Hansson, D. H. (2018). It doesn't have to be crazy at work. HarperCollins.
 
+* Complication - Success what means?
+* Complication - Slow down, what means?
+
+Regarding the slowing down, it is about perspective. The slow down is provocation, right? The very "smart" person that is accelerating - not jugding the words that promotes speed - will likely be puzzle as in Why on Earth would one ask to slow down. This gotta be about something else. At least I am trusting the potential fast doer can do that. We are all fast doers but we are good to see things in pespective. The following sentence is 
+
+In the context of 'Slow Down to Win,' the phrase 'slowing down' isn't simply a call to reduce pace or a plea for inertia. Instead, it stands for the strategic necessity to occasionally step back, ensuring a broader perspective. This perspective is invaluable as it allows readers to process and understand the multitude of underlying subtleties often overlooked in the rush of progress. 'Slowing down' invites individuals to wear dual hats - that of the participant immersed in the action and that of the observer, who views the panorama from a distance. This duality is essential in cultivating a robust management system that is resilient, adaptable, and able to thrive in the face of constant change. 'Slow Down to Win' highlights the necessity of such mental flexibility, positioning it as a cornerstone of success in any walk of life. - Ref https://chat.openai.com/share/287d97b4-bb6c-4ca7-bded-a78e84cf86e1 
+
+
 --> 
 
 > "_Infinite learner [^infinitelearner] is the key to manage the scale of Blitzscaling._"
