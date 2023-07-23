@@ -2,15 +2,18 @@
 
 <!--
 
-v2.1 
+* Version - v2.1 
 
-Tag: Communication 
+* Tag - power dynamics
+* tag - communication 
+* tag - 
 
-This resonates with 450_passing_on_stories.txt
+* Synchronicity - 450_passing_on_stories.txt
+* Synchronicity - 430_self_staging.txt
 
-[ Add ] Airbnb Brian idea anyone will ignore. 
+* Search - "Todo: Add quote from brian regarding a good idea will be dismissed" 
 
-[ Check ] Check the following theories and power or status authority dynamics 
+* Research - the following 
 
 Balance Theory: This theory, proposed by Fritz Heider, is based on the idea of cognitive consistency, or a balance of relations. In the case of a salesperson-customer relationship, if there's an imbalance, such as a change in control dynamics, it creates an uncomfortable state. The salesperson may feel threatened or undermined when the customer presents information that challenges their authority or control over the situation, which can lead to a breakdown in the interaction.
 
@@ -22,7 +25,7 @@ Existem muitas modalidades, ou serviços para empreendedores, que hoje estão di
 
 <!-- 
 
-Ref add quotation airbnb 
+* Search - "Todo: Add quote from brian regarding a good idea will be dismissed" 
 
 -->
 
