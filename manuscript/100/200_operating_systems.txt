@@ -4,6 +4,8 @@
 
 * Chatgpt - https://chat.openai.com/share/48e9d26f-4551-47f9-a69c-38206e0912c7
 
+* Abstract - This abstract explores the challenges and complexities faced by users when interacting with modern digital interfaces. The essay highlights how users often find themselves in a subordinate position, lacking full understanding or mastery of the tools they utilize. The absence of mentors or clear guidance exacerbates this situation, leading users to accept and adapt to interfaces rather than actively learn from them. The communication strategies employed by these interfaces further reinforce the submissive mindset, hindering users from questioning or judging the tool's functionality. The discussion also delves into the consequences of such dynamics when dealing with critical systems, where users may feel overwhelmed, lost, or pressured to achieve their goals within strict time constraints. The abstract concludes with a call for users to adopt a more compassionate and reflective approach when faced with these challenges, embracing vulnerability and empathy for those involved in developing and maintaining these imperfect tools.
+
 * Prompt geral nível geral - Estou trabalhando no livro Desacelerar para Vencer, em Inglês Slowdown to Win. A parte 1 fala sobre o Eu vs. Urgências. A parte 2 o nós, times e colaboradores, a parte 3, a consciência do time no externo, o eles, vida, sistemas, entidades, contratos, relações com o externo. 
 
 * Somar o contexto de que estamos na parte 1, o empreendedor vs. tempo, empreendedor vs. urgências. 
