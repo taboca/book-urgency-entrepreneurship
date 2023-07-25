@@ -86,11 +86,11 @@ Charman, por sua vez, questiona se o próprio sistema que os empreendedores acre
 
 --> 
 
-Em sua busca pelo crescimento, os empreendedores podem se encontrar envolvidos em uma caça enganosa por validação, visando manipular sistemas para refletir o aparente sucesso. Paul Graham, em uma palestra intitulada "Before the Startup with Paul Graham (How to Start a Startup 2014: Lecture 3)" afirmou que:
+Em sua busca pelo crescimento e com o entendimento que o ambiente externo está validando o próximo estágio, empreendedores podem se envolver em uma caça por validação, visando manipular sistemas para controlar sucesso até a próxima etapa. Paul Graham, em uma palestra intitulada "Before the Startup with Paul Graham (How to Start a Startup 2014: Lecture 3)" afirmou que:
 
 > *"[...] Iniciar uma startup é onde o manipular o sistema para de funcionar. O jogo da manipulação do sistema pode continuar a funcionar, se você for trabalhar para uma grande empresa; dependendo de quão quebrada a empresa esteja, você pode ter sucesso ao agradar a pessoa certa dando a impressão de produtividade ao enviar e-mails tarde da noite [...]"* - (Graham, 2014).
 
-Graham adiciona que em startups "isso não funciona" porque "não há chefe para enganar". Ele compara clientes de startups a tubarões - há carne ou não há carne.
+Graham adiciona que em startups "isso não funciona" porque "não há chefe para enganar". Ele compara clientes de startups a tubarões - há carne ou não há carne. 
 
 Charman (2015), em seu artigo "The difference between Bootcamps, Incubators and Accelerators", questiona se o próprio sistema no qual os empreendedores acreditam estar navegando pode ser, em si, um jogo. Ele afirma: "Estamos vendo cada vez mais pessoas autoqualificando suas próprias realizações pessoais e usando essas para impulsionar seus negócios e a mídia por trás deles." Esta observação levanta uma consideração importante: existe o "jogo do sistema" e a razão para fazê-lo; mas também existe o sistema em si como um possível jogo, e você pode nem perceber. O sistema social no qual você pode estar navegando é um jogo em si, que pode te confundir. Esse sistema pode ser o próprio ambiente digital da rede social que não reflete a realidade em direção ao seu objetivo.
 
@@ -102,15 +102,19 @@ Andrew Chen, parceiro da Andreessen Horowitz, destaca um padrão conhecido como 
 
 --> 
 
-Andrew Chen, parceiro da Andreessen Horowitz, destaca o padrão conhecido como "trough of sorrow" (vale da tristeza) onde start-ups passam por momentos de dificuldade mesmo depois de suas iniciativas de lançamento com ações de comunicação. 
+Andrew Chen, parceiro da Andreessen Horowitz, chama atenção para um padrão presente na história das start-ups, o vale da tristeza. Essa noção foi criada para ilustrar o padrão quando start-ups passam por momentos de dificuldade depois das suas iniciativas de lançamento e ações de comunicação: 
 
 ![Source: Paul Graham via andrewchen.co](images/Trough-of-Sorrow.png)
 
-Na figura acima, o pico "TechCrunch de Iniciação", que faz referência ao famoso website de notícias e publicações, representa uma representação tipo anedota que sinaliza tráfego, ou tração. Porém, o padrão revela a depressão no tráfego que estampa o fenômeno de que o ato anterior tem um teor de narrativa que foi criada artificialmente em primeiro lugar? Que gera sinais na rede social, na mídia, mas não exatamente cria impacto para a história da start-up? 
+Em outras palavras, logo depois do "pico" intitulado "TechCrunch de Iniciação", que representa quando a start-up vai para a mídia, empreendedores devem entender que a jornada será árdua até que a start-up tenha interações verdadeiras. 
 
-Em outras palavras, se o padrão é esse, então qual é o padrão antes do padrão? Artificializar comunicação? Promover projeções que são só meio de chegar interesse de usuários? Talvez sim para isso e sim para o fato que lean é feito com interações no meio. O ponto levantado por Andrew é justamente o alerta que diz que empreendedores estão de fato promovendo suas start-ups usando de narrativas em meios sociais; e que essas narrativas são parte de um processo: 
+É importante refletirmos que esse padrão, além de ser revelador na questão da depressão que vem depois do lançamento, também estampa um outro fenômeno, talvez o ato anterior que é a própria comunicação que é projetada, ou artificial, em primeiro lugar. Ou nas palavras de Andrew: 
 
 > "Trabalhar em menções na imprensa, conferências, etc, pode ser uma boa maneira de obter um sucesso inicial de tráfego. É ótimo! Mas não é suficiente - aqui está um artigo de alguns anos atrás - após o impulso do TechCrunch, há a vida no vale da tristeza". https://twitter.com/andrewchen/status/1009574588454449152
+
+Em outras palavras, temos estampado o padrão de artificializar a comunicação e o padrão de promover projeções como mecanismo de testar o interesse de usuários. Certamente isso é parte do processo onde start-ups lançam seus produtos falhos, incompletos. Lançam sem mesmo saberem o público que querem ou a necessidade do público. 
+
+Enquanto por um lado concluímos que o observado é natural do processo lean, que se dá com interações no meio, O ponto levantado tanto alerta sobre a a importância de gerir a tristeza depois dos "lançamentos". Ou seja, nossa propensão para controlar o resultado, esperar o melhor. E pior, usarmos os dados para alimentarmos nosso "plano". 
 
 ## Sem crise de identidade 
 
