@@ -1,8 +1,14 @@
-# Preso nas redes sociais 
+# Interações artificiais na rede 
 
 <!--
 
-* Version -
+* Version - 2.1
+
+* Sync back to - 220_success_as_a_service.txt 
+* Sync back to - 230_self_confirmation_bias_social_identity.txt
+
+* Complication - Narrative in the social is artificial. 
+* Complication - Control and not be controlled. 
 
 Referências
 
@@ -61,9 +67,9 @@ Andrew Chen, parceiro da Andreessen Horowitz, destaca o padrão conhecido como "
 
 ![Source: Paul Graham via andrewchen.co](images/Trough-of-Sorrow.png)
 
-Na figura acima, o pico "TechCrunch de Iniciação", que faz referência ao famoso website de notícias e publicações, representa uma representação tipo anedota que sinaliza tráfego, ou tração. Porém, o padrão revela a depressão no tráfego que estampa o fenômeno de que o ato anterior tem um teor de narrativa que gera sinais na rede social mas não exatamente cria impacto para a história da start-up. 
+Na figura acima, o pico "TechCrunch de Iniciação", que faz referência ao famoso website de notícias e publicações, representa uma representação tipo anedota que sinaliza tráfego, ou tração. Porém, o padrão revela a depressão no tráfego que estampa o fenômeno de que o ato anterior tem um teor de narrativa que foi criada artificialmente em primeiro lugar? Que gera sinais na rede social, na mídia, mas não exatamente cria impacto para a história da start-up? 
 
-O ponto levantado por Andrew é justamente o alerta que diz que empreendedores estão de fato promovendo suas start-ups usando de narrativas em meios sociais; e que essas narrativas são parte de um processo: 
+Em outras palavras, se o padrão é esse, então qual é o padrão antes do padrão? Artificializar comunicação? Promover projeções que são só meio de chegar interesse de usuários? Talvez sim para isso e sim para o fato que lean é feito com interações no meio. O ponto levantado por Andrew é justamente o alerta que diz que empreendedores estão de fato promovendo suas start-ups usando de narrativas em meios sociais; e que essas narrativas são parte de um processo: 
 
 > "Trabalhar em menções na imprensa, conferências, etc, pode ser uma boa maneira de obter um sucesso inicial de tráfego. É ótimo! Mas não é suficiente - aqui está um artigo de alguns anos atrás - após o impulso do TechCrunch, há a vida no vale da tristeza". https://twitter.com/andrewchen/status/1009574588454449152
 
