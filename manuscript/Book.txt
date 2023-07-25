@@ -51,17 +51,43 @@
 200/040_induction_embedded_everything.txt
 200/050_super_fast_really_works.txt
 200/060_corruption_for_promotion_time_energy.txt
-200/080_reaction.txt
 200/090_saying_thanks_reflections.txt
 200/100_reactionary_execution.txt
 
 200/120_reaction_with_potentialized_animated_transactional_items.txt
 200/150_controlling_control.txt
-200/200_success_as_a_service.txt
+
+200/210_automatic_reaction_breaking.txt
+
+<!--
+
+ Perhaps after auto reaction, 210, it could be interesting 
+ to dive in the need to see as a management in time/space. 
+--> 
+
+200/300_managing_future_eye_present.txt
+
+<!--
+ This introduces the syndrome .. 
+-->
+
+200/220_success_as_a_service.txt
+
+<!-- 
+ The following shows our willgness to 
+ play in the stage we entered 
+--> 
+
 200/250_stop_impressing.txt
 200/260_stop_being_impressed.txt
-200/300_managing_future_eye_present.txt
+
+<!-- 
+ This shows the identity and dissonance problem 
+ Perhaps we can tackle identity in networks 
+--> 
+
 200/320_strategic_dissonance.txt
+
 200/350_first_to_friends_no.txt
 200/360_team_dynamics_crying_is_ok.txt
 200/450_urgent_vs_important.txt
