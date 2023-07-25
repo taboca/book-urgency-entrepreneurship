@@ -20,8 +20,13 @@
 
 * [ Add citation ] Melissa Nightingale, super hero cape. 
 
+* Reference - 
+
 Steve Blank at MAP14. (Published on Mar 13, 2014.) MAP14 Public Forum: Steve Blank [video]. Retrieved from https://www.youtube.com/watch?v=UFx2CQUTpYo
 
+* Reference - 
+
+Nightingale, M. (2016). Why it’s a Mistake to be a Startup Superhero. Medium. Recuperado de https://medium.com/the-copour/why-its-a-mistake-to-be-a-startup-superhero-e221b0969ec9
 
 
 -->
@@ -62,6 +67,14 @@ O caso de Wirathu e Mianmar, como descrito por Fisher, destaca o poder e o perig
 
 Empreender é uma atividade que envolve não apenas uma motivação comercial, mas também a paixão por uma causa que se quer ver mudada. Essa motivação é central no fenômeno da "Inovação do Usuário" (User Innovation), onde o empreendedor se vê intrinsecamente ligado à causa que defende. Tanto o trabalho de Eric von Hippel em "Democratizando a Inovação" (2005) quanto o curso "User Innovation: A Path to Entrepreneurship" no MITx no edX ressaltam essa premissa, enfatizando que "a inovação frequentemente começa com pessoas reais resolvendo seus próprios problemas" (MIT, 2015). Este conceito incentiva os empreendedores a se envolverem profundamente com as causas que defendem, alimentando tanto sua paixão como sua motivação para criar soluções inovadoras e disruptivas.
 
+<!--
+
+User Innovation: A Path to Entrepreneurship. Massachusetts Institute of Technology (MIT) on edX. Recuperado de https://www.youtube.com/watch?v=LpBSY9_RyCg
+
+von Hippel, E. (2005). Democratizing Innovation. The MIT Press. DOI: https://doi.org/10.7551/mitpress/2333.001.0001
+
+--> 
+
 Como indicado nesta vídeo introdução do curso, invenções como basquete, braille, dentre outras e até soluções tecnológicas como Dropbox, foram invenções que surgiram a partir de necessidade real, ou das dores. Em outras palavras, causas próprias. Essa premissa, na visão de Eric von Hippel, está por todo lado e é um fenômeno. 
 
 O renomado Steve Blank, pioneiro do movimento lean [^steveblanklean] e criador do processo intitulado Customer Discovery (2005), quando entrevistado sobre uma única ideia de conselho para fundadores, reveleu na entrevista em vídeo: 
@@ -92,5 +105,9 @@ Melissa também destaca em seu artigo como a cultura das startups incentiva essa
 
 Isso reforça que além da questão da identidade dos empreendedores, há também o elemento da pressão social. A necessidade de ser aceito, a dedicação ao trabalho, o sentimento de pertencimento - todos esses fatores podem levar a um comprometimento excessivo que vai além da identidade profissional. É um desafio identificar quando o investimento no trabalho passa a ser prejudicial, não só para o indivíduo, mas também para o coletivo. É bastante provável que a Melissa do futuro tivesse dificuldade em convencer a Melissa do passado de que dormir no escritório e gastar energia desnecessariamente poderiam de fato prejudicar seus colegas, pois ela não estava descansando adequadamente.
 
+<!-- 
+
 Referência:
 Nightingale, M. (2016). Why it’s a Mistake to be a Startup Superhero. Medium. Recuperado de https://medium.com/the-copour/why-its-a-mistake-to-be-a-startup-superhero-e221b0969ec9
+
+-->
