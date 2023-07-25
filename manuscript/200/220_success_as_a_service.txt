@@ -1,8 +1,11 @@
-# Do empreendedorismo de palco  
+# Palco do Empreendedorismo
 
 <!--
 
 * Version - v2.1 
+
+* Situation - You can enter places that can take you there. 
+* Complication - You can lose sight of the long run. 
 
 * Tag - power dynamics
 * tag - communication 
