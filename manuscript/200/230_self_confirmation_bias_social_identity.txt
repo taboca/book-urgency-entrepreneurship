@@ -4,6 +4,8 @@
 
 * Version - v2.1 
 
+* link to - 430_self_staging.txt
+
 * Situation - You can enter places that can take you there. 
 * Complication - You can join the crowd with positivisn, energy. 
 
@@ -11,22 +13,22 @@
 * tag - communication 
 * tag - 
 
-* [ ] Feat. - Steve Blank 
-* [ ] Feat. - Eric von Hippel 
-* [ ] Feat. - Melissa Nightingale
-* [ ] Feat. - Andy Grove 
+* [ ] Feat. - Andy Grove - Vale olhar porque Andy fala de identidade tb na questão da Intel * Concept — identity and team difficulties to accept change — the story of Andy Grove and Gordon More at Intel when Intel was facing the forces (10x) from Japanese companies. Andy Grove, in the book Only the Paranoid Survive, talks about a situation when the leadership team develops an identity that is so strong that when a major change is happening the team feels the phases that are comparable with the grieve related to mourning — check the right words here. 
+
 
 * Chatgpt - https://chat.openai.com/share/2cca3573-5c8a-4526-8afe-1498acabdd7d
 
 * [ Add citation ] Melissa Nightingale, super hero cape. 
 
-* Reference - 
+## References
 
 Steve Blank at MAP14. (Published on Mar 13, 2014.) MAP14 Public Forum: Steve Blank [video]. Retrieved from https://www.youtube.com/watch?v=UFx2CQUTpYo
 
-* Reference - 
-
 Nightingale, M. (2016). Why it’s a Mistake to be a Startup Superhero. Medium. Recuperado de https://medium.com/the-copour/why-its-a-mistake-to-be-a-startup-superhero-e221b0969ec9
+
+User Innovation: A Path to Entrepreneurship. Massachusetts Institute of Technology (MIT) on edX. Recuperado de https://www.youtube.com/watch?v=LpBSY9_RyCg
+
+von Hippel, E. (2005). Democratizing Innovation. The MIT Press. DOI: https://doi.org/10.7551/mitpress/2333.001.0001
 
 
 -->
@@ -35,13 +37,11 @@ Todo empreendedor irá fazer algo com um objetivo ou causa. Chegamos neste está
 
 Vamos refletir sobre a necessidade de regular auto-estima que é natural das pessoas; mas como a ideia de regular auto-estima está também atrelada a uma identidade que pode ser inventada e está projetada como sendo identidade no futuro baseada na expectativa de sucesso. E como que se envolver com essa identidade pode fazer o empreendedor cair em pegadinhas, que lhe custarão tempo; e pode ajudar a de fato destruir aidentidade real da pessoa, a experiência, criando frustrações e falta de energia.
 
-Vamos abordar que uma vez indo para o online, enredado, e não existe online; já que o digital e físico foram fundidos; estamos já no ambiente de possível construção e de fechar conexões, círculos. E correndo os riscos. Aceleradoras, incubadoras, séries educacionais, grupos de trabalho, são ambientes enredados onde vamos avançar com apoio, suporte e estaremos fortalecendo nossa identidade de futuro. 
+Neste estudo, abordaremos primeiramente o caso de Mianmar, no qual um protagonista, após sair da prisão, conquista fama que desencadeia o caos na nação. Esse exemplo ilustra vividamente como nosso meio pode atuar como um catalisador na aceleração da nossa identidade. Em um mundo cada vez mais digital, esses fenômenos ocorrem com mais frequência e rapidez, revelando uma realidade alternativa moldada pelas conexões que estabelecemos e as narrativas que criamos.
 
-Trazer a questão de identidade, chegar Andy Grove sobre isso, Trazer o caso do super herói da Melissa Nightingale (deixar a capa), trazer a questão do "com dados" que foi falada na introdução, e fazer o leitor ver que na internet, no digital, temos tudo para manipular tudo. O que queremoos ser, como queremos fazer, clubes, metodologias, e pessoas ao lado. 
+Em seguida, aprofundaremos na questão implícita de identidade no empreendedorismo. Através de uma reflexão sobre essa ideia de identidade empreendedora, buscamos evidências de que a identidade é não apenas um fenômeno, mas também uma premissa essencial para a ação de empreender. Vamos também explorar as experiências de personalidades da indústria, considerando os riscos inerentes a esse processo, que exigem uma consciência e uma atenção maiores à medida que moldamos nossa identidade e trajetória.
 
-Porque o caso de Mianmar pode ser relevante? Porque para quem acabaou de entrar no modo empreendedor, por exemplo em um momento novo, a rede de conexões pode criar uma realidade alternativa: 
-
-## O Caso do Monge Wirathu em Mianmar [feat. Chatgpt e Marcio]
+## A Fama que Leva ao Caos 
 
 <!-- 
 
@@ -49,7 +49,11 @@ Porque o caso de Mianmar pode ser relevante? Porque para quem acabaou de entrar 
 
 --> 
 
-No livro "A Máquina do Caos", Max Fisher relata a história extraordinária de um monge budista chamado Wirathu, que foi catapultado para a fama em Mianmar após o país emergir de um longo período de isolamento e abraçar a Internet e as redes sociais. A ascensão de Wirathu e sua habilidade de influenciar uma nação recém-conectada ilustram a relação intrincada entre conectividade, identidade e o poder potencialmente destrutivo de uma realidade alternativa não contestada.
+Em livro "A Máquina do Caos: Como as Redes Sociais Reprogramaram Nossa Mente e Nosso Mundo", Max Fisher (2023) relata a história de um monge chamado Wirathu, que foi catapultado para a fama em Mianmar após o país emergir de um longo período de isolamento e abraçar a Internet e as redes sociais. A ascensão de Wirathu e sua habilidade de influenciar uma nação recém-conectada ilustram a relação intrincada entre conectividade, identidade e o poder potencialmente destrutivo de uma realidade alternativa não contestada.
+
+<!-- 
+Fisher, M. (2023). A Máquina do Caos: Como as Redes Sociais Reprogramaram Nossa Mente e Nosso Mundo. Todavia.
+--> 
 
 A história de Wirathu começa com um passado sombrio, confinado a um ambiente de ódio durante sua prisão. Contudo, seu país natal, Mianmar, passou por transformações significativas durante sua detenção, incluindo a adoção generalizada da Internet e das redes sociais, em grande parte graças a uma parceria com os Estados Unidos. Inspirado por líderes do Vale do Silício e pelo ex-presidente Barack Obama, Mianmar fez uma rápida transição para a era digital.
 
