@@ -2,7 +2,7 @@
 
 <!--
 
-* Version - 2.1
+* Version - 2.2
 
 * Sync back to - 220_success_as_a_service.txt 
 * Sync back to - 230_self_confirmation_bias_social_identity.txt
