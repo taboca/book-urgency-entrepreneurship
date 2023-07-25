@@ -88,7 +88,7 @@ Charman, por sua vez, questiona se o próprio sistema que os empreendedores acre
 
 Em sua busca pelo crescimento, os empreendedores podem se encontrar envolvidos em uma caça enganosa por validação, visando manipular sistemas para refletir o aparente sucesso. Paul Graham, em uma palestra intitulada "Before the Startup with Paul Graham (How to Start a Startup 2014: Lecture 3)" afirmou que:
 
-"[...] Iniciar uma startup é onde o manipular o sistema para de funcionar. O jogo da manipulação do sistema pode continuar a funcionar, se você for trabalhar para uma grande empresa; dependendo de quão quebrada a empresa esteja, você pode ter sucesso ao agradar a pessoa certa dando a impressão de produtividade ao enviar e-mails tarde da noite [...]" (Graham, 2014).
+> *"[...] Iniciar uma startup é onde o manipular o sistema para de funcionar. O jogo da manipulação do sistema pode continuar a funcionar, se você for trabalhar para uma grande empresa; dependendo de quão quebrada a empresa esteja, você pode ter sucesso ao agradar a pessoa certa dando a impressão de produtividade ao enviar e-mails tarde da noite [...]"* - (Graham, 2014).
 
 Graham adiciona que em startups "isso não funciona" porque "não há chefe para enganar". Ele compara clientes de startups a tubarões - há carne ou não há carne.
 
@@ -130,7 +130,7 @@ A conversa entre Andy Grove e Gordon Moore é emblemática para ilustrar um pont
 
 Grove compreendeu a complexidade do desafio e a dificuldade inerente em mudar a  identidade da organização. Em seu livro "Only the Paranoid Survive", ele descreve como os líderes ficam imersos no ambiente onde comunicam e o desafio de ver a situação com novos olhares: 
 
-> "Há uma distinção sutil aqui. Quando digo, 'Aprenda o que acontece na periferia do seu negócio', significa algo diferente de se eu tivesse dito, 'Aprenda o que acontece em seu negócio'. No curso normal dos negócios, converso com o gerente geral, com o gerente de vendas, com o gerente de produção. Aprendo com eles o que acontece no negócio. Mas eles me darão uma perspectiva de uma posição que não é muito distante da minha. Quando absorvo notícias e informações vindas de pessoas que estão geograficamente distantes ou estão vários níveis abaixo de mim na organização, vou triangulação em questões de negócios com a visão deles, que vem de uma perspectiva completamente diferente. Isso me dará insights que provavelmente não obteria de meus contatos habituais." (Grove, 1996, p. 110)
+> *"Há uma distinção sutil aqui. Quando digo, 'Aprenda o que acontece na periferia do seu negócio', significa algo diferente de se eu tivesse dito, 'Aprenda o que acontece em seu negócio'. No curso normal dos negócios, converso com o gerente geral, com o gerente de vendas, com o gerente de produção. Aprendo com eles o que acontece no negócio. Mas eles me darão uma perspectiva de uma posição que não é muito distante da minha. Quando absorvo notícias e informações vindas de pessoas que estão geograficamente distantes ou estão vários níveis abaixo de mim na organização, faço uma triangulação em questões de negócios com a visão deles, que vem de uma perspectiva completamente diferente. Isso me dará insights que provavelmente não obteria de meus contatos habituais."* (Grove, 1996, p. 110)
 
 <!-- 
 
