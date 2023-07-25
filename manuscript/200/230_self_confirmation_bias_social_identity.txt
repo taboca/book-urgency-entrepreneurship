@@ -1,0 +1,50 @@
+# Uma nova identidade 
+
+<!--
+
+* Version - v2.1 
+
+* Situation - You can enter places that can take you there. 
+* Complication - You can join the crowd with positivisn, energy. 
+
+* Tag - power dynamics
+* tag - communication 
+* tag - 
+
+* Chatgpt - https://chat.openai.com/share/2cca3573-5c8a-4526-8afe-1498acabdd7d
+
+* [ Add citation ] Melissa Nightingale, super hero cape. 
+
+-->
+
+Todo empreendedor irá fazer algo com um objetivo ou causa. Chegamos neste estágio porque queremos mudar algo no mundo ou uma vida melhor. Existem motivações e sonhos, já sabemos. Mas também, no momento que colocamos uma semente nesse terreno, estamos não só esperando mas estamos modelando nossas identidades como empreendedores. Até aí tudo bem. O problema, complicação, é que estamos na busca de suporte. 
+
+Vamos refletir sobre a necessidade de regular auto-estima que é natural das pessoas; mas como a ideia de regular auto-estima está também atrelada a uma identidade que pode ser inventada e está projetada como sendo identidade no futuro baseada na expectativa de sucesso. E como que se envolver com essa identidade pode fazer o empreendedor cair em pegadinhas, que lhe custarão tempo; e pode ajudar a de fato destruir aidentidade real da pessoa, a experiência, criando frustrações e falta de energia.
+
+Vamos abordar que uma vez indo para o online, enredado, e não existe online; já que o digital e físico foram fundidos; estamos já no ambiente de possível construção e de fechar conexões, círculos. E correndo os riscos. Aceleradoras, incubadoras, séries educacionais, grupos de trabalho, são ambientes enredados onde vamos avançar com apoio, suporte e estaremos fortalecendo nossa identidade de futuro. 
+
+Trazer a questão de identidade, chegar Andy Grove sobre isso, Trazer o caso do super herói da Melissa Nightingale (deixar a capa), trazer a questão do "com dados" que foi falada na introdução, e fazer o leitor ver que na internet, no digital, temos tudo para manipular tudo. O que queremoos ser, como queremos fazer, clubes, metodologias, e pessoas ao lado. 
+
+Porque o caso de Mianmar pode ser relevante? Porque para quem acabaou de entrar no modo empreendedor, por exemplo em um momento novo, a rede de conexões pode criar uma realidade alternativa: 
+
+## O Caso do Monge Wirathu em Mianmar [feat. Chatgpt e Marcio]
+
+<!-- 
+
+* Chatgpt - https://chat.openai.com/share/2cca3573-5c8a-4526-8afe-1498acabdd7d
+
+--> 
+
+No livro "A Máquina do Caos", Max Fisher relata a história extraordinária de um monge budista chamado Wirathu, que foi catapultado para a fama em Mianmar após o país emergir de um longo período de isolamento e abraçar a Internet e as redes sociais. A ascensão de Wirathu e sua habilidade de influenciar uma nação recém-conectada ilustram a relação intrincada entre conectividade, identidade e o poder potencialmente destrutivo de uma realidade alternativa não contestada.
+
+A história de Wirathu começa com um passado sombrio, confinado a um ambiente de ódio durante sua prisão. Contudo, seu país natal, Mianmar, passou por transformações significativas durante sua detenção, incluindo a adoção generalizada da Internet e das redes sociais, em grande parte graças a uma parceria com os Estados Unidos. Inspirado por líderes do Vale do Silício e pelo ex-presidente Barack Obama, Mianmar fez uma rápida transição para a era digital.
+
+Como resultado, a Internet - particularmente plataformas como Facebook e YouTube - tornou-se um palco para Wirathu se comunicar com seguidores e aumentar sua influência. Segundo Fisher, Wirathu desfrutou de uma popularidade que impulsionou sua comunicação com o mundo de maneira inimaginável antes da era da Internet. Antes, ele teria tido que viajar pelo país para espalhar suas palavras e ganhar adeptos.
+
+Nas redes sociais, no entanto, as palavras de Wirathu eram amplificadas pelos próprios usuários, propulsoras de uma narrativa enviesada. Ele "acusava a minoria muçulmana mianmarense de crimes horrendos, misturando boatos com invencionices" (Fisher, p.55), gerando uma realidade alternativa que se tornou preocupantemente mainstream graças ao seu status de celebridade.
+
+Fisher destaca que as pessoas de Mianmar foram apresentadas ao Facebook em um estado já desenvolvido, criando uma espécie de explosão digital. Consequentemente, à medida que os usuários se engajavam nas redes sociais, construíam ou reforçavam suas identidades. A popularidade e o eco dentro do grupo de suporte tornaram-se evidências da verdade, alimentando um viés de confirmação que ignorava qualquer contra-argumento.
+
+Os usuários, portanto, passaram a interpretar a popularidade de uma postagem ou figura como Wirathu como uma validação de suas crenças e percepções, fortalecendo sua identidade e, ao mesmo tempo, criando um ciclo de confirmação de viés que amplificava a narrativa alternativa. Em um episódio notável, essa dinâmica culminou em ataques violentos à minoria muçulmana, motivados por informações disseminadas através das redes sociais.
+
+O caso de Wirathu e Mianmar, como descrito por Fisher, destaca o poder e o perigo das redes sociais em uma sociedade recém-conectada. O que antes eram fragmentos de crenças sem confirmação passou a ser, na era digital, validação em massa de uma identidade e narrativa alternativa, proporcionando aos usuários um sentido distorcido de realidade e moralidade. Isso ilustra a urgência de se abordar a disseminação de desinformação e ódio nas redes sociais para garantir um futuro digital mais seguro e inclusivo.
