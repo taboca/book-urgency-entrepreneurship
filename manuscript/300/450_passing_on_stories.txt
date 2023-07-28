@@ -1,4 +1,4 @@
-# Contando histórias lindas mal contada 
+# Narratives in the early stage 
 
 <!-- 
 
@@ -10,9 +10,29 @@ Chatgpt :
 
 https://chat.openai.com/share/6eef3d42-b1ae-4ceb-88ca-58d52706430e
 
---> 
+( ) Complete "in a calling" - [^steveblankreferred]   
 
-Introduction
+( ) Complete [^customerdiscovery] 
+
+( ) Complete [^stevenobusinessplansurvives]:  
+
+( ) Complete [^mvpprocess] 
+
+( ) Check 72-hour rule, quotation 
+
+( ) Risk analysis [^riskanalysisofvc] 
+
+( ) Reputation founders  [^foundersreputation].
+
+## References
+
+MAP14. (2014, March 13). MAP14 Public Forum: Steve Blank. [video]. Retrieved from https://youtu.be/UFx2CQUTpYo
+
+Belsky, Scott. (2010). Making Ideas Happen. London, England: Portfolio.
+
+Greylock. (2015, October 8). Blitzscaling 03: Michael Dearing on Capitalism, Creativity, and Creative Destruction [Video]. YouTube. https://youtu.be/3vCdfa_aeI8?t=3600. Minute 1:00.
+
+--> 
 
 In the world of entrepreneurship, we often venerate winners and their narratives. These stories become beacons, guiding followers towards success, or so we think. But there's a complication: when it comes to documenting these tales, we fall short. The narratives often become fragmented, cut short, or distorted, giving us mere snippets of a much bigger picture. These fragmented stories often leave out the struggles, trials, and errors that ultimately led to the victory, thereby missing a chance to imbue crucial lessons. The real story gets lost in the noise, leaving us with half-truths. So, how can we address this issue? By delving into the importance of storytelling in entrepreneurship, and more specifically, the dire need for honest, complete narratives that convey the entirety of the journey, not just the end point.
 
@@ -22,16 +42,108 @@ Consider the dynamics of a start-up seeking investment. In their pursuit of the 
 
 This phenomenon isn't simply about the invisibility of failure; it's about the missing narrative of perseverance, trial and error, and the gritty determination that brought about success. The world doesn't see the pre-lean phase, the struggles, the near misses. Yet, these form the bedrock of any entrepreneurial journey and hold invaluable lessons for those daring to walk the same path.
 
-Part 2: The Lean Dilemma
+## Part 2: The Lean Dilemma
 
 Renowned entrepreneur Eric Ries in his seminal work, The Startup Way, discusses the lean startup methodology. But an intriguing trend emerges here: entrepreneurs often abandon the lean methodology once they find a promising lead. It's akin to an urgency mode kicking in, driving them to forego the principles that initially brought them close to success. This switch often leads to incomplete narratives, painting a picture of an effortless, straight-line journey towards achievement, while leaving out the meandering path of exploration that led to the discovery. This needs to be rectified, for the sake of completeness and responsibility towards upcoming entrepreneurs.
 
-So, we find ourselves at a crossroads. To better convey the journey of entrepreneurship, we need to slow down, reflect, and ensure we're passing on complete stories. It's not just about success and failure; it's about the journey, the process, the learning. It's high time we told those stories in their full glory, complete with their many trials and errors. Only then will we truly honour the entrepreneurial journey and guide future generations responsibly.
+So, we find ourselves at a crossroads. To better convey the journey of entrepreneurship, we need to slow down, reflect, and ensure we're grasping the complete stories. It's not just about success and failure; it's about the journey, the process, the learning. It's high time we told those stories in their full glory, complete with their many trials and errors. Only then will we truly honour the entrepreneurial journey and guide ourselves and out future generations responsibly.
 
 [Author's Note: Please remember to revise and add references where necessary.]
 
+What is intrinsic, in the art and science of entrepreneurship, is that the story told is a projection to start with, especially in the modern version of entrepreneurship promoted after the lean movements. It's a discovery, clearly all the lean methods recognize that. And in terms of reasons, or good reasons, for a founder to be in, as recognized by Steve Blank, it requires the state of founders to feel that they are "in a calling" [^steveblankreferred]. Therefore, we seem to be on a mission, to bring something to the world, and do us. Yes, indeed these processes have a core principle, to help founders to craft a solution for a current or future need of a given market, not exactly a demographic market as businesses used to define, but more like a needs market [^jobtobedonemarket]. 
 
+[^steveblankreferred]: 
 
+The discovery process [^customerdiscovery] tries to check if the founders can come up with a solution, which they don't know yet, for a need that they also don't know yet, in a way that value is perceived by them and their users users, and towards the situation where users are able and willing to buy. Therefore, processes like this are in place for the sake of testing for their capacity to execute such process. 
 
+[^customerdiscovery]: 
 
+Therefore, since nothing much is there in the first, place, we can rest knowing that the process often start with narrative, a story of how founders start; which indeed might have roots in personal individual values, or it could be based on "good reasons" of the founders to join the calling. 
+
+But since nothing is there, and it's not possible to have a strict business plan for what is next [^stevenobusinessplansurvives], founders have to satisfy themselves by understanding that what hold them together is a narrative. One that compells then to work, to try, to learn, and to execute. And as they do, as expectations and goals are set, they seek out models to supports them to manage themselves, as resources, so that hopefully they can bring a value proposition for a potential market. To explore this idea with colors, consider the popular notion of the minimum viable product, the MVP [^mvpprocess], which involves the idea of testing an idea, such as a prototype, in front of users to see if there is value. The idea could be a new kind of sandwich, or something prototyped in paper, or a software system. There are different ways to do an MVP but it's accepted the general notion that an MVP is not the early version of a product. The idea is that they can test and learn, not to increment it. The goal is to learn if users enjoy and see value. And then, depending on the results and other factors, the team makes a decision for doing something else, such as to advance towards another MVP that may test other hypothesis - all that to sort of improve the confidence level about the next phase of investment which should naturally involve more resources. The development of an MVP follows a narrative, a plan, althouht no MVP has the goal of being the product. It's a means for learning, mostly.  
+
+[^stevenobusinessplansurvives]: 
+
+[^mvpprocess]: 
+
+Now, as indicated by the process, learning is involved so that the next phase of investment can be activated. Implicit in this process is the idea that someone is observing, the judges, being the team or others supporting peers. Any learning effort that goes on, with a plan of execution (good or bad) will only happen in a period of time and should arrive at a presentation in front of a hypothetical judge that will approve the next phase. The judges can be the founders approving themselves as resources to try again, do a new cycle, keep on going, you name it. 
+
+Thereore, for the approaval phase to happen, a narrative has to exist. Such as short narratives that they tell themselves, analysis reports and other narratives that may fill the details for a presentation. This format invaribly involves founders advancing as they do analysis for a general narrative that attempts to add the supporting data related to their ideas, guesses or hypothesis, data and interpretation of their incomplete tests, interpretations of responses such as feedback from early users, and other partial analysis. 
+
+Looking at founders as the ones carrying on narratives, they can be seen as protagonists of their entrepreneurial efforts and that they act to construct a narrative that presents good reasons for themselves, and others such as users and investors, to act, to trust. Looking using this perspective, I invite you to consider the idea that founders serve as great examples of the Homo narrans ("storytelling human") [^waterfisherhomonarrans], a metaphor for humans as beings that coordinates meaningful communication via storytelling and where where they participate as storytellers and observers of narratives. 
+
+## The narrative paradigm 
+
+Let's consider for a moment that what we do essentially has more to do with storytelling, as Homo narrans. A theory of Walter Fisher, known as the Narrative paradigm, claims that human communication occurs from our participation as storytellers or observers of narratives. The provoking point about the theory is that stories are more persuasive than arguments. Our capacity to grasp and retain ideas often hinges on storytelling, an intrinsic human trait. We learn, discern values, and act based on the narratives we encounter. Imagine someone who's never tried an orange. A persuasive story from a friend about their first delicious encounter might be the nudge needed to inspire a taste test.
+
+By following this line of thinking, let's consider that we live out narratives and with that, that we understand, or measure, our lives, and consequently inclinations to do things, in terms of narratives that we evaluate. 
+
+Now, by just focusing in storytelling, we are likely to understand that founders are not driven only based on that main aspect. We know that they have to be good storytellers, but also that what they try to create, in the end of the day, will need to pass a big test, the real test, in front of ultimately the ones that can accept or deny the product. The real judges, such as customers. We don't deny that the end has to bring value and has to be concrete. 
+
+Still, our attention here, as we consider the process, is that a lot of support that founders get has to do with the judgements that they do themselves, and by the others that they are contacting on their way. In addition, that they need to be organized and coordinate actions by telling themselves stories of how they are doing, how they are executing. The complication for them is that the actual storytelling of the execution will naturally deal with data that is more or less accurate. In other words, the methods they use, in the early stages and through discovery, are lean methods that naturally don't guarantees success at the next stop. If we consider tools such as the MVP, business model canvas, or customer discovery; all of these are iterative solutions to help them to get data, or fragments of data, that are to be interpreted subjectively based on founders knowledge, and becomes information inserted in their stories to support the call, such as a yes or no, for the next stage of investment. 
+
+But as we dive in the process, if we zoom in, we will see that storytelling is applied by the hour, as events are happening, as execution happens. To give colorful case, consider the "72h rule" created by Steve Blank to help teams to control the impulses of a CEO - that leaves the building to do interviews - that comes back with a story that seem to present good reasons to pivot. 
+
+<!-- 
+
+MAP14. (2014, March 13). MAP14 Public Forum: Steve Blank. [video]. Retrieved from https://youtu.be/UFx2CQUTpYo
+
+--> 
+
+The case presented by Steve shows how storytelling conveys partial data and compells the participants to act. It would be the case when the CEO presents its good reasons for a "let's pivot!" And as well, it is the case when the team stops that CEO with good reasons for "keeping your mouth shut, from when you think you got an insight do when you are allowed to announce the word pivot." (Steve Blank @ MAP14, 2014,  24m34s)
+
+A CEO, when confronted with that strong saying, have a lot of reasons to trust the team too, as like a good classical story, the indicated rule might have being said in the right time and space and might pull a truth in it. Thus, the rule does not lie. It could be that it serves a purpose in the process but it may also influence the process. 
+
+Thus, what is implicit in the doing of lean is a relationship with storytelling. We use storytelling to advance. But, of course, there is nothing wrong with that. But it serves as an alert of our propensity to decide for action x or y using stories. And a reminder for us that, when the clock is ticking, sticking with a story that supports decision is generally applauded. We need to be pragmatic, in the end of the day, we need to move. And, again, there is nothing wrong with that. As the process, as we know it, will ultimately reveal the truth, in the end of the days. 
+
+As we delve into the process, consider how entrepreneurs might utilize storytelling not only to guide but also to feed their actions, akin to what communication theorists Frentz and Farrell term as episodes: "a rule-conforming sequence of symbolic acts generated by two or more actors who are collectively oriented towards emergent goals." 
+
+Although this definition could be applicable to stories such as fiction stories, we can't deny that the definition of it does a good job that a lot of what founders do as they document their steps, their episodes. Consider that plus the undeniable, or implicit aspect, that they can't track what they do at all times by rewatching all the episodes that they have done. Therefore, as we advance projects, we are likely advancing a wider story with the episodes towards a general "climax" which guides a general outcome narrative, such as a final presentation which is presented in the context of the mission. 
+
+And again, nothing wrong with that. But the complication is that as much as we like to have the truths, and facts, that tell us that we are in the right direction, still the process in itself is about experiencing, experimenting, learning, and creating new abstractions, conveyed in stories, intended to do the cycle again. We advance by summing support that will be presented as a short story to an audience, themselves or other partners in the process such as an investor. The next step, the judgment call, likely involves a supposedly external process of risk analysis. [^riskanalysisofvc]
+
+[^riskanalysisofvc]: 
+
+The supporting elements, to move on with new investments, becomes the stories we craft after our discoveries, and how others perceive our stories which may or may not involve data analysis, of course, as indicated by "risk analysis" the checking process is not totally done as data is incomplete. Another factor that the venture capital world confirms is that the early stage trust is tied with the reputation and credibility of founders. [^foundersreputation]. 
+
+[^foundersreputation]: 
+
+Consider how the community around founders is generally influential to help founders continue to move, or to try again, or continue to improve in the current line of development. The power dynamics is always present too and noticed when the CEO says something, when someone says that the data says something, that a mentor said something, the judges of an accelerator program, investors, potential customers, and so on. 
+
+A case that is common is when an early customer is inclined to buy. This is quite powerful even when there is no product or what the customer wants is in fact not part of the goal. Many founders jump to getting that customer as it rings the bell that cash is coming in. That pulls effort for someone to try to put that into the story and can be quite powerful to promote a new direction if it fits as good reasons. 
+
+But again, nothing too wrong that. But it serves to illustrate that revenue projection can also support telling a story for changing a direction, even to prompt founders into a conflicting decision, or to look for a new mission, but it is undeniable that a lot of these prompts in the early stage come from arbitrary interactions with arbitrary customers that had arbitrary needs. 
+
+The complication is tied to the expectations, such as measurement expectations, which naturally pulls the team to make decisions as opposed to keep trying and exercising the lean cycle again and again. The story that they need to succeed with lean becomes in itself another storytelling that influences their actions. Consider the question that 
+Rohan Workman asked to Steve Blank, if he has seen when founders claim that they are doing lean versus talking about lean. Steve Blank acknowledged that as a disorder that affects founders when they get enamored with the process. 
+
+Consider how strong it can be the data "from the real world" for a group of founders that were in a prior condition where they never left the room where they kept idealizing too much in theory, as hypothesis. Wouldn't be the case that, perhaps, their act of going out and "get the data" to become fascinating and inspire them to consider the external event as real data or good reasons? And, again, there is nothing wrong with that, of course, as talking with someone, a real customer, can be fascinating in contrast with idealizing things in front of a digital screen. So important and interesting that the very fact of contrasting with the prior situation, poorer situation, becomes a good reason perhaps for a new decision. 
+
+These illustrations are here to help us to execute these processes, the episodes of a lean process, with more tolerance to the results and awareness. Since awareness is key to any process, and founders generally suffer from being enamored with the process, it becomes the founder’s responsibility first to recognize such syndrome; then second, to find for ways to ensure the process is running with quality. But them, wait, what is quality right? Is quality related to control? Consider Scott Belsky’s view about faiure from Making Ideas Happen:
+
+> “The best practice here is to develop a tolerance for momentary injustice an periods of ambiguity. Stay strong and stay calm as a situation settles itself over time and the clouds around any period of change start to dissipate. “ (Scott Belsky, 2010, Making Ideas Happen)
+
+<!--
+
+Belsky, Scott. (2010). Making Ideas Happen. London, England: Portfolio.
+
+-->
+
+This view perhaps support us towards the idea of the knowing that the process and our presence to tell stories, is likely affecting the whole proces. This notion, when embraced, can provoke founders to be in a more humble position which improves them into listening even more and to do the craft, such as to pull data and advance episodes, but to know that all their did had to do with their effort with limited data, as limited beings, influencing the story and the storytelling. As they say that, upfront, they keep a reminder to them, and to the audiences, and also open the door to get more data from external minds. The improvemet of quality derives from that listening condition and may improve when they engage with an advisory board as a body responsible for an outside perspective therefore supporting the founder to get out from instant pressures, and compromising decisions: 
+
+> "That is why you need an advisory board, or board of directors, who is coaching the founders on this because you could get enamorated with the process and confused that the last person to blow on your ear, actually have a valid insight."  (Steve Blank @ MAP14, 2014, 24m51s)
+
+Now the general indication of having an advisory board needs a reflection as it may make sense that there is an absurdity. That because a board of directors are, in general, known and applicable as necessary for large companies. Therefore, there is a general understanding that ignoring a board of directors is a good thing. 
+
+But the reflection is key in establishing the idea of the "entity" of a board of directions, or the role of them. Consider the view For professor and investor Michael Dearing, for why founders need a governance approach: 
+
+> "I need to make sure that somebody is looking at this who isn't just me. Who can critique the strategy it might be an advisor it might be a trusted colleague it might be a cofounder." Michael Dearing. (Greylock, 2015 October 8, 1:00:00) 
+
+Now, we need to be sensible that an early team might not even be able to find a good external eyes to help them there. But the early founders should keep in mind that they need to construct their own system of support to save them from their bad narratives. Michal goes on to indicate that the key point is to seek to create a valuable function of a shock absorber that does the function of checking the progress of founders. 
+
+<!-- 
+
+Greylock. (2015, October 8). Blitzscaling 03: Michael Dearing on Capitalism, Creativity, and Creative Destruction [Video]. YouTube. https://youtu.be/3vCdfa_aeI8?t=3600. Minute 1:00.
+
+--> 
 
