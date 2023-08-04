@@ -13,6 +13,10 @@ v2.1
 * Review reference to OKR, check if it is a process.
 * Review footnote steveblank again / steveblankfootnote2, which relates to 020_rainbow_grayscale.txt 
 
+( ) [^druckerfatheradm] 
+
+( ) Fix italic for **somebody** 
+
 --> 
 
 Defining winning is a great way to help you check if you are serious about entrepreneurship. I will put upfront, I will give it straight, our version of winning here perhaps you already know. It is not about winning, in the way we might normally engage with that idea, the kind of winning that we sometimes seek, when we are trying to control the outcome. I respect that the idea of going for something with goal set and that putting an effort for that is key - there is nothing wrong there. But there is another kind of winning that is more complex and applicable to the entrepreneurial endeavor of one and their team. Perhaps a colder sort of winning, not so hot. The winning I am referring to is a healthy state for your entrepreneurial life, beyond your immediate entrepreneurial goal of now. 
@@ -94,3 +98,31 @@ COntinue to support this with the work of Maslow and entrepreneurship
 In case it seems confusing that creativity now was brought into this article about success, I want to position in in the right direction with a little help from Maslow, add more precision to make a point that the entrepreneur depends on a state of less control which basically connects with the notion of the creative state. Consider the words of Maslow:
 
 -->
+
+## Were we after success always? 
+
+Peter Drucker, the father of the adminstration [^druckerfatheradm], brought up the subject of winning, or seeking success, as part of his article entitled Managing Oneself; pointing that the expectation for success a sort of a norm as the knowledge economy has progressed: 
+
+> "In a society in which success has become so terribly important, having options will become increasingly vital. Historically, there was no such thing as "success." The overwhelming majority of people did not expect anything but to stay in their "proper station," as an old English prayer has it. The only mobility was downward mobility. In a knowledge society, however, we expect everyone to be a  success. This is clearly an impossibility. For a great many people, there is at best an absence of failure. Wherever there is success there has to be failure. And then it is vitally important for the individual, and equally for the individual's family, to have an area in which he or she can contribute, make a diference, and be **somebody**. " (Drucker, 2008, pp. 53-54)
+
+Therefore, if on one hand there is a seekness for success as one does "their job", the other viewpoint, which can be obvious but very difficult to see from the perspective of the executor, that success can't be controled. On the other hand, Peter suggests how stability can be brought to lfe of the executor in the face of the truth where execution is subject to failure. The solution lies in splitting the person: The job of the founder and the life of the person. The role of the founder and the role of the manager that supports the founder. 
+
+This mechanism is not unknown to us, of course. We know that is not uncommon for one that fails big to later come back as a new person. Actually in fact, a lot of stories of actual success comes after the fact of major failures, although most of stories are so short and focusing in the achievements [ as you will read in the part 3 about narratives] that the what has happened before is taken out. Perhaps the world does not have time for that. But we know that anyway. 
+
+Therefore, when it is time to plan the activities and the stories of entrepreneurship, we can and should focus on the proper management of the self with investments in this area. As an example, you can read Peter Drucker's article. But it all starts with a reflective moment and this is now our opportunity here, to start to reason that we can't control the outcome, we can't control success. At least from an extremme perspective, it is very clear, that the total controller, that wants to manipulate the results, it just speeding up towards failure. And the other extremme we know it does not work either, that the one that does not care at all about success is more like taking a road without having a destination in mind. 
+
+But Peter's viewpoint is enlightening as it does not suggest to our controller role to be less of a controller, or to try to regulate the wish to control with a bit of a dosage of sanity and perspective. That effort, such as when we do engage in the mechanisms to gain perspective, should of course gives us perspective. The light in Peter Drucker's comment really touches the meaning of success for the human being, the indivual, that is the difficult place since the success and failure of the job is present at all times, and since the situation in the end of the day can be one or other and, of course, it is all relative. When relativeness is applied to the outcome that is being considered, the result of the provocation implies in giving a new perspective to the outcome and to put the ultimate outcome of the being above all. From that angle, one could argue that the outcome of one that seeks material success,  for example, from the perspective of the protagonist, is other more abstract notion of success that is associated with that first success, such as happiness. But thinking that the success of the higher order is a consequence of the success of the present order, such as the job, is an error in the interpretation and context provided by Peter. What Peter is giving us here is, again, a perspective. If we lock in, accept and trust, that what we do with the job can be either successful or can fail, then the question is: How can I propose a successful situation for the one that carries that job? Or better, what conditions I have to propose to that "other person" in a way that he or she is successful even when he or she fails in the job? It is unexcapable that the one that needs to prepare for winnning or losing needs to be, as Peter wrote, somebody. The somebody that is yet alive after a big fail is likely one that listens. He or she is likely one that reflects. He or she is likely one that learns. He or she is likely one that is happy with either winning and not winning. If we explore now what would be the us that can get a job and complete the job and still be happy, we will start exploring the space of supporting ourselves, of respecting ourselves, or planning for what has to be done that never ignores the plan for the healthy mind of the protagonist. In a way is not different from what you would to to you children if she or he is entering a championship but has a long life ahead. Solve that situation and you have success solved and likely more chances to be successful in the job as well. 
+
+
+
+
+
+
+
+[^druckerfatheradm]: 
+
+<!-- 
+
+Drucker, P. (2008). Managing Oneself. Harvard Business School Press. pp. 53-54.
+
+--> 
