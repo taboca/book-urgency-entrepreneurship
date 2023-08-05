@@ -4,6 +4,10 @@
 
 v2.2 
 
+* English title - "Entrepreneurship success" 
+
+* Linked from - Part 2, 150_controlling_control.txt
+
 * Abstract - prompt, abstract this text plus goals from the intro, and make a book side note that goes on the flip of cover sheets of books. How you call those pages with summaries that covers the book? 
 
 * thanks - Fabricio 
