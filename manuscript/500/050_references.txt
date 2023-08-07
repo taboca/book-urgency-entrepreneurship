@@ -35,7 +35,8 @@ Blank, S. (2010, November 1st). No Business Plan Survives First Contact With A C
 MIT (Producer). (2015, May 19). User Innovation: A Path to Entrepreneurship [Video]. edX. https://www.youtube.com/watch?v=LpBSY9_RyCg
 
 <!-- 
- 230_self_confirmation_bias_social_identity.txt
+ 200/230_self_confirmation_bias_social_identity.txt
+ 300/150_entrepreneurship_is_management.txt
 --> 
 
 von Hippel, E. (2005). Democratizing Innovation. The MIT Press. DOI: https://doi.org/10.7551/mitpress/2333.001.0001
@@ -118,7 +119,10 @@ Graham, P. (2014, Outubro 9). Before the Startup with Paul Graham (How to Start 
 
 <!-- 
 
-intro --> 
+From intro 
+From 150_entrepreneurship_is_management.txt
+
+--> 
 
 Fried, J., & Hansson, D. H. (2018). It doesn't have to be crazy at work. HarperCollins.
 
@@ -137,7 +141,8 @@ Dearing, M. (2013, July 16). Pricing [Video]. HeavyBit. https://www.heavybit.com
 
 <!-- 
 
-970_winning.txt
+* 100/970_winning.txt
+* 300/150_entrepreneurship_is_management.txt 
 
 --> 
 

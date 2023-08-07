@@ -1,6 +1,14 @@
 # Innovation Accounting 
 
 <!--
+
+* V2.1 
+
+* (TODO) Search for "I am here"
+
+* ( ) Change title from - Innovation Accounting 
+
+* ( ) Fix reference to Eric von. Hippel, make a decision to use on 150 or 230, see References and the following reference to Eric. 
 # The Boring Yet Critical Part of Entrepreneurship is Management and Innovation Accounting (feat Eric Ries part 2)
 
 ### References
@@ -8,14 +16,154 @@
 * This https://medium.com/@taboca/next-the-boring-yet-critical-part-of-entrepreneurship-is-management-and-innovation-accounting-88533eea44da
 * Eric Ries, 2011, The Lean Startup at Talks at Google https://www.youtube.com/watch?v=fEvKo90qBns
 
+Fried, J., & Hansson, D. H. (2018). It doesn't have to be crazy at work. HarperCollins.
+
+von Hippel, E. (2005). Democratizing Innovation. The MIT Press. DOI: https://doi.org/10.7551/mitpress/2333.001.0001
+
+Drucker, P. (2008). Managing Oneself. Harvard Business School Press. pp. 53-54.
+
+
+-->
+
+<!-- SCqA 
+
+( ) Make intro 
+
+* Situation - We all set goals, and our goals exist so that we can do some work. 
+* Situation - But we find complications on our way. That what we said is wrong, that we become too anxious, the team is not anymore motivated, goals are not meaningless, there is no room to learn, an more. 
+
+* Complication - We gravitate towards performance, and we lock goals, or as we lock goals. We respond to goals even when they were very unclear, more like a mission or vision. We tend to lock so that we can be productive. 
+* ( ) Need to improve complication. 
 -->
 
 > “What I think is really interesting about these stories about entrepreneurship is that 95% of the time of the movie is spent in act one and act three even though in real life all of the important work of entrepreneurship happens during the photo montage. “ Eric Ries @ Talks At Google 2011, 4:58s
 
-Eric is contrasting the romantic way of looking at entrepreneurship with the reality of the hard work, which includes the bulk of work that is not elected to the become stories to be told — perhaps simply due to the nature of the amount of noise, failures, and learnings before success.
+Eric is contrasting the romantic way of looking at entrepreneurship with the reality of the work, which includes the bulk of work that is not elected to the become stories to be told — perhaps simply due to the nature of the amount of noise, failures, and learnings before success? 
 
 The “photo montage” component of entrepreneurship is where the learning is happening, it’s learning along the way amid the journey for trying to achieve success (from the idea to product-market fit, to a fully scaling business condition and so on). These are situations such as:
 
 * Which customers to listen and how to ignore;
 * How to prioritize product features;
 * How to hold people accountable, how to measure if what they are doing means progress.
+
+## Goals and uncertainty 
+
+In "It Does not Have to be Crazy at Work", David and Jason talk about an idea that sounds provokative - make it up as you go. They claim that orienting work with the idea of strong goals, an ideal that goals that are set stricttly, such as a 2, 3, or up to a 5-year plan, can be toxic [of damage] real progress.  
+
+In other words, they oppose to the idea of of the big plan. Along with a lot that is being written and said about goals, the title of their article could be misinterpreted; inf one doesn't pay attention to the details. What they claim with the approach of "make it up as you go" has more to do with the complex situation when founders set in stone what they do then find real stones on their way, which costs them more. 
+
+One point is solid: That setting long-term goals can be risky in the sense that it "instills a false sense of security. " In this regard, they recognize an unexpected outcome that appears when teams have strict goals but come across new data that challenges what they are doing. It's corporate anxiety. On one hand the individuals need to keep moving on the same path. On the other hand, they sense that they are doing the wrong thing. 
+
+[Perhaps here would be interesting to bring up an article reference to support us in terms of goal setting and the narratives. And we should acknowledge that we will be exploring the power of narratives. ] 
+
+Therefore, following David and Jason viewpoint, we have to face the importance of creating the conditions for a healthy way of working. No anxiety on our way as derived from the fact that we are discovering what seems to be helping us to get rid of a bad goal. Therefore, we seek for freedom in the sense of the healthy condition for the worker to evaluate their long-term goals. 
+
+[If we could, we could bring it the reflection of Abraham Maslow about the creative being and the controller from Maslow on Management. ]
+
+Their call has more to do with that, as opposed to not having a plan at all. One pattern of planning is, "Every six weeks or so, we decide what we will be working on next. And that is the only plan we have. Anything further out is considered a 'maybe, we will see.'" (Fried & Hansson, 2018, p. 32).
+
+<!-- 
+
+Fried, J., & Hansson, D. H. (2018). It doesn't have to be crazy at work. HarperCollins.
+
+--> 
+
+With our intention to create a reflective moment about goals, what can we take from a reading about this pattern but, at the same time, sum up the saying from many successful sources, such as practitioners and entrepreneurs, which claims that goals are important? 
+
+
+One of the resources to this reflection comes from a key book that has championed the idea of aligning and engaging teams around measurable goals. In the book entitled Measure What Matters, John Doerr continued his saga to popularize a framework that has helped him so much and which he learned directly from Andy Grove while at Intel. [Reference to Measure What Matters or Andy.]
+
+OKR, which stands for objectives and key resources, might provoke us to think that goals are strict and should be defined as long-term goals. As we hear, as we listen, as we read the details, these things that sometimes sound different might be quite similar. Therefore, a way of inquiry here, at least to comply with our reflective moment, shall have less to with the "or" and more with the "and". 
+
+Let's consider objectives and key results, from a general purpose. Does it rewire a main goal to exist? One such as a driving goal of 2 years? Yes, it is a way to go. It can and, according to the practitioners promoting it, it should. In terms of higher goals, John Doeer wrote it straight: 
+
+> "[Citation for the part that brings up the top goals." P xx of Measure What Matters. 
+
+They also add nuances to that idea of objectives, such as: 
+
+* That the goal is inspiring [check this] p xx 
+* That the goal communicates the direction. 
+
+And it makes sense, doesn't it? Considering, for example, the life of one that feels motivated enough to do something, to put their hands, to work. It is natural that people enter to work in projects as they have goals, such as goals that are bold, such as goals that requires people to work towards them. It also make sense that people join goals to be part of something such as for the cause and for the world after the goal comes true. Thereore, we can't deny that the subject of goals connects with motivation, at least. According to Eric von Hippel, in Democratizing Innovation, has also covered the phenomenon where people feels empowered to do something as they have a problem, as "it all starts with a problem you want to solve. " 
+
+[This actual citation is a saying from the Video of the course User Innovation. And this exactly situation of citation was brought in the other reference  200/230_self_confirmation_bias_social_identity.txt. Therefore, we might want to take it out from there of here. ]
+
+<!-- 
+
+( ) Referred on 200/230_self_confirmation_bias_social_identity.txt
+
+von Hippel, E. (2005). Democratizing Innovation. The MIT Press. DOI: https://doi.org/10.7551/mitpress/2333.001.0001
+
+--> 
+
+In addition, it is not unwise to consider that, for teams and as teams unfold, the existence of a big goal creates a condition for them not only to join, due to motivations and interest in the outcome, but to engage in a movement where they seek to identify how they can contribute. In the "What Should I Contribute?" section of Managing Oneself, Drucker (2008) recognized that a response, especially in extreme situations where one is being told what to do, might lean towards the notion of "do your own thing." However, he elaborated that the inclination to doing one's own thing doesn't suffice when striving to contribute, achieve self-fulfillment, and find success (pp. 53-54).
+
+<!-- 
+
+Drucker, P. (2008). Managing Oneself. Harvard Business School Press. pp. 53-54.
+
+--> 
+
+[Consider the picture, an illustration, of an X axis, with the "being told" and on the other extremme the "do your own thing" and, from the middle, comes an arrow towards the top, the "how should I contribute". ]
+
+We should account here that John Doeer is known as the evangelist of OKR as a framework, a work he started at Google. As he has recognized in Measure What Matters, the framework was given by Andy Grove at Intel. In addition, Andy has credited that he improved his Objectives and Key Results approach after what he has learned from Peter Drucker. Therefore, it is not unwise to consider that the willingness for one to contribute is tied to the effort to manage oneself. Peter has elaborated, the individual version of it: 
+
+> "What should my contribution be? To answer it, it must address three distinct elements. What does the situation require? Given my strenghts, my way of performing, and my values, how can I make the greatest contribution to what needs to be done? And finally, What results have to be achieved to make a difference." (Drucker, Peter. 2008. (pp. 35)
+
+Thus it is uncommon for people to join projects, with causes and goals, as they know that the cause is promising and that they feel that can do something. Likewise, the structure of a goal, such as the documentation and the expected results to achieve the goal, is also used by founders as they have to communicate round and improve their chances towards success. The storytelling that they product is also key as they struggle to get feedback and involvement from potential customers, insired and hire developers, get support from investors, and more. 
+
+Therefore, it is not unwise to notice how we gravitate towards having a plan, an outcome ahead, and even a 2-year plan, as a key element that may put us in a position to solve what is needed to be solved. Plus the too many stories, as told, that we have seen, and read, and watched, and continue to witness; the too many examples of people that told that they were to do something as in to change the world and they did. Plus, if one feels that storyteeling has a lot of traps, which it does, and if they dig, they will find an entire field of research related to goal-setting. It is undeniable that out of goal setting, and after goal-setting, we seem to be able to react, to fix ourselves, as we go. We can't deny that the environment is key to shape us towards progress. 
+
+## Digging more into OKR to see if it offers a room for learning 
+
+From the viewpoint of OKR, goals are quite string, the objectives. When it comes to translating objectives into actions, there is a top-down effort that is put in place where it all starts with a big goal, a big objective, then the planning intention is to find things we can do to bring that objective closer. [Check this with the Measure What Matters. ]
+
+But then, with that idea, it is time to consider if OKR passes the complication pointed by David and Jason, who stated: 
+
+> "the sooner you admit you have no idea what the world will look like in five years, three years, or even one year, the sooner you will be able to move forward without the fear of making the wrong big decision years in advance" (Fried & Hansson, 2018, p. 33).
+
+Indeed. Working with innovative products brings that. 
+
+<!-- I am here --> 
+
+They touched a key aspect of having a major objective. When we start losing our best selves, as we go, and the potential practical implication of that such as when the team cannot change direction, cannot be creative, or even when the team looses interest and becomes mechanical. 
+
+Before we approach conclusions, take away lessons, let's continue to check what OKR has in it to support the idea of course correction, to support leaning, the as we go discoveries. Does it have? 
+
+Yes. When OKR uses an initial objective, such as an objective that was created ahead of time, such as one that comes from a mission, it does so with the purpose of pushing us into the state of planning the steps for how to get there. The Key Results part of OKR is more of a mechanism for us to keep track, to reveal to us and others what we are doing, to give a window of opportunity to see what goes on. It's a collaboration mechanism and it even works at the individual level. If one says that she is to write a book, she expects to deliver pages, or chapters, or to do a number of interviews, to come up with the articles, and to engage in the many processes that would bring the objective closer. Although OKR doesn't go much into the aspects of your strategy, it proposes a system where the discussion happens, even if you are in solo mode. If you write it down, if you set your objectives, and set your key results, then you are writing it more for the sake of letting the collaboration take place and less for the sake of freezing the key results or even the objective. 
+
+To visualize a potential of OKR in organizations that reportedly did well, the objectives and key results of individuals are posted. But for the situations of the knew that does well, which indeed takes a great culture and effort put In place before, they find that one employee, by knowing what other employee is doing, can even visit the other  to help them indirectly, to give hints, advices, new ideas. If by exposing what you do, that you are doing, let others chime in to help, even people that are not connected directly with you, it is natural to consider that the mechanism of OKR is promoting communication and open ideas to flow; considering that one that does alone is more subject to their own biases. 
+
+The very points of OKR are really about checking, evaluating, and changing direction. Consider, for example, that Key Results as promoted by the viewpoint of John Doeer, can be aspirational or commitment based. These approaches exist to accommodate the situations where a lot of learning, such as discovery, is involved, on one hand. While on the other hand, commitment based key results offers an approach to check progress for the moments that we know exactly what needs to be done. Again, the applicability and value from it depends on the strategic planning. 
+
+But the evaluation of the what happens, according to the approach, is key and should be likely done at all times. Not only after the fact that when done properly communication and contributions happens indirectly as indicated. The natural execution of it requires constant evaluation that involves self review and peer review, such as a review with a manager. 
+
+Of course, depending on the culture, toxic aspects can come the way to influence the process to offer no value. For example, depending on how the measurement of performance of an employee is done, such as when the compensation is associated with the Key Results and moving towards the Objective as written, then the results can be catrastrofic. Would one want to course correct its path, after having good reasons for so, after knowing that she or he could be evaluated as bad performer and even get fired? That kind of situation would certainly bring anxiety and a lot of distractions for a call that would not likely happen. 
+
+It is important to pause here and reflect that a lot of companies indeed enters that mode. They set goals in stone, they put prizes for the ones that follows the path as written, they punish the ones that didn't do well. Then it comes the question, do they course correct? Yes but they do that in macro terms, by facing a crisis, which likely involve getting people fired, managers fired, teams reorganized. From the point of view of an employee, under a whole team that got fired for moving in the bad direction claiming it was good, the employee generally tries to escape the spiral of death by reclaiming that he was told to do that job and was performing well. In a lot of situations like that, a lot of people can get away. But still, anxiety was present and a lot of effort to manage the crisis which can and should be considered a bad use of the time of people. 
+
+Therefore, it is ideal to think that a plan for progressing is not about a plan for evaluating people. This is a key aspect of the OKR approach that when well considered can make OKR become a useful tool and one that also serves well for course-correcting what happens towards the what matters. 
+
+With a cadence for evaluating what is being done, with allowance for reviewing with transparency and strategic thinking too, the approach can help person to change the plan at the level of the Key Results and also Objectives. 
+
+The subject of dropping a plan associated with an objective is referred a lot although likely not many get to the point of reading about these critical situations when a lot of the leaning happens with the intention of getting started.  
+
+For Harrison Metal professor and investor Michael Dearing, that reported having talked with  the thousands about the subject [check the reference to this from the management course] the person has to do it quick, and review hundreds of times. By the way, he is okay with a big goal to exist too, such as a 2-year plan. But does it mean the objective is frozen? No. The purpose of doing, and the communication around, exists for the sake of changing things.
+
+<!-- 
+
+Consider too 
+
+--> 
+
+Check back to the situation as shown by David and Jason which they Said that they do checks for 6 weeks. Would they every 6 weeks change the direction of the boat too? Probably not. They might be in a condition that something else influences their 6 week plan. But would it means that they can't change the direction of their big boat? Of course no as well. They are likely in a better position, to learn and discuss, as they kept that idea of "maybe we will see. " Something is there being discussed, certainly, there is a direction, certainly. But at least thet positioned themselves to be open minded. The purpose of good goal setting systems are also to be open, to find better ways. 
+
+The effort of redoing the OKR hundreds of times, is for the sake of being open. Now, in this regard, a question that comes is if OKR does not allow room for bottom-up contributions that affects the top-down. Part of it I have covered, the conversation is there. But the cycle for reviewing all the top down plan exists too and bottom-up contributions is recognized as key. In other words, the approach needs and depends on the confrontation of the what we want to do with the what is happening. Of course, the cadence for that sort of strategic planning work might have a cadence, needs a cadence applicable to the organization.
+
+<!-- 
+
+Perhaps it is applicable now to bring a 2 axis?
+
+Now a question that comes out way is to consider the situation, the context. We need to reflect about the doing precise versus when learning. And how key results can be crafted. And for that we need to talk about outcome vs. output. Let's dive a bit into that.
+
+-->  
