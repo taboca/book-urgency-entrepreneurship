@@ -153,5 +153,13 @@ Drucker, P. (2008). Managing Oneself. Harvard Business School Press. pp. 53-54.
 * 300/150_entrepreneurship_is_management.txt
 
 --> 
-— Doerr, J. (2018). Measure What Matters. Portfolio/Penguin, p. 46.
 
+Doerr, J. (2018). Measure What Matters. Portfolio/Penguin, p. 46.
+
+<!-- 
+
+* 300/150_entrepreneurship_is_management.txt
+
+--> 
+
+Ries, E. [Talks at Google]. (2011). The Lean Startup [Video]. YouTube. https://www.youtube.com/watch?v=fEvKo90qBns

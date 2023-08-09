@@ -1,4 +1,6 @@
-# Not So Radical Focus: Goal-setting and accounting for innovation 
+# Not So Radical Focus
+
+## Goal-setting and accounting for innovation 
 
 <!--
 
@@ -16,7 +18,6 @@
 ### References
 
 * This https://medium.com/@taboca/next-the-boring-yet-critical-part-of-entrepreneurship-is-management-and-innovation-accounting-88533eea44da
-* Eric Ries, 2011, The Lean Startup at Talks at Google https://www.youtube.com/watch?v=fEvKo90qBns
 
 Fried, J., & Hansson, D. H. (2018). It doesn't have to be crazy at work. HarperCollins.
 
@@ -42,17 +43,23 @@ Entrepreneurship is not a theoretical thing. As we enter the space, we will grav
 
 As much as we have a lot of tools that promises to help track and find our way to innovate, is it not easy to have a clear view of what goes on and to see in perspective. We keep falling in traps also for the matter of managing productivity, even to a point of doubting the ways to manage progress.  
 
-Eric Ries, the notable advocate for Lean principles, continually reminds entrepreneurs that learning is the essence. His words provoke reflection on how inclined we are to use lean methodologies more like a system to accelerate and execute, rather than a system to learn—essentially attempting to harvest something we didn't originally plant with proper care.
+Eric Ries[^footnote_ericries_lean], the notable advocate for Lean principles, continually reminds entrepreneurs that learning is the essence. His words provoke reflection on how inclined we are to use lean methodologies more like a system to accelerate and execute, rather than a system to learn—essentially attempting to harvest something we didn't originally plant with proper care.
 
-> “What I think is really interesting about these stories about entrepreneurship is that 95% of the time of the movie is spent in act one and act three even though in real life all of the important work of entrepreneurship happens during the photo montage. “ Eric Ries @ Talks At Google 2011, 4:58s
+> “What I think is really interesting about these stories about entrepreneurship is that 95% of the time of the movie is spent in act one and act three even though in real life all of the important work of entrepreneurship happens during the photo montage.” (Ries, 2011, 4:58)
 
-[^ericries_footnote_lean]: Eric Ries is a renowned entrepreneur and author, best known for pioneering the Lean Startup movement. His seminal work, "The Lean Startup," introduced a methodology that emphasizes the importance of adapting and adjusting business directions with agility, based on customer feedback. In his subsequent book, "The Startup Way," Ries expanded on these principles, providing a framework for entrepreneurial management applicable in various sectors, from fledgling startups to established enterprises. As a thought leader in the world of startups and innovation, Ries has played a pivotal role in reshaping the way companies are built and new products are launched.
+<!-- 
+
+Ries, E. [Talks at Google]. (2011). The Lean Startup [Video]. YouTube. https://www.youtube.com/watch?v=fEvKo90qBns
+
+--> 
+
+[^footnote_ericries_lean]: Eric Ries is a renowned entrepreneur and author, best known for pioneering the Lean Startup movement. His seminal work, "The Lean Startup," introduced a methodology that emphasizes the importance of adapting and adjusting business directions with agility, based on customer feedback. In his subsequent book, "The Startup Way," Ries expanded on these principles, providing a framework for entrepreneurial management applicable in various sectors, from fledgling startups to established enterprises. As a thought leader in the world of startups and innovation, Ries has played a pivotal role in reshaping the way companies are built and new products are launched.
 
 Notice that “photo montage” that he seeks, the thing we as founders don't care, shows the gap. We gravitate for tracking success more than tracking learning. From the standpoint of narratives, we will have an opportunity to reflect about how we use storytelling such as to trap ourselves. But for now, our focus in this reflection, will face the challenges of tracking goals especially when the team seeks to innovate. 
 
 We will reflect if goal-setting and tracking makes sence when the space is uncertain; When tracking disconnects from strategic thinking; And come up with principles for managing our investment. 
 
-## Can goal-setting and goal-management survive?  
+## Can goal-setting survive?  
 
 In *It Doesn't Have to Be Crazy at Work* by Fried and Hansson (2018, p. 32), the authors provoke readers with the article "Making it up as you go." They argue that adhering strictly to strong goals, such as setting 2, 3, or even 5-year plans, can be detrimental to genuine progress.
 
