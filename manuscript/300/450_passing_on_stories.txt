@@ -2,11 +2,11 @@
 
 <!-- 
 
-Title 
+## Title 
 
 * Analog with "The innovator's dilemma" 
 
-Synchronicity: 
+## Synchronicity: 
 
 200_success_as_a_service.txt
 
@@ -14,6 +14,8 @@ Chatgpt :
 
 https://chat.openai.com/share/6eef3d42-b1ae-4ceb-88ca-58d52706430e
 
+
+( ) Complete review [^footnote_andygrove_peterdrucker]
 
 ( ) complete [^ericriesonfoundersnolean]:
 
@@ -59,37 +61,45 @@ Greylock. (2015, October 8). Blitzscaling 03: Michael Dearing on Capitalism, Cre
 
 --> 
 
-In the world of entrepreneurship, we often venerate winners and their stories. Their inspiring stories can guide entrepreneurs to listen, become motivated, and certainly to act. But when it comes to building our own narratives, our tendency to accelerate towards successful outcomes - such as the winning numbers - can become a source of distraction that can mislead teams from achieveing solid results. 
+In the world of entrepreneurship, we often venerate winners and their stories. Stories are more than a source of inspiration. Their stories - why they do, what they do, and how they do - serve as guides to own paths. We all know the value of advancing with storytelling, as we need to make decisions quickly and based on limited data and knowing that we don't have all answers for what is ahead. 
 
-Our focus in this section is an oppoortunity to look at how entrepreneurs use storytelling, how we come to believe and act on the basis of stories. 
+Being that entrepreneurship is science and art, the storytelling capacity [mechanism?] becomes synergistic [Maslow uses the word synergistic a lot, check]. It accomodates what we can do for a different world we desire, it gives us reasons to move ahead, it allow us to persevere in the face of uncertainty. And within the mechanisms of the daily routine, it works like a grease for our collaboration engine. 
 
-<!-- 
+The problem with storytelling, on the other hand, is how we use it to advance in the face of pressure to achieve the next stage, such as the expectaction to succeed. Apparently there is nothing wrong with that. But it comes from the fact that we trust so much, that greasing potential, that we can also fall on our own floor. 
 
-* Above, we teased - Winning numbers, seems to resonate with results like outcomes. 
-* Above, we teased - Accelerate towards outcomes, seems to show a storytelling that may want to convince us and others. 
-* Above, we teased - Source of distraction, seems to indicate that teams will not find value for them as teams and their products. 
+Now, since can't turn off storytelling, it seems reasonable for us to reflect about how entrepreneurs use narratives to make decisions. It does not matter how scientific or not is what is ahead of us, the storytelling that comes our way is always informed by the domain we are. In the end, it matters a lot in terms of our productivity and chances to find real answers. 
 
---> 
+Our focus in this section is an oppoortunity to look at how we, as entrepreneurs, come to believe and act on the basis of the stories that we read and the ones we write, as we move on. 
 
-In the book It Doesn't Have to be Crazy at Work, Jason and David, calls our attention to a language that the business world is obsessed with. They call our attention to action-oriented themes that visceraly invite us into things such as "Let's double the market", "Who is getting which awards?", "Who is raising money?", and so on. For them, it is a "language of war" that fills out the skies of the entrepreneurial landscape. Or more likely, it clouds. 
+In a more traditional way of thinking, there is an idea that storytelling is a tool, that can be used to our advantage, such as that they can read stories, decided on that, and write stories, and decide on that. Thus, it is not difficult to think that stories comes after rationality and after strategy. 
 
-<!-- 
+But the line of inquiry here involves the consideration that we can be less conscious about how we deal with storytelling. In other words, we are interested in checking when storytelling eats strategy for breakfast[^footnote_andygrove_peterdrucker]. 
 
-* signated - obsession 
+[^footnote_andygrove_peterdrucker]: Andy Grove quoted Peter Drucker's famous quote that "culture eats strategy for breakfast" in the book High Output Management. 
 
---> 
+## Storytelling is everywhere 
+
+In the book *It Doesn't Have to be Crazy at Work* (2018), Jason and David, calls our attention to a language that the business world is obsessed with. They call our attention to action-oriented situations that visceraly invite us, to act. These can be questions such as "Let's double the market?", "Who is getting which awards?", "Who is raising money?", and so on. For them, it is a "language of war" that fills out the skies of the entrepreneurial landscape. Or more likely, it clouds. 
 
 > "Sadly, it's not easy to escape the business tropes of war and conquest. Every media outlet has a template for describing rival companies as warring factions. Sex sells, wars sell, and business battles serve as financial-page porn. " (2018, P.21)
 
-Is it that the storytelling of what really goes on is too boring and does not sell? In part, indeed, it makes sense that there is a lot of successful stories that doesn't not have room for failure, or for the longer-boring language of work as opposed to the language of war. And inded it might be a "language of war" not in the sense that we are excited with visceral things but because of the storytelling of war that generally presents a narrative oriented to outcomes, such as what one gets after the fact that they fight, when they fight, and if they win. 
+Is it that the storytelling of what really goes on is too boring and does not sell? In part, indeed, it makes sense that there is a lot of successful stories that has that selling thing so that it doesn't not have room for failure, or for a boring language of work. And indeed, it might be a "language of war" not in the sense that we are excited with visceral things but because the storytelling in the language of war generally comes with a narrative of action, a language that is oriented to outcomes, a language that projects what we can get, such as what we would get after the fight. 
 
-As we dig towards giving us more responsibility, and not blame the world even if all stories were a lie, I invite us consider that we, as entrepreneurs, are the ones engaging, and listening and acting, with these things that sells, giving our likes, and echoying these things that sells. The complication is that we fall for a paradigm where we seek out for good reasons to buy-in things, to listen, and to act. And outcomes, such as "winning the market" are good reasons for us. 
+As we dig towards giving us more responsibility for dealing with storytelling, I invite us consider that we, as entrepreneurs, are the ones that area engaging in the first place. We are the ones listening, and acting, with these things that sell to us, giving our likes, and echoying to ourselves and around us. The complication in the domain of founders is not much different from the world of mortals in the trenches of social networks, as one in a syloed socia network enjoys the narratives of the group that they identify with, in many situatios echoying stories as they decide to act. 
 
-But as Jason and David wrote, that is "a paradigm which does not make sense." Especially for entrepreneurs, as they have to focus on what matters, as they have limited resources, as they need to be strategic. This paradigm acts on our motivations to the cause, why we do it, and also on our roadmap, how we do it. As for the why we do it, Steve Blank reminds founders of the dangers of chasing the prize: 
+<!-- 
+
+Consider to refer to the other chapter or even the book The Chaos Machine. Note that Chaos Machine was referred in the other chapter.  
+
+--> 
+
+Therefore, the complication, is that we fall for a paradigm where we seek out for good reasons in the face of what is next, a decision that has to be made. In other words, we are seeking to buy-in something so that we can act. And outcomes, such as "winning the market," are good reasons. 
+
+But as Jason and David wrote, that is "a paradigm which does not make sense." Especially for entrepreneurs, as they should have a focus for what matters, as they have limited resources, as they need to be strategic about how they use their limited resources towards what matters. This paradigm acts affects the how we do it, our roadmad, as much as why we do it. Consider when Steve Blank reminded founders of thir inclination for chasing the prize: 
 
 > "You need to do what you are doing because you love it, because you can’t think of anything better to do with your life. And if that is not the case, don’t do this because it’s going to be a miserable 10 or 20 years. If you are looking at getting rich like the Facebook boys, or the Google boys, or whatever the hot startup is now, that is the wrong reason to do it. If you are chasing the money, I will guarantee you, the more you chase it, the further away is goes." (Steve Blank at MAP14, Mar 13, 2014, 34m33s)
 
-But as we dig for the "how we do it", as teams execute and learne simultaneously, our tendency to use this paradigm for chasing "the prizes" might have more to do with the way we communicate and reason, and less with our obsession for money, market, or prizes. What I invite us to consider the narrative paradigm which can support us to think that founders are more of Homo narrans than sapiens. 
+But as we dig for the "how we do it", as teams execute and learn simultaneously, our tendency to use this paradigm for chasing prizes, such as outcomes, might have more to do with the way we communicate and reason, and less with our obsession for money, market, or prizes. What I invite us to consider the narrative paradigm which can support us to think that founders are more of Homo narrans than sapiens. 
 
 <!-- 
 
