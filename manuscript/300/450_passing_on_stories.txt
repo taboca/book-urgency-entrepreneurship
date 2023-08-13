@@ -61,13 +61,13 @@ Greylock. (2015, October 8). Blitzscaling 03: Michael Dearing on Capitalism, Cre
 
 --> 
 
-In the world of entrepreneurship, we often venerate winners and their stories. Stories are more than a source of inspiration. Their stories - why they do, what they do, and how they do - serve as guides to own paths. We all know the value of advancing with storytelling, as we need to make decisions quickly and based on limited data and knowing that we don't have all answers for what is ahead. 
+In the world of entrepreneurship, we often venerate winners and their stories. Stories are more than a source of inspiration. Their stories - why they do, what they do, and how they do - serve as guides to own paths. We all know the value of advancing with stories, as we need to make decisions quick and based on limited data and knowing that we don't have all answers. 
 
-Being that entrepreneurship is science and art, the storytelling capacity [mechanism?] becomes synergistic [Maslow uses the word synergistic a lot, check]. It accomodates what we can do for a different world we desire, it gives us reasons to move ahead, it allow us to persevere in the face of uncertainty. And within the mechanisms of the daily routine, it works like a grease for our collaboration engine. 
+Being that entrepreneurship is science and art, the storytelling capacity [mechanism?] becomes synergistic [Maslow uses the word synergistic a lot, check]. It accomodates what we can do for a different world we desire, it gives us reasons to move ahead, it allow us to persevere in the face of uncertainty. And within the mechanisms of the daily routine, it works like a grease for our collaboration engine. [Perhaps this extra can become just a sentence - Storytelling is synergistic with the art and science of entrepreneurship as we do not have all the answers, as we collaborate with the ones around us in the face of uncertainty and when trying to innovate. ]
 
 The problem with storytelling, on the other hand, is how we use it to advance in the face of pressure to achieve the next stage, such as the expectaction to succeed. Apparently there is nothing wrong with that. But it comes from the fact that we trust so much, that greasing potential, that we can also fall on our own floor. 
 
-Now, since can't turn off storytelling, it seems reasonable for us to reflect about how entrepreneurs use narratives to make decisions. It does not matter how scientific or not is what is ahead of us, the storytelling that comes our way is always informed by the domain we are. In the end, it matters a lot in terms of our productivity and chances to find real answers. 
+Now, since can't turn off storytelling, it seems reasonable for us to reflect about how entrepreneurs use narratives to make decisions. It does not matter how scientific or not is what is ahead of us, the storytelling that comes our way is always informed by the domain we are. In the end, it matters a lot in terms of our productivity and chances to find real answers. Storytelling can flow and storytelling can crash. 
 
 ## Storytelling is everywhere 
 
@@ -99,19 +99,29 @@ Consider to refer to the other chapter or even the book The Chaos Machine. Note 
 
 --> 
 
-Therefore, the complication, is that we fall for a paradigm where we seek out for good reasons in the face of what is next, a decision that has to be made. In other words, we are seeking to buy-in something so that we can act. And outcomes, such as "winning the market," are good reasons. Or better, become good reasons. Do the test, invite a friend to make a cook a dinner for you, such as one that goes to the oven. As the process happens, tell him "win the market!" and wait for an akward face or just a wine sip to happen. But when "win the market" is said in the context of baking a start-up, then it has more to do with good reasons that can take us to action. 
+Therefore, the complication, is that we fall for a paradigm where we seek out for good reasons in the face of what is next, a decision that has to be made. In other words, we are seeking to buy-in something so that we can act. And outcomes, such as "winning the market," are good reasons. Or better, these things become good reasons, not out of the sudden but in the face of the context. Do the test, invite a friend to cook a dinner for you, such as one that goes to the oven. As the process happens, tell him to "win the market!" and wait for an akward face or just a  sip of wine to happen. But when "win the market" is said in the context of baking a start-up, then it has more to do with good reasons where teams can be compelled to take action (as opposed to taking a sip of wine which could save them from trouble.)
 
-But as Jason and David wrote, that is "a paradigm which does not make sense." Especially for entrepreneurs, as they should have a focus for what matters, as they have limited resources, as they need to be strategic about how they use their limited resources towards what matters. This paradigm acts affects the how we do it, our roadmad, as much as why we do it. Consider when Steve Blank reminded founders of thir inclination for chasing the prize: 
+But as Jason and David wrote, that is "a paradigm which does not make sense." Especially for entrepreneurs, as they should keep a focus for what matters, as they have limited resources, as they need to be strategic about how they use their limited resources towards what matters. This paradigm acts affects the how we do it, our roadmad, as much as why we do it. Consider when Steve Blank reminded founders of thir inclination for chasing the prize: 
 
 > "You need to do what you are doing because you love it, because you can’t think of anything better to do with your life. And if that is not the case, don’t do this because it’s going to be a miserable 10 or 20 years. If you are looking at getting rich like the Facebook boys, or the Google boys, or whatever the hot startup is now, that is the wrong reason to do it. If you are chasing the money, I will guarantee you, the more you chase it, the further away is goes." (Steve Blank at MAP14, Mar 13, 2014, 34m33s)
 
-But as we dig for the "how we do it", as teams execute and learn simultaneously, our tendency to use this paradigm for chasing prizes, such as outcomes, might have more to do with the way we communicate and reason, and less with our obsession for money, market, or prizes. What I invite us to consider the narrative paradigm which can support us to think that founders are more of Homo narrans than sapiens. 
+It is reasonsable to consider, even when a team is in it for a special cause beyond money, the question of when and how financial outcomes - or related outcomes indirectly linkedin to financial - appear in the narrative of start-ups. It is part of the reasons for a start-up to exist. In other words, to exist, to be in the market, to survive, to sustain itself. 
+
+But as we dig for the "how we do it", as teams execute and learn simultaneously, our tendency to use this paradigm for chasing prizes, such as outcomes, might have a lot to do with the way we communicate and reason, and less with our obsession for money, market, or prizes. What I invite us to consider the narrative paradigm which can support us to think that founders are more of Homo narrans than sapiens. 
+
+<!-- 
+
+* Check First homo narrans, no reference. 3 instances ahead.  
+
+--> 
 
 <!-- 
 
 * teased - learning 
 
 --> 
+
+## Outcome-based comparisons 
 
 In this direction, starting with the obvious, we need to acknowledge that focusing on outcomes is a great feature of humans. It's on our alpha nature that we first target a salmon after having good reasons. And we found our ways to capture and bring back to our homes in a stick. Therefore, having an outcome in sight is a requirement that help us find our way to get solve the problem. 
 
@@ -135,8 +145,9 @@ Going back to entrepreneurs, and seeking a colorful example, consider the very s
 
 <!-- charge comic here? --> 
 
-
 ## The Lean Dilemma
+
+The situation is that we will learn, we iterate. Lean is for that. But we also give up on that as soon as we stumble in what appears to be evidence. 
 
 Renowned entrepreneur Eric Ries in his book The Startup Way [^ericriesonfoundersnolean] discusses a complication that comes in the way of founders as they advance with the lean startup methodology. He provoke founders pointing an intriguing trend that emerges when entrepreneurs often abandon the lean methodology once they find a promising lead. It's akin to an urgency mode kicking in, driving them to forego the principles that initially brought them to iterate and to learn. 
 
@@ -153,6 +164,8 @@ But since nothing is there, and that it does not make sense to have a strict bus
 Now, as indicated by the process, learning is involved so that the next phase of investment can be activated - either more funding, more resources, scaling needs, productization, and more. Implicit in this process is the idea that someone is observing, the judges, being the team or others supporting peers. Any learning effort that goes on, with a plan of execution (good or bad) will only happen in a period of time and should arrive at a presentation in front of a hypothetical judge that will approve the next phase. The judges can be the founders approving themselves as resources to try again, do a new cycle, keep on going, you name it. 
 
 Therefore, for the approaval phase to happen, a narrative has to exist. This need creates an anchor to founders. Influencing the narratives that they tell themselves, analysis reports and other narratives that may fill the details for a presentation. This format invaribly involves founders advancing as they do analysis for a general narrative that attempts to add the supporting data related to their ideas, guesses or hypothesis, data and interpretation of their incomplete tests, interpretations of responses such as feedback from early users, and other partial analysis. 
+
+## The narrative paradigm 
 
 Looking at founders as the ones carrying on narratives, they can be seen as protagonists of their entrepreneurial efforts and that they act to construct a narrative that presents good reasons for themselves, and others such as users and investors, to act, to trust. Looking using this perspective, I invite you to consider the idea that founders serve as great examples of the Homo narrans ("storytelling human") [^walterfisherhomonarrans], a metaphor for humans as beings that coordinates meaningful communication via storytelling and where where they participate as storytellers and observers of narratives. 
 
