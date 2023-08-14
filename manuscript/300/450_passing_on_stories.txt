@@ -55,17 +55,26 @@ Greylock. (2015, October 8). Blitzscaling 03: Michael Dearing on Capitalism, Cre
 
 <!-- 
 
-* Situation - why we venerate winners and their stories? Why outcomes? When it comes to narratives, we venerate outcome-based narratives. 
+## Outline v.2 
+
+Provocation, SCqA, Answer, reflective, being: Narrative Paradigm as a Transactional Mechanism Applicable to Urgency and Fast-paced nature of start-ups. Outcome based and anchors supporting narrative. Willingness to Drop Lean and Learninng. Conclusion and considerations for scaping, introducting next chapter.
+
+## SCqA v0.1 
+
+* Situation - why we venerate winners and their stories? Why outcomes? When it comes to narratives, 
+we venerate outcome-based narratives. 
 * Complication - When it comes to narratives, we venerate outcome-based narratives. 
 * Complication - How to move towards real outcomes but not get distracted by storytelling that gives us no results. 
 
 --> 
 
+<!-- Provocation --> 
+
 Our focus in this section is an oppoortunity to look at how we, as entrepreneurs, come to believe and act on the basis of the stories that we read and the ones we write, as we move on. 
 
-In a more traditional way of thinking, there is an idea that storytelling is a tool, that can be used to our advantage, such as when a founder gives a pitch to an investor. Or, from a reading perspective, when we get advice from a board member. Therefore, as a tool, the stories we listen or the ones we say are the means for us to move on, to advance. In this way of thinking, we have good reasons to believe that stories comes after rationality and after strategy. That we are in control. 
+In a more traditional way of thinking, there is an idea that storytelling is a tool, that can be used to our advantage, such as when a founder gives a pitch to an investor with the intent of receiving an investment. Or, from the perspective of acquiring feedback, when a team seeks advice from a board member. Therefore, mainly as a tool where the stories listened, or the ones said, are working for the strategy, to move on, to advance. In this way of thinking, we have good reasons to believe that stories are crafted with rationality and serves strategy. That we are in control. 
 
-But our line of inquiry here involves the consideration that we can be less conscious about how storytelling affect us. In other words, we are interested in checking when storytelling eats strategy for breakfast[^footnote_andygrove_peterdrucker]. We will attempt to isolate what can't be separated, to look at how we as entrepreneurs use storytelling. Or consider a provocation on our way: If entrepreneurs become storytellers, are they able to control, or differentiate, when they are using, or being used by, storytelling?
+But our line of inquiry involves the consideration that we can be less conscious about we use storytelling. In other words, we are interested in checking when storytelling eats strategy for breakfast[^footnote_andygrove_peterdrucker]. We will attempt to isolate what can't be isolated - to look at how we as entrepreneurs depend on storytelling. Or, to consider a provocation on our way: If entrepreneurs are storytellers, are they able to control, or differentiate, when they are using, or being used by, storytelling?
 
 [^footnote_andygrove_peterdrucker]: Andy Grove quoted Peter Drucker's famous quote that "culture eats strategy for breakfast" in the book High Output Management. 
 
@@ -85,27 +94,86 @@ But as Jason and David wrote, that is "a paradigm which does not make sense." Es
 
 > "You need to do what you are doing because you love it, because you can’t think of anything better to do with your life. And if that is not the case, don’t do this because it’s going to be a miserable 10 or 20 years. If you are looking at getting rich like the Facebook boys, or the Google boys, or whatever the hot startup is now, that is the wrong reason to do it. If you are chasing the money, I will guarantee you, the more you chase it, the further away is goes." (Steve Blank at MAP14, Mar 13, 2014, 34m33s)
 
-It is reasonsable to consider, even when a team is in it for a special cause beyond money, the question of when and how financial outcomes - or related outcomes indirectly linkedin to financial - appear in the narrative of start-ups. It is part of the reasons for a start-up to exist. In other words, to exist, to be in the market, to survive, to sustain itself. 
+It is reasonsable to consider, even when a team is in it for a special cause beyond money, the question of when and how financial outcomes - or related outcomes indirectly linkedin to financial - are projected in the narrative of a start-up. It is part of the reasons for a start-up to exist, isn't it? In other words, to exist, to be in the market, to survive, to sustain itself. Thus, it is also important not only to ask if we are in it for the money as a big call. But when good reasons for winning - winning as we know - comes our way and affects the routine. These outccome-based reasons are there, we know, and we don't even worry about it. Which is a reason, again for this article. We tend to move too fast in many situations, in the face of fragmented data and stories we listen, we model the storytelling, we convince ourselves. 
 
-But as we dig for the "how we do it", as teams execute and learn simultaneously, our tendency to use this paradigm for "chasing prizes", or orient ourselves to outcomes, might have a lot to do with the way we communicate and reason, and less with our obsession for money, market, or prizes. Now I then invite us to consider the narrative paradigm which can support us to think that founders are more of Homo narrans than sapiens. 
+As we dig for the "how we do it" - the things we do in the daily basis - as teams execute and learn simultaneously, our tendency to use this paradigm for "chasing prizes", or orient ourselves to outcomes, might have a lot to do with the way we communicate and reason, and less with our obsession for money, market, or prizes. Now I then invite us to consider the narrative paradigm which can support us to think that founders are more of Homo narrans than sapiens. We will start with learnings from Walter Fisher, known for extensive research in terms of how we, as human beings, come to believe and act on the basis of storytelling. [Check this statment if it is the best for a short introduction.]
 
 ## The narrative paradigm 
 
-Looking at founders as the ones carrying on narratives, they can be seen as protagonists of their entrepreneurial efforts and that they act to construct a narrative that presents good reasons for themselves, and others such as users and investors, to act, to trust. Looking using this perspective, I invite you to consider the idea that founders serve as great examples of the Homo narrans ("storytelling human") [^walterfisherhomonarrans], a metaphor for humans as beings that coordinates meaningful communication via storytelling and where where they participate as storytellers and observers of narratives. 
+<!-- as a transactional mechanism applicable to urgency 
 
-Consider a question in the cover of Walter Fisher's book [is it possible to fix this reference as I indicated a reference to the cover?] entitled Human Communication as Narration, which posits a question "How do people come to believe and to act on the basis of communicative experiences?" 
+* Situation, transactional communication helps with speed. 
+* Situation, assume rational-world as the frame. 
+* Complication, we fail. We blame rationality or logic. We never check on storytelling. 
+* qA, let's understand how we believe and act. 
 
-His work can be considered provocative in front of the assumption that communication, in the end of the day, carries rationality, under the viewpoint that in the end of the day, logic in communication conquers the world of communication, which suggestffs that communication that is available, in the end, pushes us in the right direction. That sort of makes a bit of sense, doesn't it? As in, that poor communication, or illogical communication, does not have a place, or that it cannot persist too long. At least, we hope. Or, in other words, we might have good reasons to believe in that. I believe in that as I am, in the end of the day, an optimist. I want to believe that the big story with communication, from a wider or zoomed out place, is a good story full of logic, that all communication especially in the entrepreneurial world should carry a good logic. 
+* Key point a - How our trust for all, such as communication storytelling, as a result of reason, make us blind to communication storytelling, thinking it's a mere tool that sometimes fails, communication problem. Our framework starts with being scientific, affects us. OUr thinking that communication follows from rational thinking, effect us. Provoking is urgent. 
 
-Although the thinking that communication has to be driven by rational elements, such as logic that appears in it's cargo, Walter Fisher sheds a light to help us to see the ways that we use communication that are sometimes not so logic but still pushes the world forward. The reason, my own good reasons here that I am look at Walter Fisher work, is because it seems to help to explain the world we live in, the current networked world. 
+* Key point b - We as storytellers, and the basic mecanism of advancing with storytelling, applies perfect to urgent and decision-oriented processes. The reccounting and accounting nature of everyday argument is present. 
+
+* Key point c - Good reasons are used well. 
+
+* Conclusion, we model, all the time, in the fact of an outcome that is being pursured, we conform with a track. We find good reasons for the mode of communication that pushes us forward, with reccounting and accounting. p.62. 
+
+--> 
+
+Looking at founders as the ones carrying on narratives, they can be seen as protagonists of their entrepreneurial goals. They are generally in control of the stories they listen. And in control of of writing their stories. With that, they use communication as a tool, such as when they use it to convince them themselves, and others such as users and investors, to trust, and to act. 
+
+That view aligns with a paradigm familiar, especially in the west. It is the rational-world paradigm which helps us to see that in the end of the day, communication is available to serve the needs of humans as rational beings, where decision-making and communication is argumentative. Or, with the words of Walter, where "argument as product and process is the means of being human." (p.60)
+
+But then, as entrepreneurship happens, trouble comes our way. We find that we run into problems after we follow some outcomes such as "win the market." [Consider indirect or other examples not at the goal top level.] We go back to revising the things we are doing, but with the assumption that we rere following a rational plan in the first place. The conclusion, we arrive at considering the strategy. Which makes sense, apparently. Or to consider that as we were moving on, we didn't have a full strategy or roadmap in the first place. 
+
+So it does not matter what fail comes from our doing, we again and again, think that the only available solution is to think about that rationality, or the rational plan, as the only thing to be judged. Such as we arrive at an "oh, we did't have a good strategy or our strategy were poor." We don't see that even such a sentence can be too powerful and meaningful and give us good resons, such as good reasons to go back to strategy. As opposed to focus on how we are victims of a powerful storytelling mechanism. 
+
+Let's look at considerations and we having anchored ourselves in the rational-world paradigm, and learn the basic components of the narrative paradigm. Let's consider, point B, the great and risky feature in us in the face of urgency, as we demand action-orientation. The aspects of the narrative paradigm and how it fits with the entrepreneurhip action-oriented model. And the approach of based on good reasons that we use in our stories. 
+
+## Urgent - Awareness of how we are storytellers and how we anchor ourselves in what we think as rationality 
+
+We rarely consider is that we where evolve decisions based on a storytelling mode of communication that actively serves the everyday argument and conveys good reasons to support whatever we are doing. The contrasting view presented by Walter - the narrative paradigm - help us to understand a problem when rationality fails to be present in the everyday argument. Walter sheds a light, and give us a reflective moment, for us to realize that our very assumptions about communication, and that storytelling is more of a tool serving rationallity, preven us to seeing that our communication approach has less to do with that can trap our ways. 
+
+The narrative paradigm will provoke us to see ourselves more like the Homo narrans ("storytelling human") [^walterfisherhomonarrans], a metaphor for humans as beings that coordinates meaningful communication via storytelling and where where they participate as storytellers and observers of narratives. Consider a question in the cover of Walter Fisher's book [is it possible to fix this reference as I indicated a reference to the cover?] entitled Human Communication as Narration, which posits a question "How do people come to believe and to act on the basis of communicative experiences?" 
+
+The reason, my own good reasons here that I am thankful for the work of Walter Fisher, is because it seems to help to explain the how entrepreneurs engage in quick decisions from storytelling, as in what many refer to them as using their instincts, and failing to later blame their plans, and never considering communication they use. 
+
+* Paul Graham on instincts
+* Steve Blank on instincts 
+
+Especially at this stage, as all is interconnectdd, as we operate entrepreneurship in the networked world, entrepreneurship suffers even more with storytelling-based communication that is action-oriented and take them to waste resources and become frustrated but never frustrated about how they communicate. 
 
 Walter points that the entrance door for one that hears, that listens, has less to do with logic and reason, and more to do with storytelling. That is not to imply that we love to use good stories to justify our actions with no regard to rationality, logic, or reasoning. But it is like an entrance door. As written in the foreword in his book, "Later we learn more sophisticated criteria and standards for assessing a story's fidelity and coherence, but constructing, interpreting, and evaluating discourse as "story" remains our primary, innate, species-specific 'logic.'" (p. xx) 
 
-Although this definition could be applicable to stories such as fiction stories, we can't deny that the definition of it does a good job that a lot of what founders do as they document their steps, their episodes. Consider that plus the undeniable, or implicit aspect, that they can't track what they do at all times by rewatching all the episodes that they have done. Therefore, as we advance projects, we are likely advancing a wider story with the episodes towards a general "climax" which guides a general outcome narrative, such as a final presentation which is presented in the context of the mission. 
+> "I believe that the narrative paradigm may offer a better solution, [In contrast with the rational-world paradigm] One that will provide substance not only for public moral argument, but also all other forms of argument, for human communication in general. " (p. 62)
 
-## How outcome-based storytelling are good reasons 
+* "With minor adaptation, I find no imcompatibility between the narrative paradigm and the language-action paradigm. " (p.64)
 
-[Consider this outcome-based comparisons after the narraative paradigm. ]
+* Pressupositions of the narrative paradigm. P.64 
+
+* "Humans are essentially storytellers. "
+* "The paradigmatic mode of human decision making and communication is 'good reasons,' which vary in form amoung situations, genres, and media of communication. " p.64 
+* 3... complex
+* "Rationality is determined by the nature of persons as narrative beings - their inherent awareness of *narrative probability*, what constitutes a coherent story, and their constant habit of testing *narrative fidelity*, whether or not the stories they experience ring true with the stories they know to be true in their lives.  
+
+
+### The mechanism of recounting and accounting in the narrative paradigm 
+
+* Narrative coherence 
+* Narrative fidelity 
+
+[P. 62, 64]
+
+### The elements of good reasons
+
+
+
+
+## Back to outcome-based storytelling 
+
+<!--
+
+Outcome-based works as good reasons. Anchors at various levels. 
+
+--> 
+
 
 In this direction, starting with the obvious, we need to acknowledge that focusing on outcomes is a great feature of humans. It's on our alpha nature that we first target a salmon after having good reasons. And we found our ways to capture and bring back to our homes in a stick. Therefore, having an outcome in sight is a requirement that help us find our way to get solve the problem. 
 
@@ -131,7 +199,12 @@ Going back to entrepreneurs, and seeking a colorful example, consider the very s
 
 ## The Lean Dilemma
 
-[Potential that one anchors are strong, they are strong.]
+<!-- 
+
+And Reasons to drop lean 
+
+--> 
+
 
 The situation is that we will learn, we iterate. Lean is for that. But we also give up on that as soon as we stumble in what appears to be evidence. 
 
@@ -190,6 +263,12 @@ Consider how strong it can be the data "from the real world" for a group of foun
 
 ## Moving on with storytelling 
 
+<!--
+
+SCqA balance: Considering perspective storytelling too, breaking storytelling with shock-absorbers. 
+
+-->
+
 The challenge for founders lies in the knowing that truths are wanted, such as facts, that tell them about if they are in the right direction. Still, as we have seen, the process for advancing entrepreneurship uses storytelling as the most basic transactional mechanism - a mechanism of collaboration - that conveys meaning in the fact of the needs of the present and future. 
 
 One way to help with the checking the sanity of storytelling is to test it against different viewpoints. Of course, a question remains as what is the viewpoint that matters. And this is a strategic conversation, or collaboration, that happens as stories are developed. 
@@ -238,7 +317,7 @@ Greylock. (2015, October 8). Blitzscaling 03: Michael Dearing on Capitalism, Cre
 
 --> 
 
-## Shock-absorbers for founders
+## Shock-absorbers for founders and founder distortions 
 
 <!-- 
 
@@ -248,11 +327,9 @@ https://medium.com/@mcgd/the-cognitive-distortions-of-founders-8e96c1edf60b
 
 -->
 
-### Intro to the fouder's distortions 
-
 https://medium.com/@mcgd/the-cognitive-distortions-of-founders-8e96c1edf60b
 
-### Curating the devil's advocate, it's okay to destroy 
+## Curating the devil's advocate, it's okay to destroy 
 
 The founder engaging in the devil’s advocacy business
 “[Reid Hoffman asks] And what are the indicators that you would use for checking the idea. [context: You could be jumping off a clicf without the ability to assemble the airplane on your way down]. What are the crosschecks you think people should do?
