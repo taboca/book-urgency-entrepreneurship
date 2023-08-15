@@ -37,7 +37,7 @@ https://chat.openai.com/share/6eef3d42-b1ae-4ceb-88ca-58d52706430e
 
 ( ) Reputation founders  [^foundersreputation].
 
-( ) [^homonarrans] 
+( ) [^walterfisherhomonarrans] 
 
 ( ) [^michaelpricing] 
 
@@ -135,7 +135,7 @@ We shall look at the storytelling mechanism is used naturally which naturally pu
 
 Let's start contrasting the rational-world paradigm with Walter's narrative paradigm to consider how we leave storytelling in the place of a tool, and miss that our intrinsic dependency of it is the source of great impact in what we do, in our productivity. As we explore the elements of the narrative paradigm, we will reflect about how it supports the nature of the entrepreneurship process, as decision-making orientation, as it requires solutions-oriented process, as it demnads action. And then we will look at how the logic of good reasons in the narrative paradigm offers a room to subjectivity that perfectly supports the urgent nature of entrepreneurship, for good and bad. 
 
-## Rational-world paradigm vs. Narrative paradigm  
+### Rational-world paradigm vs. Narrative paradigm  
 
 We rarely consider is that we where evolve decisions based on a storytelling mode of communication that actively serves the everyday argument and conveys good reasons to support whatever we are doing. The contrasting view presented by Walter - the narrative paradigm - help us to understand a problem when rationality fails to be present in the everyday argument. Walter sheds a light, and give us a reflective moment, for us to realize that our very assumptions about communication, and that storytelling is more of a tool serving rationallity, preven us to seeing that our communication approach has less to do with that can trap our ways. 
 
@@ -162,7 +162,7 @@ Walter points that the entrance door for one that hears, that listens, has less 
 * "Rationality is determined by the nature of persons as narrative beings - their inherent awareness of *narrative probability*, what constitutes a coherent story, and their constant habit of testing *narrative fidelity*, whether or not the stories they experience ring true with the stories they know to be true in their lives.  
 
 
-### Storytelling boosts productivity 
+### Storytelling serves productivity 
 
 * Narrative coherence 
 * Narrative fidelity 
