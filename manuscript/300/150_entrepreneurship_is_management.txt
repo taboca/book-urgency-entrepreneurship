@@ -4,7 +4,7 @@
 
 <!--
 
-* V2.2
+* V2.3
 
 * Title - Analog inverse of Radical Focus 
 
@@ -14,6 +14,12 @@
 
 * ( ) Fix reference to Eric von. Hippel, make a decision to use on 150 or 230, see References and the following reference to Eric. 
 # The Boring Yet Critical Part of Entrepreneurship is Management and Innovation Accounting (feat Eric Ries part 2)
+
+* Crosslink: 450_passing_on_stories.txt 
+
+### Research data
+
+* Management linkted to business performance - Peter Drucker, in The Practice of Management, p.8, The Role of Management, indicates that "In a competitive economy, above all, the quality and performance of the managers determine the success of a business, indeed they determine its survival. " (p.8)
 
 ### References
 
@@ -55,9 +61,13 @@ Ries, E. [Talks at Google]. (2011). The Lean Startup [Video]. YouTube. https://w
 
 [^footnote_ericries_lean]: Eric Ries is a renowned entrepreneur and author, best known for pioneering the Lean Startup movement. His seminal work, "The Lean Startup," introduced a methodology that emphasizes the importance of adapting and adjusting business directions with agility, based on customer feedback. In his subsequent book, "The Startup Way," Ries expanded on these principles, providing a framework for entrepreneurial management applicable in various sectors, from fledgling startups to established enterprises. As a thought leader in the world of startups and innovation, Ries has played a pivotal role in reshaping the way companies are built and new products are launched.
 
-Notice that “photo montage” that he seeks, the thing we as founders don't care, shows the gap. We gravitate for tracking success more than tracking learning. From the standpoint of narratives, we will have an opportunity to reflect about how we use storytelling such as to trap ourselves. But for now, our focus in this reflection, will face the challenges of tracking goals especially when the team seeks to innovate. 
+<!-- 
+Crosslink: 450_passing_on_stories.txt 
+--> 
 
-We will reflect if goal-setting and tracking makes sence when the space is uncertain; When tracking disconnects from strategic thinking; And come up with principles for managing our investment. 
+Notice that “photo montage” that he seeks, the thing we as founders don't care, shows the gap. We gravitate for tracking success more than tracking learning. From the standpoint of narratives, we will have an opportunity to reflect about how we use storytelling such as to trap ourselves. But for now, our focus in this reflection faces the challenges of tracking goals especially when the team seeks to innovate. 
+
+We will reflect if goal-setting and tracking makes sense when the space ahead is uncertain; When tracking disconnects from strategic thinking; And come up with principles for managing our investment. 
 
 ## Can goal-setting survive?  
 
@@ -93,7 +103,7 @@ Fried, J., & Hansson, D. H. (2018). It doesn't have to be crazy at work. HarperC
 
 --> 
 
-Their "maybe, we will see" is an invitation for us to continue a reflective moment about goals such as long-term goals. If something is "maybe", it implies that something is being exposed, or shared in the first place. And the "we will see" sets a principle too which says something like "we will learn and decide." With that invitation, let's look at what others have documented, such as from theorists, practitioners, and entrepreneurs that claim that goals, and even long-term goals, matter. 
+Their "maybe, we will see" is an invitation for us to continue a reflective moment about goals such as long-term goals. If something is "maybe", it implies that something is exposed, or being discussed, or shared in the first place. And the "we will see" sets a principle which says something like "we will learn and decide." Therefore, there is a discussion going on. With that invitation, let's look at what others have documented, such as from theorists, practitioners, and entrepreneurs that claim that goals, and even long-term goals, matter. 
 
 One of the resources to this reflection comes from a key book that has championed the idea of aligning and engaging teams around measurable goals. In the book entitled *Measure What Matters*, John Doerr [^footnote_johndoerr_okr] continued his saga to popularize a framework - known as OKR - that has helped him and his teams to innovate with goals.
 

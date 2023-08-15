@@ -121,17 +121,21 @@ As we dig for the "how we do it" - the things we do in the daily basis - as team
 
 --> 
 
-Looking at founders as the ones carrying on narratives, they can be seen as protagonists of their entrepreneurial goals. They are generally in control of the stories they listen. And in control of of writing their stories. With that, they use communication as a tool, such as when they use it to convince them themselves, and others such as users and investors, to trust, and to act. 
+Looking at entrepreneurs as the ones carrying on narratives, they can be seen as protagonists of their entrepreneurial goals. It is not unfair to think that in this domain, they are in control of the stories they listen. And that they are in control of the stories their write. And consequently, in control of their actions. But being our focus communications of these executors, it is fair to assert that they use communication as a tool in the process of execution. And, in this regard, that they use it to convince them themselves and others, such as users and investors, to trust and to act. 
 
-That view aligns with a paradigm familiar, especially in the west. It is the rational-world paradigm which helps us to see that in the end of the day, communication is available to serve the needs of humans as rational beings, where decision-making and communication is argumentative. Or, with the words of Walter, where "argument as product and process is the means of being human." (p.60)
+That view, of communication as a tool serving a purpose, such as the rational purpose of entrepreneurship, is aligned with a familiar paradigm, especially in the west, the rational-world paradigm which helps us to understand that, in the end of the day, communication is available to serve the needs of humans as rational beings, where decision-making and communication is argumentative. Or, with the words of Walter, where "argument as product and process is the means of being human." (p.60)
 
-But then, as entrepreneurship happens, trouble comes our way. We find that we run into problems after we follow some outcomes such as "win the market." [Consider indirect or other examples not at the goal top level.] We go back to revising the things we are doing, but with the assumption that we rere following a rational plan in the first place. The conclusion, we arrive at considering the strategy. Which makes sense, apparently. Or to consider that as we were moving on, we didn't have a full strategy or roadmap in the first place. 
+But then, as entrepreneurship happens and especially where innovation is a must, trouble comes their way. We find that we run into problems after we guide ourselves with outcomes such as "win the market." [Consider indirect or other examples not at the goal top level.] We go back to revising the things we are doing, but with the assumption that we were following a rational plan in the first place. The conclusion, we arrive at considering, or reconsidering, the strategy. Which makes sense, logically. An example of a response to a action that led to failure is when they come to the conclusion that they didn't have a good strategy, or a roadmap, in the first place. 
 
-So it does not matter what fail comes from our doing, we again and again, think that the only available solution is to think about that rationality, or the rational plan, as the only thing to be judged. Such as we arrive at an "oh, we did't have a good strategy or our strategy were poor." We don't see that even such a sentence can be too powerful and meaningful and give us good resons, such as good reasons to go back to strategy. As opposed to focus on how we are victims of a powerful storytelling mechanism. 
+So it does not matter what failure comes after our doing, we again and again think that the a major element to be considered to blame is that prior rationality, or whatever was the rational plan or arrangement, as a thing to be judged. As opposed to consider that the way we act on the basis of storytelling influences what we do as much as any rational system. When they jump to considerations like "oh, we did't have a good strategy" or "our team is not doing good" is an example of them missing how the average daily storytelling is acting and pushing us to react. 
 
-Let's look at considerations and we having anchored ourselves in the rational-world paradigm, and learn the basic components of the narrative paradigm. Let's consider, point B, the great and risky feature in us in the face of urgency, as we demand action-orientation. The aspects of the narrative paradigm and how it fits with the entrepreneurhip action-oriented model. And the approach of based on good reasons that we use in our stories. 
+We shall look at the storytelling mechanism is used naturally which naturally puts them in a position to ignore storytelling as an elemment that influences what they listen, what they belive, and what they act. To help us reflect about how teams use storytelling to advance, we will briefly examine the elements of the narrative paradigm of Walter Fisher: 
 
-## Urgent - Awareness of how we are storytellers and how we anchor ourselves in what we think as rationality 
+> "The narrative paradigm proposes that human beings are inherently storytellers who have a natural capacity to recognize the coherence and fidelity of stories they tell and experience. " (P.24 ) 
+
+Let's start contrasting the rational-world paradigm with Walter's narrative paradigm to consider how we leave storytelling in the place of a tool, and miss that our intrinsic dependency of it is the source of great impact in what we do, in our productivity. As we explore the elements of the narrative paradigm, we will reflect about how it supports the nature of the entrepreneurship process, as decision-making orientation, as it requires solutions-oriented process, as it demnads action. And then we will look at how the logic of good reasons in the narrative paradigm offers a room to subjectivity that perfectly supports the urgent nature of entrepreneurship, for good and bad. 
+
+## Rational-world paradigm vs. Narrative paradigm  
 
 We rarely consider is that we where evolve decisions based on a storytelling mode of communication that actively serves the everyday argument and conveys good reasons to support whatever we are doing. The contrasting view presented by Walter - the narrative paradigm - help us to understand a problem when rationality fails to be present in the everyday argument. Walter sheds a light, and give us a reflective moment, for us to realize that our very assumptions about communication, and that storytelling is more of a tool serving rationallity, preven us to seeing that our communication approach has less to do with that can trap our ways. 
 
@@ -158,19 +162,52 @@ Walter points that the entrance door for one that hears, that listens, has less 
 * "Rationality is determined by the nature of persons as narrative beings - their inherent awareness of *narrative probability*, what constitutes a coherent story, and their constant habit of testing *narrative fidelity*, whether or not the stories they experience ring true with the stories they know to be true in their lives.  
 
 
-### The mechanism of recounting and accounting in the narrative paradigm 
+### Storytelling boosts productivity 
 
 * Narrative coherence 
 * Narrative fidelity 
 
 [P. 62, 64]
 
-### The elements of good reasons
+### The logic of good reasons and room for subjectivity  
 
 
+* connects with narrative fidelity 
+
+* "Good reasons to be conceived as *those elements that provide warrants for accepting or adhering to the advice fostered by any form of communication that can be considered rhetorical. " P.107 
+
+* He also explains warrant. "By 'warrant,' I mean that which authorizes, sanctions, or justifies belief, attitude, or action - these being the usual forms of rhetorical advice. " P.107
 
 
-## Back to outcome-based storytelling 
+5 fold components for the logic of food reasons: 
+
+* Fact - 
+* Relevance - 
+* Consequence - 
+* Consistency - 
+* Transcendent issue - 
+
+* fact - are there implicit and explicit values in the message? 
+
+* relevance - "are the values appropriate to the nature of the decision that the message bears upon" p. 109 this also involves checking if values are omitted, distorted, or misrepresented. 
+
+* Consequence - "What would be the effects of adhering to the values?" [Adds "for one s concept of oneself, for ones behavior, for one s relationships with others and society, and to the process of rhetorical transaction?" P 109
+
+* Consistency - "Are the values confirmed or validated in one's personal experience, in the lives or statements of others whom one admires and respects, and in a conception of the best audience that one can conceive?" P. 109
+
+* Transcendent issue - *Even if a prima-facie case exists or a burden of proof has been established, are the values the message offers those that, in the estimation of the critic, constitute the ideal basis for human conduct? " p. 109
+
+Now, the exercise, reflective, about how we seek for fidelity, and Walter's 5 aspects [aspects?] helps us see how subjectivity has to be part of for assessment of the message. According to Walter: 
+
+> "One can be fairly "objective" about what values are in fact present in a message, but as one moves to the questions of relevance, effects, confirmation, and ideals, greater and greater degrees of 'subjectivity' enter into the assessment. The intrusion of such 'subjectivity' is not a fault in a logic of good reasons. Instead, it is recognition of the very nature of human communication, and of the nature of subjects amenable to rhetorical expression. " (P. 110)
+
+#### The team situation 
+
+Now, we shall also consider that the very basic mechanism of narrative in decision-oriented messages, that carries the logic of good reasons, is also used by any other participant in the team. Walter acknoledges that "The discourse that constitutes an interpreter's or critic's exploration of the values in messages will also inevitably express values. " (p.109)
+
+In other words, and logically, all participants can chime in with their own storytelling, presenting their logic of good reasons, in front of an outstanding message; with the intention to help the team to make a decision, a call, in the face of the clock that is ticking, so that others can chime in and the decision happens more effectively. 
+
+## Outcome-based storytelling 
 
 <!--
 
@@ -179,7 +216,6 @@ Outcome-based works as good reasons. Anchors at various levels.
 * Shall we consider - the notions of efficiency / effectiveness against coherence and fidelity? Check brainstorming with chatgpt https://chat.openai.com/c/2b3f4d91-3ad7-4b58-a345-082b47f56224 and the work of https://www.youtube.com/watch?v=UVi5iI6N8UM feat. Chester Barnard https://www.youtube.com/watch?v=UVi5iI6N8UM 
 
 --> 
-
 
 In this direction, starting with the obvious, we need to acknowledge that focusing on outcomes is a great feature of humans. It's on our alpha nature that we first target a salmon after having good reasons. And we found our ways to capture and bring back to our homes in a stick. Therefore, having an outcome in sight is a requirement that help us find our way to get solve the problem. 
 
