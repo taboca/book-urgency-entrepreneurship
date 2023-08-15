@@ -104,9 +104,15 @@ But as Jason and David wrote, that is "a paradigm which does not make sense." Es
 
 It is reasonsable to consider that if a founder is in it for the money, the consequences for the daily execution, how the personal approach of the founder might influce the storytelling that she tells herself and her team, to move on with certain criteria. Now, even when a team is in it for a special cause beyond money, still what if the team somehow prioritizes the importance of financial outcomes out of the sudden after having spend a lot of cycles with a prototype and prior experiment that had nothing in terms of projected revenue potential. Could a prior learning experiment which has failed in terms of revenue projection end up pushing the team to repriotize an experiment with stronger revenue potential? A team could likely then anchor themselves in the knowing that a, they are not in it for the money, but b, that they are now strongly looking for a revenue making solution due to sustainability criteria after a vivid reflection that in order to exist, to be in the market, to survive, the startup has to sustain itself. Now, similarly, it could be the case that a team misses finding value in the face of a stronger criteria for financial outcomes. 
 
-The point being made for us to look is to not look at the rationalization of what happens, such as which would provoke us to assess the above situation as "it all depends." But what we have in front of us is an opportunity to to check at the storytelling that goes on in the average day, and which guide ourselves all the time. In other words, ourselves engaging in the paradigm for "chasing prizes", or orient ourselves to outcomes, has a lot to do with the way we communicate and reason, and less with our obsession for money, market, or prizes.
+The point being made for us to look is to not look at the rationalization of what happens, such as which would provoke us to assess the above situation as "it all depends." But what we have in front of us is an opportunity to to check at the storytelling that goes on in the average day, and which guide ourselves all the time. In other words, ourselves engaging in the paradigm for "chasing prizes", or orient ourselves to outcomes, or following instincts, has a lot to do with the way we communicate and reason, and less with our obsession for money, market, or prizes.
 
-Now I then invite us to consider the narrative paradigm which can support us to think that teams, in a startup, are more of Homo narrans than Homo sapiens. We will start with learnings from Walter Fisher, known for extensive research in terms of how we, as human beings, come to believe and act on the basis of storytelling. [Check this statment if it is the best for a short introduction.]
+Now I then invite us to consider the narrative paradigm, the work of Walter Fisher's book entitled Human Communication as Narration, that supports us to see "How do people come to believe and to act on the basis of communicative experiences?" (Fisher, 1989). With that, we will revisit our tendency to orient out actions with outcome-based narratives and some reflections to test our narratives in the heat of action. 
+
+<!-- reference 
+
+Fisher, W. (1989). Human communication as narration. University of South Carolina Press.
+
+--> 
 
 ## The narrative paradigm 
 
@@ -134,7 +140,8 @@ So it does not matter what failure comes after our doing, we again and again thi
 
 We shall look at the storytelling mechanism is used so naturally that naturally puts them in a position to ignore storytelling as an elemment that influences what they listen, belive, and act. To help us reflect about how teams use storytelling to advance, we will briefly examine the elements of the narrative paradigm of Walter Fisher: 
 
-> "The narrative paradigm proposes that human beings are inherently storytellers who have a natural capacity to recognize the coherence and fidelity of stories they tell and experience. " (P.24 ) 
+> *"The narrative paradigm proposes that human beings are inherently storytellers who have a natural capacity to recognize the coherence and fidelity of stories they tell and experience."* (Fisher, 1989, p. 24).
+
 
 Let's start contrasting the rational-world paradigm with Walter's narrative paradigm to consider how we leave storytelling in the place of a tool, and miss that our intrinsic dependency of it is the source of great impact in what we do, in our productivity. As we explore the elements of the narrative paradigm, we will reflect about how it supports the nature of the entrepreneurship process, as decision-making orientation, as it requires solutions-oriented process, as it demnads action. And then we will look at how the logic of good reasons in the narrative paradigm offers a room to subjectivity that perfectly supports the urgent nature of entrepreneurship, for good and bad. 
 
@@ -142,11 +149,11 @@ Let's start contrasting the rational-world paradigm with Walter's narrative para
 
 The view that storytelling in communication is more of a tool serving a purpose, such as to serve the team's rational purpose of entrepreneurship, is aligned with a familiar paradigm, especially in the west, the rational-world paradigm. In this view, we understand that, in the end of the day, communication is available to serve the needs of humans as rational beings, where decision-making and communication is argumentative. Or, with the words of Walter, where "argument as product and process is the means of being human." (p.60)
 
-The contrasting view, presented by Walter Fisher, is the narrative paradigm. The work of professor Walter will help us to see when rationality fails to be present in the everyday argument. Walter sheds a light, and give us a reflective moment, for us to realize that our very assumptions about communication, and that storytelling is more of a tool serving rationallity, prevent us to seeing that our communication approach, derived of our nature as storytellers, can trap our ways. 
+The contrasting view, presented by Walter Fisher, is the narrative paradigm. The work of professor Walter will help us see how rationality fails to be present in the everyday argument that make us move with decisions. In this regard, Walter sheds a light that the way we normally see things, under the lenses of the rational-world paradigm, does not accomodate the daily communication oriented by storytelling. 
 
-With this paradigm as a reflection, we shall consider ourselves as the Homo narrans ("storytelling human") [^walterfisherhomonarrans], a metaphor for humans as beings that coordinates meaningful communication via storytelling and where where they participate as storytellers and observers of narratives. Consider a question from Walter Fisher's book entitled Human Communication as Narration, which posits a question "How do people come to believe and to act on the basis of communicative experiences?" 
+This is an opportunity for us to realize that our very assumptions about communication, and that storytelling is more of a tool serving rationallity, prevent us from seeing that our communication approach, especially under the decision-oriented nature environment which is the startup domain, is heavily driven by storytelling which can trap our ways such as put us in the position to ignore storytelling. 
 
-The reason, my own good reasons here that I am thankful for the work of Walter Fisher, is because it helps me to reflect about how entrepreneurs engage in quick decisions such as the instinctive decisions in the lifecycle of a team: 
+With this paradigm as a reflection, we shall consider ourselves as the Homo narrans ("storytelling human") [^walterfisherhomonarrans], a metaphor for humans as beings that coordinates meaningful communication via storytelling and where where they participate as storytellers and observers of narratives. The reason, my own good reasons here that I am thankful for the work of Walter Fisher, is because it helps me to reflect about how entrepreneurs engage in quick decisions such as the instinctive decisions in the lifecycle of a team: 
 
 > "The first item on it is the fact I already mentioned: that startups are so weird that if you trust your instincts, you'll make a lot of mistakes. If you know nothing more than this, you may at least pause before making them. When I was running Y Combinator I used to joke that our function was to tell founders things they would ignore. It's really true. Batch after batch, the YC partners warn founders about mistakes they're about to make, and the founders ignore them, and then come back a year later and say 'I wish we'd listened.'" 
 > 
@@ -162,7 +169,7 @@ Graham, P. (2014). Before the Startup. http://www.paulgraham.com/before.html
 
 What more Paul Graham gives us might be another hint for how we engage with people: 
 
-> You can, however, trust your instincts about people. And in fact one of the most common mistakes young founders make is not to do that enough. They get involved with people who seem impressive, but about whom they feel some misgivings personally. Later when things blow up they say "I knew there was something off about him, but I ignored it because he seemed so impressive."
+> *"You can, however, trust your instincts about people. And in fact one of the most common mistakes young founders make is not to do that enough. They get involved with people who seem impressive, but about whom they feel some misgivings personally. Later when things blow up they say "I knew there was something off about him, but I ignored it because he seemed so impressive."*
 > 
 > (Graham, 2014)
 
@@ -174,7 +181,7 @@ Now, consider if storytelling, the reading and writing of it, in the actual mode
 
 Walter points that the entrance door for one that hears, that listens, has less to do with logic and reason, and more to do with storytelling. That is not to imply that we love to use good stories to justify our actions with no regard to rationality, logic, or reasoning. But it is like an entrance door: 
 
-> "I believe that the narrative paradigm may offer a better solution, [In contrast with the rational-world paradigm] One that will provide substance not only for public moral argument, but also all other forms of argument, for human communication in general. " (p. 62)
+> *"I believe that the narrative paradigm may offer a better solution [in contrast with the rational-world paradigm], one that will provide substance not only for public moral argument but also for all other forms of argument, for human communication in general."* (Fisher, 1989, p. 62).
 
 * Working - "With minor adaptation, I find no imcompatibility between the narrative paradigm and the language-action paradigm. " (p.64)
 * Working -  Pressupositions of the narrative paradigm. P.64 
@@ -222,7 +229,7 @@ Now, the exercise, reflective, about how we seek for fidelity, and Walter's 5 as
 
 > "One can be fairly "objective" about what values are in fact present in a message, but as one moves to the questions of relevance, effects, confirmation, and ideals, greater and greater degrees of 'subjectivity' enter into the assessment. The intrusion of such 'subjectivity' is not a fault in a logic of good reasons. Instead, it is recognition of the very nature of human communication, and of the nature of subjects amenable to rhetorical expression. " (P. 110)
 
-#### The team situation 
+#### Notes about the team situation 
 
 Now, we shall also consider that the very basic mechanism of narrative in decision-oriented messages, that carries the logic of good reasons, is also used by any other participant in the team. Walter acknoledges that "The discourse that constitutes an interpreter's or critic's exploration of the values in messages will also inevitably express values. " (p.109)
 
@@ -287,9 +294,7 @@ Now, as indicated by the process, learning is involved so that the next phase of
 
 Therefore, for the approaval phase to happen, a narrative has to exist. This need creates an anchor to founders. Influencing the narratives that they tell themselves, analysis reports and other narratives that may fill the details for a presentation. This format invaribly involves founders advancing as they do analysis for a general narrative that attempts to add the supporting data related to their ideas, guesses or hypothesis, data and interpretation of their incomplete tests, interpretations of responses such as feedback from early users, and other partial analysis. 
 
-## [Seems to be talking about lean yet]
-
-(Take this away from this if we want to keep as lean )
+(Seems to be talking about lean yet) (Take this away from this if we want to keep as lean )
 
 Let's consider for a moment that what we do essentially has more to do with storytelling, as Homo narrans. A theory of Walter Fisher, known as the Narrative paradigm, claims that human communication occurs from our participation as storytellers or observers of narratives. The provoking point about the theory is that stories are more persuasive than arguments. Our capacity to grasp and retain ideas often hinges on storytelling, an intrinsic human trait. We learn, discern values, and act based on the narratives we encounter. 
 

@@ -118,12 +118,17 @@ Fisher, M. (2023). A Máquina do Caos: Como as Redes Sociais Reprogramaram Nossa
 Graham, P. (2014, Outubro 9). Before the Startup with Paul Graham (How to Start a Startup 2014: Lecture 3) [Vídeo]. YouTube. https://youtu.be/ii1jcLg-eIQ?t=687
 
 <!-- 
-
 * From 450_passing_on_stories.txt 
-
 --> 
 
 Graham, P. (2014). Before the Startup. http://www.paulgraham.com/before.html
+
+<!-- 
+* From 450_passing_on_stories.txt 
+--> 
+
+Fisher, W. (1989). Human communication as narration. University of South Carolina Press.
+
 
 
 <!-- 
