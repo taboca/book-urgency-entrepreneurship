@@ -76,7 +76,7 @@ we venerate outcome-based narratives.
 
 --> 
 
-Our focus in this section is an oppoortunity to look at how we, as entrepreneurs, come to believe and act on the basis of the stories that we read and the ones we write, as we move on. 
+Our focus in this section is an opoortunity to look at how entrepreneurs come to act on the basis of the stories that they read and write, in the face of urgency.
 
 In a more traditional way of thinking, there is an idea that storytelling is a tool, that can be used to our advantage, such as when a founder gives a pitch to an investor with the intent of receiving an investment. Or, from the perspective of acquiring feedback, when a team seeks advice from a board member. Therefore, mainly as a tool where the stories listened, or the ones said, are working for the strategy, to move on, to advance. In this way of thinking, we have good reasons to believe that stories are crafted with rationality and serves strategy. That we are in control. 
 
@@ -136,12 +136,11 @@ It is not unfair to think that in the domain of entrepreneurship, they, teams, a
 
 But then, as entrepreneurship happens and especially where innovation is a must, trouble comes their way. We find that we run into problems after we guide ourselves with outcomes such as "win the market." [Consider indirect or other examples not at the goal top level.] We go back to revising the things we are doing, but with the assumption that we were following a rational plan in the first place. The conclusion, we arrive at considering, or reconsidering, the strategy. Which makes sense, logically. An example of a response to a action that led to failure is when they come to the conclusion that they didn't have a good strategy, or a roadmap, in the first place. 
 
-So it does not matter what failure comes after our doing, we again and again think that the a major element to be considered to blame is that prior rationality, or whatever was the rational plan or arrangement, as a thing to be judged. As opposed to consider that the way we act on the basis of storytelling influences what we do as much as any rational system. When they jump to considerations like "oh, we did't have a good strategy" or "our team is not doing good" is an example of them missing how the average daily storytelling is acting and pushing us to react. 
+So it does not matter what failure comes after our doing, we again and again think that the a major element to be considered to blame is some prior rationality, such as a prior rational plan or arrangement, as the thing to be judged. With that, we generally miss that the storytelling becomes the opportunity to exercise the variability in the face of pressure to execute and a strategy that is not good. In other words, the storytelling accomodates subjectiveness that gives us a chance, or an excuse, to advance rapidly. 
 
-We shall look at the storytelling mechanism is used so naturally that naturally puts them in a position to ignore storytelling as an elemment that influences what they listen, belive, and act. To help us reflect about how teams use storytelling to advance, we will briefly examine the elements of the narrative paradigm of Walter Fisher: 
+More generally, we miss the fact that the storytelling used in the average daily decisions are influencing what we do, as we do, as much as any rational system. When they jump to decision-oriented calls such as "oh, we did't have a good strategy" or "our team is not doing good," we are missing how the storytelling is acting. Consider how strong, or pragmatic, can be the saying "let's us revisit what we did," in contrast with a thinking that is rarely considered such as a proposition to reflect on what we are saying, how we are saying, our storytelling that is influencing our decisions. To help us reflect about how teams use storytelling to advance, we will briefly examine the elements of the narrative paradigm of Walter Fisher: 
 
 > *"The narrative paradigm proposes that human beings are inherently storytellers who have a natural capacity to recognize the coherence and fidelity of stories they tell and experience."* (Fisher, 1989, p. 24).
-
 
 Let's start contrasting the rational-world paradigm with Walter's narrative paradigm to consider how we leave storytelling in the place of a tool, and miss that our intrinsic dependency of it is the source of great impact in what we do, in our productivity. As we explore the elements of the narrative paradigm, we will reflect about how it supports the nature of the entrepreneurship process, as decision-making orientation, as it requires solutions-oriented process, as it demnads action. And then we will look at how the logic of good reasons in the narrative paradigm offers a room to subjectivity that perfectly supports the urgent nature of entrepreneurship, for good and bad. 
 
@@ -175,9 +174,9 @@ What more Paul Graham gives us might be another hint for how we engage with peop
 
 So I would summarize a potential line of reflection from the experience Paul Graham, that startups tend to follow instincts seem to be the key to lots of trouble, as opposed to getting advice from a certain special body of knowledge. On the people front, not in contradiction, when a startup is not complying with the long-run follow-through with people, such as stumbling on people that seem impressive, again, trouble might find their way. 
 
-These two examples seem to be take us in the right spot for the work of Walter, so consider storytelling as storytelling is the a potential bridge for accessing the right or wrong answers to what comes next. When we are following instincts, we are assessing and deciding. Similarly, when we work with people, we are assessing and deciding. 
+These two examples can put us in the right spot for the work of Walter, and to consider storytelling as a potential bridge that we use when accessing the right or wrong answers - or in other words deciding - in the face of the pressure to decide. When we are following instincts, we are assessing and deciding. Similarly, when we engage with people, we do after assessing and deciding. 
 
-Now, consider if storytelling, the reading and writing of it, in the actual modern world, the lean world and the interconnected world. As we now operate entrepreneurship in the networked world, entrepreneurship suffers even more with storytelling-based interaction that is action-oriented and take them to waste resources and become frustrated. What is not visible, although, is exactly our difficulty to reflect that we as storytelling animals offers an insight to how ability to fall. 
+Now, consider if storytelling, the reading and writing of it, in the actual modern world, the lean world and the interconnected world. As we now operate entrepreneurship in the networked world, entrepreneurship suffers even more with storytelling-based interaction that is action-oriented and take them to waste resources and become frustrated. What is not visible, although, is exactly our difficulty to reflect that we are storytelling animals offers an insight about our ability to fall, such as follow instincts. 
 
 Walter points that the entrance door for one that hears, that listens, has less to do with logic and reason, and more to do with storytelling. That is not to imply that we love to use good stories to justify our actions with no regard to rationality, logic, or reasoning. But it is like an entrance door: 
 
@@ -234,6 +233,8 @@ Now, the exercise, reflective, about how we seek for fidelity, and Walter's 5 as
 Now, we shall also consider that the very basic mechanism of narrative in decision-oriented messages, that carries the logic of good reasons, is also used by any other participant in the team. Walter acknoledges that "The discourse that constitutes an interpreter's or critic's exploration of the values in messages will also inevitably express values. " (p.109)
 
 In other words, and logically, all participants can chime in with their own storytelling, presenting their logic of good reasons, in front of an outstanding message; with the intention to help the team to make a decision, a call, in the face of the clock that is ticking, so that others can chime in and the decision happens more effectively. 
+
+[Consider here a cartoon of the founder that came from outside the building, and has asked the team to pivot. And the next strip the cofounders just say - No no, 72h rule, shut up and let us continue. Notice that cofounders might be adding "good reasons" from Steve Blank which might exercise implictly some of the good reasons attributes such as consistency, and even transcendent values.  ]
 
 ## Outcome-based storytelling 
 
