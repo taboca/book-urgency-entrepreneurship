@@ -13,9 +13,6 @@
 * tag - communication 
 * tag - 
 
-* [ ] Feat. - Andy Grove - Vale olhar porque Andy fala de identidade tb na questão da Intel * Concept — identity and team difficulties to accept change — the story of Andy Grove and Gordon More at Intel when Intel was facing the forces (10x) from Japanese companies. Andy Grove, in the book Only the Paranoid Survive, talks about a situation when the leadership team develops an identity that is so strong that when a major change is happening the team feels the phases that are comparable with the grieve related to mourning — check the right words here. 
-
-
 * Chatgpt - https://chat.openai.com/share/2cca3573-5c8a-4526-8afe-1498acabdd7d
 
 * [ Add citation ] Melissa Nightingale, super hero cape. 
@@ -67,7 +64,7 @@ Os usuários, portanto, passaram a interpretar a popularidade de uma postagem ou
 
 O caso de Wirathu e Mianmar, como descrito por Fisher, destaca o poder e o perigo das redes sociais em uma sociedade recém-conectada. O que antes eram fragmentos de crenças sem confirmação passou a ser, na era digital, validação em massa de uma identidade e narrativa alternativa, proporcionando aos usuários um sentido distorcido de realidade e moralidade. Isso ilustra a urgência de se abordar a disseminação de desinformação e ódio nas redes sociais para garantir um futuro digital mais seguro e inclusivo.
 
-## Um herói e uma causa 
+### Um herói e um problema 
 
 Empreender é uma atividade que envolve não apenas uma motivação comercial, mas também a paixão por uma causa que se quer ver mudada. Essa motivação é central no fenômeno da "Inovação do Usuário" (User Innovation), onde o empreendedor se vê intrinsecamente ligado à causa que defende. Tanto o trabalho de Eric von Hippel em "Democratizando a Inovação" (2005) quanto o curso "User Innovation: A Path to Entrepreneurship" no MITx no edX ressaltam essa premissa, enfatizando que "a inovação frequentemente começa com pessoas reais resolvendo seus próprios problemas" (MIT, 2015). Este conceito incentiva os empreendedores a se envolverem profundamente com as causas que defendem, alimentando tanto sua paixão como sua motivação para criar soluções inovadoras e disruptivas.
 
@@ -80,6 +77,8 @@ von Hippel, E. (2005). Democratizing Innovation. The MIT Press. DOI: https://doi
 --> 
 
 Como indicado nesta vídeo introdução do curso, invenções como basquete, braille, dentre outras e até soluções tecnológicas como Dropbox, foram invenções que surgiram a partir de necessidade real, ou das dores. Em outras palavras, causas próprias. Essa premissa, na visão de Eric von Hippel, está por todo lado e é um fenômeno. 
+
+### Um herói e um chamado 
 
 O renomado Steve Blank, pioneiro do movimento lean [^steveblanklean] e criador do processo intitulado Customer Discovery (2005), quando entrevistado sobre uma única ideia de conselho para fundadores, reveleu na entrevista em vídeo: 
 
@@ -101,6 +100,8 @@ Steve Blank at MAP14. (Published on Mar 13, 2014.) MAP14 Public Forum: Steve Bla
 
 Assim, podemos reconhecer que entre casos de sucesso e ideias grandiosas, há muitas invenções e inovações atribuídas a fundadores que se viram envolvidos em uma luta por uma causa. No entanto, também existem muitos empreendedores que, mesmo sem uma causa tão forte, ainda se sentem em uma missão ou estão em processo de formação de suas identidades. Embutida na premissa de Steve Blank - de que o chamado é necessário - está também a ideia de que neste chamado, o fundador se torna vítima das projeções de futuro que faz em relação ao que faz, bem como vítima da identidade projetada. Isso pode parecer exagerado, mas as ações atreladas à pressão da identidade ocorrem no dia a dia e podem se manifestar em coisas simples, que passariam despercebidas.
 
+### Um herói é um superherói 
+
 Como exemplo, podemos considerar a experiência de Melissa Nightingale, que compartilhou em seu artigo, "Why it’s a Mistake to be a Startup Superhero" (2016), o perigo de tentar ser um "super-herói" em uma startup. Durante sua jornada, Melissa viu-se tão comprometida com seu trabalho que, em uma noite em particular, permaneceu no escritório até tarde da noite, esperando por colegas que haviam sido presos em um protesto. Ela estava disponível para qualquer eventualidade, seja uma chamada, a necessidade de uma fiança ou a recuperação de equipamentos. Tão cansada, ela improvisou uma cama com camisetas grandes e dormiu no chão do escritório.
 
 No entanto, ela reconhece que muitas das ações e sacrifícios que fez, vistas como heroicas no momento, não eram necessárias. Ela estava, de certa forma, vítima de sua identidade projetada e das projeções de futuro que tinha para a empresa. E mesmo que ela acreditasse estar ajudando seus amigos, muitas de suas ações contribuíam mais para a manutenção de uma identidade de "super-heroína" do que para o crescimento sustentável da empresa.
@@ -115,3 +116,10 @@ Referência:
 Nightingale, M. (2016). Why it’s a Mistake to be a Startup Superhero. Medium. Recuperado de https://medium.com/the-copour/why-its-a-mistake-to-be-a-startup-superhero-e221b0969ec9
 
 -->
+
+### Um herói e uma identidade 
+
+* [ ] Feat. - Andy Grove - Vale olhar porque Andy fala de identidade tb na questão da Intel * Concept — identity and team difficulties to accept change — the story of Andy Grove and Gordon More at Intel when Intel was facing the forces (10x) from Japanese companies. Andy Grove, in the book Only the Paranoid Survive, talks about a situation when the leadership team develops an identity that is so strong that when a major change is happening the team feels the phases that are comparable with the grieve related to mourning — check the right words here. 
+
+* [ ] Feat. Reid hoffman, Reid Hoffman, em Comece por Você, indica em p.61 em "Mantenha uma identidade independente de empregadores específicos" cobre a situação onde pessoas, diante de projetos que acabam, ficam sem norte. 
+
