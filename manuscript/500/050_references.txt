@@ -1,5 +1,17 @@
 # Referências
 
+<!-- Introduction --> 
+
+<!-- 
+
+ 000/050_foreword.txt 
+ 000/100_introduction.txt
+ 
+--> 
+
+Hari, J. (2023). Foco roubado: Os ladrões de atenção da vida moderna. (L. Reyes Gil, Trad.). Vestígio.
+
+
 <!-- Ogilvy 
  100/050_wantrepreneur_learner.txt
  200/030_razoes_para_correr.txt 
@@ -42,7 +54,9 @@ MIT (Producer). (2015, May 19). User Innovation: A Path to Entrepreneurship [Vid
 von Hippel, E. (2005). Democratizing Innovation. The MIT Press. DOI: https://doi.org/10.7551/mitpress/2333.001.0001
 
 <!-- 
- 230_self_confirmation_bias_social_identity.txt
+ 200/ 230_self_confirmation_bias_social_identity.txt
+ 000/100_introduction.txt
+
 --> 
 Steve Blank @ MAP Unimelb, Published on Mar 13, 2014 [video]. Retrieved from https://www.youtube.com/watch?v=UFx2CQUTpYo
 
