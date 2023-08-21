@@ -11,6 +11,10 @@
 
 Hari, J. (2023). Foco roubado: Os ladrões de atenção da vida moderna. (L. Reyes Gil, Trad.). Vestígio.
 
+<!-- 
+Didn't reffered this one but the above Hari, from 050_foreword.txt 
+Lorenz-Spreen, P., Mørch Mønsted, B., Hövel, P., & Lehmann, S. (2019). Accelerating dynamics of collective attention. Nature Communications, 10, 1759.
+--> 
 
 <!-- Ogilvy 
  100/050_wantrepreneur_learner.txt
