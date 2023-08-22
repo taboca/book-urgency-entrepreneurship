@@ -4,6 +4,11 @@
 
 v2.1 
 
+
+## References 
+
+Drucker, P. F. (1986). The Practice of Management. Harper Business. (Original work published 1954)
+
 Hari, J. (2023). Foco roubado: Os ladrões de atenção da vida moderna. (L. Reyes Gil, Trad.). Vestígio.
 
 --> 
@@ -16,15 +21,30 @@ Atualmente, vivemos num mundo frenético, numa realidade híbrida entre o físic
 
 Se você é um empreendedor - seja um iniciante com uma startup, um veterano administrando uma corporação ou alguém empreendendo na própria vida - provavelmente se encontra no olho deste turbilhão. Mas não vemos isso tudo como um problema. Como poderia ser um problema já que estarmos hiperconectados significa mais acesso para informações? Por exemplo, estamos agora na frente de mais ferramentas, mais métodos, mais interações inclusive com redes de apoio, como aceleradoras, como investidores, e o mais importante, mais acesso digital de baixo custo com o usuário final que são clientes. Em outras palavras, o ambiente hiperconectado promete coisas boas. 
 
-Esse ambiente, que tem um potencial otista, por outro lado torna-se mais uma aceleração potencial do que tração real para nossos projetos de empreendedorismo e nossas vidas. Neste ambiente conectado e interativo, o empreendedor fica empoderado a navegar rápido no rumo de objetivos. Porém estar empoderado não significa tração mas pode significar distração. Estamos empoderados ao máximo por um potencial real na nossa frente. Em todos os sentidos. O custo de se aproximar de redes de conhecimento e soluções é muito baixo no mundo hiperconectado, seja na questão de processos de colaboração, quando buscamos aprender o que fazer ou usar recursos para avançar mais rápido, como também para ações interativas na frente de possíveis clientes ou investidores. 
+Esse ambiente, que tem um potencial otista, por outro lado torna-se mais uma aceleração potencial do que tração real para nossos projetos de empreendedorismo e nossas vidas. Neste ambiente conectado e interativo, o empreendedor fica empoderado a navegar rápido no rumo de objetivos. Estamos empoderados, agora pilhados, a partir de um potencial, em todos os sentidos. Hoje, o custo de procurar soluções nas redes de conhecimento é muito baixo, por exemplo quando buscamos novos processos para avançar com colaboração. Da mesma forma, ficamos também empoderados a navegar por redes e sistemas de apoio, quando criamos interações com usuários, prospectos clientes, investidores, mentores, e muito mais. 
 
-No rumo que estamos indo, o assunto nosso torna-se produtividade para a tarefa de  empreender. E neste sentido e diante da complicação que empreendedores executam suas startups aprendendo ao mesmo tempo, Peter Drucker, em The Practive of Management, nos guia sobre um elemento que impacta a produtividade, que é a dependencia de balancear as atividades com organização:
+Diante desse potencial, ou empoderamento, não necessariamente encontramos tração e produtividade. Ainda, pode significar distração e desperdício de recursos que pode acarretar em frustração. Em outras palavras, o tema de forma abrangente é o assunto da produtividade da tarefa de empreender, que naturalmente para o caso de start-ups envolve aprender, que naturalmente vem antes da produtividade quanto aos processos executados pelos times. Neste sentido, Peter Drucker, em *The Practice of Management*, traz um pensamento da gestão que pode nos guiar para organizar o processo: 
 
-> "Finally, productivity is vitally affected by organization structure and by the balance between the various activities within the business. If, for lack of clear organization, managers waste their time trying to find out what they are supposed to do rather than doing it, the company's scarcest resource is being wasted. " p.45
+> *"Finally, productivity is vitally affected by organization structure and by the balance between the various activities within the business. If, for lack of clear organization, managers waste their time trying to find out what they are supposed to do rather than doing it, the company's scarcest resource is being wasted. "*(Drucker, 1986, p. 45)
 
-O que Peter Drucker provoca é uma reflexão. Se eu não sei como fazer e muito do que está na frente promete fazer, surge naturalmente um potencial para sair fazendo. Mas, ao mesmo tempo, ficar tentando pode ser o fim da startup. Mas é uma startup, que não tem um cliente não tem uma proposta de valor. Como começar e o que é meu papel como empreendedor? 
 
-Bom, na essência, parte de dois pontos. Os recursos, como dito, scarcest resource, sou eu ou eu e meu time, meus colegas. Prioridade um é proteger eles. Prioridade dois é não ficar tentando descobrir o que fazer. Assim, na fase, inicial, podemos, pelo menos, refletir, pausar. Que seja, uma pequena pausa. Essa inclinação básica pode ter consequências grandes e será nosso guia. Esse guia irá nos levar para entender nosso papel enquanto empreendedores - um papel que irá mudar na medida que uma startup avança no rumo de uma organização complexa mas que não muda na sua essência, uma essência reflexiva e o pensamento que envolve desacelerar. 
+<!-- 
+
+Finally, productivity is vitally affected by organization structure and by the balance between the various activities within the business. If, for lack of clear organization, managers waste their time trying to find out what they are supposed to do rather than doing it, the company's scarcest resource is being wasted. (Drucker, 1986, p. 45)
+
+
+
+Reference 
+
+Drucker, P. F. (1986). The Practice of Management. Harper Business. (Original work published 1954)
+
+--> 
+
+O pensamento de Peter Drucker nos coloca em uma espécie de beco sem saída. Se eu não sei como fazer e começo a tentar entender o que faço, não sou produtivo. Por outro lado, existem milhares de processos para avançar, me sinto propenso a aprender com erros ou, como dizem, errar rápido. O que é seria válido caso os recursos fossem abundantes. 
+
+Na essência do pensamento está um princípio que pode nos guiar. O primeiro é o reconhecimento que os recursos, o time inicial, é um recurso escasso. Com isso, podemos priorizar a proteção desses recursos, como prioridade um. O que inclui bem estar da mente e corpo. O segundo ponto é a necessidade de organização clara. Se colocarmos isso como prioridade dois e se assumirmos que empreendedores não possuem o mapa de como fazer - o que é natural do processo de inovação - naturalmente somos forçados a aceitar que a organização do processo suege a partir da iniciativa de refletir sobre as atividades, da ação de balancear as várias atividades. 
+
+Tendo isso com oguia, podemos elaborar o chamado para "desacelere sua startup" como sendo o chamado para uma posição de responsabilidade que pede por uma reflexão diante do potencial acelerado que tornou-se o padrão. Tudo começa com, que seja, uma pequena pausa para refletir. O momento dessa leitura pode ser uma boa pausa. Essa inclinação básica pode ter consequências grandes e será nosso guia. Esse guia irá nos levará para entender nosso papel enquanto empreendedores, um papel que irá mudar na medida que uma startup avança no rumo de uma organização complexa mas que não muda na sua essência. Aqui buscamos a essência de ser empreender, a essência generalista, que opera como um parachoques para o movimento para frente, lógico não intencionado a desacelerar por desacelerar mas para que valor seja preservado em todos os níveis do negócio. Tudo começa com valorização do ser humano. 
 
 Neste sentido, nosso objetivo começa por perceber o nosso novo ambiente de empreendedorismo moderno, que não só nos empodera mas também nos guia. Nosso momento nos chama para interpretar como estamos respondendo a esse ambiente, quando operamos no modo automático, e como podemos de forma mais consciente operarmos. Este livro é sobre avançar com mais consciência em um dos processos que mais precisa de reflexão e consciência, o empreendedorismo, porque justamente empreendedores merecem, já que elas são quem estão no comando para mudar nosso futuro. 
 
