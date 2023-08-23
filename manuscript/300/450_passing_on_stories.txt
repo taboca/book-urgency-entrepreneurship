@@ -53,6 +53,11 @@ Greylock. (2015, October 8). Blitzscaling 03: Michael Dearing on Capitalism, Cre
 
 Graham, P. (2014). Before the Startup. http://www.paulgraham.com/before.html
 
+## words
+
+* startup needs - not outcomes 
+* stories they tell and experience - not read/write or listen/say
+
 --> 
 
 <!-- 
@@ -183,17 +188,20 @@ The advice from Paul Graham, applicable for considering, and reasoning, in the f
 
 Which comes back to a situation that decision making happens on the basis of active listening - from sources from their networks - such as from people sources, sources where impression is likely a function. Now, it should be accounted, or reccounted here, that the world of modern startup is dynamic and that founders are navigating, either directly or indirectly, in a digital world as they execute their process. In other words, the pact of interactivity and the iterative nature of modern startup development brought founders to navigate with smaller projects and a lot of decision making that happens in realtime with what happens, as opposed to some theoretical idea where a team puts their heads down to write a full 250-page business plan, or to get involved in long analysis processes such as solving a problem with a focused effort before showing results to themselves and judges. These teams are now moving, advancing, with the support of lean movements that promotes lots of interaction on their way. Consider the data, or what appears to be data, that is easily acessible and might support startup needs as needs happens on their way. In other words, it is easier now to get advice online, free advice. It is easier to search for "a solution" just like a person with a condition might engage with searches as opposed to consulting a doctor. Althought it might seem odd that a smart team working in a startup cannot be compared with an average person that is suffering, or vulnerable, and engages in naively trusting web results; the perspective provided by Walter does not exclude smart people from the situation and in fact accomodates well how experts are likely able to fall, such as trusting instincs, as they are equally equipped with what will soon cover as the logic of good reasons. 
 
-> Cartoon as text - Selling Good Reasons for Stupid People In a Fair Booth
->
-> Strip one: A salesman in a fair market has items that look like lightbulbs and a sign that says "Good reasons for stupid people, half price."
->
-> Strip two: A smarter person approaches and asks "Do you have good reasons, just plain good reasons, because I am not dumb." The salesperson replies that he has only indicated stupid people - half price - so that it sells more for the folks that have less money. And adds "Since you are smart enough to make good use of these good reasons, you can go ahead and buy with confidence, although the promotion won't apply you of course. " 
->
-> Strip three: The smarter person asks for two of them and pointing to the bigger one says "May I have that one too?" To which the salesperson says "Sure, smart decision." 
+> *Cartoon as text - Selling Good Reasons for Stupid People In a Fair Booth. Strip one: A salesman in a fair market has items that look like lightbulbs and a sign that says "Good reasons for stupid people, half price." Strip two: A smarter person approaches and asks "Do you have good reasons, just plain good reasons, because I am not dumb." The salesperson replies that he has only indicated stupid people - half price - so that it sells more for the folks that have less money. And adds "Since you are smart enough to make good use of these good reasons, you can go ahead and buy with confidence, although the promotion won't apply to you, of course. " Strip three: The smarter person asks for two of them and pointing to the bigger one says "May I have that one too?" To which the salesperson says "Sure, smart decision." * - Marcio's Cartoon Draft 
 
-It is easier to add support, and to find things that seems to be good reasons, that pushes a team to move on. As we now operate entrepreneurship in the networked world, entrepreneurial action suffers even more with storytelling-based interaction as the networked world does not only offers advice that appears as good reasons for all the sorts of outcomes but it offers systems and opportunities for interaction that are action-oriented in nature and pull teams to engage. And it should be noted what appears to be obvious, that all this is good and it is meant to accelerate our changes which goes along with the idea that the quality of the process depends on judgment. But let's hold on with the obvious and focus on the reality that teams naturally use storytelling in the face of pressure to decide in the face of the abundance of good reasons, leading them to waste resources and become frustrated. 
+The modern world of entrepreneurship is rich enough, dynamic, and it empowers entrepreneurs to find support to move forward based on stories, what they tell and experience, that happen to be the carriers of good reasons. In the networked world, entrepreneurial action suffers even more with storytelling-based interactions that applies to all sorts of startup needs. As an example, founders might find good reasons to engage in a new process or good reasons to apply to accelerator program. 
 
-What is not visible comes from the irony that storytelling works so well that we miss the insight that our ability to fall, such as follow instincts, is connected with how we live by storytelling.  That is not to imply that we love to use good stories to justify our actions with no regard to rationality, logic, or reasoning. For the moments when we use storytelling in a conscious way, we certainly go back to see it, as a tool. The problem, and opportunity for reflection, is really when bits and pieces of rationality fits perfectly with a story being told in the face of a decision that has to be made. 
+And it should be noted the obvious, that all of this is good and meant to accelerate, and which goes withouth saying that the quality of the process depends on judgment, in the end of the day. But let's keep a possibility, that a full rational verification such as one that oversees what goes on, might not find its place in the heat of the decisions. 
+
+<!-- words
+
+* startup needs - not outcomes 
+* stories they tell and experience - not read/write or listen/say
+
+--> 
+
+What is not visible comes from the irony that storytelling works so well that we miss the insight that our ability to fall, such as follow instincts, is connected with how we live by storytelling. That is not to imply that we love to use good stories to justify our actions with no regard to rationality, logic, or reasoning. For the moments when we use storytelling in a conscious way, we certainly go back to see it, as a tool. The problem, and opportunity for reflection, is really when bits and pieces of rationality fits perfectly with a story being told in the face of a decision that has to be made. 
 
 But it is like an entrance door: 
 
