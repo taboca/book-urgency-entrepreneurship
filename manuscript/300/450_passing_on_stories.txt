@@ -90,53 +90,13 @@ I invite us to consider the narrative paradigm, presented in work of Walter Fish
 
 The views of professor Walter accomodates how teams are driven by storytelling in the first place. We will reflect how a language which is oriented to action fits well in the setting where forwardness is a must, the startup process that is inherently transactional, that inherently calls for action and decision, for a next stage. 
 
-<!-- reference 
-
-Fisher, W. (1989). Human communication as narration. University of South Carolina Press.
-
---> 
-
-## The narrative paradigm 
-
-<!-- as a transactional mechanism applicable to urgency 
-
-* Situation, transactional communication helps with speed. 
-* Situation, assume rational-world as the frame. 
-* Complication, we fail. We blame rationality or logic. We never check on storytelling. 
-* qA, let's understand how we believe and act. 
-
-* Key point a - How our trust for all, such as communication storytelling, as a result of reason, make us blind to communication storytelling, thinking it's a mere tool that sometimes fails, communication problem. Our framework starts with being scientific, affects us. OUr thinking that communication follows from rational thinking, effect us. Provoking is urgent. 
-
-* Key point b - We as storytellers, and the basic mecanism of advancing with storytelling, applies perfect to urgent and decision-oriented processes. The reccounting and accounting nature of everyday argument is present. 
-
-* Key point c - Good reasons are used well. 
-
-* Conclusion, we model, all the time, in the fact of an outcome that is being pursured, we conform with a track. We find good reasons for the mode of communication that pushes us forward, with reccounting and accounting. p.62. 
-
---> 
-
-It is not unfair to think that teams are in control of the stories that they listen and create. It is fair as we understand entrepreneurs as rational beings and their narratives, and storytelling in the process, comes after rational plans. In other words, that our actions are not led by storytelling or that under the viewpoint of communication, the storytelling that appears in the process is there to serve execution. 
-
-Examples of benefits of that model, is when stories appears to convince the team or others such as customers or investors. Imagine a founder that pitches an investor a plan. She properly inserts the situation, the complication ahead of them and good reasons for the support being asked, and convinces the investor which joins the boat. In other words, storytelling is generally seen as a tool. 
-
-Although stories can be good or bad, we again and again think that the elements to be considered to blame has more to do with the prior rationality, such as a rational plan or arrangement, as the thing to be judged. This it is not unfair to simplify that we, in the end of the day, judge the team. With that, we have a good reason to consider narratives - the simply fact that we generally do not look at storytelling, we don't have time for that. 
-
-Or as a mechanism, or opportunity, where we exercise the variability in the face of pressure and with that influences our decisions. In other words, we fail to see that storytelling accomodates subjectiveness that gives us a chance, or an excuse, to advance. 
-
-As we miss the fact that storytelling is used in the average daily decisions, and that it influences what we do, as we do. Consider how strong it is when one comes in the office and says "oh, we did't have a good strategy" or "our team is not doing good." The storytelling is generally not caught in the act as the one that listens can either agree or disagree but misses the fact that if she does not have a better story to combat the prompted one, she will lose and the outstanding will stick. In other words, the storytelling is not visible as the underlying fabric that pushes us to believe and act on the basis of what we experience and tell. 
-
-
-<!-- words 
-
-* experience and tell 
-* believe and act 
---> 
-
-As we move further, let's start contrasting the rational-world paradigm with Walter's narrative paradigm to consider how we leave storytelling in the place of a tool, and miss that our intrinsic dependency of it is the source of great impact in what we do, in our productivity. As we explore the elements of the narrative paradigm, we will reflect about how it goes so well with the nature of the entrepreneurship process, and its decision-making orientation, as it requires solutions-oriented process, as it demands action. And then we will look at how the logic of good reasons in the narrative paradigm offers a room to subjectivity that supports the urgent nature of entrepreneurship, for good and bad. 
-
 ### Rational-world paradigm vs. Narrative paradigm  
 
 The view that storytelling in communication is more of a tool serving a purpose, such as to serve the team's rational purpose of entrepreneurship, is aligned with a familiar paradigm, especially in the west, the rational-world paradigm. In this view, we understand that, in the end of the day, communication is available to serve the needs of humans as rational beings, where decision-making and communication is argumentative. 
+
+Examples of benefits of that model, is when stories appears to convince the team or others such as customers or investors. Imagine a founder that pitches an investor a plan. She properly inserts the situation, the complication ahead of them and good reasons for the support being asked, and convinces the investor which joins the boat. In other words, storytelling is generally seen as a tool. 
+
+Although stories can be good or bad, we again and again think that the elements to be considered to blame has more to do with the prior rationality, such as a rational plan or arrangement, as the thing to be judged. This it is not unfair to simplify that we, in the end of the day, judge the team. 
 
 The contrasting view, the narrative paradigm, accomodates the idea that rationality fails to be present in the everyday argument, although still make us move forward with decisions. That is a good reason for us to look at the narrative paradigm. Therefore, the narrative paradigm is an opportunity for us to realize that our very assumptions about communication, such as that storytelling is more of a tool serving rationallity, prevent us from seeing that our communication, especially under the decision-oriented nature environment which is the startup domain, is driven by storytelling. 
 
@@ -145,14 +105,6 @@ With this paradigm as a reflection, we shall consider ourselves as the Homo narr
 > *"The first item on it is the fact I already mentioned: that startups are so weird that if you trust your instincts, you'll make a lot of mistakes. If you know nothing more than this, you may at least pause before making them. When I was running Y Combinator I used to joke that our function was to tell founders things they would ignore. It's really true. Batch after batch, the YC partners warn founders about mistakes they're about to make, and the founders ignore them, and then come back a year later and say 'I wish we'd listened.'"*
 > 
 > (Graham, 2014)
-
-<!-- 
-
-Reference
-
-Graham, P. (2014). Before the Startup. http://www.paulgraham.com/before.html
-
--->
 
 What there is more of Paul Graham which can be another hint for how we engage with our instincts: 
 
@@ -172,18 +124,18 @@ Which comes back to a situation that decision making happens on the basis of act
 
 > *Cartoon as text - Selling Good Reasons for Stupid People In a Fair Booth. Strip one: A salesman in a fair market has items that look like lightbulbs and a sign that says "Good reasons for stupid people, half price." Strip two: A smarter person approaches and asks "Do you have good reasons, just plain good reasons, because I am not dumb." The salesperson replies that he has only indicated stupid people - half price - so that it sells more for the folks that have less money. And adds "Since you are smart enough to make good use of these good reasons, you can go ahead and buy with confidence, although the promotion won't apply to you, of course. " Strip three: The smarter person asks for two of them and pointing to the bigger one says "May I have that one too?" To which the salesperson says "Sure, smart decision." * - Marcio's Cartoon Draft 
 
+### Storytelling serves productivity 
+
+* Narrative coherence 
+* Narrative fidelity 
+
+[P. 62, 64]
+
 The modern world of entrepreneurship is rich enough, dynamic, and it empowers entrepreneurs to find support to move forward based on stories, what they tell and experience, that happen to be the carriers of good reasons. In the networked world, entrepreneurial action suffers even more with storytelling-based interactions that applies to all sorts of startup needs. As an example, founders might find good reasons to engage in a new process or good reasons to apply to accelerator program. 
 
 And it should be noted the obvious, that all of this is good and meant to accelerate, and which goes withouth saying that the quality of the process depends on judgment, in the end of the day. But let's keep a possibility, that a full rational verification such as one that oversees what goes on, might not find its place in the heat of the decisions. 
 
-<!-- words
-
-* startup needs - not outcomes 
-* stories they tell and experience - not read/write or listen/say
-
---> 
-
-What is not visible comes from the irony that storytelling works so well that we miss the insight that our ability to fall, such as follow instincts, is connected with how we live by storytelling. That is not to imply that we love to use good stories to justify our actions with no regard to rationality, logic, or reasoning. For the moments when we use storytelling in a conscious way, we certainly go back to see it, as a tool. The problem, and opportunity for reflection, is really when bits and pieces of rationality fits perfectly with a story being told in the face of a decision that has to be made. 
+What is not visible comes from the irony that storytelling works so well that we miss the insight that our ability to fall, such as follow instincts, is connected with how we live by storytelling. That is not to imply that we love to use good stories to justify our actions with no regard to rationality, logic, or reasoning. For the moments when we use storytelling in a conscious way, we certainly go back to see it, as a tool. The problem, and opportunity for reflection, is really when bits and pieces of rationality fits perfectly with a story being told in the face of a decision that has to be made, in the face of the ticking clock.
 
 But it is like an entrance door: 
 
@@ -196,14 +148,10 @@ But it is like an entrance door:
 * Working -  3... complex
 * Working -  "Rationality is determined by the nature of persons as narrative beings - their inherent awareness of *narrative probability*, what constitutes a coherent story, and their constant habit of testing *narrative fidelity*, whether or not the stories they experience ring true with the stories they know to be true in their lives.  
 
-### Storytelling serves productivity 
-
-* Narrative coherence 
-* Narrative fidelity 
-
-[P. 62, 64]
-
 ### The logic of good reasons and room for subjectivity  
+
+<!-- subjectiveness and variability have to do with value system --> 
+Or as a mechanism, or opportunity, where we exercise the variability in the face of pressure and with that influences our decisions. In other words, we fail to see that storytelling accomodates subjectiveness that gives us a chance, or an excuse, to advance. 
 
 
 * connects with narrative fidelity 
