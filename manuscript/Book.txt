@@ -1,27 +1,12 @@
-### Initial section 
-
-### 
-
 000/020_acknowledgements.txt
-
-### Prefácio
-
-# [!] Maslow, citação do Maslow on Management 
-
 000/050_foreword.txt
-
-### Introduction 
-
-* [x] 
-
 000/100_introduction.txt
-
-### Parte 1 
 
 100/000_part1.txt
 100/010_startup_you.txt
 100/020_rainbow_grayscale.txt
 100/050_wantrepreneur_learner.txt
+100/060_words.txt 
 100/080_narratives_improving.txt
 100/200_operating_systems.txt
 100/300_execution_urgency_neglecting_redesign.txt
@@ -44,8 +29,6 @@
 100/950_accounting_learning.txt
 100/970_winning.txt
 
-### part 2 ##################################################
-
 200/000_part2.txt
 200/030_razoes_para_correr.txt
 200/040_induction_embedded_everything.txt
@@ -53,48 +36,15 @@
 200/060_corruption_for_promotion_time_energy.txt
 200/090_saying_thanks_reflections.txt
 200/100_reactionary_execution.txt
-
 200/120_reaction_with_potentialized_animated_transactional_items.txt
 200/150_controlling_control.txt
-
 200/210_automatic_reaction_breaking.txt
-
-<!--
-
- Perhaps after auto reaction, 210, it could be interesting 
- to dive in the need to see as a management in time/space. 
---> 
-
 200/300_managing_future_eye_present.txt
-
-<!--
- This introduces the syndrome .. 
--->
-
 200/220_success_as_a_service.txt
-
-<!-- 
- The following shows our willgness to 
- play in the stage we entered 
---> 
-
 200/230_self_confirmation_bias_social_identity.txt
-
-<!-- 
-
-Can these following move to the 300? 
-
--->
 200/250_stop_impressing.txt
 200/260_stop_being_impressed.txt
-
-<!-- 
- This shows the identity and dissonance problem 
- Perhaps we can tackle identity in networks 
---> 
-
 200/320_strategic_dissonance.txt
-
 200/350_first_to_friends_no.txt
 200/360_team_dynamics_crying_is_ok.txt
 200/450_urgent_vs_important.txt
@@ -103,18 +53,13 @@ Can these following move to the 300?
 200/620_lean_no_lean_2.txt
 200/630_lean_no_lean_3.txt
 200/640_business_canvas.txt
-
 200/700_do_things_that_dont_scale.txt
 200/800_collaboration_new_medium.txt
 200/900_awareness.txt
 
-### part 3
-
 300/050_intro.txt
-
 300/070_bad_investors.txt
 300/100_partners_bad_investor.txt
-
 300/150_entrepreneurship_is_management.txt
 300/170_sales_for_entrepreneurs.txt
 300/200_invisible_contracts_and_our_roles.txt
@@ -124,7 +69,6 @@ Can these following move to the 300?
 300/300_role_models_design_empatia.txt
 300/330_team_dynamics_self_esteem.txt
 300/400_managing_certainty_gap.txt
-
 300/410_lean_storytelling.txt
 300/430_self_staging.txt
 300/450_passing_on_stories.txt
