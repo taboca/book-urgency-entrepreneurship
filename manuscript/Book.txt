@@ -71,7 +71,7 @@
 300/400_managing_certainty_gap.txt
 300/410_lean_storytelling.txt
 300/430_self_staging.txt
-300/450_passing_on_stories.txt
+300/450_narratives.txt
 300/470_culture_productivity.txt
 
 500/050_references.txt
