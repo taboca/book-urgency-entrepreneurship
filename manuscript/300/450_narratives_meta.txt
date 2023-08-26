@@ -1,0 +1,68 @@
+# The Narrative Dilemma 
+
+<!-- 
+
+## Version 
+
+* v3.1 - "main" English is ahead. 
+
+## Chatgpt - https://chat.openai.com/share/6eef3d42-b1ae-4ceb-88ca-58d52706430e
+
+( ) Complete [^elevatorpitch]
+( ) [^logicwaterfisher]: 
+
+( ) Complete review [^footnote_andygrove_peterdrucker]
+( ) complete [^ericriesonfoundersnolean]:
+( ) Complete "in a calling" - [^steveblankreferred]   
+( ) Complete [^customerdiscovery] 
+( ) Complete [^jobtobedonemarket]
+( ) Complete (p. xx) 
+( ) Complete [^stevenobusinessplansurvives]:  
+( ) Complete [^mvpprocess] 
+( ) Check 72-hour rule, quotation 
+( ) Risk analysis [^riskanalysisofvc] 
+( ) Reputation founders  [^foundersreputation].
+( ) [^walterfisherhomonarrans] 
+( ) [^michaelpricing] 
+( ) [^analysisparalysis]:  
+
+## References 
+
+MAP14. (2014, March 13). MAP14 Public Forum: Steve Blank. [video]. Retrieved from https://youtu.be/UFx2CQUTpYo
+
+Belsky, Scott. (2010). Making Ideas Happen. London, England: Portfolio.
+
+Greylock. (2015, October 8). Blitzscaling 03: Michael Dearing on Capitalism, Creativity, and Creative Destruction [Video]. YouTube. https://youtu.be/3vCdfa_aeI8?t=3600. Minute 1:00.
+
+Graham, P. (2014). Before the Startup. http://www.paulgraham.com/before.html
+
+Fisher, W. (1989). Human communication as narration. University of South Carolina Press.
+
+## Dictionary, words 
+
+* startup needs - not outcomes 
+* stories they tell and experience - not read/write or listen/say
+* action-oriented (Referered by Jason and David) 
+* language-action (Referred by Walter Fisher)
+
+## Outline
+
+* v0.2 - Storytelling for entrepreneurs is a tool and the narratives of the day are not too relevant. They judge what is being done and miss the how narratives are assessed, in the average day. How the sytem that enter influences daily narratives. More awareness is in order. For that, a) Narrative paradigm b) Outcome-based language c) Lean analysis. a.1) Rational vs. Narrative. a.2) Narrative rationality a.3) Logic of good reasons. d) Conclusion 
+
+* v0.1 - Provocation, SCqA, Answer, reflective, being: Narrative Paradigm as a Transactional Mechanism Applicable to Urgency and Fast-paced nature of start-ups. Outcome based and anchors supporting narrative. Willingness to Drop Lean and Learninng. Conclusion and considerations for scaping, introducting next chapter.
+
+## SCqA 
+
+* v0.2 - Entrepreneurship depends on storytelling. What we experience and tell influences what we do, are the narratives that make us advance our journeys. As entrepreneurship deals with the future, present and past, entrepreneurship embraces narratives. As much as entrepreneurs think that storytelling is a tool and that they use to serve a rational model, entrepreneurs continue to execute their plans following the narratives they experience and tell themselves which is highly subjective and oriented to values more than rationality. As a complication, the observed effect is entrepreneurs facing failures as they didn't assess properly the narratives of the day. As in, they follow instincts, especially in the face of pressure and urgencies and within the framework of many startup frameworks and the startup culture. This article offers an opportunity for reflection about how humans reason and act on the basis of what they experience and tell. And especially, the narrative paradigm, will help us assess that language of narratives are so good to advance entrepreneurship that it can also mislead our actions. The awareness about the power of narrative is worth of our time. 
+
+* v0.1 - We why we venerate winners and their stories? Why outcomes? When it comes to narratives, 
+we venerate outcome-based narratives. Complication - When it comes to narratives, we venerate outcome-based narratives. Complication - How to move towards real outcomes but not get distracted by storytelling that gives us no results. 
+
+## Style 
+
+* 450_narratives.txt // Life and family - A touch of humor, or attempt to pull truths from the life, appears on our way. But not in an arbitrary way. The point, that life urgencies gets in the way. You think it doesn't? It comes back to culture, and language, such as the language of war, or action-oriented language. 
+
+* 450_narratives.txt // #pasta #family The case of the Pasta and the urgency of the live pasta. The cook, by asking yes/no for all ingredients in a certain order, implies a value system. It suggests a narrative and guidance. 
+
+--> 
+
