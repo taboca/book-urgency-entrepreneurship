@@ -1,11 +1,42 @@
 # Referências
 
+<!-- Foreword --> 
+
+Drucker, P. F. (1986). The Practice of Management. Harper Business. (Original work published 1954)
+
+<!-- Introduction --> 
+
+<!-- 
+
+ 000/050_foreword.txt 
+ 000/100_introduction.txt
+ 
+--> 
+
+Hari, J. (2023). Foco roubado: Os ladrões de atenção da vida moderna. (L. Reyes Gil, Trad.). Vestígio.
+
+<!-- 
+Didn't reffered this one but the above Hari, from 050_foreword.txt 
+Lorenz-Spreen, P., Mørch Mønsted, B., Hövel, P., & Lehmann, S. (2019). Accelerating dynamics of collective attention. Nature Communications, 10, 1759.
+--> 
+
 <!-- Ogilvy 
  100/050_wantrepreneur_learner.txt
  200/030_razoes_para_correr.txt 
 --> 
 
 Ogilvy, D. (1983). Ogilvy on Advertising. Welbeck.
+
+<!--  
+ 100/050_wantrepreneur_learner.txt
+--> 
+Graham, P. [PaulGraham.com]. (2014, October). Before the Startup. Retrieved from 
+http://www.paulgraham.com/before.html
+
+<!--  
+ 100/050_wantrepreneur_learner.txt
+--> 
+Greylock. (2015, November 30). Blitzscaling 18: Brian Chesky on Launching Airbnb and the Challenges of Scale [Video]. YouTube. https://www.youtube.com/watch?v=W608u6sBFpo
 
 
 FastClip. (13/09/2015). Exposição Universal de 1876 nos EUA. Retirado de https://www.fastclip.net/Taboca/dupg0
@@ -14,11 +45,33 @@ Klein, Maury. (2009). The power makers : steam, electricity, and the men who inv
 
 * pt-br - Greylock Partners. (2015, November 30th), Blitzscaling 18: Brian Chesky on Launching Airbnb and the Challenges of Scale. Retrieved from https://www.youtube.com/watch?v=W608u6sBFpo / @ 020_rainbow_grayscale 
 
-Grove, Andrew. (DATEGROVE). Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company. [Só os Paranóicos Sobrevivem] ??????????.
 
 Blank, S. (2010, November 1st). No Business Plan Survives First Contact With A Customer – The 5.2 billion dollar mistake. Retrieved from https://steveblank.com/2010/11/01/no-business-plan-survives-first-contact-with-a-customer-%E2%80%93-the-5-2-billion-dollar-mistake/
 
+<!-- 
+ 230_self_confirmation_bias_social_identity.txt
+--> 
+
+MIT (Producer). (2015, May 19). User Innovation: A Path to Entrepreneurship [Video]. edX. https://www.youtube.com/watch?v=LpBSY9_RyCg
+
+<!-- 
+ 200/230_self_confirmation_bias_social_identity.txt
+ 300/150_entrepreneurship_is_management.txt
+--> 
+
+von Hippel, E. (2005). Democratizing Innovation. The MIT Press. DOI: https://doi.org/10.7551/mitpress/2333.001.0001
+
+<!-- 
+ 200/ 230_self_confirmation_bias_social_identity.txt
+ 000/100_introduction.txt
+
+--> 
 Steve Blank @ MAP Unimelb, Published on Mar 13, 2014 [video]. Retrieved from https://www.youtube.com/watch?v=UFx2CQUTpYo
+
+<!-- 
+ 230_self_confirmation_bias_social_identity.txt
+--> 
+Nightingale, M. (2016). Why it’s a Mistake to be a Startup Superhero. Medium. Recuperado de https://medium.com/the-copour/why-its-a-mistake-to-be-a-startup-superhero-e221b0969ec9
 
 Wong, K. (2015, August 9th).  Making It Through The Startup 'Trough Of Sorrow'. Retrieved from https://www.forbes.com/sites/kylewong/2015/08/09/making-it-through-the-startup-trough-of-sorrow/#3d282a0990e0
 
@@ -70,28 +123,79 @@ Cameron, J. (1998). The Right to Write. TarcherPerigee.
 
 Y Combinator. (2016, 25 de outubro). Marc Andreessen na Startup School SV 2016[vídeo]. Recuperado de https://www.youtube.com/watch?v=NEOR0AJsziE
 
+<!-- 
 
-<!-- From 
+     From 210_self_staging.txt
 
-     200/250_stop_impressing_or_being_impressed.txt
-     --> 
+-->
 
-Zinsser, W. (2006). On Writing Well: The Classic Guide to Writing Nonfiction (7th ed.). Harper Perennial.
+Charman, T. (2015, June 18). The difference between Bootcamps, Incubators and Accelerators. Business Daily: Startups, Business Development, Management. Retrieved from https://medium.com/business-startup-development-and-more/the-difference-between-bootcamps-incubators-and-accelerators-632a4d4e8bd8
 
-<!-- From 
+Chen, A. (n.d.). After the TechCrunch bump: Life in the “Trough of Sorrow". Andrew Chen. Retrieved from https://andrewchen.com/after-the-techcrunch-bump-life-in-the-trough-of-sorrow/
 
-     200/250_stop_impressing_or_being_impressed.txt
-     --> 
+<!-- Arrumar edição, Marcio tem o livro --> 
 
-Child, J. (2023, July 7). The Job of a CFO at a Scaling Company | Sarah Friar (CFO of Square) & Jason Child (CFO of Opendoor) [Video]. YouTube. https://youtu.be/A9MqV4ULMuM?t=889
+Fisher, M. (2023). A Máquina do Caos: Como as Redes Sociais Reprogramaram Nossa Mente e Nosso Mundo. Todavia.
 
-<!-- From 
+Graham, P. (2014, Outubro 9). Before the Startup with Paul Graham (How to Start a Startup 2014: Lecture 3) [Vídeo]. YouTube. https://youtu.be/ii1jcLg-eIQ?t=687
 
-     intro
- --> 
+<!-- 
+* From 450_passing_on_stories.txt 
+--> 
+
+Graham, P. (2014). Before the Startup. http://www.paulgraham.com/before.html
+
+<!-- 
+* From 450_passing_on_stories.txt 
+--> 
+
+Fisher, W. (1989). Human communication as narration. University of South Carolina Press.
+
+
+
+<!-- 
+
+From intro 
+From 150_entrepreneurship_is_management.txt
+
+--> 
 
 Fried, J., & Hansson, D. H. (2018). It doesn't have to be crazy at work. HarperCollins.
 
+<!--
+     From 430_self_staging.txt
+-->
+Grove, Andrew. (1999). Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company. [Só os Paranóicos Sobrevivem]. Crown Publishing.
 
+<!-- 
 
+From 450_passing_on_stories.txt 
 
+--> 
+
+Dearing, M. (2013, July 16). Pricing [Video]. HeavyBit. https://www.heavybit.com/library/video/harrison-metals-michael-dearing-on-pricing
+
+<!-- 
+
+* 100/970_winning.txt
+* 300/150_entrepreneurship_is_management.txt 
+
+--> 
+
+Drucker, P. (2008). Managing Oneself. Harvard Business School Press. pp. 53-54.
+
+<!-- 
+
+* 300/150_entrepreneurship_is_management.txt
+
+--> 
+
+Doerr, J. (2018). Measure What Matters. Portfolio/Penguin, p. 46.
+
+<!-- 
+
+* 300/150_entrepreneurship_is_management.txt
+
+--> 
+
+Ries, E. [Talks at Google]. (2011). The Lean Startup [Video]. YouTube. https://www.youtube.com/watch?v=fEvKo90qBns

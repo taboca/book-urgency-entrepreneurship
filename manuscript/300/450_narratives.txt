@@ -2,8 +2,11 @@
 
 <!-- 
 
-## Chatgpt - https://chat.openai.com/share/6eef3d42-b1ae-4ceb-88ca-58d52706430e
+## Version 
 
+* v3.1 - "main" English is ahead. 
+
+## Chatgpt - https://chat.openai.com/share/6eef3d42-b1ae-4ceb-88ca-58d52706430e
 
 ( ) Complete [^elevatorpitch]
 ( ) [^logicwaterfisher]: 
@@ -78,7 +81,7 @@ The statement from Basecamp is a good opening for our investigation. Starting wi
 
 > *Cartoon strip. Strip one: A lot of heads are listening, a presentation in front of them, the chart shows the way up and a saying - let us double the market. Strip two one hand is raised and asks "Why double and not triple?". The third strip the speaker replies "Because The Uber of Uber of Dog Walking has done it. " * Marcio Galli cartoon as text. 
 
-The complication when we fall for these messages, use our time following the limelight, we fall in our ways and waste resources for what matters which in the end prevent us from achieving any real value, including value that could move the needle for real. 
+The complication when we fall for these messages, we use our time following the limelight, we fall in our ways as in we waste resources for what matters which in the end prevent us from achieving any real value, including value that could move the needle for real. 
 
 In our preparation to this reflective moment about narratives affecting entrepreneurial action, we should first acknowledge, for the sake of consciousness, that we are the ones subscribing to these narratives in the first place. We are the ones experiencing, telling,and acting. We are giving likes, or claps, or votes, and asking ourselves to move forward. And as we do, we are rewriting the episodes of our narratives. 
 
