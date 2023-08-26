@@ -2,19 +2,8 @@
 
 <!-- 
 
-## Title 
+## Chatgpt - https://chat.openai.com/share/6eef3d42-b1ae-4ceb-88ca-58d52706430e
 
-* Analog with "The innovator's dilemma" 
-
-## Synchronicity: 
-
-* 200_success_as_a_service.txt
-
-## Chatgpt 
-
-https://chat.openai.com/share/6eef3d42-b1ae-4ceb-88ca-58d52706430e
-
-## Todo ##############################################
 
 ( ) Complete [^elevatorpitch]
 ( ) [^logicwaterfisher]: 
@@ -34,7 +23,7 @@ https://chat.openai.com/share/6eef3d42-b1ae-4ceb-88ca-58d52706430e
 ( ) [^michaelpricing] 
 ( ) [^analysisparalysis]:  
 
-## References ########################################
+## References 
 
 MAP14. (2014, March 13). MAP14 Public Forum: Steve Blank. [video]. Retrieved from https://youtu.be/UFx2CQUTpYo
 
@@ -44,32 +33,29 @@ Greylock. (2015, October 8). Blitzscaling 03: Michael Dearing on Capitalism, Cre
 
 Graham, P. (2014). Before the Startup. http://www.paulgraham.com/before.html
 
-## Words ##############################################
+## Dictionary, words 
 
 * startup needs - not outcomes 
 * stories they tell and experience - not read/write or listen/say
 * action-oriented (Referered by Jason and David) 
 * language-action (Referred by Walter Fisher)
 
-## Style ##############################################
+## Outline
 
-* Life and family - A touch of humor, or attempt to pull truths from the life, appears on our way. But not in an arbitrary way. The point, that life urgencies gets in the way. You think it doesn't? It comes back to culture, and language, such as the language of war, or action-oriented language. 
-* Life and family - humor - case of the pasta presented, the live pasta. 
+* v0.2 - Storytelling for entrepreneurs is a tool and the narratives of the day are not too relevant. They judge what is being done and miss the how narratives are assessed, in the average day. How the sytem that enter influences daily narratives. More awareness is in order. For that, a) Narrative paradigm b) Outcome-based language c) Lean analysis. a.1) Rational vs. Narrative. a.2) Narrative rationality a.3) Logic of good reasons. d) Conclusion 
 
-## Outline v.2 ########################################
+* v0.1 - Provocation, SCqA, Answer, reflective, being: Narrative Paradigm as a Transactional Mechanism Applicable to Urgency and Fast-paced nature of start-ups. Outcome based and anchors supporting narrative. Willingness to Drop Lean and Learninng. Conclusion and considerations for scaping, introducting next chapter.
 
-Provocation, SCqA, Answer, reflective, being: Narrative Paradigm as a Transactional Mechanism Applicable to Urgency and Fast-paced nature of start-ups. Outcome based and anchors supporting narrative. Willingness to Drop Lean and Learninng. Conclusion and considerations for scaping, introducting next chapter.
+## SCqA 
 
-## SCqA v0.1 
+* v0.2 - Entrepreneurship depends on storytelling. What we experience and tell influences what we do, are the narratives that make us advance our journeys. As entrepreneurship deals with the future, present and past, entrepreneurship embraces narratives. As much as entrepreneurs think that storytelling is a tool and that they use to serve a rational model, entrepreneurs continue to execute their plans following the narratives they experience and tell themselves which is highly subjective and oriented to values more than rationality. As a complication, the observed effect is entrepreneurs facing failures as they didn't assess properly the narratives of the day. As in, they follow instincts, especially in the face of pressure and urgencies and within the framework of many startup frameworks and the startup culture. This article offers an opportunity for reflection about how humans reason and act on the basis of what they experience and tell. And especially, the narrative paradigm, will help us assess that language of narratives are so good to advance entrepreneurship that it can also mislead our actions. The awareness about the power of narrative is worth of our time. 
 
-* Situation - why we venerate winners and their stories? Why outcomes? When it comes to narratives, 
-we venerate outcome-based narratives. 
-* Complication - When it comes to narratives, we venerate outcome-based narratives. 
-* Complication - How to move towards real outcomes but not get distracted by storytelling that gives us no results. 
+* v0.1 - We why we venerate winners and their stories? Why outcomes? When it comes to narratives, 
+we venerate outcome-based narratives. Complication - When it comes to narratives, we venerate outcome-based narratives. Complication - How to move towards real outcomes but not get distracted by storytelling that gives us no results. 
 
 --> 
 
-Our focus in this section is an opoortunity to look at how entrepreneurs come to act on the basis of the narratives that they experience and tell, especially in the face of urgency. In a traditional way of thinking, storytelling is a tool that can be used to our advantage, such as when a founder gives a pitch to an investor with the intention of receiving support. Or, from the perspective of acquiring feedback, a team presents a story and asks for advice. Therefore, as a tool where narratives - experienced or told - are working for the strategy. In this way of thinking, we have good reasons to believe that stories comes after rationality, that it serves strategy, and that we are generally in control. 
+Our focus in this section is an opoortunity to look at how entrepreneurs reason to act on the basis of the narratives that they experience and tell, especially in the face of urgency. In a traditional way of thinking, storytelling is a tool that can be used to our advantage, such as when a founder gives a pitch to an investor with the intention of receiving support. Or, from the perspective of acquiring feedback, a team presents a story and asks for advice. Therefore, as a tool where narratives - experienced or told - are working for the strategy. In this way of thinking, we have good reasons to believe that stories comes after rationality, that it serves strategy, and that we are generally in control. 
 
 But our line of inquiry involves the consideration that we can are less conscious about the relationship between us and storytelling. In other words, we are interested in checking when storytelling eats strategy for breakfast[^footnote_andygrove_peterdrucker]. Our concern with storytelling, however, has less to do with what people normally think of storytelling, as in a consciously crafted presentation, or a memo, that is presented for an audience. The storytelling view ahead of us has to do with the daily narratives of the everyday - that we experience and tell - that make us move forward. In this context, consider a provocation: Assuming that entrepreneurs are storytellers, are they consciouly using, or are they being used by storytelling?
 
@@ -98,7 +84,7 @@ I invite us to consider the narrative paradigm, presented in work of Walter Fish
 
 The views of professor Walter accomodates how teams are driven by storytelling in the first place. We will reflect how a language which is oriented to action fits well in the setting where forwardness is a must, the startup process that is inherently transactional, that inherently calls for action and decision, for a next stage. 
 
-### Rational-world paradigm and the narrative paradigm  
+## Rational-world paradigm and the narrative paradigm  
 
 The view that storytelling in communication is more of a tool serving a purpose, such as to serve the team's rational purpose of entrepreneurship, is aligned with a familiar paradigm, especially in the west, the rational-world paradigm. In this view, we understand that, in the end of the day, communication is available to serve the needs of humans as rational beings, where decision-making and communication is argumentative. 
 
@@ -136,7 +122,7 @@ Well, the work of Walter actually in fact accomodates that sort of thinking. And
 
 The advice from Paul Graham, applicable for considering, and reasoning, in the face of these instinctive movements, might as well support the idea that the domain of a startup actually advances on basis of storytelling as opposed to on the basis of rationality. When he states that "YC partners warn founders about mistakes they're about to make," he implies that advice from a great accelerator program, sort of Y Combinator, is applicable to save them from their poor judgements, instintictive moments. Similarly, when he confirms that founders engage with listening impressive people, it also implies that the value they perceive gives them reasons to move on, to decide. Therefore, it comes from that that how teams perceive advice matters, aside from the fact that the quality of advice matters, and aside from the cognitive function that can reach out to further truths to check quality. In addition, his view is an evidence that YC advice does not show a recipe for escaping instincts, such as one that is fully logical and non-network dependent, such as one that is based on analysis. In addition, notice that alot of founders that gets into top accelerator programs, like Y Combinators, are in fact great as technical founders, that they are recognized as highly talented and technical cofounders, not counting the network of Y Combinator which is recognized as a key differential in the lifecycle of a startup and shows a highly level of cognition for analysis or for what is rational. 
 
-### The logic of good reasons, subjectivity and productivity 
+## The logic of good reasons and urgency 
 
 Which comes back to a situation that decision making happens on the basis of active listening - from sources from their networks - such as from people sources, sources where impression is likely a function. Now, it should be accounted, or reccounted here, that the world of modern startup is dynamic and that founders are navigating, either directly or indirectly, in a digital world as they execute their process. In other words, the pact of interactivity and the iterative nature of modern startup development brought founders to navigate with through shorter projects and consequently more decision making that happens in realtime with what happens. That, as opposed to a more reflective situation of a team that puts their heads down to write a full 250-page business plan likely involved in longer analysis and a focused effort before showing results. These teams are now moving, advancing, with the support of lean movements that promotes lots of interaction on their way. Consider the data, or what appears to be data, that is easily acessible and might support startup needs as needs happens on their way. In other words, it is easier now to get advice online, free advice. It is easier to search for "a solution" just like a person with a condition might engage with searches as opposed to consulting a doctor. Althought it might seem odd that a smart team working in a startup cannot be compared with an average person that is suffering, or vulnerable, and engages in naively trusting web results; the perspective provided by Walter does not exclude smart people from the situation and in fact accomodates well how experts are likely able to fall, such as trusting instincs, as they are equally equipped with what will soon cover as the logic of good reasons. 
 
@@ -298,7 +284,7 @@ Thus, what is implicit in the doing of lean is a relationship with storytelling.
 
 But it serves as an alert of our propensity to decide for action x or y using stories. And a reminder for us that, when the clock is ticking, sticking with a story that supports decision is generally applauded. We need to be pragmatic, in the end of the day, we need to move. And, again, there is nothing wrong with that. As the process, as we know it, will ultimately reveal the truth, in the end of the days. 
 
-### Higher-order expectations and "good reasons" to serve as inductors
+### Higher-order expectations and the inductive audience 
 
 The case presented, when one says to use the "72h rule" is an example applicable to after the process of going out of the building. This the applicability of the rule, which happens to be used to prompt a decision, might be valid in the face of the longer process of the story. But, since the movement is forward, and scaling expectations is ahead, there seem to be expectations for certain indicators of "good reasons" that justifies the next movement of scale, such as the investment to develop a more complex prototype or sales experiment. 
 
