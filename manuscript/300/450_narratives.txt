@@ -35,7 +35,7 @@ Fisher, W. (1989). Human communication as narration. University of South Carolin
 
 The views of professor Walter accomodates how teams are driven by storytelling in the first place. We will reflect how a language which is oriented to action fits well in the setting where forwardness is a must, the startup process that is inherently transactional, that inherently calls for action and decision, for a next stage. 
 
-## Rational-world paradigm and the narrative paradigm  
+## Narrative paradigm 
 
 The view that storytelling in communication is more of a tool serving a purpose, such as to serve the team's rational purpose of entrepreneurship, is aligned with a familiar paradigm, especially in the west, the rational-world paradigm. In this view, we understand that, in the end of the day, communication is available to serve the needs of humans as rational beings, where decision-making and communication is argumentative. 
 
@@ -49,7 +49,7 @@ But as we have seen, the storytelling that we are concerned with aren't necessar
 
 If we assume that daily arguments are rational and logic - in other words we elimitate the possibility of being stories or narratives - we will certainly be in a position to value them, or judge them, looking at the essence of the message experienced. In other words, we will likely blame or praise what is being judged looking at what was the intent from the logical and rational, such as to look for the rational plan or arrangement, as the thing to be judged. This it is not unfair to simplify that we, in the end of the day, judge the team. The good news is that such view doesn't seem bad at all, to assume that in a normal team there are no storytellers that naturally craft narratives that convinces, and the assumption that the team is smart enough to judge and catch bad messages such as ideas that could be similar to fakenews. Thus, the team experiences what was said and judges assuming waht was said as logic. 
 
-What is the catch? If we continue to advance startups overvaluing the messages, as rational and logic, if expect logical messages or arguments. Things are either accepted or denied in general. And when accepted, or denied, the team assumes it is logical and moves on to the next step. In other words, and the bad news is that while entrepreneurs advance with what they think as logic arguments, practitioners recognize that founders follow instincts. A consequence of following instincts, continue to come back to reflect on what we did, after a failure and in retrospect, and we confirm things as "we sort of sensed something wrong about that but we didn't see." These states of reflections after failures should support us in considering the possibility that humans run their collaborative narratives with the narrative paradigm. 
+What is the catch? If we continue to advance startups overvaluing the messages as rational and logic, if expect logical messages or arguments. Things are either accepted or denied in general. And when accepted, or denied, the team assumes it is logical and moves on to the next step. In other words, and the bad news is that while entrepreneurs advance with what they think as logic arguments, practitioners recognize that founders follow instincts. A consequence of following instincts, continue to come back to reflect on what we did, after a failure and in retrospect, and we confirm things as "we sort of sensed something wrong about that but we didn't see." These states of reflections after failures should support us in considering the possibility that humans run their collaborative narratives with the narrative paradigm. 
 
 The contrasting view, the narrative paradigm, accomodates the idea that rationality fails to be present in the everyday argument, although still make us move forward with decisions. Therefore, the narrative paradigm is an opportunity for us to realize that our very assumptions about communication, such as that storytelling is more of a tool serving rationallity, prevent us from seeing that our communication, especially under the decision-oriented nature environment which is the startup domain, is driven by storytelling. 
 
@@ -67,22 +67,31 @@ What there is more of Paul Graham which can be another hint for how we engage wi
 
 So I would summarize a potential line of reflection from the experience indicated where startups tend to follow instincts as resulting lots of trouble, as opposed to getting advice from a certain special body of knowledge, such as advice from top accelerator program. On the people front, not in contradiction, when a startup is not complying with the long-run follow-through with people, such as stumbling on people that seem impressive, again, trouble might find their way. 
 
-These two examples and the audience that Paul Graham was speaking to, young founders that joined the YCombinator acceleration program, can put us in the right spot for the work of Walter, and to consider storytelling as the potential bridge that pushes us towards quick decisions in the face of the pressure to decide. When we are following instincts, we are assessing and deciding. Similarly, when we engage with people, such as listening to their impressive inputs, we are assessing and deciding. Now, framing a question under the perspective of storytelling: What if, we, when following instincts, in the rush of the transactional nature of startups in the face of the pressure to decide, are in fact using a certain "logic" where we pick "good reasons" to make a decision in front of what is next, the necessity to advance that likely in the environment of startups have a certain structure, such as a structure that demands growth. And, similarly in terms of people, what if, although we almost consider the odd signs, we end up falling for the storytelling that goes along from impressive people? This line of provocation might be even too strict to start with, such as to detach rationality from the situation, almost like an assumption that people, such as the kind of people that gets to be founders, are not rational. 
+### Narrative rationality 
 
-Well, the work of Walter actually in fact accomodates that sort of thinking. And that fact is a good reason for us to continue to explore the narrative paradigm. It accomodates the possibility that people can advance the real projects, such as startups, in the basis of storytelling. Notice that the the idea that storytelling gets in our way does not exclude the consideration that rationality appears. In agreement, the quote from Paul Graham hints about a sort of rational recoounting that happens in the founder's lifecycle, as he said that they "come back a year later and say 'I wish we'd listened." In other words, for the matters of the startup process, an objective system of judgement chimes in, likely involving what could be rationality, although later, althout that thing that appears to be rational thinking can also be another not-so-rational story that comes with other good reasons in the face of new pressure. But we should, for the sake of having a structure to this reflective moment, assume that startups are in a process where eventually what they find reality, such as the reality of markets. 
+These two examples and the audience that Paul Graham was speaking to, young founders that joined the YCombinator acceleration program, can put us in the right spot to consider the notion of narrative rationality which explains how narratives are pervasive in the pace of quick decision making context of a startup. What seems to be about following instincts might be more like operating following a value system and trusting some ideas as they are coherent and seem to be valid and to work. Similarly, when we engage with people, such as listening to their impressive inputs, we are assessing and deciding highly listening to who said, the analysis of character, and what was said, if it sounds coherent, and further checks based on value, which may or may not involve more rational analysis and logic. A lot that goes on in the average day, especially among technical teams, is not double checked really. Messages just seem to make sense depending on who said and what was said. It supports moving on. 
+
+Now, framing a question under the perspective of the narrative rationality, what if, we, when following instincts, in the rush of the transactional nature of startups in the face of the pressure to decide, are in fact assessing aspects of a message such as the quality of the message with what seems to be rational, what Walter calls the Narrative Rationality. 
+
+For Walter FIsher, it is not arbitraty and it is structured how we do that. So we should, for the sake of having a structure to this reflective moment, assume that a message is evaluated/assessed based on Narrative coherence and Narrative fidelity. In general coherence is a less analytical aspect (check this) where 3 main elements are used: 
+
+* Argumentative or structural coherence 
+* Material coherence 
+* Characterological coherence - This is key difference with traditional logic, according to Walter Fisher. 
+
+[P. 62, 64]
+
+* For Walter Fisher, coherence and fidelity are logical principles. P. 138.
 
 The advice from Paul Graham, applicable for considering, and reasoning, in the face of these instinctive movements, might as well support the idea that the domain of a startup actually advances on basis of storytelling as opposed to on the basis of rationality. When he states that "YC partners warn founders about mistakes they're about to make," he implies that advice from a great accelerator program, sort of Y Combinator, is applicable to save them from their poor judgements, instintictive moments. Similarly, when he confirms that founders engage with listening impressive people, it also implies that the value they perceive gives them reasons to move on, to decide. Therefore, it comes from that that how teams perceive advice matters, aside from the fact that the quality of advice matters, and aside from the cognitive function that can reach out to further truths to check quality. In addition, his view is an evidence that YC advice does not show a recipe for escaping instincts, such as one that is fully logical and non-network dependent, such as one that is based on analysis. In addition, notice that alot of founders that gets into top accelerator programs, like Y Combinators, are in fact great as technical founders, that they are recognized as highly talented and technical cofounders, not counting the network of Y Combinator which is recognized as a key differential in the lifecycle of a startup and shows a highly level of cognition for analysis or for what is rational. 
 
-## The logic of good reasons and urgency 
+### The logic of good reasons and urgency 
+
+* Walter offering of precise criteria for assessing good reasons helps us to see how narratives we tell and experience are used in the average day. 
 
 Which comes back to a situation that decision making happens on the basis of active listening - from sources from their networks - such as from people sources, sources where impression is likely a function. Now, it should be accounted, or reccounted here, that the world of modern startup is dynamic and that founders are navigating, either directly or indirectly, in a digital world as they execute their process. In other words, the pact of interactivity and the iterative nature of modern startup development brought founders to navigate with through shorter projects and consequently more decision making that happens in realtime with what happens. That, as opposed to a more reflective situation of a team that puts their heads down to write a full 250-page business plan likely involved in longer analysis and a focused effort before showing results. These teams are now moving, advancing, with the support of lean movements that promotes lots of interaction on their way. Consider the data, or what appears to be data, that is easily acessible and might support startup needs as needs happens on their way. In other words, it is easier now to get advice online, free advice. It is easier to search for "a solution" just like a person with a condition might engage with searches as opposed to consulting a doctor. Althought it might seem odd that a smart team working in a startup cannot be compared with an average person that is suffering, or vulnerable, and engages in naively trusting web results; the perspective provided by Walter does not exclude smart people from the situation and in fact accomodates well how experts are likely able to fall, such as trusting instincs, as they are equally equipped with what will soon cover as the logic of good reasons. 
 
 > *Cartoon as text - Selling Good Reasons for Stupid People In a Fair Booth. Strip one: A salesman in a fair market has items that look like lightbulbs and a sign that says "Good reasons for stupid people, half price." Strip two: A smarter person approaches and asks "Do you have good reasons, just plain good reasons, because I am not dumb." The salesperson replies that he has only indicated stupid people - half price - so that it sells more for the folks that have less money. And adds "Since you are smart enough to make good use of these good reasons, you can go ahead and buy with confidence, although the promotion won't apply to you, of course. " Strip three: The smarter person asks for two of them and pointing to the bigger one says "May I have that one too?" To which the salesperson says "Sure, smart decision." * - Marcio's Cartoon Draft 
-
-* Narrative coherence 
-* Narrative fidelity 
-
-[P. 62, 64]
 
 The modern world of entrepreneurship is rich enough, dynamic, and it empowers entrepreneurs to find support to move forward based on stories, what they tell and experience, that happen to be the carriers of good reasons. In the networked world, entrepreneurial action suffers even more with storytelling-based interactions that applies to all sorts of startup needs. As an example, founders might find good reasons to engage in a new process or good reasons to apply to accelerator program. 
 
@@ -101,17 +110,13 @@ But it is like an entrance door:
 * Working -  3... complex
 * Working -  "Rationality is determined by the nature of persons as narrative beings - their inherent awareness of *narrative probability*, what constitutes a coherent story, and their constant habit of testing *narrative fidelity*, whether or not the stories they experience ring true with the stories they know to be true in their lives.  
 
-
-<!-- subjectiveness and variability have to do with value system --> 
 Or as a mechanism, or opportunity, where we exercise the variability in the face of pressure and with that influences our decisions. In other words, we fail to see that storytelling accomodates subjectiveness that gives us a chance, or an excuse, to advance. 
-
 
 * connects with narrative fidelity 
 
 * "Good reasons to be conceived as *those elements that provide warrants for accepting or adhering to the advice fostered by any form of communication that can be considered rhetorical. " P.107 
 
 * He also explains warrant. "By 'warrant,' I mean that which authorizes, sanctions, or justifies belief, attitude, or action - these being the usual forms of rhetorical advice. " P.107
-
 
 5 fold components for the logic of food reasons: 
 
@@ -133,9 +138,9 @@ Or as a mechanism, or opportunity, where we exercise the variability in the face
 
 Now, the exercise, reflective, about how we seek for fidelity, and Walter's 5 aspects [aspects?] helps us see how subjectivity has to be part of for assessment of the message. According to Walter: 
 
-> "One can be fairly "objective" about what values are in fact present in a message, but as one moves to the questions of relevance, effects, confirmation, and ideals, greater and greater degrees of 'subjectivity' enter into the assessment. The intrusion of such 'subjectivity' is not a fault in a logic of good reasons. Instead, it is recognition of the very nature of human communication, and of the nature of subjects amenable to rhetorical expression. " (P. 110)
+> *"One can be fairly "objective" about what values are in fact present in a message, but as one moves to the questions of relevance, effects, confirmation, and ideals, greater and greater degrees of 'subjectivity' enter into the assessment. The intrusion of such 'subjectivity' is not a fault in a logic of good reasons. Instead, it is recognition of the very nature of human communication, and of the nature of subjects amenable to rhetorical expression. "* (Fisher, 1989, p. 110)
 
-#### Notes about the team situation 
+#### Notes about the team situation - the denial of values such as love 
 
 Now, we shall also consider that the very basic mechanism of narrative in decision-oriented messages, that carries the logic of good reasons, is also used by any other participant in the team. Walter acknoledges that "The discourse that constitutes an interpreter's or critic's exploration of the values in messages will also inevitably express values. " (p.109)
 
@@ -143,7 +148,19 @@ In other words, and logically, all participants can chime in with their own stor
 
 [Consider here a cartoon of the founder that came from outside the building, and has asked the team to pivot. And the next strip the cofounders just say - No no, 72h rule, shut up and let us continue. Notice that cofounders might be adding "good reasons" from Steve Blank which might exercise implictly some of the good reasons attributes such as consistency, and even transcendent values.  ]
 
-## Outcome-based storytelling  
+(Consider to add love) He goes on "I agree with Perelman's view on the necessity of recognizing and accepting pluralism. However, I would place love as the highest virtue or motivation I life, displacing justice from the pinnacle in the hierarchy of values. Love provides the ground of being and is the motive that should inform all others in human decision making in action. Perelman may well have agreed with this idea, and he could have then argued, rightly I think, that justice is a form of love, that civic love is way of honoring the dignity and worth of individuals and ensuring by rule their well-being in society. " P 137
+
+( Consider the sitution of challenge with Arun. )
+
+( "Finally, I believe that rhetoricians an obligation to inform students and to raise the consciousness of citizens about the nature and functions of values just as we have informed them about the nature and functions of reasons. " p.106 ) 
+
+( Testable - "Reasons can appear in and through arguments, metaphors, myths, gestures, and other means of creating communicative relationships. In sum, to view communication through the perspective of narrativity, is to focus on message, on the individuated forms that constitute it, and in the reliability, trustworthiness, and desirability of what is said - evaluated by using the tests of narrative rationality." p.143 )
+
+## Outcome-based messages   
+
+Works for scientific 
+
+> *"The criteria for assessing, say, a scientific text, will differ from those one would use in assessing a popular film, but the principles of coherence and fidelity apply no less to a scientific treatise than to a filmic communication. Furthermore, as I have said before, even technical discourse is imbued with myth, metaphor, and strategy or design."* (Fisher, 1989, p. 143)
 
 <!--
 
@@ -175,6 +192,10 @@ Going back to entrepreneurs, and seeking a colorful example, consider the very s
 
 <!-- charge comic here? --> 
 
+Consider also here we also covering the time aspect that Walter Fisher brought up. 
+
+Consider - objection recognized under "by outcomes" that it is for scientific. Indeed the work of Walter Fisher is not specific to scientific communication or discourse. But is it promising and worth well the reflection. One pont if favor is that it's application is shown for the political discourse. Now, we could object to say that in the startup pathway there is no room for politics or any kind of political orientation in terms of communication. It is likely that we have the answer for that. That as companies growth, they show signs that politics happens, although it might be usually associated with mechanisms to measure performance such as the communication that goes on when one wants to growth. But then, performance evaluation is all around and it is quite interconnected with execution. In other words, it cant be detached, initially. Or it is worth assuming that political discourse is present in the face of decision making, approval for efforts, for resources, recognition of status that ends up supporting execution with other levels of performance, to give an example.  
+
 ## The Lean Dilemma 
 
 <!-- 
@@ -197,15 +218,56 @@ But the complication, also recognized, is that teams give up lean, as they try t
 
 [^ericriesonfoundersnolean]:
 
-Therefore, it seems that they sort of enter a certain "safe zones" of lean, welll intended to learn, Eric's point suggests that startups fall that instinctive tendency at some point. With the prior sections, we were able to experience storytelling in action in the face of the hour. But now, the same super effective mechanism of storytelling is well suitable, and critical, in the face of the day or week or longer periods of time. Therefore, worth reasoning for us too here. 
+Therefore, it seems that they sort of enter a certain "safe zones" of lean, well intended to learn, Eric's point suggests that startups fall that instinctive tendency at some point. With the prior sections, we were able to experience storytelling in action in the face of the hour. But now, the same super effective mechanism of storytelling is well suitable, and critical, in the face of the day or week or longer periods of time. Therefore, worth reasoning for us too here. 
 
 In other words, just like we find "good reasons" to advance, or decide, within certain smaller story, and as well the storytelling that uses the logic of good reasons is applicable to engage teams into switching gears. 
 
 Going back to the metaphor of the supermarket, it is as if we coordinate a storytelling for a certain "zone" of advancement, a smaller project that feedds good reasons in the fact of an upcoming decision. And in that regard we seek, to that shopping for good reasons; but as we come to decisions, depeding on out decision and expectations, we move on visiting other isles of a higher-order, compelled again to buy-in and act in in the new zone which can be a investment of another nature such as associated with a bigger bet. Natural questions when walking this aisle are: At some point we gotta scale? Once we get product-market fit, and so on. As in, we move straight into the aisle of serving the plates, to buy cups and plates for the party, without having properly done with the learnings if the recipe is good. 
 
-As the move with lean, iteratve, learn, in the process of execution towards their goals. And as they do, as expectations and goals are set, they seek out models to supports them to manage themselves, as resources, so that hopefully they move on to the next stage of investment. And, again, nothinig wrong with that. Still, us bringing the storytelling and how we use it to this situation is key to put us in a more flexible position about the stories of what we read and write in the face of our intention to me on. 
+As the move with lean, iterative, learn, in the process of execution towards their goals. And as they do, as expectations and goals are set, they seek out models to supports them to manage themselves, as resources, so that hopefully they move on to the next stage of investment. And, again, nothinig wrong with that. Still, us bringing the storytelling and how we use it to this situation is key to put us in a more flexible position about the stories of what we read and write in the face of our intention to me on. 
 
 Let's review the logic of good reasons being applicable by the founders as they work with fragmented data in the face of unceertainty of the lean process. Then the mechanism of the good reasons associated with the higher order pressure. And then how the storyline unfolds creating relative comparisons pushing a storyline. [Check these 3 titles.]
+
+#### Consider timeline in the face of goals and outcomes 
+
+* Check Walter Fisher, whrre he pointed the situation of time. 
+
+* Notice the 3rd level. Now consider when the prior situation, such as an incident, feeds the value formation from the lenses of comparison. 
+
+* Notice that moving by analogy is also a value formation too, such as success where achieve via doing, and than it is likely that doing alike can do the same. A reference here, for models, is the the book it radical irrational, I think, some tio do vale has the link for the analogy being used effectively. 
+
+* In the same like, analogy can also even make models, such as business models, to be applicable. Consider the phenomenon Uber of XYZ which provokes the reader in the frame that collaborative value of a sorts can be present. 
+
+* 3 levels of what? Discriminations? 
+
+* One will focus on the sequence of symbolic acfkons and their meaning. 
+
+* one will recognize that no text is devoid of historical, situational, and biographical context,
+
+* one will recognize that the meaning of value of any account are always influenced by how the account or story stands with or against other stories known to the audience of the other observer.
+
+
+#### Consider: 
+
+* Moving into lean, the consideration of message and carrier, the storytelling by a storyteller, and the system of values supporting by the accounting. This shall establish also a bridge to the modes to help with the innovation problem as pointed by Eric Ries, innovation accounting, for example. A link also can be give to Michael Dearing on Npv and the provocation from Reid Hoffman. 
+
+Nevertheless the core of the reasoning here is that In the fact of outcomes need, that yields benefits, we fall for selecting stories like a salesman of the presented losing the sight if an enlighted salesman. 
+
+(The following was written also above) 
+
+We shall remember here the situation that Maslow have compared of the bad salesman and the enlighted salesman. The one with focus in the present doesn't care about reputation. 
+
+Thus, under lean, we can wrap up the ideas of: 
+
+Outcomes driving selection
+Comparison of stories 
+Stories in time 
+
+Strip 
+
+* founder comes out of the building, asks to pivot. Silence equals to pivot. 
+
+* founder comes out if the building, asks to pivot, team claims the Steve 72h rule. Founder goes back to streets.
 
 ### Logic of good reasons serving lean  
 
