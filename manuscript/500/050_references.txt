@@ -149,6 +149,12 @@ Graham, P. (2014). Before the Startup. http://www.paulgraham.com/before.html
 * From 450_passing_on_stories.txt 
 --> 
 
+Graham, P. (2012, September). Startup = Growth. Retrieved August 29, 2023, from http://www.paulgraham.com/growth.html
+
+<!-- 
+* From 450_passing_on_stories.txt 
+--> 
+
 Fisher, W. (1989). Human communication as narration. University of South Carolina Press.
 
 
