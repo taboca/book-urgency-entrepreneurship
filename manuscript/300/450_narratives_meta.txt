@@ -6,6 +6,15 @@
 
 * v3.1 - "main" English is ahead. 
 
+
+## Dictionary, words 
+
+* chapter - the article was called chapter. 
+* startup needs - not outcomes 
+* stories they tell and experience - not read/write or listen/say
+* action-oriented (Referered by Jason and David) 
+* language-action (Referred by Walter Fisher)
+
 ## Barbara Minto Framework 
 
 - To whom are you writing?  
@@ -64,12 +73,6 @@ Fisher, W. (1989). Human communication as narration. University of South Carolin
 
 Graham, P. (2012, September). Startup = Growth. Retrieved August 29, 2023, from http://www.paulgraham.com/growth.html
 
-## Dictionary, words 
-
-* startup needs - not outcomes 
-* stories they tell and experience - not read/write or listen/say
-* action-oriented (Referered by Jason and David) 
-* language-action (Referred by Walter Fisher)
 
 ## Outline
 
