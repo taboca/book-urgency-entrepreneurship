@@ -6,6 +6,30 @@
 
 * v3.1 - "main" English is ahead. 
 
+## Barbara Minto Framework 
+
+- To whom are you writing?  
+    
+    Entrepreneurs, managers of entrepreneurship. 
+
+- What is the subject you are writing to him about?
+    
+    Danger of communication in the average day, how narrative can trick entrepreneur's execution. 
+
+- Remind yourself what the reader already knows about the subject. n. e.g., what it is, how it works, how he has been exposed to it 
+    
+    They know it is a tool (what).
+    They recognize as working for rationality (how).
+    They think is to make presentations, pitches, memos (exposed to it. )
+
+ - Determine why he needs to know anything more about it 
+
+    Because they keep missing the important of the narratives of the day and how they decided based on 
+    what they experience and tell, based on value system more than rational logic. 
+
+- Write and remind him of what he already knows, what more it is he needs to know, and then
+   communicate what he needs to know to him in your memo.
+
 ## Chatgpt - https://chat.openai.com/share/6eef3d42-b1ae-4ceb-88ca-58d52706430e
 
 ( ) Complete [^elevatorpitch]
@@ -65,4 +89,15 @@ we venerate outcome-based narratives. Complication - When it comes to narratives
 * 450_narratives.txt // #pasta #family The case of the Pasta and the urgency of the live pasta. The cook, by asking yes/no for all ingredients in a certain order, implies a value system. It suggests a narrative and guidance. 
 
 --> 
+
+## Attempt to talk about theme, how we reason with narratives. 
+
+* Lacks - why 
+* Goal  - to improve, sort of ok 
+
+Our focus in this section is an opportunity to look at how entrepreneurs reason and act on the basis of the narratives that they experience and tell, especially in the face of urgency. In particular, if we understand how entrepreneurs decide based on narratives, it helps them to execute plans of entrepreneurship with more responsibility. 
+
+## Storytelling is a tool, serving rationality 
+
+In a traditional way of thinking, storytelling is a tool that can be used to our advantage, such as when a founder gives a pitch to an investor with the intention of receiving support. Or, from the perspective of acquiring feedback, a team presents a story in order to ask for advice. Therefore, as a tool where narratives - experienced or told - are working for the strategy. In this way of thinking, we believe that stories serves a rational plan, that it serves strategy, and that we are generally in control. 
 
