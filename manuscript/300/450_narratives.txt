@@ -119,7 +119,7 @@ Graham, P. (2012, September). Startup = Growth. Retrieved August 29, 2023, from 
 
 Another aspect to be noted is the implied notion that for every single thing that they didn't listened seems to correlate with something else that they have listed, which goes along with the following of instints. Another factor in the setting is that decision making happens on the basis of active listening - from sources from their networks - such as from people sources, sources where impression is likely a function. Now, it should be accounted, or reccounted here, that the world of modern startup is dynamic and that founders are navigating, either directly or indirectly, in a digital world as they execute their process. In other words, the pace of interactivity and the iterative nature of modern startup development brought founders to navigate with through shorter projects and consequently more decision making that happens in realtime with what happens. That, as opposed to a more reflective situation of a team that puts their heads down to write a full 250-page business plan likely involved in longer analysis and a focused effort before showing results. In addition to any networks informing them, we should also account that teams are now moving, advancing, with the support of lean movements that promotes lots of interaction on their way.
 
-Plus it should be accounted that the availability of data is also likely present and cheap to access. That data, or what appears to be data, that is easily acessible and might support startup needs as needs happens on their way. In other words, it is easier now to get advice online, free advice. It easier to match advice with methods and then advice plus methods plus data. It is easier to search for "a solution" just like a person with a condition might engage with searches as opposed to consulting a doctor. Althought it might seem odd that a smart team working in a startup cannot be compared with an average person that is suffering, or vulnerable, and engages in naively trusting web results; the perspective provided by Walter does not exclude smart people from the situation and in fact accomodates well how experts are likely able to fall, such as trusting instincs, as they are equally equipped with what will soon cover as the logic of good reasons. 
+Plus it should be accounted that the availability of data is also likely present and cheap to access. That data, or what appears to be data, that is easily acessible and might support startup needs as needs happens on their way. In other words, it is easier now to get advice online, free advice. It easier to match advice with methods and then advice plus methods plus data. It is easier to search for "a solution" just like a person with a condition might engage with searches as opposed to consulting a doctor. Althought it might seem odd that a smart team working in a startup to be compared with an average person that is suffering, or vulnerable, and engages in naively trusting web results; the perspective provided by Walter does not exclude smart people from the situation and in fact accomodates well how experts are likely able to fall, such as trusting instincs, as they are equally equipped with what will soon cover as the logic of good reasons. 
 
 And it should be noted the obvious, that all of this is good and meant to accelerate, and which goes without saying that the quality of the process depends on judgment, in the end of the day. But let's keep a possibility, that a full rational verification such as one that oversees what goes on, might not find its place in the heat of the decisions. 
 
@@ -149,7 +149,7 @@ As it is noticeable, these criteria for assessing good reasons, a logic, accepts
 
 Now, we shall also consider that the very basic mechanism of narrative in decision-oriented messages, that carries the logic of good reasons, is also used by any other participant in the team. Walter acknoledges that "The discourse that constitutes an interpreter's or critic's exploration of the values in messages will also inevitably express values. " (p.109)
 
-In other words, and logically, all participants can chime in with their own narratives, presenting their logic of good reasons, in front of an outstanding message; with the intention to help the team to make a decision, a call, in the face of the clock that is ticking, so that others can chime in and the decision happens more effectively. 
+In other words, and especifically in the collaborative setting, another factor of narratives has to do with how other participants chime in with their own logic of good reasons, in front of an outstanding message; with the intention to help the team to make a decision, a call, in the face of the clock that is ticking, so that others can chime in and the decision happens more effectively. 
 
 [Consider here a cartoon of the founder that came from outside the building, and has asked the team to pivot. And the next strip the cofounders just say - No no, 72h rule, shut up and let us continue. Notice that cofounders might be adding "good reasons" from Steve Blank which might exercise implictly some of the good reasons attributes such as consistency, and even transcendent values.  ]
 
@@ -163,10 +163,6 @@ In other words, and logically, all participants can chime in with their own narr
 
 ## Outcome-based storytelling   
 
-Works for scientific 
-
-> *"The criteria for assessing, say, a scientific text, will differ from those one would use in assessing a popular film, but the principles of coherence and fidelity apply no less to a scientific treatise than to a filmic communication. Furthermore, as I have said before, even technical discourse is imbued with myth, metaphor, and strategy or design."* (Fisher, 1989, p. 143)
-
 <!--
 
 Outcome-based works as good reasons. Anchors at various levels. 
@@ -175,9 +171,15 @@ Outcome-based works as good reasons. Anchors at various levels.
 
 --> 
 
-In this direction, starting with the obvious, we need to acknowledge that focusing on outcomes is a great feature of humans. It's on our alpha nature that we first target a salmon after having good reasons. And we found our ways to capture and bring back to our homes in a stick. Therefore, having an outcome in sight is a requirement that help us find our way to get solve the problem. 
+In this direction, starting with the obvious, we need to acknowledge that focusing on goals is a great feature of humans. Therefore, having a goal, such as good objective, in sight is a requirement that help us find our way to get solve the problem. It brings motivation to what is at stake. After stating a goal, then we generally come up with what prevent us to get to that and we need a tool. This is where it comes in the language that appeals to action and an outcome. Therefore one can easily access that the call to actions we come up are not an enemy of productivity and it pulls the team to move. 
 
-After stating an outcome, which is a language that pulls us towards the action of capturing the outcome, it comes the question of how to achieve. For that we use comparisons. In the "language of war", one could be after something that the other has it, such as the marketshare of a competitor. Comparison is in us to help us decide with less analysis, quickly. According to Michael Dearing, "these are things you have instinctively in you as a human being, who makes discriminating choices between one thing and another thing that might be better." (Dearing, M. (2013, July 16))
+What is complicated is not that outcomes are stated with clear narratives with a language of conquer in it themselves, even though many of these outcomes pursued are. But even when it is not, in the face of the setting that seem to be quite scientific of formal, a language that conquer naturally rises after the fact that the messages, the narratives of the day, are carried with intentions and aims improve the performance of teams for achieving future goals. In other words, it cant be detached, initially, that a language of political discourse appears in the face of the need to justify effort, such as more or less effort, in the fact of a future goal that needs approval of efforts, resources, commitment, etc. The messages from the outcomes start to augument a narrative that asks for improved performance.
+
+The rise of subjective narratives finds its way even in the very scientific setting. 
+
+> *"The criteria for assessing, say, a scientific text, will differ from those one would use in assessing a popular film, but the principles of coherence and fidelity apply no less to a scientific treatise than to a filmic communication. Furthermore, as I have said before, even technical discourse is imbued with myth, metaphor, and strategy or design."* (Fisher, 1989, p. 143)
+
+For that we use comparisons. In the "language of war", one could be after something that the other has it, such as the marketshare of a competitor. Comparison is in us to help us decide with less analysis, quickly. According to Michael Dearing, "these are things you have instinctively in you as a human being, who makes discriminating choices between one thing and another thing that might be better." (Dearing, M. (2013, July 16))
 
 We know that, when we wear shopping hats, when we pick the cheaper or the better. And we also know the cost of being stuck in analysis such as when we are in a hurry. 
 
@@ -198,8 +200,6 @@ Going back to entrepreneurs, and seeking a colorful example, consider the very s
 <!-- charge comic here? --> 
 
 Consider also here we also covering the time aspect that Walter Fisher brought up. 
-
-Consider - objection recognized under "by outcomes" that it is for scientific. Indeed the work of Walter Fisher is not specific to scientific communication or discourse. But is it promising and worth well the reflection. One pont if favor is that it's application is shown for the political discourse. Now, we could object to say that in the startup pathway there is no room for politics or any kind of political orientation in terms of communication. It is likely that we have the answer for that. That as companies growth, they show signs that politics happens, although it might be usually associated with mechanisms to measure performance such as the communication that goes on when one wants to growth. But then, performance evaluation is all around and it is quite interconnected with execution. In other words, it cant be detached, initially. Or it is worth assuming that political discourse is present in the face of decision making, approval for efforts, for resources, recognition of status that ends up supporting execution with other levels of performance, to give an example.  
 
 ## The Lean Dilemma 
 
