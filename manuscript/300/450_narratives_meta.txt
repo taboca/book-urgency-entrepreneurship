@@ -44,6 +44,7 @@
 ( ) Complete [^elevatorpitch]
 ( ) [^logicwaterfisher]: 
 
+( ) paulgraham_growth
 ( ) Complete review [^footnote_andygrove_peterdrucker]
 ( ) complete [^ericriesonfoundersnolean]:
 ( ) Complete "in a calling" - [^steveblankreferred]   
