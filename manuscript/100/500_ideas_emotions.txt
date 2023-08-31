@@ -1,4 +1,4 @@
-# Emoções em Tempo Real 
+# Realtime emotions
 
 <!--
 
