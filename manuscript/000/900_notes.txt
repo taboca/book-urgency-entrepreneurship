@@ -1,0 +1,12 @@
+## Notes Meta
+
+[^^creativedestruction]: Destruição Criadora (Creative Destruction) é um conceito proposto pelo economista Joseph Schumpeter que descreve o processo de transformação que acompanha a inovação radical. Segundo Schumpeter, as inovações empresariais de sucesso resultam na destruição de antigos arranjos econômicos e na criação de novos. Isso pode causar perturbações significativas, mas é uma força necessária e vital para o desenvolvimento econômico a longo prazo. 
+
+[^^oliverevans]: A ilustração do moínho automático de Evans, de domínio público, feita por James Poupard e documentada no trabalho intitulado The young mill-wright & miller's guide. 
+
+[^^grovefastdata]: No livro de Andy, Only the Paranoid Survive (Apenas o Paranoico Sobrevive), a frase citada em inglês é “A doutrina de gestão contemporânea sugere que você deve abordar qualquer debate e argumento com dados em mãos. É um bom conselho. Com demasiada frequência, as pessoas substituem opiniões por fatos e emoções por análise.” O alerta se aplica à situação que ele chamou de Ponto de Inflecção Estratégico, situações tão adversas e inesperadas que confundem as empresas. A Intel sobreviveu a situações de crise dessa magnitude e mais tarde também se tornou a protagonista. Nessas situações, os dados que antecipam podem ser enganosos. 
+
+[^^reference_johann_hari]: Como indicado no prefácio, a pesquisa de Sune Lehmann, referenciada por Johann Hari, no livro Foco Roubado, discute a limitação da atenção em face da abundância de informações e como afeta nossa capacidade de focar e nos envolver em reflexões. 
+
+[^^basecampcrazy]: Fried e Hansson são os fundadores da Basecamp, uma reconhecida empresa do Vale do Silício focada em produtividade. No livro "It doesn't have to be crazy at work", eles defendem que é preciso trabalhar contra os instintos e normas tóxicas da indústria para administrar uma empresa de forma tranquila. A expressão "É loucura no trabalho" é utilizada por eles para descrever um ambiente de trabalho onde a pressão, como excesso de horas de trabalho, e consequência como a ansiedade, são a norma; e rejeitam essa ideia em prol de um ambiente de trabalho mais calmo e equilibrado.
+
