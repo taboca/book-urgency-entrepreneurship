@@ -1,8 +1,18 @@
-# Estar disposto para planejar, refletir, analisar 
+# Willingness to start 
 
 <!-- 
 
+v2.1 
+
 * https://chat.openai.com/share/11e18a75-c970-41be-8e3a-9ed870e702b3
+
+* Abstract - The article "The Right Mood for Progress: Overcoming Paralysis by Analysis in Entrepreneurship" explores the natural inclination of individuals to gravitate towards tasks where they feel in control and the challenges they face when dealing with more complex activities in entrepreneurship. It highlights the fear of "paralysis by analysis," which can hinder decision-making and progress. Drawing from Julia Cameron's approach for writers, the article suggests an exercise involving self-reflection to overcome these barriers. By understanding their automatic tendencies and cultivating the right mindset, entrepreneurs can tackle demanding tasks with greater confidence and achieve success in their ventures.
+
+* SCqA - Situation - Analysis paralysis is real. 
+* SCqA - Complication - Not many talks about what comes before Analysis Paralysis, such as fear and control.  
+
+* Different - This article takes a different approach to the concept of "analysis paralysis" compared to typical discussions. It recognizes the importance of being in the right mindset for progress and incorporates a writing exercise from Julia Cameron to foster self-reflection. By embracing this approach, entrepreneurs can overcome challenges more effectively and strike a balance between preparedness and action.
+
 
 References
 
