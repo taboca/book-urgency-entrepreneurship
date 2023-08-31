@@ -1,8 +1,8 @@
-# Sucesso no empreendedorismo
+# Success 
 
 <!-- 
 
-v2.2 
+v2.3
 
 * English title - "Entrepreneurship success" 
 
@@ -20,6 +20,11 @@ v2.2
 ( ) [^druckerfatheradm] 
 
 ( ) Fix italic for **somebody** 
+
+
+* Consider the situation with Blitzscaling, p.289 and p.301 for the responsible Blitzscaling and requirement of Blitzscaling for the entrepreneur, which is to be an always learner, p.301, and also what Reid and Chris referred as paradox, p.301, which has to do with a need for estability and peace, which is a requirement which seems to aligh with diversity. 
+
+* ( ) Consider learning ? Of Reid Hoffman? 
 
 --> 
 
@@ -45,7 +50,7 @@ But Peter's viewpoint is enlightening as it does not suggest to our controller r
 
 Before we move to the following part which is a reflection about the well being that puts us in the right place to do a job well, I want to keep in sync with the idea of splitting yourself and to indicate that this notion can bring organization that is precise to what you have ahead of you. Consider what I do for my start-up, for example. I am proposing an startup that is quite agressive and wants to put a dent in the universe. It might use AI and other elements that are considered hot. It also promises to the customer target, the people with a need, that their professional lives will be better. But the job I do is an effort. And it is because I need to trust that the bad outcome is a possibility that I have to solve a problem. An example, I do have a customer. She is a psychologist and the so-far-product helps her. But the product might out of the sudden disappear. What should I do? What is the current plan that can split success when the actual "platform" can be broken? It is a sort of a contract that I wrote to myself. Where I said, or wrote, that I am doing an effort of work to help her. And, in case of failure of the start-up, the response plan is to do XYZ, such as to help her continue to improve her life. I can, for example, give to her the data of the project so that she can continue the work with others. Such as she feel that there is respect. Notice that a principle of well-being for the long run is present here and it is organizing the present situation of the start-up, for the customer, and as well for myself as a founder. One other component based on the same principle, that what I do is published, kept alive, so that the work I do can be seen. Therefore, and since controlling success is not possible, I can at least shown my progress. I can update my résumé constantly while doing the job. I can improve myself in being on time. I can improve my writing. I can study subjects. I lean listen. I can course-correct the plan after failing. These are traits of success that can be secured, for the person, aside from the actual effort of execution. A lot of professionals are quite professionals even when they are working for companies that had funding but out of the sudden the funding dries out. These folks can still have jobs after. And these folks should have a life always. 
 
-## Keep filling your well 
+## The well 
 
 As we seek for the winning condition of us as human beings, I want to start with the story of how I end up working at a well-known Silicon Valley company, a few Silicon Valley chapters before the Silicon Valley as we know it. Those were the days of the Silicon Valley of the browser days [^siliconvalleyofbrowserdays]. Before I arrived in Silicon Valley I was a sort of not so normal student. Seeing by collegues as creative, wearing an unusual outfit, always in the lab. I got in in 1993, when the movie Jurrassic Park was out. At the same time the Internet was also fresh. So I had the reasons to be in the lab and not to pay attention to the classes of the Computer Science course. Then later I was sort of invited to focus and complete, as opposed to leave university, when I was approaching 8 years, by 2000. I did a lot of things in there, made too many friends, had fun and also did some of the stuff that brought me the job at the company, at the time well-known, called Netscape. When I joined Netscape I might have normalized myself. There were too many new things, and excitement, and new systems in place keeping me in the line. So I would say that a bit of normalization started to happen. And it makes sense, doesn't? Except that it also happens that we enter work environments and start to learn how to climb our way using the stones in a big wall, as opposed to challenge the stones. 
 
@@ -99,7 +104,9 @@ But for entrepreneurs, such as founders, we can't ignore that function, that the
 
 [^steveblankfootnote2]: As indicated, Steve Blank suggests the idea to illustrate that entrepreneurs launch ideas first and need to adapt to the realities of the market.
 
-What founders can't see, not as clearly as they move with the process, is that their behaviour to engage to the development of an idea has ties with what they discovered before as they got involved with experiences in the world in the first place. Which aligns with the saying "it all starts with a problem you want to solve" [^userinnovationhint]. So they move, start failing and iterating, and things seem to change somehow when the idealized concretes start to fail, as in not accepted by the judges, such as the early people that they have contacted to get feedback, and themselves or other judges. But as they pour more energy, and deliver more concretes to the observers, and the world continues to not respond as expected, their movement with the process naturally pulls them into a place of executing their job without noticing that revising sources of energy (experiences that pulls creative effort) will contribute to the process. The resulting phenomenon is that is brings them into the state of felling stalled and having perceptions such as "we are not motivated as we were" or "things are not working" or "the market is not accepting" and the many variations of that. 
+## Interconnected well-being 
+
+What founders can't see, not as clearly as they move with the process, is that their behavior to engage to the development of an idea has ties with what they discovered before as they got involved with experiences in the world in the first place. Which aligns with the saying "it all starts with a problem you want to solve" [^userinnovationhint]. So they move, start failing and iterating, and things seem to change somehow when the idealized concretes start to fail, as in not accepted by the judges, such as the early people that they have contacted to get feedback, and themselves or other judges. But as they pour more energy, and deliver more concretes to the observers, and the world continues to not respond as expected, their movement with the process naturally pulls them into a place of executing their job without noticing that revising sources of energy (experiences that pulls creative effort) will contribute to the process. The resulting phenomenon is that is brings them into the state of felling stalled and having perceptions such as "we are not motivated as we were" or "things are not working" or "the market is not accepting" and the many variations of that. 
 
 [^userinnovationhint]: The concept of User Innovation (2015, May 19), and the work of Eric von Hippel, involves the idea that people modify tools or create new solutions after the fact that they want to solve real problems. 
 
@@ -112,6 +119,7 @@ MIT (Producer). (2015, May 19). User Innovation: A Path to Entrepreneurship [Vid
 And worse is when we think that it is the very specific idea, as we have sort of concretized in our minds, the one we pulled from that well, which was the big thing. As in, we become to proud of being the ones that delivered, the ones that have pulled a great thing from that well, that we dismiss that we are the ones that filled the well in the first place. That we gave us a chance to find a problem, to see a problem, in the first place. 
 
 The success we seek, ultimately, is not arrive at a scene as beings that somehow had stumbled in a state of well being; so that we brought ourselves in the readiness level where we can pull an idea of the hat, or a well, and then success is measured from our ability to execute and deliver to the world. As the matter depends on embracing the creative state of well being - which is a requirement for entrepreneurship - we must seek to understand that success is success in the long run, that we need to nurture ourselves to be able to pull solutions from the well as much as keep experiencing and act to fill that well. And that such effort has to be done also at an individual level, for everyone involved. 
+
 
 <!--
 
@@ -129,3 +137,6 @@ In case it seems confusing that creativity now was brought into this article abo
 Drucker, P. (2008). Managing Oneself. Harvard Business School Press. pp. 53-54.
 
 --> 
+
+* Consider the situation with Blitzscaling, p.289 and p.301 for the responsible Blitzscaling and requirement of Blitzscaling for the entrepreneur, which is to be an always learner, p.301, and also what Reid and Chris referred as paradox, p.301, which has to do with a need for estability and peace, which is a requirement which seems to aligh with diversity. 
+
