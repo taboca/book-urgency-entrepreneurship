@@ -1,8 +1,48 @@
-## As coisas que acontecem na "hora H"
+# The hour
+
+<!--
+
+* Abstract - This article from "Slow Down to Win, Business" stresses the importance of avoiding rushed decisions during high-pressure situations. The author advises embracing delay, respecting personal principles, and seeking multiple perspectives to navigate 'H-Hour' effectively. By assuming a proactive stance and avoiding dependence on external factors, individuals can make more informed choices and minimize the impact of urgent decision-making scenarios.
 
 * Princípios, Pilares
 * Resposta atrasada
 * Protagonismo
+
+Título: Tomada de Decisões Sob Pressão: Evitando a Armadilha da Urgência.
+
+I. Introdução
+
+Descrição do fenômeno de tomar decisões apressadas sob pressão
+II. A Ilusão da Urgência
+
+Muitas situações que parecem "no momento" na verdade não são urgentes
+Cair na armadilha de criar pressão desnecessária para nós mesmos
+Exemplos de como isso se manifesta em diferentes contextos
+III. Princípios e Pilares
+
+A importância de ter uma base de princípios para orientar a tomada de decisões
+Como manter-se fiel aos seus princípios pode evitar situações difíceis
+Exemplos de como isso funciona na prática
+IV. Despressurizar a Situação
+
+Estratégias para reduzir a pressão quando confrontado com uma situação de tomada de decisão
+O exemplo de Glen da Redfin e como ele aprendeu a pensar antes de responder
+Os benefícios de adotar uma abordagem mais deliberada à tomada de decisões
+V. Assumir o Protagonismo
+
+Como evitar ser aprisionado por pressões externas e assumir o controle da situação
+Exemplos de como assumir o protagonismo pode ajudar a evitar decisões apressadas
+A importância de ser proativo em vez de reativo
+VI. O Outro Lado da Moeda
+
+Reconhecer que a pressão pode não ser compartilhada por ambas as partes em uma situação
+O papel da preparação e do procedimento na evitação de decisões apressadas
+VII. Conclusão
+
+Recapitulação dos pontos principais
+Reflexões finais sobre como lidar com a tomada de decisões sob pressão.
+
+-->
 
 Quem nunca passou por uma situação de ter dado uma resposta que se arrependeu, debaixo de pressão. Daí quando o evento passa vem aquele segundo pensamento, livre da pressão, que chega a conclusões sobre o que deveria ter sido dito, o que poderia ser sido feito - tarde demais.
 
