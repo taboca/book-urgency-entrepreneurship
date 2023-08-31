@@ -1,53 +1,88 @@
-## The Jar of Happiness and the Accelerated Potential in Everything
+# Happiness pot and animation 
 
-One fine day, I, not particularly hungry, was on my way to the bakery to pick bread for my mother-in-law. I'm not especially attracted to sweets but somehow I became curious about the assortment of cakes and desserts in the display, one in special. As my eyes scanned the options they have settled on a peculiar item which brought my pupils to dilate. It was a sort of cupcake in a transparent plastic cup, much like a pint glass, comprised of several layers of something. Up to that point it seemed normal. But then, it had another common desert on top - a condensed milk pudding. That seemed to be the sort of item that elicits the phrase that many Brazilian know, nowadays, that "Brazilians need to be studied." 
+<!-- 
 
-![The image of a cupcake with a condensed milk pudding on top](images/second-layer-cake.jpg)
+v2.1
 
-You might not see the above as a problem but the sweet product that was placed on top is a common desert that stays on its own. It's being around like that. Apparently, somehow, someone thought that putting the pudding on top of the cupcake would add value. But I wasn't there to deal with that jar, as a consumer. Since I was intrigued, I have asked the attendant what that was. That's when she revealed the name as "The Jar of Happiness." At that moment, I could feel the allure that the jar - and its title - could exert on the life of a mortal who loves sweets. To me, it was an odd curiosity. So I had the time to imagine if the jar was animated, trying to sell itself. Hey buddy, I am the jar of happiness. I am here to charm you, to delight your day. After that moment, I walked out nervously, kicking the air. A few pigeons nearby flew away.
+[v2.1 - final, exercício reflexivo está na versão portugues]
+[!] Verificar, abaixo, inserir complicação. 
 
-Later, when everything calmed down, I recalled the imaginary situation (if jars could talk) and a sad realization came to me, which forms the basis for this reflection: These jars were talking. Many items, products, services, or methods, are in front of us, in the displays of life; when we go out looking for something. My motivation for this article springs from this alarming reality. It starts with the moment when we go out, as we're looking for something. We no longer go out just to do nothing. And this predisposition is the hook for us being besieged at spaces, before display windows, websites, search results, and more. 
 
-With this predisposition of ours - a need and a search - and the psychological harassment we experience when witnessing these "communicating products," we're halfway to what comes next - the transactional potential - which is our tendency to act, buy, engage, read, decide, you name it. The forward movement that every seller wants, that every solution needs, if they could speak. As they do. 
+-->
 
-## The Situation
+Num belo dia, eu, não particularmente faminto, estava a caminho da padaria para buscar pão para minha sogra. Eu não sou especialmente atraído por doces, mas de alguma forma fiquei curioso sobre a variedade de bolos e sobremesas na vitrine, um em especial. Enquanto meus olhos vasculhavam as opções, eles se fixaram em um item peculiar que fez minhas pupilas dilatarem. Era uma espécie de cupcake em um copo de plástico transparente, muito parecido com um copo de cerveja, composto por várias camadas de algo. Até aquele ponto, parecia normal. Mas então, tinha outra sobremesa comum em cima - um pudim de leite condensado. Parecia ser o tipo de item que provoca a frase que muitos brasileiros conhecem, hoje em dia, que "os brasileiros precisam ser estudados."
 
-We're constantly surrounded by options promising to help us accomplish tasks, solve problems, and reach our goals. Consider the electric oven ready to bake a pizza. Or a hotel room, available for a comfortable stay. Or that Jar of Happiness promising to satisfy our hunger and desire for sweets. Apparently, the situation is unremarkable in a world where we're no longer startled by what the displays promise. But another situation or phenomenon (needs verification to call it a phenomenon), embedded in this situation, comes from competition for consumer attention. The jars are vying for consumer attention. Jars, rooms, ovens, and other products, services, processes, methods, etc.
+![Imagem do cupcake com pudem de leite condensado](images/second-layer-cake.jpg)
 
-Indeed, it could not be different in a world of competing solutions. A company can create a better saw if it better understands the job-to-be-done1 of a carpenter facing a need. Once this product better meets the need, it becomes an available solution. This available solution can then be made available to potential customers. For this, positioning, a message, is important. When the product is displayed in real or digital shop windows, this product is contextualized within a story, a promising story.
+Você pode não ver isso como um problema, mas o doce que foi colocado em cima é uma sobremesa comum que se sustenta sozinha. Ela sempre existiu assim. Aparentemente, de alguma forma, alguém pensou que colocar o pudim em cima do cupcake agregaria valor. Mas eu não estava ali para lidar com aquele pote, como consumidor. Como estava intrigado, perguntei à atendente o que era aquilo. Foi então que ela revelou o nome como "O Pote da Felicidade". Naquele momento, eu pude sentir o encanto que o pote - e seu título - poderia exercer sobre a vida de um mortal que ama doces. Para mim, era uma curiosidade estranha. Então, tive tempo para imaginar se o pote fosse animado, tentando se vender. Ei, amigo, eu sou o pote da felicidade. Estou aqui para encantar você, para alegrar o seu dia. Após aquele momento, saí nervosamente, chutando o ar. Alguns pombos por perto voaram para longe.
 
-But coming back to the user, or customer, consider the person who goes about life solving their problems; or better yet, accomplishing a job. They might, almost automatically, find themselves under pressure to choose. Of course, this pressure doesn't come from the fact that products and services are screaming for our attention; but because they present a transactional potential that is appealing.
+Mais tarde, quando tudo se acalmou, lembrei-me da situação imaginária (se potes pudessem falar) e uma triste constatação me veio, que forma a base para esta reflexão: Estes potes estavam falando. Muitos itens, produtos, serviços ou métodos, estão à nossa frente, nas vitrines da vida; quando saímos em busca de algo. Minha motivação para este artigo surge desta realidade alarmante. Começa no momento em que saímos, pois estamos procurando algo. Não saímos mais apenas para não fazer nada. E essa predisposição é o gancho para sermos sitiados em espaços, diante de vitrines, sites, resultados de pesquisa e mais.
 
-Consider Uber's service, for example. We're no longer just choosing between taking a taxi or driving ourselves. Now, we have a myriad of Uber options at our disposal, each promising a slightly different travel experience. We have UberX, the most affordable option for daily commutes. Uber Comfort, offering newer and roomier cars for a more comfortable ride. Uber Black, for when we want to travel in style in a luxury black car. UberXL, for when we need a larger car to accommodate a larger group. UberSUV, for when we want the luxury of Uber Black, but in an SUV. UberPOOL, where we share our ride with other passengers to save money. Uber Green, for those preferring electric or hybrid vehicles. Uber Pet, for when we're travelling with our furry friends. Uber Assist, for those needing extra assistance getting in and out of the vehicle. And Uber WAV, for passengers who need a wheelchair-accessible vehicle. And that's just to name a few.
+<!-- 
 
-Now, imagine being presented with this list of options every time you need a ride. Often, the decision we make isn't based on what we genuinely need, but rather on what's most attractive or convenient at the moment.
+[!] Inserir - Complicação - aqui precisamos de um melhor lead que fala da complicação, razão para o leitor ficar
+--> 
 
-### No Time to Awaken
+Com essa predisposição nossa - uma necessidade e uma busca - e o assédio psicológico que experimentamos ao presenciar esses "produtos comunicantes", estamos a meio caminho do que vem a seguir - o potencial transacional - que é a nossa tendência de agir, comprar, envolver-se, ler, decidir, você escolhe. O movimento para frente que todo vendedor quer, que toda solução precisa, se pudessem falar. Como eles fazem.
 
-True awakening could occur if we could see beyond the enticing promises, if we could question the real value these tools and systems bring to our lives. If we had time to realize that we are constantly bombarded with appeals and promises, we could start resisting this pressure and making more conscious choices. But the most complex factor about this pressure is that it doesn't feel like pressure. We don't feel it. That day when I startled the pigeons, someone ordered the Jar of Happiness and didn't even notice the pressure, the narrative, the jar's screams.
+A Situação
 
-### The Three Levels of Harassment
+Estamos constantemente cercados por opções que prometem nos ajudar a realizar tarefas, resolver problemas e atingir nossos objetivos. Consider o forno elétrico que é pronto para assar uma pizza. Ou um quarto de hotel, que está disponível para uma estadia confortável. Ou aquele Pote da Felicidade que promete satisfazer nossa fome e desejo por doces. Aparentemente a situação não tem nada de mais em um mundo que nem mais ficamos assustados com o que as vitrines prometem. Mas outra situação ou fenômeno (checar sobre chamar de fenômeno), embutida nessa situação, vem da competição pela atenção do consumidor. Os potes estão competindo pela atenção do consumidor. Potes, quartos, fornos e outros produtos, serviços, processos, métodos, etc.   
 
-These items battle and in a way exert a form of harassment on our minds, given that we encounter them after going out to address a need. The first level of harassment - I'll call it the harassment of promise - is tied to the fact that these items communicate, promise immediate results. We are attracted to the idea that we can obtain a solution for what we want, now, without the need to wait or work for it. Many of the jars on bakery shelves are ready for consumption. Similarly, those wanting to bake a cake can find a ready solution for cookies in the supermarket's cake aisle.
+De fato, não poderia ser diferente em um mundo de soluções que competem. Uma empresa pode criar uma serra melhor caso ela souber melhor o trabalho-a-ser-realizado (job-to-be-done) [^jobtobedone] de um marceneiro diante de uma necessidade. Uma vez que esse produto atende melhor, torna-se uma solução disponível. Essa solução disponível pode então ser disponibilizada para possíveis clientes. Para isso é importante um posicionamento, uma mensagem. Quando o produto é apresentado nas vitrines reais ou digitais, esse produto está contextualizado dentro de uma história, uma história que promete. 
 
-The second level of harassment is the abundance of options. We are constantly navigating in front of tools and systems, each of which is promising to be better than the last. This can lead us to a state where we spend more time pondering which option to choose, bypassing the fundamental question of whether we need it at all.
+[^jobtobedone]: O conceito de "Job-to-be-Done", na visão do praticante Tony Ulwick, é uma abordagem focada na necessidade do cliente. Em vez de se concentrar em características demográficas ou comportamentais tradicionais, o "Job-to-be-Done" se concentra na ideia de que os clientes "contratam" produtos ou serviços para realizar um "trabalho" específico que persiste no tempo. Este "trabalho" é a necessidade fundamental que o cliente está tentando satisfazer ou o problema que está tentando resolver. Ao entender o "trabalho" que os clientes estão tentando realizar, as empresas podem projetar produtos e serviços que atendam melhor a essas necessidades. Isso permite identificar e atender a um mercado não tradicional, baseado na necessidade persistente, em vez de características demográficas ou comportamentais.
 
-The third level of harassment is the extras. These are all the impacts we will accumulate after deciding to engage with the items. We make a decision, we know it's good to decide. The world congratulates us for it. However, often these extras are the impact, the marginal cost, the unexpected outcome. If that Jar of Happiness were indeed animated, it probably wouldn't shout warning about the consequences, the post-consumption impact.
+Mas voltando ao usuário, ou cliente, considere a pessoa que anda pela vida resolvendo seus problemas; ou melhor, realizando um trabalho. Elas podem, quase que automaticamente, se verem diante de pressão para escolher. Lógico que essa pressão não vem do fato que produtos e serviços estão de fato gritando por nossa atenção; mas porque eles apresentam um potencial transacional que é apelativo. 
 
-### Reflective Conclusion
+Considere o serviço de aplicativo Uber, por exemplo. Não estamos mais apenas escolhendo entre pegar um táxi ou dirigir nós mesmos. Agora, temos uma miríade de opções Uber à nossa disposição, cada uma prometendo uma experiência de viagem ligeiramente diferente. Temos o UberX, a opção mais acessível para viagens diárias. O Uber Comfort, que oferece carros mais novos e espaçosos para um passeio mais confortável. O Uber Black, para quando queremos viajar com estilo em um carro preto de luxo. O UberXL, para quando precisamos de um carro maior para acomodar um grupo maior. O UberSUV, para quando queremos o luxo do Uber Black, mas em um SUV. O UberPOOL, onde compartilhamos nossa viagem com outros passageiros para economizar dinheiro. O Uber Green, para quem prefere veículos elétricos ou híbridos. O Uber Pet, para quando estamos viajando com nossos amigos peludos. O Uber Assist, para aqueles que precisam de assistência extra para entrar e sair do veículo. E o Uber WAV, para passageiros que precisam de um veículo acessível para cadeira de rodas. E isso é apenas para citar alguns.
 
-In a world full of options, it's easy to be drawn in by the promise of immediate results. However, it's important to remember that the most attractive or convenient option is not always the best for us. The idea of stopping, reflecting, and making conscious choices is simply not popular anymore. It might sound inappropriate, especially given the potential of the decision, the pressure that starts within us as we're spinning in the life's gear, at work. After all, nobody goes out to buy bread because they are taking a stroll. If we could do things differently, maybe we could avoid the pressure and focus on what really matters to us.
+Agora, imagine estar diante dessa lista de opções cada vez que você precisa de uma carona. Muitas vezes, a decisão que tomamos não é baseada no que realmente precisamos, mas sim no que é mais atraente ou conveniente no momento.
 
-At these times, facing the jars of happiness and the lists of options in the ride-sharing app menu, it would be good to be able to stop, pause over our almost automatic inclination to choose and decide. Imagine if we could ask ourselves:
+## Sem tempo para despertar
 
-Does this really meet my needs?
-Will this truly help me achieve my goals?
-Or am I just being drawn in by the promise of immediate results?
-By asking questions like these, you're already slowing down and may be able to make more conscious choices in a world full of options. And maybe, just maybe, you can start to see these "living" products and services with new eyes - the eyes of a critic, not a pressured consumer.
+O verdadeiro despertar poderia ocorrer caso pudéssemos ver além das promessas sedutoras, caso pudéssemos questionar o valor real que essas ferramentas e sistemas trazem para nossas vidas. Se tivessmos tempo para perceber que estamos sendo constantemente bombardeados por apelos e promessas, poderíamos começar a resistir a essa pressão e a fazer escolhas mais conscientes. Mas o fator mais complicado dessa pressão é que ela não tem tom de pressão. Não sentimos. Naquele dia que assustei as pombas, alguém pediu o Pote da Felicidade e nem percebeu a pressão, a narrativa, os gritos do pote. 
 
-I can't say that I was conscious, intentional, when I found the bizarre jar. Remember that I wasn't there to eat candy, or even to eat. My chance to see the jar screaming came from the fact that I wasn't a consumer at the right time. I could only look and analyze the situation with an external view.
+## Os Três Níveis de Assédio
 
-To "seal" a thought, and maybe even an opportunity. Consider if you could, one day, go to the supermarket after a large lunch. On that trip, try forcing yourself on a mission to buy things. Try to spend 5 minutes at each aisle, reflecting on how the products are communicating, how the products are screaming. Try to look over the products, those many that say "buy me, eat me, use me." And see that today they no longer clamor for your attention with mere screams. They project promises directly, without shouting.
+Esses itens lutam e de certa forma exercem um assédio em nossas mentes, dado que os encontramos depois que saímos para resolver uma necessidade. O primeiro nível de assédio - vou chamar de assédio da promessa - está ligado ao fato que os itens comunicam, promete, resultados imediatos. Somos atraídos pela ideia de que podemos obter uma solução para o que queremos, agora, sem a necessidade de esperar ou trabalhar para isso. Muitos dos potes de prateleiras das padarias estão prontos para consumo. Da mesma forma, quem quer fazer um bolo pode irá encontrar, no corredor de bolos do supermercado, uma solução pronta para cookies. 
 
-Now, these jars of solutions are everywhere. Reflect on the services, methodologies, systems. Notice how everything around you is promising. Notice how everything is appealing. How everything, as the Brazilian would say, grabs attention. Notice how you are likely trapped into the category of a promise, like a car or a pizza or a methodology for growing your start-up. Notice how we are likely comparing among options and being proud of looking for the best deal among. Notice how we are pulled towards decision, to move forward. Notice how consequences from deciding have less to do with the original promise and how solutions and decisions creates other events. 
+O segundo nível de assédio - o assédio das oções - acontece quando estamos navegando dentro de uma categoria, por exemplo a vitrine dos doces da padaria ou o menu de pizzas. Neste contexto, estamos cativados em uma vontade de encontrar a melhor opção dentro das opções, ponderando sobre qual opção será vencedora sem ter tempo de refletir se você precisava daquilo em primeiro lugar. Ainda, esse local onde somos colocados foi muito já estudado por psicólogos e especialistas em vendas e precificação. Considere, por exemplo, o menu de lanches abaixo, se a presença do lanche caro de R$ 56,00 poderia influenciar o usuário a pedir o lanche "barato" de R$ 25,00. 
+
+![](menu-lanches.jpg)
+
+O terceiro nível - o assédio da decisão - está ligado ao potencial de engajar, da decisão. Queremos decisão, sabemos que é bom decidir. O mundo nos parabeniza por isso. Porém de outro lado existem mensagens presentes na comunicação desses itens, trazendo sua mente para o ponto de decisão. Considere, por exemplo, que vendedores e criadores de *landing pages* são especialistas na criação do botão ou frase intitulada CTA ou *call to action*. Donald Miller, especialista em storytelling de marketing e autor do método StoryBrand, indica que a falta do *Call to Action* é como um episódio de namoro que deu certo mas que faltou a frase "Vamos casar?" 
+
+## Conclusão reflexiva 
+
+Em um mundo cheio de opções, é fácil ser atraído pela promessa de resultados imediatos. No entanto, é importante lembrar que nem sempre a opção mais atraente ou mais conveniente é a melhor para nós. A ideia de parar, refletir e fazer escolhas conscientes; simplesmente não é mais popular. Poderia soar como inapropriada, ainda mais diante do potencial da decisão, a pressão que começa em nós por estarmos girando na engrenagem da vida, do trabalho. Isso porque afinal de contas, ninguém sai para comprar pão porque está passeando.
+
+Nessas horas, diante dos potes da felicidade e diante das listas de opções no menu do transporte por aplicativo, seriam bom podermos parar, pausar sobre nossa inclinação quase automática para o escolher e decidir. Imagine se pudéssemos nos perguntar: 
+
+* Nível de objetivo - Se isso realmente atende às minhas necessidades?
+* Nível de objetivo - Isso realmente vai me ajudar a atingir meus objetivos?
+* Nível de objetivo - Ou estou apenas sendo atraído pela promessa de resultados imediatos?
+* Nível de comparação - Será que estou ponderando escolhas dentre um mar de opções irrelevantes? 
+* Nível de decisão - Eu preciso engajar? 
+* Nível de decisão - Se eu engajar, haverão efeitos colaterais? 
+
+Ao fazer perguntas como essas, você já estaria desacelerando. E talvez, apenas talvez, você possa começar a ver esses produtos e serviços "vivos" com um novo olhar, mais crítico, não de um consumidor que não sente a pressão natural do momento. 
+
+Eu não posso dizer que estava consciente, intencionado, quando encontrei o pote bizarro. Lembre-se que eu não fui lá para comer doces, nem mesmo para comer. Minha chance de ver o pote gritando veio do fato que não era um consumidor no momento certo na hora certa. Só pude olhar e analisar a situação com um olhar externo. 
+
+Para "lacrar" um pensamento e talvez até uma oportunidade. Considere se você pudesse, um dia, ir ao supermercado depois de comer muito no almoço. Nessa ida, tente forçar uma missão de comprar coisas. Tente ficar 5 minutos em cada gôndola, refletindo sobre como os produtos estão conversando, como os produtos estão gritando. Tente olhar os produtos, por cima, aqueles vários que dizem "me compre, me coma, me use." E veja que hoje eles não mais clamam por sua atenção com meros gritos. Eles projetam promessas de forma direta, sem gritos. 
+
+Agora, esses potes de soluções estão por toda parte. Reflita sobre os serviços, metodologias, sistemas. Perceba como tudo ao seu redor está prometendo algo. Perceba como tudo é atraente. Como tudo, como diria o brasileiro, chama atenção. Note como você provavelmente está preso na categoria de uma promessa, como um carro, uma pizza ou uma metodologia para expandir sua startup. Perceba como provavelmente estamos comparando opções e nos orgulhando de procurar a melhor oferta entre elas. Perceba como somos puxados para tomar decisões, para seguir em frente. Perceba como as consequências de decidir têm menos a ver com a promessa original e como soluções e decisões geram outros eventos.
+
+## Considerações e exercício reflexivo 
+
+Faça uma reflexão sobre como os produtos como metodologias se vendem. Exemplos: 
+
+* Artigos sobre empreendedorismo 
+* Business model canvas 
+* Lean start-up
+* Aceleradoras
+* Incubadoras 
+* Customer Discovery 
+
 
