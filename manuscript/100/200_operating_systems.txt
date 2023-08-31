@@ -2,6 +2,8 @@
 
 <!--
 
+* v2.1 not entirely translated from the pt-br 
+
 * Chatgpt - https://chat.openai.com/share/48e9d26f-4551-47f9-a69c-38206e0912c7
 
 * Prompt geral nível geral - Estou trabalhando no livro Desacelerar para Vencer, em Inglês Slowdown to Win. A parte 1 fala sobre o Eu vs. Urgências. A parte 2 o nós, times e colaboradores, a parte 3, a consciência do time no externo, o eles, vida, sistemas, entidades, contratos, relações com o externo. 

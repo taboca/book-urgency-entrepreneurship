@@ -1,94 +1,57 @@
-## Empreendedorismo e descoberta
+# Respect time 
 
-Todas as pessoas querem que algo bom aconteça com elas. Mas elas ou eles ou nós ou eu, pecamos. Neste sentido, apesar da nossa boa inclinação, vamos escolhendo certas atividades. Desenvolvemos preferências que não são boas para nossas metas. Às vezes achamos que uma atividade será boa e entramos de cabeça mas depois descobrimos que aquilo como o esperado. Esta questão é um assunto da relação entre o indivíduo e com o sistema, o mundo. O mundo interno versus o mundo externo. 
+<!--
 
-Uma coisa fica claro, que é pouco provável que organizamos uma forma de conduzir nossas atividades, ainda mais diante do mundo que está mudança, diante das realidade, diante do mundo que está cada vez mais acelerado. Vamos meio que executando o dia a dia, meio que na tentativa e erro, meio que vivendo e aprendendo. Para Fabricio Morini, essa ideia é chamada de fazejamento [^fabriciomorinifazejamento].
+v2.1 
+
+* Abstract - Balancing Resources, such as Time Use, Starts with the Individual 
+* Abstract - In the entrepreneurial journey, individuals face the challenge of finding the right balance between reactive execution and visionary planning. Some entrepreneurs react to external pressures and circumstances, while others meticulously plan for the future. Both approaches have their strengths and weaknesses, requiring adaptation and planning to thrive in a dynamic market. Managing time efficiently becomes critical as time is a limited resource. Recognizing the value of each individual's energy and respecting their time is vital for effective management. Embracing the cyclical nature of the learning process and allowing room for experimentation, reflection, conceptualization, and application is essential for entrepreneurial success. Courage, dedication, and the ability to make tough choices are key elements in finding this equilibrium and evolving in the entrepreneurial process.
+
+[SCqA] - Introdução falta SCqA. 
+
+[!] Seria interessante cobrir a questão de patrocínio, incubação, e zona de proteção. 
+
+[!] A corrupção do tempo, que vem da gente. Quermos manipular, queremos controlar. Na próxima parte teremos a oportunidade de ver como que chefes permitem que seus subordinados usem tempo por fora, como que eles podem melhorar seus scores, abusando do tempo de cada recurso, na promsessa de promoções. 
+
+[x] Removed whole confusing section at the end. 
+
+-->
+
+Todas as pessoas querem que algo bom aconteça com elas. Mas nós, em nossas infinitas escolhas e atividades, frequentemente erramos. Apesar da nossa boa inclinação, desenvolvemos preferências que podem nos levar a um bom caminho ou não. Às vezes, acreditamos que uma atividade será benéfica e nos lançamos nela de cabeça, mas descobrimos que não saiu como o esperado. Esta questão reflete a relação entre o indivíduo e o sistema, o mundo. O mundo interno versus o mundo externo.
+
+## Reagindo ao mundo: o empreendedor por necessidade
+
+Em um extremo do espectro empreendedor, temos aqueles que empreendem por necessidade. Impulsionados pela pressão do ambiente externo, eles reagem e executam. Seguindo o conceito de [^fabriciomorinifazejamento] de Fabrício Morini, esses empreendedores adotam um estilo reativo, movendo-se em resposta às pressões ambientais e sociais. Este método pode funcionar para muitos. O acaso de identificar maneiras de fazer melhor, a vontade de operacionalizar e responder aos clientes pode levar ao sucesso no tempo.
 
 [^fabriciomorinifazejamento]: Fazejamento é uma ideia que eu encontrei no livro de Fabricio Morini intitulado Faça seu Negócio Decolar. Inclusive eu troquei uma mensagem com o Fabrício via e-mail, uma forma de agradecer porque achei que ele contextualizou bem o que fazemos, o jeito que vamos fazendo e aprendendo. 
 
-Acredito que essa forma de encaminhar as coisas é também presente no mundo do empreendedorismo: Empreendedores tentam lançar ideias no mundo, ideias sonhadas. Mas diante da realidade, suas ideias não são exatamente aceitas e neste ponto surge frustração e até decepção com "a arte" de empreender. Nesse meio, muitos desistem. Neste meio, outros aprendem. Neste meio, outros tem sucesso. Neste meio, outros tem sorte. Só uma coisa não nos vem na mente, de cara, tão claro. Que neste meio, muitas vezes vivemos as coisas ao mesmo tempo, porque o mundo não é zero vs. um, tudo vs. nada, colorido vs. branco e preto. A realide é o mix de sorte, azar, cores, aprendizado, felicidade, tristeza, tudo.  
+No entanto, quando este modo de operação não funciona, a falta de planejamento pode ser desastrosa. Pode resultar em esgotamento do capital de giro, uma vez que a empresa não pode se dar ao luxo de errar por mais tempo.
 
-Uma coisa é clara neste livro sobre empreendedorismo. Não vamos focar no caso dos sortudos, como trazer receitas de sucesso, métodos específicos, fórmula para sucesso. Por outro lado, você terá uma oportunidade de refletir em cima lições de empreendedores e de suas startups. Ideias de empreendedores que descobriram que as ações dependem da realidade, do mundo, do mercado. Existe um tipo de empreendedor que vê o empreendedor como um protagonista que precisa responder ao mundo, mesmo quando suas ideias envolvem mudar o mundo. Acredito que esses inovadores encontraram um lado de disciplina, de rigor, um sistema de gestão. 
+## Planejando o futuro: o empreendedor visionário
 
-Em outras palavras, nossa jornada é para quem quer conquistar objetivos de inovação mas não sem contato com o mundo. Assim, podemos criar a nossa regra do jogo, para essa leitura, nossas reflexões. Vamos empreender engrenados na máquina, tudo bem? Vamos inovar sem ignorar o mundo, tudo bem? Essa ideia é bem articulada na colocação de Steve Blank que disse que nenhum plano de negócios sobrevive o primeiro contato com o cliente[^stevebusinessplan]. 
+No outro extremo, temos os empreendedores que planejam e olham para frente. Esses empreendedores concentram-se na visão e tentam transpor para a realidade. Eles elaboram planos de negócios meticulosos mas quando se colocam no mercado as coisas começam a dar errado.  Essa ideia é bem articulada na colocação de Steve Blank que disse que nenhum plano de negócios sobrevive o primeiro contato com o cliente[^stevebusinessplan].  
 
 [^stevebusinessplan]: O artigo do Steve Blank em inglês https://steveblank.com/2010/11/01/no-business-plan-survives-first-contact-with-a-customer-%E2%80%93-the-5-2-billion-dollar-mistake/
 
-Inspirado nessa ideia, podemos também formular uma versão para o indivíduo: Nenhum protótipo de pessoa sobrevive ao contato com a vida, sem aprender. 
+## A necessidade de adaptação e planejamento
 
-A realidade é que toda pessoa vive na rotina onde muitos dos problemas são problemas da relação com o mundo. O que acontece é que caímos na pegadinha de nos distanciarmos do mundo real. Acabamos muitas vezes cativados na mesma situação da grande maioria das ideias de startups: Vivendo em estado de frustração ou confinados com ideias em estágio de pré-lançamento, não se lançando ao mundo ou se lançando em um mundo menor, uma realidade do nosso plano inicial. A ideia do indivíduo que se lança ao mundo pode ser análoga com a ideia de lançar uma empresa:
+Nestes dois extremos apontados, surgem desafios que exigem adaptação e planejamento. Para o empreendedor reativo, há a necessidade de interromper a execução e planejar. Para o empreendedor visionário, há a necessidade de adaptar o plano de negócios à realidade.
 
-O paralelo da start-up: Uma ideia inicial, um sonho de produto e empresa, ainda que não se encontra adequado ao mercado (o mundo). Lançar essa start-up é menos relacionado com o "super lançamento", uma empresa já pronta com controle sobre o sucesso. A ideia, que precisa nascer ou sair da fase inicial, do protótipo de ideia, precisa adentrar um mercado mas sem passar em cima dos valores. Uma vez que se relaciona com o mundo, que provê serviços e ao mesmo tempo ganha lucros, ela passa se vê como adequada. Uma vez adequada ela quer se estabelecer no mercado de forma duradoura e produtiva. Para isso ela sabe que tem que fazer algo bom para seus constituintes: funcionários, sócios, investidores, fornecedores, clientes, e parceiros; consequentemente para o mundo.
+Muitos empreendedores se veem frustrados e até decepcionados com a arte de empreender quando suas ideias não são aceitas pelo mercado. Muitos desistem nesse momento. No entanto, vale lembrar que, se houvesse tempo, paciência, aprendizado e recursos ilimitados, não existiriam coisas que não funcionam. Em meio a todas essas experiências, alguns aprendem, alguns têm sucesso, outros têm sorte.
 
-Com isso vamos olhar para a pessoa como sendo uma ideia de pessoa que quer encontrar seu propósito, durar, prosperar. Com base no paralelo da startup, nós vamos trazer um pouco de rigor e gestão de produtividade - recomendações para uma vida melhor. Isso porque o mundo do empreendedorismo e gestão encontrou uma forma que dá suporte: Um pensamento para gerir o aprendizado diante de hipóteses, das experimentações, das falhas, com o objetivo de atingir verdades mais rápido.
+## Encontrando um equilíbrio
 
-Com base nas lições e reflexões do pensamento de empreender, as próximas seções são recomendações para uma melhor gestão do ser, do indivíduo.
+A realidade é que nem todos nós temos todo o tempo do mundo. À medida que enfrentamos desafios e prioridades concorrentes, nos encontramos na difícil situação de tentar criar mais tempo para fazer o que precisa ser feito. Mas a verdade é que o tempo é um recurso limitado e, mesmo que quiséssemos, não poderíamos simplesmente "abrir mais tempo". Em vez disso, o que precisamos é aprender a gerenciar nosso tempo de maneira mais eficiente.
 
-### Toda ação do indivíduo é uma atividade no mundo
+Isso começa com o reconhecimento de que a unidade fundamental de qualquer empreendimento, seja uma startup ou uma grande corporação, são as pessoas. Cada indivíduo, seja fundador, membro da equipe ou colaborador, contribui com sua energia única para a organização. E essa energia precisa ser respeitada e administrada de forma eficaz.
 
-Primeiro, vamos olhar para o mundo das startups mas logo depois vamos tirar uma comparação e lição que também funciona para o indivíduo. No lado da startup, podemos dizer que toda ação de uma startup é uma ação no mundo. Para empreendedores iniciantes essa ideia pode ser um tanto confusa justamente porque uma startup, sendo a empresa antes da empresa, é muito mais baseada na ideia, no conceito. Ou seja, na fase inicial ela não é o produto, não tem clientes nem parceiros nem constituintes.
+Não podemos simplesmente abrir mais tempo para tarefas importantes. Precisamos garantir que o tempo dedicado a essas tarefas seja bem utilizado. Isso implica permitir que cada pessoa faça sua parte, respeitando seu tempo e sua energia.
 
-Mas o empreendedorismo moderno nos ensina que não é necessário se distanciar do mundo simplesmente porque ainda não estão lançadas. Longe disso, de fato as startups encontram seus caminhos estabelecendo uma relação de interação com o mundo. Mas que mundo é esse? Como podem os sonhadores, os cofundadores, que tem ideias de ações românticas projetadas para um futuro poderem usar do mundo para lançar suas plataformas? 
+Além disso, também precisamos considerar o investimento necessário no processo onde a execução depende de aprendizado. Em outras palavras, é necessário contabilizar a natureza cíclica do processo e o tempo nas etapas como experimentação, reflexão, conceitualização e aplicação [^kolbmodel]. Em outras palavras, reconhecer o tempo para errar e aprender enquanto executamos. O equilíbrio entre esses fatores é crucial para um gerenciamento eficiente.
 
-#### A ação de design 
+[^kolbmodel]: O modelo de Kolb é uma teoria de aprendizagem experiencial, que postula que a aprendizagem é um processo que envolve quatro etapas: experimentação concreta, observação reflexiva, conceitualização abstrata e experimentação ativa. Este ciclo de aprendizagem foi proposto por David A. Kolb, que argumentou que essas quatro etapas são críticas para a compreensão e a aplicação efetivas de novos conceitos e habilidades. O espaço entre a reação e o planejamento é onde o verdadeiro empreendedorismo prospera. Neste espaço, aprendemos a nos adaptar às realidades do mercado e a encontrar tempo para planejar e refletir.
 
-Eles estabelecem uma ação de design. Isso pode ser visto como um arco, com início e fim. Primeiro, definem seus objetivos já que querem que suas ideias possam se transformar em produtos e colocadas no mercado. Então eles partem do princípio que eles podem sim fazer um esforço de design. E veja bem, design, para empreendedores não é a garantia de acertar. Longe disso. O processo de design justamente se relaciona com a ideia de colocar um norte e a partir do norte definir exercícios e interações com o mundo com o objetivo de aprender. Tem mais a ver com prever, prototipar, com reflexão, com permissão para conversar com o mundo; justamente porque podemos tentar casar dois lados: O lado da ideia com o lado da realidade do mundo (ou no caso das startups, do mercado). Nessa seara, empreendedores tentam criar rigor para ao mesmo tempo permitirem que suas ideias - malucas e potencialmente inadequadas - possam se situar em algum local (mercado). Eles só querem saber mais verdades e para isso eles vão elaborar hipóteses, ou proposições. Com isso, vão criar exercícios diversos que são da ordem da interação com o mundo. Eles fazem pesquisas, eles conversam, eles ouvem, eles ousam. Todas essas ações, feitas no mundo, muitas vezes são executadas sem mesmo a necessidade de fazerem apostas grandes. Ou seja, eles não precisam produzir algo imperfeito já que podem olhar para quem eles são, já que podem refletir sobre suas capacidades e sobre suas capacidades de aprendizado. Eles não precisam lançar um produto falho — eles podem sim entrevistar pessoas, conversar com experts, por exemplo.
-
-#### Comunicação e feedback 
-
-Então, do mundo dos empreendedores, nós temos uma lição para nosso empreendedorismo no nível pessoal:
-
-Podemos conversar com o mundo, ouvir mais, ousar mais; mesmo sem implementar. Podemos, com essa conversa, descobrir mais sobre nossas hipóteses, nossas frustrações, nossos anseios. A comunicação é nossa forma mais barata, muitas vezes feliz e positiva, de obtermos dados, como verdades, até receitas. Com ela podemos estabelecer uma conexão com o mundo e até oportunidades. 
-
-Por outro lado, devemos estar atentos sobre o mundo aparente, ao nosso lado, não ser o mundo real. Podemos sim testar nossas ideias (de vida, de prosperidade, como sonhos e objetivos) com um ambiente maior, mais real. Nenhum empreendedor lança algo novo perguntando para as pessoas ao lado, como família ou amigos. O espírito do empreendeder pede uma maior comunicação com o ambiente externo, justamente porque acredita na oportunidade. Antes de se lançar, ou melhor, no caminho de se lançar; você pode se prototipar, testar coisas que quer fazer. Só faça isso com o mundo, junto, não isoladamente. Não se deixe cair na pegadinha em tentar se lançar fazendo uma bela surpresa depois de muito esforço. Você pode aprender com a rotina, com o cotidiano, com o ambiente ao lado. 
-
-#### Falta de medição e atividadess engrenadas que cativam a narrativa 
-
-Neste sentido, a complicação que surge é quando a atividade do empreender está desconectada do mundo. Brian Chesky, fundador do Airbnb, teve a oportunidade de receber bons conselhos do empreendedor e investidor Paul Graham. Em um desses conselhos, revelado na entrevista com Reid Hoffman, disse que as “As startups não morrem, elas vão desaparecendo”. 
-
-Brian está se referindo a complicação dado que os fundadores são pessoas e elas possuem atividades, da vida: Suas atividades do dia a dia, conferências, férias, etc. Essas atividades de cada membro cofundador é o inimigo número um das startups, que podem faze-las irem sumindo devagar, desaparecendo. Mas pelo que possamos refletir sobre o elemento origem dessa anti-força, pessoas que tem suas vidas, suas atividades, que estão de fato dignamente trabalhando, envolvidos. 
-
-Em outras palavras, a realidade - das nossas vidas ou do mercado - dita as regras. Assim, empreendedores de sucesso sabem disso porque eles colocam uma agenda mais adequada, melhor atrelada, ao mercado — eles precisam de lançar seus projetos com um sistema de navegação que está ligado ao mundo e que lhes dá feedback. 
-
-##### Gestão do foco e energia 
-
-Assim a versão de foco ou dedicação no caso das startups é um grupo de cofundadores unidos que passam, com o tempo, a menos brigar com suas ideias diferentes porque eles se alinham cada vez mais com um norte externo, alimentado pelo mercado que é o mundo ou o ambiente externo. Inspirada nessa versão de foco das startups talvez as as pessoas também possam focar melhor. O focar, no domínio do pessoal, não precisa ser trabalhar por trabalhar, ou dedicar por dedicar — longe disto. Por outro lado, podemos estabelecer um compromisso com nós mesmos para, primeiro, sabermos que estamos vivendo ou trabalhando por uma razão: Estamos tentando descobrir e executar nosso projeto de vida. E diante desse projeto nós teremos muitas atividades que vão estar ocorrendo em paralelo e ligadas ao mundo; e que devemos ser conscientes da presença delas. Então podemos formular:
-
-Foco começa com a capacidade de perceber, identificar, o papel das atividades do nosso cotidiano em relação aos nossos objetivos de vida.
+A boa notícia é que, com coragem e dedicação, é possível encontrar um equilíbrio. Ao respeitar nosso próprio tempo - assim como o tempo dos que trabalham conosco - e ao reconhecer que cada um de nós contribui com uma energia única e ao dedicar tempo à aprendizagem em equipe, podemos não apenas ter sucesso no mundo do empreendedorismo, mas também evoluir no processo. A notícia ruim é que envolve coragem para fazer escolhas, como por exemplo escolher trabalhar menos quando parece que podemos usar mais recursos. Escolher cortar, escolher as batalhas. 
+hor.
 
 
-##### Saídas, sem tempo, e roubar tempo, sincronicidade e oportunidades 
-
-Mas sim, a vida ou nosso ambiente de convívio, pode nos colocar na sua frente tarefas e desafios complicados. Mas daí podemos justamente pedir ajuda ao espírito empreendedor que é criativo. Com um pouco de criatividade, você pode olhar para as atividades que faz hoje, pode ver como elas se relacionam ou se alinham com a área ou o rumo que você quer tomar, experimentar ou aprender.
-
-Em última instância podemos nos inspirar na visão apresentada por Brian Chesky — podemos olhar para o curso do barco que estamos e ver se ele não necessariamente está afundando de uma vez. Ele pode simplesmente estar navegando por um rumo qualquer ou podemos remar para um lado e as vezes para outro. Esse fenômeno de navegar por navegar, ou trabalhar por trabalhar, ou viver por viver é normalmente mais definidor de um futuro real e frustrante do que situações adversas que algumas pessoas vivem como por exemplo: Perder o emprego ou se verem na frente de um super desafio. Não é ao acaso que muitas das histórias de sucesso acontecem depois de coisas críticas ou até trágicas. Não é atoa que empreendedores nascem a partir da vida que tiveram em famílias desfuncionais — normalmente essas situações são mais adversas e trazem lições claras. A partir dessas lições da vida podemos articular que é melhor abraçarmos a ideia de aprender com a lição do momento do que deixar um barquinho navegando para qualquer lado em um nevoeiro.
-
-Apostando pequeno em apostas grandes
-
-As startups que viram empresas de sucesso sabem inserir suas hipóteses sem largar o que tem. Elas estabelecem um sistema de rigor para a avaliação de ideias e assim poderem acelerar quando for necessário….
-
-Estabelecer seus valores e identidade e permitir o progresso
-
-Adversidade é a premissa do espírito empreendedor
-
-Falhar deve servir para impulsionar
-
-Navegar por feedback: A arte e suas facetas
-Empreendedores de primeira viagem não sabem coletar feedback. Eles caem na pegadinha, por exemplo, de perguntarem feedback para pessoas como a mãe. A mãe dá proteção e pode sim mentir e a mentira dela, digna com base em honra, pode acabar com a chance de uma ideia virar uma empresa…
-
-Alguns empreendedores, um grupo muito menor, entende que o feedback é melhor quando ele é ponderado. O empreendedor de sucesso muitas vezes prefere um feedback naquele que não quer seu bem do que daquele que quer seu bem; justamente porque ele entende essa questão do falso-positivo.
-
-Nenhum plano pessoal deve ser rígido como o velho plano de negócios
-Podemos nos inspirar na articulação e metáfora de Steve Blank que diz que nenhum plano de negócios sobrevive ao contato com o primeiro cliente. Em seu artigo [1] foi apresentada a história da Iridium, uma super rede de celulares com 100% de faixa de cobertura no mundo feita por satélites; mas que quando lançou seu mega sistema em um investimento de 5.2 bilhões era tarde demais — o mundo já tinha celulares baratos.  Steve ponderou a realidade do novo mundo de negócios que não mais só se basear no tradicional plano de negócios, rígido demais. A antiga visão do plano de negócios precisava de um tratamento moderno baseado no aprendizado e na descoberta; com isso abraçando conceitos como pivotar e iterar.
-
-Se até negócios já aprenderam que não se pode escrever um plano rígido porque nós deveríamos abraçar oportunidades como se fosse um plano estático. Talvez podemos aprender, agora que até as grandes empresas já sabem, que nós podemos sim pivotar, que podemos iterar com o ambiente. Talvez possamos ficar de bem com a ideia de aprendizado e descoberta. Talvez ainda possamos não somente abraçar essa ideia mas engrenar em um jeito de viver menos rígido. O ser humano, como um recurso de um mundo em movimento, pode melhor se adaptar e se enquadrar. Uma vez que aceitarmos que as coisas estão em movimento, que estão dramaticamente mudando (justamente porque a civilização teve sucesso em certas áreas) nós poderemos melhor nos ver não como indivíduos estáticos, que tem um papel definido e rígido.
-
-As empresas grandes sabem disso — elas sabem que, por exemplo, aqueles que mais crescem são aqueles que mudam de rumo dentro de suas carreiras. A pivotada pessoal dentro da empresa é um fenômeno de inflexão pois muda tudo. Apesar de ser uma história que acontece ainda com poucos, na esfera corporativa, ela talvez tem menos a ver com sorte e mais a ver com a abertura que algumas pessoas se permitem. Algumas pessoas simplesmente tentam, ousam, ou se deixar. Vejamos — elas permitem que elas possam pivotar.
-
-Está dito mas já estamos vivendo isso — as pessoas mais vivem passando de empregos em empregos, tipo um emprego a cada punhadinho de anos. Então, por um lado, ainda não é tão típica a história da pivotação da pessoa que trabalha dentro da empresa; é mais típica a pivotação fora da empresa ou entre empresas.
-
-Agora, vamos pensar que nosso planeta é uma grande empresa. Se tudo é uma grande empresa podemos chegar a conclusão que todos estão mais e mais se testando, se conhecendo, se descobrindo; eles estão mudando de emprego dentro da mesma empresa. Que, no final do dia, ou dos dias, as pessoas estão mais e mais procurando uma adequação melhor. Isso é da natureza humana e da capacidade nossa de adaptação ao ambiente. O que nos confundiu foi justamente um período da indústria e da civilização onde nós humanos éramos usados pela nossa capacidade de trabalhar fisicamente — sim, uma condição imutável. Por outro lado agora podemos melhor abraçar nossa natureza, o ser que trabalha e modifica o mundo e que vive no mundo em transformação. Podemos sim abraçarmos a ideia que somos seres que trabalham com o conhecimento e sendo o conhecimento nosso meio e espaço podemos sim mudarmos nosso papel. Podemos sim pivotar e devemos acima de tudo estarmos abertos para encontrar nosso potencial, de felicidade inclusive porque com ela surge energia para caminhar, para descobrir.
-
-O futuro não é a situação onde pessoas de fato ficam transitando entre tentativas de adequação nas empresas e nos projetos com o mundo. O futuro é mais simples e diferente: Nós estaremos com 4-10 “empregos” ao mesmo tempo justamente porque essas coisas deixarão um pouco a ideia do emprego como prisão e segurança, aquele tradicional que você tinha que voltar acabado para sua casa. No novo futuro que deixa de ver as coisas como emprego fixo, ou trabalho, estamos mais aprendendo e simplesmente convivendo conosco e com o mundo, nos adaptando e buscando fazer o melhor. É um espaço de auto aprendizagem constante. Se abraçarmos essa ideia estamos mais aptos para esse mundo e convenhamos, ele pode ser melhor.
-
- [1] https://steveblank.com/2010/11/01/no-business-plan-survives-first-contact-with-a-customer-%E2%80%93-the-5-2-billion-dollar-mistake/

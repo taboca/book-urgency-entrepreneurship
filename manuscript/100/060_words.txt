@@ -2,11 +2,25 @@
 
 <!--
 
-* Chatgpt - https://chat.openai.com/c/aef35e38-35a0-4aa4-b570-6580e58e1ab6
+* Chatgpt -
+
 * Asbtract - 
 
+## To add https://chat.openai.com/c/aef35e38-35a0-4aa4-b570-6580e58e1ab6
+
 ( ) Check research of On Writing Well 
-( ) Check PG on words - http://www.paulgraham.com/words.html#f1n 
+
+( ) Check PG on wordds - http://www.paulgraham.com/words.html#f1n 
+
+The esteemed William Zinsser, author of "On Writing Well", shed light on the perils of language clutter that pervade our daily communications. Influenced by the omnipresence of modern media, we are perpetually immersed in a sea of words that unconsciously molds our narratives. Zinsser warns us of the hazards of transferring this 'clutter' into our own creative works, arguing for simplicity and directness in expression.
+
+Consider the oft-cited example from the Watergate scandal, when the presidential lawyer opted to use "at this point in time" rather than the succinct "now". The longer phrase may sound more sophisticated, but it is essentially an unnecessary expansion of a straightforward idea. In this manner, influenced by media and public communication, we find ourselves replicating such verbose expressions, adding to the clutter of our linguistic landscape.
+
+Extracting ourselves from this labyrinth of excessive words is not an easy task. The rapid rhythm of contemporary life plunges us into relentless communication overflowing with superfluous language. The risk arises when we inadvertently carry this clutter into our own writings, obscuring our intended message. Consider the redundant phrase: "My personal friend, who is my personal doctor, brought up a personal issue." The overuse of the word "personal" adds nothing but verbosity to the statement.
+
+By rigorously eliminating these extraneous words from our communication, we allow our messages to resonate with clarity and purpose. Zinsser provides numerous examples of clutter, from the telecom operator saying "All our agents are currently busy" to a news report stating that a missile hit the ground prematurely as "The missile impacted prematurely". His work underscores the importance of saying what we mean in the most direct and unembellished manner.
+
+William Zinsser taught us the power of simplicity and directness in communication. His teachings encourage us to sift through the deluge of words we encounter daily, to pause, reflect, and declutter our expressions. In doing so, we enhance the effectiveness of our communication and make a meaningful connection with our audience.
 
 -->
 
