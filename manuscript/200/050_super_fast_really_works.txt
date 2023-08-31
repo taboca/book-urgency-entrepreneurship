@@ -1,6 +1,8 @@
-## The Fast Pivot Illusions: The Complex Interplay of Urgency, Speed, and Entrepreneurial Success
+# The fast-pivoting illusion 
 
+<!--
 * Chesky, B. (2015, November 30). Blitzscaling 18: Brian Chesky on Launching Airbnb and the Challenges of Scale [Video]. Greylock. https://www.youtube.com/watch?v=W608u6sBFpo
+-->
 
 In the fast-paced world of startups, there's a magnetic attraction to the frenetic energy of founders who seem to run their companies at warp speed. They pivot at the drop of a hat, they work around the clock, they push their teams to their limits, and they constantly seek out the next big thing. Their stories are laced with tales of late-night brainstorming sessions, major breakthroughs under extreme pressure, and miraculous recoveries from the brink of failure.
 
@@ -28,8 +30,4 @@ Chesky also shared their early marketing strategy - repeated launches. Each laun
 
 In our exploration of entrepreneurship and its relationship with urgency and speed, the Airbnb story presents an intriguing paradox. Success can indeed arise from the volatile and fast-paced world of startups. Yet, beneath the surface, there's a slow dance of reflection, learning, and iteration. Success, it appears, is delicately balanced on this fine line, underlining the profound subtlety and complexity of entrepreneurial ventures.
 
-
-### References
-
-Chesky, B. (2015, November 30). Blitzscaling 18: Brian Chesky on Launching Airbnb and the Challenges of Scale [Video]. Greylock. https://www.youtube.com/watch?v=W608u6sBFpo
 
