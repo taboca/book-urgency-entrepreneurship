@@ -2,12 +2,47 @@
 
 <!--
 
-v2.1 
+v2.2 
+
+## abstract 
 
 * Abstract - Balancing Resources, such as Time Use, Starts with the Individual 
+
 * Abstract - In the entrepreneurial journey, individuals face the challenge of finding the right balance between reactive execution and visionary planning. Some entrepreneurs react to external pressures and circumstances, while others meticulously plan for the future. Both approaches have their strengths and weaknesses, requiring adaptation and planning to thrive in a dynamic market. Managing time efficiently becomes critical as time is a limited resource. Recognizing the value of each individual's energy and respecting their time is vital for effective management. Embracing the cyclical nature of the learning process and allowing room for experimentation, reflection, conceptualization, and application is essential for entrepreneurial success. Courage, dedication, and the ability to make tough choices are key elements in finding this equilibrium and evolving in the entrepreneurial process.
 
-[SCqA] - Introdução falta SCqA. 
+## SCqA 
+
+* scqa - Subject - Entrepreneurship is growth. 
+
+* scqa - Situation - Some entrepreneurs start with what seems to be vision. They dream of a new category of thing that can put a dent in the universe, like going to the moon or reinventing the way rockets can land.
+
+* scqa - Situation - Other entrepreneurs start with other needs such as to make money, to have success, as in the money maker. By the way Ayn Rand constrasts the money maker with the money appropriator. 
+
+* scqa - Situation - Others simply are pushed into a work, and they need to do that because, in a way, of money - such as paying the rent - but they are into that to grow, in a way to get out from whatever initial thing they are doing. 
+
+* scqa - Complication - When they are in it for a startup, and as learning happens, as they try to assemble their ship as they sail, and they find major roadblocks and figure that the model seems wrong. 
+
+* scqa - Situation - Others were driven with that seem to be what Eric von Hippel referred as User Innovation. They all started with a problem they wanted to solve. That function seems to be quite alive, as anyone might "live through the challenges first-hand" that gives them a viewpoint for what can be different, motivation to seek answers, perhaps even their connection with the story is a supporting factor that makes them run through the stages when stages change. Perhaps they find the right cofounders too on their ways, exactly because of their identity with their goals, the general story that likely supports them. In other words, a good mission and one that is really into that, shows to be effective. Unfortunatelly, there is not a lot of data for the many that had great vision, really first-hand experience, and even time and energy, but failed to find the right pieces such as good cofounders, or that heard an impressive investor, and where warped into fading, diying slowly [^footnote_brian_pg_startsfade].
+
+* scqa - Complication - With some of these pathways being promising, but the entrepreneurs capsule having rudimentar setting and limited fuel. The willingness to find a solution in a new world, a given path of effort, pulls. Part of them want to visit planet X because of love, part of them seem to know that time is moving, that fuel is being used. The complication is that, even when new data comes their way, such as insights from the team about management of resources, they fail to manage the fuel of the critical energy unit, the human being and each individual. The answer to the problem lies in respecttime and to know that time is relative. 
+
+* scqa - Key one - Journey into scaling models and reality  - To summary, all of these things could, perhaps, connect with how entrepreneurial journeys start. Perhaps the idea of "I will make a startup" fits in a wider bucket, in the end of the day. Let's be honest, and for that we need to look at some of the patters of growth, in terms of organizations. Some startups start with the ideal to scale fast but then notice that the area/domain chosen might need some other strategy for that. In Blitzscaling, Reid and Chris bring about the fact, or the test, that are things that could indeed have a scaling nature. But then, what happens with the entrepreneur, the team, founders call it whatever you want that are into something and then out of the sudden comes to notive a big - oh, wait, I thought I was doing X with a Y model but reality is different. I thought I knew how relativity works. And the metaphor here, slightly implied, of an entrepreneur that dives in a space journey within a capsure warping hyperfast, sort of believing that she is strong and that the thin layer won't break, is in fact, when new worlds are ahead, going to come across such big waves and the real experience of being there, where time seems to move slow, but when they come back from these journeys, hopefully alive to experience and tell what has happened, they are then, to start that experience by first notice that time has moved too fast for whowever where down to earth. And then, sayings such as "I thought I was making a startup, that would have time to visit that planet and come back with a solution to people from Earth" but this mission, lazarous , somehoew brought me here, older and I hope wisier, to tell that reality is different. And I don't even know if I went there in the first palce to save the people from earth. Maybe I am just wanted to learn what is out there. We should keep annotated, that some of these astronauts do find interesting new worlds and ways to change reality of earth, and ways to impact people from earth. When that journey involves the right team, the right planet, and a lot of learning that helps them to assemble what they need, on the go, or when they get support from the beings of a higher dimension, yes, it seems to be amazing journey. Is what I hear from people that reported on the actual life journeys. 
+
+* scqa - key 1 - Respect the individual, and establish learning about self. Consider let it go and the post-mortem freedom of that. 
+
+* scqa - key 2 - Respect time of team - and respect management. Consider team let it go and the post-mortem freedom of that. 
+
+* scqa - key 3 - Respect time of investing and respect risk. Consider let it go and the post-mortem freedom of that. 
+
+## Article motivations for Fred 
+
+* Fred brought a problem of "fathers" that pay people, that some of them are protected 
+* Marcio wants to find something optimistic, that is good for everyone 
+* Fabricio Morine talked about fazejamento, which is not enough 
+* Maslow believed, after the summer in California, that companies could help people growth which is a sensitive subject as the demands of a manager/company culture might put the individual is a pressured condition of not able to walk through, such as to support pressure that touches on improvement areas in interms of psychological well-being, or endurance to some pressures such as artificialized pressure.  
+
+## Ideas to integrate 
+
 
 [!] Seria interessante cobrir a questão de patrocínio, incubação, e zona de proteção. 
 
@@ -17,7 +52,27 @@ v2.1
 
 -->
 
-Todas as pessoas querem que algo bom aconteça com elas. Mas nós, em nossas infinitas escolhas e atividades, frequentemente erramos. Apesar da nossa boa inclinação, desenvolvemos preferências que podem nos levar a um bom caminho ou não. Às vezes, acreditamos que uma atividade será benéfica e nos lançamos nela de cabeça, mas descobrimos que não saiu como o esperado. Esta questão reflete a relação entre o indivíduo e o sistema, o mundo. O mundo interno versus o mundo externo.
+Some entrepreneurs start with what seems to be vision. They dream of a new category of thing that can put a dent in the universe, like going to the moon or reinventing the way rockets can land. Other entrepreneurs start with other needs such as to make money, to have success, as in the money maker. By the way Ayn Rand constrasts the money maker with the money appropriator. Others simply are pushed into a work, and they need to do that because, in a way, of money - such as paying the rent. What seems to be common among many of the situations is that they are, in a way, into that entrepreneurial journey with a goal to grow, in a way to get out from whatever initial state they were into and into another better state where they do want to give value and take some benefits of it. 
+
+The complication of the journey to grow is failure, which is a known outcome of any growth aspect. Growth simly does not happen without failure, although learning comes after. Some of the practitioners, or mentors or parters, might recognize failure, and resillience in the face of failure, as traits, needed traits to this journey. Fail, fail, fail, and learn, fail fast, learn fast, that sort of idea. This is also part of the entrepreneurial setting situation. 
+
+But what really seems complicated is that in the face of this general growth need, many pick a given path. It's not a complication, it's a door. But once the door is openned, it is trick to get out from it. It is not that the person has the "entrepreneurial room" where they can enter that dorm sometimes, live through the challenges of doing it, and then go to the living room, to live a little. No, it's more like a time-capsure or a space ship. The journey of entrepreneurship generally, at least it seems to be up to nowadays, happen to be a journey with certain destination and certain setting that really seems to define the hard reality. Once you are launched, whatever is your start, you are likely to be compelled to move at high speed. 
+
+Then, the real complication comes. Again, you can't go back to base. You can't say "Houston, we have a problem", and worse, it is really difficult to see the origin of problems. As an example, a startup path can't be a precise best path for any idea that comes the way of a founder. The startup path is one of the paths, and pulls towards growth but the idea and the motivations of the founder, when of other origin, can pull them to later figure that they were in a startup sort of ship, moving at hyper speed, or what seems to be hyper speed, but they find themselves locked in a sort of prison. Eventually they are caught, after time passes, to figure learning. TIme will always solve the equation, time is the universal underlying thing.  Them, the real complication, is that founders deny time beyond anything. This article is about honoring time. 
+
+* scqa - Situation - Others were driven with that seem to be what Eric von Hippel referred as User Innovation. They all started with a problem they wanted to solve. That function seems to be quite alive, as anyone might "live through the challenges first-hand" that gives them a viewpoint for what can be different, motivation to seek answers, perhaps even their connection with the story is a supporting factor that makes them run through the stages when stages change. Perhaps they find the right cofounders too on their ways, exactly because of their identity with their goals, the general story that likely supports them. In other words, a good mission and one that is really into that, shows to be effective. Unfortunatelly, there is not a lot of data for the many that had great vision, really first-hand experience, and even time and energy, but failed to find the right pieces such as good cofounders, or that heard an impressive investor, and where warped into fading, diying slowly [^footnote_brian_pg_startsfade].
+
+* scqa - Complication - With some of these pathways being promising, but the entrepreneurs capsule having rudimentar setting and limited fuel. The willingness to find a solution in a new world, a given path of effort, pulls. Part of them want to visit planet X because of love, part of them seem to know that time is moving, that fuel is being used. The complication is that, even when new data comes their way, such as insights from the team about management of resources, they fail to manage the fuel of the critical energy unit, the human being and each individual. The answer to the problem lies in respecttime and to know that time is relative. 
+
+* scqa - Key one - Journey into scaling models and reality  - To summary, all of these things could, perhaps, connect with how entrepreneurial journeys start. Perhaps the idea of "I will make a startup" fits in a wider bucket, in the end of the day. Let's be honest, and for that we need to look at some of the patters of growth, in terms of organizations. Some startups start with the ideal to scale fast but then notice that the area/domain chosen might need some other strategy for that. In Blitzscaling, Reid and Chris bring about the fact, or the test, that are things that could indeed have a scaling nature. But then, what happens with the entrepreneur, the team, founders call it whatever you want that are into something and then out of the sudden comes to notive a big - oh, wait, I thought I was doing X with a Y model but reality is different. I thought I knew how relativity works. And the metaphor here, slightly implied, of an entrepreneur that dives in a space journey within a capsure warping hyperfast, sort of believing that she is strong and that the thin layer won't break, is in fact, when new worlds are ahead, going to come across such big waves and the real experience of being there, where time seems to move slow, but when they come back from these journeys, hopefully alive to experience and tell what has happened, they are then, to start that experience by first notice that time has moved too fast for whowever where down to earth. And then, sayings such as "I thought I was making a startup, that would have time to visit that planet and come back with a solution to people from Earth" but this mission, lazarous , somehoew brought me here, older and I hope wisier, to tell that reality is different. And I don't even know if I went there in the first palce to save the people from earth. Maybe I am just wanted to learn what is out there. We should keep annotated, that some of these astronauts do find interesting new worlds and ways to change reality of earth, and ways to impact people from earth. When that journey involves the right team, the right planet, and a lot of learning that helps them to assemble what they need, on the go, or when they get support from the beings of a higher dimension, yes, it seems to be amazing journey. Is what I hear from people that reported on the actual life journeys. 
+
+* scqa - key 1 - Respect the individual, and establish learning about self. Consider let it go and the post-mortem freedom of that. 
+
+* scqa - key 2 - Respect time of team - and respect management. Consider team let it go and the post-mortem freedom of that. 
+
+* scqa - key 3 - Respect time of investing and respect risk. Consider let it go and the post-mortem freedom of that. 
+
+Todas as pessoas querem que algo bom aconteça com elas. De alguma forma parece que nós, diante de sonhos e supostas escolhas, frequentemente erramos. Apesar da nossa boa inclinação, desenvolvemos preferências que podem nos levar a um bom caminho ou não. Às vezes, acreditamos que uma atividade será benéfica e nos lançamos nela de cabeça, mas descobrimos que não saiu como o esperado. Esta questão reflete a relação entre o indivíduo e o sistema, o mundo. O mundo interno versus o mundo externo.
 
 ## Reagindo ao mundo: o empreendedor por necessidade
 
@@ -35,23 +90,28 @@ No outro extremo, temos os empreendedores que planejam e olham para frente. Esse
 
 ## A necessidade de adaptação e planejamento
 
-Nestes dois extremos apontados, surgem desafios que exigem adaptação e planejamento. Para o empreendedor reativo, há a necessidade de interromper a execução e planejar. Para o empreendedor visionário, há a necessidade de adaptar o plano de negócios à realidade.
+Muitos empreendedores se veem frustrados e até decepcionados com a arte de empreender quando suas ideias não são aceitas pelo mercado, ou qualquer que seja a forma rudimentar que eles encontram de medir interesse do mercado. No lado do que está sempre fazendo, uma frustração sobre a situação atual nunca dará margem para ousar e testar uma oportunidade grande, a chance de crescer. O que podemos tirar tisso é uma ideia sobre a situação ser as duas faces da mesma moeda. É o mesmo problema estampado, uma prisão que nos colocamos e uma oportunidade de refletirmos sobre o tempo e a relatividade. 
 
-Muitos empreendedores se veem frustrados e até decepcionados com a arte de empreender quando suas ideias não são aceitas pelo mercado. Muitos desistem nesse momento. No entanto, vale lembrar que, se houvesse tempo, paciência, aprendizado e recursos ilimitados, não existiriam coisas que não funcionam. Em meio a todas essas experiências, alguns aprendem, alguns têm sucesso, outros têm sorte.
+Nestes dois extremos apontados, surgem desafios que exigem adaptação e planejamento. Para o empreendedor reativo, há a necessidade de abrir espaço a partir da execução, olhar para frente e planejar. Para o empreendedor visionário, há a necessidade de adaptar o plano de negócios à realidade, buscar resultados que geram recursos para ações de maior risco. 
+
+No entanto, vale lembrar, que se houvesse tempo, paciência, aprendizado e recursos ilimitados, não existiriam coisas que não funcionam. Mas como tempo não é infinito, temos que em meio a todas essas experiências, o que temos, no dia a dia, tem mais a ver com mais ou menos energia consumida, mais ou menos investimento, mais ou menos planejamento, mais ou menos falhas, mais ou menos sucesso. 
 
 ## Encontrando um equilíbrio
 
-A realidade é que nem todos nós temos todo o tempo do mundo. À medida que enfrentamos desafios e prioridades concorrentes, nos encontramos na difícil situação de tentar criar mais tempo para fazer o que precisa ser feito. Mas a verdade é que o tempo é um recurso limitado e, mesmo que quiséssemos, não poderíamos simplesmente "abrir mais tempo". Em vez disso, o que precisamos é aprender a gerenciar nosso tempo de maneira mais eficiente.
+A realidade é que não temos o tempo, do mundo. À medida que enfrentamos desafios e prioridades concorrentes, nos encontramos na difícil situação de tentar criar mais tempo para fazer o que precisa ser feito. Mas a verdade é que o tempo é um recurso limitado e, mesmo que quiséssemos, não poderíamos simplesmente "abrir mais tempo". Em vez disso, o que precisamos é aprender a gerenciar nosso tempo de maneira mais eficiente.
 
 Isso começa com o reconhecimento de que a unidade fundamental de qualquer empreendimento, seja uma startup ou uma grande corporação, são as pessoas. Cada indivíduo, seja fundador, membro da equipe ou colaborador, contribui com sua energia única para a organização. E essa energia precisa ser respeitada e administrada de forma eficaz.
 
-Não podemos simplesmente abrir mais tempo para tarefas importantes. Precisamos garantir que o tempo dedicado a essas tarefas seja bem utilizado. Isso implica permitir que cada pessoa faça sua parte, respeitando seu tempo e sua energia.
+Não podemos simplesmente abrir mais tempo para tarefas importantes, como quem utiliza o tempo que já tem com o urgente mas deixa uma nova pauta - abrir mais tempo para essa outra exploração. Precisamos garantir que o tempo dedicado a tarefas seja bem utilizado. Isso implica permitir que cada pessoa faça sua parte, respeitando seu tempo e sua energia.
 
-Além disso, também precisamos considerar o investimento necessário no processo onde a execução depende de aprendizado. Em outras palavras, é necessário contabilizar a natureza cíclica do processo e o tempo nas etapas como experimentação, reflexão, conceitualização e aplicação [^kolbmodel]. Em outras palavras, reconhecer o tempo para errar e aprender enquanto executamos. O equilíbrio entre esses fatores é crucial para um gerenciamento eficiente.
+Podemos falar algo a mais aqui, não? SObre o respeito a energia do ser humano e sobre a criação de modelos de permissão para certas análises em outra perspectiva. 
+
+A partir dessa ideia, precisamos considerar o investimento necessário no processo onde a execução depende de aprendizado. Em outras palavras, é necessário contabilizar a natureza cíclica do processo e o tempo nas etapas como experimentação, reflexão, conceitualização e aplicação [^kolbmodel]. Em outras palavras, reconhecer o tempo para errar e aprender enquanto executamos. O equilíbrio entre esses fatores é crucial para um gerenciamento eficiente.
 
 [^kolbmodel]: O modelo de Kolb é uma teoria de aprendizagem experiencial, que postula que a aprendizagem é um processo que envolve quatro etapas: experimentação concreta, observação reflexiva, conceitualização abstrata e experimentação ativa. Este ciclo de aprendizagem foi proposto por David A. Kolb, que argumentou que essas quatro etapas são críticas para a compreensão e a aplicação efetivas de novos conceitos e habilidades. O espaço entre a reação e o planejamento é onde o verdadeiro empreendedorismo prospera. Neste espaço, aprendemos a nos adaptar às realidades do mercado e a encontrar tempo para planejar e refletir.
 
-A boa notícia é que, com coragem e dedicação, é possível encontrar um equilíbrio. Ao respeitar nosso próprio tempo - assim como o tempo dos que trabalham conosco - e ao reconhecer que cada um de nós contribui com uma energia única e ao dedicar tempo à aprendizagem em equipe, podemos não apenas ter sucesso no mundo do empreendedorismo, mas também evoluir no processo. A notícia ruim é que envolve coragem para fazer escolhas, como por exemplo escolher trabalhar menos quando parece que podemos usar mais recursos. Escolher cortar, escolher as batalhas. 
-hor.
+A boa notícia é uma triste notícia. Em geral, demanda um preparo de coragem, mais do que dedicação, para explorar o equilíbrio. Explorar porque não sabemos exato o que é esse espaço de equilíbrio. Ao respeitar nosso próprio tempo - assim como o tempo dos que trabalham conosco - e ao reconhecer que cada um de nós contribui com uma energia única e ao dedicar tempo à aprendizagem em equipe, podemos, em primeiro lugar, ter sucesso na questão do crescimento interno do(s) empreendedor(es), do time, o que é crítico para qualquer sucesso no ambiente do time, na cultura, que faz o resultado do empreendedorismo e mais chances para a cultura de crescimento. Ou seja, crescimento interior é crucial para qualquer crescimento no mundo do empreendedorismo. Isso é evoluir no processo e o processo. 
+
+Talvez faça sentido encontrar algum dado onde alguém diz que Reid Hoffman é muito bom em fazer uma lista do que tem que ser feito e cortar ela no meio, ou seja, ignorar as partes de baixo. 
 
 
