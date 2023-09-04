@@ -4,7 +4,7 @@
 
 ## Version 
 
-* v3.1 - "main" English is ahead. 
+* v3.2 - "main" English is ahead. 
 
 
 ## Dictionary, words 
@@ -40,6 +40,11 @@
    communicate what he needs to know to him in your memo.
 
 ## Chatgpt - https://chat.openai.com/share/6eef3d42-b1ae-4ceb-88ca-58d52706430e
+
+
+## Review 
+
+( ) Evaluate if "pressure for deciding comes our way" as in are we  compulsively in a quest trying to solve something? Research here the reference from  Johan Hari, in p 37, indicates that "Normalmente, costumava acompanhar notícias de hora em hora, o que significava um pinga-pinga constante de factóides que geravam ansiedade, fazendo com que tentasse juntar tudo em algo que fizesse sentido. " P.37  / This could well relate to a point that Marcio brought in the narrative article where the transactional nature in front of the iterative nature compells the entrepreneur to a sort of labirint of events and data that might not support the process of achieving clarity about what is going on.
 
 ( ) Complete [^elevatorpitch]
 ( ) [^logicwaterfisher]: 

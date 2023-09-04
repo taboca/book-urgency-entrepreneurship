@@ -2,6 +2,13 @@
 
 <!--
 
+
+## Todo consider 
+
+* ( ) In the book of Johann Hari, Stolen Focus, p.23, he Brings the situation that our limited "focus window" he didn't write window but he refers to limited ability to focus, conveys or supports our inclination to not be a me to fully engage with solving the challenges ahead of us. He refers to lack of attention causing too a social impact, lots of problems e everywhere. He asks why and suggests that "Em parte, penso eu, porque, quando a atenção se rompe, a solução de problemas também fica comprometida. " P.23
+
+## Meta prior 
+
 * Abstract - The abstract discusses the true cost of corruption and its implications for entrepreneurs. It draws parallels between the time and energy spent managing corruption (the upper part of the iceberg) and the neglect of focusing on important issues that could prevent such problems in the first place (the lower part of the iceberg). The abstract suggests that entrepreneurs should avoid falling into a reactive mode of execution, solely focused on putting out fires, and neglecting strategic planning. It emphasizes the importance of balancing tactical execution with strategic thinking to address deeper problems and foster innovative solutions. The abstract also explores the dilemma of artists and entrepreneurs who juggle creation and management, emphasizing the need for better production management. The potential dangers of reacting to external pressures and feedback without considering the bigger picture are highlighted. Ultimately, the abstract emphasizes the importance of continuous learning and adaptability for entrepreneurs in order to prevent falling into the trap of reactive execution.
 
 * This section is very much in alignment with the section 200/100_reactinary_execution.txt
