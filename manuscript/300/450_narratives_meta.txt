@@ -4,8 +4,7 @@
 
 ## Version 
 
-* v3.2 - "main" English is ahead. 
-
+* v3.3 - "main" English is ahead. 
 
 ## Dictionary, words 
 
