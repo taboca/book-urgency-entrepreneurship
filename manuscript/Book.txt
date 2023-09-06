@@ -18,6 +18,7 @@
 100/500_ideas_emotions.txt
 100/510_ideas_emotions_judgement.txt
 100/600_valley_difficulties.txt
+#100/630_fast_cliches.txt
 100/650_art_and_urgency.txt
 100/670_irreducible_collaborator.txt
 100/700_praise_navigation_ability.txt

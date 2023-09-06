@@ -1,0 +1,44 @@
+<!-- 
+
+v2.4
+
+## Review
+
+* ( ) Check if Maslow and the situation of the salesman wasn't already included in other chapter - "The notion for splitting the love" resonates with the view of the present salesman vs. future enlighted salesman which is pointed by Abraham Maslow in Maslow on Managenent. 
+
+## Authors
+
+* Julia Cameron 
+* Peter Drucker 
+* Brian Chesky 
+* Reid Hoffman
+* Steve Blank  
+* Abraham Maslow 
+
+## Titles 
+
+* English title v0.3 - The mesh of success (inspired by Julia Cameron p108 of The Right to Write)
+* English title v0.2 - Success 
+* English title - "Entrepreneurship success" 
+
+* Linked from - Part 2, 150_controlling_control.txt
+
+* Abstract - prompt, abstract this text plus goals from the intro, and make a book side note that goes on the flip of cover sheets of books. How you call those pages with summaries that covers the book? 
+
+* thanks - Fabricio 
+
+* Review Julia Cameron citation, 
+* Review Robert McKee citation which refers to the prior citation we already used in 750_urgency_to_please.txt 
+* Review reference to OKR, check if it is a process.
+* Review footnote steveblank again / steveblankfootnote2, which relates to 020_rainbow_grayscale.txt 
+
+( ) [^druckerfatheradm] 
+
+( ) Fix italic for **somebody** 
+
+
+* Consider the situation with Blitzscaling, p.289 and p.301 for the responsible Blitzscaling and requirement of Blitzscaling for the entrepreneur, which is to be an always learner, p.301, and also what Reid and Chris referred as paradox, p.301, which has to do with a need for estability and peace, which is a requirement which seems to aligh with diversity. 
+
+* ( ) Consider learning ? Of Reid Hoffman? 
+
+--> 
