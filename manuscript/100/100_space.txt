@@ -1,50 +1,29 @@
-# Space
+# Space and peace 
+
+<!--
+
+* title v0.3 - Space and peace 
+* title v0.2 - The Lost World (inspired by Jurrasic Park possibility that a lot of dinossaurs are noise)
+* title v0.1 - Space 
+
+* from 300_entry_points.txt - * Marcio and the Google Well-being app - (title: The lost world of apps) For weeks now I am using the Well-being app by Google, quite interesting name, which allows an interesting option, it enables me to check off, turn off, all Android apps. This case helps to make the point about the competition of UI elements, and also the "organized flow" of certain events, such as notifications, that comes my way with a small screen device. Since the Android is more connected, modern, the Android has more connections with knowing what all apps do, and channels it, controls it. The safety of the marketplace, which generate trust to use, retro feed the trust of actions to be in the control of Google, and then all that has permissions, then becomes like habits that are system-level. Consideing that the device is a sort of extension of my body at this point - which is likely not unfair to say, then the impact, the extension is receiving notifications for all the sort of things, such as messages from family, friends, bank notifications, entertainment, leisure, system updates, social network updates. It's like all the birds of a country are sent over my tour all together. Or, if you were visiting a Jurassic Park, if they give you all the dinossaurs at the same time. Wait, let me run from the t-rex first, then have an icecream, then go back to face the velociraptor. The system-level attachment with multiple stories of all the apps which I have subscribed - and note that installing is a form of subscription too - can't account the storied context of all the apps in synch with my own storied context. I would need my grandmother to help me as my parents are busy too. But I am alone and I am no composer or conductor. It's a lot of noise if you could hear all events of updates as dinossaurs screams. 
 
 
-###
+* from 300_entry_points.txt - When I was reading the book entitled Foco Roubado, Stolen Focus, and the story of the 66 yo professor researcher in the field of willpower, Roy Baumeister, author of Willpower, and reading what Roy told him Johann, that the professor used to be able to seated, reading and writing, and not anymore; that now he thinks that his mind jumps a lot more from one activity to another; it reminded me of my great insightful experience that I have called Uber University, when I became an Uber driver for one year, for 1000 trips. The insight I found was that u was able to replace the radio with YouTube videos. I have told passengers that I was learning English and if they were okay with the audio. Then then, long story short, only on Fridays, I was able to watch about 120 talks. Yes I had to polish a process, over time, such as to put a bit of effort to curate my playlist, not perfect but making sure I went to the streets with about 10 talks in the same theme. Then I wrote about that amazing experience of productivity. I have reported, later trying to convince many Uber drivers to do that, that it didn't take many months for me to think I was a sort of expert in the field of entrepreneurship. When explaining to many other app drivers, as we call them in Brazil, many have agreed that on the computer, or a mobile screen, the user interface offers too many notification systems on our way. I miss the days of driving and just listening and sometimes replaying parts of the audio talks as they were full of insights. The app driver university pack I created could work like an university.
 
-* when I was reading the book entitled Foco Roubado, Stolen Focus, and the story of the 66 yo professor researcher in the field of willpower, Roy Baumeister, author of Willpower, and reading what Roy told him Johann, that the professor used to be able to seated, reading and writing, and not anymore; that now he thinks that his mind jumps a lot more from one activity to another; it reminded me of my great insightful experience that I have called Uber University, when I became an Uber driver for one year, for 1000 trips. The insight I found was that u was able to replace the radio with YouTube videos. I have told passengers that I was learning English and if they were okay with the audio. Then then, long story short, only on Fridays, I was able to watch about 120 talks. Yes I had to polish a process, over time, such as to put a bit of effort to curate my playlist, not perfect but making sure I went to the streets with about 10 talks in the same theme. Then I wrote about that amazing experience of productivity. I have reported, later trying to convince many Uber drivers to do that, that it didn't take many months for me to think I was a sort of expert in the field of entrepreneurship. When explaining to many other app drivers, as we call them in Brazil, many have agreed that on the computer, or a mobile screen, the user interface offers too many notification systems on our way. I miss the days of driving and just listening and sometimes replaying parts of the audio talks as they were full of insights. The app driver university pack I created could work like an university.
+--> 
 
+## How we experience a world of distraction and it is not entirely our fault 
 
-### Prior medium 
+* The case of Apps Android and Google Well-being. 
+* Notion of bundle and unblunde and combinatorics?
+* Notion of being bundled ourselves. 
 
-Search Medium
-Write
+### Uber-idle university 
 
-https://medium.com/the-ascent/uber-idle-university-5af317b550d9
+* https://medium.com/the-ascent/uber-idle-university-5af317b550d9
 
-Marcio S Galli
-Get unlimited access to the best of Medium for less than $1/week.
-Become a member
-
-
-Uber-idle University
-Case of listening to a VC-team, YouTube-podcast audio when I am Uber-driving
-Marcio S Galli
-Ascent Publication
-Marcio S Galli
-
-Published in
-Ascent Publication
-
-·
-5 min read
-·
-Dec 2, 2017
-10
-
-
-
-
-
-
-My idea entitled “Uber-idle University” is nothing new: It’s having a pen drive ready with nice talks, in a given subject field. It simply helps me to reuse the idle time with learning.
-
-I had to put this in place because I am an entrepreneur and wanted to compensate the “robotic” condition that I became when I turned into a part-time Uber driver.
-
-Yes, I am a part-time Uber driver, about 1/5 of the week, and during that time I have lots of time in idle mode: Some people just don’t talk and of course Uber driving requires a number of waiting times.
-
-Going straight to the example case, here is my last collection that is going into the pen-drive session #30:
+My idea entitled “Uber-idle University” is nothing new: It’s having a pen drive ready with nice talks, in a given subject field. It simply helps me to reuse the idle time with learning. I had to put this in place because I am an entrepreneur and wanted to compensate the “robotic” condition that I became when I turned into a part-time Uber driver. Yes, I am a part-time Uber driver, about 1/5 of the week, and during that time I have lots of time in idle mode: Some people just don’t talk and of course Uber driving requires a number of waiting times. Going straight to the example case, here is my last collection that is going into the pen-drive session #30:
 
 Uber-idle-university session 30, a collection of 5 talks from Greylock partners (5–10 hours active in Uber)
 2016 GSV Pioneer Summit: Investing Legends of Silicon Valley.mp3

@@ -1,8 +1,18 @@
-# Time is relative 
+# Time is relative, okay? 
 
 <!--
 
 v2.3 
+
+## Notifications
+
+* ( ) Erick Krock 
+
+## Title 
+
+* Title v0.3 - Time is relative, okay? 
+* Title v0.2 - Time is relative 
+* Title v0.1 - 
 
 ## abstract 
 
