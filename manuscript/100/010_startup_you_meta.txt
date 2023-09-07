@@ -4,13 +4,15 @@
 
 v2.3 
 
-## Notifications
+## Review and todo, notifications
+
+* ( ) Since the root name of this article is "startup_you" perhaps it is worth it to check against the Book, Startup of You, a review, to get the essence of the book. 
 
 * ( ) Erick Krock 
-
+  
 ## Title 
 
-* Title v0.3 - Time is relative, okay? 
+* Title v0.3 - Time is relative, okay? (Interstellar inspired)
 * Title v0.2 - Time is relative 
 * Title v0.1 - 
 

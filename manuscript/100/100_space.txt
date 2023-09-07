@@ -17,7 +17,7 @@
 
 * The case of Apps Android and Google Well-being. 
 * Notion of bundle and unblunde and combinatorics?
-* Notion of being bundled ourselves. 
+* Notion of being bundled ourselves.    
 
 ### Uber-idle university 
 
