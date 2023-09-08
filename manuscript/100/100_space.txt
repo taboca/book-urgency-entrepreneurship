@@ -2,9 +2,118 @@
 
 <!--
 
+## Title 
+
 * title v0.3 - Space and peace 
 * title v0.2 - The Lost World (inspired by Jurrasic Park possibility that a lot of dinossaurs are noise)
 * title v0.1 - Space 
+
+## SCqA 
+
+* SCqA - Subject - 
+* SCqA - Situation - 
+* SCqA - Complication - 
+* SCqA - Q/A 
+* SCqA - Key - 
+* SCqA - Key - 
+* SCqA - Key - 
+
+
+## 
+
+It used to be, at least for me, ridiculous to even consider something like paying for silence, or something closer to that idea such as when one sells a moment of peace. Now we have products and services for that too, a case apparently normal like "an app" for meditation. Seems weird because it's like water - why should I pay for water? Is that simply an effect like a by-product of the situation of abundance? The abundance brought by the possibilities of the digital and networked world we live in? 
+
+Like water, that has lots of products are based on, lots of kinds of water in a bottle or even in a box, consider how difficult it is to be aware that of some undelying value in water that might take us to drink all sorts of things that seem to be like water. 
+
+It turns out that we sort of seem to be always on top of a platform. Thus on top of a crazy work, I might find myself in need for balancing the situation, and would for for a walk, or could likely sign up to a program to walk with others or by myself and monitor my steps. And, not uncomon, take water in a box to the walking. 
+
+Thus these networks, or platforms, that we use seem to create certain kinds of prisons to us, and we may, eventually, come across an opportunity inside a prison which might be a softer version of a story of one that wrote a book from a prison. 
+
+Therefore we seem to depend on a prison to free ourselves - or to be able to see as if the situation of the platform is a prison. It can happen. Consider, for example, entrepreneurship in Silicon Valley v5 days, the activities and how the industry sets an environment for founders and the general workforce to likely continue to turn the same wheel. Sam Altman wrote an article where he is concerned with a situation, like voices, or the lack of voices, in Silicon Valley and the risk for the innovation potential: 
+
+> "More recently, I’ve seen credible people working on ideas like pharmaceuticals for intelligence augmentation, genetic engineering, and radical life extension leave San Francisco because they found the reaction to their work to be so toxic.  “If people live a lot longer it will be disastrous for the environment, so people working on this must be really unethical” was a memorable quote I heard this year."* 
+* Sam Altman, https://blog.samaltman.com/e-pur-si-muove
+
+> "Political correctness often comes from a good place—I think we should all be willing to make accommodations to treat others well.  But too often it ends up being used as a club for something orthogonal to protecting actual victims.  The best ideas are barely possible to express at all, and if you’re constantly thinking about how everything you say might be misinterpreted, you won’t let the best ideas get past the fragment stage." Sam Altman,  https://blog.samaltman.com/e-pur-si-muove
+
+There is then a dilemma, to explore or live by the combinatoris potential on top of a platform that was bundled in the first place, or to aim at trying to unbundle the platform, to rethink its nature. [^footnote_bundle_unbundle_marc_andreesseen]
+
+[^footnote_bundle_unbundle_marc_andreesseen]: 
+
+This idea of platforms, on top of platofms, a stack of platforms, came to my mind a long time ago. I got my first computer, and started to learn Basic - a programming language. Since I happened to be exposed to games, I wanted to develop my own game. But myself or basic seemed to be limited, and I caught myself trying to make a graphics editor, it went a bit further but also I caught myself with limitations, and then out of the sudden I was selling commercial applications, where more simple and I got some money, so I felt as being somebody in the world of adults. And then, fast-forward to later, I caught myself in a Computer Science course, although I wasn't much interested in attending the classes as I thought I knew a lot - a know-it-all sort of person. I caught myself in the labs, doing 3D animation, end up selling video animations which was possible basically due to one specific software I was using at the time, 3D studio. And then when the Web came along, I caught myself selling web pages, and the platform was quite different and exciting, enabling a whole system, an economic and cultural model, works on top of the browser. 
+
+The notion of bundle and unbundle from Marc Andreessen deserves a reflective moment. Is this a time to reflect about some industry-level opportunities? If so, consider the "destruction" of Shockley semi conductor, the event of the traitor eight, the creation of Fairchild semi-conductor, and the explosion of 70+ companies making silicon-based chips. Later, consider the phenomenon of the potential of building on top of these chips, the "network" of person computers, after mainframe computers, establishing a grid through the operating system, then on top of that, for software applications, the movment of chip manufacturers going away from Silicon Valley and the opportunities "on top" definning sort of terms for the industry. Then from OS, the Web and the browsers, and then social networks. 
+
+Then the complication really comes from the potential and the network. Doing something on the bundled platform, platforming adding to it. Or reconsidering the platform, reinventing. The complication is that the platform becomes your terrain, where all happens, like a playground. But something like the Web, such a playground. Or consider the popular platforms for producing "apps" for mobile devices, Google Play or the Apple Store. Developers become the builders on top of those, a community around the methods for building, discussions on top of, on top of the opportunities. The world wants a forward-movement and when there is potential and growth, there is stickyness for the forwardness, to comply with. A whole industry. 
+
+All these are networks, thus the platform potential lies ni deed in the network. When locomotives came along in the US, as Maury Klein has documented, it was scary to see the potential (of the network). We can celebrate that by the examination of the post written by a school in the north of US: 
+
+> *""* Maury Klein, Power Makers 
+
+But once a network becomes an ecosystem, then it boosts people to run an economy, doesn't it? Consider any network, such as Craigslist, or even Facebook. 
+
+We know, from theory of innocation, that breaking rules seem to be part of the equation in the sense of seeking freedom. As an example, consider the network of "yellow cabs" and the situation that gave rise to Uber. Not easy, to break the membrane of a network, it's like a social gut system perhaps, like a living ecosystem of bacteria and all sorts of things happening. Quite stable, a sort of colony, that we get used to. But then some people might get mad about its rules, others want to be somebody, or stumble in new ideas out of the interactions, needs. [^footnote_job_to_be_done]
+
+[^footnote_job_to_be_done]: 
+
+We if look at the situation with Uber' story, I was a driver for 1000 trips. Perhaps as I was a part-time driver, not being 100% inside at it, I could bend its reality, a little and in my own way, very softly. I started doing on Fridays, and first my goal was to understand the rules "of the game" how the network works, thus I could exercise the idea of being somebody there, as a driver. I had to fight my fears, to put my mother's car in the streets, and my own fears such as driving into difficult streets, not being a good driver, and a lot more. When I came back that first day, I vividly remember, I sat on the couch but on it's arm with my feet on the couch, happy, telling my parents. Later happy for being a 5-star driver, or 4.9 one. Thus a lot of elements where in there, creating a platform for myself, to be someone, to make money too, where I could use some skills, could go towards been better as a driver, as a person, and get grades, and model my profile. End up with 1000 trips, good memories, and great stories too. 
+
+One of the them was when I took a pregnant woman - she said it was close, last that was false alarm, when she was with her sister. This time, again, she was alone. I asked her - should I pass the red lights? She said no, please don't. Later I told her that we were next to the hospital X, Beneficiência Portuguesa, and she got scared and screamed "No, wrong hospital" to which I figured I confused the name and told here we were are going to the correct destination, and then she arrived safely. 
+
+So I was there, also helping people, therefore not likely in a condition of urgency that would set me to perform in certain metrics, such as performance for money, which gave me experiences, to first see things that could be improved on top of the platform. That reflection was likely related to checking the limits of the bundled reality, like semi-unbundling, the sort of activities that users do, such as lead users [^footnote_lead_users] for when they are in it not trying to unbundle all but intended to support what is bundled, to evolve it. That sort of exposue can take some users to be considered as special, since they co-create the future of platforms, or can even give people jobs too. 
+
+[^footnote_lead_users]: 
+
+The situation I reflected was of the problems of the first trip, which involved the recognition of the fears that I went through, so I have envisioned that Uber could do a lot better to help one driver to reduce its fears. After the feelings of fears, the struggles, I caught myself later receiving an idea from a friend that became a driver. Since he knew that I was an entrepreneur, he called me asking me to make a simulation app for a first Uber trip — one that could create a fictitious trip in the streets. As I reflected about the aspects that apps could teach us in simulated environment [^footnote_uber_first_trip], it was interesting to the recognition of the problem by Ed Baker, a former Head of Product and VP of Growth at Uber: 
+
+[^footnote_uber_first_trip]: https://medium.com/the-ascent/why-that-first-uber-driver-trip-never-happened-2d36a073ebfc 
+
+> *“For me, it was eye-opening when I did my first trip as a driver. I walked out to my car, I have done everything, I was activated. I walked out to my car [and] I walked back to my house because I got so nervous about doing that first trip.”*
+> Ed Baker (Greylock Partnets, 2017, 14m9s)
+
+<!-- reference 
+
+Greylock Partners, 2017, Growth Panel with Gustaf Alströmer and Ed Baker, moderated by Josh Elman | The Scaleup Offsite 2017. https://youtu.be/PybOg3uS-FA?t=14m9s
+
+-->
+
+Another sort of opportunity I crossed, although it seemed a bit outside the boundaries of Uber, was what I have named "Uber-idle university" [^footnote_marcio_uber_idle_university] which explored an opportunity for learning as I have replaced the arbitrary with talks, Youtube lectures saved as mp3. To make the experience good, I also had to workout certain roadblocks, such as to curate a list of 3-5 talks before the day trips, and to come up with a saying for the passengers, giving them the option to talk with me or let me study what I called "Entrepreneurship lessons in English". Most passengers supported and even encouraged me. 
+
+[^footnote_marcio_uber_idle_university]: Marcio S Galli's article "Uber-idle University," published in Ascent Publication on December 2, 2017, delves into the concept of turning idle time into educational opportunities, particularly while performing tasks that don't require full cognitive engagement, such as driving for Uber. Galli, an entrepreneur who drives part-time for Uber, argues that much of the time spent in the car can be repurposed for learning by listening to talks, podcasts, or lectures on a pen drive. He distinguishes between "distractions" and "pauses," suggesting that Uber-related interruptions merely pause his educational experience rather than derail it. The article also highlights how the nature of listening fosters deeper engagement with the content, facilitating opportunities for reflection and understanding. Galli concludes by noting that this practice has led him to be more involved in helping startups, including his own. This article reflects a broader interest in finding innovative ways to incorporate learning into daily routines, a concept that has been especially relevant in the gig economy where traditional work hours are often disrupted. https://medium.com/the-ascent/uber-idle-university-5af317b550d9
+
+Now, as we go back to the space for innovation, it seems that the celebration of the platform, when a network in a state of virtuous growth, which seems to go along with aspects indivated in the approach for scaling of Blitzscaling. From the standpoint of growth, and the view from inverstors interested in scaling platform networks, the analysis is for what elements neeed to be in the place, what forces are fovaourable or against, considering the expectations and vision of the network reaching its full potential. In the story of Uber, a prior network was know as the "yellow cabs" situation. Sequoia partners doing analysis, wanted to invest but to recognize the risks and take a strategy of focusing first in black cars. Sequoia has identified players that were in the field of unbundling the cabs networks, and one of them had the opportunity, although Sequoia wanted them to go back to black, stay away from yellow cabs at that moment. The CEO didn't accept. Later Sequoia end up finding an entrepreneur from San Francisco that were focusing in the black cards and asked if he would be okay with the moving on top of yellow cabs in the right time. And that became Uber. 
+
+Another story, that shows how risks are taken in consideration when the matter are networks, is shown in the story of Linkedin [^footnote_bliztscaling_linkedin_blue_allen] where the founders have documented aspects of the struggle to understand when and how to monetize the network. They indicate that some other social networks here real competitors but some of them wanted to make revenue ahead of time, while LinkedIn had a strategy to cover at least USA as a metric for its success with its main customer, corporations looking to hire people. 
+
+[^footnote_bliztscaling_linkedin_blue_allen]: 
+
+These situations sown intended efforts that seeks a readiness level for the network to be bundled. This is like showing that the curation of the platform, analysis for its future potential, is a must. VC partners of great VC organizations, such as Sequoia, Greylock and A16Z, are examples that show an intended analysis of how networks operate and the risks of scaling. In a way, the body of knowledge from these groups are able to bend reality, from a view from outside. 
+
+But now, back to individuals anr the struggles of entrepreneurs, all of that tell us that stability in the platform produces ooportunities. Or a great platform with network potential involves offering opportunities in a stable matter, the ground for an economic model or interaction that produces value. Which comes after that the aspects which I refered as the prison. 
+
+A complication is that we can be somebody in many of these platform systems, but the experience of being somebody, especially when we are driven by certain metrics, such as performance in attributes such as score, or grades, or money, can also prevent us from seeing opportunities, expect the condition of the exercise of the attempt to maximize effienncy in the network boils back to the situation of feedback that enriches the network. But the point I want to focus now is when being busy can also come with estability of the individual in the network. 
+
+An additional complication is when we are trapped hby many layers. Like consider a phase of a computer game, a game that is more like an experience available in a world that supports games, a network platform for games, and that the game was written on top of an operating system that runs on top of a computer system. 
+
+If the producer of the game experience decides to shut down its servers, impact is first perceived by the network of users experiencing that experience. For them, out of the sudden, the network seems to be down, but they might figure later that the developer-owner gave up. For some, sadness might take place as part of who they are were being exercised in the game environment, through an user profile. 
+
+But when just playing the game, before the incident, it would indeed be quite difficult for one to bend the reality expect if by any chance you had another agenda that could give you the means to see reality from different viewpoint. We should note that while estabily in the platform exists, which pushes me to keep referring it as a prison, the opportunity for freedom is exercised by the users themselves, as each one might live an agenda and their needs can also take them to become creative, from sending suggestions to more deeper reflective experiences. Author Eric von Hippel, in Democratizing Innovation [^foonote_eric_von_hippel_democratizing_innovation], offers a great perspective about how users might become co-creators with producers. 
+
+[^foonote_eric_von_hippel_democratizing_innovation]: 
+
+Now, there are then the improvements within the realm, the hackers, and the ones that might reconsider the whole experience. Thus, we can assert about layers within the platform, and as humans as humans, they could be exposed to deeper reflections about the realities of all these layers that they be me acting in, or even the actual reflections for the ultimate layers which we decided to anchor ourselves in - such as the case of Albert Einstein.
+
+In the realm of innovative products or services, for example, the notion of category design, as indicated by Play Bigger author Christopher Lochhead [^footnote_play_bigger], exposes elements involved for then new categories of products and services are evident.
+
+[^footnote_play_bigger]: 
+
+Now, in the heated/cold space of one that lives the experience, it comes trhe considerations of experiencing that put us to reflect, go seek for truths, challenge the boundaries. When I had reflected about that my first trip as an Uber driver, I took me to minimally write an article because I considered that the platform could do something. When I had an agenda and need for watching talks, I saw that Uber-idle University idea. Some of these extended experiences can be suggested by platforms too. Consider a Yoga program that can guide its participants into the levels of reflections, adding value to the experience. Another example, which I learned from my partner, was a situation of a dance program referred as bio dance, where she has acknowledged that she has reached a level of reflective state about her experience, brought up meaning, as in philosophical reflections which were relevant to others as their dance experience involved a guided experienced with well designed exercises to put the participants in the right spot to reflect. Another example might happen in the situation of reading Harry Potter, as indicated by Kasper ter Kuile the author of The Power of Rituals. Kasper has indicated that the experience from reading Harry Potter has components that brings a community together so that they reflect and discuss about what they experienced in the reading. The point here to make is that certain experiences might more or less pull us towards the reflective interactions, and reflectinve interactions might enable us to explore the limits of the experience too. 
+
+Thus, perhaps, communities on top of platforms, and the values, economic, social and psychological, and ultimately if a platform offers space for all the sorts of well beings. The blitzscaling authors Reif Hoffman and Chris Yeh bring up pointers to the very aspect, and concern, that can or should be considered when platforms are being created. The geneal well-bring concern is certainly a function to be considered, and what it takes for a platform to endure. 
+
+Now, these considerations for entrepreneurs for minimally consider the reflections on living their identities as somebody, on a platform, for leaving too, for reflecting outside. These exercises of writing, enable us to break the flow, sort of to get out from the autopilot was of flowing, acting. Julia Cameron uses methods of writing, with her prompts through articles, as a means for guiding potential writers outside the zone of writers block. 
+
+## Points
 
 * from 300_entry_points.txt - * Marcio and the Google Well-being app - (title: The lost world of apps) For weeks now I am using the Well-being app by Google, quite interesting name, which allows an interesting option, it enables me to check off, turn off, all Android apps. This case helps to make the point about the competition of UI elements, and also the "organized flow" of certain events, such as notifications, that comes my way with a small screen device. Since the Android is more connected, modern, the Android has more connections with knowing what all apps do, and channels it, controls it. The safety of the marketplace, which generate trust to use, retro feed the trust of actions to be in the control of Google, and then all that has permissions, then becomes like habits that are system-level. Consideing that the device is a sort of extension of my body at this point - which is likely not unfair to say, then the impact, the extension is receiving notifications for all the sort of things, such as messages from family, friends, bank notifications, entertainment, leisure, system updates, social network updates. It's like all the birds of a country are sent over my tour all together. Or, if you were visiting a Jurassic Park, if they give you all the dinossaurs at the same time. Wait, let me run from the t-rex first, then have an icecream, then go back to face the velociraptor. The system-level attachment with multiple stories of all the apps which I have subscribed - and note that installing is a form of subscription too - can't account the storied context of all the apps in synch with my own storied context. I would need my grandmother to help me as my parents are busy too. But I am alone and I am no composer or conductor. It's a lot of noise if you could hear all events of updates as dinossaurs screams. 
 
@@ -12,6 +121,8 @@
 * from 300_entry_points.txt - When I was reading the book entitled Foco Roubado, Stolen Focus, and the story of the 66 yo professor researcher in the field of willpower, Roy Baumeister, author of Willpower, and reading what Roy told him Johann, that the professor used to be able to seated, reading and writing, and not anymore; that now he thinks that his mind jumps a lot more from one activity to another; it reminded me of my great insightful experience that I have called Uber University, when I became an Uber driver for one year, for 1000 trips. The insight I found was that u was able to replace the radio with YouTube videos. I have told passengers that I was learning English and if they were okay with the audio. Then then, long story short, only on Fridays, I was able to watch about 120 talks. Yes I had to polish a process, over time, such as to put a bit of effort to curate my playlist, not perfect but making sure I went to the streets with about 10 talks in the same theme. Then I wrote about that amazing experience of productivity. I have reported, later trying to convince many Uber drivers to do that, that it didn't take many months for me to think I was a sort of expert in the field of entrepreneurship. When explaining to many other app drivers, as we call them in Brazil, many have agreed that on the computer, or a mobile screen, the user interface offers too many notification systems on our way. I miss the days of driving and just listening and sometimes replaying parts of the audio talks as they were full of insights. The app driver university pack I created could work like an university.
 
 --> 
+
+
 
 ## How we experience a world of distraction and it is not entirely our fault 
 
