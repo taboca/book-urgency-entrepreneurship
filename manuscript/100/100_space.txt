@@ -18,6 +18,22 @@
 * SCqA - Key - 
 * SCqA - Key - 
 
+
+## Points
+
+* from 300_entry_points.txt - * Marcio and the Google Well-being app - (title: The lost world of apps) For weeks now I am using the Well-being app by Google, quite interesting name, which allows an interesting option, it enables me to check off, turn off, all Android apps. This case helps to make the point about the competition of UI elements, and also the "organized flow" of certain events, such as notifications, that comes my way with a small screen device. Since the Android is more connected, modern, the Android has more connections with knowing what all apps do, and channels it, controls it. The safety of the marketplace, which generate trust to use, retro feed the trust of actions to be in the control of Google, and then all that has permissions, then becomes like habits that are system-level. Consideing that the device is a sort of extension of my body at this point - which is likely not unfair to say, then the impact, the extension is receiving notifications for all the sort of things, such as messages from family, friends, bank notifications, entertainment, leisure, system updates, social network updates. It's like all the birds of a country are sent over my tour all together. Or, if you were visiting a Jurassic Park, if they give you all the dinossaurs at the same time. Wait, let me run from the t-rex first, then have an icecream, then go back to face the velociraptor. The system-level attachment with multiple stories of all the apps which I have subscribed - and note that installing is a form of subscription too - can't account the storied context of all the apps in synch with my own storied context. I would need my grandmother to help me as my parents are busy too. But I am alone and I am no composer or conductor. It's a lot of noise if you could hear all events of updates as dinossaurs screams. 
+
+
+* from 300_entry_points.txt - When I was reading the book entitled Foco Roubado, Stolen Focus, and the story of the 66 yo professor researcher in the field of willpower, Roy Baumeister, author of Willpower, and reading what Roy told him Johann, that the professor used to be able to seated, reading and writing, and not anymore; that now he thinks that his mind jumps a lot more from one activity to another; it reminded me of my great insightful experience that I have called Uber University, when I became an Uber driver for one year, for 1000 trips. The insight I found was that u was able to replace the radio with YouTube videos. I have told passengers that I was learning English and if they were okay with the audio. Then then, long story short, only on Fridays, I was able to watch about 120 talks. Yes I had to polish a process, over time, such as to put a bit of effort to curate my playlist, not perfect but making sure I went to the streets with about 10 talks in the same theme. Then I wrote about that amazing experience of productivity. I have reported, later trying to convince many Uber drivers to do that, that it didn't take many months for me to think I was a sort of expert in the field of entrepreneurship. When explaining to many other app drivers, as we call them in Brazil, many have agreed that on the computer, or a mobile screen, the user interface offers too many notification systems on our way. I miss the days of driving and just listening and sometimes replaying parts of the audio talks as they were full of insights. The app driver university pack I created could work like an university.
+
+## How we experience a world of distraction and it is not entirely our fault 
+
+* The case of Apps Android and Google Well-being. 
+* Notion of bundle and unblunde and combinatorics?
+* Notion of being bundled ourselves.    
+
+--> 
+
 It used to be, at least for me, ridiculous to even consider something like paying for silence, or something closer to that idea such as when one sells a moment of peace. Now we have products and services for that too, a case apparently normal like "an app" for meditation. Seems weird because it's like water - why should I pay for water? Is that simply an effect like a by-product of the situation of abundance? The abundance brought by the possibilities of the digital and networked world we live in? 
 
 Like water, that has lots of products are based on, lots of kinds of water in a bottle or even in a box, consider how difficult it is to be aware that of some undelying value in water that might take us to drink all sorts of things that seem to be like water. 
@@ -109,164 +125,4 @@ Now, in the heated/cold space of one that lives the experience, it comes trhe co
 Thus, perhaps, communities on top of platforms, and the values, economic, social and psychological, and ultimately if a platform offers space for all the sorts of well beings. The blitzscaling authors Reif Hoffman and Chris Yeh bring up pointers to the very aspect, and concern, that can or should be considered when platforms are being created. The geneal well-bring concern is certainly a function to be considered, and what it takes for a platform to endure. 
 
 Now, these considerations for entrepreneurs for minimally consider the reflections on living their identities as somebody, on a platform, for leaving too, for reflecting outside. These exercises of writing, enable us to break the flow, sort of to get out from the autopilot was of flowing, acting. Julia Cameron uses methods of writing, with her prompts through articles, as a means for guiding potential writers outside the zone of writers block. 
-
-## Points
-
-* from 300_entry_points.txt - * Marcio and the Google Well-being app - (title: The lost world of apps) For weeks now I am using the Well-being app by Google, quite interesting name, which allows an interesting option, it enables me to check off, turn off, all Android apps. This case helps to make the point about the competition of UI elements, and also the "organized flow" of certain events, such as notifications, that comes my way with a small screen device. Since the Android is more connected, modern, the Android has more connections with knowing what all apps do, and channels it, controls it. The safety of the marketplace, which generate trust to use, retro feed the trust of actions to be in the control of Google, and then all that has permissions, then becomes like habits that are system-level. Consideing that the device is a sort of extension of my body at this point - which is likely not unfair to say, then the impact, the extension is receiving notifications for all the sort of things, such as messages from family, friends, bank notifications, entertainment, leisure, system updates, social network updates. It's like all the birds of a country are sent over my tour all together. Or, if you were visiting a Jurassic Park, if they give you all the dinossaurs at the same time. Wait, let me run from the t-rex first, then have an icecream, then go back to face the velociraptor. The system-level attachment with multiple stories of all the apps which I have subscribed - and note that installing is a form of subscription too - can't account the storied context of all the apps in synch with my own storied context. I would need my grandmother to help me as my parents are busy too. But I am alone and I am no composer or conductor. It's a lot of noise if you could hear all events of updates as dinossaurs screams. 
-
-
-* from 300_entry_points.txt - When I was reading the book entitled Foco Roubado, Stolen Focus, and the story of the 66 yo professor researcher in the field of willpower, Roy Baumeister, author of Willpower, and reading what Roy told him Johann, that the professor used to be able to seated, reading and writing, and not anymore; that now he thinks that his mind jumps a lot more from one activity to another; it reminded me of my great insightful experience that I have called Uber University, when I became an Uber driver for one year, for 1000 trips. The insight I found was that u was able to replace the radio with YouTube videos. I have told passengers that I was learning English and if they were okay with the audio. Then then, long story short, only on Fridays, I was able to watch about 120 talks. Yes I had to polish a process, over time, such as to put a bit of effort to curate my playlist, not perfect but making sure I went to the streets with about 10 talks in the same theme. Then I wrote about that amazing experience of productivity. I have reported, later trying to convince many Uber drivers to do that, that it didn't take many months for me to think I was a sort of expert in the field of entrepreneurship. When explaining to many other app drivers, as we call them in Brazil, many have agreed that on the computer, or a mobile screen, the user interface offers too many notification systems on our way. I miss the days of driving and just listening and sometimes replaying parts of the audio talks as they were full of insights. The app driver university pack I created could work like an university.
-
---> 
-
-
-
-## How we experience a world of distraction and it is not entirely our fault 
-
-* The case of Apps Android and Google Well-being. 
-* Notion of bundle and unblunde and combinatorics?
-* Notion of being bundled ourselves.    
-
-### Uber-idle university 
-
-* https://medium.com/the-ascent/uber-idle-university-5af317b550d9
-
-My idea entitled “Uber-idle University” is nothing new: It’s having a pen drive ready with nice talks, in a given subject field. It simply helps me to reuse the idle time with learning. I had to put this in place because I am an entrepreneur and wanted to compensate the “robotic” condition that I became when I turned into a part-time Uber driver. Yes, I am a part-time Uber driver, about 1/5 of the week, and during that time I have lots of time in idle mode: Some people just don’t talk and of course Uber driving requires a number of waiting times. Going straight to the example case, here is my last collection that is going into the pen-drive session #30:
-
-Uber-idle-university session 30, a collection of 5 talks from Greylock partners (5–10 hours active in Uber)
-2016 GSV Pioneer Summit: Investing Legends of Silicon Valley.mp3
-
-
-Responding in Uncertain Times with Jacquelline Fuller and James Slavet.mp3
-
-
-Aneel Bhusri, Vice Chairman, Greylock.mp3
-
-
-Greylock’s David Sze Shares Detailed Lessons From His Career ‘In the Studio’.mp3
-
-
-Women@Work | The Star Chamber: Women in the Inner Sanctums of Finance.mp3
-
-
-So far some observations:
-No distractions
-While listening sessions can break — such as the condition when there is a call, or a customer inside the car; yet this is more like a pause. It’s not a distraction that calls my mind into another focus area. As quick as I solved the valid “Uber” interruption, I am back on track.
-
-Listening is harder — and incredibly powerful
-The above case collection will probably ride with me for 3 rounds x 3–4 hours, at least. So indeed it takes more time comparing with watching the YouTube video on the computer.
-
-But I do not see this as a problem and in fact I see as an opportunity. What is happening is that I am re-watching (re-listening) again and again. I also send lots of e-mail notes or messages to myself.
-
-The phenomenon of play-pause is also very common. It turns out I have to reflect a lot. This have helped me to understand more about my learning style because play-pause was something I was not doing when watching through the plain Youtube experience.
-
-Back into the other parts of life
-The result? It turns out I found myself helping startups more and more. One of these start-ups is my own. But such effect really came out of the whole project, not out of isolated sessions. To give you an overview of the past sessions see the following dump.
-
-Overview of past sessions
-Some of them I lost but you will get an idea from here:
-
-Sessions #3
-01_Andy Grove Co-founder of Intel 1999 Interview.mp3
-02_Andy Grove’s speech at Plug-In 2008.mp3
-03_Ben Horowitz on the Lessons He Learned From Intel’s Andy Grove.mp3
-04_Ev Williams- How Medium is changing the publishing world — Fortune.mp3
-05_Jeff Bezos- The electricity metaphor.mp3
-Sessions #4
-Blitzscaling 11- Patrick Collison on Hiring at Stripe and the Role of a Product-Focused CEO (1).mp3
-Founders Build Roads, Not Cars — Patrick Collison (Stripe) & Derek Andersen @ Startup Grind Global (1).mp3
-Sessions #5
-Create Your Future the Peter Drucker Way.mp3
-Lecture 3 — Before the Startup (Paul Graham).mp3
-Michael Dearing-Finding People with the Right Passion.mp3
-Sessions #7
-Greg McAdoo, Partner at Sequoia Capital, at Startup School 08.mp3
-Naval Ravikant (Angel List) at Startup Grind 2013.mp3
-Naval Ravikant Talks Entrepreneurship.mp3
-Startup Grind feat Naval Ravikant.mp3
-Sessions #8
-01_Adam Nash (Wealthfront) at Startup Grind Silicon Valley.mp3
-02_Keynote- Pivotal & Allianz Fireside Chat — Rob Mee, CEO, Pivotal & Dr. Andreas Nolte, CIO, Allianz.mp3
-03_The Current Investment Landscape with Mike Goguen (Sequoia Capital).mp3
-Sessions #9
-10_Marc Andreessen — Startup School 2011.mp3
-20_Ben Horowitz Of Andreessen Horowitz On What He Looks For In A Pitch.mp3
-Sessions #10
-Lecture 9 — How to Raise Money (Marc Andreessen, Ron Conway, Parker Conrad).mp3
-Sessions #11
-Scaling Culture with Jason Kilar — The Scaleup Offsite 2017.mp3
-Sessions #12
-From Startup to Scaleup with Reid Hoffman and Sam Altman — The Scaleup Offsite 2017.mp3
-Sessions #13
-Ben Silbermann at Startup School SV 2016.mp3
-Sessions #14
-Pinterest CEO Ben Silbermann Fireside with Sarah Tavel — #ProductSF 2016.mp3
-Sessions #15
-00_HandCrafted12.mp3
-30_Imperfect Is Perfect 10.2.mp3
-10_The_oney_Episode_13.mp3
-40_LearnLearnAgainMIX10.mp3
-20_BeautyofaBadIdea11.mp3
-Sessions #17
-Designing for Trust with Airbnb’s Joe Gebbia and Reid Hoffman — The Scaleup Offsite 2017.mp3
-Hiring Executives with Greylock Talent Partner Jeff Markowitz — The Scaleup Offsite 2017.mp3
-James Currier on Unlearning What You Have Learned — #ProductSF 2016.mp3
-Sessions #18
-010_james_currier_unlocking_the_secrets_of_growth.mp3
-020_james_currier_fireside_chat_dave_mcclure.mp3
-030_ben_horowitz_start_a_cultural_revolution.mp3
-040_computer_history_museum_putting_your_finger_on_it.mp3
-Sessions #19
-Start Up to Invent the Future You Want — Vinod Khosla (Khosla Ventures) @ Startup Grind Global.mp3
-Sessions #20
-Startup with Heart — Hamdi Ulukaya (Chobani) & Steve Clemons (The Atlantic) @ Startup Grind Global.mp3
-WhatsApp’s Road to 1 Billion Users & $19 Billion Exit — Jan Koum (WhatsApp) @ Startup Grind Global.mp3
-Sessions #21
--Sometimes it’s nice to be hated by the wrong people — Vinod Khosla at Hack the North.mp3
-How to Build a Team, Raise Capital, and Make an Impact — Startup Q&A with Justin Kan (Twitch, YC).mp3
-The Most Important Skill for Any Entrepreneur — Daphne Koller (Coursera) @ Startup Grind Global 2017.mp3
-Sessions #22
-Founderati — Fireside Chat with Keith Rabois.mp3
-Keith Rabois (Khosla Ventures, Opendoor) gives his #1 advice to entrepreneurs.mp3
-Lecture 14 — How to Operate (Keith Rabois).mp3
-Sessions #23
-Kuh Distinguished Lecture- Andy Grove, Intel.mp3
-Peter Thiel on the Foolishness of the Education System.mp3
-Sessions #24
-Sunday Conversation #9- Keith Rabois, Khosla Ventures (1 of 6).mp3
-Sunday Conversation #9- Keith Rabois, Khosla Ventures (2 of 6).mp3
-Sunday Conversation #9- Keith Rabois, Khosla Ventures (3 of 6).mp3
-Sunday Conversation #9- Keith Rabois, Khosla Ventures (4 of 6).mp3
-Sunday Conversation #9- Keith Rabois, Khosla Ventures (5 of 6).mp3
-Sunday Conversation #9- Keith Rabois, Khosla Ventures (6 of 6).mp3
-Sessions #25
-Competition Is For Losers — Says Billionaire Peter Thiel.mp3
-Peter Thiel — Signs to look for in a Successful Start-Up.mp3
-Peter Thiel- Is Artificial Intelligence(AI) Over-Hyped- Did Globalization Failed-.mp3
-Peter Thiel- Is Higher Education a Scam-.mp3
-Peter Thiel- What is Multiculturalism Really About-.mp3
-Sessions #26
-Lecture 1 — How to Start a Startup (Sam Altman, Dustin Moskovitz).mp3
-Lecture 2 — Team and Execution (Sam Altman).mp3
-Sessions #27
-Al Ramadan- How to Be a Category King [Entire Talk] (1).mp3
-Intuit CEO Conversations with Brad Smith and Bill Campbell (1).mp3
-Jim Collins Drucker Day Keynote (1).mp3
-Sessions #28
-Adam Grant- Success and Originality.mp3
-Greyscale- Reid Hoffman and John Lilly on Blitzscaling.mp3
-Reid Hoffman discusses the company of the future.mp3
-Sessions #30
-2016 GSV Pioneer Summit_ Investing Legends of Silicon Valley.mp3
-Aneel Bhusri, Vice Chairman, Greylock.mp3
-Greylock’s David Sze Shares Detailed Lessons From His Career ‘In the Studio’.mp3
-Responding in Uncertain Times with Jacquelline Fuller and James Slavet.mp3
-Women@Work _ The Star Chamber_ Women in the Inner Sanctums of Finance.mp3
-Uber
-Startup
-Investing
-Time Management
-The Ascent
-10
-
 
