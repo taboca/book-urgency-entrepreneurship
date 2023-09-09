@@ -16,8 +16,6 @@
 100/390_mood_analysis_planning.txt
 100/400_hora_h.txt
 100/480_fear_and_entrepreneurship.txt
-100/500_ideas_emotions.txt
-100/510_ideas_emotions_judgement.txt
 100/600_valley_difficulties.txt
 #100/630_fast_cliches.txt
 100/650_art_and_urgency.txt
@@ -30,6 +28,8 @@
 100/900_personal_board-en-us.txt
 100/950_accounting_learning.txt
 100/970_winning.txt
+100/980_emotions.txt
+100/982_identity.txt 
 
 200/000_part2.txt
 200/030_razoes_para_correr.txt
