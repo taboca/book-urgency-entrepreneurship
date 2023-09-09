@@ -1,11 +1,12 @@
-# Contratação de investidores
+# A successful interaction with a bad investor
 
-O investidor, ou mentor, nunca irá vestir a camiseta que diz "Sou um mau investidor". Dai vem a pergunta, justamente porque empreendedores sofrem com a questão da necessidade de status: Como saber se o investidor é bom? Como saber se o mentor é bom? Marc Andreessen, da A16Z, diz que existem 5 maneiras [1] de saber. Vamos falar sobre o assunto que demanda tempo e energia, a responsabilidade do empreendedor em curar o sistema de apoio do seu lado. Nessa conversa falaremos sobre o dever de casa do empreendedor que busca apoio. A conversa ainda vale para relacionamento com aceleradoras, parceiros, apoiadores, etc.
+<!-- 
 
-### A successful interaction with a bad investor
+This is published to Medium / Hackernoon
+
+-->
 
 A bad investor won’t come with a label saying “I am a bad investor!” So, you have to understand how startup growth happens and the whole arc-story for launching a startup: idea to product, cofounders, struggles for discovering customers, validating customer and the market, ways for productizing the idea, threads and acquisition of new segments, board member selection, and so on. Also don’t forget about good and bad cultures, integrity, and other values.
-
 
 The sad reality is that it’s virtually impossible to move up without an understanding of the rules of the game: idea, product, market, investment-acceleration and risk systems, etc.
 
