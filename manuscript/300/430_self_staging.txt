@@ -2,9 +2,15 @@
 
 <!--
 
-v2.3
+## Version 
 
-Referências
+* v2.3
+
+## Links too
+
+* 230_self_confirmation_bias_social.identity.txt 
+
+## Referências
 
 Charman, T. (2015, June 18). The difference between Bootcamps, Incubators and Accelerators. Business Daily: Startups, Business Development, Management. Retrieved from https://medium.com/business-startup-development-and-more/the-difference-between-bootcamps-incubators-and-accelerators-632a4d4e8bd8
 
