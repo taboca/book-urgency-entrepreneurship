@@ -1,4 +1,10 @@
-## Criando uma cultura de produtividade voltada a inovação e verdades
+# Productivity culture 
+
+<!-- 
+
+( ) Review (1998, citation Maslow from the Maslow on Management. )
+
+--> 
 
 É importante lembrar que a razão de chamar de metro de ação é que você estabeleçe uma cultura de viver e trabalhar sempre orientada as ações. O método da ação de Scott Belsky reconhece a necessidade de estabelecer uma cultura, ou ritual — comportamentos orientadas as ações.
 
@@ -7,3 +13,31 @@ Olhando sob a ótica da cultura, e como o processo pode se estabelecer em times,
 Por exemplo, para validar a ideia ou priorizar a execução delas, ele refere-se a uma ideia, um mercado interno (marketplace), que pode ser estabelecido dentro das empresas como sendo uma forma de criar competição interna e mecanismo de seleção para priorização do uso dos melhores recursos com os projetos mais promissores. No exemplo apresentado, o critério de análise foi NPV (Net Present Value) que leva em consideração questões como a lucratividade de projetos existentes.  Ele também apresenta o contraponto, que colocar prioridade nos negócios mais lucrativos pode se tornar um fator negativo porque grandes empresas se tornam escravas dos seus próprios negócios.
 
 O exemplo do Michael Dearing não deve ser visto como sendo uma recomendação sobre a forma mas é um validador com relação a existência de processos internos e como grupos de gestão olham para estes. Também sobre a necessidade de constantemente monitorar as chances ou como os processos causam impactos com relação aos objetivos — como criar uma cultura onde todos são responsáveis por curar o processo que quer validar quais ações são as que devem ser priorizadas.
+
+## The improvement of lives of individuals as part of their organizations
+
+So if we pick an identity, and we run with it, and we see ourselves as sort of protagonists of a story, and if we know we have good serious reasons to do so, such as the results of what we do an help us to make a living, then the fusion happens. And, as we have seen, it happens the fusion with what we do, in the field, schools, social networks, work, hobbies, family, entrepreneurial project, all that matters. But a key factor to be considered has to do with the amount of time that we give these episodes as they unfold. Work as we know it affects in big way the subjects we bring to our homes, the themes we talk with others too. It is clearly that a lot of what happens in work, such as the social communications, the challenges and expectations, comes to our lives for too many of us, and so that we bring to the ones around us, not limited to the people from the location where things are happening. Perhaps this phenomenon happens more with people involved in entrepreneurial activities as opposed to people that have the sort of dual reality of work vs. family. Anyway, the notion of an identity - which is tied to the stories that we progress - affects our future and the future of our companies.
+
+What comes from that is that the environment impacts us, to good or bad. And there are the situations of these projects, such as the work that we depend, that can impact our lives positively too. This viewpoint seems to be what Maslow had seen, that human being that is not yet prepared - in terms of Maslow self-actualizing conditions - can also improve themselves given the conditions:  
+
+> "Proper management of the work lives of human beings, of the way in which they earn their living, can improve them and improve the world and in this sense be a utopian or revolutionary technique. " Abraham Maslow, The Attitude of Self-Actualizing People to Duty, Work, Mission, p.xx (1998)
+
+
+
+
+
+
+<!-- our identity in this -->
+
+Let's us consider especially a powerful message, that Walter Fisher bought, "Narratives enable us to understand the actions of others 'because we all live out narratives in our lives and because we understand our own lives in terms of narratives. '" reference is p.83, After Virtue, Narratives of the Self, Studies in Social Identity. [We need to find a new way to deal with this citation as it is a citation that incorporates another citation. ]
+
+This notion might suggest two themes for reflection. One is that our identity is maintained with narratives. So it could be a bit of an an absurd to think that who you are, or what you sense of what you are, is more like a story and even more strong, a story that you might have created, that you are editing it. 
+
+But even if your general story of life isn't written as a story at a conscious level, explicit, we do have indications that people seem to adhere to their identity when they are engaged in works, like a job, or a project, or running a company. As indicated in "..." Andy Grove brought a reflection about the identities of executives that form as a result of a success, which creates for them complications to see with an external eye. He wrote, in Only the Paranoid Survive, p.x:
+
+And before we move on here, consider for a while about our ability to anchor ourselves in certain places. How we might respond to engaging, or not engaging, with prompts in front of us, in many situations using an fast, or high performance, mechanism of judging ourselves.
+
+I recall an episode where someone asked my mother for a visit. My mother instantly replied that she was very busy with her things, helping family and her sisters, and so on. Since I was in the position of an external eye, and also felt as in being in a position to be a critic of her, I said "mother, you do nothing." Of course, my observation to her didn't help her. Perhaps it even pushed her to believe that all that she was doing was even move important. At least more important than listening to that sort of comment. And it make sense, doesn't it? That we are in our bubbles. Like the situation that Andy Grove brought up was mainly a celebration that a lot of the people around you, especially when there is hierarchy, are echoing and maintaining the bubble. And plus, and we should not forget this, we are socializing too with the folks around us, colleagues too. Thus, a lot that goes on with people in work is commonly perceived a sort of identity too. We seem to know how to separate as in our lives from a work identity. But still, we also know how to maintain the work identity under a certain control, as we might know that we depend on it. Thus, it does not matter much if the a work identity really connects with the general identity of us. What matters, at least for thus reflection here about narratives, is that we do such as effort to keep that identity working, doing a good job. Again, because we might think that we depend on it. Such as when our future depends on it.
+
+The secondary aspect, that narrative is how we make sense of things, deserves a bit of thought as well. Let's consider the process of entrepreneurship, such as when we start working in a new project, and how narrative driven progress influences us, again, to do good, and also to do bad.
+

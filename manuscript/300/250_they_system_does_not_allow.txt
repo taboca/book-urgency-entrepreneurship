@@ -1,4 +1,8 @@
-## Mas o sistema não permite! tecnologia e processos para governança estratégica
+# System doesn't allow
+
+<!--
+tecnologia e processos para governança estratégica
+-->
 
 Quem nunca viveu aquela situação de tentar flexibilizar uma interação com um atendente, em uma loja ou um departamento público por exemplo, e recebeu uma resposta do tipo “desculpe-me mas o sistema não permite”. De todas as respostas possíveis essa “do sistema” é simplesmente matadora. Não tem mais perguntas. Sugere inclusive que a pessoa poderia flexibilizar para você mas as coisas não são tão simples pois existem regras fora do domínio do operador. Também não deixa opção para chamar o superior porque dessa vez foi “o sistema” — um tipo de força maior.
 

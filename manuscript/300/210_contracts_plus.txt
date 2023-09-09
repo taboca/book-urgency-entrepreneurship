@@ -1,4 +1,4 @@
-## O que vem depois das regras
+# Contracts   
 
 De acordo com Dov Seidman, p.49 (Como: Por Que o COMO Fazer Algo Significa Tudo... nos Negócios (e na Vida); regras são criadas para nos proporcionar mais certezas, consistência e previsibilidade. É porque precisamos de mais certeza é de previsibilidade que podemos consultar regras que nos dão um piso firme, podemos avançar sem medos, uma vez que seguimos aqueles parâmetros.
 

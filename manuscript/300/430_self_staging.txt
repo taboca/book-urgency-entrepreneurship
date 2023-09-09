@@ -1,6 +1,10 @@
-# O palco da autovalidação e as redes sociais 
+# Staging validation 
 
 <!--
+
+## Title 
+
+* v 0.1 O palco da autovalidação e as redes sociais  
 
 ## Version 
 
