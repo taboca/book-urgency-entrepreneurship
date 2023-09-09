@@ -28,8 +28,7 @@
 100/900_personal_board-en-us.txt
 100/950_accounting_learning.txt
 100/970_winning.txt
-100/980_emotions.txt
-100/982_identity.txt 
+100/980_emotions_and_identity.txt
 
 200/000_part2.txt
 200/030_razoes_para_correr.txt
