@@ -1,0 +1,146 @@
+
+<!-- 
+
+## Title 
+
+* The Lean Dilemma 
+
+## SCqA v2 
+
+* scqa - Recap - We have looked at storyelling, of a narrative rationaly, creates a highly effective system for fast collaboration, where people come up experience and act, for good or bad. 
+
+* scqa - Subject - The subject now is to look at the lean methods (can we use one to generalize all?, notice that Marcio has clipping of Eric Ries where he refers to all movements in many areas) and amid their intention to innovation (check the goals of lean, as Eric one that has nothing to do with size) still is difficult to embrace it properly. As in people, even when trying, fail trying to control it. 
+
+* scqa - Sit - Lean is to learn, validated learning. 
+* scqa - Sit - Lean is cheap, meant to be fast, to speed things. 
+* scqa - Complication - People give up lean, talk about using lean but aren't, false-positives, or it does not work. 
+* scqa - Question - Can we be aware of what happens? Can we reflect? In the hope of noticing what our execution, and frameworks of execution, does? 
+
+* scqa - A - Key - Generally, storytelling as the grease to the system, for any team willing to use lean to innovate (check Eric definition) a storied context is developed. In time, amid an existing organization and the forces governing its operationality, lean interpretation, for proposals, data collection, and judgment, suffers as a logic of good reasons affects the story, with many subjective levels, of what is being experience, then affecting decisions, what is being told. 
+
+* scqa - A.0 - Nature of lean - Eric contribs, lean vs. design, thinking. Nature of startups, growth and future. Nature of decision, based on subjective logic and judgement, forces actuating, risk analysis based on analogies/coherent stories, and investing bets, like investor does. 
+
+* scqa - A.1 - How experience fail - Expectations of objectives, character of roles, character of other judges. In terms of goals, although learning is recognized, still there is double bet, the team is intended to succeed. Now that they lie, they just miss beind devil's advocate. On roles, the executor's job might be compensated for finding the solution, not the learning. So it believes she will die if she doesn't find oil. And at complex forces actuating such as complex organizations, a governing force might create blind zones, or clarity zones for a direction, like when legal prevents a simple experiment as if it is against the norm. In other words, identity (character) of goal, identity (character) of individual or team, tension or conflict with institutional identity. 
+
+* scqa - A.2 - How taming - Awareness of the language, the forces, good outstanding reasons, and taming influence of language. Awareness of protection or lock/unlock power, or bundle/unbundle forces. Eric talks about a role to help making work. JOhn Doerr in Measure What MAtters talks about a role of a promoter, whcih also protects a line of conduct, permission, courage bought in. And paralelizing, not when in doubt, but as principle - models of character of self, aside from distortions of self, MD. Check about concept of actuators (physics), Scotch belsky. Problem for startups, is not having a role other point of view. And even worse, a cofounder can also blind. 
+
+SCqA - v0.1 - Teams drop lean? Wait, what is lean? Recognize lean, reason, exactly to seek truths. But the complication is that, in the pressure of goals and expectations, the "Logic of good" reasons applies on different levels, associated with expectation goals. Q and A? Why? The logic of good reasons, and storytelling, supports advancing in a team. Again, the grease. What are generally good reasons? The outcomes as seen. Key 3 is that Incidents feed good reasons in time, we compare with the prior state, like a storytelling. We might be compensating positive with negative? Key 2, for how, is that "Zones of lean" creates allowances but the outcome of the zones, story outcomes, finds "trigger points" where hierarchies of good reasons promotes advancement at another investment level of scale, supposedly influencing risk assessment and fear. 
+
+--> 
+
+
+[^stevenobusinessplansurvives]: 
+
+<!--
+
+Blank, S. (2010, November 1st). No Business Plan Survives First Contact With A Customer – The 5.2 billion dollar mistake. Retrieved from https://steveblank.com/2010/11/01/no-business-plan-survives-first-contact-with-a-customer-%E2%80%93-the-5-2-billion-dollar-mistake/
+
+-->
+
+[^ericriesonfoundersnolean]:
+
+[^paulgraham_growth]: 
+
+
+<!-- 
+Graham, P. (2012, September). Startup = Growth. Retrieved August 29, 2023, from http://www.paulgraham.com/growth.html
+--> 
+
+
+#### Strip 
+
+* founder comes out of the building, asks to pivot. Silence equals to pivot. 
+* founder comes out if the building, asks to pivot, team claims the Steve 72h rule. Founder goes back to streets.
+
+
+<!-- 
+
+MAP14. (2014, March 13). MAP14 Public Forum: Steve Blank. [video]. Retrieved from https://youtu.be/UFx2CQUTpYo
+
+--> 
+
+<!-- 
+cross: links to part 2, 200/620_lean_no_lean.txt 
+--> 
+
+* Check p. 48 "Moreover, narrative rationality does not deny the limited but necessary use of technical logic in assessing inferences or implicative forms that occur in human communication. I would observe, however, that such assessments become useful only insofar as the discourse in considered as a whole, as part of a storied context in which other features of the discourse are taken into account, including mythic and metaphoric elements. " p. 48 
+
+* Check - "Support for this view - that technical procedures and data should be interpreted in a storied context - is provided by Alexander Marshack. Numbering, he observes, "may perhaps be thought of as 'pure' and unrelated to storied meaning, but psychologically it is, nonetheless, a symbolizing and cognitive process. As such, it is always a 'time-factored' and 'time-factoring' sequential skill . . . " p.48 
+
+* Check - There is another place, towards more the middle or end, perhaps, that Walter Fisher, brought the situation of time such as timeline. Or episodes. 
+
+* Notice the 3rd level. Now consider when the prior situation, such as an incident, feeds the value formation from the lenses of comparison. 
+
+* Notice that moving by analogy is also a value formation too, such as success where achieve via doing, and than it is likely that doing alike can do the same. A reference here, for models, is the the book it radical irrational, I think, some tio do vale has the link for the analogy being used effectively. 
+
+* In the same like, analogy can also even make models, such as business models, to be applicable. Consider the phenomenon Uber of XYZ which provokes the reader in the frame that collaborative value of a sorts can be present. 
+
+#### Check this thing about discrimination which can help with understand lean in the storied context
+
+* 3 levels of what? Discriminations? 
+* One will focus on the sequence of symbolic acfkons and their meaning. 
+* one will recognize that no text is devoid of historical, situational, and biographical context,
+* one will recognize that the meaning of value of any account are always influenced by how the account or story stands with or against other stories known to the audience of the other observer.
+
+<!--
+
+SCqA balance: Considering perspective storytelling too, breaking storytelling with shock-absorbers? Creating support models for checking narratives against different viewpoints? Curating the viewpoints that matter? From within? Is it possible? Complication. 
+
+qA - start with support, with being humble, inclusiveness to the check. 
+
+ook / Executive Function to Escape Narratives and Test Awareness
+
+* As we move into other aspects, such as cognitive distortions, and one's executive functions, we tap on what can be done, if something can be done from within. And a part, critical, is support.
+
+* Support - tools -  The executive of Michael, Pre-mortem, has a hint but also the point, you do not punish yourself. 
+
+* Support - tools - Search for “The best practice here is to develop a tolerance for momentary injustice an periods of ambiguity. Stay strong and stay calm as a situation settles itself over time and the clouds around any period of change start to dissipate. “ (Scott Belsky, 2010, Making Ideas Happen)
+
+* Support - about being humble? Humbleness is a way to escape? Get the John Lilly's point and story. 
+
+* Executive Function and Support for Agency for The Own Actions [feat. Stephanie Carlson]  
+* https://www.youtube.com/watch?v=BvyTiC_byOo
+
+* Support, sense of agency, https://youtu.be/BvyTiC_byOo?t=477 
+
+
+[^riskanalysisofvc]: 
+
+[^foundersreputation]: 
+
+
+> “The best practice here is to develop a tolerance for momentary injustice an periods of ambiguity. Stay strong and stay calm as a situation settles itself over time and the clouds around any period of change start to dissipate. “ (Scott Belsky, 2010, Making Ideas Happen)
+
+<!--
+
+Belsky, Scott. (2010). Making Ideas Happen. London, England: Portfolio.
+
+-->
+
+> "That is why you need an advisory board, or board of directors, who is coaching the founders on this because you could get enamorated with the process and confused that the last person to blow on your ear, actually have a valid insight."  (Steve Blank @ MAP14, 2014, 24m51s)
+
+> "I need to make sure that somebody is looking at this who isn't just me. Who can critique the strategy it might be an advisor it might be a trusted colleague it might be a cofounder." Michael Dearing. (Greylock, 2015 October 8, 1:00:00) 
+
+<!-- 
+
+Greylock. (2015, October 8). Blitzscaling 03: Michael Dearing on Capitalism, Creativity, and Creative Destruction [Video]. YouTube. https://youtu.be/3vCdfa_aeI8?t=3600. Minute 1:00.
+
+--> 
+#### Consider: 
+
+* Moving into lean, the consideration of message and carrier, the storytelling by a storyteller, and the system of values supporting by the accounting. This shall establish also a bridge to the modes to help with the innovation problem as pointed by Eric Ries, innovation accounting, for example. A link also can be give to Michael Dearing on Npv and the provocation from Reid Hoffman. 
+
+<!-- 
+
+Work more here
+
+https://medium.com/@mcgd/the-cognitive-distortions-of-founders-8e96c1edf60b
+
+-->
+
+https://medium.com/@mcgd/the-cognitive-distortions-of-founders-8e96c1edf60b
+
+“[Reid Hoffman asks] And what are the indicators that you would use for checking the idea. [context: You could be jumping off a clicf without the ability to assemble the airplane on your way down]. What are the crosschecks you think people should do?
+
+> "[Michael Dearing] One really good one is to give a chunk of time in the schedule to devil’s advocacy. And this was a tactic that I learned from Michael Eisner at Disney. I didn’t work for him but I worked for somebody who worked for him and the whole idea there was — every big good idea is going to be subjected to a devil’s advocate case. And somebody, probably the smartest person he could find, is going to be in charge of trying to destroy your idea. And he or she isn’t gonna be held as, like, they’re not going to be considered to be out of bounds for trying to destroy your idea it was their job to try to destroy your idea. And that technique of saying — okay, you please spend the next two days finding everything wrong with this, and then you have full permission to be the biggest asshole you ever met, trying to torpedo this idea. If you can find some people in your life who can play that role, that’s a huge positive as a founder. (Michael Dearing @ Greylock, 2015, 33min18sec)
+
