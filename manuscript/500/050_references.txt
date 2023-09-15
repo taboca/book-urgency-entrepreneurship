@@ -20,6 +20,14 @@ Didn't reffered this one but the above Hari, from 050_foreword.txt
 Lorenz-Spreen, P., Mørch Mønsted, B., Hövel, P., & Lehmann, S. (2019). Accelerating dynamics of collective attention. Nature Communications, 10, 1759.
 --> 
 
+
+<!-- 
+ 100/010_startup_you.txt 
+--> 
+
+Hoffman, R. (2023, September 12). You are Generation AI | 2023 Commencement Speech at Bologna Business School [Video]. YouTube. https://www.youtube.com/watch?v=kKC27SXeIB4. Video position 2:06-2:36.
+
+
 <!-- Ogilvy 
  100/050_wantrepreneur_learner.txt
  200/030_razoes_para_correr.txt 
