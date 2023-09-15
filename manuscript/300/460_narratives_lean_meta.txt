@@ -1,6 +1,21 @@
 
 <!-- 
 
+## Todo 
+
+* ( ) The references to Eric Ries were taken from the "O Estilo Startup" instead of "The Startup Way". Marcio also brought a definition of a startup from "The Lean Startup" with a degree of guess and non-confirmed English translation when he wrote that according to Eric Ries a startup is "a human institution designed to create a new product or service under conditions of extreme uncertainty."
+
+## Feat 
+
+* Eric Ries, The Start-up Way 
+* Walter Fisher, Human Communication as Narration 
+
+## Review candidates 
+
+* CY - 
+* MD - 
+* ER - 
+
 ## Title 
 
 * The Lean Dilemma 

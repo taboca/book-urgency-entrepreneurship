@@ -167,11 +167,20 @@ Graham, P. (2014). Before the Startup. http://www.paulgraham.com/before.html
 Graham, P. (2012, September). Startup = Growth. Retrieved August 29, 2023, from http://www.paulgraham.com/growth.html
 
 <!-- 
-* From 450_passing_on_stories.txt 
+* From 450_narratives.txt 
 --> 
 
 Fisher, W. (1989). Human communication as narration. University of South Carolina Press.
 
+<!-- 
+From 460_narratives_lean.txt 
+--> 
+
+Ries, E. (2011). The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses. Crown Business.
+
+Ries, E. (2017). The Startup Way: How Modern Companies Use Entrepreneurial Management to Transform Culture and Drive Long-Term Growth. Currency.
+
+Ulwick, T. (2017). Outcome-Driven Innovation: JTBD Theory in Practice. Medium. https://jobs-to-be-done.com/outcome-driven-innovation-odi-is-jobs-to-be-done-theory-in-practice-2944c6ebc40e
 
 
 <!-- 

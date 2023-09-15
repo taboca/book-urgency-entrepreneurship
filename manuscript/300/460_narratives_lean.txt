@@ -1,16 +1,35 @@
 # The Lean Dilemma 
 
-We have looked at storyelling, of a narrative rationaly, creates a highly effective system for fast collaboration, where people come up experience and act, for good or bad. We have also considered how the narrative rationality might be applicable in the face of the situations where decisions must be made and where not a full picture exists, such as the domain of entrepreneuship, where judgement calls take into account a logic of good reasons that appears to the participants. In other words, a narrative rationaly appears to be a highly effective system for fast collaboration, for good or bad. 
+We have the idea of a narrative rationaly as a effective mechanism for collaboration, as particularly effective for the situations where discussions are happening before decisions that must be made - needless to say that it is the case of startups teams driven by their urgencies to grow. In other words, the narrative rationality and its logic of good reasons adds speed to the judgment calls influencing the course of action, for good or bad.  
 
-Now the subject of this chapter finally arrives at the topic of lean, as lean methodologies [check how we can go with the lean of all, check Eric Ries on LEan vs Design Thinking] came along with the modern entrepreneurial needs of a dynamic world, but is especially concerned with when lean is used and goes wrong - what forces causes it to fail. 
+Now the subject of this chapter arrives at the topic of lean, assuming that lean movements are real in the path of entrepreneurs trying to become productive and rigorous. In this regard, we turn our attention to the situation when entrepreneurs engage with lean methods in and later find out complications where the promise of lean seems to fall apart, and consequences such as when a team gives up lean, enters premature pivoting, and others conditions of when lean fails. Although the narrative rationality does not explain when lean fails, it adds clarity for how communicative experiences enables a glitch in the operation of lean practices that shapes decision making and evaluation, aside from expertise and intelligence level of teams. 
 
-Methods like Customer Discovery, Design Thinking, Agile are projections of the wider phenomenon where the innovation environment demands to be highly interative, where learing and the cycle of learning is part of the process of innovation. According to Eric Ries, the renowned author of "The Lean Startup", the startup situation should be seen as a "human institution designed to create a new product or service under conditions of extreme uncertainty." [^footnote_eric_ries_startup]. The lean movements become then the way to go for the startups to operate with more rigor in the face of their need to innovate. Another situation is that if we look at all these methodologies and others such as Jobs To Be Done [^footnote_jobs_to_be_done], we will see a pattern where the user, call it customer or not, is closer to the function of production that makes products or services to happen. The general idea and phenomenon of the participation of the user can be reflected with the reading of USer Innovation  [^footnote_user_innovation]. 
+Anyone navigating modern entrepreneurship is likely following the general philosophy, methodologies and frameworks of the lean movement. Consider Customer Discovery, of Steve Blank, which supports founders with interactions with potential customers and the goal to understand their needs and if they have a problem worth solving. As we have considered in a prior chapter, the specific framework of Business Model Canvas is also a tool intented to learn about potential business models. These frameworks and methodologies are highly iterative and hypothesis-driven. 
 
-But then it comes the complication, that entrepreneur roles that execute lean run the risk of giving up lean, such as to talk about using lean but aren't, leading themselves to false-positives; failing with lean. This phenomenon, or pattern, is recognized by entrepreneurs and practitioners. This concern was reflected by Steve Blank, "doing lean vs. talking about" [^footnote_steve_blank_talking_about], that indicated that founders may suffer from an attention deficit disorder. The concern of Eric Ries can also be expressed by the question he asks entrepreneurs - "if you use lean why it is that you want to give up" [^footnote_eric_ries_startup_way_give_up]. 
+In the context of startups, and aligning with the interpretation of Eric Ries [^footnote_eric_ries_startup] of a startup as a "human institution designed to create a new product or service under conditions of extreme uncertainty" (Ries, 2011; Ries, 2017), the Lean Startup methodology adds rigor to the complex process of innovation. One of its principles involves the cycles of learning, known as Build-Measure-Learn, as concretes in the sense of acceelerating the feedback loop. Another principle is the idea of validated learning: 
 
-In searching for an lighted way when dealing with lean methods, we will give time to this concern so that to help us to improve awareness, fist looking at how we experienced the advancement of learn, in the face of uncertainty and under pressure of time, and how the context has a major influence, how forces are always present to governing its operationality, lean interpretation, proposals, data collection, and judgment, and how the protagonists of the effort suffers as a logic of good reasons affects the story, with many subjective levels, of what is being experience, then affecting decisions, what is being told. With a reflective moment about the ways we experience the problem and the ways we advance/decice, we should consider strategies for a healthier involvement with lean. 
+[^footnote_eric_ries_startup]: In the book The Startup Way, Eric discusses the complication when a startup - team that seeks to create a new product or service, under the condition of extreme uncertainty - does not protect the team from forces that prevent them to achieve clarity in the learning process that is key in the lean movement. 
 
-### The lean world under pressure 
+> *"The unit of progress for Lean Startups is validated learning - a rigorous method for demonstrating progress when one is embedded in the soil of extreme uncertainty. "* 
+> Eric Ries, (Lean Startup, https://theleanstartup.com/principles)
+
+Another pattern that can be identified with these methodologies and frameworks, such as Customer Discovery or Jobs To Be Done [^footnote_jobs_to_be_done], involves recognizing a closer interaction with potential customers as part of the learning cycle. For Tony Ulwick, the innovator behind the *'Jobs To Be Done'* (JTBD) framework, "while customers may not know what solutions they want, they most certainly know their needs related to getting a job done." (Ulwick, 2017)
+
+<!-- reference 
+
+Ulwick, T. (2017). Outcome-Driven Innovation: JTBD Theory in Practice. Medium. https://jobs-to-be-done.com/outcome-driven-innovation-odi-is-jobs-to-be-done-theory-in-practice-2944c6ebc40e
+
+Ries, E. (2011). The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses. Crown Business.
+
+Ries, E. (2017). The Startup Way: How Modern Companies Use Entrepreneurial Management to Transform Culture and Drive Long-Term Growth. Currency.
+
+-->
+
+But then it comes the complication, that entrepreneurs that execute lean run the risk of giving up lean, such as to talk about using lean but aren't, leading themselves to false-positives; failing with lean. This phenomenon, or pattern, is recognized by entrepreneurs and practitioners. This concern was reflected by Steve Blank, "doing lean vs. talking about" [^footnote_steve_blank_talking_about], that indicated that founders may suffer from an attention deficit disorder. The concern of Eric Ries can also be expressed by the question he asks entrepreneurs - "if you use lean why it is that you want to give up" [^footnote_eric_ries_startup_way_give_up]. Although these aspects are observations of the complication, we will consider how the storied context of lean applicability is impacted by the context as a major influence, how forces impacts phases such as hypothesis design, interview selection, data collection and interpretation, discussions and judgments for what is next.
+
+Let's start looking at how situations from lean movements that shows how the problem is experienced and real, then considerations for how the logic of good reasons affects the storied context of lean, and finally consider strategies for a healthier involvement with lean. 
+
+## Lean movement under pressure 
 
 We also know that the world has changed, that the longer process of analysis of a business plan does not work anymore [^stevenobusinessplansurvives], at least in the face of the popular lean movements that came to help team to innovate. Therefore, now, the pathway of entrepreneurs had changed from the prior world of writing a business plan to a new world, a highly iterative world, promoted by the lean movement. This new movement is meant to help teams to learn, from iterations, from experiments considerably cheap, from analysis of the experiments, trying to map value that suggests hints for more investment, the next stage. 
 
@@ -45,17 +64,6 @@ Let's review the logic of good reasons being applicable by the founders as they 
 
 > "founder comes out of the building, asks to pivot. Silence equals to pivot. founder comes out if the building, asks to pivot, team claims the Steve 72h rule. Founder goes back to streets. " Cartoon strip interpretation of Steve notes, by Marcio 
 
-### Logic of good reasons serving lean  
-
-Now, as indicated by the process, learning is involved so that the next phase of investment can be activated - either more funding, more resources, scaling needs, productization, and more. Implicit in this process is the idea that someone is observing, the judges, being the team or others supporting peers. Any learning effort that goes on, with a plan of execution (good or bad) will only happen in a period of time and should arrive at a presentation in front of a hypothetical judge/audience, that will approve the next phase. The judges can be the founders approving themselves as resources to try again, do a new cycle, keep on going, you name it. 
-
-Therefore, for the approaval phase to happen, a narrative has to exist. This necessity creates an anchor to founders. Influencing the narratives that they tell themselves, analysis reports and other narratives that may fill the details for a presentation. This format invaribly involves founders advancing as they do analysis for a general narrative that attempts to add the supporting data related to their ideas, guesses or hypothesis, data and interpretation of their incomplete tests, interpretations of responses such as feedback from early users, and other partial analysis. 
-
-The provoking point about the theory is that stories are more persuasive than arguments. Our capacity to grasp and retain ideas often hinges on storytelling, an intrinsic human trait. We learn, discern values, and act based on the narratives we encounter. By following this line of thinking, let's consider that we live out narratives and with that, that we understand, or measure, our lives, and consequently inclinations to do things, in terms of narratives that we evaluate. 
-
-Now, by just focusing in storytelling, we are likely to understand that founders are not driven only based on that main aspect. We know that they have to be good storytellers, but also that what they try to create, in the end of the day, will need to pass a big test, the real test, in front of ultimately the ones that can accept or deny the product. The real judges, such as customers. We don't deny that the end has to bring value and has to be concrete. But again, as the goal is in many startup situations to scale, the goal is a future, and in the future there is always the presence of a projected audience , and the value-based judgements, which may use partial data from the past/present. 
-
-Still, our attention here, as we consider the process of lean, is that a lot of support that founders get has to do with the judgements that they do themselves, and by the others that they are contacting on their way, others which seem to be representatives of a wider audience or "brokers" into that audience. In addition, that they need to be organized and coordinate actions by telling themselves stories of how they are doing, how they are executing. The complication for them is that the actual storytelling of the execution will naturally deal with data that is more or less accurate. In other words, the methods they use, in the early stages and through discovery, are lean methods that naturally don't guarantees success at the next stop. If we consider tools such as the MVP, business model canvas, or customer discovery; all of these are iterative solutions to help them to get data, or fragments of data, that are to be interpreted subjectively based on founders knowledge, and becomes information inserted in their stories to support the call, such as a yes or no, for the next stage of investment. The very system of giving points, like score cards, based on these frameworks, don't give the answer, the ultimate answer. There are so many data points to be considered. IT's a value judgment view that approves the next phase of investment. 
 
 But as we dive in the process, if we zoom in, we will see that the storytelling applied by the hour, as events are happening, as execution happens, is tied to the storytelling by the longer period of investment. To give colorful case, consider the "72h rule" created by Steve Blank to help teams to control the impulses of a CEO - that leaves the building to do interviews - that comes back with a story that seem to present good reasons to pivot. 
 
@@ -73,13 +81,68 @@ Thus, what is implicit in the doing of lean is a relationship with storytelling.
 
 But it serves as an alert of our propensity to decide for action x or y using stories. And a reminder for us that, when the clock is ticking, sticking with a story that supports decision is generally applauded. We need to be pragmatic, in the end of the day, we need to move. And, again, there is nothing wrong with that. As the process, as we know it, will ultimately reveal the truth, in the end of the days. 
 
-#### Higher-order expectations and the inductive audience 
-
 The case presented, when one says to use the "72h rule" is an example applicable to after the process of going out of the building. This the applicability of the rule, which happens to be used to prompt a decision, might be valid in the face of the longer process of the story. But, since the movement is forward, and scaling expectations is ahead, there seem to be expectations for certain indicators of "good reasons" that justifies the next movement of scale, such as the investment to develop a more complex prototype or sales experiment. 
 
 In other words, teams are looking for evidence, which is driven by their very outcomes needs associated with their plans, if not they are also measured in terms of performance. 
 
-### Incidents and biographical and time-based comparison  
+
+## Logic of good and the lean audience 
+
+Now, as indicated by the process, learning is involved so that the next phase of investment can be activated - either more funding, more resources, scaling needs, productization, and more. Implicit in this process is the idea that someone is observing, the judges, being the team or others supporting peers. 
+
+Any learning effort that goes on, with a plan of execution (good or bad) will only happen in a period of time and should arrive at a presentation in front of a judgement moment with an audience, that will approve the next phase. The judges can be the founders approving themselves as resources to try again, do a new cycle, keep on going, you name it. Therefore, for the approaval phase to happen, a narrative exists, a rationality deals with the narrative and affects the storied narrative, and next investments are made based on that. 
+
+Now, zooming out from storytelling, and the fact that everyone is always doing their best in trying to defend themselves with good stories, we can shift our focus to the aspects of the tests, starting with the recognition that all that comes later are larger and more concrete tests, such as by real customers, by a significant share of a market. Conversely, the visceral reality is that representatives, or gatekeepers of what is next, are projected as the "eyes" to judge what is about to be proposed next, or ahead. In other words, they vouch, to accept or deny what is being done. As the goal in many startup situations is to scale, the goal is in the future, and in the future involves the representation of the voice of an audience, then value-based judgements chimes in, with partial data from the past/present associated with a coherent story (narrative, or argument) given by any participant and supported by an audience.  
+
+<!-- 
+Potential dup 
+--> 
+
+Still, our attention here, as we consider the process of lean, is that a lot of support that founders get has to do with the judgements that they do themselves, and by the others that they are contacting on their way, others which seem to be representatives of a wider audience. In addition, that they need to be organized and coordinate actions by telling themselves stories of how they are doing, how they are executing. The complication for them is that the actual storytelling of the execution will naturally deal with data that is more or less accurate. In other words, the methods they use, in the early stages and through discovery, are lean methods that naturally don't guarantees success at the next stop. If we consider tools such as the MVP, business model canvas, or customer discovery; all of these are iterative solutions to help them to get data, or fragments of data, that are to be interpreted subjectively based on founders knowledge, and becomes information inserted in their stories to support the call, such as a yes or no, for the next stage of investment. The very system of giving points, like score cards, based on these frameworks, don't give the answer, the ultimate answer. There are so many data points to be considered. IT's a value judgment view that approves the next phase of investment. 
+
+<!-- 
+Potential dup 
+--> 
+
+
+### Higher-order expectations and judgment calls 
+
+Now, the existance of hierachies seem to make sense from the aspect of a higher-order system that holds the subordinates togethers in the face of uncertainty, such as volatility. The reason that the higher-order system does engage in risk analysis make sense, as they will approve the safety of its parts. This is perhaps not unlike the situation of a mother bird that has the household under her feathers. The chicks are experimenting, learning their ways, and she might ensure protection. When a dog approaches with barking, the chicks wouldn't be able to assess if they didn't see that situation before. The pattern of the crazy chicken is brought to earth, and dog goes away, and little chicks are still protected to continue their experiments. Some of them might learn from the pattern too, which is a bonus. 
+
+Now, moving away from the cartoon of a farm, and straight into the jungle of large corporations, a point from Andy Grove, from High Output Managemet, organizes an ideas as the maturity level  [^foonote_andygrove_maturity] which involves the idea that trust is given by a higher-order that has higher responsability, to a lower-order subordinate, after proven experience, which translates as power to decide for decisions that may embody more complexity and even uncertainty. Now, in other words, the mother chicken could rest if she checks that one of the chicks is programmer to go crazy in the face of the enemy. 
+
+[^foonote_andygrove_maturity]: 
+
+Now the implication from a higher-order system is that it has rules - it approves movements of the subordinates. What we are now to consider, is that the entity of a higher-order, can be real or a model, a projection. What matters more is that it drives the team to move forward, and that is influences the decisions with its value system. 
+
+But it is not that, in reality, such as the reality of a small team of 3 founders, the rules of a higher-order are strict, like a system-level implementation that will test the interactions, the data lifted by the teams. In reality, humans write the plans of what they expect, design all, and even go all the way to edit in real time the actual expectations for survival and for what is next. It's up to the team that call. 
+
+Thus the real responsible teams have to be able to manage what they are doing with a transparency. In more complex scenarios, there appears representatives, such as members that signal the higher-order too, could be a projected narrative in the name of a department, a manager, and even roles representing the customer, a coach, a mentor, the legal department, human resources representative, you name it. 
+
+#### Character values  
+
+Consider the case of a designer that received a job of discovery that would be taken into account for a cause, an outstanding cause. Notice that the discoveries in these learning projects might actually impact teams - the subject here. The complication, to be considered, is that the isolated exercise leads to new data, that makes a call, prompts a new situation, an attempt to modify the storied context. Depending on the conclusion of the executor, a tension can be brought as alarming in the face of stability of the higher-order, such as the work situation of success for the parent team. This tension, creates a dissonnance, and may impact either the presentation or clearly invalidate the effort, or the other possiility is accepting that tension and figuring out how to resolve it. The point is, to put a colourful case, the manager may not like what the subordinate is about to discovery. The manager might not accept one possible result, or certain direction. Or the very fact of a possibility of the subordinate being recognized as depending on the life of the manager, the identify of success associated with the state of stability, might itself influce the value system that affects the work of the subordinate and the judgement of the work. 
+
+<!-- Reference 
+
+* Check the case of Jacqueline withing some of the lean articles 610_lean_no_lean_1.txt
+
+--> 
+
+#### Team character values 
+
+A situation of the performance system impacting the execution was illustrated by Eric Ries in the The Startup Way, (2017, p.223). Eric Ries, when involved in the process of supporting a program of innovation at GE, FastWorks, came across the situation of moving forward, after prior validated learning effort. Eric was quite happy with the results and had in mind that the meeting would be about the decision to propose a new plan to the direction. To his surprise, mostly everyone denied moving forward. What he had discovered was that the change proposed, fundamented by the prior learning, would create additional costs for the company. Then Eric dug more asking help to find out the costs and they figured that it would be worth it to move forward. But still, another person brought up yet another good reason to not move forward, which was human resources: The fact that if an employee happen to rework in something, that would count against his career evaluation. 
+
+<!-- 
+
+( ) Check page above because p223 is from the pt-br one, O Estilo Startup 
+
+Ries, E. (2017). The Startup Way: How Modern Companies Use Entrepreneurial Management to Transform Culture and Drive Long-Term Growth. Currency.
+
+--> 
+
+
+### Storied context in time and comparisons 
 
 <!-- 
 cross: links to part 2, 200/620_lean_no_lean.txt 
