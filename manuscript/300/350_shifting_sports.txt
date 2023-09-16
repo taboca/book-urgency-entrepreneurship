@@ -14,9 +14,24 @@ A possible objection would be that we have brought the situation of the "shiftin
 
 ## Todo
 
-* [ ] The case of Brian different sports was brought up in city/tribes and learning, which you can read from the 010_startup_you.txt. 
+### Feat. Consider investir theory
+
+* Marc Andreessen 
+* Bill Draper 
+
+### Feat. Brian Chesky 
+
+* [ ] The case of Brian different sports was brought up in city/tribes and learning, which you can read 010_startup_you.txt from the 010_startup_you.txt. 
+
+### Feat. Michael Dearing 
+
 * [ ] Bring a notion from Michael Dearing that is part of Blitzscaling #3. 
-* [ ] Michael Dearing - Bring the case of McCallum and the railroad - https://medium.com/@mcgd/thank-you-daniel-mccallum-133d27e98468
+
+* [ ] Michael Dearing - Bring the case of McCallum and the railroad - https://medium.com/@mcgd/thank-you-daniel-mccallum-133d27e98468. 
+
+* "Many talented people in Silicon Valley are in McCallum’s shoes. They’ve risen rapidly in their career because they were great at their jobs, because the company was growing like crazy, or most likely, both. They’re getting shoved into leadership and management roles and they’re struggling." - Michael Dearing @ https://medium.com/@mcgd/thank-you-daniel-mccallum-133d27e98468 
+
+* Ref - https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/big-data-in-the-age-of-the-telegraph 
 
 ## References
 

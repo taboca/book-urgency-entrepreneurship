@@ -1,8 +1,8 @@
-# Willingness to start 
+# Controlling readiness 
 
 <!-- 
 
-v2.1 
+v2.2
 
 * https://chat.openai.com/share/11e18a75-c970-41be-8e3a-9ed870e702b3
 
@@ -30,9 +30,7 @@ The repercussion of this is that we often feel we need to be in the right mood f
 
 Furthermore, the notion of "analysis paralysis" frequently resonates in our minds, embodying the fear that we may become so wrapped up in overthinking and overanalyzing that we end up immobilized, incapable of making decisions or taking action. This fear can amplify our anxiety and the perceived necessity to be 'in the right mood' to tackle these demanding tasks. While the real situation of analysis paralysis can indeed be debilitating, the prevalence of this concept in discussions and self-reflections often heightens the apprehension about engaging with complex tasks. It's essential to distinguish between the phenomenon that gave rise to the concept and the rhetorical device it has become, often used to accentuate fears and challenges in the execution of demanding tasks.
 
-Conclusion? We need to be in the right position to advance, in a good mood, in a positive emotional state. But to get out of this need that prevents us from advancing more complex reflections, and in the pursuit of a solution, it is needless to emphasize the value, in the first place, of the exercise of reflection on this automatic tendency of ours.
-
-Furthermore, it is worth considering Julia Cameron's idea for the situation of writers - which can shed light for entrepreneurs. The exercise that Julia suggests consists of writing - for example for 10 minutes - about what is on your mind, some concern, for instance, a lack of preparation. From there, try to write for another 5 minutes about how your mood towards the activity has changed. She asks us to make a sort of report on the experience.
+Conclusion? We need to be in the right position to advance, in a good mood, in a positive emotional state, and the readiness condition in general, that gives us more control towards the outcome. But to get out of this need that prevents us from advancing more complex reflections, and in the pursuit of a solution, it is needless to emphasize the value, in the first place, of the exercise of reflection on this automatic tendency of ours. Furthermore, it is worth considering Julia Cameron's idea for the situation of writers - which can shed light for entrepreneurs. The exercise that Julia suggests consists of writing - for example for 10 minutes - about what is on your mind, some concern, for instance, a lack of preparation. From there, try to write for another 5 minutes about how your mood towards the activity has changed. She asks us to make a sort of report on the experience.
 
 <!--
 

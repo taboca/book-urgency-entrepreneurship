@@ -1,0 +1,131 @@
+<!--
+
+## SCqA review 
+
+* Subject - Emotions affect us, as organizations such as startups, start with founders. Emotions are triggers for value-systems, associated with who they are and their roles. 
+
+* Situation - We make calls, we make mistakes - in the context of urgencies, pressures of judgments. We make trouble such as ends. And after post-mortem, we wished we could call us back in time. 
+
+* Complication - The executor, as a person and their role, make decisions and emotions counts, chimes in, especially in front of projections of judges. Our aspirations, and who we think we are make us feel, influences our calls. It's tough to detach. 
+
+* Key - How we experience - Our aspirations, in the beginning, counts more. More value counts, such as motivations and vision & value system. We created value-anchors for who we are and our causes. Then we fail, actually in fact after passing successes, thus we count on prior decisions, such as bets that yielded good advancements supporting our roles. 
+
+* Key - Situations of value-based and emotion counts, as we attach to the roles that represents storied context - we hold things together and failing to represent might means breaking stability. Case of self (baby is ugly / steve) case of team tribe (melissa) and case of state (andy  grove on grief phases, and pre-mortem. )
+
+* Key - Consider to bring in the case of Aaron, the caretakers company, and when hiring used a value system to add value to an employee, such as connection with cause, and goals. Then, of course, the fail day chimed in - technically speaking employee was judged - but now the CEO is victim of his identity "if I convinced company to hire with that connection, now that connection does not count? 
+
+* Key - Distancing - Michael Dearing, Conscious BUsiness. 
+
+## Title 
+
+Título: A resiliência emocional do empreendedor de sucesso
+Título: As ideias e emoções do empreendedor em tempo real
+
+## Notes 
+
+I. Introdução
+
+Empreender por necessidade pode ser desafiador
+Incertezas trazem não apenas dificuldades econômicas, mas também emoções fortes que afetam o empreendedor e sua crença sobre empreender
+Alguns empreendedores desistem e interrompem seus projetos, mas depois se veem livres e começam a organizar suas ideias
+Empreendedores de sucesso conseguem separar emoções de ideias e vivem dentro e fora da bolha das adversidades
+II. A relação entre ideias e emoções
+
+Emoções afetam a performance e a capacidade de refletir de forma criativa
+Nossa percepção determina nossas emoções e reações
+Na vida, a ideia e emoção vêm separadamente
+III. A resiliência dos empreendedores de sucesso
+
+Empreendedores de sucesso carregam atributos de resiliência e tolerância às situações ambíguas
+Vendedores e corretores são resilientes porque criam um espaço para trabalhar as ideias de forma isolada das emoções
+Empreendedores precisam encontrar um caminho humanizado para trilhar um caminho que não seja desmotivante
+IV. A abordagem humanizada para o empreendedorismo
+
+A capacidade humana de sentir pelo outro pode ajudar os empreendedores a sintetizar suas ideias sem a confusão das emoções que só o protagonista sente
+Exercitando nossas capacidades de observar, ouvir, refletir e opinar, podemos ajudar outros empreendedores com empatia e compaixão pelo problema, mas ao mesmo tempo sabemos que estamos fora do olho do furacão
+Essa abordagem nos deixa mais arrojados e cria um modelo mental mais flexível
+
+-->
+
+
+### References 
+
+* Cameron, J. (1998). The right to write. TarcherPerigee.
+
+* Y Combinator. (2016, October 25). Marc Andreessen at Startup School SV 2016[video]. Retrieved from https://www.youtube.com/watch?v=NEOR0AJsziE
+
+
+<!--
+
+* Version - v2.1 
+
+* link to - 430_self_staging.txt
+
+* Situation - You can enter places that can take you there. 
+* Complication - You can join the crowd with positivisn, energy. 
+
+* Tag - power dynamics
+* tag - communication 
+* tag - 
+
+* Chatgpt - https://chat.openai.com/share/2cca3573-5c8a-4526-8afe-1498acabdd7d
+
+* [ Add citation ] Melissa Nightingale, super hero cape. 
+
+## References
+
+Steve Blank at MAP14. (Published on Mar 13, 2014.) MAP14 Public Forum: Steve Blank [video]. Retrieved from https://www.youtube.com/watch?v=UFx2CQUTpYo
+
+Nightingale, M. (2016). Why it’s a Mistake to be a Startup Superhero. Medium. Recuperado de https://medium.com/the-copour/why-its-a-mistake-to-be-a-startup-superhero-e221b0969ec9
+
+User Innovation: A Path to Entrepreneurship. Massachusetts Institute of Technology (MIT) on edX. Recuperado de https://www.youtube.com/watch?v=LpBSY9_RyCg
+
+von Hippel, E. (2005). Democratizing Innovation. The MIT Press. DOI: https://doi.org/10.7551/mitpress/2333.001.0001
+
+
+-->
+
+
+<!-- 
+
+* Chatgpt - https://chat.openai.com/share/2cca3573-5c8a-4526-8afe-1498acabdd7d
+
+--> 
+
+<!-- 
+Fisher, M. (2023). A Máquina do Caos: Como as Redes Sociais Reprogramaram Nossa Mente e Nosso Mundo. Todavia.
+--> 
+
+
+<!--
+
+User Innovation: A Path to Entrepreneurship. Massachusetts Institute of Technology (MIT) on edX. Recuperado de https://www.youtube.com/watch?v=LpBSY9_RyCg
+
+von Hippel, E. (2005). Democratizing Innovation. The MIT Press. DOI: https://doi.org/10.7551/mitpress/2333.001.0001
+
+--> 
+
+<!-- 
+
+> "Founders is not a job, is a calling… this is not some job. The odds of you making money, in here; versus working at McDonalds, it’s a much better bet that you will be making more money in your career working at McDonalds. You need to do what you are doing because you love it, because you can’t think of anything better to do with your life. And if that is not the case, don’t do this because it’s going to be a miserable 10 or 20 years. If you are looking at getting rich like the Facebook boys, or the Google boys, or whatever the hot startup is now, that is the wrong reason to do it. If you are chasing the money, I will guarantee you, the more you chase it, the further away is goes." 
+> 
+> (Steve Blank at MAP14, Mar 13, 2014, 34m33s)
+
+Steve Blank at MAP14. (Published on Mar 13, 2014.) MAP14 Public Forum: Steve Blank [video]. Retrieved from https://www.youtube.com/watch?v=UFx2CQUTpYo
+
+--> 
+
+
+<!-- 
+
+Referência:
+Nightingale, M. (2016). Why it’s a Mistake to be a Startup Superhero. Medium. Recuperado de https://medium.com/the-copour/why-its-a-mistake-to-be-a-startup-superhero-e221b0969ec9
+
+-->
+
+### Transcending the identity
+
+* [ ] Feat. - Andy Grove - Vale olhar porque Andy fala de identidade tb na questão da Intel * Concept — identity and team difficulties to accept change — the story of Andy Grove and Gordon More at Intel when Intel was facing the forces (10x) from Japanese companies. Andy Grove, in the book Only the Paranoid Survive, talks about a situation when the leadership team develops an identity that is so strong that when a major change is happening the team feels the phases that are comparable with the grieve related to mourning — check the right words here. 
+
+* [ ] Feat. Reid hoffman, Reid Hoffman, em Comece por Você, indica em p.61 em "Mantenha uma identidade independente de empregadores específicos" cobre a situação onde pessoas, diante de projetos que acabam, ficam sem norte. 
+
