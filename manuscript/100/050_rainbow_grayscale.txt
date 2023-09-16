@@ -1,4 +1,4 @@
-# The gray rainbow 
+# A rainbow, but still gray
 
 <!--
 
