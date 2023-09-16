@@ -2,11 +2,21 @@
 
 <!--
 
+## Purpose and objection
+
+The purpose for this, is this meaningful and what really is this about, what is the nature of this discussion? Perhaps it has to do with time availability, perhaps it connects with management as the actual art of looking to the past, present, and future, it aligns with the startup view of Eric Ries, it aligns with the enduring long term organization of Maslow, and it sets specific challenges - the reasons for us to reflect. 
+
+A possible objection would be that we have brought the situation of the "shifting sports" metaphor by Brian Chesky, and infinite apprentice, but that should not cause harm to this as this is more about management challenges in general for innovation but also for securing protection of investor's condition, to make bets. 
+
+## Cross references
+
+* infinite apprentice - was brought up, right in the beginning, 010_startup_you.txt, however in the context of time, as to be an apprendice, the on the go sort, you need to acknowledge time, which is the most basic idea of planning. 
+
 ## Todo
 
-* [!] The case of Brian different sports was brought up in city/tribes and learning. 
-* [!] BRing the notion from Brian about shifting sports 
-* [!] Bring a notion from Michael Dearing 
+* [ ] The case of Brian different sports was brought up in city/tribes and learning, which you can read from the 010_startup_you.txt. 
+* [ ] Bring a notion from Michael Dearing that is part of Blitzscaling #3. 
+* [ ] Michael Dearing - Bring the case of McCallum and the railroad - https://medium.com/@mcgd/thank-you-daniel-mccallum-133d27e98468
 
 ## References
 
@@ -15,6 +25,8 @@ Osherove, R. (2016). Elastic Leadership: Growing Self-Organizing Teams. Manning 
 Leanpub. (April 4, 2012). Interview with Roy Osherove, author of Notes to a Software Team Leader [Video]. YouTube. https://www.youtube.com/watch?v=Hr6YoQH1cEs
 
 -->
+
+What is the nature of this discussion? It is concerned with what it takes to create an enduring organization, from its start and ahead, and in a way that growth is respected. Thus, we are interested in the management practice that supports the enduring organization that takes in consideration the organization past, present, and future, that values its constituents, and the external environment. The view aligns with the startup view of Eric Ries, the organization embeds the startup mentality, but it also embeds the management that increases the potential for the organization to make larger investments,such as that could last more without the returns expected in the day. The view we are in now, also  ligns with the enduring long term organization of Maslow. 
 
 Navigating the winding, ever-changing path of a start-up is a unique challenge. Not only does the company itself undergo transformative shifts, but the leaders at the helm must also adapt their approach in accordance with the prevailing context. One notable strategy that aids in handling these changes with grace and efficiency is the idea of 'elastic leadership', an innovative approach that recognizes the fluctuating circumstances of start-up growth and aligns leadership styles accordingly.
 
