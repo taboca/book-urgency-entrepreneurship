@@ -1,3 +1,17 @@
+## Editor Note - Style for humanized and warth 
+
+* AI Prompt - "Check for concept noums in the following text" that could be jargon. 
+
+* Simple and familiar english - avoid vague nouns,
+* Simple and familiar english - avoid concept nouns, 
+* Example of concept nouns - "Implementation of disruption strategies" -> "Implementation" and "disruption strategy". 
+* Example of concept nouns - "Desenvolvimento de sinergias corporativas" -> "sinergias corporativas" 
+* Example of concept nouns - "Criação de valor agregado" -> "valor agregado" 
+* Example of concept nouns - "Gestão da cadeia de suprimentos" -> "Gestão" 
+* Example of concept nouns -
+* Example of concept nouns -
+* Example of concept nouns -
+
 ## Editor Note - Style and Humor connected with main point 
 
 * Humor - Life or family - It happened that Marcio caught himself bringing cases of a very simple life as illustrations to make a point about how automatic ways we behave. He thought it was light, or fun. Some of these illustrations might seem odd, in the face of the so serious aspects of startups. Still, Marcio believes he is using to make the point. 
