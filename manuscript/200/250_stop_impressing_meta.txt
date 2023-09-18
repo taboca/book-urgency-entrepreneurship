@@ -2,6 +2,23 @@
 
 <!--
 
+## SCqA
+
+Situation: Entrepreneurs often resort to trying to impress others as a part of doing business, which is a common but not necessarily effective practice.
+
+Complication: This behavior of trying to impress creates confusion, diminishes opportunities for genuine communication, and nurtures a toxic culture, particularly detrimental for entrepreneurs.
+
+Question/Key Answer: How can entrepreneurs move away from trying to impress and instead foster authentic communication for better opportunities and truth discovery? The answer lies in embracing vulnerability and focusing on clarity and truth-seeking.
+
+A - How we experience it: Trying to impress is a deeply ingrained human behavior that manifests in various professional settings, including entrepreneurship.
+
+B - Truth-seeking: Focusing on truth-seeking, like the culture at Amazon, is key to fostering an authentic, innovative environment.
+
+C - Opportunities with audiences: By abandoning jargon and embracing authentic language, entrepreneurs can establish a more effective and genuine connection with various audiences, from investors to customers.
+
+
+## References
+
 Zinsser, W. (2006). On Writing Well: The Classic Guide to Writing Nonfiction (7th ed.). Harper Perennial.
 
 Child, J. (2023, July 7). The Job of a CFO at a Scaling Company | Sarah Friar (CFO of Square) & Jason Child (CFO of Opendoor) [Video]. YouTube. https://youtu.be/A9MqV4ULMuM?t=889
