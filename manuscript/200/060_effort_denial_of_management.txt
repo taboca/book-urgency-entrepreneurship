@@ -1,44 +1,46 @@
-# Corrupção do tempo e energia 
+# Overfocusing on effort and toxic by-products in the culture river 
 
 <!--
 
-[!] Procurar o vídeo do Oinegue e da Jornalista // Tati Ferreira, do canal AcidezFeminina, perguntou em um debate durante as eleições de 2018 — "Se todo esse dinheiro que fosse desviado tivesse sido investido no estado, a gente teria um cenário diferente? Eu acho que todo mundo já se perguntou isso eu não sei se vocês tem as respostas."
+## Cross Resources
 
+* Situation of Jacqueline, cousin 
 
---> 
+* Situation of Melissa, measured by effort for youngsters 
 
-<!-- Prompt
+* Accomodation of outcomes, no window for learning and accounting. 
 
-* Prompt geral nível geral - Estou trabalhando no livro Desacelerar para Vencer, em Inglês Slowdown to Win. A parte 1 fala sobre o Eu vs. Urgências. A parte 2 o nós, times e colaboradores, a parte 3, a consciência do time no externo, o eles, vida, sistemas, entidades, contratos, relações com o externo. 
+* Check - https://app.hackernoon.com/mobile/SfmsXPLhmjNJGbVVX7fn 
 
-* Somar o contexto de que estamos na parte 2, que analisa o nós, times vs. urgências. 
+* Maslow - Maslow on Management has a precise point that managers can put a complex task that for some can be taken as the means for strenght, taken like sports (he didn't write sports), while for others and depending on their identities, can be quite suffocating. 
 
-* Neste sentido, preciso de mais um artigo, razão objetivo dos meus prompts aqui para você. Vou antes falar de umas ideias, depois dar um pouco da lógica. 
+## Prompt
 
-## Caso situação 
-
-Tati Ferreira, do canal AcidezFeminina, perguntou em um debate durante as eleições de 2018 — "Se todo esse dinheiro que fosse desviado tivesse sido investido no estado, a gente teria um cenário diferente? Eu acho que todo mundo já se perguntou isso eu não sei se vocês tem as respostas."
-
-Eduardo Oinegue respondeu "Definitivamente não. Se você pegasse todo o dinheiro da corrupção e aplicasse em políticas públicas, você não teria efeito nenhum em políticas públicas. Mas, mas, a energia que esses gestores gastam, para montar a estrutura de corrupção é um tempo que eles não gastam resolvendo os problemas da sociedade." e concluiu que "ao não trabalharem para a sociedade, é como se a sua resposta fosse sim, porque eles estão dedicados aos deles e não ao nosso, como sociedade."
+* Prompt geral nível geral - Estou trabalhando no livro Desacelerar para Vencer, em Inglês Slowdown to Win. A parte 1 fala sobre o Eu vs. Urgências. A parte 2 o nós, times e colaboradores, a parte 3, a consciência do time no externo, o eles, vida, sistemas, entidades, contratos, relações com o externo. Somar o contexto de que estamos na parte 2, que analisa o nós, times vs. urgências. Neste sentido, preciso de mais um artigo, razão objetivo dos meus prompts aqui para você. Vou antes falar de umas ideias, depois dar um pouco da lógica. 
 
 ## Abstração 
 
 Eu notei que no ambiente empresarial, times, chefes estão acima e controlam o julgamento dos seus subordinados. E eles pedem coisas, e simplesmente o que pedem pode ferir o sistema de energia/tempo/harmonia do funcionário, recurso. Por exemplo, dependendo da exepctativa, coloca o funcionário para fazer algo em casa, passar uma noite em claro, ter que investir seu próptio tempo, própria energia e dinheiro. Isso é razão de ansiedade para muitas pessoas, razão que cresce uma energia potencial que leva pessoas a desistirem e começar também a agir de forma tóxica nas empresas, elas fazem o mesmo com outros, por exemplo, torna-se um meio de trabalho. 
 
-## Lógica para o artigo que quero que vc escreva: 
+## Outline 
+
+* Subject - When we engage with being managers of subordinates, especially the one that has no mastery of an area, or maturity, or the view from above. The direction seems to count of effort. And when that is done, it is done with no rules, and quite based on pressure, pressure promoted as what makes the professional. It can be suffocating. 
 
 * Situação - Precisamos fazer algo de forma prag´mática, estamos sendo avaliados pelo ritmo acima de tudo. 
-* Situação - Mundo não parou para pensar e criou um tipo de heurística (será que é heurística isso? ) de que lutar, perseverança, força, ralar é a forma profissional. Tem um suporte tóxico no ambiente de trabalho. 
-* Situação - Chefes aplicam isso, sabem que subordinados são mais novos e tem energia e sabem que um dia passaram por isso. Torna-se a moeda. 
+* Situação - Mundo não parou para pensar e criou um tipo de heurística (será que é heurística isso? ) de que lutar, perseverança, força, ralar é a forma profissional. Isso não é visto como tóxico. 
+
+* Situação - Chefes aplicam isso, sabem que subordinados são mais novos e tem energia e sabem que um dia passaram por isso. Torna-se a moeda. Medir novatos por esforço está na cultura, até porque eles que carregam o custo de aprender, ou até de lidar com esforço, muitas vezes sobrenatural, dar um jeito. Essa cultura é associada com execução. Sabe-se lá o que vc fumou, ou usou. 
+
 * Complicação - Chefes aplicam isso, sabem que subordinados são mais novos e tem energia e sabem que um dia passaram por isso. Torna-se a moeda.
 * Complicação - Lutar contra essa política, nem energia ninguém tera, porque está na cultura. 
+
 * Solução suposta - Aceitar, cortar da carne. Funcionário precisa de tempo para estudar no trabalho. Precisa poder contar para empresa. 
-* Solução pilar - Empregador deveria ter melhor contabilidade de custo real. 
-* Solução pilar - Funcionárioas saberiam planejar - Do modo "fora da contabilidade" começa que é impossíbel planejar, lógico, se tudo pode ser feito "por fora" 
-* Soluçaão pilar - Extras - Ainda, funcionários confiam, trabalham mais felizes, menos ansiedade. Planejamento fujnciona e respeita a realidade. 
 
-## Escreva o artigo, lógica SCqA na introdução. Coloque em algum lugar a história inspiradora da corrupção para mostrar que tem casos que não sabemos onde está o prejuízo real. Ainda apresente como solução - resumida o aceitar - mas com os 3 pilares de suporte sobre o porque. 
+* Key - How We Experience - This abuse often extends beyond what can be easily accounted for. It isn't solely about the long hours or the amount of physical work put in, but it's also about the degradation of the self and the cultivation of an environment that fosters toxicity. Psychologist Abraham Maslow, in his work 'Maslow on Management', highlights the importance of a healthy state of being and creativity in the workplace. Even amidst unpredictability, an individual can thrive if they exist in a supportive, non-abusive environment that fosters self-actualization. However, the dilemma arises when the drive for self-actualization clashes with an abusive work environment. The pressure to grow, the desire to outperform, and the need to prove one's worth often lead to individuals tolerating, and even normalizing, toxic work practices.
 
+* Key - Window for Effort Cost and Support The Cost - Empregador deveria ter melhor contabilidade de custo real. Solução pilar - Funcionárioas saberiam planejar - Do modo "fora da contabilidade" começa que é impossíbel planejar, lógico, se tudo pode ser feito "por fora" 
+
+* Key - Soluçaão pilar - Extras - Ainda, funcionários confiam, trabalham mais felizes, menos ansiedade. Planejamento fujnciona e respeita a realidade. 
 
 -->
 
