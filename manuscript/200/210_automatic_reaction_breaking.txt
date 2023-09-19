@@ -1,11 +1,23 @@
-# Reação automática 
+# You just don't turn it off 
 
 <!--
 Referências
 Gendler, T. (2012). Fraqueza da Vontade e Procrastinação [Vídeo]. YouTube. https://www.youtube.com/watch?v=xp3m7e9T72k
 
-* Situation - You till respond, with execution to fix. 
-* Complication - You can be wasting time. 
+* Situation - Things start to work. Your team is proud. 
+* Situation - You will respond, with execution to fix. 
+* Complication - You can be wasting time, you can't see from perspective. Worse? You just started to make it work, and how you have to reinvent? 
+* Answer - For growth, embracing that nature is key. 
+
+* pitch - objections - rain on your parade. 
+* pitch - objections - we are learning. 
+* pitch - objections - how long should we push? 
+
+* Editorial - note - creative and style. In Rambo I, first blood, when Rambo destroys the city, Cel Trautman comes to the police station to talk with Rambo, commanding him - it's over. But Rambo is not okay with that idea, although he starts to find the actual confrontation that he has to turn it off. Rambo accepts to go to jail with the support from his protector, his real coach. 
+
+## Cross
+
+* Check dup value from 300_managing_future_eye_present.txt 
 
 -->
 
@@ -13,11 +25,13 @@ Imagine o cenário: o casco de um cavalo é danificado inesperadamente. Nossa re
 
 No entanto, essa resposta instantânea e centrada na reparação representa uma complicação: enfatiza o aqui e agora, preservando nosso estado presente. Mas será que essa mentalidade reativa limita nossa capacidade de imaginar, e portanto aspirar a, um sistema melhor? Ao nos concentrarmos exclusivamente em corrigir o problema imediato - o casco quebrado - estamos perdendo a oportunidade de evitar tais problemas no futuro?
 
-### Breaking reaction 
+### Back to the past, and future 
 
 Para tratar essa complicação, recorremos à teoria da gestão. Em seu livro pioneiro "Gestão de Alta Performance", Andy Grove usa a analogia da 'fábrica de café da manhã' para ilustrar como os problemas de hoje frequentemente se originam em decisões passadas, ou indecisões. Grove sugere uma abordagem voltada para o futuro - estratégias de hoje para evitar possíveis problemas amanhã.
 
 Portanto, em vez de apenas reagir para consertar o casco danificado, investigue as causas subjacentes. Ajustes na atenção, dieta ou ambiente poderiam evitar problemas semelhantes no futuro? Ao dedicar um momento para refletir sobre essas questões, passamos de uma postura reativa para uma postura proativa, preenchendo a lacuna entre os problemas existentes e as soluções futuras.
+
+### Protected by principles 
 
 Compromissos também podem servir como uma poderosa contra-estratégia para nossas reações automáticas. Por exemplo, você deseja introduzir um novo sanduíche no seu menu, mas as restrições de tempo são uma barreira. Anunciar o produto antes de seu lançamento real, ou até mesmo pré-lançá-lo como um protótipo, pode impor um compromisso.
 
@@ -26,5 +40,19 @@ A perspectiva do filósofo Robert Nozick, conforme explicada pela professora Tam
 Em essência, você faz um compromisso onde, de certa forma, passa a "se enganar" taticamente para reagir de maneira diferente ao seu comportamento padrão. Ao alinhar sua identidade com uma visão de futuro e estabelecer um compromisso com uma mudança antecipada, você promove uma sensação de estabilidade, o que pode lhe dar chances de evitar reações automáticas. No caso do protótipo de sanduíche, isso poderia lhe ajudar quando um primeiro cliente diz que falta sabor; e você poderia responder que o produto ainda está em desenvolvimento e que o feedback dado será levado em consideração, além de oferecer para o cliente desculpas. 
 
 Em conclusão, sabemos que nossa reação inata pode nos compelir a corrigir problemas rapidamente - o que é bom. Porém, nossa reação automática e rápida também pode ser pausada e pedir um momento de reflexão - sobre nossas possíveis ações. Ainda, podemos justificar acionarmos o pensamento estrategico que pode abrir caminho para soluções de longo prazo. Ao refletirmos sobre as nossas tendências naturais, podemos iniciar mudanças positivas, nos levando mais rápido para um futuro melhor. 
+
+### Testing another autopilot 
+
+Requires respect to the fact that things won't go so well as I am doing manually. 
+
+The design phase of management is one particular aspect that goes along with execution, cause management doesn't see aspects of an entrepreneur effort as isolated. It is concerned with the past, present, and future. Because of this nature, the manager may find herself in a particular situation of leadership. This particular situation might recognize when a manager is critical in its role. 
+
+When she manages the present and also the future and therefore feels as necessary - or using Peter Drucker terms, to be someone - and the same is the general perception of her peers. 
+
+From this situation, it comes the possibility that she might need to leave, to be absent, such as to take time off. But vacation can't happen. With that, vacation never happens because the possibility of taking her out implies that things might go off track. That the state of health for the organization's future and present might be at risk. In other words, risk for anything planned for its future, plus stability for the situation of the present.
+
+When she really faces the fact that the release of herself is likely necessary, therefore, comes the complication and work that consists of separating her roles, what she does for the present and future needs. From another perspective, it is an opportunity for her to automate her responsibilities. 
+
+Therefore, it seems that part of what management does is really about automation which aims for producing change in the organization. Or, change that serves growth. 
 
 
