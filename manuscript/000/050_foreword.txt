@@ -2,7 +2,16 @@
 
 <!-- Meta 
 
-v2.1 
+## Version 
+
+v2.2
+
+## Review 
+
+* ( ) @vanessa - asked to check why so many examples of machines in the exposition. 
+* ( ) @vanessa - asked about the new prisons, or need for freedom, that came after the industrial revolution. Actually, on page 9, "inundação de eventos,.." has the core of the idea which may likely be brought sooner to the reader. In other words, the pages 7-9 are doing, really, what service? 
+
+## 
 
 ## References 
 
@@ -12,15 +21,15 @@ Hari, J. (2023). Foco roubado: Os ladrões de atenção da vida moderna. (L. Rey
 
 --> 
 
-Este é um livro para empreendedores, especificamente para os que estão envolvidos os processos ágeis e trabalham em suas start-ups com objetivo de transformá-las em empresas duradouras. Neste meio cheio de soluções que prometem mais resultados e sucesso, coloco um chamado. Desacelerar é urgente. Mas por quê mais um recurso nesse oceano farto de metodologias ágeis, ferramentas e processos de todas as formas e cores. Precisamos de mais? 
+Este é um livro para empreendedores, especificamente para os que trabalham em suas start-ups com objetivo de transformá-las em empresas duradouras. Neste meio cheio de soluções que prometem mais resultados, coloco um chamado. Desacelerar é urgente. Mas por quê mais um recurso nesse mar de metodologias, ferramentas e processos - de todas as formas e cores. Precisamos de mais? 
 
-De forma geral o empreendedorismo moderno, ou ágil, e o ecosistema de empreendedorismo não é está de fora do novo ritmo frenético que vivemos, numa realidade híbrida entre o físico e o digital. Diferente da antiga propriedade rural, onde o canto do galo era o grande alarme, hoje todos os tipos de cantos soam nos celulares, sejam notificações das redes sociais ou calendários, nos conectando com múltiplas agendas. Nossas vidas, antes delimitadas por um ambiente local, agora nos posiciona em ambientes e uma infinidade de informações e interações que clamam por mais interação, mais ações. 
+De forma geral, o empreendedor está pressionado a ser mais ágil, dado que o ecosistema do empreendedorismo não está de fora do ritmo frenético que vivemos, numa realidade híbrida entre o físico e o digital. Diferente da antiga propriedade rural, onde o canto do galo era o grande alarme, hoje todos os tipos de cantos soam nos celulares, sejam notificações das redes sociais ou calendários, nos conectando com múltiplas agendas. Nossas vidas, antes delimitadas por um ambiente local, agora nos posiciona em ambientes e uma infinidade de informações e interações que clamam por mais interação, mais ações. 
 
-Se você é um empreendedor - seja um iniciante com uma startup, um veterano administrando uma corporação ou alguém empreendendo na própria vida - provavelmente se encontra no olho deste turbilhão. Mas não vemos isso tudo como um problema. Como poderia ser um problema já que estarmos hiperconectados significa mais acesso para informações? Por exemplo, estamos agora na frente de mais ferramentas, mais métodos, mais interações inclusive com redes de apoio, como aceleradoras, como investidores, e o mais importante, mais acesso digital de baixo custo com o usuário final que são clientes. Em outras palavras, o ambiente hiperconectado promete coisas boas. 
+Se você é um empreendedor - seja um iniciante com uma startup, um veterano administrando uma corporação ou alguém empreendendo na própria vida - provavelmente se encontra neste turbilhão. Mas não vemos isso como um problema. Como poderia ser, já que estamos hiperconectados; com acesso para maisi informações? Agora temos mais ferramentas, mais métodos, mais interações inclusive acesso às redes de apoio, como aceleradoras, investidores, e o mais importante, um acesso para informações por meio da internet e redes sociais que criam condições de interações de baixo custo, seja para aprender, para receber suporte de mentores, se conectar com parceiros, conhecer investidores, adentrar aceleradoras, participar de clubes ou grupos de apoio, e até conhecer e interagir com possíveis clientes. Em outras palavras, o ambiente hiperconectado é um oceano vasto e rico e promete
 
 Esse ambiente otimista promete uma aceleração potencial para os projetos de empreendedorismo e nossas vidas. Neste ambiente conectado e interativo, o empreendedor fica empoderado a navegar rápido no rumo de objetivos. Estamos não só empoderados mas também pilhados. Hoje, o custo de procurar soluções nas redes de conhecimento é muito baixo, por exemplo quando buscamos por processos para avançar com colaboração. Da mesma forma, ficamos também empoderados a navegar por redes e sistemas de apoio, quando criamos interações com usuários, prospectos clientes, investidores, mentores, e muito mais. 
 
-Diante desse potencial, ou empoderamento, não necessariamente encontramos tração e produtividade. Ainda, pode significar distração e desperdício de recursos que pode acarretar em frustração. Em outras palavras, o tema de forma abrangente é o assunto da produtividade da tarefa de empreender, que naturalmente para o caso de start-ups envolve aprender, que naturalmente vem antes da produtividade quanto aos processos executados pelos times. Neste sentido, Peter Drucker, em *The Practice of Management*, traz um pensamento da gestão que pode nos guiar para organizar o processo: 
+Diante desse potencial, ou empoderamento, não é garantido encontrar produtividade. Ainda, pode significar distração. Ou seja, desperdício de recursos que pode levar ao fim da navegação, da jornada. Em outras palavras, o tema de forma abrangente é o assunto da produtividade da tarefa de empreender, que naturalmente para o caso de start-ups envolve aprender, que naturalmente vem antes da produtividade quanto aos processos executados pelos times. Neste sentido, Peter Drucker, em *The Practice of Management*, traz um pensamento da gestão que pode nos guiar para organizar o processo: 
 
 > *"Finally, productivity is vitally affected by organization structure and by the balance between the various activities within the business. If, for lack of clear organization, managers waste their time trying to find out what they are supposed to do rather than doing it, the company's scarcest resource is being wasted. "* (Drucker, 1986, p. 45)
 
