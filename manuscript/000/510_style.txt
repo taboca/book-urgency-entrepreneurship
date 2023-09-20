@@ -1,4 +1,4 @@
-## Editor Note - Style for humanized and warth 
+## Editor Note - Style - dejargonizing - humanization and warmth
 
 * AI Prompt - "Check for concept noums in the following text" that could be jargon. 
 
@@ -11,6 +11,10 @@
 * Example of concept nouns -
 * Example of concept nouns -
 * Example of concept nouns -
+
+## Editor Note - Style - Dejargonizing - What not to do 
+
+* [feat. a16z] - Introductory paragraph of article at a16z, shows a good number of jargom and concept nouns - with all the respect to a16z, this is not a style we are to use: "One of the holy grails in the newco world is to build out a digital platform that successfully serves the needs of a broad number of adjacent verticals, and become the definitive platform in its space. We know the now-canonical early examples of this: Amazon, eBay, Craigslist. And we also know that once that holy grail of a new digital platform is attained, competitors quickly come a’ callin’. " - Note: Although it is not a desired style, I am hereby respecting A16z as this intro might be a situation, or subject, which can be recognized by an audience. https://a16z.com/platforms-vs-verticals-and-the-next-great-unbundling/
 
 ## Editor Note - Style and Humor connected with main point 
 
@@ -28,6 +32,17 @@
 ## Editor Note - style - William Zinsser on no clichés and avoidance for breezy
 
 * Check William Zinsser's The Sound of Your Voice 
+
+
+## Editor cases - Two paragraphs intro with SC of qA - feat. a16z 
+
+* Case: Intro paragraph shows fact but which is reason for an opportunity, it unveils how something happens after the reference situation. As in, from ground, dry, you can wet and should get seeds. 
+
+* Two paragraphs, one with the state of truth as known by the audience, and the second is the base from which the change happens, like the complication, thus this example from A16z shows "SC" leading to Q
+
+"One of the holy grails in the newco world is to build out a digital platform that successfully serves the needs of a broad number of adjacent verticals, and become the definitive platform in its space. We know the now-canonical early examples of this: Amazon, eBay, Craigslist. And we also know that once that holy grail of a new digital platform is attained, competitors quickly come a’ callin’. 
+
+One of the most effective forms of that competition often comes in the form of newcos who aspire to take chunks out of that emergent platform by better addressing the needs of a specific vertical within that platform—by creating a user experience or business model that’s much more tailored to the unique attributes of that vertical. StubHub, for example, took a big chunk out of eBay by creating a ticket-buying experience that was so in tune with the needs of those specific buyers and sellers—with ticket verification, venue maps, and rapid shipping—that they were able to get strong traction in spite of the fact that their fees were substantially higher than what eBay was charging (which likely motivated eBay to buy Stubhub in 2007). " - https://a16z.com/platforms-vs-verticals-and-the-next-great-unbundling
 
 ## Cases  
 
