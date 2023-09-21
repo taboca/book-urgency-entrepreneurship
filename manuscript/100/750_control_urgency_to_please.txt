@@ -7,19 +7,17 @@ v2.2
 Reference:
 [1] Indie Film Hustle. (2021, June 16). The Art of Story, Dialogue and Character with Robert McKee. [Video]. YouTube. https://youtu.be/ITSu9IbCr9Q
 
-## cross 
+## Check 
 
-* 200/250_stop_impressing.txt
+* (x) Have differentiated with "trying to impress", check 200/250_stop_impressing.txt, making this be about our need to fit as a business. Removed the chiché from it. Moved the cliché case to the 250_stop_impressing.txt under 200. 
+
+* ( ) With that said, is it about being unpleasing? No. You can be in and out. Like the enlighted salesman of Maslow that is concerned with the present and the future. Check other articles that brought that up. 
 
 -->
 
 The entrepreneurial journey is filled with ambition, good intentions, and a steadfast desire to succeed. As they venture into the marketplace, entrepreneurs are often eager to engage with potential customers and stakeholders. This exchange of ideas and feedback is pivotal to refining their business offering. Yet, in their earnest quest to cater to these initial interactions, entrepreneurs may unwittingly drift away from their original vision and core values. In this effort to please, they might lose the very essence that could have shaped a unique and remarkable solution.
 
 This phenomenon isn't confined to just the realm of entrepreneurship. It's a pitfall that many new creatives, such as screenwriters, often stumble into. It's here where acclaimed screenwriting lecturer and author, Robert McKee, casts a spotlight.
-
-In the interview by the Indie Film Hustle, McKee pinpoints two critical traps that new screenwriters often fall into when crafting their narratives. The first is their reliance on clichés. While they aim to create original art, they also understand that they cannot entirely reinvent the wheel. The reliance on clichés, however, leads to a point where "once they sell their soul, it's hard to get it back" (Indie Film Hustle, 2021, 10:36). The second concerns the writers' failure to the writer's duty to express the truth of the human condition. Or, as he puts it, "they think that because it is fiction, they have a license to lie" (Indie Film Hustle, 2021, 12:02). He warns of the perils of resorting to clichés and of losing one's authentic voice in an attempt to please the audience. As McKee puts it, "Of all those things, cliches and [lack of] truthfulness, are all the byproduct of the young writer's desire to please" (Indie Film Hustle, 2021, 13:08). 
-
-Robert's advice for new screenwriters is equally great to our entrepreneurial world. The desires to please and to avoid risk can push us into a path that deviates from our initial vision. 
 
 Consider the world of gastronomy around us, a restaurateur begins her journey with a unique vision: offering a single, well-crafted vegan pizza each day. However, as she starts responding to customer feedback and revenue pressures, she introduces more variety, even going as far as to include non-vegan options. Her original vision is now blurry and she might drive beyound the point of no return. The once unique pizza that she loved has morphed into a commonplace restaurant. Although she could still make a living, assuming she kept the average customer, still she struggles with the battle of commonness, not counting the fact she does not like to serve meat-based pizza. 
 
@@ -30,6 +28,5 @@ Sometimes, entrepreneurs resort to radical adaptations to stand out. A case in p
 Entrepreneurs must tread carefully while addressing customer demands and investor expectations. A disproportionate response to either can dilute the original product vision and jeopardize the venture's unique value proposition.
 
 The balance becomes even more precarious when dealing with investors. It's easy for entrepreneurs to fall into the trap of over-pleasing. In the matter of pleasing investors, we will explore other aspects related to this pressure to please in part 2, in the section "Stop impressing or being impressed."
-
 
 

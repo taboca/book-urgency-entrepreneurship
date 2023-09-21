@@ -1,3 +1,13 @@
+<!-- 
+
+## Clichés, impression 
+
+100/630_fast_cliches
+100/750_control_urgency_to_please
+200/250_stop_impressing
+
+--> 
+
 000/050_foreword.txt
 000/100_introduction.txt
 
@@ -24,13 +34,12 @@
 100/480_fear_and_entrepreneurship.txt
 100/600_valley_difficulties.txt
 
-#100/630_fast_cliches.txt
 
 100/650_art_and_urgency.txt
 100/670_irreducible_collaborator.txt
 100/700_praise_navigation_ability.txt
 100/720_timeless.txt
-100/750_control_urgency_to_please.txt
+
 100/800_less_is_more.txt
 100/850_true_collaboration_space.txt
 100/900_personal_board-en-us.txt
@@ -42,7 +51,7 @@
 200/030_razoes_para_correr.txt
 200/040_induction_embedded_everything.txt
 200/050_super_fast_really_works.txt
-200/060_effort_denial_of_management.txt
+200/060_effort_denial_of_management_23106f99-20fd-4049-b69d-e9bde758902e.txt
 200/090_saying_thanks_reflections.txt
 200/100_hiring_counsciousness.txt
 200/120_reaction_with_potentialized_animated_transactional_items.txt
@@ -52,6 +61,10 @@
 200/220_success_as_a_service.txt
 200/230_self_confirmation_bias_social_identity.txt
 200/250_stop_impressing.txt
+
+#100/750_control_urgency_to_please.txt
+#100/630_fast_cliches.txt
+
 200/260_stop_being_impressed.txt
 200/320_strategic_dissonance.txt
 200/350_first_to_friends_no.txt
