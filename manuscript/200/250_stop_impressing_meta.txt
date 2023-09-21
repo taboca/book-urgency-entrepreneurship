@@ -2,6 +2,15 @@
 
 <!--
 
+## Feat 
+
+* William Zinsser 
+
+## Check 
+
+* ( ) Check data from Adam Grant about know-it-all and feedback navigation. 
+* ( ) Can the work of The Gifts of Imperfection of Brené Brown help the parts of vulnerability as an opportunity? 
+
 ## SCqA
 
 Situation: Entrepreneurs often resort to trying to impress others as a part of doing business, which is a common but not necessarily effective practice.
