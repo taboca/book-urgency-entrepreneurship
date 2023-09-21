@@ -1,3 +1,7 @@
+## Solitude 
+
+* An article that Marcio wrote and has communicated with Fabricio, that has the word solitude in it. Check that as it promotes a view that being alone is not alone, which connects with Julia Cameron. 
+
 ## UI distracting, parallel stories of apps, and the park of apps 
 
 * And the situation which has happened to me drive us into the complex interface of modern systems, such as mobile devices. The situation with mobile devices is incredibly more complex than what used to be the PC. That because apps are always running, and they are all open, all the time. Notifications from Whatsapp, from the sms system, from Instagram, from Facebook, from email, Google Calendar (the many calendars). In addition, browsers also have their own notification systems, it's a hell of events all the time.
