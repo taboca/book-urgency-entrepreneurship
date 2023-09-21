@@ -1,4 +1,4 @@
-# A rainbow, but still gray
+# No colors in the rainbow 
 
 <!--
 
