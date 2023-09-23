@@ -23,8 +23,8 @@
 100/050_rainbow_grayscale.txt
 
 100/060_words.txt 
-100/080_narratives_improving.txt
 100/100_operating_systems.txt
+100/110_narratives_improving.txt
 100/120_space.txt 
 
 100/300_execution_urgency_neglecting_redesign.txt
