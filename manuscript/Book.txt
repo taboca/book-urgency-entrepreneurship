@@ -18,22 +18,23 @@
 100/000_part1.txt
 
 100/010_startup_you.txt
-100/020_err_is_ok.txt
 100/030_wantrepreneur_ok.txt
-100/050_rainbow_grayscale.txt
 
 100/060_words.txt 
 100/100_operating_systems.txt
 100/110_narratives_improving.txt
 100/120_space.txt 
-f
+
+100/020_err_is_ok.txt
+100/050_rainbow_grayscale.txt
+100/210_breaking_automatic_reaction.txt
+
 100/300_execution_urgency_neglecting_redesign.txt
 100/350_pressure.txt
 100/360_hora_h.txt
 100/390_mood_analysis_planning.txt
 100/480_fear_and_entrepreneurship.txt
 100/600_valley_difficulties.txt
-
 
 100/650_art_and_urgency.txt
 100/660_emotions_and_identity.txt
@@ -48,6 +49,7 @@ f
 100/970_winning.txt
 
 200/000_part2.txt
+
 200/030_razoes_para_correr.txt
 200/040_induction_embedded_everything.txt
 200/050_super_fast_really_works.txt
@@ -56,7 +58,6 @@ f
 200/100_hiring_counsciousness.txt
 200/120_reaction_with_potentialized_animated_transactional_items.txt
 200/150_controlling_control.txt
-200/210_breaking_automatic_reaction.txt
 200/300_managing_future_eye_present.txt
 200/220_success_as_a_service.txt
 200/230_self_confirmation_bias_social_identity.txt
@@ -84,6 +85,7 @@ f
 200/900_awareness.txt
 
 300/050_intro.txt
+
 300/070_bad_investors.txt
 300/100_partners_bad_investor.txt
 300/150_entrepreneurship_is_management.txt

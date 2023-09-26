@@ -1,5 +1,12 @@
 
 <!--
+
+## todo
+
+* ( ) Consider to move to 300, as things will account more reaction if works 
+
+## 
+
 Referências
 Gendler, T. (2012). Fraqueza da Vontade e Procrastinação [Vídeo]. YouTube. https://www.youtube.com/watch?v=xp3m7e9T72k
 
