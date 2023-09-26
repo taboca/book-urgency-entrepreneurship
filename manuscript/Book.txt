@@ -92,7 +92,6 @@
 300/220_positive_intentions_technology.txt
 300/250_they_system_does_not_allow.txt
 300/300_role_models_design_empatia.txt
-300/330_team_dynamics_self_esteem.txt
 300/400_managing_certainty_gap.txt
 300/410_lean_storytelling.txt
 300/430_self_staging.txt
