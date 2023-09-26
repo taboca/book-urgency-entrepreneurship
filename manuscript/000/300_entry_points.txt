@@ -1,18 +1,5 @@
 Check https://chat.openai.com/share/b7eb16c5-4c18-4709-9220-bd2629f34a3d 
 
-# Trying to differentiate these following
-
-## managing auto pilot reaction, visiting strategy and principles 
-
-* Ref - 100/210_breaking_automatic_reaction.txt " Just dont turn it off "
-
-* part - individual -  revisit auto, and habits, for future 
-
-* Reasoning - brings the case of the weakness of the will although uses as a creative solution to the situation where people could focus on a principle, to support the pain of not reacting automatically in autopilot mode. 
-
-* Concept - aversion to loss > pain of effort uncertainty to win 
-* Concept - protected by principle < requires effort, principles, okay with pain 
-
 ## Err is about supporting journey, less control for success - Permission to err
 
 * Ref - 100/020_err_is_ok.txt - "Permission to err " 
