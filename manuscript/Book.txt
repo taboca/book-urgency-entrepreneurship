@@ -60,12 +60,13 @@
 200/300_managing_future_eye_present.txt
 200/220_success_as_a_service.txt
 200/230_self_confirmation_bias_social_identity.txt
+
 200/250_stop_impressing.txt
+200/260_stop_being_impressed.txt
 
 #100/750_control_urgency_to_please.txt
 #100/630_fast_cliches.txt
 
-200/260_stop_being_impressed.txt
 200/320_strategic_dissonance.txt
 200/350_first_to_friends_no.txt
 200/360_team_dynamics_crying_is_ok.txt
