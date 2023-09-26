@@ -1,0 +1,84 @@
+
+<!--
+
+## Higher order ordering and structure
+
+* Position after: operating systems, because an operating system can be provoked 
+* 
+
+## Title 
+
+* title v0.3 - Space and peace 
+* title v0.2 - The Lost World (inspired by Jurrasic Park possibility that a lot of dinossaurs are noise)
+* title v0.1 - Space 
+
+## SCqA 
+
+* SCqA - Subject - 
+* SCqA - Situation - 
+* SCqA - Complication - 
+* SCqA - Q/A 
+* SCqA - Key - 
+* SCqA - Key - 
+* SCqA - Key - 
+
+## Points
+
+* from 300_entry_points.txt - * Marcio and the Google Well-being app - (title: The lost world of apps) For weeks now I am using the Well-being app by Google, quite interesting name, which allows an interesting option, it enables me to check off, turn off, all Android apps. This case helps to make the point about the competition of UI elements, and also the "organized flow" of certain events, such as notifications, that comes my way with a small screen device. Since the Android is more connected, modern, the Android has more connections with knowing what all apps do, and channels it, controls it. The safety of the marketplace, which generate trust to use, retro feed the trust of actions to be in the control of Google, and then all that has permissions, then becomes like habits that are system-level. Consideing that the device is a sort of extension of my body at this point - which is likely not unfair to say, then the impact, the extension is receiving notifications for all the sort of things, such as messages from family, friends, bank notifications, entertainment, leisure, system updates, social network updates. It's like all the birds of a country are sent over my tour all together. Or, if you were visiting a Jurassic Park, if they give you all the dinossaurs at the same time. Wait, let me run from the t-rex first, then have an icecream, then go back to face the velociraptor. The system-level attachment with multiple stories of all the apps which I have subscribed - and note that installing is a form of subscription too - can't account the storied context of all the apps in synch with my own storied context. I would need my grandmother to help me as my parents are busy too. But I am alone and I am no composer or conductor. It's a lot of noise if you could hear all events of updates as dinossaurs screams. 
+
+* from 300_entry_points.txt - When I was reading the book entitled Foco Roubado, Stolen Focus, and the story of the 66 yo professor researcher in the field of willpower, Roy Baumeister, author of Willpower, and reading what Roy told him Johann, that the professor used to be able to seated, reading and writing, and not anymore; that now he thinks that his mind jumps a lot more from one activity to another; it reminded me of my great insightful experience that I have called Uber University, when I became an Uber driver for one year, for 1000 trips. The insight I found was that u was able to replace the radio with YouTube videos. I have told passengers that I was learning English and if they were okay with the audio. Then then, long story short, only on Fridays, I was able to watch about 120 talks. Yes I had to polish a process, over time, such as to put a bit of effort to curate my playlist, not perfect but making sure I went to the streets with about 10 talks in the same theme. Then I wrote about that amazing experience of productivity. I have reported, later trying to convince many Uber drivers to do that, that it didn't take many months for me to think I was a sort of expert in the field of entrepreneurship. When explaining to many other app drivers, as we call them in Brazil, many have agreed that on the computer, or a mobile screen, the user interface offers too many notification systems on our way. I miss the days of driving and just listening and sometimes replaying parts of the audio talks as they were full of insights. The app driver university pack I created could work like an university.
+
+* ( ) discussion, Eric von Hippel might see a connection with the situation where an organization, innovative project organization, looks at a platform that reaches out to verticals and improves the user experience or business model - https://a16z.com/platforms-vs-verticals-and-the-next-great-unbundling/
+
+## How we experience a world of distraction and it is not entirely our fault 
+
+* The case of Apps Android and Google Well-being. 
+* Notion of bundle and unblunde and combinatorics?
+* Notion of being bundled ourselves.    
+
+--> 
+
+<!-- reference 
+
+Fox, J. (2014). How to Succeed in Business by Bundling – and Unbundling. Harvard Business Review. Retrieved from https://hbr.org/2014/06/how-to-succeed-in-business-by-bundling-and-unbundling ↩
+
+--> 
+
+<!-- 
+
+* ( ) Check research  - unbundling came up in 2019 at Ycombinator - https://a16z.com/platforms-vs-verticals-and-the-next-great-unbundling/ 
+
+* (x) Referenced https://hbr.org/2014/06/how-to-succeed-in-business-by-bundling-and-unbundling 
+
+-->
+
+[^footnote_marcio_web_developer]: The web developer, formed after the Internet browser enabled organizations to make sites and software systems available through web browsers. The web developer would then become a worker for the medium of the Web. https://hackernoon.com/the-history-of-web-developers-tied-to-browser-development
+
+
+> *""* Maury Klein, Power Makers 
+
+
+[^footnote_job_to_be_done]: 
+
+
+[^footnote_lead_users]: 
+
+
+[^footnote_uber_first_trip]: https://medium.com/the-ascent/why-that-first-uber-driver-trip-never-happened-2d36a073ebfc 
+
+> *“For me, it was eye-opening when I did my first trip as a driver. I walked out to my car, I have done everything, I was activated. I walked out to my car [and] I walked back to my house because I got so nervous about doing that first trip.”*
+> Ed Baker (Greylock Partnets, 2017, 14m9s)
+
+<!-- reference 
+
+Greylock Partners, 2017, Growth Panel with Gustaf Alströmer and Ed Baker, moderated by Josh Elman | The Scaleup Offsite 2017. https://youtu.be/PybOg3uS-FA?t=14m9s
+
+-->
+
+
+[^footnote_bliztscaling_linkedin_blue_allen]: 
+
+[^foonote_eric_von_hippel_democratizing_innovation]: 
+
+[^footnote_play_bigger]: 
+
