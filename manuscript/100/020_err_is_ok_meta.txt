@@ -7,6 +7,7 @@
 
 ## Title 
 
+* v0.4 - Right 
 * v0.3 - To be right, and not to be 
 * v0.2 - Being right, and not being 
 * v0.1 - Permission to err 

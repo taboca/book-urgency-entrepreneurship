@@ -2,6 +2,7 @@
 
 ## Title 
 
+* v0.2 - Identity 
 * v0.1 - Driven by emotions 
 
 ## ScqA short

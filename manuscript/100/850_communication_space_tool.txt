@@ -1,6 +1,11 @@
-# Communication as a tool 
+# Communication 
 
 <!--
+
+## Title 
+
+* v0.2 - Communication 
+* v0.1 - Communication as a tool 
 
 * Chatgpt - https://chat.openai.com/share/fb8fd1e1-4b52-4991-ab1b-494450c2fb1e 
 

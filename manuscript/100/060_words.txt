@@ -1,6 +1,11 @@
-# Words but stones
+# Words 
 
 <!--
+
+## Titles 
+
+* v0.2 - Words
+* v0.1 -  Words but stones
 
 * Chatgpt -
 

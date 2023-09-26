@@ -1,4 +1,4 @@
-# Readiness and friendly analysis  
+# Readiness 
 
 <!-- 
 
@@ -18,6 +18,8 @@ v2.2
 
 ## Titles 
 
+* v0.4 - Readiness
+* v0.3 - Readiness and friendly analysis  
 * v0.2 - Readiness and friendly analysis   
 * v0.1 - Readiness is dangerous 
 

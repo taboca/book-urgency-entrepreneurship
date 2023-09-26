@@ -8,6 +8,8 @@
 
 ## Title 
 
+* v0.5 - Space 
+* v0.4 - Living transcends space
 * title v0.3 - Space and peace 
 * title v0.2 - The Lost World (inspired by Jurrasic Park possibility that a lot of dinossaurs are noise)
 * title v0.1 - Space 

@@ -1,9 +1,15 @@
-# An wantrepreneur, fear not
+# Wantrepreneur 
 
 <!-- 
 
-* Abstract - In the realm of entrepreneurship, the concept of a "wantrepreneur" emerges as a cautionary term used to describe individuals who express a desire to become entrepreneurs but fail to take decisive steps to materialize their ambitions. This reflection delves into the significance of dreams and values, highlighting the importance of striking a balance between inspiration and realism in the entrepreneurial journey. It also emphasizes the value of role models as a source of guidance and motivation. Furthermore, being an eternal learner and seeking feedback are key elements that contribute to an entrepreneur's growth and success. By navigating this path consciously and embracing the identity of a perpetual learner, aspiring entrepreneurs can transform aspirations into tangible achievements and truly embrace the entrepreneurial spirit.
+## Titles 
 
+* v0.2 - Wantrepreneur
+* v0.1 - A wantrepreneur, fear not
+
+## Scqa
+
+* Abstract - In the realm of entrepreneurship, the concept of a "wantrepreneur" emerges as a cautionary term used to describe individuals who express a desire to become entrepreneurs but fail to take decisive steps to materialize their ambitions. This reflection delves into the significance of dreams and values, highlighting the importance of striking a balance between inspiration and realism in the entrepreneurial journey. It also emphasizes the value of role models as a source of guidance and motivation. Furthermore, being an eternal learner and seeking feedback are key elements that contribute to an entrepreneur's growth and success. By navigating this path consciously and embracing the identity of a perpetual learner, aspiring entrepreneurs can transform aspirations into tangible achievements and truly embrace the entrepreneurial spirit.
 
 Checar 
 

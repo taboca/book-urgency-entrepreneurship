@@ -17,6 +17,7 @@ v2.4
 
 ## Titles 
 
+* v0.4 - The mesh for success 
 * English title v0.3 - The mesh of success (inspired by Julia Cameron p108 of The Right to Write)
 * English title v0.2 - Success 
 * English title - "Entrepreneurship success" 

@@ -1,6 +1,11 @@
-# What happens in the hour 
+# Fight 
 
 <!--
+
+## Title 
+
+* v0.2 - Fight  
+* v0.1 - What happens in the hour 
 
 * Abstract - This article from "Slow Down to Win, Business" stresses the importance of avoiding rushed decisions during high-pressure situations. The author advises embracing delay, respecting personal principles, and seeking multiple perspectives to navigate 'H-Hour' effectively. By assuming a proactive stance and avoiding dependence on external factors, individuals can make more informed choices and minimize the impact of urgent decision-making scenarios.
 

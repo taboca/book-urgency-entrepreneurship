@@ -3,6 +3,7 @@
 
 ## Title 
 
+* v0.2 - Autopilot
 * v0.1 - You just don't turn it off 
 
 ## Part 

@@ -1,6 +1,11 @@
-# Narratives and narrative potential
+# Narratives 
 
 <!--
+
+## Titles 
+
+* v0.2 - Narratives 
+* v0.1 - Narratives and narrative potential
 
 ## Progress
  
