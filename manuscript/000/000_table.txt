@@ -1,0 +1,14 @@
+# Table # 
+
+| Part | Title                                   | SCqA                                                                                                                                                                    | References                               | Note                                              |
+|------|-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|---------------------------------------------------|
+| 3    | The attraction of social interaction    | Subject: Feedback-driven world, find feedback. Situation: Cheap, new soft feedback. Complication: Vanity metrics tricky. q/a: Navigating feedback, dangers.          | Charman T., Chen A., Fisher M., Graham P. |                                                   |
+| 2    | Irreducible minimum                     | Subject: Pressure and detachment from the future. Situation: Self-centered fight. Complication: Winning for self may not be true winning.                              | Robert Wright                            |                                                   |
+| 1    | To be right, and not to be              | Subject: Trying for perfection can lead to mediocrity. Situation: Desire to do right always. Complication: Potential for subpar results. q/a: Create supportive systems, connect with self, embrace errors. | Julia Cameron, Maslow Abraham            | "To be, not so right" starts from within.         |
+| 2    | Release of control, and possibility     | Subject: Speeding up reduces listening window. Situation: Tendency to add more, disconnect from strategy. Complication: Risk of not listening, can save resources by picking battles to lose, focus on listening. | (None provided)                         | Drop proving, improve the conversation.           |
+| 1    | You just don't turn it off              | Situation: Gaps appear, desire to fix. Complication: Potential time waste, lack of perspective. Answer: Embrace the future.                                          | Gendler, T.                              | The individual is provoked to fix the gap of now. |
+| 1    | Marginal cost of reaction               | Subject: Every action has a cost. Situation: Drive to be helpful and feel significant. Complication: When faced with challenges, might seek simpler or more fun duties to avoid judgment.                  | Jason Calacanis                          | Individual move is self-measured by effort too.   |
+
+I've added the new chapter/article "Marginal cost of reaction" to the table based on the details you've provided.
+
+If you have more chapters/articles or details to add or adjustments to make, please continue to share, and I'll keep updating the table.

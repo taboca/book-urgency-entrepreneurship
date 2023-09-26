@@ -1,4 +1,4 @@
-# Picking battles to lose, releasing control, improving collaboration
+# Removing battles, improving listening 
 
 <!--
 
@@ -10,6 +10,23 @@
 
 * v0.2 - Release of control, and possibility 
 * v0.1 - Managing control
+
+## ScqA 
+
+* Subject - When speeding up with more, we reduce window of listening. 
+* Situation - In moving towards judgements, reviews, evaluations, we want to add more, add from the strategy. We end up passing adding more, and breaking things apart, disconnecting from the strategy of the goal. 
+* Complication - Some of these situations allow feedback reading, we might not listen. By giving up trying to win, picking battles to lose, we can listen more. Focus in therefore, improving listening and saving resources. 
+
+## Tags 
+
+* Focus 
+
+## Cases, can be the K1, k2, k3  
+
+* Marcio and contest, Austin, the environment 
+* Fabricio and Marcio hiring - the mission 
+* The Browser, Firefox. Ref  - "Then Ross, known to the Mozilla Foundation as just another precocious, diligent bug fixer, teamed up with Dave Hyatt, a former Netscape user interface programmer who now works for Apple Computer. In 2002, they announced they had "forked" the Mozilla code base, pulling out Mozilla's layout engine, called Gecko, and using a new user interface language, XUL. They posted a short manifesto proposing a tightly written piece of software called mozilla/browser. The goal was modest: no bloat. Inspired by Google's simple interface, they set out to build a stripped-down, stand-alone browser, a refutation of the feature creep that had grounded Netscape. "Lots of Mozilla people didn't get it," Ross recalls. "They'd say, 'This is just the product we have now, but with less features.' Meanwhile, the Mozilla product at the time had about 10,000 options. You basically needed to know the secret handshake to get anything done. It sounds corny, but it was important to make something that Mom and Dad could use." - https://www.wired.com/2005/02/firefox/?pg=3&topic=firefox&topic_set=
+
 
 ## Check
 

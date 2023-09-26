@@ -1,19 +1,33 @@
-# Staging validation 
+# The attraction of social interaction 
 
 <!--
 
 ## Title 
 
-* v 0.1 O palco da autovalidação e as redes sociais  
+* v 0.3 - The attraction of social interaction 
+* v 0.2 - Staging validation 
+* v 0.1 - O palco da autovalidação e as redes sociais  
 
 ## Version 
 
 * v2.3
 
-## Links too
+## SCqA 
 
-* 980_emotions_and_identity.txt 
-* 650_art_and_urgency.txt 
+* Subject - In feedback-driven world, it is possible to find feedback. Beware. 
+* Situation - Feedback can be cheap, new kinds of soft feedback. 
+* Complication - Focusing on feedback such as vanity metrics can be tricky. 
+* q/a - 
+
+* value     - navigating feedback, tricking yourself, dangers of social feedback 
+* reference - consider Adam Grant and Reid 
+
+## Cross 
+
+* 980_emotions_and_identity.txt - 
+* 650_art_and_urgency.txt       - 
+
+* 
 
 ## Referências
 
@@ -52,11 +66,12 @@ Nesse processo, que não exatamente se passa por urgente, a conta a se pagar pod
 > "Não esqueço meu primeiro usuário que comentou em uma postagem no meu canal Tio do Vale, sobre empreendedorismo. Foi o anjo investidor João Kepler. De fato, naquele dia, eu havia enviado uma postagem para um amigo que conhecia o João Kepler e o marcou. O João Kepler gostou da postagem. Foi muito legal. " Tio do Vale, Marcio S Galli, https://www.instagram.com/tiodovale 
 É inevitável nossa vontade por medir - de observar os resultados do que estamos criando. Pode até parecer que as ações práticas são de baixo custo mas na nossa mente, na nossa narrativa, no subconsciente, você estará ligado naquilo e aquilo passa a consumir. 
 
-O preço que pagamos por aumentar nossa rede, nosso canal, é nos tornarmos ligados a narrativa que pode estar alimentada pelas ações, muitas delas fragmentadas, e logicamente as  métricas, como o número total de seguidores ou um comentário de alguém especial. Ficamos dependentes da narrativa como um todo e ela pode mudar nosso comportamento. Quanto mais assistimos o que assinamos, como por exemplo nossos números, mais acreditamos que nosso empreendedorismo ocorre naquela arena, naquele palco. Mas, o preço a pagar não está na possibilidade de falha do projeto, caso esses sinais não ressoem com a realidade e verdades que o negócio ou projeto irá enfrentar. O preço está na condição emocional que atingimos, quando nos deparamos com decepção ou quando, apesar dos picos de dopamina e de excitação, ainda estamos no dia a dia perseguindo a meta maior que não se resolve. Com isso podemos nos ver encurralados, ou deixando o tempo passar; sem considerar outro ambiente e acreditando que aquele ambiente é real.
+O preço que pagamos por aumentar nossa rede, nosso canal, é nos tornarmos ligados a narrativa que pode estar alimentada pelas ações, muitas delas fragmentadas, e logicamente as métricas, como o número total de seguidores ou um comentário de alguém especial. Ficamos dependentes da narrativa como um todo e ela pode mudar nosso comportamento. Quanto mais assistimos o que assinamos, como por exemplo nossos números, mais acreditamos que nosso empreendedorismo ocorre naquela arena, naquele palco. Mas, o preço a pagar não está na possibilidade de falha do projeto, caso esses sinais não ressoem com a realidade e verdades que o negócio ou projeto irá enfrentar. O preço está na condição emocional que atingimos, quando nos deparamos com decepção ou quando, apesar dos picos de dopamina e de excitação, ainda estamos no dia a dia perseguindo a meta maior que não se resolve. Com isso podemos nos ver encurralados, ou deixando o tempo passar; sem considerar outro ambiente e acreditando que aquele ambiente é real.
 
 Em defesa de uma outra categoria que posta de vez em quando sem muita dedicação, vale uma nota. Na prática, talvez muitos de nós não dediquem um tempo específico para as postagens nas redes. É algo leve, que fazemos de vez em quando tipo “Olha, minha empresa é mais que isso, eu só posto e nem nos desgasta”. Mas considere o preço a se pagar ao trilhar esse caminho, uma vez que o(s) indivíduo(s) se colocam em posição de defesa, de cara. Quem poderia cobrar responsabilidade por algo que é feito no tempo livre ou em espaços de tempo estratégicos? Como quem diz "Ah, são só algumas postagens que eu faço de vez em quando." Não paramos para considerar que muito do que fazemos, como as coisas no tempo livre e escapadas do tempo podem de fato ser coisas que, de certa forma, esperamos muito. Não se passa por cobrança - lógica e bem definida - mas consome em silêncio. E isso é exatamente o jogo do vício que Mark Leary nos sugere. Por exemplo, quando a pessoa vai lá e faz uma outra postagem acreditando que talvez uma delas seja uma postagem vencedora. De um lado, sugere uma narrativa de construção, sem maiores perdas. De outro, está trilhando um comportamento e uma dependência. O foco paga o preço. Uma recomdação básica, caso um dia você pense em “postar de vez em quando” como uma atividade extra-oficial; considere transformar essa em atividade oficial. Considere que tudo que você faz para seu negócio deve ser contabilizado no horário de trabalho e você deve ser responsável e deve avaliar e julgar na frente de seus objetivos. 
 
 ## O Jogo de Navegar no Sistema
+
 Em sua busca pelo crescimento, os empreendedores podem se encontrar envolvidos em uma caça enganosa por validação, visando manipular sistemas para refletir o aparente sucesso. Paul Graham, em uma palestra intitulada "Before the Startup with Paul Graham (How to Start a Startup 2014: Lecture 3)" afirmou que:
 
 "[...] Iniciar uma startup é onde o manipular o sistema para de funcionar. O jogo da manipulação do sistema pode continuar a funcionar, se você for trabalhar para uma grande empresa; dependendo de quão quebrada a empresa esteja, você pode ter sucesso ao agradar a pessoa certa dando a impressão de produtividade ao enviar e-mails tarde da noite [...]" (Graham, 2014).
@@ -86,7 +101,7 @@ A jornada empreendedora é frequentemente marcada pela pressão de crescimento e
 
 I am working in a book Slow Down to Win, part 3, I am concerned with a topic, a subject, a theme, which is when the entrepreneurs attempt move with evidence of sucess using signals from the networks around, falling into accelerating into not success. 
 
-Now, here, I will basically give hings to the introduction but also you will notice that my writing shall be used, of course with grammar fixes, William Zinsser style of business plan objective english. 
+Now, here, I will basically give hints to the introduction but also you will notice that my writing shall be used, of course with grammar fixes, William Zinsser style of business plan objective english. 
 
 In terms of introduction, to put a logic for this article, we can lead the reader starting with a situation, which is truthful, undeniable situation, that if she is doing an entrepreneurial path, she has started with a premise that she need to grow. That the startup thesis has a premise: to grow. 
 

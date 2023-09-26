@@ -1,19 +1,25 @@
 
 <!--
 
-## todo
+## Title 
 
+* v0.1 - You just don't turn it off 
+
+## Part 
+
+* On part 1, for now. 
 * ( ) Consider to move to 300, as things will account more reaction if works 
+* Note: The individual is provoked to fix the gap of now. 
 
-## 
+## References
 
-Referências
 Gendler, T. (2012). Fraqueza da Vontade e Procrastinação [Vídeo]. YouTube. https://www.youtube.com/watch?v=xp3m7e9T72k
 
-* Situation - Things start to work. Your team is proud. 
-* Situation - You will respond, with execution to fix. 
+## SCqA 
+
+* Situation - Things gains traction. Gaps show. We can fix. It's nice. You will respond, with execution to fix. 
 * Complication - You can be wasting time, you can't see from perspective. Worse? You just started to make it work, and how you have to reinvent? 
-* Answer - For growth, embracing that nature is key. 
+* Answer - For growth, embrace future. 
 
 * pitch - objections - rain on your parade. 
 * pitch - objections - we are learning. 
