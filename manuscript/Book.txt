@@ -11,10 +11,6 @@
 000/050_foreword.txt
 000/100_introduction.txt
 
-#200/610_lean_no_lean_1.txt
-#200/620_lean_no_lean_2.txt
-#200/630_lean_no_lean_3.txt
-
 100/000_part1.txt
 
 100/010_startup_you.txt
@@ -55,7 +51,6 @@
 200/220_success_as_a_service.txt
 
 200/250_stop_impressing.txt
-200/260_stop_being_impressed.txt
 
 #100/750_control_urgency_to_please.txt
 #100/630_fast_cliches.txt
