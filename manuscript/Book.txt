@@ -30,11 +30,9 @@
 100/210_breaking_automatic_reaction.txt
 
 100/300_execution_urgency_neglecting_redesign.txt
-100/350_pressure.txt
 100/360_hora_h.txt
 100/390_mood_analysis_planning.txt
 100/480_fear_and_entrepreneurship.txt
-100/600_valley_difficulties.txt
 
 100/650_art_and_urgency.txt
 100/660_emotions_and_identity.txt
@@ -79,6 +77,7 @@
 200/640_business_canvas.txt
 
 200/700_irreducible_collaborator.txt
+200/710_pressure.txt
 200/720_do_things_that_dont_scale.txt
 
 200/800_collaboration_new_medium.txt

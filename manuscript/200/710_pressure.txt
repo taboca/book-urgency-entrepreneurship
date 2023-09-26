@@ -1,13 +1,23 @@
-## The flow of pressure  
+# The flow of pressure  
 
 <!--
 
-v2.1 
+## Check
 
---> 
+* ( ) Check the situation of Maslow where the pressure that one puts in the person, subordinate, might be taken for granted that the person can holds, as it - it's part of your job. There might be also an article about that somewhere. 
+
+## Version 
+
+* v2.2 
+
+## Note 
 
 * A reflection about urgency, pressure, and strategy when we are trying to navigate towards entrepreneurial success
 * Ref chatgpt - https://chat.openai.com/share/1e2b62b3-1079-4290-b9bb-42e040b9ca62
+
+## 
+
+--> 
  
 Introduction
 
