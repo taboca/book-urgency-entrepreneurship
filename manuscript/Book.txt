@@ -32,10 +32,7 @@
 100/300_execution_urgency_neglecting_redesign.txt
 100/360_hora_h.txt
 100/390_mood_analysis_planning.txt
-100/480_fear_and_entrepreneurship.txt
-
-100/650_art_and_urgency.txt
-100/660_emotions_and_identity.txt
+100/600_driven_identity.txt
 
 100/700_praise_navigation_ability.txt
 100/720_timeless.txt
