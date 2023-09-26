@@ -1,5 +1,26 @@
 <!--
 
+## Title 
+
+* v0.1 - Driven by emotions 
+
+## ScqA short
+
+* Subject - Affected due to emotions of the founder role, value of role, leading to triggering action. 
+* Situation - We wear a cape, we feel within that frame. Such as effort.  We auto feed role in some success metric. 
+* Complication - We can't put down the cape. 
+
+## References
+
+* Melissa Knightingale 
+* Steve Blank
+* Eric von. Hippel 
+
+## Part 
+
+* 1
+* Note: value system of identity role influences
+
 ## SCqA review 
 
 * Subject - Emotions affect us, as organizations such as startups, start with founders. Emotions are triggers for value-systems, associated with who they are and their roles. 

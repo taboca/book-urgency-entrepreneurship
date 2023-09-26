@@ -2,9 +2,30 @@
 
 <!--
 
-v2.2
+## Title 
+
+v0.1 - No colors in the rainbow 
+
+## Version 
+
+* v2.2
+
+## SCqA 
+
+* Subject - Focusing that the success as the result of a contest, market success, prevents opportunity. 
+* Situation - MOtivation and early design is a drive. We do things as we love. 
+* Complication - We lock early results as world driven, growth driven. 
 
 * Abstract - The conventional notion of a fixed dream for entrepreneurs may lead to disillusionment when faced with challenges. Successful ventures often emerge from failed projects and continuous adaptations. Entrepreneurship requires a practical direction and openness to change, with endurance to navigate through the Valley of Sorrow. The journey is about learning, resilience, and finding a guiding force amid uncertainty.
+
+## Part 
+
+* 1
+* Note: The colors projected of focus on outcome. 
+
+## references
+
+* Brian Chesky 
 
 --> 
 

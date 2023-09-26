@@ -1,3 +1,5 @@
+Check https://chat.openai.com/share/b7eb16c5-4c18-4709-9220-bd2629f34a3d 
+
 # Trying to differentiate these following
 
 ## managing auto pilot reaction, visiting strategy and principles 
@@ -11,7 +13,7 @@
 * Concept - aversion to loss > pain of effort uncertainty to win 
 * Concept - protected by principle < requires effort, principles, okay with pain 
 
-## Err is about supporting journey, less control for success 
+## Err is about supporting journey, less control for success - Permission to err
 
 * Ref - 100/020_err_is_ok.txt - "Permission to err " 
 
@@ -19,7 +21,7 @@
 
 O artigo "Err" que é inspirado no trabalho da Julia Cameron, traz uma solução que permite errar, para o escritor. 
 
-## Valley of Sorrow 
+## Valley of Sorrow - No colors in the rainbow
 
 * Ref - 100/050_rainbow_grayscale.txt - " No colors in the rainbow "
 
