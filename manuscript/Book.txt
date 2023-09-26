@@ -4,7 +4,7 @@
 
 100/630_fast_cliches
 100/750_control_urgency_to_please
-200/250_stop_impressing
+    200/250_stop_impressing
 
 --> 
 
@@ -55,7 +55,6 @@
 #100/750_control_urgency_to_please.txt
 #100/630_fast_cliches.txt
 
-200/320_strategic_dissonance.txt
 200/350_first_to_friends_no.txt
 200/360_team_dynamics_crying_is_ok.txt
 200/450_urgent_vs_important.txt
@@ -85,6 +84,7 @@
 300/220_positive_intentions_technology.txt
 300/250_they_system_does_not_allow.txt
 300/300_role_models_design_empatia.txt
+300/320_strategic_dissonance.txt
 300/400_managing_certainty_gap.txt
 300/410_lean_storytelling.txt
 300/430_self_staging.txt

@@ -1,6 +1,6 @@
-# Falando que Faz Lean Versus Fazendo Lean
+# Lean pipes 
 
-### Falando que Faz Lean vs Fazer Lean
+## Learning with lean 
 
 Semana que vem é "Falar que Faz Lean Versus Fazer Lean" que quer abordar os fenômenos tipo falsidades ou não verdades ou procrastinação.. quando mentimos para nós mesmos, por exemplo.
 
