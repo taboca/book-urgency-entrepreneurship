@@ -41,7 +41,7 @@
 100/720_timeless.txt
 
 100/800_less_is_more.txt
-100/850_true_collaboration_space.txt
+100/850_communication_space_tool.txt
 100/900_personal_board-en-us.txt
 100/950_accounting_learning.txt
 100/970_winning.txt
