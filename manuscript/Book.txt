@@ -34,7 +34,6 @@
 100/390_mood_analysis_planning.txt
 100/600_driven_identity.txt
 
-100/700_praise_navigation_ability.txt
 100/720_timeless.txt
 
 100/800_less_is_more.txt
@@ -72,6 +71,8 @@
 200/620_lean_no_lean_2.txt
 200/630_lean_no_lean_3.txt
 200/640_business_canvas.txt
+
+200/700_praise_navigation_ability.txt
 
 200/700_irreducible_collaborator.txt
 200/710_pressure.txt
