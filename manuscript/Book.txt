@@ -26,7 +26,7 @@
 100/100_operating_systems.txt
 100/110_narratives_improving.txt
 100/120_space.txt 
-
+f
 100/300_execution_urgency_neglecting_redesign.txt
 100/350_pressure.txt
 100/360_hora_h.txt
@@ -36,6 +36,8 @@
 
 
 100/650_art_and_urgency.txt
+100/660_emotions_and_identity.txt
+
 100/700_praise_navigation_ability.txt
 100/720_timeless.txt
 
@@ -44,7 +46,6 @@
 100/900_personal_board-en-us.txt
 100/950_accounting_learning.txt
 100/970_winning.txt
-100/980_emotions_and_identity.txt
 
 200/000_part2.txt
 200/030_razoes_para_correr.txt
