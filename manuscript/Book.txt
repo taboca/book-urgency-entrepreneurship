@@ -36,7 +36,6 @@
 
 
 100/650_art_and_urgency.txt
-100/670_irreducible_collaborator.txt
 100/700_praise_navigation_ability.txt
 100/720_timeless.txt
 
@@ -76,7 +75,10 @@
 200/620_lean_no_lean_2.txt
 200/630_lean_no_lean_3.txt
 200/640_business_canvas.txt
-200/700_do_things_that_dont_scale.txt
+
+200/700_irreducible_collaborator.txt
+200/720_do_things_that_dont_scale.txt
+
 200/800_collaboration_new_medium.txt
 200/900_awareness.txt
 

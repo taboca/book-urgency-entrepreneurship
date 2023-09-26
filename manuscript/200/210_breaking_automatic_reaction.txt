@@ -1,4 +1,4 @@
-# You just don't turn it off 
+## You just don't turn it off 
 
 Imagine o cenário: o casco de um cavalo é danificado inesperadamente. Nossa reação imediata e instintiva é consertar o problema prontamente - restaurar o equilíbrio e recuperar nossa sensação percebida de equilíbrio. Essa resposta automática está profundamente enraizada no princípio da aversão à perda, um conceito em economia comportamental que postula que a dor da perda é sentida mais profundamente do que a alegria de ganho equivalente. Somos essencialmente programados para reagir rapidamente, para mitigar as perturbações do nosso 'normal conhecido.'
 
