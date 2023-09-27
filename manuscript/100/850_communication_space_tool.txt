@@ -8,7 +8,7 @@ Yet, before we delve into these non-technological and natural aspects of human c
 
 My trust in ChatGPT's capabilities likely stems from my background, as I have interacted with computers since I was 10 and later pursued a degree in Computer Science. Even being somewhat "in the field," I didn't expect technology to be able to replicate what seems not much different from human reasoning, a certain form of reasoning that employs narratives. But in using it, I realized it understood my needs in a unique way - this became the gateway to deeper reflection, which in turn led me to some observations about certain human flaws, likely sparked by our rushed approach to life.
 
-## The friendly entity that has patience to listen
+## Friendly and patient 
 
 The concept of an elevator pitch is familiar to many entrepreneurs—you have 30 seconds to pique an investor's interest. This approach is a test that they do - a selective system - as we will be able to reflect when reading "Selecting bad investors" in part 3. But this approach to acting has spreaded as we have mechanized communications in a way. So then in the current world as we know it, we simply can't use the time of an investor and start with a line "When I was born" or any sort of deductive [^deductionsucksforcommunication]. 
 
@@ -20,7 +20,7 @@ However, there is now this new class of assistants that came on our way - these 
 
 It could be the case that some people are using - or misusing - these AI robots in ways like that and are currently reporting that they are improving their lives. That the robot is listening to them. The phenomenon that leads them to put in this way might have to do with indeed their effort that was put in place, the opportunity, to iterate more. In other words, they are giving more time for themselves, writing more, putting "on paper" more. The act of putting on paper, as pointed by Julia Cameron in The Artist's Way, has therapeutic effects that can unlock the creative mind as perhaps control systems are less put in place, which resonates with the an enlightened way of living as pointed by "Maslow in Maslow on Management". 
 
-## Reading a well-Structured, friendly communication
+## Non-distracting flow 
 
 ChatGPT not only structures your ideas but also provides explanations in a clear, digestible manner, which is totally different from the approach that you typed in the first place - what it friendly has accepted with an optimistic and forward-looking inclination. Additionally, its simple, ad-free interface promotes focus and understanding. In addition, its note by note, as a chat, way of moving forward, is quite compatible with a way that the human is likely to be focused. In addition, its animated approach, typing word by word as of the version 4.0, is quite friendly to people that might have more or less difficulty to follow a lot of words in the screen. 
 
@@ -28,7 +28,7 @@ Now, sum these features and consider the value of asking things and trying to el
 
 I might have my own difficulties that some may try to tag as TDAH or dislexia; but I am also feeling that the web as it has contributed to develop habits in my personal operating system. I caught myself trusting too much a habit of doing searches across sites with different layouts, with a lot of unecessary additional visual things, which creates confusion. The seamless all in one screen approach of ChatGPT is a key aspect to pay attention, it gives a more relaxing interface which gives me an opportunity to improve the amount of time in front of it. 
 
-## The prize for good prompts? good questions leading to good answers 
+## Solving the puzzle 
 
 The phenomenon of creating prompts is well-acknowledged and far from being a new concept. The art and science of formulating prompts echo the larger discipline of crafting incisive questions. This subject is extensively explored. There's a famous quote by physicist Albert Einstein that encapsulates the idea:
 

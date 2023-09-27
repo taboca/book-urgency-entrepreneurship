@@ -1,9 +1,10 @@
+## Todos 
 
-## Doc shared 
+* ( ) Review original, the following, so that we can bring back Marcio's voice. 
 
-* Ricardo Agostinho - 
+## Peers 
 
-* Ref - https://docs.google.com/document/d/1j8p8pclLynSnjXO7YpCYhjLKAE188c6ZC8JWaWKe4-Y/edit 
+* Ricardo Agostinho - https://docs.google.com/document/d/1j8p8pclLynSnjXO7YpCYhjLKAE188c6ZC8JWaWKe4-Y/edit 
 
 ## Title 
 
@@ -11,7 +12,7 @@
 * v0.1 - Communication as a tool 
 
 * v0.3 - https://chat.openai.com/share/db3618f0-3102-49d8-9caa-8b9971787b5b  
-* Chatgpt - https://chat.openai.com/share/fb8fd1e1-4b52-4991-ab1b-494450c2fb1e 
+* v0.1 - https://chat.openai.com/share/fb8fd1e1-4b52-4991-ab1b-494450c2fb1e 
 
 * [sync] Sync this title with English title 
 * [review] Refers to - "Invest in executive communication" @ 200/500_executive_communication.txt
