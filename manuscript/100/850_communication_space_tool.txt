@@ -2,6 +2,12 @@
 
 <!--
 
+## Doc shared 
+
+* Ricardo Agostinho - 
+
+* Ref - https://docs.google.com/document/d/1j8p8pclLynSnjXO7YpCYhjLKAE188c6ZC8JWaWKe4-Y/edit 
+
 ## Title 
 
 * v0.2 - Communication 
@@ -26,20 +32,15 @@
 
 -->
 
-ChatGPT foi lançado e, antes que eu pudesse compreender seu potencial, me vi utilizando-o para elaborar textos. Notei que essa ferramenta se torna cada vez mais eficaz quanto mais experiência você tem. Como indivíduo experiente em domínios específicos, você pode facilmente orientar o ChatGPT, alterando sua narrativa. Isso também pode ressoar com aqueles que aprendem através da escrita, como eu.
+ChatGPT was launched, and before I could grasp its potential, I found myself using it to craft texts. I noticed that this tool becomes increasingly effective the more experience you have with it. As someone proficient in specific domains, you can easily guide ChatGPT by shaping its narrative. This may also resonate with those who learn through writing, like myself.
 
-No entanto, alguns insights não estão atrelados à tecnologia por trás da ferramenta, mas à minha experiência pessoal interagindo com ela. A ferramenta me ensinou lições valiosas sobre produtividade humana, colaboração e como emoções e pensamentos podem obstruir uma sessão de trabalho produtiva que leva a um trabalho de alta qualidade.
+However, some insights are not tied to the technology behind the tool but to my personal experience interacting with it. The tool has taught me valuable lessons about human productivity, collaboration, and how emotions and thoughts can hinder a productive work session that would lead to quality work.
 
-Usar o ChatGPT levou a várias descobertas sobre meus processos e menos sobre a própria ferramenta. No entanto, antes de explorá-las, devo reconhecer o que me levou a usar o ChatGPT. O incentivo que me levou a isso foi a promessa atraente de recompensas potenciais - se eu comunicar meus desejos, a ferramenta irá entregar.
+Yet, before we delve into these non-technological and natural aspects of human collaboration, I must acknowledge what led me to use ChatGPT. The driving force behind this decision was the alluring promise of potential rewards. For instance, if I communicate my wishes, the tool will deliver, much like a genie from a lamp.
 
-Este artigo enfatiza o poder da atenção focada, especialmente quando você está genuinamente interessado. Alguns professores são excelentes em comunicar a razão por trás de sua matéria, incentivando os alunos a prestar atenção.
+My trust in ChatGPT's capabilities likely stems from my background, as I have interacted with computers since I was 10 and later pursued a degree in Computer Science. Even being somewhat "in the field," I didn't expect technology to be able to replicate what seems not much different from human reasoning, a certain form of reasoning that employs narratives. But in using it, I realized it understood my needs in a unique way - this became the gateway to deeper reflection, which in turn led me to some observations about certain human flaws, likely sparked by our rushed approach to life.
 
-Minha confiança nas capacidades do ChatGPT pode derivar do meu histórico - interajo com computadores desde os 10 anos de idade e, posteriormente, fiz uma graduação em Ciência da Computação. Eu não esperava que a tecnologia conseguisse replicar o raciocínio em narrativas. Mas, ao usá-lo, percebi que ele entendia minhas necessidades de uma maneira única.
-
-Isso leva a observações sobre certas falhas humanas, provavelmente provocadas por nossa abordagem apressada da vida.
-
-
-## The friendly entity that has patience to listen 
+## The friendly entity that has patience to listen
 
 The concept of an elevator pitch is familiar to many entrepreneurs—you have 30 seconds to pique an investor's interest. This approach is a test that they do - a selective system - as we will be able to reflect when reading "Selecting bad investors" in part 3. But this approach to acting has spreaded as we have mechanized communications in a way. So then in the current world as we know it, we simply can't use the time of an investor and start with a line "When I was born" or any sort of deductive [^deductionsucksforcommunication]. 
 
