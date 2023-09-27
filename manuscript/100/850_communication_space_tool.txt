@@ -1,6 +1,6 @@
 # Communication 
 
-ChatGPT was launched, and before I could grasp its potential, I found myself using it to craft texts. I noticed that this tool becomes increasingly effective the more experience you have with it. As someone proficient in specific domains, you can easily guide ChatGPT by shaping its narrative. This may also resonate with those who learn through writing, like myself.
+ChatGPT was launched, and before I could grasp its potential, I found myself using it to craft texts. I noticed that this tool becomes increasingly effective if you have in fact expertise in the field that you are interested. In a more colorful analogy, a tool like ChatGPT is like an super powerful unicorn that is not tamed. You can ride in weird ways, you can fall, or you can ride with it elegantly and fly. 
 
 However, some insights are not tied to the technology behind the tool but to my personal experience interacting with it. The tool has taught me valuable lessons about human productivity, collaboration, and how emotions and thoughts can hinder a productive work session that would lead to quality work.
 
@@ -56,8 +56,13 @@ Intriguingly, even before I encountered Cameron's invitation, I experienced a gl
 
 At that moment I felt I coined the "Science and Art of Writing Prompts and Not Sending it to ChatGPT" and the revelations that you will see there resonate incredibly with the so strong point from Julia Cameron. 
 
-In conclusion, my experience writing and collaborating with ChatGPT underscores that idea evolution benefits from a conversational and iterative approach. Engaging in a friendly dialogue, actively listening, and continuously asking the right questions with an AI demonstrates the power of combining human intuition with machine efficiency. However, the profound lesson isn't about the capabilities of AI, but the humanized collaborative approach inherent in us that perhaps, over time, we've overlooked or forgotten. It's a testament to how modern problem-solving can take on a dynamic, interactive form, rooted deeply in our innate human capacities. [Review this as this was helped by CHATGPT akwardly.]
+## The mechanization of humans 
 
+It's a delightful and yet ironic that ChatGPT - when seen as a tool that gives instantaneous results, in the sense of instant gratification, has shown us a door. Not a door leading to more digital intoxication, but one that opens up to our innermost values. It enables us to be patient, focused, to get into an iterative collaboration without fear, such as judgment, without distractions, without pressures such as from critics, investors, approvers, directors, teachers, you name it. The journey of progress first and foremost requires allowing the individual, the young soul, to evolve. We are all novices in various areas of life. A fitting example is writing. We sometimes feel like beginners in specific fields, and often, there's no "coach" for that. No wise elder or grandparent guiding us in a friendly manner. It's a loss. We need to reclaim this essence.
+
+Now, if you consider for a while a human, which is in front of you and there to help with something that you want to collaborate. But consider such human as a technology. He can have a conversation with you, more humanized or not. Can be more patient or not. Can be rude or nice. Can be optimistic or not. Can motivate or note. Can be patient or not. There are situations that people compare the experience of ChatGPT with the experience of interacting with listeners such as some of the characteristics of psychologists. Yes, psychologists can listen, psychologists can offer a friendly environment, without judgement. Psychologists might be able to offer a lot of sessions, in time, so that we can achieve clarity. Now, an average human, in the work environment, under pressure, might not have an agenda for being a listerner, for example. 
+
+In conclusion, my experience writing and collaborating with ChatGPT underscores that ideas evolves from a conversation, from positive iteration. Engaging in a friendly dialogue, such as one that holds actively listening, and continuously asking the not-yet-right questions demonstrates the power of human intuition with machine efficiency. However, the lesson isn't about the capabilities of AI, but the humanized collaborative approach inherent in us that perhaps, over time, we've overlooked or forgotten. It's a testament to how modern problem-solving can take on a dynamic, interactive form, rooted deeply in our innate human capacities. 
 
 
 

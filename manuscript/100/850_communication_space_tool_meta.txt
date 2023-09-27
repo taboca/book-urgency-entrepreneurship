@@ -4,7 +4,13 @@
 
 ## Peers 
 
-* Ricardo Agostinho - https://docs.google.com/document/d/1j8p8pclLynSnjXO7YpCYhjLKAE188c6ZC8JWaWKe4-Y/edit 
+### Conversation with RA (Ricardo).
+
+* Story of Richard and ChatGPT helping to write about his personal history - Marcio has heard the story of Richard, of his use of ChatGPT, and how he found that the tool allowed him to write, to evolve a presentation, as he has started with prompts and questions, he has started to throw bits and pieces of his life. Richard said that the writing was more natural, and the tool has helped to iterate, to advance. Then as he was asking to produce an structured text, brought the tool in the correct course, such as reminding the tool of his directions. In other words, he has collaborated.  
+
+* Marcio's response to Richard - Marcio has sent the draft of the article entitled "Communication" - https://docs.google.com/document/d/1j8p8pclLynSnjXO7YpCYhjLKAE188c6ZC8JWaWKe4-Y/edit - to which Richard has agreed that the tool gave a sort of valuable interation leading to achievement of clarity, through writing. 
+
+* Marcio's conclusion - of the phenomenon - Translated from pt-br by ChatGPT - "Yes, we often stumble upon phenomena where certain truths are stated as facts — when there's something out there that the world knows, yet no one really knows. Like a secret. And this mysterious quality is what fuels great ideas, successful startups, effective management, and impactful articles. In Ricardo's quest for a solution, speaking of himself, he needed to seek out collaboration and assistance. The process he underwent with "himself" primarily opened us up to something we've seemingly forgotten. We can indeed create self-help moments, such as taking out a piece of paper and writing down questions or any other reflective activities. This simple yet profound realization has been overshadowed. We're the protagonists of a generation that may have inadvertently eclipsed this, mainly because we believed that technology and speed could offer shortcuts. It's a delightful irony that ChatGPT, in its quest to provide instantaneous results or instant gratification, has shown us a door. Not a door leading to more digital intoxication, but one that opens up to our innermost values. Patient, focused, iterative collaboration without fear, judgment, distractions, or pressures (from critics, investors, approvers, directors, teachers) stands out. The journey of progress first and foremost requires allowing the individual, the young soul, to evolve. We are all novices in various areas of life. A fitting example is writing. We sometimes feel like beginners in specific fields, and often, there's no "coach" for that. No wise elder or grandparent guiding us in a friendly manner. It's a loss. We need to reclaim this essence." 
 
 ## Title 
 
@@ -78,3 +84,6 @@ Actually my discovery before Julia's reading was a day that I noticed that I did
 And the exercise that Julia asked me, not so different. Write without worrying, unlocks. 
 
 I should remark That what I am referring to might not be exactly the same thing that many people write and do related to the art of prompts, the science of prompts. I might have started to develop my approach to prompts more like in a narrative approach, as of I was explaining to a buddy with lots of patience. I might have caught myself exercising too my approach to learning - is what I felt as I read a section from 777 homo narrans.
+
+
+
