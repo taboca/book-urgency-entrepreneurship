@@ -1,37 +1,5 @@
 # Communication 
 
-<!--
-
-## Doc shared 
-
-* Ricardo Agostinho - 
-
-* Ref - https://docs.google.com/document/d/1j8p8pclLynSnjXO7YpCYhjLKAE188c6ZC8JWaWKe4-Y/edit 
-
-## Title 
-
-* v0.2 - Communication 
-* v0.1 - Communication as a tool 
-
-* Chatgpt - https://chat.openai.com/share/fb8fd1e1-4b52-4991-ab1b-494450c2fb1e 
-
-* [sync] Sync this title with English title 
-* [review] Refers to - "Invest in executive communication" @ 200/500_executive_communication.txt
-* [review] Refers to - "Selecting bad investors" @ 300/070_bad_investors.txt
-
-* [add] Refers to "Julia Cameron in The Artist's Way" 
-* [add] "Maslow in Maslow on Management" 
-
-* [add] Ref to book The Right to Write by Julia Cameron 
-
-* [add] Marcio brought a point about "try again" that could link to Lean in part 3 @ "This paragraph lifts up something we know, from our life cycle, as humans; that we are trying again and again. And we will have a chance, also in part 3, to look at the lean movement cycle from above.  "
-
-* [check truth] Footnote [^alberteinsten] as I have pointed that he stressed philosophical inquiry as the means. 
-
-* Featuring ChatGPT
-
--->
-
 ChatGPT was launched, and before I could grasp its potential, I found myself using it to craft texts. I noticed that this tool becomes increasingly effective the more experience you have with it. As someone proficient in specific domains, you can easily guide ChatGPT by shaping its narrative. This may also resonate with those who learn through writing, like myself.
 
 However, some insights are not tied to the technology behind the tool but to my personal experience interacting with it. The tool has taught me valuable lessons about human productivity, collaboration, and how emotions and thoughts can hinder a productive work session that would lead to quality work.
@@ -87,3 +55,9 @@ The approach by Julia seemed to match with the kind of prompts I was writing for
 Intriguingly, even before I encountered Cameron's invitation, I experienced a glimpse of this phenomenon. One day, as I was motivated with the art of prompts, I have decided to write a prompt in a more relaxed and calmer way. The extra investment was not exaclty about trying to write a prompt like an article but still I was giving myself time and trying to write more properly. To my surprise I wasn't achieving only a well-crafted prompt but was surfacing the whole answer to what I was looking for. I caught myself joking "Hey, I am working for you, ChatGPT! It's you that should work for me!. " And, right after saying that, I experienced a chill coursing through my body as if my mind had been sucker-punched by a realization. "My friend, I was always here inside of you, able to write better, capable of crafting questions and even planning what is next in a proper way. You just didn't take the time to see me."
 
 At that moment I felt I coined the "Science and Art of Writing Prompts and Not Sending it to ChatGPT" and the revelations that you will see there resonate incredibly with the so strong point from Julia Cameron. 
+
+In conclusion, my experience writing and collaborating with ChatGPT underscores that idea evolution benefits from a conversational and iterative approach. Engaging in a friendly dialogue, actively listening, and continuously asking the right questions with an AI demonstrates the power of combining human intuition with machine efficiency. However, the profound lesson isn't about the capabilities of AI, but the humanized collaborative approach inherent in us that perhaps, over time, we've overlooked or forgotten. It's a testament to how modern problem-solving can take on a dynamic, interactive form, rooted deeply in our innate human capacities. [Review this as this was helped by CHATGPT akwardly.]
+
+
+
+

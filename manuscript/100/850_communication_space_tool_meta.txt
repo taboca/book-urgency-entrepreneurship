@@ -1,0 +1,79 @@
+
+## Doc shared 
+
+* Ricardo Agostinho - 
+
+* Ref - https://docs.google.com/document/d/1j8p8pclLynSnjXO7YpCYhjLKAE188c6ZC8JWaWKe4-Y/edit 
+
+## Title 
+
+* v0.2 - Communication 
+* v0.1 - Communication as a tool 
+
+* v0.3 - https://chat.openai.com/share/db3618f0-3102-49d8-9caa-8b9971787b5b  
+* Chatgpt - https://chat.openai.com/share/fb8fd1e1-4b52-4991-ab1b-494450c2fb1e 
+
+* [sync] Sync this title with English title 
+* [review] Refers to - "Invest in executive communication" @ 200/500_executive_communication.txt
+* [review] Refers to - "Selecting bad investors" @ 300/070_bad_investors.txt
+
+* [add] Refers to "Julia Cameron in The Artist's Way" 
+* [add] "Maslow in Maslow on Management" 
+
+* [add] Ref to book The Right to Write by Julia Cameron 
+
+* [add] Marcio brought a point about "try again" that could link to Lean in part 3 @ "This paragraph lifts up something we know, from our life cycle, as humans; that we are trying again and again. And we will have a chance, also in part 3, to look at the lean movement cycle from above.  "
+
+* [check truth] Footnote [^alberteinsten] as I have pointed that he stressed philosophical inquiry as the means. 
+
+* Featuring ChatGPT
+
+### Original 
+
+I will paste my text, fix English william zinsser influenced style, plain business english or objective. Thjis is for my about entitled Slow Down to Win, about deceleration. And the chapter will be on part 3, about how we discover collaboration with tools and systems, and people. 
+
+## Collaborating with tools in a healthy way 
+
+* Feat chat gpt 
+
+Chat gpt was released, and before I could see it's value I caught myself using it to ideate texts. I caught myself saying - that the tool was amazing the more senior you are. As being senior in some subjects help us to quickly provoke chatGpt, change its directions. Also it might be the case that I am a learner that learns via writing. And then I caught myself writing. 
+
+But then there are certain things that have nothing really to do with the technology that is behind and have to do with the experience of interaction with the tool, how I am using the tool, that seem to be teaching me a lesson about humans and productivity, how we collaborate, how for some people emotions and thoughts can be on your way to prevent a good work session that can lead to a good work material. 
+
+Here are some things I have discovered from using chatGpt that seem to be more on my end of it, less to do with chatGpt. 
+
+But before I break in sessions I have to accept, and recognize, the fact that there is a motivation that brought me in front of chatGpt. That I gave myself a chance to interact with it, due to something. And the something is, as anyone would naturally guess, the promise, the prize. As in, of I tell what I want,then it comes the prize. That simple idea is an element that this article wants to put in the podium, if I had to select a winner, the attention that we can give to anything, when we are interested. Some professors are good in articulating the reasons for their student to pay attention. 
+
+Maybe as for myself for believing in what chatGpt could do, It may have to do with my background, since I have a computer science background and started playing with computers at the age of 10. 
+
+I sort of wasn't expecting that technology could do that sort of thing, to use the narratives available to sort of act and produce results comparable with reasoning. As in, to be able to say something in a poor way and to see the machine producing the exact result I was aiming for. So as I touched in it, I felt the potential, it understood me, in a way. 
+
+And this observation brings us to these observations about the things we humans have started to fail, perhaps due to our urgent way of operating in life. 
+
+## Patient to understand your friend 
+
+Many people know that line, across entrepreneurs, the elevator pitch. You have 30 seconds to call the attention of an investor. It's a filter that they do, a test, as article xxx explores. It's also a selection system, as we have seen in you article about accelerators and investors and risk filtering systems. So then, as we know, we can t use the time with the investor to start with "when I was born" or any sort of deductive say or saying things. We have also seen in kkk that using time to reverse the deductive logic to the point of structuring the logic, is the way to go for investors, and perhaps even for communication in your family. 
+
+Which brings us to, your friend also will not have the time to get what you are saying. Not anymore. It's not their fault. It is in how we grasp information, plus of course the urgencies. 
+
+So, you are left with yourself. Go back home, try to achieve clarity of ideas, then come back. Well, now chatgpt won't give up on you. You can even test, by giving out bits and pieces, tell it your story, eventually make the points, and interate. If you are trying to use the other to achieve clarity, chatgpt can help. Or course, that works because its technology produces things that you can read,.leading you to achieve more clarity, to course correct, and more. 
+
+## listening and reading a well written structured and friendly communication
+
+What it produces can be read. Unlike what you probably wrote. And it also provides structure, explanations. And also it, as of the version 4, type words by words. 
+
+And also, it does not have ads. Do you see where I am going? I was able to read, I am able to read. The conversation approach, and the simple UI that flows, pulls me to follow the flow. 
+
+### the prize for good prompts is actually writing good prompts 
+
+A well commented phenomenon has to do with prompts, which is not new in the world as we knew it. The science and art of making prompts resonates with the art and science of working in question. There is a whole world about that, such as documented in books such as the most beautiful question. 
+
+And now, chatGpt has unlocked, the world of prompts. There are even ai thingd and business focusing in prompts. 
+
+But then, right in front of us an opportunity unlocked by these tools. That it pulls us to work in our prompts. That is point a. And point b resonates with what I read from Julia Cameron in The Right to Write. She said that if you give up your critic that asks you to write properly, then you can unlock yourself. My awakening about a feature of chatgpt came out from the thing Julia said. Since I came back to write this book, So then, somehow when I did Julia exercise I caught myself flowing well, and stumbled at what she said it would happen. That the Release if writing right unlocked me. And the synchronicity that I felt with using chatGpt, that I was making developing well the prompts and feeling that I had nailed it. by bring motivated to write, and not worrying much about grammar or the judge, I caught myself accessing what I wanted to say and coordinating better the thoughts. 
+
+Actually my discovery before Julia's reading was a day that I noticed that I did such a good job in elaborating a prompt narrative that I didn't need to send to chatGpt. I didn't send. And that was it. 
+
+And the exercise that Julia asked me, not so different. Write without worrying, unlocks. 
+
+I should remark That what I am referring to might not be exactly the same thing that many people write and do related to the art of prompts, the science of prompts. I might have started to develop my approach to prompts more like in a narrative approach, as of I was explaining to a buddy with lots of patience. I might have caught myself exercising too my approach to learning - is what I felt as I read a section from 777 homo narrans.
