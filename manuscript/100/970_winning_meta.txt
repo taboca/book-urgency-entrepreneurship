@@ -6,6 +6,8 @@ v2.4
 
 * ( ) Check if Maslow and the situation of the salesman wasn't already included in other chapter - "The notion for splitting the love" resonates with the view of the present salesman vs. future enlighted salesman which is pointed by Abraham Maslow in Maslow on Managenent. 
 
+* ( ) Birdman is duplicated 
+
 ## Authors
 
 * Julia Cameron 

@@ -2,6 +2,8 @@
 
 <!--
 
+* ( ) consider the situation of Michal about people in the boat, equity solution after millions of years. 
+
 ## Title 
 
 * v0.1 - Irreducible minimum 
