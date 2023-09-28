@@ -2,9 +2,7 @@
 
 * ( ) Review original, the following, so that we can bring back Marcio's voice. 
 
-### References 
-
-* The complex collaborative process of writing  - http://hackernoon.com/preview/qrRGAj8g7WEHGqKyezvh 
+* ( ) Review against - https://app.hackernoon.com/mobile/qrRGAj8g7WEHGqKyezvh 
 
 ### SCqA v0.1 
 
