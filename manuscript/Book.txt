@@ -42,7 +42,6 @@
 #100/750_control_urgency_to_please.txt
 
 200/350_first_to_friends_no.txt
-200/360_team_dynamics_crying_is_ok.txt
 200/450_urgent_vs_important.txt
 200/500_executive_communication.txt
 200/610_lean_no_lean_1.txt

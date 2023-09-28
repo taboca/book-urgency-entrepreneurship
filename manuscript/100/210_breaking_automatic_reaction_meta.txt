@@ -1,6 +1,10 @@
 
 <!--
 
+## Todo 
+
+* ( ) Style and wording - In "autopilot vs. manual" which is a title that should be revisited; nevertheless, if "autopilot vs. manual" is a seriously considered metaphor, we might need a clear idea that manual, for most people, is a sort of autopilot anyway. Thus, if people think that "manual" is autopilot, the title serves for nothing. It confuses them. Anyway, assuming that the point of "manual" is strategic allowance for solving that is ahead and unknown, then the point is to really consider the strategies, such as replacements like "the redesign of another autopilot", replacing the executor that is going towards vacation, pre-mortem of the role of strategy for the sake of using another, and more. 
+
 ## Title 
 
 * v0.2 - Autopilot

@@ -1,5 +1,10 @@
 <!--
 
+## Todo 
+
+* ( ) Check if the case of Melissa's cape goes here or not. 
+* ( ) consider pride against fear, love, emotions. Emotions vs. 
+
 ## Title 
 
 * v0.2 - Identity 
