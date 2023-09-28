@@ -1,13 +1,3 @@
-<!-- 
-
-## Clichés, impression 
-
-100/630_fast_cliches
-100/750_control_urgency_to_please
-    200/250_stop_impressing
-
---> 
-
 000/050_foreword.txt
 000/100_introduction.txt
 
@@ -28,7 +18,9 @@
 100/300_execution_urgency_neglecting_redesign.txt
 100/600_driven_identity.txt
 
+100/630_fast_cliches.txt
 100/800_less_is_more.txt
+
 100/850_communication_space_tool.txt
 100/900_personal_board-en-us.txt
 100/950_accounting_learning.txt
@@ -49,7 +41,6 @@
 200/250_stop_impressing.txt
 
 #100/750_control_urgency_to_please.txt
-#100/630_fast_cliches.txt
 
 200/350_first_to_friends_no.txt
 200/360_team_dynamics_crying_is_ok.txt
