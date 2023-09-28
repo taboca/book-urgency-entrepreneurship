@@ -27,10 +27,7 @@
 
 100/300_execution_urgency_neglecting_redesign.txt
 100/360_hora_h.txt
-100/390_mood_analysis_planning.txt
 100/600_driven_identity.txt
-
-100/720_timeless.txt
 
 100/800_less_is_more.txt
 100/850_communication_space_tool.txt

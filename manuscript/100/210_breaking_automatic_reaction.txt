@@ -1,6 +1,18 @@
-# Autopilot  
+# Autopilot vs. manual   
 
-Imagine o cenário: o casco de um cavalo é danificado inesperadamente. Nossa reação imediata e instintiva é consertar o problema prontamente - restaurar o equilíbrio e recuperar nossa sensação percebida de equilíbrio. Essa resposta automática está profundamente enraizada no princípio da aversão à perda, um conceito em economia comportamental que postula que a dor da perda é sentida mais profundamente do que a alegria de ganho equivalente. Somos essencialmente programados para reagir rapidamente, para mitigar as perturbações do nosso 'normal conhecido.'
+The subject of this chapter relates to the theme important vs. urgent. This idea is easily visualized with the Eisenhower matrix [footnote_matrix_important_vs_urgent]. Let's visit the old west and imagine that the hourseshoes of your horse is damaged. And you do your job with your horse, so a natural response, following instincts, is to fix the horse, pronto, to bring back the equilibrium, eliminate the loss. Essa resposta automática está profundamente enraizada no princípio da aversão à perda, um conceito em economia comportamental que postula que a dor da perda é sentida mais profundamente do que a alegria de ganho equivalente. Somos essencialmente programados para reagir rapidamente, para mitigar as perturbações do nosso 'normal conhecido.'
+
+[footnote_matrix_important_vs_urgent]:
+
+<!-- 
+Check - fear of loss, used, above, which was brought up in other chapter. 
+
+* Subject - The urgent is safe, what we can do. Depending on important we might have to face virtuosity construction. Be nice with your unknown path. 
+* Situation - Entrepreneurs know that important is generally not done in the face of what is urgent. Sometimes the belief is that by acting on urgent, benefits may open room for solving what is important later. Like cleaning the room after having some success in the streets. 
+* Complication - Facing important triggers other problems. After "no time for that", we find stones in our ways, such as the need to plan in the face of fears, strong emotions, and more. We need to allow the young apprentice to navigate the uncertain path of important. This is the door to infinite apprentice. 
+* Q / A - Solution? Starts with courage, to have time, to be nice with that weak being.
+
+--> 
 
 No entanto, essa resposta instantânea e centrada na reparação representa uma complicação: enfatiza o aqui e agora, preservando nosso estado presente. Mas será que essa mentalidade reativa limita nossa capacidade de imaginar, e portanto aspirar a, um sistema melhor? Ao nos concentrarmos exclusivamente em corrigir o problema imediato - o casco quebrado - estamos perdendo a oportunidade de evitar tais problemas no futuro?
 
@@ -9,14 +21,6 @@ No entanto, essa resposta instantânea e centrada na reparação representa uma 
 Para tratar essa complicação, recorremos à teoria da gestão. Em seu livro pioneiro "Gestão de Alta Performance", Andy Grove usa a analogia da 'fábrica de café da manhã' para ilustrar como os problemas de hoje frequentemente se originam em decisões passadas, ou indecisões. Grove sugere uma abordagem voltada para o futuro - estratégias de hoje para evitar possíveis problemas amanhã.
 
 Portanto, em vez de apenas reagir para consertar o casco danificado, investigue as causas subjacentes. Ajustes na atenção, dieta ou ambiente poderiam evitar problemas semelhantes no futuro? Ao dedicar um momento para refletir sobre essas questões, passamos de uma postura reativa para uma postura proativa, preenchendo a lacuna entre os problemas existentes e as soluções futuras.
-
-<!--
-
-## Cross
-
-* Check dup value from 210_automatic_reaction_breaking.txt 
-
---> 
 
 Muito se fala sobre a execução — o melhor empreendedor é aquele que executa, que tem a mente no presente. Talvez essa ideia pode ser genericamente expressada quando dizemos “pés no chão”.  Do outro lado temos sonhos, visão, missão, essas coisas. Com isso podemos formar dois eixos:
 
@@ -43,20 +47,21 @@ Um exemplo seria o “não pagar no dia” que não quer que é um problema. Se 
 
 Então esse é um olhar que diz que “você não sabe”, ainda, que um evento adverso é um problema; o que você quer é mapear a situação da nova demanda. Então a partir da demanda do presente você mapeia as demandas novas — já que tudo está em movimento. Agora, uma vez que você começa a contabilizar essa demanda nova; você passa mapear as consequências considerando esses eventos novos diante da sua máquina operacional projetada em cima da demanda do presente. Por exemplo, além do mapeamento que “clientes estão atrasando o pagamento” você faz uma análise sobre as consequências, sobre os danos, com projeções.
 
-Vale lembrar que a tendência da empreendedora é tentar responder, em tempo real. Na hora H, na hora do problema. Pô, o cara não pagou — vou falar com ele. Mas é aqui que realmente entra o finado ex-CEO da Intel — o Andy não via as falhas apresentadas no momento como falhas do presente. Se um problema foi identificado no momento é provável que o problema apareceu por uma não previsão no passado. Então significa que lá atrás, a empreendedora não sabia daquela possibilidade.
+Vale lembrar que a tendência da empreendedora é tentar responder, em tempo real. Na hora H, na hora do problema. Pô, o cara não pagou — vou falar com ele. Ou o outro extremo, não pagou, não posso fazer nada. Mas é aqui que realmente entra o finado ex-CEO da Intel — o Andy não via as falhas apresentadas no momento como falhas do presente. Se um problema foi identificado no momento é provável que o problema apareceu por uma não previsão no passado. Então significa que lá atrás, a empreendedora não sabia daquela possibilidade.
 
 A demanda não é exatamente uma surpresa; muitas vezes você só está a encontrar ela com o tempo; salvo os fatos que sua própria criação gerou uma demanda nova e alterou as condições do ambiente. Mas no geral, ao menos de quem corta cabelo, o cliente que atrasa simplesmente um dia irá aparecer no novo salão que acabou de abrir. A consequência desse “deslocamento” ou entendimento que demandas aparecem, é que o empreendedor precisa estar ciente que ele precisa engajar no planejamento para o futuro. [Melhorar]
 
 Dai vem a pergunta — ah mas eu tenho que tentar prever tudo? Preciso de um consultor super experiente em qualquer área? Existe tal guru? A ideia não é entrar na seara de ser um ser “sabe tudo" — esse seria o maior dos erros justamente porque o sabe tudo é mais um cego do que um sabe tudo já que o mundo é dinâmico. Mas a ideia de destacar, como demanda, e pensar que o problema do presente está fora do tempo, é uma chance para você agir com uma resposta de planejamento e não na opção padrão do fazejamento que muitas vezes poderia encobrir o problema. Com isso você passa a estabelecer um novo olhar em cima das coisas que acontecem. Por exemplo, imagine que um roubo acontece na sua loja. Ela foi roubada mas se você conseguir olhar que roubo é uma demanda, um novo evento que pode acontecer de novo, a resposta que você trabalha é em outro nível. Você pode provavelmente precisar colocar um seguro, ou câmeras, ou mesmo mudar a forma de distribuição de seu produto. Obviamente isso tudo é muito mais complicado na hora que as coisas acontecem — justamente porque eventos como roubos, ou mesmo atrasado de clientes, são situações que mudam nosso estado emocional. Mas na visão do Andy, o que você tem é uma fábrica, uma máquina, que opera fora do tempo — como se você pensasse que sua organização é uma peça mecânica imutável, que você comprou o ano passado e está operando hoje. Como uma fábrica não pode parar assim você a forma de orquestrar o mecanismo de evolução dela é agir fora do tempo.
 
 Com essa ideia, podemos melhor olhar para todos os eventos novos do presente como eventos que devem ser mapeados. A empreendedora precisa ser, acima de tudo, uma colecionadora de dados, uma analista. Digamos que você tem só 5 clientes e todos eles pagam no dia correto porque o seu tempo é livre e você está sempre em contato com eles. Daí se você entrasse em uma máquina do tempo, quando viu o futuro com 50 clientes mas 10% deles estão atrasando o pagamento.
-Agora imagine você voltando na máquina do tempo para o dia que o primeiro cliente atrasou para olhar a sua cara. E agora você está pasma, porque o primeiro cliente que atrasou não foi percebido como um problema por você.
 
-Talvez as coisas ficam até mais difíceis ainda porque normalmente o empreendedor nem acredita que seu negócio está crescendo.  Ou ainda porque prefere lidar com o problema no dia que tiver 50 clientes e 10% deles não estão pagando. Tipo, aquela notícia “triste” que todo mundo sonha — ah, se um dia 10% de 500 clientes não pagarem vou estar bem! Mas veja bem, a empreendedora não tem porque ficar parada esperando as coisas acontecerem. E nem sempre trabalhar em buscar novos clientes é a melhor solução, já que tem clientes e clientes. Então o que ela pode fazer é abrir espaço para o negócio em movimento — como sua organização, serviço ou fábrica (barraquinha, seja o que for) está mudando no tempo? Com esse olhar ela abre uma fenda na agenda, um pouco do seu tempo para o trabalho de observar detalhes, a princípio; com o objetivo de eventualmente inserir experimentos para atender as demandas.
+## Slicing time 
+
+Agora imagine você voltando na máquina do tempo para o dia que o primeiro cliente atrasou para olhar a sua cara. E agora você está pasma, porque o primeiro cliente que atrasou não foi percebido como um problema por você. Talvez as coisas ficam até mais difíceis ainda porque normalmente o empreendedor nem acredita que seu negócio está crescendo.  Ou ainda porque prefere lidar com o problema no dia que tiver 50 clientes e 10% deles não estão pagando. Tipo, aquela notícia “triste” que todo mundo sonha — ah, se um dia 10% de 500 clientes não pagarem vou estar bem! Mas veja bem, a empreendedora não tem porque ficar parada esperando as coisas acontecerem. E nem sempre trabalhar em buscar novos clientes é a melhor solução, já que tem clientes e clientes. Então o que ela pode fazer é abrir espaço para o negócio em movimento — como sua organização, serviço ou fábrica (barraquinha, seja o que for) está mudando no tempo? Com esse olhar ela abre uma fenda na agenda, um pouco do seu tempo para o trabalho de observar detalhes, a princípio; com o objetivo de eventualmente inserir experimentos para atender as demandas.
 
 Mas aqui não estamos focando necessariamente na criação de produtos — essa análise, ou mapeamento, das demandas do presente, indicam o estado de saúde da relação do negócio com os clientes. Com isso, você abre espaço para falar da saúde do negócio em cima das demandas, dos eventos em movimento; com isso implica que você pode criar soluções e muitas delas podem até se tornar soluções simples como até frases. Por exemplo, indicar aos participantes onde fica o banheiro ou apresentar certos pontos que governam uma boa saúde da relação.
 
-É normal que possamos aprender em tempo real, e isso deve contar com a ajuda da observação que é uma arte (veja mais a frente como separar ideias de emoções),  mas o que queremos aqui é que você evite criar soluções em tempo real de forma aleatória. Aprender em tempo real com o cliente está tudo bem — não sabia que hoje iria esse cliente iria atrasar.
+É normal que possamos aprender em tempo real, e isso deve contar com a ajuda da observação que é uma arte (veja mais a frente como separar ideias de emoções),  mas o que queremos aqui é que você evite criar soluções em tempo real de forma aleatória. Aprender em tempo real com o cliente está tudo bem — não sabia que hoje iria esse cliente iria atrasar. 
 
 Você ainda pode aprender conversando com outros empreendedores e observando negócios de outros. Mas uma vez que você coleta as observações, você joga para outro momento o trabalho de planejar para responder a demanda. A ideia é pegar, coletar, os problemas do presente; e que possa mapear eles para uma eventual resolução no futuro.
 
@@ -72,7 +77,7 @@ Em essência, você faz um compromisso onde, de certa forma, passa a "se enganar
 
 Em conclusão, sabemos que nossa reação inata pode nos compelir a corrigir problemas rapidamente - o que é bom. Porém, nossa reação automática e rápida também pode ser pausada e pedir um momento de reflexão - sobre nossas possíveis ações. Ainda, podemos justificar acionarmos o pensamento estrategico que pode abrir caminho para soluções de longo prazo. Ao refletirmos sobre as nossas tendências naturais, podemos iniciar mudanças positivas, nos levando mais rápido para um futuro melhor. 
 
-### Testing another autopilot 
+## Testing another autopilots 
 
 Requires respect to the fact that things won't go so well as I am doing manually. 
 
@@ -85,5 +90,71 @@ From this situation, it comes the possibility that she might need to leave, to b
 When she really faces the fact that the release of herself is likely necessary, therefore, comes the complication and work that consists of separating her roles, what she does for the present and future needs. From another perspective, it is an opportunity for her to automate her responsibilities. 
 
 Therefore, it seems that part of what management does is really about automation which aims for producing change in the organization. Or, change that serves growth. 
+
+## Timeless and readiness 
+
+Where does it come from the idea that people have to find time for things, such as special projects? I have, a few years ago, in the sense of trying to challenged myself, fighting that idea as in saying "it does not work like that". And it seemed right but still I caught myself thinking about time and having time. But today, when reading Julia Cameron, I caught a new origin of bad ideas about "having to have time for things" She mentioned envy. That people may be envious of one another that seem to have time. HAve you see that idea? Any other idea which supports the myth of having time? JUlia Cameron brought the word victimization of time too. 
+
+This idea of envy might open a good reflection that gives us a view about what seems to be a mature or a corporate version of the individual that is envy of the hypothetical other that has time. What fundamentally goes on with the "envy" is a comparison mechanism, which trigger us to compare with the "other entity" that has more resources and the right conditions, the investment, gas in the tank, you name it. 
+
+Julia Cameron points the situation of "would be" writers that can't exercise the fundamental mechanism, they can't write. She asks them to make time, and as they do, that they might find themselves doing it, being able to allocate time. They are "opening" time against others, perhaps as a sense of safety increases. And for that, for writers, they need to nurture that condition, so that their strugle or need to be ready, readiness, is lessed. 
+
+<!-- 
+
+v2.2
+
+* https://chat.openai.com/share/11e18a75-c970-41be-8e3a-9ed870e702b3
+
+* Abstract - The article "The Right Mood for Progress: Overcoming Paralysis by Analysis in Entrepreneurship" explores the natural inclination of individuals to gravitate towards tasks where they feel in control and the challenges they face when dealing with more complex activities in entrepreneurship. It highlights the fear of "paralysis by analysis," which can hinder decision-making and progress. Drawing from Julia Cameron's approach for writers, the article suggests an exercise involving self-reflection to overcome these barriers. By understanding their automatic tendencies and cultivating the right mindset, entrepreneurs can tackle demanding tasks with greater confidence and achieve success in their ventures.
+
+## SCqA v0.2 
+
+* SCqA - Situation - Analysis paralysis is a situation of when people justify stopping the analysis work and focus on what appears to be pragmatic, where learning can happen as things move, it is real as a device, has good intentions. 
+
+* SCqA - Complication - The generalization of the possible action - of avoiding analysis - can become a device, a thought-tool, used in all sorts of circumstances. Not many talks about what comes before Analysis Paralysis, such as fear and control. 
+
+* Different - This article takes a different approach to the concept of "analysis paralysis" compared to typical discussions. It recognizes the importance of being in the right mindset for progress and incorporates a writing exercise from Julia Cameron to foster self-reflection. By embracing this approach, entrepreneurs can overcome challenges more effectively and strike a balance between preparedness and action.
+
+## Titles 
+
+* v0.4 - Readiness
+* v0.3 - Readiness and friendly analysis  
+* v0.2 - Readiness and friendly analysis   
+* v0.1 - Readiness is dangerous 
+
+## References
+
+Cameron, J. (1998). The Right to Write. TarcherPerigee.
+
+--> 
+
+Some activities naturally pose a challenge to initiate. Imagine, as an entrepreneur, if you had to redesign your sales process, devise a new strategy, or reflect about the culture in the early stage of your start-up. These tasks often carry expectations and elicit strong emotions as our minds gear up for thoughtful analysis. Well, not really. If an activitity ahead is taken as not important, the natural reaction might be to ignore it in formal terms, quite strong, although of course a definite move firm after the feeling of certainty. 
+
+Indeed, we naturally gravitate towards tasks where we feel we have a firm grip on the steering wheel. These are the activities where we're in control, where we can clearly see the road ahead and navigate the journey at our own pace. Yet, when it comes to other activities, such as challenging where how do to and results can't be measured, we might feel anxiety, or fear, or a sense that it won't progress. For that, we do have good reasons, such as the desire to be safe. We want to be prepared for these kinds of activities. The idea of progressing through planning and analysis isn't as straightforward as following a recipe even when it is labor-intensive. In other words, is more comfortable to run on the gas pedal when we don't have to review the road map or even the trip strategy. 
+
+With this openning, it is not that we entirely give up doing things that requires redesign. It is just that we want to be in a good position, to be in the right mood, to be prepared, ready, and having things sorted out. This situation plagues all sorts of professionals, but especially the roles that involves leadership such as of entrepreneurs. 
+
+### Search for reasons for timeless 
+
+Furthermore, the notion of "analysis paralysis" frequently resonates in our minds, embodying the fear that we may become so wrapped up in overthinking and overanalyzing that we end up immobilized, incapable of making decisions or taking action. This fear can amplify our anxiety and the perceived necessity to be 'in the right mood' to tackle these demanding tasks. While the real situation of analysis paralysis can indeed be debilitating, the prevalence of this concept in discussions and self-reflections often heightens the apprehension about engaging with tasks that seem to be complex. It's essential to distinguish between the phenomenon that gave rise to the concept - of analysis paralysis - and the rhetorical device it has become, often used to accentuate the fears and which challenges the execution of important tasks. 
+
+Conclusion? We need to be in the right position to advance, in a good mood, in a positive emotional state, and the readiness condition in general, that gives us more control towards the outcome. But to get out of this need that prevents us from advancing more complex reflections, and in the pursuit of a solution, it is need to emphasize the value, in the first place, of the exercise of reflection on this automatic tendency of ours. Furthermore, it is worth considering Julia Cameron's idea for the situation of writers - which can shed light for entrepreneurs. The exercise that Julia suggests consists of writing - for example for 10 minutes - about what is on your mind, some concern, for instance, a lack of preparation. From there, try to write for another 5 minutes about how your mood towards the activity has changed. She asks us to make a sort of report on the experience.
+
+<!--
+
+Research: Look for the specific part in "Maslow on Management" where Abraham Maslow compares and contrasts the mindsets of a controller and a creative individual. Understand the context and implications of this comparison.
+
+Analysis: Analyze the tension between trying to control the outcome of potentially risky unknown tasks and the subsequent pull towards this mindset. Consider how this tension might lead to the anxiety, expectation, and need to "be in the mood" before initiating certain tasks.
+
+Connection: Investigate how Maslow's work supports the concept of needing to be in a certain mindset or mood to tackle challenging tasks. Draw connections between his theories and the ideas presented in your writing.
+
+-->
+
+
+Not unlike, it also happens in the life of writers, as illustrated by Julia Cameron (1998) in 'The Right to Write'. It is a phenomenon that plagues all sorts of professionals, especially those in leadership or entrepreneurial roles.
+
+
+
+
 
 

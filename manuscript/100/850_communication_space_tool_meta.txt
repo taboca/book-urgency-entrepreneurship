@@ -2,6 +2,36 @@
 
 * ( ) Review original, the following, so that we can bring back Marcio's voice. 
 
+### References 
+
+* The complex collaborative process of writing  - http://hackernoon.com/preview/qrRGAj8g7WEHGqKyezvh 
+
+### SCqA v0.1 
+
+* Subject - Human communication is good to collaboration, self too, for achieving clarity of ideas. The process for progressing needs to be friendly, iterative, supportive, curious. 
+* Situation - Conversations are the means to iterate, to progress in the direction of a solution. But the conversations of humans might suffer from pressure which limits human collaboration towards clarity. 
+* Complication - We are mechanized, not good in engaging with listening, such as deductive listening, patiently, and wise optimistic to let the others advance. 
+* Q A - Some tools can help us see how communication serves collaboration. Such as ChatGPT. 
+
+### ( ) Tools for collaboration 
+
+* Consider the situation of when tools improve collaboration, such as open-source tools, where tools enable people to collaborate well. An example could be the open source code of Mozilla. The bugzilla, for example.  
+
+* Consider AI tools like ChatGPT or Dall-e 
+
+Certainly the subject has to do with iteration, just like one iterates with a tool, a blackboard, and which may have related aspects when a human iterates with themselves or with others in some situations. Perhaps the following note, from Reid Hoffman, captures something that I have seen:
+
+> *"Interestingly, what has made me a more productive human has been the almost human: artificial intelligence. Everything in the AI space has happened gradually, then suddenly. It’s had a major resurgence over the last decade, but nothing quite like the last few months. Our ability to generate and iterate on images or writing on any subject in any style is now simple, fast and accessible (as exemplified by the image and caption below). Every so often our insistent will to create is met by powerful, new tools."* 
+> Reid Hoffman in Introducting Long Reids 
+
+<!-- 
+
+https://www.linkedin.com/pulse/introducing-long-reids-reid-hoffman/
+
+-->
+
+The iteration that takes place here seem as the kind, comparable, with a situation when one talks with herself. Therefore, considering that angle, we can't miss the fact that the protagonist is the one that will have to experience, learn, and validate the best approach to using it - just like one uses a knife holding in a way or another, with the natural implication that they can get results or get hurt. The tool is new and you are new using it. Hold it responsibly - you know. But my take on this? Try to learn with it.
+
 ## Peers 
 
 ### Conversation with RA (Ricardo).
