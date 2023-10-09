@@ -37,7 +37,7 @@ Como irá planejar sem saber. Caso anterior [?] cliente fácil versus cliente di
 
 A ideia de “status atual”, a demanda, a quantidade de clientes, a quantidade de alunos que você tem, etc. Isso é o presente, que também envolve a capacidade atual de atendimento, como sua energia disponível, agenda disponível, ou mesmo insumos em estoque. Se fosse no caso da sua banca na feira, seria aquilo que você tem na bancada que está mais ou menos previsto em cima da quantidade de pessoas que passa e seu planejamento e capacidade atual de fornecimento. Este então é o presente atual, ou status do presente.
 
-### Mapping the cause 
+### No time to map the cause 
 
 Here we might consider the strategy that you, in the heat, 
 
@@ -59,7 +59,7 @@ Dai vem a pergunta — ah mas eu tenho que tentar prever tudo? Preciso de um con
 
 Com essa ideia, podemos melhor olhar para todos os eventos novos do presente como eventos que devem ser mapeados. A empreendedora precisa ser, acima de tudo, uma colecionadora de dados, uma analista. Digamos que você tem só 5 clientes e todos eles pagam no dia correto porque o seu tempo é livre e você está sempre em contato com eles. Daí se você entrasse em uma máquina do tempo, quando viu o futuro com 50 clientes mas 10% deles estão atrasando o pagamento.
 
-## Slicing time 
+## Protecting an investment 
 
 Agora imagine você voltando na máquina do tempo para o dia que o primeiro cliente atrasou para olhar a sua cara. E agora você está pasma, porque o primeiro cliente que atrasou não foi percebido como um problema por você. Talvez as coisas ficam até mais difíceis ainda porque normalmente o empreendedor nem acredita que seu negócio está crescendo.  Ou ainda porque prefere lidar com o problema no dia que tiver 50 clientes e 10% deles não estão pagando. Tipo, aquela notícia “triste” que todo mundo sonha — ah, se um dia 10% de 500 clientes não pagarem vou estar bem! Mas veja bem, a empreendedora não tem porque ficar parada esperando as coisas acontecerem. E nem sempre trabalhar em buscar novos clientes é a melhor solução, já que tem clientes e clientes. Então o que ela pode fazer é abrir espaço para o negócio em movimento — como sua organização, serviço ou fábrica (barraquinha, seja o que for) está mudando no tempo? Com esse olhar ela abre uma fenda na agenda, um pouco do seu tempo para o trabalho de observar detalhes, a princípio; com o objetivo de eventualmente inserir experimentos para atender as demandas.
 
@@ -71,7 +71,7 @@ Você ainda pode aprender conversando com outros empreendedores e observando neg
 
 Com a prática deliberada desse exercício, com o tempo você não irá desesperar, ou criar uma solução aleatória que pode até lhe prejudicar, na frente do cliente — porque saberá que o aprendizado em cima de demandas novas sempre irá lhe ajudar a entender soluções automatizadas para o futuro. Tem empreendedor que inclusive sabe agradecer assim que ocorre um evento novo, adverso, que não estava esperando — mesmo uma pauta bomba que apareceu. O cliente diz “Olha, não tem papel no banheiro” e a empreendedora responde “obrigado pela observação e nos desculpe. Vou trabalhar em garantir que esse padrão seja anotado para que não se repita” que é diferente de “Zézin, coloca papel no banheiro”. A empreendedora mais consciente, que está fora do tempo não irá engajar na situação urgente e irá anotar, observar e depois poderá solucionar o problema da falta de papel higiênico no banheiro colocando dois rolos e uma anotação que diz quando um dos rolos está vazio, trocar.
 
-## Protected by principles 
+### Protected by principles 
 
 Compromissos também podem servir como uma poderosa contra-estratégia para nossas reações automáticas. Por exemplo, você deseja introduzir um novo sanduíche no seu menu, mas as restrições de tempo são uma barreira. Anunciar o produto antes de seu lançamento real, ou até mesmo pré-lançá-lo como um protótipo, pode impor um compromisso.
 
@@ -81,7 +81,7 @@ Em essência, você faz um compromisso onde, de certa forma, passa a "se enganar
 
 Em conclusão, sabemos que nossa reação inata pode nos compelir a corrigir problemas rapidamente - o que é bom. Porém, nossa reação automática e rápida também pode ser pausada e pedir um momento de reflexão - sobre nossas possíveis ações. Ainda, podemos justificar acionarmos o pensamento estrategico que pode abrir caminho para soluções de longo prazo. Ao refletirmos sobre as nossas tendências naturais, podemos iniciar mudanças positivas, nos levando mais rápido para um futuro melhor. 
 
-## Testing another autopilots 
+### Testing another autopilots 
 
 Requires respect to the fact that things won't go so well as I am doing manually. 
 
@@ -95,7 +95,7 @@ When she really faces the fact that the release of herself is likely necessary, 
 
 Therefore, it seems that part of what management does is really about automation which aims for producing change in the organization. Or, change that serves growth. 
 
-## Timeless and readiness 
+### Timeless for readiness 
 
 Where does it come from the idea that people have to find time for things, such as special projects? I have, a few years ago, in the sense of trying to challenged myself, fighting that idea as in saying "it does not work like that". And it seemed right but still I caught myself thinking about time and having time. But today, when reading Julia Cameron, I caught a new origin of bad ideas about "having to have time for things" She mentioned envy. That people may be envious of one another that seem to have time. HAve you see that idea? Any other idea which supports the myth of having time? JUlia Cameron brought the word victimization of time too. 
 

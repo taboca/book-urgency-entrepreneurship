@@ -1,5 +1,11 @@
 <!--
 
+## Cross
+
+* 300_execution_urgency_neglecting_redesign
+* 210_automatic_reaction_breaking
+* 450_urgent_vs_important 
+
 ## Title 
 
 * v0.2 - Impact 
