@@ -6,7 +6,11 @@ v2.1 - sync with pt-br
 
 --> 
 
-## Part A 
+## Part 
+
+This is a book for entrepreneurs, especifically for the ones interested in launching business for the long run and wishing for themselves to be around. This situation makes the challenge bigger, as it is not uncommon for us to think of becoming entrepreneurs to solve a problem - such as when the end justifies the means. Although the outcome, such as a lasting startup, requires the spirit of an entrepreneur and the generalist role, our focus is on the entrepreneur as the key, to maintain its health. Therefore, it is my intent to think of you as one that should be around, even if you fail in the present project. That constraint should apparently narrow a line of conduct, one that requires the recognotion of a conscious entrepreneurship, that starts with repect for the human being that gives maintains the entrepreneur role. Not the other way around. This idea, or principle, will guide us in the chapters ahead. 
+
+## Part 
 
 No turbulento mundo do empreendedorismo moderno, o mantra predominante parece ser "vá rápido ou vá para casa". Aceleração é celebrada e a urgência é valorizada como a chave para o sucesso. No entanto, na busca pela velocidade, frequentemente ignoramos as inúmeras situações em que ir mais rápido nos leva a um caminho mais lento. Além disso, a pressão implacável para acelerar pode levar a consequências prejudiciais tanto para os indivíduos quanto para suas empreitadas.
 
@@ -14,7 +18,7 @@ Em nosso livro, "Slow Down Startup" (Desacelere sua Startup), desafiamos a noç�
 
 No cerne de nossa filosofia está a compreensão de que "vencer" não equivale a controle implacável e pressa perpétua. Em vez disso, envolve libertar-se dos padrões de comportamento viciantes, transcender os limites do presente e abraçar uma abordagem mais virtuosa - aquela que gerencia o risco com calma, valoriza o tempo e preserva a energia. Nosso livro aborda a importância do bem-estar como base para o verdadeiro sucesso e lança luz sobre como a busca implacável pelo crescimento pode muitas vezes resultar em esgotamento e desilusão para os empreendedores.
 
-## Part B 
+## Part 
 
 No cerne de nossa filosofia está a busca por aprendizado com praticantes, mentores, investidores e empreendedores que inspiram, como Steve Blank, Eric Ries, Paul Graham, Michael Dearing, Reid Hoffman, Brian Chesky e muitos outros que servem de inspiração para este autor e para muitos outros. No entanto, o olhar estabelecido reconhece os momentos em que esses mesmos ícones e modelos do empreendedorismo estão nos alertando sobre a importância da parte comportamental.
 
