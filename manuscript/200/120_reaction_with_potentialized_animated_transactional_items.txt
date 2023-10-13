@@ -8,6 +8,10 @@ v2.1
 [!] Verificar, abaixo, inserir complicação. 
 
 
+### About supermarket of lean 
+
+* Ref - https://chat.openai.com/share/a5e0875c-6279-490a-8997-94c4c14313fc
+  
 -->
 
 Num belo dia, eu, não particularmente faminto, estava a caminho da padaria para buscar pão para minha sogra. Eu não sou especialmente atraído por doces, mas de alguma forma fiquei curioso sobre a variedade de bolos e sobremesas na vitrine, um em especial. Enquanto meus olhos vasculhavam as opções, eles se fixaram em um item peculiar que fez minhas pupilas dilatarem. Era uma espécie de cupcake em um copo de plástico transparente, muito parecido com um copo de cerveja, composto por várias camadas de algo. Até aquele ponto, parecia normal. Mas então, tinha outra sobremesa comum em cima - um pudim de leite condensado. Parecia ser o tipo de item que provoca a frase que muitos brasileiros conhecem, hoje em dia, que "os brasileiros precisam ser estudados."
@@ -52,6 +56,23 @@ O segundo nível de assédio - o assédio das oções - acontece quando estamos 
 ![](menu-lanches.jpg)
 
 O terceiro nível - o assédio da decisão - está ligado ao potencial de engajar, da decisão. Queremos decisão, sabemos que é bom decidir. O mundo nos parabeniza por isso. Porém de outro lado existem mensagens presentes na comunicação desses itens, trazendo sua mente para o ponto de decisão. Considere, por exemplo, que vendedores e criadores de *landing pages* são especialistas na criação do botão ou frase intitulada CTA ou *call to action*. Donald Miller, especialista em storytelling de marketing e autor do método StoryBrand, indica que a falta do *Call to Action* é como um episódio de namoro que deu certo mas que faltou a frase "Vamos casar?" 
+
+#### Consider the interaction with ChatGPT about available solutions in the supermarket of entrepreneurship
+
+* Ref - https://chat.openai.com/share/a5e0875c-6279-490a-8997-94c4c14313fc
+
+Is business model canvas good for entrepreneurs? And what about customer discovery? And qualitative interviews? And other lean methods. Make a table with short response. 
+ChatGPT
+Certainly, the following table provides a brief insight into some of the methodologies and tools that entrepreneurs might use for planning and validating their business ideas.
+
+Method/Tool	Short Response
+Business Model Canvas	Yes. It's an excellent visual tool that provides a structured way for entrepreneurs to outline how their business creates, delivers, and captures value. It's user-friendly and helps in ensuring that all the key components of a business are considered.
+Customer Discovery	Essential. It is crucial for understanding customer needs, validating product-market fit, and ensuring the product/service solves real-world problems. Allows for the validation of assumptions and minimizes risks associated with product development.
+Qualitative Interviews	Very useful. Conducting qualitative interviews provides in-depth insights into customer needs, preferences, and pain points, allowing for a detailed understanding that can inform product development and marketing strategy.
+Lean Startup Methods	Highly effective. Lean methods prioritize efficient use of resources, rapid prototyping, and iterative development to quickly validate business hypotheses and adapt to customer needs, minimizing waste and increasing the chances of success.
+Minimum Viable Product (MVP)	Essential for lean startups. Allows entrepreneurs to launch a product with the minimum features necessary to satisfy early adopters, thereby validating the business idea with actual users before investing heavily in full product development.
+SWOT Analysis	Valuable. A SWOT analysis helps entrepreneurs understand the Strengths, Weaknesses, Opportunities, and Threats related to their business, enabling strategic planning and helping to mitigate potential risks.
+Pivot	Relevant. The ability to pivot refers to adapting the business model or product in response to feedback and changing market conditions. This agility can be critical to finding a sustainable business model and achieving long-term success.
 
 ## Conclusão reflexiva 
 

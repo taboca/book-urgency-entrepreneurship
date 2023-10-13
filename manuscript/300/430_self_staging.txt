@@ -1,4 +1,4 @@
-# The attraction of social interaction 
+# Driving for attraction 
 
 <!--
 
@@ -7,6 +7,10 @@
 * v 0.3 - The attraction of social interaction 
 * v 0.2 - Staging validation 
 * v 0.1 - O palco da autovalidação e as redes sociais  
+
+## Check from table.txt
+
+* ( ) Consider to match what Paul Graham has provoked, the growth situation, with the projection for growth situation, leading to complications such as the through of sorrow, and the note from Michael that "freaking PR" is not good. There is a reference about this in the editornote of the introduction = [^editornote_paulgraham_growth]: Paul Graham covers both the aspect that startups are for a growth situation but also covers that founders follow instincs such as a willingness to play the game. The through of sorrow of Paul Graham also depicts that startups force their status as political, projections, leading to falling in their own traps, such as to be sad that their projections were not real. Check 430_self_staging.txt
 
 ## Version 
 
@@ -27,7 +31,6 @@
 * 980_emotions_and_identity.txt - 
 * 650_art_and_urgency.txt       - 
 
-* 
 
 ## Referências
 
@@ -92,12 +95,21 @@ O ponto levantado por Andrew é justamente o alerta que diz que empreendedores e
 
 > "Trabalhar em menções na imprensa, conferências, etc, pode ser uma boa maneira de obter um sucesso inicial de tráfego. É ótimo! Mas não é suficiente - aqui está um artigo de alguns anos atrás - após o impulso do TechCrunch, há a vida no vale da tristeza". https://twitter.com/andrewchen/status/1009574588454449152
 
+### Being gamed by your own system 
+
+Thus, we might signal a possibility. That the frame of growth that entrepreneurs are immersed, as part of the startup process (process?) that they follow, puts them to project and fail mindset, under the pressure to lift data, or signs, so that they can risk more. Thus, they project, such as engaging in communicating, through articles or even cheaper prototypes - the situation of Eric Reis, showed in th Startup Way [Check aorund here if the case of a major coorporation in a denial to prototype a sort of fake system] shows how the projection is part of the culture and model. Products might be simulated in other words, articles serves or that too, landing pages too. Thus, the "launch" is not really a launch, which is also confirmed by Brian Chesky of Airbnb in the multiple lanunches of Airbnb: 
+
+> ".... Launch launch launch " Brian Chesky, Blitzscaling. 
+
+Thus, the entrepreneurs might, at some point, even consider - are we lying in part but being corageous for the sake of coming up with something good, appears as valid. But they might also step into the trap themselves, when data appears. 
+
+IN this regard, Michael Dearing when interviewed by Reid Hoffman has listed, among a list of many things to drop, that "freaking PR" is an area to watch out. Thus, here, consider how your "PR" might take many forms, your artificialization. 
+
 ## Conclusão
 
 A jornada empreendedora é frequentemente marcada pela pressão de crescimento e expansão rápida. Em um cenário acelerado e imerso em redes sociais, o empreendedor pode inadvertidamente cair em um jogo perigoso de autovalidação, e assim, sem perceber, criar seu próprio palco ilusório. Impulsionado pela ilusão de progresso e aceitação social, ele pode acabar ignorando que perde foco para outras realidades, como as verdades desconfortáveis. Consequentemente, pode executar uma realidade distorcida que apesar de não ser uma criação deliberada de empreendedor, torna-se uma armadilha fácil em um mundo digital onde o feedback instantâneo e a aparência de sucesso podem ofuscar a realidade. Portanto, é essencial que os empreendedores mantenham a consciência e questionem regularmente a realidade - dos seus projetos - para evitarem serem consumidos, perder energia, entrar em momentos de decepção. 
 
-
-<!--
+## Considerations draft 
 
 I am working in a book Slow Down to Win, part 3, I am concerned with a topic, a subject, a theme, which is when the entrepreneurs attempt move with evidence of sucess using signals from the networks around, falling into accelerating into not success. 
 
@@ -173,9 +185,6 @@ information." APA data Structural Holes: The Social Structure of Competition
 Por Ronald S. Burt , Harvard University Press, 30 de jun. de 2009 - 
 
 Explain a bit that the social network of your friends, or groups, can self inforce the same benefits; and that also the new algorithms of pushing same interests, in a way does the same. 
-
-
--->
 
 
 
