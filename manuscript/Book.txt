@@ -79,7 +79,7 @@
 300/450_narratives.txt
 300/460_narratives_lean.txt
 300/470_culture_productivity.txt
-000/060_foreword_2.txt
+000/060_afterword.txt
 000/020_acknowledgements.txt
 
 500/050_references.txt

@@ -97,6 +97,12 @@ O ponto levantado por Andrew é justamente o alerta que diz que empreendedores e
 
 ### Being gamed by your own system 
 
+<!--
+
+* table ( ) Consider to match what Paul Graham has provoked, the growth situation, with the projection for growth situation, leading to complications such as the through of sorrow, and the note from Michael that "freaking PR" is not good. There is a reference about this in the editornote of the introduction = [^editornote_paulgraham_growth]: Paul Graham covers both the aspect that startups are for a growth situation but also covers that founders follow instincs such as a willingness to play the game. The through of sorrow of Paul Graham also depicts that startups force their status as political, projections, leading to falling in their own traps, such as to be sad that their projections were not real. Check 430_self_staging.txt
+
+--> 
+
 Thus, we might signal a possibility. That the frame of growth that entrepreneurs are immersed, as part of the startup process (process?) that they follow, puts them to project and fail mindset, under the pressure to lift data, or signs, so that they can risk more. Thus, they project, such as engaging in communicating, through articles or even cheaper prototypes - the situation of Eric Reis, showed in th Startup Way [Check aorund here if the case of a major coorporation in a denial to prototype a sort of fake system] shows how the projection is part of the culture and model. Products might be simulated in other words, articles serves or that too, landing pages too. Thus, the "launch" is not really a launch, which is also confirmed by Brian Chesky of Airbnb in the multiple lanunches of Airbnb: 
 
 > ".... Launch launch launch " Brian Chesky, Blitzscaling. 
@@ -104,6 +110,8 @@ Thus, we might signal a possibility. That the frame of growth that entrepreneurs
 Thus, the entrepreneurs might, at some point, even consider - are we lying in part but being corageous for the sake of coming up with something good, appears as valid. But they might also step into the trap themselves, when data appears. 
 
 IN this regard, Michael Dearing when interviewed by Reid Hoffman has listed, among a list of many things to drop, that "freaking PR" is an area to watch out. Thus, here, consider how your "PR" might take many forms, your artificialization. 
+
+
 
 ## Conclusão
 
