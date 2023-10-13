@@ -1,53 +1,6 @@
 # Foreword #
 
-<!-- Meta 
-
-## Version 
-
-v2.5 - English
-
-## Review 
-
-* ( ) @Marcio - Consider in the quote of Maslow which talks about specialists, and polititians, to bring up the fact that entrepreneurs deal with past, present and future. 
-
-* (x) @vanessa - asked to check why so many examples of machines in the exposition. 
-* ( ) @vanessa - asked about the new prisons, or need for freedom, that came after the industrial revolution. Actually, on page 9, "inundação de eventos,.." has the core of the idea which may likely be brought sooner to the reader. In other words, the pages 7-9 are doing, really, what service? 
-
-## Tags 
-
-* creative destruction, bundled reality 
-* supermarket 
-* Respect 
-
-## SCqA  
-
-* scqa - Pitch - what can be opportunity can be a distracting trap. abundance of models. We need to lift the being, above the entrepreneur ability, true spirit that breaks the norms. Sadly the norm for generalist is confusing. Motivation for the book is that realization. The very best of Blitzscaling seemed to be best in being human beings. 
-
-* Subject - v0.3 - The situation of entreprepreneurship may suggest that anything can be done. With lots of solutions to advance. These are in the face of modern entrepreneurship that is pulled to be fast. The reality of the world after many cycles of creative destruction, platforms. The new ecomomic order may be offering abudances and opportunity but also opportunity to be lost or to navigate on top of existing "models" and losing connection with inner human values, losing opportunity to innovate, and also break norms of how entrepreneurship happens. 
-
-* scqa - situation - Platforms for entrepreneurship, created opportunity for growth from using abundance of supportinng systems. But also one can be distracted to engage with cheap decisions, oriented to outcome, ignore impact in conscious entrepreneurship. 
-
-* scqa - complication - If so many things can be solved, why the platorm for entrepreneurship could be also a problem, we can be locked? As it became industrialized. scqa - QA - We can be shoppers? Can we be lost in pursuing productivity first out from the new world? Peter help us to frame, the problem. Can we solve?
-
-* scqa - key lines - COnscious about risk nature, such as respect for time, is a must. Marcio's motivation came from the frame of our success. Naturally denies how we made ourselves. We start small, fast boat, we are being teased to ignore conscious entrepreneurship, we need light for balancing. We need to respect what brough us here. 
-
-* scqa - kl - Respect the bundle, first. To respect the frame. The platforms formation, and creative destruction. How world bundles and unbundles. 
-* scqa - kl - #supermarket We can be trapped  into abudance of shopping solutions, creating narratives, highly productive appearance misleading conscious entrepreneurship. 
-* scqa - kl - Enlighted management, Maslow, Drucker. What Marcio saw later, discovery, respect. 
- 
-## 
-
-## References 
-
-Drucker, P. F. (1986). The Practice of Management. Harper Business. (Original work published 1954)
-
-Hari, J. (2023). Foco roubado: Os ladrões de atenção da vida moderna. (L. Reyes Gil, Trad.). Vestígio.
-
---> 
-
-If you are an entrepreneur - whether a newbie with in your first startup, more seasoned leading a startup project within a larger corporation, or coming up with a new project in your life - you may find yourself in a whirlwind which we don't see apparently any problem. How could we, when we are so hyperconnected with access to even more information? Now we have more tools, more methods, more interactions, including access to support networks like accelerators, investors, and more. Consider, for example, how easy one can access to information through the internet and social media that enable low-cost interactions, whether it's for learning, receiving mentor support, connecting with partners, meeting investors, joining accelerators, participating in clubs or support groups, or even getting to know and interacting with potential customers. In other words, the hyperconnected environment is a vast and rich ocean that promises much.
-
-This optimistic environment, that promises acceleration, that promises results, for entrepreneurial projects and our lives. In this connected and interactive setting, entrepreneurs are empowered to swiftly navigate towards their goals. We are not only empowered by so many stories that are brithly coherent but also equipped with so many tools that can be verified as proven such as popular startup methodologies. Consider, for example, the cost for acessing motivation from networks, for instance as we can network and be thrilled with stories that enlighten our entrepreneurial spirit. On the other hand, consider the tools, such as methodologies that are proven to advance collaboration. Beyond motivation and processes, consider how we are empowered to advance the actual startup using networks of support - the interactive systems where we can get in touch with potential customers, investors, mentors, practitioners, cofounders, partners, and more. 
+There is a good news in the environment for entrepreneurs - that promises acceleration, that promises results, for entrepreneurial projects and our lives. In this connected and interactive setting, entrepreneurs are empowered to swiftly navigate towards their goals. We are not only empowered by so many stories that are brithly coherent but also equipped with so many tools that can be verified as proven such as popular startup methodologies. Consider, for example, the cost for acessing motivation from networks, for instance as we can network and be thrilled with stories that enlighten our entrepreneurial spirit. On the other hand, consider the tools, such as methodologies that are proven to advance collaboration. Beyond motivation and processes, consider how we are empowered to advance the actual startup using networks of support - the interactive systems where we can get in touch with potential customers, investors, mentors, practitioners, cofounders, partners, and more. 
 
 In the realm of entrepreneurs, the problem is that this urgent, accelerated, and high-pressure mode, frames their present. Now, just like experts, entrepreneurs make accelerated decisions, even when they are starting - in the understanding phase when ideas are still forming - along with the discovery process, trying to find the value in their team, for their product, for serving needs of customers, seeking investors, etc. But how would this be a problem? It isn't, or at least it does not appear to be, as a lot of good solutions, or product-like solutions, are cheaply available in what appears to be a supermarket with all sorts of solutions which are all approved by the regulating community, the ecosystem, which appear as quality solutions. The problem is precisely that in the pressure to undertake arises the pressure for decision which stifles the consideration for management of entrepreneurship. This leads to entrepreneurs to fall in traps as they navigate the ecosystem of entrepreneurship and the fast-paced culture of entrepreneurship. Well, falling is not even perceived as trap but as part of the equation, to fail and learn, or to learn fast. So, right there, after a fail, there is no time to reflect, as in one that went to the supermarket in a hurry and hungry, picked a rotten meal, but in a hurry goes back to the same market searching for drugs for indigestion. 
 

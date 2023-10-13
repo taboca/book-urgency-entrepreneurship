@@ -1,35 +1,53 @@
 # Foreword #
 
-### ( ) Slavery and industrial revolution, civil war in the United States 
+## Version 
 
-According to ChatGPT, "Slavery was officially ended in the United States with the ratification of the 13th Amendment to the Constitution on December 6, 1865. The amendment states:
+* v2.6 - English
 
-"Neither slavery nor involuntary servitude, except as a punishment for crime whereof the party shall have been duly convicted, shall exist within the United States, or any place subject to their jurisdiction."
+## Reviews 
 
-* ref end of slavery and mechanization such as increased demand for slave forces - https://chat.openai.com/share/dd11d3c7-cd75-444f-a44b-8b2a646511db 
+* ( ) @Marcio - Consider in the quote of Maslow which talks about specialists, and polititians, to bring up the fact that entrepreneurs deal with past, present and future. 
+* (x) @vanessa - asked to check why so many examples of machines in the exposition. 
+* ( ) @vanessa - asked about the new prisons, or need for freedom, that came after the industrial revolution. Actually, on page 9, "inundação de eventos,.." has the core of the idea which may likely be brought sooner to the reader. In other words, the pages 7-9 are doing, really, what service? 
 
-### MArcio has asked ChatGPT about available lean methods, short answr, if they are good
+* ( ) Marcio checking slavery vs. mechanization and industrial revolution - ### ( ) Slavery and industrial revolution, civil war in the United States According to ChatGPT, "Slavery was officially ended in the United States with the ratification of the 13th Amendment to the Constitution on December 6, 1865. The amendment states: "Neither slavery nor involuntary servitude, except as a punishment for crime whereof the party shall have been duly convicted, shall exist within the United States, or any place subject to their jurisdiction." * ref end of slavery and mechanization such as increased demand for slave forces - https://chat.openai.com/share/dd11d3c7-cd75-444f-a44b-8b2a646511db 
 
-* IN a nutshell, yes for all. 
-* https://chat.openai.com/share/a5e0875c-6279-490a-8997-94c4c14313fc 
+* ( ) Marcio On SuperMarket of Lean - MArcio has asked ChatGPT about available lean methods, short answr, if they are good - IN a nutshell, yes for all - https://chat.openai.com/share/a5e0875c-6279-490a-8997-94c4c14313fc 
 
-### Chris Yeh into Foreword or Introduction 
+* ( ) Review Chris Yeh - into Foreword or Introduction - * ( ) Consider - 000/foreword - Chris Yeh quote, about the "inner workings" or "pre workings" of Blitzscaling, some of the conditions, such as when the founders have "To Things That Don't Scale". https://youtu.be/IyY3t4loUig?si=9PKW_yywrr5o3nhS&t=228 and then, the complication, what is the readiness level to be able to take yourself towards that sort of movement, that it takes to "be there" towards that readiness level. " 3:53 Well one thing you guys have probably all heard, from Paul Graham and many others, is to do things that don't scale. 3:58 And we saw how many of the speakers who came in, in fact did things that didn't scale, whether it was Larry and Sergei 4:04 interviewing every single candidate at Google, and putting all sorts of crazy rules on who they could and couldn't hire, 4:10 and then breaking all those rules all along. Brian Chesky talking about how he actually went to his various hosts 4:17 and photographed their apartments for them, because they did a terrible job on their own. And they were like, "Wait a minute. 4:23 "This is the CEO, I just signed up "and he signed me up, and he comes over, "and he photographs it, and he's bringing in air mattresses. 4:29 "This is kinda weird." But, and then obviously he doesn't do that any longer, but it was important to achieving scale.
 
-* ( ) Consider - 000/foreword - Chris Yeh quote, about the "inner workings" or "pre workings" of Blitzscaling, some of the conditions, such as when the founders have "To Things That Don't Scale". https://youtu.be/IyY3t4loUig?si=9PKW_yywrr5o3nhS&t=228 and then, the complication, what is the readiness level to be able to take yourself towards that sort of movement, that it takes to "be there" towards that readiness level. 
+## Leading paragraphs
 
+* v2.5 - If you are an entrepreneur - whether a newbie with in your first startup, more seasoned leading a startup project within a larger corporation, or coming up with a new project in your life - you may find yourself in a whirlwind which we don't see apparently any problem. How could we, when we are so hyperconnected with access to even more information? Now we have more tools, more methods, more interactions, including access to support networks like accelerators, investors, and more. Consider, for example, how easy one can access to information through the internet and social media that enable low-cost interactions, whether it's for learning, receiving mentor support, connecting with partners, meeting investors, joining accelerators, participating in clubs or support groups, or even getting to know and interacting with potential customers. In other words, the hyperconnected environment is a vast and rich ocean that promises much.
 
-3:53
-Well one thing you guys have probably all heard, from Paul Graham and many others, is to do things that don't scale.
-3:58
-And we saw how many of the speakers who came in, in fact did things that didn't scale, whether it was Larry and Sergei
-4:04
-interviewing every single candidate at Google, and putting all sorts of crazy rules on who they could and couldn't hire,
-4:10
-and then breaking all those rules all along. Brian Chesky talking about how he actually went to his various hosts
-4:17
-and photographed their apartments for them, because they did a terrible job on their own. And they were like, "Wait a minute.
-4:23
-"This is the CEO, I just signed up "and he signed me up, and he comes over, "and he photographs it, and he's bringing in air mattresses.
-4:29
-"This is kinda weird." But, and then obviously he doesn't do that any longer, but it was important to achieving scale.
+## Tags 
 
+* creative destruction, bundled reality 
+* supermarket 
+* Respect 
+
+## SCqA  
+
+* scqa - Pitch - what can be opportunity can be a distracting trap. abundance of models. We need to lift the being, above the entrepreneur ability, true spirit that breaks the norms. Sadly the norm for generalist is confusing. Motivation for the book is that realization. The very best of Blitzscaling seemed to be best in being human beings. 
+
+* Subject - v0.3 - The situation of entreprepreneurship may suggest that anything can be done. With lots of solutions to advance. These are in the face of modern entrepreneurship that is pulled to be fast. The reality of the world after many cycles of creative destruction, platforms. The new ecomomic order may be offering abudances and opportunity but also opportunity to be lost or to navigate on top of existing "models" and losing connection with inner human values, losing opportunity to innovate, and also break norms of how entrepreneurship happens. 
+
+* scqa - situation - Platforms for entrepreneurship, created opportunity for growth from using abundance of supportinng systems. But also one can be distracted to engage with cheap decisions, oriented to outcome, ignore impact in conscious entrepreneurship. 
+
+* scqa - complication - If so many things can be solved, why the platorm for entrepreneurship could be also a problem, we can be locked? As it became industrialized. scqa - QA - We can be shoppers? Can we be lost in pursuing productivity first out from the new world? Peter help us to frame, the problem. Can we solve?
+
+* scqa - key lines - COnscious about risk nature, such as respect for time, is a must. Marcio's motivation came from the frame of our success. Naturally denies how we made ourselves. We start small, fast boat, we are being teased to ignore conscious entrepreneurship, we need light for balancing. We need to respect what brough us here. 
+
+* scqa - kl - Respect the bundle, first. To respect the frame. The platforms formation, and creative destruction. How world bundles and unbundles. 
+* scqa - kl - #supermarket We can be trapped  into abudance of shopping solutions, creating narratives, highly productive appearance misleading conscious entrepreneurship. 
+* scqa - kl - Enlighted management, Maslow, Drucker. What Marcio saw later, discovery, respect. 
+ 
+## 
+
+## References 
+
+Drucker, P. F. (1986). The Practice of Management. Harper Business. (Original work published 1954)
+
+Hari, J. (2023). Foco roubado: Os ladrões de atenção da vida moderna. (L. Reyes Gil, Trad.). Vestígio.
+
+--> 
