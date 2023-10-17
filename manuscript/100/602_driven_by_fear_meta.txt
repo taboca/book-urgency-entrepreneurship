@@ -1,0 +1,71 @@
+
+<!-- 
+
+* abstract - The article discusses the role of fear in the entrepreneurial journey, challenging the perception that fear is always negative but focusing on fear as being a motivator element based on value systems. It highlights how fear can act as a catalyst for holding decisions and may impact creativity and growth. By embracing fear and planning ahead, entrepreneurs can navigate challenges and inspire others. Ultimately, the point is to respect fear, as the premise to be more conscious about how value systems are strong in decision making. 
+
+## Feat 
+
+* Doug Leone 
+* Andy Grove 
+
+-->
+
+<!--
+
+## Todo 
+
+* ( ) 
+
+## Title 
+
+* v0.3 - Back to "Fear and the roadmap", Driven by Love is out 
+* v0.2 - Identity 
+* v0.1 - Driven by emotions 
+
+### Cross 
+
+* link to - 430_self_staging.txt
+
+## ScqA short
+
+* Subject - 
+* Situation - 
+* Complication - 
+
+## References
+
+* 
+
+## ChatGPT input 
+
+In my book about slowing down for entrepreneurs I have an article so far entitled "Driven by fear" and another "Driven by Love" I wanted with these to invite the reader to reflect about how certain forces push them forward. Such as passion for the job, the matter or how they see themselves effective. And also the role of fear. For example,  regarding fear I have found data from Doug Leone, from Sequoia, that raw fear was a driving force for him. And regarding love, also data from Steve Blank, that entrepreneurs do things becuase they feel it's a calling. 
+
+ChatGPT: It sounds like you have a great start to your book about slowing down for entrepreneurs with the articles "Driven by Fear" and "Driven by Love." These two articles can indeed serve as thought-provoking pieces to encourage readers to reflect on the forces that motivate and guide their entrepreneurial journey. Here's some additional guidance and ideas to develop these articles further:
+
+ChatGPT: 
+
+1. "Driven by Fear":
+
+Explore different aspects of fear that entrepreneurs may experience, such as fear of failure, fear of missing out, fear of competition, or fear of financial instability.
+Share more anecdotes and stories from successful entrepreneurs like Doug Leone to illustrate how fear can be a powerful driving force. Discuss the role of fear as a motivator and how it can be channeled positively.
+Offer practical advice on managing and harnessing fear constructively. Provide strategies for turning fear into a driving force for growth and innovation.
+
+## Part 
+
+* 1
+* Note: value system of identity role influences
+
+## SCqA review 
+
+* Ideas  - We enter trouble such as dead ends. And after post-mortem, we wished we could call us back in time. So while within the frame, we seem to hold ourselves with value systems, but when all fails, then we release control. 
+
+* General subject - The executor, as a person and their role, make decisions and emotions counts, chimes in, especially in front of projections of judges. Our aspirations, and who we think we are make us feel, influences our calls. It's tough to detach. 
+
+* Key - How we experience - Our aspirations, in the beginning, counts more. More value counts, such as motivations and vision & value system. We created value-anchors for who we are and our causes. Then we fail, actually in fact after passing successes, thus we count on prior decisions, such as bets that yielded good advancements supporting our roles. 
+
+### References 
+
+* Cameron, J. (1998). The right to write. TarcherPerigee.
+
+* Y Combinator. (2016, October 25). Marc Andreessen at Startup School SV 2016[video]. Retrieved from https://www.youtube.com/watch?v=NEOR0AJsziE
+
