@@ -75,11 +75,23 @@ Klein, Maury. (2009). The power makers : steam, electricity, and the men who inv
 
 Blank, S. (2010, November 1st). No Business Plan Survives First Contact With A Customer – The 5.2 billion dollar mistake. Retrieved from https://steveblank.com/2010/11/01/no-business-plan-survives-first-contact-with-a-customer-%E2%80%93-the-5-2-billion-dollar-mistake/
 
+
+<!-- 
+
+100/610_driven_by_love
+
+--> 
+
+Blank, S. (2011, March 31). Entrepreneurship is an Art not a Job. Steve Blank. https://steveblank.com/2011/03/31/entrepreneurship-is-an-art-not-a-job/
+
+Michael Dearing. Greylock. (2015, October 8). Blitzscaling 03: Michael Dearing on Capitalism, Creativity, and Creative Destruction [video]. Retrieved from https://www.youtube.com/watch?v=3vCdfa_aeI8
+
+
 <!-- 
  230_self_confirmation_bias_social_identity.txt
 --> 
 
-MIT (Producer). (2015, May 19). User Innovation: A Path to Entrepreneurship [Video]. edX. https://www.youtube.com/watch?v=LpBSY9_RyCg
+MIT (Producer). (2015, May 19). User Innovation: A Path to Entrepreneurship [Video]. edX. https://www.youtube.com/watch?v=LpBSY9_RyCgl
 
 <!-- 
  200/230_self_confirmation_bias_social_identity.txt
@@ -89,11 +101,13 @@ MIT (Producer). (2015, May 19). User Innovation: A Path to Entrepreneurship [Vid
 von Hippel, E. (2005). Democratizing Innovation. The MIT Press. DOI: https://doi.org/10.7551/mitpress/2333.001.0001
 
 <!-- 
- 200/ 230_self_confirmation_bias_social_identity.txt
+ 200/230_self_confirmation_bias_social_identity.txt
  000/100_introduction.txt
 
 --> 
-Steve Blank @ MAP Unimelb, Published on Mar 13, 2014 [video]. Retrieved from https://www.youtube.com/watch?v=UFx2CQUTpYo
+
+Blank, S. (2014, March 13). [Video]. MAP Unimelb. https://www.youtube.com/watch?v=UFx2CQUTpYo
+
 
 <!-- 
  230_self_confirmation_bias_social_identity.txt

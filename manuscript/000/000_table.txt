@@ -1,5 +1,13 @@
 # Todo # 
 
+* ( ) Carving the stone - In the article about "Driven by Love", the point Marcio wants to bring the fact that the entrepreneur works in a discovery task as much in a execution task; and as they find value they carve themselves too, their identity melts. The influence to bring up the analogy of the artist was inspired in what Armando (Marcio's friend) said about arts in stones in Italy; and then Marcio seems to remember that Steve Blank used a similar metaphor. 
+
+* ( ) Consider to talk about maturity model of Andy Grove, eighter in "driven by love" or "culture productivity". 
+
+* ( ) Consider in "driven by love"  Feat. Reid hoffman, Reid Hoffman, em Comece por Você, indica em p.61 em "Mantenha uma identidade independente de empregadores específicos" cobre a situação onde pessoas, diante de projetos que acabam, ficam sem norte.  
+
+* ( ) Consider the note of Steve Blank about bundle/unbundle and "their were masters of their own fate"  https://youtu.be/UFx2CQUTpYo?si=qM8ABQJpKuhmHs8c&t=2349 which can be applicable to the situation of "Space" and fairchild Semiconductor, and more. 
+
 * ( ) @430_self_staging.txt Consider to match what Paul Graham has provoked, the growth situation, with the projection for growth situation, leading to complications such as the through of sorrow, and the note from Michael that "freaking PR" is not good. There is a reference about this in the editornote of the introduction = [^editornote_paulgraham_growth]: Paul Graham covers both the aspect that startups are for a growth situation but also covers that founders follow instincs such as a willingness to play the game. The through of sorrow of Paul Graham also depicts that startups force their status as political, projections, leading to falling in their own traps, such as to be sad that their projections were not real. Check 430_self_staging.txt
 
 * ( ) Solve ambiguity - Important vs. urgent - Individual, teams, emotions, and machines, and people, * 300_execution_urgency_neglecting_redesign, * 210_automatic_reaction_breaking, * 450_urgent_vs_important 

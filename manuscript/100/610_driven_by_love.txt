@@ -1,88 +1,5 @@
 # Identity 
 
-<!-- 
-
-* abstract - The article discusses the role of fear in the entrepreneurial journey, challenging the perception that fear is always negative. It highlights how fear can act as a catalyst for creativity and growth. By embracing fear and planning ahead, entrepreneurs can navigate challenges and inspire others. Ultimately, fear can be a motivational force for entrepreneurs seeking success in their ventures."
-
-## Feat 
-
-* Doug Leone 
-* Andy Grove 
-
--->
-
-## Driven by fear 
-
-No sentido pessoal, ou mesmo no grupo de trabalho. Sabemos que pessoas têm medo. Sabemos que pessoas são medrosas. Mas podemos dizer o mesmo para as empresas?
-
-Seriam algumas empresas medrosas? Ou de forma análoga corajosas?
-
-Infelizmente a questão do medo não é tão simples (quando por exemplo associamos medo como algo negativo). Medo é um elemento igualmente importante é crucial na jornada do empreendedor e no caminho da inovação.
-
-A primeira reflexão, aqui, é que precisamos eliminar a visão de que sentir medo é um problema. Talvez porque medo em geral cria bloqueio nas pessoas, nós passamos a não querer reconhecer medo como uma emoção, que tem um valor positivo -  não necessariamente é um sentimento que causa bloqueio ou defesa.
-
-Vejamos, não é o medo de algo que pode acontecer que ativa o bloqueio. A censura o bloqueio ou defesa são consequências de um gatilho a partir do medo; mas tem algo no meio, que podemos trabalhar - é a forma que agimos dadas as emoções.
-
-Assim pertinente na questão do empreendedor é a censura que passa a ser determinante quando reconhecemos medos. Se ter medo ao sonhar ao refletir ao planejar o leva a se auto censurar então essa sua questão com medos precisa ser resolvida.
-
-e não é uma tarefa simples como por exemplo ler páginas de um livro por que envolve iniciativa.
-
-O empreendedor é o único que pode e deve pedir ajuda seja de um psicoterapeuta, de coaches, de livros, de conselheiros, etc.
-
-Autora Júlia Cameron autora do livro O Caminho do artista ajuda artistas de várias áreas a lidarem com seus potenciais e bloqueios criativos. Seu curso de 12 semanas está contido no livro e um dos exercícios mais interessantes é atividade intitulada escrita matinal. Que envolve escrever, todas as manhãs, 3 páginas - praticamente um exercício libertador que trabalha a mente, como uma academia para o corpo, para que o lado censuradora deixe de podar o lado criativo da mente. É basicamente uma técnica de deixar errar, sem medo. Começa com uma permissão.
-
-A partir das explicações de Júlia, podemos ver como ela encontrou esta técnica ao longo de sua carreira. Ela era uma artista reconhecida em Hollywood que teve em algum momento seus trabalhos rejeitados (secar essas informações em torno da página 40 no livro). Em sua descrição, na questão das emoções vividas, ela só se ou o sentimento da rejeição do seu trabalho com comparado a perda de uma gravidez.
-
-Talvez essa associação seja mais comum no mundo dos artistas? 2 trabalhos mais criativos? Mas mesmo assim por quê? Talvez porque estes trabalhos são produzidos com muito trabalho, com muito suor, mas muito mais que horas é a energia que é colocada. Algumas pessoas estão, por meio de seus projetos, expressando de fato quem elas são, mesmo que a expressão da identidade não seja explícita ou direta. Elas mesmo assim expressam porque elas se tornam o agente que flui as ideias daquela forma. Essa ideia, onde o artista é o agente, ou a identidade do mensageiro, pode nos ajudar a explicar as emoções e sentimentos de perda que são sentidas no trabalho em situações críticas quando elas acontecem.
-
-As pessoas não vivem os sentimentos de perda ou de dor no trabalho só porque ela se tornaram workaholics. De fato elas se envolvem e a identidade delas está conectada com a forma de entregar o trabalho, o como fazer as coisas. O que acontece é que quando as coisas descarrilam, por exemplo quando projetos são subitamente terminados, quando demissões precisam ser feitas, quando uma divisão inteira precisa ser fechada; elas não só sentem por compaixão as pessoas que foram prejudicadas, elas sentem quando elas foram os protagonistas que mantinham as coisas nos trilhos elas eram os mensageiros ou o maquinista do trem. O maquinista do trem quando ele é feliz ele sofre quando o trem não mais vai operar. Agora no contexto do empreendedorismo e das empresas, imagine o protagonista que criou muito mais do que acelerar ou controlar o trem e levar os passageiros de um local ao outro. Imagine o protagonista que de fato participou do plano original que transformou ideias e as materializou no mundo encontrou grandes conquistas levou felicidade para as pessoas descobriu novas oportunidades. É normal que identidade da pessoa esteja vinculada como a do protagonista responsável e emocionalmente vinculado ao mundo criado. Do nada devido às diversidades fatores externos ou mesmo problemas de gestão competição, esses protagonistas podem se ver imediatamente na frente de situações que remetem a perda eles podem sentir medo e emoções de uma forma comparável com a perda de uma pessoa querida.
-
-Para Andy Groove, (????) existe uma sequência de emoções que são similares às emoções da perda de pessoas queridas, que podem ser vividas por pessoas questão no meio de situações que ele chamou de pontos de inflexão.
-
-[Colocar o exemplo de Andy, sequência da perda da pessoa querida, seguido da sequência no domínio da empresa que vive o ponto de inflexão. ]
-
-O próprio Andy revela que ele escreveu um dos seus livros no meio de uma dessas jornadas turbulentas que a Intel passou em torno de 198x [conferir em Let Chaos Reign] - sugerindo que naquela situação ele poderia estar escapando de reconhecer a situação.
-
-O que tiramos disso, é, mais uma vez uma ideia simples mas que não podemos ignorar - somos humanos, nos sentimos e vamos nos envolver e vamos provavelmente coordenar nossas ações de empreendedorismo em função das emoções. Mas isso não significa que não podemos tirar tempo para reconhecer e refletir sobre isso tudo. Se o ex-CEO  da Intel reconhece que estava escapando do problema maior ao escrever um livro será que nós também as vezes engajados em certas ações responsáveis como forma de bloquear ou como autodefesa para não corrermos o risco de sentir perda ou sentir emoções fortes como medo e insegurança?
-
-Andy Grove ainda articulou uma versão corporativa do potencial da perda, a auto defesa - uma situação onde empresas que estão passando pelo dito ponto de inflexão, decidem compras outras empresas. Ela perguntou, em Only the Paranoid Survive, por que será que empresas de eletrônicos do Japão, que viveram mudanças grandes em seus mercados e indústria, compraram estúdios de cinema. Para Andy, pode acontecer justamente um escapismo que acaba por tomar a atenção completa dos gestores, eles ficam ocupados demais, eles querem se ocupar.
-
-Agora, na versão micro, do empreendedor, o que podemos tirar dessas ideias? Primeiro, que nós somos ativos e somos nossos protagonistas, mesmo quando simplesmente estamos nós podando, nos censurando; mesmo que muitas vezes fazemos isso de forma automática, sem pensar. Segundo, que é natural que às vezes vamos engajar em medidas de defesa e ignorar a situação crítica que causa medo e bloqueio - isso e uma forma de defesa nossa.
-
-Para resolver isso, o primeiro passo é reconhecer, observar. Também vale o exercício de refletir em momentos protegidos, não debaixo de pressão, como por exemplo usar a técnica apontada no capítulo "correntes alternadas" para permitir paralelizar exercícios que lhe ajudam a mitigar os medos e mapea-los de fato. Neste sentido vale o exercício apontado por Tim Ferriss, em Trabalhe 4 horas por semana, ... [Colocar o exercício do Tim Ferriss aqui]
-
-Escrever o que pode acontecer de fato é uma forma de planejamento. Uma vez mapeado, aquilo que era medo de algo que não se sabe, torna-se um mapa mais estratégico. Nessa atividade você acaba colocando os passos intermediários que são necessários para resolver o problema.
-
-Agora, tratamos de medo que cria bloqueio ou censura, uma vez que exercitamos nossa capacidade de sermos criativos vamos nos acostumando a ideia de escrever, rascunhar, conversar, planejar; essa atividade que nos permite sair da zona da paralisia e partir para a ação. Com isso faz sentido aquele pensamento que diz que o corajoso é o medroso que deu o passo; ou que o louco é o corajoso que não tem medo.
-
-Queremos sentir as emoções, e queremos reconhecer medo. Com esses exercícios você passa a abraçar mais os medos mas sempre se permitindo errar, mapeando riscos e ações possíveis. O empreendedor que abraça seus medos, que encara eles e que pede ajuda é aquele que passa a fazer de forma colaborativa, e isso é uma ideia forte porque ela não só abre portas ao empreendedor e ao empreendimento, essa ideia inspira e motiva as pessoas ao lado. Torna-se parte ou cháve da cultura que busca verdades.
-
-O investidor Doug Leone, da Sequoia Capital, explica como que ele, depois de ter se tornado um investidor de sucesso, se mantém ativo e sempre buscando mais - já que estar dentro de uma das mais bem sucedidas empresa de *Venture Capital* do Vale poderia acarretar uma tendência para ficar na zona de conforto.
-
-> Quando você atinge um tanto de sucesso, o maior perigo que tem é o fato que você é bem sucedido.[^dougnote] Doug Leone (Brasil no Vale do Silício, 2019, 7:02)
-
-[^dougnote]: A citação foi traduzida do comentário do Doug, em inglês, "When you are successful a little bit, the greatest danger you have is the fact you were successful. " Doug Leone (Brazil at Silicon Valley, 2019, 7:02)
-
-Doug diz que é ""**raw fear**", ou seja, puro medo que lhe motiva. Ele lembrou que andava no Shopping Center de Stanford em 1988 fazendo 67000 dólares por ano e não tinha dinheiro suficiente para comprar presentes. (Stanford Graduate School of Business, 2014, 45:22)
-
- Hoje ele tem medo de ser demitido da sequoia, medo de acabar com a vida de empreendedores. Medo, para Doug é uma força motivadora.
-
-Andy Grove também compartilhou uma ideia parecida, de medo como força que motiva a criatividade e também a ação - medo de perder em relação ao competidor, medo do produto não ser bom para clientes, etc.
-
-Poderia até parecer controverso a ideia de medo ser uma motivação mas agora já bem separamos medo das possíveis ações em consequência - defesa, ataque, censura.
-
-Agora podemos nos tornar protagonistas que atuam entre as emoções e os sentimentos e podem melhor definir passos estratégicos antes dos gatilhos e dos hábitos automáticos.
-
-A autora Letícia Lago, no livro Clienterapia, alerta seus leitores sobre uma condição típica por exemplo onde pessoas no supermercado correm o risco de levar mais produtos em promoção por medo da escassez. [Verificar a página do livro da Letícia clienterapia]. Ela nos lembra que não vivemos mais em uma época de escassez, ou seja, nós mesmos estamos criando a resposta automática.
-
-Então não queremos responder automaticamente aos medos. Tudo começa com a iniciativa de reconhecer e não ter medo de sentir medo.
-
-A visão positivista para o empreendedor protagonista com relação ao medo é justamente não sentir medo do medo.
-
-Com essa ideia nós vamos além do fato de não entrarmos naturalmente em uma posição defensiva ou de não nos censuramos.
-
-Nós podemos ainda procurar sonhar e antecipar situações de medo. Sem medo do medo e reconhecendo que você pode ter um papel de protagonista você antecipa possíveis situações e trabalha nelas fora do tempo fora da hora H o que é muito melhor e pode ser feito contando com a colaboração de outros.
-
 ## Driven by love 
 
 <!--
@@ -103,19 +20,36 @@ O empreendedor de sucesso é um artista, no sentido de ser bem sucedido em traze
 
 Por outro lado, o artista-aos-olhos-do-mundo trabalha em lapidar sua ideia, de forma que sua arte faz sentido para ele e ao mesmo tempo sua audiência. Mesmo que muitas vezes passa por uma navegação caótica, o bom artista deixa de ser caótico na medida que constrói sua identidade e sua obra, do seu trabalho; uma identidade que abraça e é abraçada pela audiência.
 
+
+
+### Identity fusion 
+
 Essa condição estampa o estado da auto realização do indivíduo e ressoa com a versão humanizada da relação entre o trabalho e o indivíduo apresentada por Maslow [^maslow] (Maslow, 1998. p.1) que diz que indivíduos altamente evoluídos assimilam seus trabalhos com suas identidades. Ou seja, o trabalho torna-se parte do ser que define o indivíduo.
 
 [^maslow]: "These highly evolved individuals assimilate their work into their identity into their self, i.e., work actually becomes part of the self part of the individual's definition of himself."  Maslow (Maslow, 1998. p.1)
 
 Neste sentido, podemos considerar que o verdadeiro empreendedor - ou o verdadeiro gerente ou verdadeiro trabalhador - sente-se bem com o que faz e vive a relação com o que faz. O relacionamento com o trabalho define a identidade e isso é ser humano porque o trabalho do humano o conecta com o mundo — é por meio do trabalho que o trabalhador se vê no mundo. Essa essência, irrevogável na vida do empreendedor, lhe trará emoções de conquista e também emoções de perda, pois sua obra e sua identidade estão no alvo das adversidades da jornada da transformação da arte e da identidade lançada ao mundo.
 
-O empreendedor, investidor e professor Steve Blank (????), relatou não acreditar que ele estava trabalhando no Vale do Silício e sendo pago para fazer aquilo que faria de graça — pior, que até pagaria outros para fazer. Isso não é incomum em algum estágio dos empreendedores que encontram paixões durante suas jornadas. Acontece, quando esbarram em oportunidades no caminho — eventos que ressoam com a identidade do empreendedor ou que formam uma nova identidade. Na medida que o empreendedor avança, na jornada da descoberta e da lapidação, ele vê melhor a arte que está sendo escavada na pedra e sua identidade — sente-se como merecedor ou dono das suas descobertas, orgulhoso, responsável. 
+O empreendedor, investidor e professor Steve Blank relatou não acreditar que ele estava trabalhando no Vale do Silício e sendo pago para fazer aquilo que faria de graça (Blank, 2014) ou que até poderia pagar para ter a oportunidade. Isso não é incomum em algum estágio dos empreendedores que encontram paixões durante suas jornadas. Acontece, quando esbarram em oportunidades no caminho — eventos que ressoam com a identidade do empreendedor ou que formam uma nova identidade. Na medida que o empreendedor avança, na jornada da descoberta e da lapidação, ele vê melhor a arte que está sendo escavada na pedra e sua identidade — sente-se como merecedor ou dono, ou protagonista da descoberta, do que viu, visão. Ou seja orgulhoso mas também responsável, ou quem carrega aquela bandeira. 
+
+<!-- 
+
+Reference artists and entrepreneurs 
+
+https://steveblank.com/2011/03/31/entrepreneurship-is-an-art-not-a-job/
+https://steveblank.com/2011/04/09/entrepreneurs-are-artists/
+
+-->
 
 Nessa fase ele se conecta com a arte ou sua identidade como artista se define. Uma maravilha de marca, e marca. Essa sensação de identidade revelada, estampada, gera entropia, ou seja alimenta novamente o empreendedor na sua jornada - assim cria a fundação, ou condição, definidora da linha de comportamento que diz "eu faria isso até de graça" ou "poderia até pagar para alguém ao contrário de receber".
 
-Essa condição, esse local na jornada do empreendedor, é revelador do fenômeno de um potencial de criação e destruição. Tendo base nesse empreendedor-artista, que trabalha na sua obra e identidade e que busca conexão com o mundo — as boas relações com clientes, fornecedores, colaboradores, etc — suas paixões e motivações, e a maneira que as gerenciam, são elementos que influenciam a jornada rumo ao sucesso ou fracasso.
+Essa condição, esse local na jornada do empreendedor, é revelador do fenômeno de um potencial de criação e destruição. Tendo base nesse empreendedor-artista, que trabalha na sua obra e identidade e que busca conexão com o mundo — as boas relações com clientes, fornecedores, colaboradores, etc — suas paixões e motivações, e a maneira que as gerenciam, são elementos que influenciam a jornada rumo ao sucesso ou fracasso. 
 
 Neste sentido, a paixão do empreendedor é um assunto explorado por pesquisadores que levam em consideração a observação dos efeitos produzidos, por exemplo o impacto para investidores, no mundo dos negócios.
+
+
+
+
 
 É um desafio de pesquisa encontrar meios de avaliar os tipos de paixões que determinam mais ou menos sucesso. Para isso, pesquisadores normalmente se baseiam em dados quantitativos, por exemplo eles perguntam para investidores sobre os tipos de paixões dos empreendedores que capturam os melhores investimentos. Essa abordagem estampa que a arte de empreender tem sucesso na materialização da inovação, rumo ao mercado.
 
@@ -278,7 +212,7 @@ Neste estudo, abordaremos primeiramente o caso de Mianmar, no qual um protagonis
 
 Em seguida, aprofundaremos na questão implícita de identidade no empreendedorismo. Através de uma reflexão sobre essa ideia de identidade empreendedora, buscamos evidências de que a identidade é não apenas um fenômeno, mas também uma premissa essencial para a ação de empreender. Vamos também explorar as experiências de personalidades da indústria, considerando os riscos inerentes a esse processo, que exigem uma consciência e uma atenção maiores à medida que moldamos nossa identidade e trajetória.
 
-#### Fame and chaos 
+#### Fame  
 
 <!-- 
 
@@ -357,9 +291,81 @@ Nightingale, M. (2016). Why it’s a Mistake to be a Startup Superhero. Medium. 
 
 -->
 
-### Transcending the identity
+### Transcending the identity 
 
-* [ ] Feat. - Andy Grove - Vale olhar porque Andy fala de identidade tb na questão da Intel * Concept — identity and team difficulties to accept change — the story of Andy Grove and Gordon More at Intel when Intel was facing the forces (10x) from Japanese companies. Andy Grove, in the book Only the Paranoid Survive, talks about a situation when the leadership team develops an identity that is so strong that when a major change is happening the team feels the phases that are comparable with the grieve related to mourning — check the right words here. 
+Therefore, it is implied that they are in also in a quest to make the vision a reality, to bring to the world. But we still have to face the the problem of passion, and love, and how our leadership identity can affect our values and make us to make decisions such as decisions that take us in a bad direction. Thus, with the recognition of the problem, or complexity, of fusion, and deviations of the truth for a solution, or even being able to engage the performers, assuming the case makes sense, the escape hatch might exist in the very suggestion of the composer whose the job has to do with transcendence from the original artist that had discover to a a new artist that helps the early team to see the vision and support the growth, or the evolution of the vision. Thus, with that in mind we can find first a peaceful space that we must acknowledge that a lot from that "fusion reaction" is a heat that can also create confusion - there might be chaos in the growth which deserves the recognion that things might be shaky and which will affect the identity of the visionary as in might also create moments of "that is it, this is who I am," which is the very symption of a success but that can turn out to be condition that deserves a reflection as it might provoke the person into the situation of being a know-it-all or where the humble characterization ceases to exist in the face of what is next which is the actual necessity to grow. 
 
-* [ ] Feat. Reid hoffman, Reid Hoffman, em Comece por Você, indica em p.61 em "Mantenha uma identidade independente de empregadores específicos" cobre a situação onde pessoas, diante de projetos que acabam, ficam sem norte. 
+In a previous chapter, especifically in the section Infinite Apprentice, we have considered the advice from Brian Chesky and Reid Hoffman, the idea of the infinite learner, which brought up the challenges of a leader accross the growth stages. Brian reminded us that is not like one becoming more skilled in an art; and instead it has more to do with having to learn a new sport. Brian might be a good example that the infinite apprentice is connected with the an inner and humble spirit that enables transformation. For us, is a reminder to keep that fire on, the fire of being humble which opens the opportunity through the discovery phase, which they don't know fully yet how things are going to grow and how the realization will unfold. 
 
+But what comes from the this space for transcendence is really about the vision for how the discovery can find its place, how it can growth, with a system in place, with the performers to support, and that idea necessarily involves the growth of the individual, the transcendence of the identity, towards the identity of the leader, or in the words of Steve Blank, the role of a composer. Steve Blank recognized that founders find a vision on their paths, they are carriers of a call as much as they are onto a call: 
+
+> "Founders fit the definition of a composer: they see something no one else does. And to help them create it from nothing, they surround themselves with world-class performers. This concept of creating something that few others see – and the reality distortion field necessary to recruit the team to build it – is at the heart of what startup founders do. It is a very different skill than science, engineering, or management. Entrepreneurial employees are the talented performers who hear the siren song of a founder’s vision. Joining a startup while it is still searching for a business model, they too see the promise of what can be and join the founder to bring the vision to life. Founders then put in play every skill which makes them unique – tenacity, passion, agility, rapid pivots, curiosity, learning and discovery, improvisation, ability to bring order out of chaos, resilience, leadership, a reality distortion field, and a relentless focus on execution – to lead the relentless process of refining their vision and making it a reality." Blank, S. (2011, March 31).
+
+Steve really touches the point of transcendence that embraces possibility, that unlocks the opportunity ahead, and supports the founders to not be trapped by any identity in a given moment, such as to be enamorated with an idea. 
+
+What if, the thought could be turned into as "We are just starting" again. Perhaps that is a way to escape the negative side of the calling. This escape hatch opens the way for growth, for the full realization, and towards leadership. But it isn't easy to see from outside what we do. For that, we need to first acknowledge that it is important - first step - and then with spirit of a true entrepreneur - volunteering to learn - we step up into to find our answers. In a way, the entrepreneur is a generator of an art, it becomes the art in progress in itself, thus she needs to become the curator of its arts. 
+
+<!-- 
+
+Blank, S. (2011, March 31). Entrepreneurship is an Art not a Job. Steve Blank. https://steveblank.com/2011/03/31/entrepreneurship-is-an-art-not-a-job/
+
+--> 
+
+### We can change our goggles 
+
+<!-- 
+
+The following whole section is from https://medium.com/startup-check-in/let-there-be-light-our-ancestor-entrepreneurs-and-your-next-startup-ideas-cc64c4573bb8 
+
+--> 
+
+When Patrick Collison was invited to talk about his fast-growing company at the Technology-enabled Blitzscaling classes, instructor John Lilly pointed out that “he walked in with a book made of paper, which is always very exciting.” Further down the interview, John wonders why he has so much interest in history.
+
+For Patrick, it’s a way to cheat. Everyone else ignores all the good ideas from history, and so you can just be much smarter by just, you know — you could just try to think all these incredibly original thoughts by sort of sitting down and staring at the wall for days on end — or you can sort of cheat by just, you know, I mean they are, in fact, written down in books that you can just read. (Patrick Collison — Greylock Partners, 2015, 11:17)
+
+Patrick’s point almost passed without myself noticing what is so special. But it turns out that I was reading an amazing history book - The Power Makers, by historian Maury Klein - at the time, which helped me to reflect and consider why entrepreneurs should read about history such as history of technology, history of entrepreneurs, and more. 
+
+When great historians drag us back in time, they help us better understand how factors, such as the external environment, such as period and the cultural environment, have an effect in entrepreneur’s decisions and goals. It’s like you are transported into the protagonists but also giving the protection so that you are not lost like a protagonist. The protection is the space of opportunity to reflect about the currents of the time, the factors influencing, challenges, and more. 
+
+It provoke us into questioning things like what brings us to come up with ideas? Is it pain? Or love? Or a major obstacle on their way? Is it a vision or an epiphany, after he had long years of thinking and living through challenges first-hand? What made them pursue a life of entrepreneurship? what factors contributes for us to persevere for decades?
+
+Connecting the dots leading to innovation. The view from above, or from the cockpit with a narrator using the time capsule, might also give us the view of hot the dots are connected, for how inventors bring their ideas to market: from the background, to how the idea first appeared, moving to how they evolved into an early product, showing the potential pitfalls or how ideas are brought to the market.
+
+It’s like a view from the above that conciliates how external factors are influential to entrepreneurship. What pitfalls we can find? What obstacles appears in front of us? What are the conditions that can favor the further development of our goals? Will the environment be friendly in the short, medium and long run?
+
+It’s great to learn about successes. But historians will also tell you about the failures; and more, the failures of first movers, such as the life and death of inventors and entrepreneurs that could not bring their ideas as they have envisioned, and the potential later realization, by others, of what those first movers had envisioned. This level of contrast help entrepreneurs to better understand a macro view for how inventors and inventions correlate and collaborate in the long run and the leadership compoment that mad things to become real. 
+
+Consider the situation of John Fitch which is credited as one of the inventors of the commercial steamboat service. His product, Perseverance, was launched in 1790 as a commercial steamboat service but didn't do well and was abandoned. 15 years later, as history shows, a successfully implemented solution was brought by Robert Fulton, that was a bit less inventor and more of an assembler and able to focus on the service. 
+ 
+> *“Fitch advertised the service heavily and the boat performed admirably — going five hundred miles before suffering mechanical problems — but the passengers did not come. In desperation, the partners offered free food and drinks on board, but every voyage continued to lose money. What had proven to be technological triumph turned out to be a commercial failure, and the service was abandoned after that first summer. His investors backed away, and Fitch eventually found himself nearly penniless once again. “* — Maury Klein, The Power Makers, Steam, Electricity, and the Men Who Invented Modern America
+
+<!-- ref 
+
+https://medium.com/founder-staging/draft-essay-an-entrepreneurs-reality-check-on-the-insight-the-product-and-the-market-d3adfddc6833
+--> 
+
+Reading how amazing inventions were born helps us soften our minds and better recognize how much biased we are, how humble we should be. Consider the situation of Ampere and Coulomb which were convicted about the lack of relationship between electricity and magnetism, leading to the general acceptance that no relationship existed between these areas. Such belief persisted for about 20 years, when suddenly however an unknown professor hits a discovery by chance: It was during an experiment with his students when professor Oersted were melting wires and noticed that a compass moved every time the electricity was being turned on/off.
+
+After such discovery Oersted published a paper. While Ampere priorly did not believe in such relationship, this was a real experiment, therefore easy to replicate. From that moment, Ampere not only accepted but he immediately started contributing to this new field in a matter of two months.
+
+<!-- reference 
+
+Klein, Maury. (2009). The power makers : steam, electricity, and the men who invented modern America. Bloomsbury Press. First U.S. edition.
+
+--> 
+
+In the above passage, new opportunities appeared after that irrefutable observation of effects of the physical world, enabling the status-quo of scientists to be dropped quickly. They other words, they had to accept change as their environment was changing. 
+
+Productizing an idea depends on many factors such as vision and engineering capacity. But it won’t necessarily mean your target customer is ready to accept the proposed and envisioned product. And even if they are, it does not mean that all the forces in the future will favor your product to enter and sustain itself in the market.
+
+For Michael Dearing, lecturer and investor at Harrison Metal, founders should evaluate themselves and understand the differences between coming up with an insight, developing a product, and developing a whole business:
+
+> *"First you have to have an insight, a technical insight. Second you have to turn that insight into a product, and third you have to, hopefully God willing, turn that product into a business. Those are about as different sets of pursuits with very little in common with each other. And so if you energized by the idea of coming up with a technical insight and then moving to productization and then moving to the business building phase, that journey will be satisfying and exciting to you. If you find yourself totally in love with the technical insight manufacturing process, that is a real problem. And then you end up having science projects, not companies. If you find yourself endlessly prototyping and tinkering with the product without regard to the business economics, then that’s a warning flag as well."* (Michael Dearing, Greylock Partners, October 2015, 47:47)
+
+<!-- 
+
+Reference
+
+Michael Dearing. Greylock. (2015, October 8). Blitzscaling 03: Michael Dearing on Capitalism, Creativity, and Creative Destruction [video]. Retrieved from https://www.youtube.com/watch?v=3vCdfa_aeI8
+
+--> 
