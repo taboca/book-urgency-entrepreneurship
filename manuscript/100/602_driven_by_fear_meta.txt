@@ -1,9 +1,18 @@
 
 <!-- 
 
-* abstract - The article discusses the role of fear in the entrepreneurial journey, challenging the perception that fear is always negative but focusing on fear as being a motivator element based on value systems. It highlights how fear can act as a catalyst for holding decisions and may impact creativity and growth. By embracing fear and planning ahead, entrepreneurs can navigate challenges and inspire others. Ultimately, the point is to respect fear, as the premise to be more conscious about how value systems are strong in decision making. 
+## Feat 
 
-## scqa 
+* Ref - Doug Leone 
+* Ref - Andy Grove 
+* Ref - Julia Cameron
+* Ref - Tim Ferris 
+
+* Style - Equalizer the Movie 
+
+## Article strategic - feat. Barbar's scqa
+
+* abstract - The article discusses the role of fear in the entrepreneurial journey, challenging the perception that fear is always negative but focusing on fear as being a motivator element based on value systems. It highlights how fear can act as a catalyst for holding decisions and may impact creativity and growth. By embracing fear and planning ahead, entrepreneurs can navigate challenges and inspire others. Ultimately, the point is to respect fear, as the premise to be more conscious about how value systems are strong in decision making. 
 
 * subject - Fear can move mountains. We should respect fear. 
 
@@ -12,11 +21,6 @@
 * complication - We fail to see that fears in the entrepreneurial setting is a strong factor influencing our decisions. When we fear, we fear based on perceptions, but we might translate fears as structured narratives. Thus, there is no space for "I want to talk about my fears in general" and the narrative goes more like "We will be killed by our competition if we do not engage in competing with them." Thus, the fear can be a driver for construction of narratives, for establishing value systems that can govern decisions. Fear, therefore, needs to be respected as it pushes us to be creative and to make decisions or narratives. 
 
 * qa - Can we get rid of fears? Not really and no need, as fear can be good and can regulate. As we do not want to be fearless, we want to simply reflect and respect fear. We can, however, reflect about situations where fear is connected with a perceived or real identify, and with a group identity, or identity that protects a goal. Identitying that, we can be mindful about fear. 
-
-## Feat 
-
-* Doug Leone 
-* Andy Grove 
 
 ## Research - Reputational fears 
 
@@ -28,10 +32,6 @@
 * Related - psychological safety - In a research article, https://www.sciencedirect.com/science/article/abs/pii/S1469029220301497, The impact of identity leadership on team functioning and well-being in team sport: Is psychological safety the missing link?, authors brought the notion of "psychological safety" as an element, perhaps associated with conditions of work and communications such as interpersonal communications; and how that supported teams to improve well-being and functioning. 
 
 * Related - entrepreneurial self-identity - A research article, Am I an Entrepreneur? Entrepreneurial Self-Identity as an Antecedent of Entrepreneurial Intention , suggests that the perception about oneself might be an element influencing self-identity which has an impact to entrepreneurial intent. "Entrepreneurial intent" is a common term in this article. Accoording to the article, mendola.claudio@gmail.com Claudio is one of the researchers. 
-
--->
-
-<!--
 
 ## Todo 
 
@@ -47,17 +47,11 @@
 
 * link to - 430_self_staging.txt
 
-## ScqA short
+## Other - Chatgpt and eQualizer movie about fears 
 
-* Subject - 
-* Situation - 
-* Complication - 
+* https://chat.openai.com/share/75ab9670-7f52-426a-b06c-c52c1cb1c370
 
-## References
-
-* 
-
-## ChatGPT input 
+## Other - ChatGPT input 
 
 In my book about slowing down for entrepreneurs I have an article so far entitled "Driven by fear" and another "Driven by Love" I wanted with these to invite the reader to reflect about how certain forces push them forward. Such as passion for the job, the matter or how they see themselves effective. And also the role of fear. For example,  regarding fear I have found data from Doug Leone, from Sequoia, that raw fear was a driving force for him. And regarding love, also data from Steve Blank, that entrepreneurs do things becuase they feel it's a calling. 
 
