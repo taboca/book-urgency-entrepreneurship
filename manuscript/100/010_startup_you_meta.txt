@@ -1,12 +1,10 @@
 
-<!--
-
-
-* ( ) Anedoctal of Marcio - when Marcio had insight and told Michael that the major problem was of a party, for what was nice, like flow. And not the denial to do the boring. So the doing the so good things led to use of energy in excess.  Insigh of Marcio - Thank you Michael. Your reply resonated so much with things in my head, concerns, sometimes not clear; it adds so much clarity. A few months ago, I had, virtually speaking, screamed — ah! It's that freaking party the problem. The party would be, for example, a 4h engineering activity that goes over the time of other important things (not seen as critical of course). The benefit was so great that a sort of specialized mindset acts. I was not conscious and would never judge that as a potential evil act. Well, how could it be? The very greatness, supposedly my creative engine, the productive engine. And worse, the general brain command was — continue! Do it, Marcio, advance that. You can fix other things later. I was assuming that a great actor would compensate for the other stuff running slow. Insight of Michael, not a public quote, "Categorization --> clusters --> patterns --> priorities -- that's it exactly. Natural multi-taskers with a strong work ethic (that's what I hear in your opening above) can easily lose site of what matters most because getting things done feels terrific and is comparatively easy / cheap for them. That's a problem if you compound the implicit deprioritization of the few most important things, in favor of many things because we love to get lots of things done, over a long period of time. Thank you for the note. It's very helpful to see through your goggles." 
-
 * ( ) Differentiate - 970_winnning.txt - The winning touches the aspect of growth but in fact it deals with the release of control in the face of the uncertain. This one deals with the identification of the investiment of the unit of energy, accounting time, respecting time. 
 
-v2.3 
+## Version 
+
+* v2.4 
+* v2.3 
 
 ## Review and todo, notifications
 
@@ -67,4 +65,3 @@ v2.3
 * A corrupção do tempo, que vem da gente. Quermos manipular, queremos controlar. Na próxima parte teremos a oportunidade de ver como que chefes permitem que seus subordinados usem tempo por fora, como que eles podem melhorar seus scores, abusando do tempo de cada recurso, na promsessa de promoções. 
 * Removed whole confusing section at the end. 
 
--->
