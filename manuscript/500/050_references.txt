@@ -248,6 +248,18 @@ Dearing, M. (2013, July 16). Pricing [Video]. HeavyBit. https://www.heavybit.com
 
 Drucker, P. (2008). Managing Oneself. Harvard Business School Press. pp. 53-54.
 
+
+<!-- 
+
+* 100 / 300_execution_urgency_neglecting_redesign_f47ac10b 
+
+--> 
+
+Hoffman, R. (2017, August 30). *Reid Hoffman: Build A World-Changing Business | Chase Jarvis LIVE* [Video]. YouTube. https://www.youtube.com/watch?v=ka--XKeI-o8
+
+Dearing, M. (2018, February 13). Michael Dearing at the 2018 NYC Product Leader Summit: "Two Blasts from the Past" [Video]. YouTube. Spero Ventures. https://www.youtube.com/watch?v=oBOOcBgHxTU
+
+
 <!-- 
 
 * 300/150_entrepreneurship_is_management.txt

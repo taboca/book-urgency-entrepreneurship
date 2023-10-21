@@ -111,3 +111,35 @@ So the mechanism, as indicated by Johann Hari, the new display, went online. But
 
 [^infinitelearner]: Reid Hoffman, cofundador do LinkedIn, na entrevista intitulada "Blitzscaling 18: Brian Chesky on Launching Airbnb and the Challenges of Scale", se refere a Brian Chesky como um aprendiz infinito. O termo que ele usa é "infinite learner" e ele aponta que é chave para o sucesso no processo de gestão de start-ups que buscam escalar. https://youtu.be/W608u6sBFpo?t=3635 
 
+## New management essay - which was sent to Michael Dearing in a private message in 2021 
+
+To which Michal in a private - non public message - has replied "If Josephy Schumpeter were alive, he might point to all this and call it "creative destruction at the level of the individual rather than the economy."
+```
+
+Hi Michael — hope you are doing okay. This mini-essay has a bit of McCallum, New Manager, Mozilla, etc. It's a message of support to the development of a new person. 
+
+--
+
+The founder-entrepreneur spirit, their way of living, is probably related to one being a bit frustrated with the world as it is. But not in the sense of not being grateful. 
+
+Consider respect for others. They are mad about where we are. But if you try to tell them that the world is the same or worse than before, they will certainly be mad at you. What they see — different from many — is the founder-function within. They see what freedom fighters did, they feel empathy for the fight. Perhaps this thinking explains the founder-within function that makes a professor-investor-mentor look at stories such as of Harriet — the lady that optimized and scaled an iterative system and method for freeing slaves. 
+
+But to exercise the founder-within, the founder needs to embrace their new person / new manager, necessarily. They can't face breaking the world, unfolding what's next, unbundling then bundling; without accepting their evolution, their change. It's impossible. 
+
+Such founder spirit acts at the intersection between management for the known things and management for what is next. And this is exactly the stage, the context, and struggle, where they try to bring order from chaos. This aligns with how they consistently bring the word art on top of science. 
+
+When Michael showed to Reid the case of Daniel McAllum, Reid wondered if McCallum was doing micromanagement. But at that moment micro-management didn't exist. McCallum's creation was *actually in fact* in the field of trying to propose methods for self-management for what was never done before, for what could not be done with the world and things as they knew it. One could even consider that he was trying to create a culture. 
+
+One practical visualization of this is Bugzilla  — the issue-tracking and management system that was invented at Netscape in order to help with the development of the Mozilla Browser railroad, back in the days. Netscape Client Product division, building 21, was doing something new in terms of management. Eventually, Bugzilla was deployed in full-blown style at the whole building. Everyone was using Bugzilla to create issues, to ask for help, to add comments, to triage problems of all sorts. It was one of the most successful products of management. It was a system and method and the whole building was using it. They were micro-reporting things not usually done that way. And, by the way, that didn't grant the browser to survive at that point in time, necessarily. 
+
+Yet and sticking to that Netscape story, here is another great note that depicts the inflection point when Netscape released Mozilla source to the open. From the words of Jim Barksdale, we can see proof that management was exercising new management — 
+
+"Well, it's certainly my hope that the enormous amount of new people that no one could afford to have working on any product, now contributing to the Netscape Navigator Communicator, will make a significant difference in the improvement of the product. How that works against any competitor; remains to be seen. " Barksdale, Jim, 2013, 29min56sec. https://youtu.be/4Q7FTjhvZ7Y?t=1796 
+
+It goes on and on and on. For now, I can't ask anything specific for new founders. One thing perhaps is applicable. Time. We need to watch out for how we run our actions in time. It is about time to allow time for the self. 
+
+Enjoy Michael's New Person Meditation 
+https://soundcloud.com/michael-dearing-1/new-management-new-person
+
+MG
+```
