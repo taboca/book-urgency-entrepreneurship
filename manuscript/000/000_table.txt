@@ -1,5 +1,7 @@
 # Todo # 
 
+* ( ) Review the citation (2018, p.43) in 600_driven_by_fear.txt because the page reference is from the pt-br book while the actual reference is for the English book which I didn't buy. 
+
 * ( ) Consider the quote from Michael "If Josephy Schumpeter were alive, he might point to all this and call it "creative destruction at the level of the individual rather than the economy." which is not public but could be really, likely, a good descriptor for the road that Marcio has taken. https://mail.google.com/mail/u/0/#search/michael+harriet/KtbxLxgGBWTcQLPZfPBsFjsMVMTPkfMkDB
 
 * ( ) As I have added the points of Michael, to section "How we experience" and also the section "The ethical performer" wihch connects with an e-mail message that Marcio has written to Michael Dearing; I have brought what seems to be a duplication of reference about Michael, perhaps. The part is duplicated, the quote "First you have to have an insight,.." which appears on "610_driven_by_love.txt" a1b2c3d4-e5f6-7890-a1b2-1234567890ab . I think that the quote can be likely removed from driven by love. 
@@ -32,6 +34,8 @@
 * ( ) Check add Michael on Bad investors, proprietary in the boat 
 * ( ) 720_do_things_that_dont_scale.txt "Do things that don't scale" -> Perhaps  this can fit within "maximizing value" which may actually connect with value and pricing, again, Michael. perhaps Marcio should be able to find a connection with "discovering value for defining pricing"
 * ( ) Development structure - Move board under accounting, feat. MD 
+
+* ( ) Footnote or editornote - [^editornote_robertmckee_storynomics] 
 
 # Table # 
 

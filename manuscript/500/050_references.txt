@@ -83,6 +83,15 @@ Klein, Maury. (2009). The power makers : steam, electricity, and the men who inv
 
 Blank, S. (2010, November 1st). No Business Plan Survives First Contact With A Customer – The 5.2 billion dollar mistake. Retrieved from https://steveblank.com/2010/11/01/no-business-plan-survives-first-contact-with-a-customer-%E2%80%93-the-5-2-billion-dollar-mistake/
 
+<!-- 
+
+100 / 600_driven_by_fear
+
+--> 
+
+Cameron, J. (1992). The artist's way: A spiritual path to higher creativity. Jeremy P. Tarcher/Putnam.
+
+McKee, R., & Gerace, T. (2018). Storynomics: story-driven marketing in the post-advertising world. New York, Twelve.
 
 <!-- 
 
@@ -166,6 +175,8 @@ Benjamin J. Warnicka, Charles Y. Murnieks, Jeffery S. McMullen, Wade T. Brooks. 
 
      200/390_mood_analysis_planning.txt
      200/510_ideas_emotions_judgement.txt 
+     100 / 600_driven_by_fear 
+
      --> 
      
 Cameron, J. (1998). The Right to Write. TarcherPerigee.
