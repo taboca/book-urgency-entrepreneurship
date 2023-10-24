@@ -1,5 +1,7 @@
 # Todo # 
 
+* ( ) Review Andy Grove's maturity within 470_culture_productivity which is poited by Michael Dearing's course GM2 / f47ac10b-58cc-4372-a567-0e02b2c3d479 Marcio believes that maturity as indicated by Andy Grove in High Output Management has a connection with the model from effort to high-order objectives that might also transcend objectives. 
+
 * ( ) Review the citation (2018, p.43) in 600_driven_by_fear.txt because the page reference is from the pt-br book while the actual reference is for the English book which I didn't buy. 
 
 * ( ) Consider the quote from Michael "If Josephy Schumpeter were alive, he might point to all this and call it "creative destruction at the level of the individual rather than the economy." which is not public but could be really, likely, a good descriptor for the road that Marcio has taken. https://mail.google.com/mail/u/0/#search/michael+harriet/KtbxLxgGBWTcQLPZfPBsFjsMVMTPkfMkDB
