@@ -2,6 +2,10 @@
 
 <!--
 
+## Check
+
+* (Done, removed) Check the story of the designer vs. the ceo which is also shown in 090_saying_thanks_reflections.txt and here 100_operating_systems.txt / 123e4567-e89b-12d3-a456-426614174000
+
 ## Titles
 
 * v0.2 - Interfaces 
@@ -97,8 +101,6 @@ Maslow, Abraham H. (1998). Maslow on Management. Published by John Wiley & Sons,
 
 -->
 
-### Transcending the user experience 
+### Final remark about transcending the user experience 
 
-The above experience which I went through made me remember a video where the CEO of a well-known Silicon Valley company had a discussion with a designer that was the head of user experience for a renowemed product. The video was removed from the Internet so here is what I took from the material which for me was life changing. The theme of the discussion had to do with the question: what is the best user interface? the ideal user interface. The designer started and suggested that the right tool would be, in a way, invisible. To illustrate his point, he had asked us to imagine a shovel, pointing that there are a lot of different kinds, with different handles or different materials used in the blades, such as blades made of incrusted diamond. Then he concluded that the ideal shovel is the actual hole. Although a tricky question, he had made his point that real problem, that people want to solve, is the ultimate key. Then the word was given to the CEO that had provided a different perspective - that people learn with the tools as they try and use and develop tools. Then the heat had risen when the designer asked "Are you saying that inperfect tools are better?" To which the CEO replied "It's not what I said" and has elaborated that in the face of an existing tool, again, people learn. What I took from that discussion was as an invitation into the thinking of the CEO which I thought as a place for learning something new. In other words, the lesson I took that day had a connection with a popular saying in Brazil - "o buraco é mais em baixo" - which translates as "the hole might be deeper". And through that exercise, and the actual point clearly given by the designer, it is also evident how lots of interfaces are just there and that they were actually designed by designers that thought that they did the best. Which comes the realization that what is given can't be changed and the complication that most users trust a designer and the design, too much, assuming that there is nothing more to do. 
-
-It is also necessary here to acknowl4edge a notion fro the JTBD team, the Job-To-Be-Done team of Tony Ulwick, that people are looking for the job, not the tool. In other words, yes, the designer were partially ritht too, in the thinking that the tool want to be as minimal as possible the thing solving the need. It just happens that all the tools we make are solutions for a world in change too. Thus, as the world changes, people's perceptions will also change. The opportunity lies in accepting change as a possibilty. 
+It is also necessary here to acknowledge a notion from the JTBD team, the Job-To-Be-Done team of Tony Ulwick, that people are looking for the job, not the tool. In other words, yes, the designer were partially right as well, in the thinking that the tool want to be as minimal as possible as the thing solving the need. It just happens that all the tools we make are solutions for a world in change too. Thus, as the world changes, people's perceptions will also change. The opportunity lies in accepting change as a possibilty. 
