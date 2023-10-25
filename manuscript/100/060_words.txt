@@ -4,8 +4,9 @@
 
 ## Titles 
 
+* v0.3 - Words are stones 
 * v0.2 - Words
-* v0.1 -  Words but stones
+* v0.1 - Words but stones
 
 * Chatgpt -
 
