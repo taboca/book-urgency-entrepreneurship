@@ -1,5 +1,28 @@
 Check https://chat.openai.com/share/b7eb16c5-4c18-4709-9220-bd2629f34a3d 
 
+## Growth (Paul Graham, )
+
+* Referred from 040_induction_embedded_everything.txt 
+* Referred from 970_winning.txt 
+* Referred from 050_foreword.txt 
+* Referred from 100_introduction.txt 
+* Referred from 010_startup_you.txt 
+* Referred from 030_wantrepreneur_ok.txt 
+* Referred from 120_space.txt 
+* Referred from 300_execution_urgency_neglecting_redesign_f47ac10b
+* Referred from 600_driven_by_fear
+* Referred from 610_driven_by_love
+* Referred from 630_fast_cliches
+* Referred from 090_saying_thanks_reflections
+* Referred from 220_success_as_a_service
+* Referred from 450_urgent_vs_important_9d8b7e90
+* Referred from 100_partners_bad_investor
+* Referred from 350_shifting_sports.txt 
+* Referred from 430_self_staging
+* Referred from 450_narratives
+* Referred from 460_narratives_lean 
+* Referred from 470_culture_productivity 
+
 ## Err is about supporting journey, less control for success - Permission to err
 
 * Ref - 100/020_err_is_ok.txt - "Permission to err " 

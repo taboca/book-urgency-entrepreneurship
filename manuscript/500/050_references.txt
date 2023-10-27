@@ -118,6 +118,13 @@ MIT (Producer). (2015, May 19). User Innovation: A Path to Entrepreneurship [Vid
 von Hippel, E. (2005). Democratizing Innovation. The MIT Press. DOI: https://doi.org/10.7551/mitpress/2333.001.0001
 
 <!-- 
+
+ 200 / 040_induction_embedded_everything
+ --> 
+
+Drucker, P. (2012). Tecnologia, Administração e Sociedade. Elsevier Editora LTDA.
+
+<!-- 
  200/230_self_confirmation_bias_social_identity.txt
  000/100_introduction.txt
 

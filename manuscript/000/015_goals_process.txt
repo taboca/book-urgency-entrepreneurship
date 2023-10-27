@@ -6,13 +6,11 @@ v0.3
 
 --> 
 
-## Feedback roamap and editorial towards publishing 
+## Level 1 - Feedback roamap and editorial towards publishing 
 
 * Need for a Summary and Structure Outline - stemming from the book’s vision and intentions, taking into consideration the audience, specific niche, subject, SCqA proposal pitch, etc. [Feat. Vanessa] who pointed this out as being an 'important step' when Marcio claimed he knows he needs to involve people, and in this sense, found himself lost with a concern of the type 'What if the person is somewhat standardized or professionally mechanical and doesn’t understand the vision behind words that are still underdeveloped, needing refinement'. 
 
-## Launching, pre-launching and externalization 
-
-## Plano estratégico, atualização 
+## Level 1 - Launch path 
 
 * Pesquisa sobre os livros que se impulsionaram no Catarse - Catarse é rede social de crowdfunding. [Feat. Luisa] Indica que viu projeto de livros que nasceram no Catarse.
 
