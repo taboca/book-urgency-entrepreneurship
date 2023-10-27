@@ -32,7 +32,7 @@
 
 200/000_part2.txt
 
-200/030_razoes_para_correr.txt
+#200/030_razoes_para_correr.txt
 200/040_induction_embedded_everything.txt
 200/050_super_fast_really_works.txt
 200/060_effort_denial_of_management_23106f99-20fd-4049-b69d-e9bde758902e.txt

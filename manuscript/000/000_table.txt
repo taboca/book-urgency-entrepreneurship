@@ -1,8 +1,8 @@
 # Todo # 
 
-* ( ) Editor review - Check (GROVEDATA, p.116) - real Andy Grove reference. 123e4567-e89b-12d3-a456-426614174000
+* ( ) Content structure review - Inercia movement - Marcio had removed 030_razoes_para_correr.txt from the part 2  but the article touches the subject of induction as a movment that does not want to stop. We need to check and celebrate if this idea has a place. In addition there is a reference to a note from Ogilvy. 
 
-* ( ) Approval review - with John Lilly - if the story of UI firefox can be depicted as I did in 090_saying_thanks_reflections.txt. / f47ac10b-58cc-4372-a567-0e02b2c3d479
+* ( ) Editor review - Check (GROVEDATA, p.116) - real Andy Grove reference. 123e4567-e89b-12d3-a456-426614174000
 
 * ( ) Review Andy Grove's maturity within 470_culture_productivity which is poited by Michael Dearing's course GM2 / f47ac10b-58cc-4372-a567-0e02b2c3d479 Marcio believes that maturity as indicated by Andy Grove in High Output Management has a connection with the model from effort to high-order objectives that might also transcend objectives. 
 
@@ -72,3 +72,7 @@ https://chat.openai.com/share/b7eb16c5-4c18-4709-9220-bd2629f34a3d
 ## Done
 
 * (Done, removed from 100 and kept under thanks) Check the story of the designer vs. the ceo which is also shown in 090_saying_thanks_reflections.txt and here 100_operating_systems.txt / 123e4567-e89b-12d3-a456-426614174000
+
+## Reviews external
+
+* ( ) Approval review - with John Lilly - if the story of UI firefox can be depicted as I did in 090_saying_thanks_reflections.txt. / f47ac10b-58cc-4372-a567-0e02b2c3d479
