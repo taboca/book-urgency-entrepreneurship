@@ -58,16 +58,11 @@ And to deal with communication like that it is a problem, we can be arbitrary.
 
 As we move on - with a rationale that sets communication as a theme of highest priority in entrepreneurship - let us first recognize the phenomenon that appears like an obsession where we see communication as a tool for achieving results, such as a tool to convince, which paradoxically rises from the merits, or the beauty, of great communicative experiences. In other words, our attention is generally captured by the narratives given by communicative experiences and miss the entire birthplace of how great communicative experiences are born. As if we enjoy smart kids but ignore the educational process that starts from the early days. The point missed is clearly made relevant for management by Peter Drucker in Technology, Management and Society; in the article entitied "Informação, Comunicação e Compreensão": 
 
-> *"Os escritores costumam dizer: 'Uma frase truncada sempre revela uma mente confusa. Não é a frase que precisa ser reformulada, mas o pensamento por trás dela.' Ao escrever, claro, tentamos nos comunicar com nós mesmos. Uma frase pouco clara é aquela que excede nossa própria capacidade de percepção. Trabalhar na frase em si, isto é, trabalhar no que geralmente é chamado de comunicação não resolve o problema. Temos de trabalhar em nossos próprios conceitos primeiro para conseguir entender o que estamos tentando dizer - é só então estaremos aptos a escrever."* Peter Drucker (p.6, 2012)
+> *"There is a very old saying among writers: 'Difficulties with a sentence always mean confused thinking. It is not the sentence that needs straightening out, it is the thought behind it. In writing we attempt, of course, to communicate with ourselves. An unclear sentence is one that exceeds our own capacity for perception. Working on the sentence, that is, working on what is normally called communications, cannot solve the problem. We have to work on our own concepts first to be able to understand what we are trying to say - and only then can we write the sentence."* (Drucker, 2011, p. 6)
 
 <!-- 
 
-( ) Fix the Peter Drucker quote with the English book on 040_induction_embedded_everything / 123e4567-e89b-12d3-a456-426614174000
-references
-
-Give me APA reference for the book of Peter Drucker, 2012, Tecnologia, Adminstração e Sociedade, publisher Elsevier Edutora LTDA, copyright 2012, 
-
-Drucker, P. (2012). Tecnologia, Administração e Sociedade. Elsevier Editora LTDA.
+Drucker, P. (2011). Technology, management, and society. Routledge.
 
 --> 
 

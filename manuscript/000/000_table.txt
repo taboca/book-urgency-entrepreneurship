@@ -1,7 +1,5 @@
 # Todo # 
 
-* ( ) Fix the Peter Drucker quote with the English book on 040_induction_embedded_everything / 123e4567-e89b-12d3-a456-426614174000
-
 * ( ) In the intro of foreword, there is "on one hand" and "on the other hand" and also a third element. I figure that it would ironic and interesting to continue the third aspect with "on yet another hand". 
 
 * ( ) ( ) Insert growth and loliness into 970_winning, consider the incorporation of the following, perhaps in the place of "splitting the love". 39084-4901374-340978-3091271 
@@ -78,6 +76,8 @@ https://chat.openai.com/share/b7eb16c5-4c18-4709-9220-bd2629f34a3d
 ## Done
 
 * (Done, removed from 100 and kept under thanks) Check the story of the designer vs. the ceo which is also shown in 090_saying_thanks_reflections.txt and here 100_operating_systems.txt / 123e4567-e89b-12d3-a456-426614174000
+
+* (x) Fix the Peter Drucker quote with the English book on 040_induction_embedded_everything / 123e4567-e89b-12d3-a456-426614174000
 
 ## Reviews external
 

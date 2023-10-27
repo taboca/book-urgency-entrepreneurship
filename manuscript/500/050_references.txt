@@ -122,7 +122,7 @@ von Hippel, E. (2005). Democratizing Innovation. The MIT Press. DOI: https://doi
  200 / 040_induction_embedded_everything
  --> 
 
-Drucker, P. (2012). Tecnologia, Administração e Sociedade. Elsevier Editora LTDA.
+Drucker, P. (2011). Technology, management, and society. Routledge.
 
 <!-- 
  200/230_self_confirmation_bias_social_identity.txt
