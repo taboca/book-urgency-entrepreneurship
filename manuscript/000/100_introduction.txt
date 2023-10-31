@@ -94,14 +94,35 @@ Thus the focus area in our book comes down to reflecting on this accelerated pac
 <!--
 Another aspect of how we experience - Data and information 
 --> 
-Beyond what seems to be a narrative pushing for accelerated effort, the fast-paced mode of execution has also infiltrated the context of management analysis and planning. Things have not sped up simply because people are running more, working more intensively, or because managers coordinate the frantic pace because they enjoy it. The fast mode is supported by functions, or resources, that are “ready” and available at hand. In the American Wild West, a saw in the hand of a carpenter was a piece of work that deserved attention and care, finding the correct speed, finding the correct use. An apprentice considering the tool would find a mentor, perhaps in the form of a master, but there was an environment for learning. In the modern reality of the knowledge manager, data have come to be used as tools, as mechanisms to accelerate decisions. [There is an article by Peter Drucker that says technology is work. Perhaps it is a special foundation that justifies this almost aberration where data become tools. On one hand, an aberration, on the other, it is necessary to talk about it because this is being done in day-to-day operations.] The former CEO of Intel, Andy Grove, in "Arguing with Data," warned [^grovefastdata] readers that large companies are indoctrinated by contemporary management, suggesting that people should argue their debates with data already in hand (GROVEDATA, p.116).
+Beyond what seems to be a narrative pushing for accelerated effort, the fast-paced mode of execution has also infiltrated the context of management analysis and planning. Things have not sped up simply because people are running more, working more intensively, or because managers coordinate the frantic pace because they enjoy it. The fast mode is supported by functions, or resources, that are “ready” and available at hand. 
+
+In the modern reality of the knowledge worker, data have come to be used as tools, as mechanisms to accelerate decisions. The former CEO of Intel, Andy Grove, in "Arguing with Data," warned [^grovefastdata] readers that large companies are indoctrinated by contemporary management, suggesting that people should argue their debates with data already in hand (GROVEDATA, p.116).
 
 <!--
 ( ) Check 123e4567-e89b-12d3-a456-426614174000
 --> 
 [^grovefastdata]: In Andy Grove's book, "Only the Paranoid Survive," the quoted phrase in English reads, “Contemporary management doctrine suggests that you should approach any debate and argument with data in hand. It’s good advice. All too often, people substitute opinions for facts and emotions for analysis.” The warning applies to what he termed a "Strategic Inflection Point," situations so adverse and unexpected that they befuddle companies. Intel survived crises of this magnitude and later also became a leading player. In these situations, the anticipatory data can be misleading.
 
-This form of operating decisions — with data — provokes us to reflect upon the mechanization of cognition, which runs together to the pressure of greater efficiency at work. The presence of data becomes concrete, providing people with good data which supports good reasons when faced with a decision that needs to be made. Data captivate us, certainly, because they work so well, when they do work. Like a tool, like a saw.
+<!--
+
+## editorial and writing insight - growing abstration 
+
+Following advice from William Zinsser, we then contextualize a higher abstracted degree, giving value to the specifics above. 
+
+--> 
+
+In Technology, Management, and Society, Peter Drucker has contextualized that the situation of information abundance does impact effective communications which was stressed as the kind of communication where the receiver effectively understand and collaborates, as opposed to passively accept the message: 
+
+> *"More and better information does not solve the communication problem, nor does it bridge the communication gap. On the contrary, the more information the greater is the need for functioning and effective communication becomes. The more information available, in other words, the greater is the communications gap likely to be. The more impersonal and formal the information process in the first place, the more will it depend on prior agreement on meaning and application, that is, on communications. In the second place, the more effective the information process, the more impersonal and formal will it become, the more will it separate human beings and thereby require separate, but also much greater, efforts, to re-establish the human relationships, the relationship of communication. It may be said that the effectiveness of the information process will depend increasingly on our ability to communicate, and that, in the absence of effective communication - that is, in the present situation - the information revolution cannot really produce information. All it can produce is data."*
+> (Drucker, 2011, p. 15)
+
+<!-- 
+## Reference 
+
+Drucker, P. (2011). Technology, management, and society. Routledge.
+--> 
+
+This form of operating decisions — with data — provokes us to reflect upon what can apparently look like a mechanization of cognition, which runs together with the the pressure of greater efficiency at work. The presence of data becomes concrete, providing people with "good data" which supports good reasons when faced with a decision that needs to be made. Data captivate us, certainly, because they work so well, when they do work.
 
 <!--
 ( ) Consider to put a Peter Drucker on Communications, note about information and Communication
