@@ -3,11 +3,20 @@
 
 ## Todo 
 
+* p1, ( ) insight - check containment protection notion (feat. Julia Cameron, p178-180) with 210_automatic_reaction_breaking and "lean narratives" or #okr #shock-absorbers - check if group thinking carrying values, such as values tied to outcomes, can supress the opportunity when growth of an individual would be possible, ideas for example, by using "he is best at" could lead to reaarangement into mediocre too - this Julia indicates writers in potential becoming journalists - as seen we supress the inner self that could save the situation. Thus, the topic of protection before critics. Might tie with case of "containment" by Julia Cameron, p168-170, check her amazing quotes on picking the friendly critis or friendly editor vs. protecting. Marcio had designed a notion of a black box producer in the face of a critic, when "under development" or vulnerable work, if seem from as a box, might be killed as exposed. But a strategic growth developer-coach, might see into the box, and unbundle, allowing growth, like p178-180 Julia Cameron indicates. Thus the management consideration could have to do with bundle to criticize and unbundle to allow development and growth. 9438988-4304093490-04304903-4928408 (lean, breaking auto reaction)
+
 * ( ) Check feeling insight - Vanessa one day said "I will not have the fear anymore" as she was referring to the fear that blocks her from saying no to her patients, like to charge them or to inform them of their lack of presence. 
 
-* p1, ( ) reorder - It seems that "time for unreadiness" has to do with Julia Cameron's Containment concept, where protection has to exist, and the nurturing of the critic for growth to emerge, the one that is compassionate for the under development collaborator. This is under a subsection within 210_automatic_reaction_breaking... ref 43849384-43984983-4938948-5935935
+* p1, ( ) reorder - It seems that "time for unreadiness" has to do with Julia Cameron's Containment concept, where protection has to exist, and the nurturing of the critic for growth to emerge, the one that is compassionate for the under development collaborator. Pick quotes from The Right to Write .168-170. This is under a subsection within 410_automatic_reaction_breaking... ref 43849384-43984983-4938948-5935935
 
-* ( ) Style and wording - In "autopilot vs. manual" which is a title that should be revisited; nevertheless, if "autopilot vs. manual" is a seriously considered metaphor, we might need a clear idea that manual, for most people, is a sort of autopilot anyway. Thus, if people think that "manual" is autopilot, the title serves for nothing. It confuses them. Anyway, assuming that the point of "manual" is strategic allowance for solving that is ahead and unknown, then the point is to really consider the strategies, such as replacements like "the redesign of another autopilot", replacing the executor that is going towards vacation, pre-mortem of the role of strategy for the sake of using another, and more. 
+* ( ) Title style and idea - In "autopilot vs. manual" which is a title that should be revisited; nevertheless, if "autopilot vs. manual" is a seriously considered metaphor, we might need a clear idea that manual, for most people, is a sort of autopilot anyway. Thus, if people think that "manual" is autopilot, the title serves for nothing. It confuses them. Anyway, assuming that the point of "manual" is strategic allowance for solving that is ahead and unknown, then the point is to really consider the strategies, such as replacements like "the redesign of another autopilot", replacing the executor that is going towards vacation, pre-mortem of the role of strategy for the sake of using another, and more. 
+
+## Check this (Was under 300_execution_urgency_neglecting_redesign  )
+
+### Consider that things can be blocking our way 
+
+O nosso ser gestor pode não estar preparado. Assim, por um lado é merecedor de uma criação e por lado é o mesmo ser, que faz a gestão de tudo isso. Não se engane - é possível ter uma vida de sucesso, por um lado e ao mesmo tempo levar o sucesso com uma conta paralela, uma mal gestão. Aliás muitos dos artistas da história produziam suas artes com a geração de resíduos, muitas vezes até tóxicos, em paralelo. Aliás talvez essa questão seja de fato um dilema dos artistas e uma questão que afeta os empreendedores também. A autora Julia Cameron, especializada em ajudar artistas a enfrentarem seus bloqueios revelou que ela havia vivido uma época que sua criatividade soltava em surtos, como uma veia que jorra sangue, e que entre os surtos de criatividade ela de fato precisava beber. Ela mudou, se redescobriu, passou a tentar gerir sua criatividade, sua produção, para que a produção não dependesse deste custo paralelo, desse acúmulo residual que de fato lhe consumia. Checar isso.
+
 
 ## Title 
 
@@ -25,7 +34,15 @@
 
 Gendler, T. (2012). Fraqueza da Vontade e Procrastinação [Vídeo]. YouTube. https://www.youtube.com/watch?v=xp3m7e9T72k
 
-## SCqA (deprecated, it is a dup of 300_execution_urgency_neglecting_redesign)
+## SCqA 
+
+### SCqA v0.2 
+
+* Subject - When things start to work, we are driving by feedback, but we might fail to track feedback by the right goggles. 
+* Situation - The breakfast place start to happen, we fail to see future in the past
+* Complication - How to be strategic and open space for important? And to not fear discovering and design of what is important. 
+
+### SCqA v0.1 (deprecated, it is a dup of 300_execution_urgency_neglecting_redesign)
 
 * Subject - Deals with the denial of execution with no room allowed for breaking present needs. 
 
