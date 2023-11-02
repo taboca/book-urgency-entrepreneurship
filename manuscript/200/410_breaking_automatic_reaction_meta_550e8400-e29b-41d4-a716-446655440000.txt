@@ -3,10 +3,15 @@
 
 ## Todo 
 
+* ( ) Check feeling insight - Vanessa one day said "I will not have the fear anymore" as she was referring to the fear that blocks her from saying no to her patients, like to charge them or to inform them of their lack of presence. 
+
+* p1, ( ) reorder - It seems that "time for unreadiness" has to do with Julia Cameron's Containment concept, where protection has to exist, and the nurturing of the critic for growth to emerge, the one that is compassionate for the under development collaborator. This is under a subsection within 210_automatic_reaction_breaking... ref 43849384-43984983-4938948-5935935
+
 * ( ) Style and wording - In "autopilot vs. manual" which is a title that should be revisited; nevertheless, if "autopilot vs. manual" is a seriously considered metaphor, we might need a clear idea that manual, for most people, is a sort of autopilot anyway. Thus, if people think that "manual" is autopilot, the title serves for nothing. It confuses them. Anyway, assuming that the point of "manual" is strategic allowance for solving that is ahead and unknown, then the point is to really consider the strategies, such as replacements like "the redesign of another autopilot", replacing the executor that is going towards vacation, pre-mortem of the role of strategy for the sake of using another, and more. 
 
 ## Title 
 
+* v0.3 - Reconstructing growth feedback 
 * v0.2 - Autopilot
 * v0.1 - You just don't turn it off 
 
@@ -20,7 +25,7 @@
 
 Gendler, T. (2012). Fraqueza da Vontade e Procrastinação [Vídeo]. YouTube. https://www.youtube.com/watch?v=xp3m7e9T72k
 
-## SCqA 
+## SCqA (deprecated, it is a dup of 300_execution_urgency_neglecting_redesign)
 
 * Subject - Deals with the denial of execution with no room allowed for breaking present needs. 
 

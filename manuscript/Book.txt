@@ -17,7 +17,6 @@
 
 100/020_err_is_ok.txt
 100/050_rainbow_grayscale.txt
-100/210_breaking_automatic_reaction_550e8400-e29b-41d4-a716-446655440000.txt
 
 100/300_execution_urgency_neglecting_redesign_f47ac10b-58cc-4372-a567-0e02b2c3d479.txt
 100/600_driven_by_fear.txt
@@ -47,6 +46,7 @@
 #100/750_control_urgency_to_please.txt
 
 200/350_first_to_friends_no.txt
+200/410_breaking_automatic_reaction_550e8400-e29b-41d4-a716-446655440000.txt
 200/450_urgent_vs_important_9d8b7e90-04b2-468a-990e-5a5b68b28c42.txt
 200/500_executive_communication.txt
 200/610_lean_no_lean_1.txt
