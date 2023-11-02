@@ -33,7 +33,7 @@ Como irá planejar sem saber. Caso anterior [?] cliente fácil versus cliente di
 
 A ideia de “status atual”, a demanda, a quantidade de clientes, a quantidade de alunos que você tem, etc. Isso é o presente, que também envolve a capacidade atual de atendimento, como sua energia disponível, agenda disponível, ou mesmo insumos em estoque. Se fosse no caso da sua banca na feira, seria aquilo que você tem na bancada que está mais ou menos previsto em cima da quantidade de pessoas que passa e seu planejamento e capacidade atual de fornecimento. Este então é o presente atual, ou status do presente.
 
-### No time to map the cause 
+### No time to map the cause (how we experience)
 
 Here we might consider the strategy that you, in the heat, 
 
@@ -55,7 +55,15 @@ Dai vem a pergunta — ah mas eu tenho que tentar prever tudo? Preciso de um con
 
 Com essa ideia, podemos melhor olhar para todos os eventos novos do presente como eventos que devem ser mapeados. A empreendedora precisa ser, acima de tudo, uma colecionadora de dados, uma analista. Digamos que você tem só 5 clientes e todos eles pagam no dia correto porque o seu tempo é livre e você está sempre em contato com eles. Daí se você entrasse em uma máquina do tempo, quando viu o futuro com 50 clientes mas 10% deles estão atrasando o pagamento.
 
-## Protecting an investment 
+### Protected by market - no permission to not scale and see through
+
+<!-- took from here, moved into 410_automatic_reaction_breaking --> 
+
+A expressão "faça coisas que não escalam" foi lançada por Paul Graham (PG) em Julho de 2013 para ajudar empreendedores que sofrem de uma síndrome: Quando eles só tentar executar um crescimento precoce e ficam impedidos de aprender. Com essa ideia PG não quer que o empreendedores fiquem parado no tempo. Ele quer que eles possam ganhar o jogo, no final; não exatamente ganhar só a primeira partida.
+
+Inspiração — "Quase todas as startups são frágeis, inicialmente. E essa é uma das maiores coisas que fundadores inexperientes e investidores (e repórteres e os sabe-tudo de fóruns) entendem errado sobre elas. Eles inconscientemente julgam startups embrionárias pelos padrões das que estão já estabelecidas. Eles parecem alguém olhando para um bebê recém-nascido e concluindo "não há nenhuma maneira desta pequena criatura jamais alcançar qualquer coisa." Paul Graham [1]
+
+## Protecting values  - combine with principles?
 
 Agora imagine você voltando na máquina do tempo para o dia que o primeiro cliente atrasou para olhar a sua cara. E agora você está pasma, porque o primeiro cliente que atrasou não foi percebido como um problema por você. Talvez as coisas ficam até mais difíceis ainda porque normalmente o empreendedor nem acredita que seu negócio está crescendo.  Ou ainda porque prefere lidar com o problema no dia que tiver 50 clientes e 10% deles não estão pagando. Tipo, aquela notícia “triste” que todo mundo sonha — ah, se um dia 10% de 500 clientes não pagarem vou estar bem! Mas veja bem, a empreendedora não tem porque ficar parada esperando as coisas acontecerem. E nem sempre trabalhar em buscar novos clientes é a melhor solução, já que tem clientes e clientes. Então o que ela pode fazer é abrir espaço para o negócio em movimento — como sua organização, serviço ou fábrica (barraquinha, seja o que for) está mudando no tempo? Com esse olhar ela abre uma fenda na agenda, um pouco do seu tempo para o trabalho de observar detalhes, a princípio; com o objetivo de eventualmente inserir experimentos para atender as demandas.
 
@@ -77,7 +85,7 @@ Em essência, você faz um compromisso onde, de certa forma, passa a "se enganar
 
 Em conclusão, sabemos que nossa reação inata pode nos compelir a corrigir problemas rapidamente - o que é bom. Porém, nossa reação automática e rápida também pode ser pausada e pedir um momento de re exão - sobre nossas possíveis ações. Ainda, podemos justificar acionarmos o pensamento estrategico que pode abrir caminho para soluções de longo prazo. Ao refletirmos sobre as nossas tendências naturais, podemos iniciar mudanças positivas, nos levando mais rápido para um futuro melhor. 
 
-### Protecting by leadership 
+### Protecting by leadership
 
 Requires respect to the fact that things won't go so well as I am doing manually. 
 
@@ -91,7 +99,7 @@ When she really faces the fact that the release of herself is likely necessary, 
 
 Therefore, it seems that part of what management does is really about automation which aims for producing change in the organization. Or, change that serves growth. 
 
-### Protecting by unreadiness 
+### Protected by readiness, protecting unreadiness 
 
 <!--
 
@@ -168,8 +176,9 @@ Connection: Investigate how Maslow's work supports the concept of needing to be 
 
 Not unlike, it also happens in the life of writers, as illustrated by Julia Cameron (1998) in 'The Right to Write'. It is a phenomenon that plagues all sorts of professionals, especially those in leadership or entrepreneurial roles.
 
+## Conclusion 
 
-
+As interpersonal relationship arises, feedback systems chimes in. We gotta be driven by and free of. And going back to values of higher-order goals, going back to values of a system that gives people opportunity to grow, are important aspects to nurture time for. Thus, it is the responsibility of the entrepreneur and the executive team to deal with this, to use time for this, mapping, unbundling, being a critic and being a growth mentor, giving permission too, openning protective spaces of bets and separating risk analysis. 
 
 
 

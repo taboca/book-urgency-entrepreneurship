@@ -9,6 +9,8 @@
 
 ## Value and scale 
 
+<!-- took from here, moved into 410_automatic_reaction_breaking --> 
+
 A expressão "faça coisas que não escalam" foi lançada por Paul Graham (PG) em Julho de 2013 para ajudar empreendedores que sofrem de uma síndrome: Quando eles só tentar executar um crescimento precoce e ficam impedidos de aprender. Com essa ideia PG não quer que o empreendedores fiquem parado no tempo. Ele quer que eles possam ganhar o jogo, no final; não exatamente ganhar só a primeira partida.
 
 Inspiração — "Quase todas as startups são frágeis, inicialmente. E essa é uma das maiores coisas que fundadores inexperientes e investidores (e repórteres e os sabe-tudo de fóruns) entendem errado sobre elas. Eles inconscientemente julgam startups embrionárias pelos padrões das que estão já estabelecidas. Eles parecem alguém olhando para um bebê recém-nascido e concluindo "não há nenhuma maneira desta pequena criatura jamais alcançar qualquer coisa." Paul Graham [1]
