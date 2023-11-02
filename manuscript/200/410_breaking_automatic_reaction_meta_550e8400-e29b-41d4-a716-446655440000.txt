@@ -20,6 +20,8 @@ O nosso ser gestor pode não estar preparado. Assim, por um lado é merecedor de
 
 ## Title 
 
+* v0.5 - Breaking urgency 
+* v0.4 - Breaking feedback-based growth
 * v0.3 - Reconstructing growth feedback 
 * v0.2 - Autopilot
 * v0.1 - You just don't turn it off 

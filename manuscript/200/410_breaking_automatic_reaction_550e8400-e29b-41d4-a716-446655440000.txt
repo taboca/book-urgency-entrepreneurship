@@ -1,4 +1,4 @@
-# Breaking feedback-based growth
+# Breaking urgency
 
 The subject of this chapter relates to the theme important vs. urgent. This idea is easily visualized with the Eisenhower matrix [footnote_matrix_important_vs_urgent]. Let's visit the old west and imagine that the hourseshoes of your horse is damaged. And you do your job with your horse, so a natural response, following instincts, is to fix the horse, pronto, to bring back the equilibrium, eliminate the loss. Essa resposta automática está profundamente enraizada no princípio da aversão à perda, um conceito em economia comportamental que postula que a dor da perda é sentida mais profundamente do que a alegria de ganho equivalente. Somos essencialmente programados para reagir rapidamente, para mitigar as perturbações do nosso 'normal conhecido.'
 
@@ -14,11 +14,7 @@ Check - fear of loss, used, above, which was brought up in other chapter.
 
 --> 
 
-No entanto, essa resposta instantânea e centrada na reparação representa uma complicação: enfatiza o aqui e agora, preservando nosso estado presente. Mas será que essa mentalidade reativa limita nossa capacidade de imaginar, e portanto aspirar a, um sistema melhor? Ao nos concentrarmos exclusivamente em corrigir o problema imediato - o casco quebrado - estamos perdendo a oportunidade de evitar tais problemas no futuro?
-
-## Back to the past, and future 
-
-Para tratar essa complicação, recorremos à teoria da gestão. Em seu livro pioneiro "Gestão de Alta Performance", Andy Grove usa a analogia da 'fábrica de café da manhã' para ilustrar como os problemas de hoje frequentemente se originam em decisões passadas, ou indecisões. Grove sugere uma abordagem voltada para o futuro - estratégias de hoje para evitar possíveis problemas amanhã.
+No entanto, essa resposta instantânea e centrada na reparação representa uma complicação: enfatiza o aqui e agora, preservando nosso estado presente. Mas será que essa mentalidade reativa limita nossa capacidade de imaginar, e portanto aspirar a, um sistema melhor? Ao nos concentrarmos exclusivamente em corrigir o problema imediato - o casco quebrado - estamos perdendo a oportunidade de evitar tais problemas no futuro? Para tratar essa complicação, recorremos à teoria da gestão. Em seu livro pioneiro "Gestão de Alta Performance", Andy Grove usa a analogia da 'fábrica de café da manhã' para ilustrar como os problemas de hoje frequentemente se originam em decisões passadas, ou indecisões. Grove sugere uma abordagem voltada para o futuro - estratégias de hoje para evitar possíveis problemas amanhã.
 
 Portanto, em vez de apenas reagir para consertar o casco danificado, investigue as causas subjacentes. Ajustes na atenção, dieta ou ambiente poderiam evitar problemas semelhantes no futuro? Ao dedicar um momento para refletir sobre essas questões, passamos de uma postura reativa para uma postura proativa, preenchendo a lacuna entre os problemas existentes e as soluções futuras.
 
