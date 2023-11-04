@@ -1,43 +1,9 @@
-# Conscious feedback 
-
-Para todo empreendimento tem uma questão complicada que é o lançamento. Alguns empreendedores dizem lançamento; já outros dizem inauguração. Ainda, existem casos malucos que surgiam no mundo online onde empreendedores ficam lançando múltiplas vezes, novo e de novo. Em todos os casos uma coisa é certa — que não existe serviço ou produto que é pré-pensado de forma perfeita, onde as coisas persistem no formato original. Em outras palavras, não existe produto que sobrevive ao primeiro contato com o cliente sem sofrer modificações. Isso mesmo, o cliente matará seu produto e por isso precisamos refletir sobre as primeiras interações, sobre as pessoas que interagem e sobre como fazer a leitura correta.
-
-Primeiro, vamos abordar o caso dos múltiplos lançamentos, já que este caso carrega a ideia sobre aprendizado. Uma boa ilustração está na história do Airbnb. Segundo o co-fundador Brian Chesky (2015), o Airbnb foi relançado várias vezes. Com os múltiplos lançamentos, o projeto inicial foi se tornando conhecido. Eles comunicavam para blogueiros que escreviam sobre o Airbnb de forma orgânica (não eram remunerados) e isso abriu caminho para que publicações mais importantes, como CNN ou New York Times, eventualmente escrevessem.
-
-Segundo relata o Brian, eles podiam relançar o site várias vezes porque se ninguém havia visto, então poderiam assumir que não estava lançado! Essa situação real do Airbnb acompanha aquele ditado que diz que se uma árvore caiu na floresta e ninguém viu então será que ela realmente caiu?
-
-Mas a questão importante não está no lançar por lançar e sim nas questões de aprendizado e ações de mudanças a partir das experiências reais. Então podemos dizer que a ideia de múltiplos lançamentos é uma ideia na linha do movimento lean que diz — vamos usar uma abordagem experimental. Desta forma podemos ir testando e aprendendo. No caso do Airbnb, os fundadores tiveram a oportunidade de participar durante os lançamentos, de viver junto com a comunidade, ouvindo os usuários e descobrindo oportunidades com uma interação mais direta.
-
-Assim, a ideia geral é aprender. Mas a partir dessa ideia precisamos falar sobre os tipos de usuários já que não queremos aprender errado. Para isso vamos começar com família e amigos que demanda abordar o assunto da honestidade. Honestidade é uma questão importante porque o empreendedor quer que o mundo ofereça um feedback honesto. Mas isso é difícil porque ao mesmo tempo o empreendedor quer ser bem sucedido. Então existe um dilema, no meio dessa urgência, entre fazer acontecer a história do sucesso e receber as notícias como elas são de fato. E falar de família e amigos é importante porque essas pessoas também vivem, de certa forma, no mesmo “balaio” do dilema. Um amigo empreendedor, por exemplo, pode querer lhe encorajar e por isso pode ficar acanhado em lhe dizer verdades que poderiam machucar ou desmotivar. O mesmo ocorre com família. Dependendo da cultura familiar, o empreendedor pode receber um feedback que não é honesto, ou que é muito superficial, porque a pessoa quer agradar, quer motivar; ou em alguns casos até desmotivar já que muitas vezes a questão da motivação ou desmotivação está atrelada com questões do nível de relacionamento. Um amigo poderia lhe desmotivar ao focar somente nos riscos justamente porque ele está com medo que você possa falhar.
-
-Segundo Reid Hoffman [The Startup of You] o relacionamento da amizade cria uma situação difícil para um feedback honesto e isso explica como é difícil, por exemplo, demitir um amigo na empresa. (Pegar referência do livro do Reid  e exemplo)
-
-A empreendedora Adora Cheung vai mais além e sugere o conceito da Curva da Honestidade (How to Start a Startup, 2014, 21:18). Ela que diz tem gente que simplesmente irá mentir para você. Vamos estudar como funciona a curva. No eixo vertical temos Nível de Honestidade (Honesty Level). No eixo horizontal temos o nível de relacionamento das pessoas começando com a mãe (mom) depois amigos depois pessoas:
-
-![Curva da honestidade](images/adora/honesty.png)
-
-Adora apresenta duas curvas com o nível de honestidade do feedback dado por diferentes tipos de pessoas. Primeiro vamos olhar para o produto que não é de graça (a curva vermelha acima), por exemplo um produto pago. Neste caso a sua mãe provavelmente será pouco honesta com você. Na medida que avançamos, para o lado dos amigos, veremos que eles são mais honestos que a mãe. Então, para produtos pagos, quanto mais distante, no rumo das pessoas anônimas, veremos mais honestidade.
-
-Aí você diz — ah mas minha mãe fala tudo na lata. Ou ainda, todos os meus amigos são honestos comigo. O problema é realmente saber a perspectiva que cada pessoa colocou na hora do feedback. O que ela queria quando estava te passando o feedback. Pode ser que essa pessoa irá mudar o olhar justamente porque tem um grau de amizade com você e quer seu melhor.
-
-O que aprendemos com isso? Que não podemos lançar nosso carrinho de lanche para a mãe e familiares. Ou eles vão mentir elogiando demais ou vão contrariar demais – por exemplo se você não usar o tempero da vovó?
-
-Na outra abordagem, quando os produtos são de graça, dai temos problemas em obter feedback de pessoas anônimas. Então se você fizer um lançamento de um produto e falar para o bairro que é free, e tentar pegar feedback, é bem provável que um monte de gente irá mentir falando que gostou. Talvez eles estejam simplesmente com fome.
-
-A questão do feedback da mãe é abordada pelo professor e psicólogo Adam Grant no livro Originais (????). Adam Grant coloca 4 tipos de pessoas nos quadrantes gerados por dois eixos. No eixo vertical temos, acima, aquele perfil de pessoa que ajuda os outros (giver) e abaixo o que quer tudo para ela (taker). No eixo horizontal, do lado direito aquela que negativista-discordante (disagreeable) e no lado esquerdo a pessoa positivista-concordante (agreeable):
-
-
-![Adam eixos concordante discordante](images/adam/agreeable-disagreeable.png)
-
-Adam sugere que o melhor perfil para buscar feedback é aquele que gosta de ajudar mas que faz de forma discordante ou honesta. Ou seja, aquele que não necessariamente concorda com tudo que você diz mas continua sempre do seu lado — aquele que continua dizendo “olha, eu acho que não vai dar certo porque tal e tal”. Para Adam, a mãe normalmente está no quadrante dos que querem ajudar mas concorda com tudo porque está influenciada pela relação.
-
-O ponto principal não é sobre o concordar ou discordar e sim sobre o grau de honestidade oferecido pelas pessoas. Ainda, torna-se relevante saber quem são elas. No caso do Espetinho de Carnes não é legal pegar o feedback de vegetarianos. Ou olhando por outro lado, talvez seja legal já que você espera que eles lhe digam que não é bom. Então no fundo mesmo o que vale é a consciência sobre a pessoa que está lhe oferecendo feedback, um trabalho quase que mais importante do que pegar o feedback em si.
-
-Mas isso não quer dizer que amigos não podem participar ou mesmo financiar seu projeto certo? O que estamos abordando aqui é a questão da leitura e interpretação do feedback na relação do produto; não a relação da família e amigos com o empreendimento em si.
 
 ## Pleasing 
 
 <!--
+
+( ) Read and do something with this. 
 
 ## Title 
 

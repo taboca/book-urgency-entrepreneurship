@@ -60,7 +60,8 @@
 
 200/700_irreducible_collaborator.txt
 200/705_hora_h.txt
-200/720_do_things_that_dont_scale.txt
+
+#200/720_do_things_that_dont_scale.txt - Moved into 550e8400-e29b-41d4-a716-446655440000 breaking reaction.
 
 200/800_collaboration_new_medium.txt
 200/900_awareness.txt
