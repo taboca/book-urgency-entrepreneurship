@@ -1,18 +1,29 @@
 # The feedback of urgency
 
-The subject of this chapter relates to the theme important vs. urgent. This idea is easily visualized with the Eisenhower matrix [footnote_matrix_important_vs_urgent]. Which consists of two dimensions - urgen and important, which let us draw that there are urgent things not important, urgent and important, non-urgent and non-important and non-urgent non-important. But that matrix would make a bit of sense of one really knows that is important, or better, to know how to discover the what is important that is covered by what we think is important. Or, in other words, the attempt to quickly draw the matrix would perhaps automatically allow us to come up with important things to do of an order such as dreams, ideal things; which does not help at all in the real world of the individuals figuring from pratical reality and intended to grow. 
+Although a lot of what we are reflecting have to do with taming urgency, and allowing a viewpoint, it comes a point where the interactions of the doer, the team executing, its success in terms of performance and effort to produce, creates a conditions for the theme - urgent vs. important.  This idea is easily visualized with the Eisenhower matrix [footnote_matrix_important_vs_urgent]. Which consists of two dimensions - urgen and important, which let us draw that there are urgent things not important, urgent and important, non-urgent and non-important and non-urgent non-important. These visualizations prompts the team to reason about what is going on now that could be taking time of something that could make things better. 
 
 [footnote_matrix_important_vs_urgent]:
 
-As we drive by movement, for action, prevents our failures to see how things perceived as important becomes drivers of urgent, leaving no room to what is important besides that, or the uncorfortable situation of looking and designing what is important for tomorrow. 
+As we drive by movement, for action, sets us into failures to see how things becomes drivers of urgent, leaving no room to what is important besides that, or the uncorfortable situation of looking and designing what is important to change the reality. 
 
-Let's visit the old west and imagine that the hourseshoes of your horse is damaged. And you do your job with your horse, so a natural response, following instincts, is to fix the horse, pronto, to bring back the equilibrium, eliminate the loss. Essa resposta automática está profundamente enraizada no princípio da aversão à perda, um conceito em economia comportamental que postula que a dor da perda é sentida mais profundamente do que a alegria de ganho equivalente. Somos essencialmente programados para reagir rapidamente, para mitigar as perturbações do nosso 'normal conhecido.'
+In other words, a complication is that urgent becomes ingrained in the machine of execution, because of feedback systems in place - we take care of urgent because we assume it is affecting an equilibrim, so that if that is so, it derives that we have a measurement system - directly explicit or indirect, a feedback system in place. As an illustration, setting our time machine to the old west and imagine that the hourseshoes of your horse is damaged. And you do your job with your horse, so a natural response, following instincts, is to fix the horse, pronto, to bring back the equilibrium, eliminate the loss. Essa resposta automática está profundamente enraizada no princípio da aversão à perda, um conceito em economia comportamental que postula que a dor da perda é sentida mais profundamente do que a alegria de ganho equivalente. Somos essencialmente programados para reagir rapidamente, para mitigar as perturbações do nosso 'normal conhecido.'
+
+### Review the question 
 
 No entanto, essa resposta instantânea e centrada na reparação representa uma complicação: enfatiza o aqui e agora, preservando nosso estado presente. Mas será que essa mentalidade reativa limita nossa capacidade de imaginar, e portanto aspirar a, um sistema melhor? Ao nos concentrarmos exclusivamente em corrigir o problema imediato - o casco quebrado - estamos perdendo a oportunidade de evitar tais problemas no futuro? 
 
-Portanto, em vez de apenas reagir para consertar o casco danificado, investigue as causas subjacentes. Ajustes na atenção, dieta ou ambiente poderiam evitar problemas semelhantes no futuro? Ao dedicar um momento para refletir sobre essas questões, passamos de uma postura reativa para uma postura proativa, preenchendo a lacuna entre os problemas existentes e as soluções futuras.
+### Review for the answer 
+
+Portanto, em vez de apenas reagir para consertar o casco danificado, investigue as causas subjacentes. Ajustes na atenção, dieta ou ambiente poderiam evitar problemas semelhantes no futuro? Ao dedicar um momento para refletir sobre essas questões, passamos de uma postura reativa para uma postura proativa, preenchendo a lacuna entre os problemas existentes e as soluções futuras. Isso seria ideal, mas ainda é com ose fosse teórico. 
 
 Muito se fala sobre a execução — o melhor empreendedor é aquele que executa, que tem a mente no presente. Talvez essa ideia pode ser genericamente expressada quando dizemos “pés no chão”.  Do outro lado temos sonhos, visão, missão, essas coisas. Com isso podemos formar dois eixos:
+
+* [s: Should we point Schumpeter on what is an entrepreneur as a doer? ]
+* [c: feedback - We cover struggles of networking?]
+* [c: feedback is tied - Review the principles helping us, growth, Paul Graham, growth might depend on selection]
+* [a: We should introduce and focus on feedback, present that the gap shift future is the option to break feedback]
+* [a: Grove as past , present, future]
+* [a: Awareness, transcending team's viewpoint]
 
 * X - execução
 * Y - ideias
@@ -21,33 +32,85 @@ Em geral, dizem que esse mapa sem balanço não gera frutos. Paul Graham tem um 
 
 Então de um lado existe essa ideia de balancear a execução com ideias, um processo que pode ser mediado pelo planejamento. Isso é uma ideia teórica que faz muito sentido em um mundo estático — onde nada muda. Onde nada muda o plano de negócios não precisaria mudar. Mas infelizmente não é o mundo onde vivemos. Hoje estamos na era onde tudo muda a todo momento. E pior, no caos dos eventos não fica tão fácil distinguir o que é ruído de sinal. Então é um “tudo muda” que confunde a execução ou que pode multiplicar o fator de risco e prejudicar o aprendizado na seara daqueles que executam com fazejamento. Fato é, de alguma forma seu empreendimento procura segurança e é isso o tema de navegar com base em feedback, que leva a pergunta sobre a possibilidade de criar um ambiente seguro para ver as coisas a frente, além do que assume-se que o equilíbrio presente. 
 
-Então do outro lado temos essa situação incerta pois planejamento torna-se complexo diante de um mundo dinâmico e incerto. Então vem a pergunta — como planejar diante de incertezas do ambiente externo? Ou melhor, o que é planejar em uma seara que não sabemos o que pode vir pela frente. Como irá planejar sem saber. Caso anterior [?] cliente fácil versus cliente difícil, da Vanessa [?]. Como saber o que é certo e não e como ter progresso? Pergunta — se você não sabe o que é o certo, então como planejar? Precisamos de um modelo, formal, de planejamento. Um modelo que ajude a sistematizar os aprendizados, acima de tudo. 
+### How we experience 
 
-A ideia de “status atual”, a demanda, a quantidade de clientes, a quantidade de alunos que você tem, etc. Isso é o presente, que também envolve a capacidade atual de atendimento, como sua energia disponível, agenda disponível, ou mesmo insumos em estoque. Se fosse no caso da sua banca na feira, seria aquilo que você tem na bancada que está mais ou menos previsto em cima da quantidade de pessoas que passa e seu planejamento e capacidade atual de fornecimento. Este então é o presente atual, ou status do presente.
-
-### Mapping of the factory (how we experience)
-
-Here we might consider the strategy that you, in the heat, 
-
-Mas algo de novo pode acontecer que muda a demanda atual - e não necessariamente temos que pensar somente em casos como “surgiram novos clientes”.
+#### Specific 
 
 Um exemplo de demanda nova pode ser simplesmente um evento não previsto como por exemplo um cliente que não pagou. Quando, do nada, um cliente não paga, normalmente o empreendedor vê isso como uma falha — uma coisa que não está certa e assim esse evento não entra no mapa do empreendedor. Mas aí está um problema porque essa falha pode acontecer de novo.
 
-Então outro ponto de vista é olhar esse evento como uma demanda nova. Sim, assim como “aparecer novos clientes” podemos melhor mapear o caso de “clientes não estão pagando” ou mesmo “clientes estão atrasando”. Olhando por essa ótica, você não julga, ainda se aquilo é bom ou ruim. Até porque padrões em eventos adversos, inclusive de eventos que parecem problemas ou questões “fora do eixo” podem ser oportunidades para a empreendedora adequar soluções, muitas vezes inclusive essas limitações criam as condições para ela ser criativa.
-
 Um exemplo seria o “não pagar no dia” que não quer que é um problema. Se visto como um problema, a empreendedora corre o risco de ignorar. Mas se visto como uma observação, e caso exista um padrão, ela pode por exemplo criar uma solução como oferecer créditos antecipados, permitir pagamento em parcelas, ou emprestar dinheiro para o cliente com juros, etc.
 
+#### Abstract the specific 
+
+A ideia de “status atual”, a demanda, a quantidade de clientes, a quantidade de alunos que você tem, etc. Isso é o presente, que também envolve a capacidade atual de atendimento, como sua energia disponível, agenda disponível, ou mesmo insumos em estoque. Se fosse no caso da sua banca na feira, seria aquilo que você tem na bancada que está mais ou menos previsto em cima da quantidade de pessoas que passa e seu planejamento e capacidade atual de fornecimento. Este então é o presente atual, ou status do presente.
+
+Mas algo de novo pode acontecer que muda a demanda atual - e não necessariamente temos que pensar somente em casos como “surgiram novos clientes”.
+
+Então outro ponto de vista é olhar esse evento como uma demanda nova. Sim, assim como “aparecer novos clientes” podemos melhor mapear o caso de “clientes não estão pagando” ou mesmo “clientes estão atrasando”. Olhando por essa ótica, você não julga, ainda se aquilo é bom ou ruim. Até porque padrões em eventos adversos, inclusive de eventos que parecem problemas ou questões “fora do eixo” podem ser oportunidades para a empreendedora adequar soluções, muitas vezes inclusive essas limitações criam as condições para ela ser criativa.
+
 Então esse é um olhar que diz que “você não sabe”, ainda, que um evento adverso é um problema; o que você quer é mapear a situação da nova demanda. Então a partir da demanda do presente você mapeia as demandas novas — já que tudo está em movimento. Agora, uma vez que você começa a contabilizar essa demanda nova; você passa mapear as consequências considerando esses eventos novos diante da sua máquina operacional projetada em cima da demanda do presente. Por exemplo, além do mapeamento que “clientes estão atrasando o pagamento” você faz uma análise sobre as consequências, sobre os danos, com projeções.
+
+#### Complication solved by answer introduce Andy's  (past)
 
 Vale lembrar que a tendência da empreendedora é tentar responder, em tempo real. Na hora H, na hora do problema. Pô, o cara não pagou — vou falar com ele. Ou o outro extremo, não pagou, não posso fazer nada. Mas é aqui que realmente entra o finado ex-CEO da Intel — o Andy não via as falhas apresentadas no momento como falhas do presente. Se um problema foi identificado no momento é provável que o problema apareceu por uma não previsão no passado. Então significa que lá atrás, a empreendedora não sabia daquela possibilidade.
 
 Para tratar essa complicação, recorremos à teoria da gestão. Em seu livro pioneiro "Gestão de Alta Performance", Andy Grove usa a analogia da 'fábrica de café da manhã' para ilustrar como os problemas de hoje frequentemente se originam em decisões passadas, ou indecisões. Grove sugere uma abordagem voltada para o futuro - estratégias de hoje para evitar possíveis problemas amanhã.
 
-A demanda não é exatamente uma surpresa; muitas vezes você só está a encontrar ela com o tempo; salvo os fatos que sua própria criação gerou uma demanda nova e alterou as condições do ambiente. Mas no geral, ao menos de quem corta cabelo, o cliente que atrasa simplesmente um dia irá aparecer no novo salão que acabou de abrir. A consequência desse “deslocamento” ou entendimento que demandas aparecem, é que o empreendedor precisa estar ciente que ele precisa engajar no planejamento para o futuro. [Melhorar]
+#### Makes comparison of the stealing present and stealing difficult to see 
+
+MAnagement stealing of Andy vs. real stealling. The genius is the "factory" of Andy is exactly about a management trait to see if as a box. 
+
+#### Makes case that Andy's model is time travel (future)
+
+* Box present 
+* Box future 
+
+#### Consider to kill or a question? Can be presentd to intro the next?
 
 Dai vem a pergunta — ah mas eu tenho que tentar prever tudo? Preciso de um consultor super experiente em qualquer área? Existe tal guru? A ideia não é entrar na seara de ser um ser “sabe tudo" — esse seria o maior dos erros justamente porque o sabe tudo é mais um cego do que um sabe tudo já que o mundo é dinâmico. Mas a ideia de destacar, como demanda, e pensar que o problema do presente está fora do tempo, é uma chance para você agir com uma resposta de planejamento e não na opção padrão do fazejamento que muitas vezes poderia encobrir o problema. Com isso você passa a estabelecer um novo olhar em cima das coisas que acontecem. Por exemplo, imagine que um roubo acontece na sua loja. Ela foi roubada mas se você conseguir olhar que roubo é uma demanda, um novo evento que pode acontecer de novo, a resposta que você trabalha é em outro nível. Você pode provavelmente precisar colocar um seguro, ou câmeras, ou mesmo mudar a forma de distribuição de seu produto. Obviamente isso tudo é muito mais complicado na hora que as coisas acontecem — justamente porque eventos como roubos, ou mesmo atrasado de clientes, são situações que mudam nosso estado emocional. Mas na visão do Andy, o que você tem é uma fábrica, uma máquina, que opera fora do tempo — como se você pensasse que sua organização é uma peça mecânica imutável, que você comprou o ano passado e está operando hoje. Como uma fábrica não pode parar assim você a forma de orquestrar o mecanismo de evolução dela é agir fora do tempo.
 
-### Proteced by local-global representativeness 
+#### The answer of us now, Any and growth inspired 
+
+By forcing projoectsions of growth, looking as box, factory, it forces new operational reality, which lifts the gap and contrast with present "factory". Both helping to find urgent-important but also important-import that will need to take care. Besides the exercices, we will continue on how sometimes we are trapped by strong feedback systems of now influencing our inability to even do the exercise, and how some new perspectivees can help. 
+
+But to keep in mind that all will depend on what you are doing at the moment - thus the real trick will be always to access beyond instint into intuition which has to do with the after growth and depends on humble managemnt and conscious. 
+
+### Feedback amateur - Family situations are networking, representativeness, metworking way up 
+
+Assim, a ideia geral é aprender. Mas a partir dessa ideia precisamos falar sistemas de feedbacks que naturalmente procuramos como resposta para saber se estamos no caminho certo. Para isso vamos começar com família e amigos, como um caso ilustrativo mas bem real no mundo dos empreendedores, principalmente quando começam, já que começam de fato muito sozinhos [^footnote_sam_altman_entrepreneurs_lonely] que demanda abordar um assunto que pode ser visto como nível de honestidade. Honestidade é uma questão importante porque o empreendedor, em teoria, precisa de um feedback honesto. Mas isso é difícil porque ao mesmo tempo o empreendedor quer ser bem sucedido. Então existe um dilema, no meio dessa urgência, entre fazer acontecer a história do sucesso e receber as notícias como elas são de fato. 
+
+[^footnote_sam_altman_entrepreneurs_lonely]:
+
+E falar de família e amigos é importante porque essas pessoas também vivem, de certa forma, no mesmo “balaio” do dilema. Um amigo empreendedor, por exemplo, pode querer lhe encorajar e por isso pode ficar acanhado em lhe dizer verdades que poderiam machucar ou desmotivar. Ou o contrário. O mesmo ocorre com família. Dependendo da cultura familiar, o empreendedor pode receber um feedback que não é honesto, ou que é superficial, porque a pessoa quer agradar, quer motivar; ou em alguns casos até desmotivar, por exemplo projetando medos, já que muitas vezes a questão da motivação ou desmotivação está atrelada com questões de controle e proteção da outra pessoa. Um amigo poderia lhe desmotivar ao focar em questões de riscos porque ele está com medo que você possa falhar.
+
+#### Adora's case proves that friends and family are being mapped into the problem of networking 
+
+A empreendedora Adora Cheung vai além e sugere o conceito da Curva da Honestidade (How to Start a Startup, 2014, 21:18), indicando que tem gente que irá mentir. Vamos estudar como funciona a curva. No eixo vertical temos Nível de Honestidade (Honesty Level). No eixo horizontal temos o nível de relacionamento das pessoas começando com a mãe (mom) depois amigos depois pessoas:
+
+![Curva da honestidade](images/adora/honesty.png)
+
+Adora apresenta duas curvas com o nível de honestidade do feedback dado por diferentes tipos de pessoas. Primeiro vamos olhar para o produto que não é de graça (a curva vermelha acima), por exemplo um produto pago. Neste caso a sua mãe provavelmente será pouco honesta com você. Na medida que avançamos, para o lado dos amigos, veremos que eles são mais honestos que a mãe. Então, para produtos pagos, quanto mais distante, no rumo das pessoas anônimas, veremos mais honestidade.
+
+Aí você diz — ah mas minha mãe fala tudo na lata. Ou ainda, todos os meus amigos são honestos comigo. O problema é realmente saber a perspectiva que cada pessoa colocou na hora do feedback. O que ela queria quando estava te passando o feedback. Pode ser que essa pessoa irá mudar o olhar justamente porque tem um grau de amizade com você e quer seu melhor.
+
+O que aprendemos com isso? Que não podemos lançar nosso carrinho de lanche para a mãe e familiares. Ou eles vão mentir elogiando demais ou vão contrariar demais – por exemplo se você não usar o tempero da vovó?
+
+Na outra abordagem, quando os produtos são de graça, dai temos problemas em obter feedback de pessoas anônimas. Então se você fizer um lançamento de um produto e falar para o bairro que é free, e tentar pegar feedback, é bem provável que um monte de gente irá mentir falando que gostou. Talvez eles estejam simplesmente com fome.
+
+#### Case of Adam also creates a contrast of maturity for feedback of experts vs. feedback of immaturity 
+
+A questão do feedback da mãe é abordada pelo professor e psicólogo Adam Grant no livro Originais (????). Adam Grant coloca 4 tipos de pessoas nos quadrantes gerados por dois eixos. No eixo vertical temos, acima, aquele perfil de pessoa que ajuda os outros (giver) e abaixo o que quer tudo para ela (taker). No eixo horizontal, do lado direito aquela que negativista-discordante (disagreeable) e no lado esquerdo a pessoa positivista-concordante (agreeable):
+
+
+![Adam eixos concordante discordante](images/adam/agreeable-disagreeable.png)
+
+Adam sugere que o melhor perfil para buscar feedback é aquele que gosta de ajudar mas que faz de forma discordante ou honesta. Ou seja, aquele que não necessariamente concorda com tudo que você diz mas continua sempre do seu lado — aquele que continua dizendo “olha, eu acho que não vai dar certo porque tal e tal”. Para Adam, a mãe normalmente está no quadrante dos que querem ajudar mas concorda com tudo porque está influenciada pela relação.
+
+O ponto principal não é sobre o concordar ou discordar e sim sobre o grau de honestidade oferecido pelas pessoas. Ainda, torna-se relevante saber quem são elas. No caso do Espetinho de Carnes não é legal pegar o feedback de vegetarianos. Ou olhando por outro lado, talvez seja legal já que você espera que eles lhe digam que não é bom. Então no fundo mesmo o que vale é a consciência sobre a pessoa que está lhe oferecendo feedback, um trabalho quase que mais importante do que pegar o feedback em si.
+
+Mas isso não quer dizer que amigos não podem participar ou mesmo financiar seu projeto certo? O que estamos abordando aqui é a questão da leitura e interpretação do feedback na relação do produto; não a relação da família e amigos com o empreendimento em si.
+
+### Feedback Proteced by local-global representativeness, manipulation 
 
 <!-- 
 
@@ -65,36 +128,6 @@ Primeiro, vamos abordar o caso dos múltiplos lançamentos, já que este caso ca
 
 Segundo o relato de Brian, eles podiam relançar o site várias vezes porque se ninguém havia visto, então poderiam assumir que nada estava lançado! Essa situação do Airbnb acompanha aquele ditado que diz que se uma árvore caiu na floresta e ninguém viu então será que realmente caiu? Mas a questão importante não está no lançar por lançar e sim nas questões de aprendizado e ações de mudanças a partir das experiências reais. Então podemos dizer que a ideia de múltiplos lançamentos é uma ideia na linha do movimento lean que diz — vamos usar uma abordagem experimental. Desta forma podemos ir testando e aprendendo. No caso do Airbnb, os fundadores tiveram a oportunidade de participar durante os lançamentos, de viver junto com a comunidade, ouvindo os usuários e descobrindo oportunidades com uma interação mais direta.
 
-
-
-Assim, a ideia geral é aprender. Mas a partir dessa ideia precisamos falar sistemas de feedbacks que naturalmente procuramos como resposta para saber se estamos no caminho certo. Para isso vamos começar com família e amigos, como um caso ilustrativo mas bem real no mundo dos empreendedores, principalmente quando começam, já que começam de fato muito sozinhos [^footnote_sam_altman_entrepreneurs_lonely] que demanda abordar um assunto que pode ser visto como nível de honestidade. Honestidade é uma questão importante porque o empreendedor, em teoria, precisa de um feedback honesto. Mas isso é difícil porque ao mesmo tempo o empreendedor quer ser bem sucedido. Então existe um dilema, no meio dessa urgência, entre fazer acontecer a história do sucesso e receber as notícias como elas são de fato. 
-
-[^footnote_sam_altman_entrepreneurs_lonely]:
-
-E falar de família e amigos é importante porque essas pessoas também vivem, de certa forma, no mesmo “balaio” do dilema. Um amigo empreendedor, por exemplo, pode querer lhe encorajar e por isso pode ficar acanhado em lhe dizer verdades que poderiam machucar ou desmotivar. Ou o contrário. O mesmo ocorre com família. Dependendo da cultura familiar, o empreendedor pode receber um feedback que não é honesto, ou que é superficial, porque a pessoa quer agradar, quer motivar; ou em alguns casos até desmotivar, por exemplo projetando medos, já que muitas vezes a questão da motivação ou desmotivação está atrelada com questões de controle e proteção da outra pessoa. Um amigo poderia lhe desmotivar ao focar em questões de riscos porque ele está com medo que você possa falhar.
-
-A empreendedora Adora Cheung vai além e sugere o conceito da Curva da Honestidade (How to Start a Startup, 2014, 21:18), indicando que tem gente que irá mentir. Vamos estudar como funciona a curva. No eixo vertical temos Nível de Honestidade (Honesty Level). No eixo horizontal temos o nível de relacionamento das pessoas começando com a mãe (mom) depois amigos depois pessoas:
-
-![Curva da honestidade](images/adora/honesty.png)
-
-Adora apresenta duas curvas com o nível de honestidade do feedback dado por diferentes tipos de pessoas. Primeiro vamos olhar para o produto que não é de graça (a curva vermelha acima), por exemplo um produto pago. Neste caso a sua mãe provavelmente será pouco honesta com você. Na medida que avançamos, para o lado dos amigos, veremos que eles são mais honestos que a mãe. Então, para produtos pagos, quanto mais distante, no rumo das pessoas anônimas, veremos mais honestidade.
-
-Aí você diz — ah mas minha mãe fala tudo na lata. Ou ainda, todos os meus amigos são honestos comigo. O problema é realmente saber a perspectiva que cada pessoa colocou na hora do feedback. O que ela queria quando estava te passando o feedback. Pode ser que essa pessoa irá mudar o olhar justamente porque tem um grau de amizade com você e quer seu melhor.
-
-O que aprendemos com isso? Que não podemos lançar nosso carrinho de lanche para a mãe e familiares. Ou eles vão mentir elogiando demais ou vão contrariar demais – por exemplo se você não usar o tempero da vovó?
-
-Na outra abordagem, quando os produtos são de graça, dai temos problemas em obter feedback de pessoas anônimas. Então se você fizer um lançamento de um produto e falar para o bairro que é free, e tentar pegar feedback, é bem provável que um monte de gente irá mentir falando que gostou. Talvez eles estejam simplesmente com fome.
-
-A questão do feedback da mãe é abordada pelo professor e psicólogo Adam Grant no livro Originais (????). Adam Grant coloca 4 tipos de pessoas nos quadrantes gerados por dois eixos. No eixo vertical temos, acima, aquele perfil de pessoa que ajuda os outros (giver) e abaixo o que quer tudo para ela (taker). No eixo horizontal, do lado direito aquela que negativista-discordante (disagreeable) e no lado esquerdo a pessoa positivista-concordante (agreeable):
-
-
-![Adam eixos concordante discordante](images/adam/agreeable-disagreeable.png)
-
-Adam sugere que o melhor perfil para buscar feedback é aquele que gosta de ajudar mas que faz de forma discordante ou honesta. Ou seja, aquele que não necessariamente concorda com tudo que você diz mas continua sempre do seu lado — aquele que continua dizendo “olha, eu acho que não vai dar certo porque tal e tal”. Para Adam, a mãe normalmente está no quadrante dos que querem ajudar mas concorda com tudo porque está influenciada pela relação.
-
-O ponto principal não é sobre o concordar ou discordar e sim sobre o grau de honestidade oferecido pelas pessoas. Ainda, torna-se relevante saber quem são elas. No caso do Espetinho de Carnes não é legal pegar o feedback de vegetarianos. Ou olhando por outro lado, talvez seja legal já que você espera que eles lhe digam que não é bom. Então no fundo mesmo o que vale é a consciência sobre a pessoa que está lhe oferecendo feedback, um trabalho quase que mais importante do que pegar o feedback em si.
-
-Mas isso não quer dizer que amigos não podem participar ou mesmo financiar seu projeto certo? O que estamos abordando aqui é a questão da leitura e interpretação do feedback na relação do produto; não a relação da família e amigos com o empreendimento em si.
 
 #### Protected by market - permission to not scale to protect 
 
