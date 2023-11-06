@@ -37,7 +37,11 @@ O nosso ser gestor pode não estar preparado. Assim, por um lado é merecedor de
 
 ## References
 
+Terdiman, D. (2013, November 18). Tiny Speck releases entire Glitch art archives into public domain. CNET. Retrieved from https://www.cnet.com/tech/gaming/tiny-speck-releases-entire-glitch-art-archives-into-public-domain/
+
 Gendler, T. (2012). Fraqueza da Vontade e Procrastinação [Vídeo]. YouTube. https://www.youtube.com/watch?v=xp3m7e9T72k
+
+* Interview about Eisenhower matrix and some ideas exchange with Chatgpt https://chat.openai.com/share/a4f3d334-d233-484f-996e-7bef583c5b46 have indicated a sort of common knowledge that the matrix brings a superficial awareness about important vs. urgent. It was pointed as a framework, which seem weird. And also that by what was written in 7 Habits the successful people do work in important non-urgent first. I have, however, brought up a complication in the growth situation of startups or teams; where success such as from working in important non-urgent would lead to a change in the dynamics and new demands for reactionary work, leading to urgent work, which ChatGPT has acknowledged and would perhaps bring a saturation leading to a crisis thus perhaps a chance to consider a new matrix. Well, the very change where urgent tasks arise is a change in itself. 
 
 ## SCqA 
 

@@ -124,6 +124,15 @@ von Hippel, E. (2005). Democratizing Innovation. The MIT Press. DOI: https://doi
 
 Drucker, P. (2011). Technology, management, and society. Routledge.
 
+
+<!-- 
+
+200 / 410_automatic_reaction_breaking 
+
+--> 
+
+Terdiman, D. (2013, November 18). Tiny Speck releases entire Glitch art archives into public domain. CNET. Retrieved from https://www.cnet.com/tech/gaming/tiny-speck-releases-entire-glitch-art-archives-into-public-domain/
+
 <!-- 
  200/230_self_confirmation_bias_social_identity.txt
  000/100_introduction.txt
@@ -190,6 +199,8 @@ Benjamin J. Warnicka, Charles Y. Murnieks, Jeffery S. McMullen, Wade T. Brooks. 
 Cameron, J. (1998). The Right to Write. TarcherPerigee.
 
 Y Combinator. (2016, 25 de outubro). Marc Andreessen na Startup School SV 2016[vídeo]. Recuperado de https://www.youtube.com/watch?v=NEOR0AJsziE
+
+
 
 <!-- 
 
