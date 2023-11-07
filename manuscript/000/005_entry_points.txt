@@ -23,6 +23,13 @@ Check https://chat.openai.com/share/b7eb16c5-4c18-4709-9220-bd2629f34a3d
 * Referred from 460_narratives_lean 
 * Referred from 470_culture_productivity 
 
+## On Growth by Robert Riggins - growth pulls force 
+
+* "many executives see growth as something to be maximized." Robert Riggings, p.119, Analysis for Financial Management, Irwin/McGraw-Hill, 1998. 
+* "From a financial perspective, however, growth is not always a blessing. Rapid growth can put considerable strain on a company's resources, and unless management is aware of this effect and takes active steps to control it, rapid growth can lead to bankrupcy." Robert Riggings, p.119, Analysis for Financial Management, Irwin/McGraw-Hill, 1998. 
+
+* Chris Yeah, check Blitzscaling talk - makes a point of startups with signals growing too fast, about consciousness of timing, and conditions; and Robert Riggins also makes a point from financial analysis of growth that "companies can literally grow broke" because "they grew too fast as do those that grew too slowly". Robert Riggings, p.119, Analysis for Financial Management, Irwin/McGraw-Hill, 1998. These points can establish a parallel for the growth of an entrepreneur, is basically the watch-out nature of or the growth in terms of maturity. 
+
 ## Err is about supporting journey, less control for success - Permission to err
 
 * Ref - 100/020_err_is_ok.txt - "Permission to err " 
