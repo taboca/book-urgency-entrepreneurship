@@ -1,28 +1,42 @@
-# Briefing #
+# Book presentation #
 
 <!--
-
-## Version v2.2 
-
+## Version v2.3
 --> 
 
 ## Goal of book, transformation aimed 
 
-### Part - October, 18th, reviewed November 3rd, 2023 (* * *) #humble #apprentice #growth
-
-The effect that I want to provoke, to the reader - being them entrepreneurs, managers, practitioners, investors, anyone interested in the startup ecosystem - is not about improving their awareness that the fast-paced world is a world where one can drive fast because of the frames, as in the world of possibilities, from abundance, as framed in a way or another. Although this is part of the situation of entrepreneurship, I want the reader to consider the possiblity that transcendence, or the development of the enlighted entrepreneur, and willingness to do so, becomes a lower priority as the matter of now, the present need, gets in the way, althought it is critically necessary before as growth of startups depends on growth of the self. Although learning and execution is generally recognized by entrepreneurs, urgency leads to learning in retrospect while leadership in entrepreneurship, or conscious entrepreneurship, involves the development of a  humble mindset that sets the entrepreneur as an apprentice that recognizes that what gets you here is not what takes you there. 
+The effect that I want to provoke, to the reader - being them entrepreneurs, managers, practitioners, investors, anyone interested in the startup ecosystem - is not about improving their awareness of risks of moving too fast into the fast-paced world that promises a lot where one can drive fast because of an abundant world of possibilities. Although this is part of the situation of entrepreneurship which we start from, I want the reader to consider that the possiblity of transcendence - such as the development of their enlighted entrepreneur and willingness to do so - is reduced in the face of present needs which gets in the way, such as the willingness to do right, to achieve success, to pursue outcomes. The point being is that this transcendence is critically necessary to move into growth. In other words, startups depends on growth for the whole system and growth of the self, the indidivuals in it. Although learning and execution is generally recognized by entrepreneurs, urgency leads to learning in retrospect while leadership in entrepreneurship, or conscious entrepreneurship, involves the development of a humble mindset that sets the entrepreneur as a doer and apprentice, where they are required to transcend the urgency of now, and embrace change, such as one that recognizes that what gets you here is not what takes you there. 
 
 ## Audience
 
 * Entrepreneurs, managers, practitioners, investors. 
 
-## Context 
+## From a narrow context 
 
-* Narrow: Startup - As an team that is created with the intention to grow, as a business, such as to scale. 
-* Broad: Supports the development of leaders, and the humble and apprentice aspect of entrepreneurs, or managers. 
-* Broader: Supports consciousness for development of the self as growth of self is required in the world. 
+* Narrow: Startups in the sense of an entity formed to grow. 
+* Broader: The humble entrepreneur rises. 
+* Broader: Conscious entrepreneurship supports humanity. 
 
-## Origin of the book from Blitzscaling and differentiation, or contribution 
+## SCqA presentation 
+
+* Subject and theme - The amazing world of startup thrives as people can be replaced. But from the individual that wants to be around, the startup growth needs conscious entrepreneneurship. 
+
+* Situation - The abundance of options, solutions, to make a startup, does not appear to be confusing. A hungry entrepreneur or team can go to the supermarket where there are aisles for all stages of a startup. Products, services, frameworks, methodologies, platforms, networks - all is richer and richer, all supports growth. 
+
+* Complication - Founders can be lost in abundance, or lost in translation. And it is not that every single offering is misleading them. The offerings are just improving and becoming richer. The supermarket is bigger. As founders engage in being generalists like specialists, their might mislead themselves into burning their precious resources, which may also impact the culture, and 
+
+* Question - But isn't it that the ecosystem takes care of the cycles of learning? If a founder didn't pass through, they learn again. Indeed, from the investor view, the best will pass anyway. But what if the actual founder want to pass? Are there aspects to pay attention that could improve the chances to grow and to be around? 
+
+* Answer - A serious founder, a conscious founder, is the path. And it is a must, for a startup intended to growth. The answer is everywhere, the information is all around. Investors, practitioners, top tier VC firms, methologies - all of these products in the hypermarket are informing you of the risks and what it takes to use them. This book invites the reader to break the urgent to grab outcomes and improve the awareness for the growth aspects of a startup which starts with the growth of the self. 
+
+* Parts - The first part - Behavioral urgency - starts with the recognition that the self is not disconnected from the urgent world such as the startup ecosystem, the market, culture, the economy. It lifts the reflection that the unit of work, the currency in the beginnings, starts with an individual energy. It asks us to respect that currency. 
+
+* Parts - The second part - Interpersonal urgency - looks to the sides of a founder team, as they develop connections, interactions, in an attempt to network their way up. And into this, conversely, looks at how the urgent world influences the team, with a goal to improve the team's perspective. 
+
+* Parts - The third part - Systemic urgenty - considers the dynamics of an urgent and hyperconnected world that affects the movements of companies and larger teams. It aims to improve awareness of how communication systems influences people, thus calling for a conscious entrepreneurship that is aware of this interdependence which is vital for growth and growth of humanity. 
+
+## Origins of work ( ) review to become shorter. 
 
 * Situation 1 - Blitzscaling - Blitzscaling the course has covered behavioral aspects that supports what it takes to Blitzscale, mainly through the interviews, it is possible to detect from everywhere. Situation 2 - The agenda of Blitzscaling, the growth of Blitzscaling, naturally had positioned the executive team to focus on the main priorities, which seemed to gain a focus on the macro aspects.   
 
@@ -34,7 +48,7 @@ The effect that I want to provoke, to the reader - being them entrepreneurs, man
 
 * Answer - Since the author started from entrepreneurship, and not philosophy or psychology, the book carries the reader from a world as it seems, through the goggles that it is an urgent world that somehow is too rich, which indeed offers possibilities for startups, which also happens to be chaotic, which happens to be a complication through this view exactly as - by the terms of a narrative of a somehow mechanized world - entrepreneurs are likely pushed into being okay with chaos. By accepting the "train in movement", an urgent train, the book attempts to carry the reader to be okay with establishing a reflective thinking, or reflective tour, so that reflections about behaviors can brought to our attention and a wider context of absctraction is aimed, towards conscious entrepreneurship that respects humans. 
 
-* Part 1 - The first part focuses on the self, as in to lift the reflective spirit that the unit of work of a startup might start with an individual, that happens to be in a world that influences behavior. In this part, we reflect on: Aspects of use of our "Time"; Aspects of characterization as "Wanterpreneurs" as an element that deserves compassion; Aspects of the world of "Words" and "Narratives" that influences our movements; Aspects of "Spaces", such as platforms that seem to create realities like bundled realities; Aspects of "identity" driven by "Love", or "Fear", and "Emotions"; Aspects of our need to search "Impact" which  happen to set us to miss values that can impact growtn; Aspects of "Running" which has to do with with when we want to perform and how that blinds us of what took us to be productive in the first place; And a reflection about "Success" that demands inner growth and transcendence from the ties of now. 
+* Part 1 - The first part focuses on the self, as in to lift a reflective spirit that the unit of work of a startup might start with an individual, that happens to be in a world that influences behavior. In this part, we reflect on: Aspects of use of our "Time"; Aspects of characterization as "Wanterpreneurs" as an element that deserves compassion; Aspects of the world of "Words" and "Narratives" that influences our movements; Aspects of "Spaces", such as platforms that seem to create realities like bundled realities; Aspects of "identity" driven by "Love", or "Fear", and "Emotions"; Aspects of our need to search "Impact" which  happen to set us to miss values that can impact growtn; Aspects of "Running" which has to do with with when we want to perform and how that blinds us of what took us to be productive in the first place; And a reflection about "Success" that demands inner growth and transcendence from the ties of now. 
 
 * Part 2 - Making peace with inductive communication - A reflectiion about the fact that some kind of people may deny communication as they think it's arbitrary or a skill of talented people. We use the work of Barbara Minto, and viewpoint of Michael to come to terms first to respect that communication will affect anyway, for good or bad, and then to set the entrepreneur in a position to assume it is important to become skilled in this context. 
 
@@ -47,6 +61,7 @@ The effect that I want to provoke, to the reader - being them entrepreneurs, man
 * Part 2 - Stages and Growth (New: Staging?) - Developing consciousness for all that you are in, a network of collaboration, causes, systems. And recognize the end, frustrating, that could be the result of success and not failure. It is just that the other end might not have an option for taking care of you, as in recycling. 
 
 * Part 2 - Stop Impressing - The origins of impressing are not that wrong. But impressing can hide important things, supress feedback, disconnect from humans and their creativeness, and prevent self enlighment. 
+
 
 
 ## Why the book 
