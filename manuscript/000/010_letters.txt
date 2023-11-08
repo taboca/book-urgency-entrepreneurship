@@ -1,15 +1,18 @@
 
 ## Matrix initial reviews 
 
-* Steve Blank, invited with introduction letter [1], accepted to receive manuscript. 
-* Chris Yeh - chat invited, may look at intro presentation document and manuscript. 
+* (p, l, a) Steve Blank, invited with introduction letter [l], accepted to receive manuscript. 
+* (p, a) Chris Yeh - chat invited, may look at intro presentation document and manuscript. 
 
-* Fred Filho - friend/colleague field, pinged, intro letter.  
-* Christian Guimaraes - friend - pinged, intro letter. 
-* André Figueiredo - friend - pinged, intro letter. 
-* Dan Barry - friend - pinged, intro letter. 
+* (p, l) Fred Filho - friend/colleague field, pinged, intro letter.  
+* (p, l) Christian Guimaraes - friend - pinged, intro letter. 
+* (p, l) André Figueiredo - friend - pinged, intro letter. 
+* (p, l) Dan Barry - friend - pinged, intro letter. 
+* (p, l) Ricardo Agostinho - friend/colleague - pinged, intro letter. 
 
-[1] 012_investor_introduction.txt 
+[p] pinged 
+[l] 012_investor_introduction.txt 
+[a] accepted to receive the manuscript
 
 ## Letter to Michael, Steve and Paul Graham November 8th, 2023 
 
