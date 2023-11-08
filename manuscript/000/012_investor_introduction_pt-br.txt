@@ -4,13 +4,15 @@
 
 * Título - Slow Down Start Up 
 * Autor - Marcio S Galli 
-* Versão 2.4, 8 de Novembro de 2023 
+* Versão 2.7, 8 de Novembro de 2023 
 
 ## Público
 
-Empreendedores, gerentes, praticantes, investidores.
+Empreendedores, gestores, praticantes, investidores. Nota: o público-alvo inicial - embora aplicável a praticantes, gestores, conselheiros, mentores e investidores - é o empreendedor que deseja ou já está em meio ao processo de startups conforme definido por pontos de vista como o de Paul Graham, onde startup é igual a crescimento. Este é o contexto de nicho do livro. Esse contexto ou público representa um segmento relativamente pequeno globalmente. No entanto, como a dor pode ser alta para esse grupo, como se eles seguissem instintos, o material do livro pode valer a pena existir e é uma razão pela qual a linguagem procura alcançar todos aqueles que se preocupam com esses realizadores que estão no campo de ação.
 
 ## Contexto, do Estreito a Amplo
+
+Sobre o contexto, este livro deve ter um escopo restrito ou visar um público mais amplo? Decidi manter o contexto focado em empreendedores que estão conduzindo startups quando pensam em buscar crescimento. Um escritor de primeira viagem, como eu, poderia ser tentado a abordar um espectro mais amplo. No entanto, aprendi com William Zinsser que ser específico pode ser uma forma de transmitir uma mensagem ampla e significativa. Portanto, começo com uma startup às pressas, ou melhor, um empreendedor com pressa.
 
 Foco: Startups são entidades para crescer. Isso exige o crescimento pessoal. 
 Em perspectiva: Surge o empreendedor humilde, que transcende além de pressoes do presente. 

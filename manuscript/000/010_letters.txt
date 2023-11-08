@@ -1,4 +1,90 @@
 
+## Matrix initial reviews 
+
+* Fred - invited with introduction text 012, may or not. 
+* Chris Yeh - pinged, waiting manuscript, may or not engage. 
+
+## Letter to Michael, Steve and Paul Graham November 8th, 2023 
+
+* https://mail.google.com/mail/u/0/#sent/CwCPbnkxBQxvwTMCllxFSCsPsMLHxrg
+* https://mail.google.com/mail/u/0/#sent/QgrcJHsbjqKbCDMpsJxllJRfFcMwtFmBctq
+* https://mail.google.com/mail/u/0/#sent/KtbxLvGzbQJxqXLpJHsrnPHDpWRgNFcbkL
+
+```
+# Book presentation #
+
+* Version v2.7
+* Title: Slow Down Start Up
+
+## Audience
+
+* Entrepreneurs, managers, practitioners, investors. Note: the initial target audience - while applicable to practitioners, managers, advisors, mentors, and investors - is entrepreneur who wants to, or is already in the midst of the startup process as defined by viewpoints such as of Paul Graham where startup equals to growth. This is the niche context of the book. This context, or audience, represents a relatively small segment globally. But as the pain can be high for this group, such as if they follow instincts, the material of the book might be worth it to exist and it is a reason that the language reaches out to anyone concerned with these doers who are in the field.
+
+## Narrow-to-broad context
+
+About the context, should this book be narrow or aim for a wider audience? I have decided to keep in the context of entrepreneurs doing startups when they think they are going for growth. A first-time writer, like me, would be tempted to go broad. But I have learned from William Zinsser that being specific can be a means to give a broad and meaningful message. Therefore, I start with a startup in a hurry, or better, an entrepreneur in a hurry.
+
+* Narrow focus: Startups are entities designed for growth. This necessitates personal growth.
+* Perspective: Emerges the humble entrepreneur, who transcends beyond the pressures of the present.
+* Broader: Conscious entrepreneurship is defined as supporting humanity.
+
+## Theme 
+
+"The narrative argues that amidst the abundance of solutions and the urgency for results, it is crucial for entrepreneurs to connect with an essence where decisions reflect a thoughtful understanding of their actions and how these ripple through the startup's structure to society at large. Success, therefore, is redefined not as an end - where the ends justify the means - but as the outcome of conscious entrepreneurship that is aligned with the well-being of the entrepreneur, the venture, and society." (ChatGPT, minor style corrections by Marcio)
+
+## SCqA presentation
+
+* Situation - The abundance of options, solutions, to make a startup, does not appear to be confusing. A hungry entrepreneur or team can go to the supermarket where there are aisles for all stages of a startup, where they will find products, services, frameworks, methodologies, platforms, networks. All that is offered is richer, all promises growth, all seem to resonate in a way or another with what top-tier growth advisors say, all solutions seem coherent. 
+
+* Complication - Founders can be lost in abundance, or lost in translation. And it is not that every single offering is misleading them. The offerings are just improving and becoming richer. The supermarket is bigger. As founders engage in being generalists like specialists, they might mislead themselves into burning their precious resources, which may also impact the culture.  
+
+* Question - But isn't it that the ecosystem takes care of the cycles of learning? If a founder didn't pass through, they can learn again. Indeed, from the investor view, the best will pass anyway. But what if the actual founder wants to pass? Are there aspects to pay attention to, that could improve the chances to grow and to be around?
+
+* Answer - A serious founder, a conscious founder, is the path. And it is a must, for a startup intended to grow. The answer is everywhere, the information is all around. Investors, practitioners, top tier VC firms, methodologies - all of these products in the hypermarket are informing you of the risks and what it takes to use them. This book invites the reader to break the urge to grab outcomes and improve the awareness of the growth aspects of a startup which starts with the growth of the self.
+
+* Parts - The first part - Behavioral urgency - starts with the recognition that the self is not disconnected from the urgent world such as the startup ecosystem, the market, culture, the economy. It lifts the reflection that the unit of work, the currency in the beginning, starts with an individual energy. It asks us to respect that currency.
+
+* Parts - The second part - Interpersonal urgency - looks to the sides of a founder team, as they develop connections, interactions, in an attempt to network their way up. And into this, conversely, looks at how the urgent world influences the team, with a goal to improve the team's perspective.
+
+* Parts - The third part - Systemic urgency - considers the dynamics of an urgent and hyperconnected world that affects the movements of companies and larger teams. It aims to improve awareness of how communication systems influence people, thus calling for a conscious entrepreneurship that is aware of this interdependence which is vital for growth and growth of humanity.
+
+## Origins of work from Blitzscaling
+
+Blitzscaling, the course, has covered behavioral aspects that support what it takes to a startup to grow, aspects that show aspects of self growth, mainly through the interviews which is undeniably everywhere in materials of the interview-lectures or referred by the participants. From that, multiple possible agendas must exist, such as the agenda of Blitzscaling - the growth of Blitzscaling - which would naturally position the executive team to focus from the macro aspects, as in from the top-down, although the identity with what it takes to be a good entrepreneur seems to all around.
+
+From the point of view of a learner-entrepreneur, as they start their startups, they won't find behavioral materials which supports a readiness level as human beings that generates a good entrepreneur. As there is no agenda for that, especially if they are biased within the frames of their urge to grow. By that, they may filter solutions in front of them, such as to pull the market of solutions, as in they enter a capsule for growth, which naturally starts with a space of pressure for growth, thus they are subject to leading themselves, or misleading, into the too many topics oriented to growth, included interactions and cycles, natural of the fast-paced networked ecosystem of entrepreneurship which by the way continues to improve in richness with coherent stories. Example a local startup program offers a quite enchanting opportunity that resonates with Silicon Valley top tier programs and even may link to the possibility of networking your way up. All of this is not unlinked from how people work, as in industry behaviors, cultural, economic and social aspects. It is then easy to lose focus on the most precious resource - themselves.  
+
+In other words, Blitzscaling and startup as growth exists. But as the possibilities for people to make startups continue to grow, with the abundance and richness of the modern ecosystem, a special attention must be paid to self-awareness and conscious entrepreneurship. Some of the information from the Blitzscaling properly feeds this perspective and provides a rich support to a readiness level in terms of behaviors which support the growth of founders as doers that think through, conscious entrepreneurs, humble/infinite learners, among other perceived characteristics. In other words, it is as if we have a consciousness gap - perhaps due to the richness of stories for entering the game - where even the folks passing the test don't even know of the readiness state of them as human beings that may have supported them. As if the top-tier entrepreneurs could even take for granted their readiness level in terms of growth as humans. And as for the others that failed, temporarily or not, might also not know that human and behavioral aspects, such as analysis and reflective thinking around anxiety, obsession, instant gratification, following instincts, and the alike, drove them into a path leading to frustration, waste of energy, and failure perceived as real failure.
+
+Although the system of growth responds to that - such as from the point of view of top tier VC firms that may support the winners that somehow passes tests, or in other words that the contest takes care of itself selecting the best - this book is concerned with the individual in a holistic way, from end to end. Which naturally sets a challenge as through this frame we can't see entrepreneurs as expendable, which naturally sets a a frame for the book where growth of a startup is liked to the growth of self as individuals which forms conscious entrepreneurship, which naturally forces a frame where success has to be adjusted and can't be about capturing the prize on done in ways such as where the end justifies the means.
+
+Since the author started from entrepreneurship, and not philosophy or psychology, the book carries the reader from a world as it seems, through the goggles that it is an urgent world that somehow is too rich, which indeed offers possibilities for startups, which also happens to be chaotic, which happens to be a complication through this view exactly as - by the terms of a narrative of a somehow mechanized world - entrepreneurs are likely pushed into being okay with chaos. By starting with the "train in movement", an urgent train, the book attempts to carry the reader to be okay with establishing a reflective thinking, or reflective tour, so that reflections about behaviors can be brought to our attention and a wider context of abstraction is aimed towards conscious entrepreneurship that respects humans.
+
+## The knowledge body of influences
+
+Crew of Blitzscaling - Chris Yeh, John Lilly, Reid Hoffman, Allen Blue - and Michael Dearing, Barbara Minto, Brian Chesky, Paul Graham, Jeff Weiner, Fred Kofmann, Julia Cameron, Sam Altman, Eric Ries, Steve Blank, Tony Ulwick, Eric von Hippel, Marc Andreessen, Maury Klein, Robert McKee, Adam Grant, James Green, Scott Belsky, Max Fisher, Walter Fisher, Fried, J., & Hansson, D. H of Basecamp, Jason Child, and others. In addition, Abraham Maslow, Andy Grove, Peter Drucker, Ogilvy, William Zinsser.
+
+## Motivations
+
+The effect that I want to provoke, to the reader being them entrepreneurs, managers, practitioners, investors, anyone interested in the startup ecosystem, is not mainly about improving their awareness to the risks of moving quick and reactive in the fast-paced world which promises a lot where one can drive fast because of an abundance of solutions that promises growth. Although this is part of the situation of entrepreneurship which we start from, I want the reader to consider that the possibility of transcendence - such as the development of their enlightened entrepreneur and willingness to do so - is reduced in the face of present needs which gets in the way, such as the willingness to do right, to achieve success, to pursue outcomes. The point being is that this transcendence, self growth, is critically necessary to move into growth. In other words, startups depend on growth for the whole system and growth of their constituents, the individuals doing it. Although learning and execution is generally recognized by entrepreneurs, urgency leads to learning in retrospect while leadership in entrepreneurship, or conscious entrepreneurship, involves the development of a humble mindset that sets the entrepreneur as a doer and apprentice, where they are required to transcend the urgency of now, and embrace change, such as one that recognizes that "what gets you here is not what takes you there. "
+
+## Thanks
+
+* Blitzscaling crew, Michael Dearing, Barbara Minto, Julia Cameron, 
+
+## Thanks
+
+* Fred Filho (Blitzscaling subtitling pt-br), Rael Gugelmin (Blitzscaling subtitling pt-br), Elder Reami (Blitzscaling subtitling pt-br), Vanessa Erika (Supporter, Wife),
+
+## On writing stages
+
+* Recent stage: episode 69 in a row, 2-3h per day, except weekends or time off, happening from July 2023. It has shown to Marcio a hint of what is really to be a writer. Unclear to say when the manuscript will be ready, ready for a different fight; but it is clear that the writing seems to be taking care of itself, as in convergence happening, clarity, reviews from wider perspective, and the early contact writings to potential supporters like editors, reviewers, advisors, and more.
+
+* Origin: fuzzy, unclear, through the Blitzscaling learnings, around 2017.
+
+```
+
+
 ## Michael Dearing, not sent letter on 07/11/2023 
 
 * Stopped the letter, and decided to look at the "010_cover_pitch.txt" again which is where essentials, in terms of pitch and presentation, are being done. [feat. Vanessa Oliveira which asked me to work on this, a book outline mainly.]
