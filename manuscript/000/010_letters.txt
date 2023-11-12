@@ -9,7 +9,7 @@
 * (p, l) André Figueiredo - friend - pinged, intro letter. 
 * (p, l) Dan Barry - friend - pinged, intro letter. 
 * (p, l) Ricardo Agostinho - friend/colleague - pinged, intro letter. 
-
+    
 [p] pinged 
 [l] 012_investor_introduction.txt 
 [a] accepted to receive the manuscript
