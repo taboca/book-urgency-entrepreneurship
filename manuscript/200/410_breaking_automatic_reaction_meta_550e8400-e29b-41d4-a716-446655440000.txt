@@ -3,6 +3,8 @@
 
 ## Todo 
 
+* ( ) p2, The Feedback of Urgency, Fix quote of Reid Hoffman to case from Start up of You and likely link to Conscious Business. 4892489-4928948-48284-483984. 
+
 * ( ) Check - fear of loss, used, above, which was brought up in other chapter. 
 
 * p1, ( ) insight - check containment protection notion (feat. Julia Cameron, p178-180) with 210_automatic_reaction_breaking and "lean narratives" or #okr #shock-absorbers - check if group thinking carrying values, such as values tied to outcomes, can supress the opportunity when growth of an individual would be possible, ideas for example, by using "he is best at" could lead to reaarangement into mediocre too - this Julia indicates writers in potential becoming journalists - as seen we supress the inner self that could save the situation. Thus, the topic of protection before critics. Might tie with case of "containment" by Julia Cameron, p168-170, check her amazing quotes on picking the friendly critis or friendly editor vs. protecting. Marcio had designed a notion of a black box producer in the face of a critic, when "under development" or vulnerable work, if seem from as a box, might be killed as exposed. But a strategic growth developer-coach, might see into the box, and unbundle, allowing growth, like p178-180 Julia Cameron indicates. Thus the management consideration could have to do with bundle to criticize and unbundle to allow development and growth. 9438988-4304093490-04304903-4928408 (lean, breaking auto reaction)
@@ -29,21 +31,19 @@ O nosso ser gestor pode não estar preparado. Assim, por um lado é merecedor de
 * v0.2 - Autopilot
 * v0.1 - You just don't turn it off 
 
-## Part 
-
-* On part 1, for now. 
-* ( ) Consider to move to 300, as things will account more reaction if works 
-* Note: The individual is provoked to fix the gap of now. 
-
-## References
-
-Terdiman, D. (2013, November 18). Tiny Speck releases entire Glitch art archives into public domain. CNET. Retrieved from https://www.cnet.com/tech/gaming/tiny-speck-releases-entire-glitch-art-archives-into-public-domain/
-
-Gendler, T. (2012). Fraqueza da Vontade e Procrastinação [Vídeo]. YouTube. https://www.youtube.com/watch?v=xp3m7e9T72k
-
-* Interview about Eisenhower matrix and some ideas exchange with Chatgpt https://chat.openai.com/share/a4f3d334-d233-484f-996e-7bef583c5b46 have indicated a sort of common knowledge that the matrix brings a superficial awareness about important vs. urgent. It was pointed as a framework, which seem weird. And also that by what was written in 7 Habits the successful people do work in important non-urgent first. I have, however, brought up a complication in the growth situation of startups or teams; where success such as from working in important non-urgent would lead to a change in the dynamics and new demands for reactionary work, leading to urgent work, which ChatGPT has acknowledged and would perhaps bring a saturation leading to a crisis thus perhaps a chance to consider a new matrix. Well, the very change where urgent tasks arise is a change in itself. 
-
 ## SCqA 
+
+### SCqA v0.5 
+
+* Subject - When activities are executed as urgent, execution might have reached a saturation point which would also call for the discussion - important vs. urgent. But as urgent is urgent based on feedback systems that take place, new ideas such and discussions about important activities can be killed. We should consider a reflection about the feedback systems and values that keep the equilibrium and the team to consider engaging in new activities which could help with change and innovation. 
+
+* Situation - The theme, important vs. urgent, becomes a subject when what is being done reaches a sort of 100%, saturation preventing change and improvement of the work process. Unless urgent activities shows a major sign of trouble, it is difficult for teams to see through, think through, and justify use of time that is strategic; as the traction with activities taken as urgent feeds a system of value that keeps an equilibrium that seems promising. 
+
+* Complication - A system of values supports the feedback system which makes urgent to become urgent. A team success finds good problems which ties with good reasons to solve these good problems. Like customers - good problems. Good reasons to support all customers could be that the prior investment was major effort to go seek customers. 
+
+* Question - How teams can break urgency that opens space for reflection and possibilities to drop some of the urgent activities to consider non-urgent and important and, quite risky. 
+
+* Answer - The answer lies in seeking protection, like by reviewing values, or principles, or setting roles that represent new goals. Although a simple idea, the odds for not happening is low, due to urgency to maintain the equilibrium (we will see how we experience this), due to lack of clear views of values, principles affecting the feedback that feeds urgency, and due to lack of representative roles for the important activities. 
 
 ### SCqA v0.4  
 
@@ -83,6 +83,14 @@ Gendler, T. (2012). Fraqueza da Vontade e Procrastinação [Vídeo]. YouTube. ht
 * pitch - objections - how long should we push? 
 
 * Editorial - note - creative and style. In Rambo I, first blood, when Rambo destroys the city, Cel Trautman comes to the police station to talk with Rambo, commanding him - it's over. But Rambo is not okay with that idea, although he starts to find the actual confrontation that he has to turn it off. Rambo accepts to go to jail with the support from his protector, his real coach. 
+
+## References
+
+Terdiman, D. (2013, November 18). Tiny Speck releases entire Glitch art archives into public domain. CNET. Retrieved from https://www.cnet.com/tech/gaming/tiny-speck-releases-entire-glitch-art-archives-into-public-domain/
+
+Gendler, T. (2012). Fraqueza da Vontade e Procrastinação [Vídeo]. YouTube. https://www.youtube.com/watch?v=xp3m7e9T72k
+
+* Interview about Eisenhower matrix and some ideas exchange with Chatgpt https://chat.openai.com/share/a4f3d334-d233-484f-996e-7bef583c5b46 have indicated a sort of common knowledge that the matrix brings a superficial awareness about important vs. urgent. It was pointed as a framework, which seem weird. And also that by what was written in 7 Habits the successful people do work in important non-urgent first. I have, however, brought up a complication in the growth situation of startups or teams; where success such as from working in important non-urgent would lead to a change in the dynamics and new demands for reactionary work, leading to urgent work, which ChatGPT has acknowledged and would perhaps bring a saturation leading to a crisis thus perhaps a chance to consider a new matrix. Well, the very change where urgent tasks arise is a change in itself. 
 
 ## Cross
 
