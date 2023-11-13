@@ -1,5 +1,10 @@
 Check https://chat.openai.com/share/b7eb16c5-4c18-4709-9220-bd2629f34a3d 
 
+## James Green 
+
+* Representativeness - 410_execution_urgency_neglecting_redesign_f47ac10b-58cc-4372-a567-0e02b2c3d479.txt
+* Representativeness - 410_breaking_automatic_reaction_550e8400-e29b-41d4-a716-446655440000.txt
+
 ## Steve Blank 
 
 * Referred from Chapter: Introduction
