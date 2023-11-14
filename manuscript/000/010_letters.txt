@@ -3,7 +3,7 @@
 
 * (p, l, a) Steve Blank, invited with introduction letter [l], accepted to receive manuscript. 
 * (p, a) Chris Yeh - chat invited, may look at intro presentation document and manuscript. 
-
+* (p, l, ) Editors Melissa and Jonathan , on Nov 14th 2023.
 * (p, l) Fred Filho - friend/colleague field, pinged, intro letter.  
 * (p, l) Christian Guimaraes - friend - pinged, intro letter. 
 * (p, l) André Figueiredo - friend - pinged, intro letter. 
@@ -13,6 +13,12 @@
 [p] pinged 
 [l] 012_investor_introduction.txt 
 [a] accepted to receive the manuscript
+
+## Letter to Jonathan and Melissa 
+
+* https://mail.google.com/mail/u/0/#sent/KtbxLwgxBjtxvmnjHzFqKzZddqbqrpRxfg
+
+[1] 012_investor_introduction.txt, v2.7 
 
 ## Letter to Michael, Steve and Paul Graham November 8th, 2023 
 
