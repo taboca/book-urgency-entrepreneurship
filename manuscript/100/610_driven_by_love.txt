@@ -337,7 +337,15 @@ It’s great to learn about successes. But historians will also tell you about t
 
 Consider the situation of John Fitch which is credited as one of the inventors of the commercial steamboat service. His product, Perseverance, was launched in 1790 as a commercial steamboat service but didn't do well and was abandoned. 15 years later, as history shows, a successfully implemented solution was brought by Robert Fulton, that was a bit less inventor and more of an assembler and able to focus on the service. 
  
-> *“Fitch advertised the service heavily and the boat performed admirably — going five hundred miles before suffering mechanical problems — but the passengers did not come. In desperation, the partners offered free food and drinks on board, but every voyage continued to lose money. What had proven to be technological triumph turned out to be a commercial failure, and the service was abandoned after that first summer. His investors backed away, and Fitch eventually found himself nearly penniless once again. “* — Maury Klein, The Power Makers, Steam, Electricity, and the Men Who Invented Modern America
+> *“Fitch advertised the service heavily and the boat performed admirably — going five hundred miles before suffering mechanical problems — but the passengers did not come. In desperation, the partners offered free food and drinks on board, but every voyage continued to lose money. What had proven to be technological triumph turned out to be a commercial failure, and the service was abandoned after that first summer. His investors backed away, and Fitch eventually found himself nearly penniless once again.”* (Klein, 2009, p. 46)
+
+<!-- 
+
+## References
+
+Klein, Maury. (2009). The power makers : steam, electricity, and the men who invented modern America. Bloomsbury Press. First U.S. edition.
+
+--> 
 
 <!-- ref 
 
