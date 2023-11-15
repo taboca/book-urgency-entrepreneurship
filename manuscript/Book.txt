@@ -46,7 +46,6 @@
 #100/750_control_urgency_to_please.txt
 
 200/410_breaking_automatic_reaction_550e8400-e29b-41d4-a716-446655440000.txt
-200/420_first_to_friends_no.txt
 200/450_urgent_vs_important_9d8b7e90-04b2-468a-990e-5a5b68b28c42.txt
 200/460_pressure.txt
 
