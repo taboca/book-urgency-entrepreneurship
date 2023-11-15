@@ -52,23 +52,41 @@ In other words, the fact that a role of a critic is interested in precise assura
 
 But the truth in this innocent wish to see the future, aside from pressuring the system of present demands for new assurances, also offers a logic that supports the problem: the exploration of present vs. future, to which we can move along with the rich perspective and opportunity for reflection given by Andy Grove, the late CEO of Intel, from his groundbreaking book "High Output Management." 
 
-### Rework - Andy Grove case 
+### Planning for rework 
 
-Where he had used an analogy of a factory, which allows us to see the situation we have as a box, or a system, thus to see the whole bundled reality of our team's work as if it was a system. And by taking a picture in time, he provokes the analysis in perspective. In his exercise of a 'breakfast factory' analogy, he has illustrated how today's problems often originate from past decisions, or indecisions.  Grove advocates for a forward-looking approach — today's strategies to prevent potential problems tomorrow. [Elaborates more from the book or bring a citation. ] 
+In "Planning: Today's Actions for Tomorrow's Output" (p.102), Andy's openning brings about our natural ability to plan by forecasting: 
+
+> *"For instance, as you're driving to work in the morning, you are likely to decide weather or not you need gasoline. You look at the gauge to see how much gas you have in the tank, you estimate how far it is you need to go, and you then make a rough guess as to how much gas you need to get to and from your office. By comparing in your mind the gas you need with the gas you have, you decice whether you should stop for gas or not."* (Grove, Andrew., 1983, p.102)
+
+<!-- 
+
+## References 
+
+Grove, Andrew. (1983). High Output Management. Vintage Books.
+
+--> 
+
+Throughout the book, Andy uses the analogy of a factory, which essentially provoke us to see any process or effort that we are involved as a process that could be improved. The analogy is great at is may *freeze* the process that we are generally into it, therefore it allows us to look from far, to re-run even in our minds, to forecast results from the process changes, which is essentially where planning rises as you are changing a perspective as in one that asks how is it my factory going vs. how can I improve the process? It can be a factory for anything, from a simple imaginary factory where you produce your own breakfast, to a business situation that you are in where you are serving your customers, to a real factory such as Intel as a microprocessors industry. 
+
+If we happen to set that car situation as a result of a factory, like a storytelling factory, we could consider first the situation A where the car had X amount of gas and a goal of K miles, the given indication of mileage per hour, and given that the happy end requires the driver to reach the office, then by the calculations of your forecasting, the outcome of the story is bad as results as undesirable. That can then be compared with another story if you happen to change your factory to produce situation B, where the produced car had X+Y gas in the tank, thus your forecasted "test" now produces the output, the desire for the drive to reach work - happy ending. Thus by comparison of stories, different output proced by narratives, you are able to see that having more gas could support the desired scenario. 
+
+#### Review or trash 
+
+The exercise of factory analogy, he has illustrated how today's problems often originate from past decisions, or indecisions.  Grove advocates for a forward-looking approach — today's strategies to prevent potential problems tomorrow. [Elaborates more from the book or bring a citation. ] 
 
 Now, by moving in time, and recognizing growth, we can reconize the change in terms of maturity of the factory. For example, one may initially see that two founders doing research work in the beginnings is good. It is clear. Or that if an early employee steals an egg, it's stealing. But if one travels in the future, where the breakfast factory is too big with tons of eggs being served, a novice manager wouldn't be able to understand that an employee that asked others employees to talk about a topic, would be necessarily about stealing people's time or not. Conversely, the maturity is revealed by the the understanding of how activities are vital to the future, which can be only be considered if you have the courage to bring about the conversations about the goals and the means to get there. 
 
 In other words, a new beginning. As example, by comparing with the past, the team might understand that the nature of assurances were different - they might have self-funded themselves to keep working, and the self-funding were the assurances. Or in a case of a writer, she might have kept work done during her sabbatical. And if the present has a new challenge, these are just the new reference point that would be taken care if a new manager happen to be joining the team now. 
 
-#### Consider to put a specific case 
+#### Review or trash 
 
 An example of a new demand could simply be an unforeseen event, such as a customer failing to make a payment. When, out of the blue, a customer does not pay, entrepreneurs typically view this as a failure — something that is not right, and thus the event does not get mapped in the entrepreneur's strategy. But here lies a problem because this failure can recur. An example would be the "failure to pay on the due date," which is an issue. If viewed merely as a problem, the entrepreneur runs the risk of overlooking it. However, if seen as an observation, and if there is a pattern, they could, for example, devise a solution such as offering advance credits, allowing installment payments, or lending money to the client with interest, among other options.
 
-#### Consider the abstract the specific 
+#### Review or trash 
 
 A ideia de “status atual”, a demanda, a quantidade de clientes, a quantidade de alunos que você tem, etc. Isso é o presente, que também envolve a capacidade atual de atendimento, como sua energia disponível, agenda disponível, ou mesmo insumos em estoque. Se fosse no caso da sua banca na feira, seria aquilo que você tem na bancada que está mais ou menos previsto em cima da quantidade de pessoas que passa e seu planejamento e capacidade atual de fornecimento. Este então é o presente atual, ou status do presente.
 
-#### Consider to kill or a question? Can be presentd to intro the next?
+#### Review or trash 
 
 Then comes the question — do I have to try to foresee everything? Do I need a highly experienced consultant in every area? Is there such a guru? The idea isn't to become an omniscient being — that would be the greatest of mistakes precisely because someone who claims to know everything is more blind than all-knowing, given the dynamic nature of the world. But the concept of highlighting, as a demand, and thinking that the problem of the present is out of time, is a chance for you to act with a planning response and not with the default option of just doing things which often could mask the problem. With this, you begin to establish a new perspective on the things that happen. For instance, imagine that a theft occurs at your store. It was robbed, but if you can see that theft is a demand, a new event that can happen again, the response you work on is at another level. You might need to put in place insurance, cameras, or even change the way you distribute your product. Obviously, all this is much more complicated at the moment things happen — precisely because events like thefts, or even customer delays, are situations that change our emotional state. But in Andy's view, what you have is a factory, a machine, that operates out of time — as if you thought your organization is an unchangeable mechanical piece, which you bought last year and is operating today. Like a factory that cannot stop, the way to orchestrate its evolution mechanism is to act out of time.
 

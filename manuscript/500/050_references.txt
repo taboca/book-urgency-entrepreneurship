@@ -131,6 +131,8 @@ Drucker, P. (2011). Technology, management, and society. Routledge.
 
 --> 
 
+Grove, Andrew. (1983). High Output Management. Vintage Books.
+
 Terdiman, D. (2013, November 18). Tiny Speck releases entire Glitch art archives into public domain. CNET. Retrieved from https://www.cnet.com/tech/gaming/tiny-speck-releases-entire-glitch-art-archives-into-public-domain/
 
 <!-- 
@@ -258,6 +260,7 @@ Fried, J., & Hansson, D. H. (2018). It doesn't have to be crazy at work. HarperC
 
 <!--
      From 430_self_staging.txt
+     
 -->
 Grove, Andrew. (1999). Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company. [Só os Paranóicos Sobrevivem]. Crown Publishing.
 
