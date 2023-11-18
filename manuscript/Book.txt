@@ -24,27 +24,31 @@
 
 100/630_fast_cliches.txt
 
-100/850_communication_space_tool.txt
 100/900_personal_board-en-us.txt
 100/950_accounting_learning.txt
 100/970_winning.txt
 
 200/000_part2.txt
 
-#200/030_razoes_para_correr.txt
+### Part 2, lost and found 
+
+200/100_hiring_counsciousness.txt
+200/050_super_fast_really_works.txt                                   # team live, transcending, vision access 
+
+### Part 2, transactional communication 
+
 200/040_induction_embedded_everything.txt
-200/050_super_fast_really_works.txt
+
 200/060_effort_denial_of_management_23106f99-20fd-4049-b69d-e9bde758902e.txt
 200/090_saying_thanks_reflections.txt
-200/100_hiring_counsciousness.txt
 200/120_reaction_with_potentialized_animated_transactional_items.txt
 200/220_success_as_a_service.txt
 
-200/250_stop_impressing.txt
+### Part 2, impressing, pleasing, and transcending 
 
+200/250_stop_impressing.txt
 200/410_breaking_automatic_reaction_550e8400-e29b-41d4-a716-446655440000.txt
 
-200/500_executive_communication.txt
 200/610_lean_no_lean_1.txt
 200/620_lean_no_lean_2.txt
 200/630_lean_no_lean_3.txt
@@ -56,7 +60,9 @@
 
 ### Part 2, the medium's opportunity, the influence of the medium 
 
+100/850_communication_space_tool.txt 
 200/800_collaboration_new_medium.txt
+200/860_role_models_design_empatia.txt
 
 ### Part 2, Releasing sales present pressure 
 
@@ -68,23 +74,41 @@
 
 300/050_intro.txt
 
+### Part 3, stakeholders, investors, vision 
+
 300/070_bad_investors.txt
 300/100_partners_bad_investor.txt
+
+### Part 3, objectives, key results, not so radial focus  
+
 300/150_entrepreneurship_is_management.txt
+
+### Part 3, systems mechanization   
 
 300/200_invisible_contracts_and_our_roles.txt
 300/210_contracts_plus.txt
+300/250_they_system_does_not_allow.txt
+300/220_positive_intentions_technology.txt
+300/300_role_models_design_empatia.txt
+
+### Part 3, evaluation and pressure 
+
 300/460_pressure_vs_support.txt                             
 
-300/220_positive_intentions_technology.txt
-300/250_they_system_does_not_allow.txt
-300/300_role_models_design_empatia.txt
+### Part 3, 
+
 300/320_strategic_dissonance.txt
 300/400_managing_certainty_gap.txt
 300/410_lean_storytelling.txt
 300/430_self_staging.txt
+
+### Part 3, 
+
 300/450_narratives.txt
 300/460_narratives_lean.txt
+
+### Part 3, 
+
 300/470_culture_productivity.txt
 000/060_afterword.txt
 000/020_acknowledgements.txt
