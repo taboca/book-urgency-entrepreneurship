@@ -58,10 +58,10 @@
 
 ### Part 2, the medium's opportunity, the influence of the medium 
 
+200/700_praise_navigation_ability.txt
 100/850_communication_space_tool.txt 
 200/800_collaboration_new_medium.txt
 200/860_role_models_design_empatia.txt
-200/700_praise_navigation_ability.txt
 
 ### Part 2, Releasing sales present pressure 
 
@@ -88,7 +88,6 @@
 300/210_contracts_plus.txt
 300/250_they_system_does_not_allow.txt
 300/220_positive_intentions_technology.txt
-300/300_role_models_design_empatia.txt
 
 ### Part 3, evaluation and pressure 
 
