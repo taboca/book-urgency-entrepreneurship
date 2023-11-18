@@ -35,10 +35,6 @@
 #200/100_hiring_counsciousness.txt
 #200/050_super_fast_really_works.txt                                   # team live, transcending, vision access 
 
-### Part 2, transactional communication 
-
-200/040_induction_embedded_everything.txt
-
 ### Part 2, transactional attraction, storytelling, stortelling platforms
 
 200/200_storytelling_animation.txt
@@ -68,6 +64,10 @@
 200/150_controlling_control.txt
 200/170_sales_for_entrepreneurs.txt
 200/180_irreducible_collaborator.txt
+
+### Part 2, transactional communication 
+
+200/040_induction_embedded_everything.txt
 
 ## Part 3 
 
