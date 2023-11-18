@@ -1,4 +1,4 @@
-# The salesperson-entrepreneur
+## The salesperson-entrepreneur
 
 <!-- 
 
@@ -18,9 +18,9 @@ Maslow, Abraham H. (1998). Maslow on Management. Published by John Wiley & Sons,
 
 No cerne do empreendedorismo, há um duplo mandato. De um lado, vender. De outro lado, oferecer valor aos clientes e buscar a longevidade do negócio. Esta situação desafiadora é natural na fase de descoberta de qualquer negócio. 
 
-Sendo o envolvimento com vendas uma necessidade, o empreendedor reconhece que o papel de vendas está associado com uma positiva de focar no presente - precisamos vender. No entanto, esta abordagem aplicada de forma urgente pode levar a complicações que prejudicam o desenvolvimento de um produto de qualidade e não desenvolver clientes satisfeitos. Consequentemente, causando atraso para a criação do negócio duradouro. 
+Sendo o envolvimento com vendas necessário, o empreendedor-vendedor reconhece que o papel de vendas está associado com uma intenção positiva de focar no presente - precisamos vender. No entanto, esta abordagem aplicada de forma urgente pode levar a complicações que prejudicam o desenvolvimento de um produto de qualidade e não desenvolver clientes satisfeitos.  Consequentemente, causando atraso para a criação do negócio duradouro. 
 
-A resposta envolve a necessidade de buscar um papel de um empreendedor-vendedor que é prático mais também cuida da saúde do negócio. Para explorar essa estratégia, vamos considerar alguns pontos como a liberação da pressão presente, as busca pelo empreendedor-vendedor, e as busca por clientes especiais. 
+A resposta envolve a necessidade de elaborar um papel de um empreendedor-vendedor que é prático mais também cuida da saúde do negócio. Para explorar essa estratégia, vamos considerar alguns sobre a liberação da pressão presente, as busca pelo empreendedor-vendedor, e as busca por clientes especiais. 
 
 ## Liberação da pressão presente 
 
@@ -62,9 +62,11 @@ O empreendedor que vê um cliente como pessoa e também como cliente, irá se de
 
 ## Clientes especiais, usuários líderes 
 
-Maslow também lançou luz sobre o "cliente certo" em um cenário ideal que parece mostrar muitas comparações com a ideia de usuários líderes que são conhecidos da literatura de startups. [Faça nota de rodapé sobre o que são usuários líderes]. O usuário líder é uma espécie de parceiro.
+Maslow também lançou luz sobre o "cliente certo" em um cenário ideal que parece mostrar comparações com a ideia de usuários líderes que são conhecidos da literatura de startups. [Faça nota de rodapé sobre o que são usuários líderes]. O usuário líder é uma espécie de parceiro.
 
 [Faça a observação final, nota para mim mesmo, que tenho que puxar uma citação de Maslow sobre os clientes certos, cliente parceiro ideal.]
+
+
 
 
 

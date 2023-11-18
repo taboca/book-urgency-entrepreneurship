@@ -38,15 +38,11 @@
 200/090_saying_thanks_reflections.txt
 200/100_hiring_counsciousness.txt
 200/120_reaction_with_potentialized_animated_transactional_items.txt
-200/150_controlling_control.txt
 200/220_success_as_a_service.txt
 
 200/250_stop_impressing.txt
 
-#100/750_control_urgency_to_please.txt
-
 200/410_breaking_automatic_reaction_550e8400-e29b-41d4-a716-446655440000.txt
-200/460_pressure.txt
 
 200/500_executive_communication.txt
 200/610_lean_no_lean_1.txt
@@ -56,22 +52,30 @@
 
 200/700_praise_navigation_ability.txt
 
-200/700_irreducible_collaborator.txt
 200/705_hora_h.txt
 
-#200/720_do_things_that_dont_scale.txt - Moved into 550e8400-e29b-41d4-a716-446655440000 breaking reaction.
+### Part 2, the medium's opportunity, the influence of the medium 
 
 200/800_collaboration_new_medium.txt
-200/900_awareness.txt
+
+### Part 2, Releasing sales present pressure 
+
+200/150_controlling_control.txt
+200/170_sales_for_entrepreneurs.txt
+200/180_irreducible_collaborator.txt
+
+## Part 3 
 
 300/050_intro.txt
 
 300/070_bad_investors.txt
 300/100_partners_bad_investor.txt
 300/150_entrepreneurship_is_management.txt
-300/170_sales_for_entrepreneurs.txt
+
 300/200_invisible_contracts_and_our_roles.txt
 300/210_contracts_plus.txt
+300/460_pressure_vs_support.txt                             
+
 300/220_positive_intentions_technology.txt
 300/250_they_system_does_not_allow.txt
 300/300_role_models_design_empatia.txt

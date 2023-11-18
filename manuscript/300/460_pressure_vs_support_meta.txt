@@ -1,0 +1,53 @@
+<!--
+
+## Goals 
+
+- High - as it covers the subject of treating employess as expendable, as effort by effort is not able unique person's creativity, it's a denial. 
+* Support culture 
+* Support hiring 
+* Support management maturity 
+
+## Todos
+
+* p1, ( ) THe Flow of Pressure - The manager measures yougsters by effort, but creates a pressure environment for growth, where "effort beyond" is necessady. Possibility of the manager, which understand effort as the currency of work, especially for youngsters, as opposed to a more maturity oriented approach; a manager then engages in becoming more "experience" as becoming mature but thinking that regarding the yougsters, he claims that the subordinates have to give their blood, to put more effort, sort of respects that idea. Plus, besides this being toxic, some other senior level roles may actually not blame this person but celebrate - the manager that can make the subordinates work more, as in the ends justify the means. 
+
+* p1, ( ) THe Flow of Pressure - #crying-melissa #support #superior-management #maslow - cover the situation of Crying is okay with Melissa, and the situation of motivation that Marcio were able to see from Jow, his brother-in-law, where he had said that someone a co-founder were crying in the work space - as if it was not possible. BUt would not judge the other side of tthe extremme, like brutality such as brutality to hide cries. / ref 493859-5938593-59838593-589385985
+
+* p1, ( ) THe Flow of Pressure - #maslow #authority #growth #culture #toxic Check the situation of Maslow where the pressure that one puts in the person, subordinate, might be taken for granted that the person can holds, as it - it's part of your job. There might be also an article about that somewhere. / ref 3849384-434927-49849-49284982
+
+* ( ) Situation of Jacqueline, cousin 
+* ( ) Situation of Melissa, measured by effort for youngsters 
+* ( ) Accomodation of outcomes, no window for learning and accounting. 
+* ( ) Check - https://app.hackernoon.com/mobile/SfmsXPLhmjNJGbVVX7fn 
+* ( ) Maslow - Maslow on Management has a precise point that managers can put a complex task that for some can be taken as the means for strenght, taken like sports (he didn't write sports), while for others and depending on their identities, can be quite suffocating. Might resonate with "screaming is ok" [feat. Melissa]
+
+* ( ) Add the reference to "crying is okay" and the situation that Melissa pointed that people can't cry in the work, but work wants them to bring their lives in, their personal lives, if the company is to win something with it. Also Marcio has remembered the situation of JH, VO's sister when he referred to a sitation of a woman that were crying; and also AR when he used the personal and character to hire but investors diddn't want to account character when time to fire. 
+
+## SCqA-based outline 
+
+* Abstraction - I noticed that in the business environment, teams, bosses are above and control the judgment of their subordinates. And they ask for things, and simply what they ask for can harm the employee's energy/time/harmony system, resource. For example, depending on the expectation, it puts the employee to do something at home, spend a sleepless night, have to invest their own time, own energy, and money. This is a reason for anxiety for many people, a reason that grows a potential energy that leads people to give up and also start acting in a toxic way in companies, they do the same with others, for example, it becomes a means of work.
+
+* Subject - When we engage with being managers of subordinates, especially the one that has no mastery of an area, or maturity, or the view from above. The direction seems to count of effort. And when that is done, it is done with no rules, and quite based on pressure, pressure promoted as what makes the professional. It can be suffocating. 
+
+* Situação - The pressure to be pragmatic forces the movement by effort; 
+* Situação - World clock does not stop, forcing fight, perseverance, strengh, work hard, promote as key elements of what a professional is, this is not seen as toxic;  
+* Situação - Chefs apply this, knowing that subordinates are younger and have energy and know that one day they went through that. It becomes the currency. Measuring novices by effort is in the culture, especially because they bear the cost of learning, or even dealing with effort, often supernatural, to manage. This culture is associated with execution. God knows what you smoked or used.
+
+* Complication - Chefs apply this, knowing that subordinates are younger and have energy and know that one day they went through it. It becomes the currency.
+* Complication - To fight against this policy, nobody will have energy, because it is in the culture.
+
+* Supposed Solution - To accept, to cut from the flesh. The employee needs time to study at work. Needs to be able to count on the company.
+
+* Key - How We Experience - This abuse often extends beyond what can be easily accounted for. It isn't solely about the long hours or the amount of physical work put in, but it's also about the degradation of the self and the cultivation of an environment that fosters toxicity. Psychologist Abraham Maslow, in his work 'Maslow on Management', highlights the importance of a healthy state of being and creativity in the workplace. Even amidst unpredictability, an individual can thrive if they exist in a supportive, non-abusive environment that fosters self-actualization. However, the dilemma arises when the drive for self-actualization clashes with an abusive work environment. The pressure to grow, the desire to outperform, and the need to prove one's worth often lead to individuals tolerating, and even normalizing, toxic work practices.
+
+* Key - Window for Effort Cost and Support The Cost - Empregador deveria ter melhor contabilidade de custo real. Solução pilar - Funcionárioas saberiam planejar - Do modo "fora da contabilidade" começa que é impossíbel planejar, lógico, se tudo pode ser feito "por fora" 
+
+* Key - Soluçaão pilar - Extras - Ainda, funcionários confiam, trabalham mais felizes, menos ansiedade. Planejamento fujnciona e respeita a realidade. 
+
+
+## Research 
+
+* A reflection about urgency, pressure, and strategy when we are trying to navigate towards entrepreneurial success
+* Ref chatgpt - https://chat.openai.com/share/1e2b62b3-1079-4290-b9bb-42e040b9ca62
+ 
+-->

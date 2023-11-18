@@ -1,24 +1,5 @@
 # The flow of pressure  
 
-<!--
-
-## Check
-
-* ( ) Check the situation of Maslow where the pressure that one puts in the person, subordinate, might be taken for granted that the person can holds, as it - it's part of your job. There might be also an article about that somewhere. 
-
-## Version 
-
-* v2.2 
-
-## Note 
-
-* A reflection about urgency, pressure, and strategy when we are trying to navigate towards entrepreneurial success
-* Ref chatgpt - https://chat.openai.com/share/1e2b62b3-1079-4290-b9bb-42e040b9ca62
-
-## 
-
---> 
- 
 We often find ourselves under pressure, whether it's derived from internal or external factors. How we handle this pressure can be a decisive factor between victory and defeat. A recent lesson reveals that at times, wrongly applied pressure can steer us off the real path to achieve our goals.
 
 On a maritime journey, a commander and his sailor sons face the challenge of maintaining their course and reaching their destination. The commander, impatient with the lack of progress, opts for an aggressive approach: he throws one of the sailor's luggage into the sea, hoping to ignite a reaction. However, despite his drastic action, the boat doesn't speed up.

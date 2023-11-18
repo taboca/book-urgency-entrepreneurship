@@ -1,22 +1,19 @@
 
-<!-- 
-
 ## Todo 
 
 * ( ) The references to Eric Ries were taken from the "O Estilo Startup" instead of "The Startup Way". Marcio also brought a definition of a startup from "The Lean Startup" with a degree of guess and non-confirmed English translation when he wrote that according to Eric Ries a startup is "a human institution designed to create a new product or service under conditions of extreme uncertainty."
 
-* ( ) insight - check if group thinking carrying values, such as values tied to outcomes, can supress the opportunity when growth of an individual would be possible, ideas for example, this by using "he is best at" as seen we supress the inner self that could save the situation. Thus, the topic of protection before critics. Might tie with case of "containment" by Julia Cameron, p168-170, check her amazing quotes on picking the friendly critis or friendly editor vs. protecting. 9438988-4304093490-04304903-4928408 
+* ( ) insight - check if group thinking carrying values, such as values tied to outcomes, can supress the opportunity when growth of an individual would be possible, ideas for example, this by using "he is best at" as seen we supress the inner self that could save the situation. Thus, the topic of protection before critics. Might tie with case of "containment" by Julia Cameron, p168-170, check her amazing quotes on picking the friendly critis or friendly editor vs. protecting. 9438988-4304093490-04304903-4928408 / By the way this notion is clearly stated within "The Feedback of Urgency" 
+
+* ( ) Check - “[Reid Hoffman asks] And what are the indicators that you would use for checking the idea. [context: You could be jumping off a clicf without the ability to assemble the airplane on your way down]. What are the crosschecks you think people should do?
+
+* ( ) Check - "[Michael Dearing] One really good one is to give a chunk of time in the schedule to devil’s advocacy. And this was a tactic that I learned from Michael Eisner at Disney. I didn’t work for him but I worked for somebody who worked for him and the whole idea there was — every big good idea is going to be subjected to a devil’s advocate case. And somebody, probably the smartest person he could find, is going to be in charge of trying to destroy your idea. And he or she isn’t gonna be held as, like, they’re not going to be considered to be out of bounds for trying to destroy your idea it was their job to try to destroy your idea. And that technique of saying — okay, you please spend the next two days finding everything wrong with this, and then you have full permission to be the biggest asshole you ever met, trying to torpedo this idea. If you can find some people in your life who can play that role, that’s a huge positive as a founder. (Michael Dearing @ Greylock, 2015, 33min18sec)
+
 
 ## Feat 
 
 * Eric Ries, The Start-up Way 
 * Walter Fisher, Human Communication as Narration 
-
-## Review candidates 
-
-* CY - 
-* MD - 
-* ER - 
 
 ## Title 
 
@@ -43,8 +40,6 @@
 
 SCqA - v0.1 - Teams drop lean? Wait, what is lean? Recognize lean, reason, exactly to seek truths. But the complication is that, in the pressure of goals and expectations, the "Logic of good" reasons applies on different levels, associated with expectation goals. Q and A? Why? The logic of good reasons, and storytelling, supports advancing in a team. Again, the grease. What are generally good reasons? The outcomes as seen. Key 3 is that Incidents feed good reasons in time, we compare with the prior state, like a storytelling. We might be compensating positive with negative? Key 2, for how, is that "Zones of lean" creates allowances but the outcome of the zones, story outcomes, finds "trigger points" where hierarchies of good reasons promotes advancement at another investment level of scale, supposedly influencing risk assessment and fear. 
 
---> 
-
 
 [^stevenobusinessplansurvives]: 
 
@@ -70,15 +65,12 @@ Graham, P. (2012, September). Startup = Growth. Retrieved August 29, 2023, from 
 * founder comes out if the building, asks to pivot, team claims the Steve 72h rule. Founder goes back to streets.
 
 
-<!-- 
-
 MAP14. (2014, March 13). MAP14 Public Forum: Steve Blank. [video]. Retrieved from https://youtu.be/UFx2CQUTpYo
 
---> 
+## cross
 
-<!-- 
-cross: links to part 2, 200/620_lean_no_lean.txt 
---> 
+* links to part 2, 200/620_lean_no_lean.txt 
+
 
 * Check p. 48 "Moreover, narrative rationality does not deny the limited but necessary use of technical logic in assessing inferences or implicative forms that occur in human communication. I would observe, however, that such assessments become useful only insofar as the discourse in considered as a whole, as part of a storied context in which other features of the discourse are taken into account, including mythic and metaphoric elements. " p. 48 
 
@@ -143,21 +135,16 @@ Belsky, Scott. (2010). Making Ideas Happen. London, England: Portfolio.
 Greylock. (2015, October 8). Blitzscaling 03: Michael Dearing on Capitalism, Creativity, and Creative Destruction [Video]. YouTube. https://youtu.be/3vCdfa_aeI8?t=3600. Minute 1:00.
 
 --> 
-#### Consider: 
+
+### Consider
 
 * Moving into lean, the consideration of message and carrier, the storytelling by a storyteller, and the system of values supporting by the accounting. This shall establish also a bridge to the modes to help with the innovation problem as pointed by Eric Ries, innovation accounting, for example. A link also can be give to Michael Dearing on Npv and the provocation from Reid Hoffman. 
 
-<!-- 
+* Ref https://medium.com/founder-staging/72-hour-rule-for-founders-keep-your-mouth-shut-before-announcing-the-word-pivot-feat-bc3cf74b7815
 
-Work more here
+* Since awareness is key to any process, and founders generally suffer from being enamored with the process, it becomes the founder’s responsibility first to recognize such syndrome; then second, to find for ways to ensure the process is running with quality. But the problem with quality is always in knowing which criteria to use for these situations that can be really adverse. In Steve Blank’s suggestion, founders should find a board of directors or an advisory board: The body responsible for from an outside perspective therefore supporting the founder to get out from instant pressures, and compromising decisions. The business consultant and author Jim Collins speaks of a related viewpoint that he calls The Personal Board of Directors: Another point is to bring up the ideas from Michael Dearing, related to cognitive distortions of founders. 
 
-https://medium.com/@mcgd/the-cognitive-distortions-of-founders-8e96c1edf60b
+### Research 
 
--->
-
-https://medium.com/@mcgd/the-cognitive-distortions-of-founders-8e96c1edf60b
-
-“[Reid Hoffman asks] And what are the indicators that you would use for checking the idea. [context: You could be jumping off a clicf without the ability to assemble the airplane on your way down]. What are the crosschecks you think people should do?
-
-> "[Michael Dearing] One really good one is to give a chunk of time in the schedule to devil’s advocacy. And this was a tactic that I learned from Michael Eisner at Disney. I didn’t work for him but I worked for somebody who worked for him and the whole idea there was — every big good idea is going to be subjected to a devil’s advocate case. And somebody, probably the smartest person he could find, is going to be in charge of trying to destroy your idea. And he or she isn’t gonna be held as, like, they’re not going to be considered to be out of bounds for trying to destroy your idea it was their job to try to destroy your idea. And that technique of saying — okay, you please spend the next two days finding everything wrong with this, and then you have full permission to be the biggest asshole you ever met, trying to torpedo this idea. If you can find some people in your life who can play that role, that’s a huge positive as a founder. (Michael Dearing @ Greylock, 2015, 33min18sec)
+* Check - https://medium.com/@mcgd/the-cognitive-distortions-of-founders-8e96c1edf60b
 

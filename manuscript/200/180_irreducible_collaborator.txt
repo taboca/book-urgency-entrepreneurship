@@ -1,4 +1,4 @@
-# Irreducible minimum 
+## Irreducible minimum 
 
 <!--
 
