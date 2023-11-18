@@ -32,15 +32,12 @@
 
 ### Part 2, lost and found 
 
-200/100_hiring_counsciousness.txt
-200/050_super_fast_really_works.txt                                   # team live, transcending, vision access 
+#200/100_hiring_counsciousness.txt
+#200/050_super_fast_really_works.txt                                   # team live, transcending, vision access 
 
 ### Part 2, transactional communication 
 
 200/040_induction_embedded_everything.txt
-
-200/060_effort_denial_of_management_23106f99-20fd-4049-b69d-e9bde758902e.txt
-200/090_saying_thanks_reflections.txt
 
 ### Part 2, transactional attraction, storytelling, stortelling platforms
 
@@ -52,6 +49,7 @@
 
 200/250_stop_impressing.txt
 200/410_breaking_automatic_reaction_550e8400-e29b-41d4-a716-446655440000.txt
+200/090_saying_thanks_reflections.txt
 
 200/610_lean_no_lean_1.txt
 200/620_lean_no_lean_2.txt
