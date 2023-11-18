@@ -22,7 +22,9 @@
 100/600_driven_by_fear.txt
 100/610_driven_by_love.txt
 
-100/630_fast_cliches.txt
+200/705_hora_h.txt                                                   # Pressure on one side, to decide, other not 
+
+100/630_running_readiness.txt
 
 100/900_personal_board-en-us.txt
 100/950_accounting_learning.txt
@@ -44,7 +46,7 @@
 200/120_reaction_with_potentialized_animated_transactional_items.txt
 200/220_success_as_a_service.txt
 
-### Part 2, impressing, pleasing, and transcending 
+### Part 2, impressing, pleasing, and transcending feedback of urgency 
 
 200/250_stop_impressing.txt
 200/410_breaking_automatic_reaction_550e8400-e29b-41d4-a716-446655440000.txt
@@ -54,15 +56,12 @@
 200/630_lean_no_lean_3.txt
 200/640_business_canvas.txt
 
-200/700_praise_navigation_ability.txt
-
-200/705_hora_h.txt
-
 ### Part 2, the medium's opportunity, the influence of the medium 
 
 100/850_communication_space_tool.txt 
 200/800_collaboration_new_medium.txt
 200/860_role_models_design_empatia.txt
+200/700_praise_navigation_ability.txt
 
 ### Part 2, Releasing sales present pressure 
 
