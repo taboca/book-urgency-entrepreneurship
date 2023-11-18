@@ -22,8 +22,6 @@
 100/600_driven_by_fear.txt
 100/610_driven_by_love.txt
 
-200/705_hora_h.txt                                                   # Pressure on one side, to decide, other not 
-
 100/630_running_readiness.txt
 
 100/900_personal_board-en-us.txt
@@ -43,8 +41,12 @@
 
 200/060_effort_denial_of_management_23106f99-20fd-4049-b69d-e9bde758902e.txt
 200/090_saying_thanks_reflections.txt
-200/120_reaction_with_potentialized_animated_transactional_items.txt
-200/220_success_as_a_service.txt
+
+### Part 2, transactional attraction, storytelling, stortelling platforms
+
+200/200_storytelling_animation.txt
+200/210_storytelling_decide.txt                       
+200/220_storytelling_stages.txt
 
 ### Part 2, impressing, pleasing, and transcending feedback of urgency 
 

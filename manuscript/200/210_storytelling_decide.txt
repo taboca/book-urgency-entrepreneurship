@@ -1,9 +1,11 @@
-# The heat of the hour  
+## Attracted to decide   
 
 <!--
 
 ## Title 
 
+* v0.4 - Attracted to decide 
+* v0.3 - Heat of the hour 
 * v0.2 - Fight  
 * v0.1 - What happens in the hour 
 
