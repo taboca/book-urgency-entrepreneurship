@@ -1,4 +1,4 @@
-# Lean, procrastination and entrepreneurial's block 
+# Lean procrastination and entrepreneurial's block 
 
 <!--
 
@@ -40,10 +40,48 @@ Mas não deveriam os processos ágeis proporcionar mais aprendizado justamente p
 Outros empreendedores, por sua vez, evitam problemas no futuro quando se vêem motivados por suas criações mas ao mesmo tempo motivados em entender as verdades; em saber se o mundo exterior aceita suas criações como elas são. Eles mesmos se colocam na posição de advogarem a favor e contra, assim defendem inclusive os interesses do ambiente externo, por exemplo a visão dos consumidores, dos investidores, etc.
 
 
-## How it's experienced 
+## Experienging the holistic view under pressure 
 
 
+Mas *Lean Startup* é somente uma dessas metodologias. Em 2014, o Google promoveu um debate entre os criadores do *Lean Startup* e do *Design Thinking* intitulada *Lean Startup Meets Design Thinking*. Nesse debate, o autor Eric Ries{id: author-eric-ries-200-600-b} falou sobre a abrangência desses processos:
 
+> Grab the Design silo  —and they have read Tim’s book, and if they understand what a modern approach design looks like, you will see kind of design thinking that he mentioned. Grab Marketing, you will see customer development. If you grab Operations, you will see some Dev Ops.. — Eric Ries{id: author-eric-ries-200-600-d} (Google for Startups, 2017, [XX:YY](https://medium.com/@taboca/disconnection-from-the-everyday-works-purpose-7c4b29d861d9))
+
+[^designthinking]: *Design Thinking* é um processo na mesma linha de outros “leves” ou “ágeis” mas originado do mundo do design e aplicável em um contexto mais amplo nas empresas. https://hbr.org/2008/06/design-thinking
+
+Eric passa a ideia da abrangência das metodologias ágeis, todas bem intencionadas para elevar diferentes departamentos na linha do movimento ágil. Porém, tal abrangência ou abundância, não necessariamente resolve a questão maior da coerência entre departamentos:
+
+> *“You might find an organization where at every silo, things are very iterative, customer centric, and where people are really focused on learning. But then, zoom out and you will say “wow, this must be a really adaptable, learning oriented company, this is fantastic.” But actually, what you will see in a lot of companies, is, although there all this iteration learning happening at each individual silo, the actual work product that company produces, is passed binder to binder from each silo to the next, in a totally linear and old school waterfall style approach. “* — Eric Ries{id: author-eric-ries-200-600-e2} (Google for Startups, 2017, [XX:YY](https://medium.com/@taboca/disconnection-from-the-everyday-works-purpose-7c4b29d861d9))
+
+Segundo Eric, os líderes desses departamentos acreditam que se pudessem controlar os outros departamentos as coisas seriam bem mais fáceis. Ou seja, o olhar de dentro do silo lhes dá esperança que suas metodologias ágeis são suficientes para resolver o sucesso do todo. Mas ainda assim, o desafio dos CEOs está na harmonia entre os silos — eles sofrem na arte da coreografia, que atua entre o produto do trabalho dos silos:
+
+> *"Of course, everybody in all the silos are saying that, and, for modern managers that can be really challenging. So, for me, my aspiration for Lean Startup is not to have people adopt it as yet another silo approach, but rather to take these common elements, that are common to design thinking, and to agile, and to lean, and certain apply them at a system-wide, at the company level, so that we have a common framework for understanding what are the problems, a common approach for the process that we are going to use to solve those problems, and most importantly, we can speak the language of business to say “he are the concrete financial and business outcomes that we can achieve if we work in this way”"*. — Eric Ries{id: author-eric-ries-200-600-f2} (Google for Startups, 2017, [XX:YY](https://medium.com/@taboca/disconnection-from-the-everyday-works-purpose-7c4b29d861d9))
+
+Essa preocupação com a união, ou falta de, entre os departamentos das empresas, pode servir de base para a exploração do problema que empreendedores também enfrentam quando lidam com os processos ágeis no estágio inicial das suas startups. Nesse contexto, obviamente não existem silos, os vários departamentos. No início, não existe produto nem clientes. A única coisa que empreendedores têm são as hipóteses iniciais. Segundo Steve Blank{id: author-steve-blank-200-600-b}, uma *startup* é uma instituição em fase de descoberta. [^author-steveblankstartup].
+
+[^author-steveblankstartup]: nonono nononono nonnono nononono ononono nonon ono nonono nonono nonono non on onoooo. https://steveblank.com/2010/01/14/a-startup-is-not-a-smaller-version-of-a-large-company/
+
+
+> *“It’s easy for us, to kind of get lost and forget what the purpose of our work everyday is. I think a lot of the waste in the modern work environment has to do with people that become disconnected from what is that purpose, what is the greater meaning of the work that we do.”* [Eric Ries @ 10m35s](https://youtu.be/bvFnHzU4_W8?t=10m35s) Lean Startup Meets Design Thinking
+
+
+### The breakdown of the holistic view 
+
+* Situação — em uma start-up. O designer contratou duas designers, e pediu para fazer teste de usabilidade. Quando ela mostrou resultado, ela sentiu que ele se sentiu ofendido e recebeu como uma crítica. Caso: é recomendável que o designer não faça o teste de usabilidade porque ele pode reagir na defensiva.
+
+
+* [Caso] Caso do designer contratou UX experience designers para testes de usabilidade mas não gostou dos resultados. Um designer-chefe era seu superior e contratou ela e outra designer para fazer teste de usabilidade. Elas fizeram o trabalho mas quando apresentaram para ele a reação foi uma surpresa pois os resultados não agradaram.
+
+* A situação, para ela, foi de certa forma uma surpresa porque afinal de contas elas tinham sido contratadas para o serviço.
+
+* Uma hipótese é que ele estava com medo, por exemplo diante do que ele achou que era esperado da sua posição — por exemplo medo do seu trabalho ser julgado e sua posição ser colocada em risco. Esta situação, caso fosse uma realidade, relaciona-se com cultura da empresa e também com a comunicação das iniciativas já que o designer-chefe poderia ter trabalhado com seus superiores para que estivesse tudo bem em encontrar erros.
+
+* A ideia do processo todo é de encontrar aprendizado.
+
+* Uma questão colocada, neste sentido, foi a questão do tempo e pressão. Ou seja, existem condições onde os especialistas estão com uma agenda fazendo pressão. E nesta situação, comentamos que é sempre o melhor que existam dois eixos. Um eixo de aprendizado e um eixo de execução. E faz parte do desenvolvimento lean, orientado ao aprendizado, a situação de aprender, anotar, crescer; e as vezes entregar outra coisa mas sem esconder o aprendizado, ou seja, permitindo uma opção para versões futuras e mantendo o investimento do aprendizado como pauta viva.
+
+
+## Exntrepreneurial attention deficit 
 
 
 MAP14 public forum, 2014, Australia – Rohan Workman interviewed Steve Blank and asked about challenge of doing lean versus talking about lean (in the context of an entrepreneur or founder that is yet responsible for a start-up at the discovery phase.)
@@ -103,52 +141,6 @@ MAP14. (2014, March 13). MAP14 Public Forum: Steve Blank. [video]. Retrieved fro
 
 
 
-
-
-## COnsiderations for the holistic view for an idea in progress 
-
-
-
-Mas *Lean Startup* é somente uma dessas metodologias. Em 2014, o Google promoveu um debate entre os criadores do *Lean Startup* e do *Design Thinking* intitulada *Lean Startup Meets Design Thinking*. Nesse debate, o autor Eric Ries{id: author-eric-ries-200-600-b} falou sobre a abrangência desses processos:
-
-> Grab the Design silo  —and they have read Tim’s book, and if they understand what a modern approach design looks like, you will see kind of design thinking that he mentioned. Grab Marketing, you will see customer development. If you grab Operations, you will see some Dev Ops.. — Eric Ries{id: author-eric-ries-200-600-d} (Google for Startups, 2017, [XX:YY](https://medium.com/@taboca/disconnection-from-the-everyday-works-purpose-7c4b29d861d9))
-
-[^designthinking]: *Design Thinking* é um processo na mesma linha de outros “leves” ou “ágeis” mas originado do mundo do design e aplicável em um contexto mais amplo nas empresas. https://hbr.org/2008/06/design-thinking
-
-Eric passa a ideia da abrangência das metodologias ágeis, todas bem intencionadas para elevar diferentes departamentos na linha do movimento ágil. Porém, tal abrangência ou abundância, não necessariamente resolve a questão maior da coerência entre departamentos:
-
-> *“You might find an organization where at every silo, things are very iterative, customer centric, and where people are really focused on learning. But then, zoom out and you will say “wow, this must be a really adaptable, learning oriented company, this is fantastic.” But actually, what you will see in a lot of companies, is, although there all this iteration learning happening at each individual silo, the actual work product that company produces, is passed binder to binder from each silo to the next, in a totally linear and old school waterfall style approach. “* — Eric Ries{id: author-eric-ries-200-600-e2} (Google for Startups, 2017, [XX:YY](https://medium.com/@taboca/disconnection-from-the-everyday-works-purpose-7c4b29d861d9))
-
-Segundo Eric, os líderes desses departamentos acreditam que se pudessem controlar os outros departamentos as coisas seriam bem mais fáceis. Ou seja, o olhar de dentro do silo lhes dá esperança que suas metodologias ágeis são suficientes para resolver o sucesso do todo. Mas ainda assim, o desafio dos CEOs está na harmonia entre os silos — eles sofrem na arte da coreografia, que atua entre o produto do trabalho dos silos:
-
-> *"Of course, everybody in all the silos are saying that, and, for modern managers that can be really challenging. So, for me, my aspiration for Lean Startup is not to have people adopt it as yet another silo approach, but rather to take these common elements, that are common to design thinking, and to agile, and to lean, and certain apply them at a system-wide, at the company level, so that we have a common framework for understanding what are the problems, a common approach for the process that we are going to use to solve those problems, and most importantly, we can speak the language of business to say “he are the concrete financial and business outcomes that we can achieve if we work in this way”"*. — Eric Ries{id: author-eric-ries-200-600-f2} (Google for Startups, 2017, [XX:YY](https://medium.com/@taboca/disconnection-from-the-everyday-works-purpose-7c4b29d861d9))
-
-Essa preocupação com a união, ou falta de, entre os departamentos das empresas, pode servir de base para a exploração do problema que empreendedores também enfrentam quando lidam com os processos ágeis no estágio inicial das suas startups. Nesse contexto, obviamente não existem silos, os vários departamentos. No início, não existe produto nem clientes. A única coisa que empreendedores têm são as hipóteses iniciais. Segundo Steve Blank{id: author-steve-blank-200-600-b}, uma *startup* é uma instituição em fase de descoberta. [^author-steveblankstartup].
-
-[^author-steveblankstartup]: nonono nononono nonnono nononono ononono nonon ono nonono nonono nonono non on onoooo. https://steveblank.com/2010/01/14/a-startup-is-not-a-smaller-version-of-a-large-company/
-
-
-> *“It’s easy for us, to kind of get lost and forget what the purpose of our work everyday is. I think a lot of the waste in the modern work environment has to do with people that become disconnected from what is that purpose, what is the greater meaning of the work that we do.”* [Eric Ries @ 10m35s](https://youtu.be/bvFnHzU4_W8?t=10m35s) Lean Startup Meets Design Thinking
-
-
-### The breakdown of the holistic view 
-
-* Situação — em uma start-up. O designer contratou duas designers, e pediu para fazer teste de usabilidade. Quando ela mostrou resultado, ela sentiu que ele se sentiu ofendido e recebeu como uma crítica. Caso: é recomendável que o designer não faça o teste de usabilidade porque ele pode reagir na defensiva.
-
-
-* [Caso] Caso do designer contratou UX experience designers para testes de usabilidade mas não gostou dos resultados. Um designer-chefe era seu superior e contratou ela e outra designer para fazer teste de usabilidade. Elas fizeram o trabalho mas quando apresentaram para ele a reação foi uma surpresa pois os resultados não agradaram.
-
-* A situação, para ela, foi de certa forma uma surpresa porque afinal de contas elas tinham sido contratadas para o serviço.
-
-* Uma hipótese é que ele estava com medo, por exemplo diante do que ele achou que era esperado da sua posição — por exemplo medo do seu trabalho ser julgado e sua posição ser colocada em risco. Esta situação, caso fosse uma realidade, relaciona-se com cultura da empresa e também com a comunicação das iniciativas já que o designer-chefe poderia ter trabalhado com seus superiores para que estivesse tudo bem em encontrar erros.
-
-* A ideia do processo todo é de encontrar aprendizado.
-
-* Uma questão colocada, neste sentido, foi a questão do tempo e pressão. Ou seja, existem condições onde os especialistas estão com uma agenda fazendo pressão. E nesta situação, comentamos que é sempre o melhor que existam dois eixos. Um eixo de aprendizado e um eixo de execução. E faz parte do desenvolvimento lean, orientado ao aprendizado, a situação de aprender, anotar, crescer; e as vezes entregar outra coisa mas sem esconder o aprendizado, ou seja, permitindo uma opção para versões futuras e mantendo o investimento do aprendizado como pauta viva.
-
-
-
-
 ### The fusion with the critic  
 
 Foi comentado sobre questões que pessoas tem preferências, relacionado com biases, tanto nos individuais como nos times. Por exemplo, times precisam realizar suas metas ou individuais precisam executar seus trabalhos diante de objetivos esperados. E isso pode ser um conflito com a situação de aprendizado dos processos lean.
@@ -161,10 +153,7 @@ Foi comentado sobre questões que pessoas tem preferências, relacionado com bia
 
 * Também alguém falou de inteligência coletiva, que a coleção de dados é maior e mais relevante do que preferências individuais.
 
-
-
-### You don't know what you are advocating 
-
+#### You don't know what you are advocating 
 
 * Steve — a primeira reação de um grande fundador é pensar que "eles simplesmente não entendem a ideia". Mas lá na frente, cai a ficha e o founder pensa "ah, talvez eles estão tentando me dizer algo". [Steve Blank, 2014, MAP Unimelb 26m49s](https://youtu.be/UFx2CQUTpYo?t=26m49s)
 
@@ -239,7 +228,7 @@ Tirar “nota 10” em uma ou outra tarefa não implica que o empreendimento ir�
 
 
 
-
+> *"It is very important that we keep a few nurturing readers as friends to our work quite apart from whatever is going on in our publishing life. We need people who are happy to hear a poem or an essay for its own sake and not as career maneuaveurs. The part of us that writes must be allowed to write freely and not always with an eye to the market. An eye to the market is part of the writing life, but if it is too large a part, it shuts down invention and leads to the blockage of many valuable avenues of exploration which are not - at first blush - commercial." (Julia Cameron, 1998, p.181)
 
 
 ### Canvas projection or canvas learning 
