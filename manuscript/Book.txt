@@ -47,10 +47,7 @@
 200/410_breaking_automatic_reaction_550e8400-e29b-41d4-a716-446655440000.txt
 200/090_saying_thanks_reflections.txt
 
-200/610_lean_no_lean_1.txt
-200/620_lean_no_lean_2.txt
-200/630_lean_no_lean_3.txt
-200/640_business_canvas.txt
+200/630_lean_no_lean.txt
 
 ### Part 2, the medium's opportunity, the influence of the medium 
 
