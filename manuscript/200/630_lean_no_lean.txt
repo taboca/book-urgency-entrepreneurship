@@ -131,7 +131,10 @@ Essa preocupação com a união, ou falta de, entre os departamentos das empresa
 > *“It’s easy for us, to kind of get lost and forget what the purpose of our work everyday is. I think a lot of the waste in the modern work environment has to do with people that become disconnected from what is that purpose, what is the greater meaning of the work that we do.”* [Eric Ries @ 10m35s](https://youtu.be/bvFnHzU4_W8?t=10m35s) Lean Startup Meets Design Thinking
 
 
-### Breakdown of holistics 
+### The breakdown of the holistic view 
+
+* Situação — em uma start-up. O designer contratou duas designers, e pediu para fazer teste de usabilidade. Quando ela mostrou resultado, ela sentiu que ele se sentiu ofendido e recebeu como uma crítica. Caso: é recomendável que o designer não faça o teste de usabilidade porque ele pode reagir na defensiva.
+
 
 * [Caso] Caso do designer contratou UX experience designers para testes de usabilidade mas não gostou dos resultados. Um designer-chefe era seu superior e contratou ela e outra designer para fazer teste de usabilidade. Elas fizeram o trabalho mas quando apresentaram para ele a reação foi uma surpresa pois os resultados não agradaram.
 
@@ -146,7 +149,7 @@ Essa preocupação com a união, ou falta de, entre os departamentos das empresa
 
 
 
-### The fusion with the critic and preferences 
+### The fusion with the critic  
 
 Foi comentado sobre questões que pessoas tem preferências, relacionado com biases, tanto nos individuais como nos times. Por exemplo, times precisam realizar suas metas ou individuais precisam executar seus trabalhos diante de objetivos esperados. E isso pode ser um conflito com a situação de aprendizado dos processos lean.
 
@@ -160,6 +163,10 @@ Foi comentado sobre questões que pessoas tem preferências, relacionado com bia
 
 
 
+### You don't know what you are advocating 
+
+
+* Steve — a primeira reação de um grande fundador é pensar que "eles simplesmente não entendem a ideia". Mas lá na frente, cai a ficha e o founder pensa "ah, talvez eles estão tentando me dizer algo". [Steve Blank, 2014, MAP Unimelb 26m49s](https://youtu.be/UFx2CQUTpYo?t=26m49s)
 
 
 
@@ -167,7 +174,9 @@ Foi comentado sobre questões que pessoas tem preferências, relacionado com bia
 
 
 
-## Learning as in discoverability 
+
+
+## Learning to discover
 
 The key to executing the process is to do it first without holding the agenda for the success (for the business or the idea.) Success, for the process, is most likely the case of learning new information (good or bad.) When going out, or trying to be systematic about the data you get, you need to be genuine to the cause (the bold vision) but at the same time recognize uncertainty and that learning will help you out in the long run.
 
@@ -179,13 +188,6 @@ And the same may also apply to what the founder would get as failure. In Scott B
 * Scott Belsky em Making Idea Happen deixa a dica sobre a prática da tolerância que permite injustiças temporárias. “The best practice here is to develop a tolerance for momentary injustice an periods of ambiguity. Stay strong and stay calm as a situation settles itself over time and the clouds around any period of change start to dissipate. “ (Scott Belsky, 2010, Making Ideas Happen)
 
 
-
-
-### You don't know which idea you are seeking 
-
-* Situação — em uma start-up. O designer contratou duas designers, e pediu para fazer teste de usabilidade. Quando ela mostrou resultado, ela sentiu que ele se sentiu ofendido e recebeu como uma crítica. Caso: é recomendável que o designer não faça o teste de usabilidade porque ele pode reagir na defensiva.
-
-* Steve — a primeira reação de um grande fundador é pensar que "eles simplesmente não entendem a ideia". Mas lá na frente, cai a ficha e o founder pensa "ah, talvez eles estão tentando me dizer algo". [Steve Blank, 2014, MAP Unimelb 26m49s](https://youtu.be/UFx2CQUTpYo?t=26m49s)
 
 
 
@@ -228,6 +230,8 @@ No mundo onde vários colaboradores estão executando suas ações debaixo de gr
 ### Courage to break the critic - containement 
 
 
+* MEans accepting bad results because the critic is not truth 
+* Put MD case of Disney 
 
 Em geral, poucos empreendedores têm coragem para investir o tempo nesse tipo de esforço. Outros fazem pior ao se convencerem que a execução das atividades  ágeis por si só significa sucesso. E assim eles dizem “Ah, eu fiz o processo do *canvas*” ou “Estou fazendo o processo correto das entrevistas qualitativas” e passam a avançar em um modo acelerado que os cega de reconhecer que deveriam aprender e retroceder. Executar as metodologias ágeis é bom, mas não vale nada quando questões fundamentais não são respeitadas. Pior ainda: é quando o processo é usado errado de forma consciente e deliberada para criar uma falsa ideia, como quem usa os dados em uma apresentação para provar um ponto, mas sabe que é falso. Nessa linha, existem empreendedores de vários tipos: inocentes, encantados, e os que se enganam. Mas independente do perfil, uma coisa é certa — o negócio não sobrevive pois no final é o negócio que dita como serão as coisas.
 
