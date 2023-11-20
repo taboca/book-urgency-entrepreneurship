@@ -87,7 +87,6 @@
 300/200_invisible_contracts_and_our_roles.txt
 300/210_contracts_plus.txt
 300/250_they_system_does_not_allow.txt
-300/220_positive_intentions_technology.txt
 
 ### Part 3, evaluation and pressure 
 
