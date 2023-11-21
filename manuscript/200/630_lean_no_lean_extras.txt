@@ -1,0 +1,33 @@
+## Letter Marcio to Eric von Hippel 
+
+```
+Letter to Eric Von Hippel — Thoughts Related to User Innovation roles related to Innovator’s Dilemma 
+Hi Mr Eric,
+
+This week I engaged in re-reading the book of Clayton Christensen, Innovator’s Dilemma. However, in this fresh attempt I was more tuned to a customer-oriented mindset. Specifically when reading the following note, it made me consider user innovation:
+
+“Third, we must hit a low price point. Disruptive technologies typically have a lower sticker price per unit than products that are used in the mainstream, even though their cost in use is often higher. What enabled the use of disk drives in desktop computers was not just their smaller size; it was their low unit price, which fit within the overall price points that personal computer makers needed to hit. The price *per megabyte* of the smaller disk drives was always higher than for the larger drives.” Clayton Christensen, Innovator’s Dilemma, p 91%.
+
+It’s interesting to look at how Clayton positioned the viewpoint of “lower price point” and right after he aligned informing that such lower price point was in fact a fit criteria “within the overall price points” related to the personal computer needs.
+
+This made me consider, that, perhaps actually in fact such “lower” was not lower at all. It was just a match under perhaps a “top need” for that emergent growing emerging market that is emerging due to innovative usage by its lead users.
+
+Clayton sort of acknowledges such interpretation when he adds that “[t]he price *per megabyte* of the smaller disk drives was always higher.” I think that such additional statement is precious, and can be looked from the two views:
+
+First, from the lead user-customer viewpoint: 
+
+And here will insert one of my own stories. I remember when my father gave me a 700 USD hard disk made by Seagate, it was a 5 &1/4 inches size. It was like having a Ferrari. We knew it costed a life to us but the point was that it enabled a whole new world for the applications I was doing, thinking, dreaming. As an example, I was able to bring graphical images directly from the hard disk to the VGA display board; and able to record continuous footage from the computer (animation) to the VCR; the equivalent VGA-only board solution for that at the time would cost multiple times the HD price.
+
+And second, from the mainstream market viewpoint, the players using large and cheaper storages such as banks, those small HD were super expensive and would never be applicable or would be far from being a reality.
+
+Looking at these viewpoints it made me notice how strongly the subject of user innovation appears, however quite hidden, in the story presented by Clayton. He himself acknowledged, in other part of the book (chapter 10) that the marketing strategy for going towards an unknown market where a potential disruptive technology is acting; has to do with learning — learning from that initial potential market, following it first with the mindset of understanding how it grows instead of doing research with other existing markets or applying big bets such as what Apple did with the Newton.
+
+Thus, for now, I will conclude that the unclear data points of a potential new market, one that is directly affected by a disruptive technology insertion, is exactly related to the probability of lead user groups, including potential different groups that differ on *how to do things*, in finding new applicable solutions solving their (unfolding) market needs. And, that companies can have a role in this story as they can cultivate a platform to facilitate the understanding, spread, recombination, scaling potential, or other factors influencing the potential market construct. 
+
+Would you think this is too obvious or any point could be added to these thoughts? I wonder if you know of works where user innovation is mixed with early markets, such as from user innovation to product market fit.
+
+Thank you for reading,
+
+Marcio
+
+```
