@@ -1,7 +1,11 @@
-# Lean procrastination and entrepreneurial's block 
+# Lean deficit disorder 
 
 <!--
 
+## Titles 
+
+* v0.2 - Lean deficit disorder 
+ 
 ## SCqA
 
 * Situation - 
@@ -11,37 +15,28 @@
 
 --> 
 
-A cultura *lean*, dos processos ágeis, permeou-se entre grandes empresas e no mundo dos empreendedores, como um lubrificante que promete mais eficiência para as novas e velhas engrenagens do trabalho. Essa cultura vai de encontro com o mundo que ficou mais interativo e dinâmico, que aproximou o produtor do consumidor. Esse processo promove melhor aprendizado com ciclos de experimentação mais rápidos — assim, menos risco diante da velha abordagem dos grandes esforços e apostas de longo prazo.
+O movimento *lean* permeou-se entre grandes empresas e no mundo dos empreendedores, pois reflete o mundo que ficou mais interativo, mais dinâmico, onde o produtor está mais próximo do consumidor. São inúmeras metodologias que promovem aprendizado que contribui com o processo de inovação para criação de produtos e serviços. Consideremos Lean Startup, que é uma metodologia onde o progresso depende do conceito de aprendizado validado [^footnote_leanstartup_validated_learning] que torna-se vital no ambiente de extrema incerteza. Segundo Steve Blank{id: author-steve-blank-200-600-a} [HBR 2013] a abordagem diminui os riscos porque favorece a experimentação em oposição ao pré-planejamento elaborado. 
 
-Neste sentido, são inúmeras metodologias que se aplicam aos vários departamentos das empresas, ou seja, não é um movimento restrito aos departamentos de tecnologia da informação. A própria metodologia *Lean Startup* [^leanstartup], lançada por Eric Ries{id: author-eric-ries-200-600-a}, é baseada em ideias emprestadas do mundo da indústria automobilística [^leanmanufacturing] e pode ser entendida como um metaprocesso que se harmoniza com outros processos ágeis mais específicos.
+Vale lembrar que os movimentos lean mudam o padrão da fórmula tradicional que envolvia a escrita do plano de negócios, o *pitch* para os investidores, a montagem do time, lançamento do produto e finalmente vendas. Em outras palavras, os movimentos lean estão presentes na fase de design da startup ou da unidade de trabalho de empresas grandes que buscam inovar seus produtos ou serviços. Em outras palavras, a interação com o ambiente externo tem a intenção de reduzir riscos e permitir investimentos maiores, como por exemplo a justificação de um protótipo mais elaborado. Então, pode ser abstraído ser um processo que busca maior eficiência para o processo de inovação em contraste com o design e desenvolvimento de longo prazo, quando feito com dados estáticos, como hipóteses, premissas, pesquisa de mercado, etc, que pode acarretar em uma grande surpresa ao ser lançado para um público onde ninguém se interessa. 
 
-[^leanstartup]: Lean Startup é uma metodologia que promove um ciclo de desenvolvimento ágil, onde aprendizado é constante na medida que o desenvolvimento do negócio ou produto é realizado. É compatível com um movimento *lean* mais amplo, onde o desenvolvimento do produto, ou negócio, está mais próximo do consumidor ou da necessidade.  Segundo Steve Blank{id: author-steve-blank-200-600-a} [HBR 2013] a abordagem diminui os riscos porque favorece a experimentação em oposição ao pré-planejamento elaborado. Vale lembrar que o padrão da fórmula de décadas envolvia a escrita do plano de negócios, o *pitch* para os investidores, a montagem do time, lançamento do produto e finalmente vendas.
+Por essa e outras razões os movimentos lean remetem a ideia de menos trabalho, ou menos desperdício, com relação aos recursos já que a interação com o ambiente externo gera a oportunidade para o aprendizado validado que reduz incertezas que justificam maiores investimentos que são esperados também pela situação da startup que buscam o crescimento. Em outras palavras, as metodologias lean conferem grandes poderes uma vez que as dados obtidos por meio das interações justificam investimentos de recursos para novas etapas, mesmo sendo a etapa que pede para voltar o ciclo de novo. 
 
-[^leanmanufacturing]: Segundo Wikipedia, o *Lean manufacturing* ou manufatura enxuta, veio do Sistema Toyota de Produção. É uma filosofia de gestão com o objetivo de reduzir desperdícios como a super-produção, o tempo de espera, transporte, excesso de processamento, inventário, movimento e defeitos. https://pt.wikipedia.org/wiki/Lean_manufacturing
+A razão para nosso momento de reflexão é sobre as grandes responsabilidades, está na consequência natural dos processos poderosos, porque está implícito na situação da startup, porque está implícito na situação da startup o começo pequeno, que parte de hipóteses, onde os dados mesmo que sejam insignificantes, tornam-se intrínsicamente significativos no sentido de afetar o time de forma geral. Em outras palavras, os dados tem muita presença, eles criticam ou aplaudem, de forma geral, porque os testes acabam respondendo as pressões de crescimento e busca por valores significativos ao crescimento, ficam assim testes com tom de critica que seleciona, ou valida, pressionados por uma conexão com números ou projeções de um produto final. Nisso os times podem perder a conexão com o propósito maior que colocam eles juntos em primeiro lugar. Ou podem responder aos números e esbarrarem em variações de produtos, ou pivotar para outros rumos de forma quase que arbitrária, ou ficarem desmotivados diante dos dados que vieram dos seus experimentos que foram muito significativos aos números, dentre outras situações. 
 
-
-Nessa jornada da descoberta, empreendedores têm total liberdade para abraçar vários processos ágeis como por exemplo o *Business Model Canvas*, *Customer Development*, *Lean Startup*, entre outros. Para eles, não faltam receitas, processos ou metodologias, que prometem ciclos ágeis para lançarem suas ideias no mundo. Mas de forma similar, nas empresas, esses processos, mesmo quando executados de forma elegante, oferecem riscos quando falta ao empreendedor a visão mais abrangente sobre o propósito maior. Isso significa que executar bem os processos é bom, mas eles podem falhar na visão holística. O empreendedor pode estar certo sobre uma ou outra atividade e, ao mesmo tempo, ignorar uma outra atividade igualmente importante que poderia mudar o curso das anteriores — é possível tirar “nota 10” em um determinada tarefa e falhar na tarefa final. E qual seria a tarefa final? — A startup funcionar satisfazendo um dado mercado e operando de forma lucrativa e sustentável e estar em conformidade em uma direção de valor, ou visão. 
-
-O empreendedor, seja sozinho ou com seus cofundadores, corre esse risco, de não olhar para os lados. Muitas vezes porque não sabe o que mais deveria estar olhando — qual outro processo poderia curar algum processo existente. Essa ideia não é muito diferente do problema da falta de harmonia entre os silos apresentados por Eric Ries{id: author-eric-ries-200-600-g}. Tanto empresas como empreendedores se encontram  executando muito bem seus silos ágeis; e muitas vezes falhando na coreografia entre as diversas frentes.
-
-O curioso é que o empreendedor deveria ter mais chances de não ser vítima desse problema dos silos, pois a startup é pequena, a comunicação mais direta. Porém, o próprio empreendedor muitas vezes cultiva seus “silos”. Por exemplo, ao viver momentos de  sucesso, sua atenção é desviada e passa a  ignorar sinais. Nesse sentido, é como se o empreendedor se tornasse o advogado e o juiz em causa própria —defende seu próprio sucesso por se tornoar crítico ao olhar para o ambiente externo, inclusive ao ponto de ou aceitar a crítica demais ou negar a crítica demais.
-
-Estaria este empreendedor realmente comprometido com o empreendimento no sentido mais amplo?
-
-Aliás, por que será que empreendedores normalmente não investem tempo fazendo pesquisas com o objetivo em provar que suas ideias podem falhar? Em outras palavras, estarem bem com isso e avançarem para o rumo de ser legal com suas ideias em movimento - que envolve ignorar a crítica por exemplo mercadológica - e avançar com mais aprendizado. 
-
-
-<!-- scqa: complication --> 
 
 Mas não deveriam os processos ágeis proporcionar mais aprendizado justamente porque processos ágeis estão mais próximos do ambiente externo? Sim, em teoria. Porém, na prática, empreendedores correm o risco de  executar as atividades do mundo ágil como uma forma de auto-validação, ou melhor auto-crítica, para que possam avançar na execução da empresa. Assim eles quebram um contrato fundamental da proposta do movimento ágil — dizem que fazem *lean*, mas na realidade não fazem. Talvez essa questão possa ser vista como uma síndrome que decorre de baixa autoestima, tornam-se “perfeccionistas” quando querem somar pontos de sucesso e não se sentem à vontade em avançar com maior reconhecimento sobre seus problemas dando chance para algo que alinha melhor com objetivos, valores que envolve aceitar as falhas e críticas no caminho e encontrar oportunidaes para continuar aprendendo.  
 
-<!-- answer key line --> 
 
-Outros empreendedores, por sua vez, evitam problemas no futuro quando se vêem motivados por suas criações mas ao mesmo tempo motivados em entender as verdades; em saber se o mundo exterior aceita suas criações como elas são. Eles mesmos se colocam na posição de advogarem a favor e contra, assim defendem inclusive os interesses do ambiente externo, por exemplo a visão dos consumidores, dos investidores, etc.
 
+Em termos de preocupações desse ambiente, podemos ainda levantar questões que vem da pressão do crescimento como por quê será que empreendedores não investem tempo fazendo pesquisas com o objetivo em provar que suas ideias podem falhar? Ou de forma mais geral, estariam os empreendedores comprometidos com o potencial do negócio no sentido mais amplo como valores e o significado? Ou ainda, estariam empreendedores comprometidos em validar a natureza do processo, as dificuldades, e por exemplo como a influência dos seus experimentos, como a modelagem, escolha dos experimentos, dados coletados, em cima do processo como elementos que podem alterar os caminhos? 
+
+Esse olhar pede por uma leitura consciente sobre a utilização de processos lean. Nossa primeira reflexão surge a partir da execução dos processos lean, que mesmo quando executados de forma elegante, criam condições onde times, de baixo de pressão, perdem a visão holística que é a visão de propósito. Em outras palavras é possível tirar “nota 10” em um determinada tarefa e falham na tarefa final, como o compromisso com uma visão que vai de encontro com oferecer valor para um mercado de tal forma a operar de forma lucrativa e sustentável e duradoura. 
+
+Nossa segunda reflexão, é centrada no domínio do pequeno time, uma startup em estágio inicial, ou até um empreendedor, que que de forma análoga cultiva silos de representatividade, onde sua atenção é desviada e passa a ignorar sinais e perder a conexão com o significado maior. Em outras palavras, o empreendedor se tornasse a vítima, o advogado, e o juiz em causa própria — defende seu próprio sucesso por se tornoar crítico ao olhar para o ambiente externo, inclusive ao ponto de ou aceitar a crítica demais ou negar a crítica demais.
+
+Finalmente, concluimos com algumas das ideias de pensadores dos movimentos lean e outros que estão compromissados com o entendimento sobre as dificuldades de navegar com interações com o mundo externo e ao mesmo tempo estarem dentro e fora dos dados com o objetivo de criarem mais condições para inovação no mercado. 
 
 ## Experienging the holistic view under pressure 
-
 
 Mas *Lean Startup* é somente uma dessas metodologias. Em 2014, o Google promoveu um debate entre os criadores do *Lean Startup* e do *Design Thinking* intitulada *Lean Startup Meets Design Thinking*. Nesse debate, o autor Eric Ries{id: author-eric-ries-200-600-b} falou sobre a abrangência desses processos:
 
@@ -229,6 +224,9 @@ Tirar “nota 10” em uma ou outra tarefa não implica que o empreendimento ir�
 
 
 > *"It is very important that we keep a few nurturing readers as friends to our work quite apart from whatever is going on in our publishing life. We need people who are happy to hear a poem or an essay for its own sake and not as career maneuaveurs. The part of us that writes must be allowed to write freely and not always with an eye to the market. An eye to the market is part of the writing life, but if it is too large a part, it shuts down invention and leads to the blockage of many valuable avenues of exploration which are not - at first blush - commercial." (Julia Cameron, 1998, p.181)
+
+
+
 
 
 ### Canvas projection or canvas learning 
