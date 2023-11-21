@@ -14,6 +14,17 @@
 [l] 012_investor_introduction.txt 
 [a] accepted to receive the manuscript
 
+
+## Letter to Rohan Workman, Wl on November 21th 2023 
+
+```
+Hi Rohan, 
+
+Hope you are doing good. I once stumbled on your great interview with Steve and special points like Doing Lean vs. Talking about Doing Lean. 
+
+And life pushed me into writing Slow Down Startup, a book still in progress. I wonder if I can send a short introduction of this book and [+]
+```
+
 ## Letter to Jason of It Does not Have to be Crazy at Work, November 21th 2023 
 
 * Via linkedin connection, 
