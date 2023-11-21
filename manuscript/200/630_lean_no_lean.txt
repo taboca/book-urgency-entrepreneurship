@@ -13,6 +13,10 @@
 * Q - 
 * Answer - 
 
+## Side considerations
+
+* It is expensive to achieve vision through data interaction such as validated learning. 
+
 --> 
 
 O movimento *lean* permeou-se entre grandes empresas e no mundo dos empreendedores, pois reflete o mundo que ficou mais interativo, mais dinâmico, onde o produtor está mais próximo do consumidor. São inúmeras metodologias que promovem aprendizado que contribui com o processo de inovação para criação de produtos e serviços. Consideremos Lean Startup, que é uma metodologia onde o progresso depende do conceito de aprendizado validado [^footnote_leanstartup_validated_learning] que torna-se vital no ambiente de extrema incerteza. Segundo Steve Blank{id: author-steve-blank-200-600-a} [HBR 2013] a abordagem diminui os riscos porque favorece a experimentação em oposição ao pré-planejamento elaborado. 
@@ -54,6 +58,8 @@ Essa preocupação com a união, ou falta de, entre os departamentos das empresa
 
 > *“It’s easy for us, to kind of get lost and forget what the purpose of our work everyday is. I think a lot of the waste in the modern work environment has to do with people that become disconnected from what is that purpose, what is the greater meaning of the work that we do.”* [Eric Ries @ 10m35s](https://youtu.be/bvFnHzU4_W8?t=10m35s) Lean Startup Meets Design Thinking
 
+
+
 ### The breakdown of the holistic view 
 
 * Situação — em uma start-up. O designer contratou duas designers, e pediu para fazer teste de usabilidade. Quando ela mostrou resultado, ela sentiu que ele se sentiu ofendido e recebeu como uma crítica. Caso: é recomendável que o designer não faça o teste de usabilidade porque ele pode reagir na defensiva.
@@ -82,20 +88,9 @@ Steve Blank acknowledges the problem as a of disorder that affects founders as t
 
 ##### Pivot as an excuse to the entrepreneur’s attention deficit
 
-As indicated by Steve Blank, entrepreneurs may react too quick as they encounter data from the activities from what they understand is the process.
-
-Throughout his experience, an extreme case is the situation when the founder goes out, listens to customers, and back to the office they go like “We need to pivot, we need to pivot, and we need to pivot again.” To prompt us to reflect, Steve’s 72 hour rule is a joke-style metaphor that serves well to help founders and teams to first understand the situation:
-
-> “Keeping your mouth shut, from when you think you got an insight to when you are allowed to announce the word pivot, inside your company” (Steve Blank @ MAP14, 2014, [24m34s](https://youtu.be/UFx2CQUTpYo?t=24m32s))
-
-The situation depicted clearly shows that the agenda, or the need to succeed, gets in the way of the founder and the team. The reality is that “one data point is not enough” says Steve.
+The situation following shows that the agenda, or the need to succeed, gets in the way of the founder and the team. The reality is that “one data point is not enough” says Steve.
 
 For some entrepreneurs, that never left the room, perhaps going out can be fascinating and too nice, or romantic. That maybe is simply the truth of the situation: Talking with someone can be fascinating in contrast with idealizing things in front of a digital screen.
-
-
-
-
-
 
 
 Rohan Workman{id: author-rohan-workman-a} destacou bem essa questão quando entrevistou Steve Blank{id: author-steve-blank-200-600-c} e perguntou se a popularização dos movimentos *lean* revela empreendedores que dizem que fazem *lean* mas de fato não fazem. Steve{id: author-steve-blank-200-600-d} não só concordou mas  revelou casos extremos da situação. Uma delas, é o extremo engraçado:
@@ -150,32 +145,19 @@ Foi comentado sobre questões que pessoas tem preferências, relacionado com bia
 
 
 
+### Courage to break the critic - containement 
 
 
+* MEans accepting bad results because the critic is not truth 
 
+
+> *"It is very important that we keep a few nurturing readers as friends to our work quite apart from whatever is going on in our publishing life. We need people who are happy to hear a poem or an essay for its own sake and not as career maneuaveurs. The part of us that writes must be allowed to write freely and not always with an eye to the market. An eye to the market is part of the writing life, but if it is too large a part, it shuts down invention and leads to the blockage of many valuable avenues of exploration which are not - at first blush - commercial." (Julia Cameron, 1998, p.181)
 
 
 
 ## Learning to discover
 
-The key to executing the process is to do it first without holding the agenda for the success (for the business or the idea.) Success, for the process, is most likely the case of learning new information (good or bad.) When going out, or trying to be systematic about the data you get, you need to be genuine to the cause (the bold vision) but at the same time recognize uncertainty and that learning will help you out in the long run.
 
-And the same may also apply to what the founder would get as failure. In Scott Belsky’s Making Ideas Happen, a reading about failure does not have to be a dead end:
-
-> “The best practice here is to develop a tolerance for momentary injustice an periods of ambiguity. Stay strong and stay calm as a situation settles itself over time and the clouds around any period of change start to dissipate. “ (Scott Belsky, 2010, Making Ideas Happen)
-
-
-* Scott Belsky em Making Idea Happen deixa a dica sobre a prática da tolerância que permite injustiças temporárias. “The best practice here is to develop a tolerance for momentary injustice an periods of ambiguity. Stay strong and stay calm as a situation settles itself over time and the clouds around any period of change start to dissipate. “ (Scott Belsky, 2010, Making Ideas Happen)
-
-
-
-
-
-
-
-
-
-### Expand the horizon 
 
 
 Since awareness is key to any process, and founders generally suffer from being enamored with the process, it becomes the founder’s responsibility first to recognize such syndrome; then second, to find for ways to ensure the process is running with quality.
@@ -194,6 +176,21 @@ Jim Collins shares his mentors’ wisdom @ CNNMoney, 2011, Published on Oct 21, 
 -->
 
 
+
+
+The key to executing the process is to do it first without holding the agenda for the success (for the business or the idea.) Success, for the process, is most likely the case of learning new information (good or bad.) When going out, or trying to be systematic about the data you get, you need to be genuine to the cause (the bold vision) but at the same time recognize uncertainty and that learning will help you out in the long run.
+
+And the same may also apply to what the founder would get as failure. In Scott Belsky’s Making Ideas Happen, a reading about failure does not have to be a dead end:
+
+> “The best practice here is to develop a tolerance for momentary injustice an periods of ambiguity. Stay strong and stay calm as a situation settles itself over time and the clouds around any period of change start to dissipate. “ (Scott Belsky, 2010, Making Ideas Happen)
+
+
+* Scott Belsky em Making Idea Happen deixa a dica sobre a prática da tolerância que permite injustiças temporárias. “The best practice here is to develop a tolerance for momentary injustice an periods of ambiguity. Stay strong and stay calm as a situation settles itself over time and the clouds around any period of change start to dissipate. “ (Scott Belsky, 2010, Making Ideas Happen)
+
+
+
+
+
 ### Release of control and access to move on 
 
 No mundo onde vários colaboradores estão executando suas ações debaixo de grande pressão (por exemplo resultante de indicadores chave, agenda, metas e ainda levando em consideração as agendas e tendências específicas das especialidades dos colaboradores) acontece que as vezes grupos se encontram diante de opções divergentes.
@@ -207,20 +204,13 @@ No mundo onde vários colaboradores estão executando suas ações debaixo de gr
 
 
 
-### Courage to break the critic - containement 
 
 
-* MEans accepting bad results because the critic is not truth 
 * Put MD case of Disney 
 
 Em geral, poucos empreendedores têm coragem para investir o tempo nesse tipo de esforço. Outros fazem pior ao se convencerem que a execução das atividades  ágeis por si só significa sucesso. E assim eles dizem “Ah, eu fiz o processo do *canvas*” ou “Estou fazendo o processo correto das entrevistas qualitativas” e passam a avançar em um modo acelerado que os cega de reconhecer que deveriam aprender e retroceder. Executar as metodologias ágeis é bom, mas não vale nada quando questões fundamentais não são respeitadas. Pior ainda: é quando o processo é usado errado de forma consciente e deliberada para criar uma falsa ideia, como quem usa os dados em uma apresentação para provar um ponto, mas sabe que é falso. Nessa linha, existem empreendedores de vários tipos: inocentes, encantados, e os que se enganam. Mas independente do perfil, uma coisa é certa — o negócio não sobrevive pois no final é o negócio que dita como serão as coisas.
 
 Tirar “nota 10” em uma ou outra tarefa não implica que o empreendimento irá ganhar o jogo na partida final. Muitas vezes, lá na frente, quando chegam as grandes crises, empreendedores percebem que estavam ignorando os sinais — que os sinais estavam por toda parte mas eles não queriam enxergar. Então, o problema é similar, tanto para empreendedores como para empresas — líderes se perdem na coreografia dos processos. Nas empresas, como sugerido por Eric Ries{id: author-eric-ries-200-600-h}, a dificuldade está em harmonizar o resultado dos trabalhos dos silos funcionais ágeis. No contexto dos empreendedores, a dificuldade está em olhar por fora os “silos” da execução de atividades ágeis. ! Na fase de descoberta da startup, eles precisam ser tornar melhores generalistas; devem sobrevoar acima das suas ideias, das suas próprias paixões, dos seus produtos e até acima do mercado. Nesse sentido, devem se tornar advogados múltiplos, que defendem suas ideias mas igualmente defendem o ambiente externo que pode estar contra as suas ideias. Esse ponto de vista só tem uma intenção — mais chances para o negócio.
-
-
-
-> *"It is very important that we keep a few nurturing readers as friends to our work quite apart from whatever is going on in our publishing life. We need people who are happy to hear a poem or an essay for its own sake and not as career maneuaveurs. The part of us that writes must be allowed to write freely and not always with an eye to the market. An eye to the market is part of the writing life, but if it is too large a part, it shuts down invention and leads to the blockage of many valuable avenues of exploration which are not - at first blush - commercial." (Julia Cameron, 1998, p.181)
-
 
 
 
