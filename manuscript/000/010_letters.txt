@@ -3,14 +3,17 @@
 
 * (p, l, a) Steve Blank, invited with introduction letter [l], accepted to receive manuscript. 
 * (p, a) Chris Yeh - chat invited, may look at intro presentation document and manuscript. 
+* (p, c, l) Jason Fried, through linked in. 
 * (p, l, ) Editors Melissa and Jonathan , on Nov 14th 2023.
 * (p, l) Fred Filho - friend/colleague field, pinged, intro letter.  
 * (p, l) Christian Guimaraes - friend - pinged, intro letter. 
 * (p, l) André Figueiredo - friend - pinged, intro letter. 
 * (p, l) Dan Barry - friend - pinged, intro letter. 
 * (p, l) Ricardo Agostinho - friend/colleague - pinged, intro letter. 
-    
+* (p, ) Rohan Workman, which interviewed Steve Blank 
+
 [p] pinged 
+[c] connected 
 [l] 012_investor_introduction.txt 
 [a] accepted to receive the manuscript
 
