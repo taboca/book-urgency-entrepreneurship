@@ -67,7 +67,7 @@ Kim, A. J. (2018). Game Thinking: Innovate smarter & drive deep engagement with 
 
 <!-- 
 
-100/120_space.txt 
+100 / 120_space.txt 
 
 -->
 
@@ -76,6 +76,12 @@ Fox, J. (2014). How to Succeed in Business by Bundling – and Unbundling. Harva
 Greylock Partners, 2017, Growth Panel with Gustaf Alströmer and Ed Baker, moderated by Josh Elman | The Scaleup Offsite 2017. https://youtu.be/PybOg3uS-FA?t=14m9s
 
 FastClip. (13/09/2015). Exposição Universal de 1876 nos EUA. Retirado de https://www.fastclip.net/Taboca/dupg0
+
+<!-- 
+
+100 / 610_driven_by_love
+
+--> 
 
 Klein, Maury. (2009). The power makers : steam, electricity, and the men who invented modern America. Bloomsbury Press. First U.S. edition.
 
@@ -95,7 +101,7 @@ McKee, R., & Gerace, T. (2018). Storynomics: story-driven marketing in the post-
 
 <!-- 
 
-## 100 / Identity / 610_driven_by_love
+* 100 / Identity / 610_driven_by_love
 
 --> 
 
