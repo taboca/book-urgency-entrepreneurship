@@ -2,6 +2,8 @@
 
 ## Todo 
 
+* ( ) Disambiguation - Love is not yet an identity, can be platonic, projected, still can matter. 
+* ( ) check Hackernoon article - https://hackernoon.com/the-dangers-of-putting-passion-in-the-drivers-seat 
 * ( ) Check if the case of Melissa's cape goes here or not. 
 * ( ) consider pride against fear, love, emotions. Emotions vs. 
 
@@ -12,23 +14,11 @@
 
 ## ScqA short
 
+* Pitch - If we depend on doing things because we love, connected with the goal for example, what if our love, or affairs, or attachments are barriers to ourselves when bad news chimes in? 
+
 * Subject - Affected due to emotions of the founder role, value of role, leading to triggering action. 
-* Situation - We wear a cape, we feel within that frame. Such as effort.  We auto feed role in some success metric. 
-* Complication - We can't put down the cape. 
-
-## References
-
-* Melissa Knightingale 
-* Steve Blank
-* Eric von. Hippel 
-
-Blank, S. (2011, March 31). Entrepreneurship is an Art not a Job. Steve Blank. https://steveblank.com/2011/03/31/entrepreneurship-is-an-art-not-a-job/
-
-
-## Part 
-
-* 1
-* Note: value system of identity role influences
+* Situation - We wear a cape, we feel within that frame, driven by effort, or biased by value of a cause or group. We auto feed our identities, or a role, as a success metric, as in social capital.  
+* Complication - We can't put down the cape, we can't drop the identity which seems to be needed.  
 
 ## SCqA review 
 
@@ -38,13 +28,18 @@ Blank, S. (2011, March 31). Entrepreneurship is an Art not a Job. Steve Blank. h
 
 * Complication - The executor, as a person and their role, make decisions and emotions counts, chimes in, especially in front of projections of judges. Our aspirations, and who we think we are make us feel, influences our calls. It's tough to detach. 
 
-* Key - How we experience - Our aspirations, in the beginning, counts more. More value counts, such as motivations and vision & value system. We created value-anchors for who we are and our causes. Then we fail, actually in fact after passing successes, thus we count on prior decisions, such as bets that yielded good advancements supporting our roles. 
+* Key - How we experience - Our aspirations, in the beginning, counts more. More value counts, such as motivations and vision & value system. We create value-anchors for who we are and our causes. Then we fail, actually in fact after passing successes, thus we count on prior decisions, such as bets that yielded good advancements supporting our roles. 
 
 * Key - Situations of value-based and emotion counts, as we attach to the roles that represents storied context - we hold things together and failing to represent might means breaking stability. Case of self (baby is ugly / steve) case of team tribe (melissa) and case of state (andy  grove on grief phases, and pre-mortem. )
 
-* Key - Consider to bring in the case of Aaron, the caretakers company, and when hiring used a value system to add value to an employee, such as connection with cause, and goals. Then, of course, the fail day chimed in - technically speaking employee was judged - but now the CEO is victim of his identity "if I convinced company to hire with that connection, now that connection does not count? 
+* Key - Consider to bring in the case of Aaron, the caretakers company, and when hiring used a value system to add value to an employee, such as connection with cause, and goals. Then, of course, the fail day chimed in - technically speaking employee was judged - but now the CEO is victim of his identity "if I convinced company to hire with that connection, now that connection does not count? * Key - Distancing - Michael Dearing, Conscious BUsiness. 
 
-* Key - Distancing - Michael Dearing, Conscious BUsiness. 
+## References
+
+* Melissa Knightingale 
+* Steve Blank
+* Eric von. Hippel 
+* Blank, S. (2011, March 31). Entrepreneurship is an Art not a Job. Steve Blank. https://steveblank.com/2011/03/31/entrepreneurship-is-an-art-not-a-job/
 
 ## Title 
 
