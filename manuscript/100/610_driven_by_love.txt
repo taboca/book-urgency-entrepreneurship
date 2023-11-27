@@ -8,12 +8,11 @@ In the sections below we will consider, first, how this identity develops from p
 
 ## Fusion from vision 
 
+We can consider that the true entrepreneur - or the true manager, or true worker - feels good about what they do and lives the relationship with their work. The relationship with work defines the identity and this is being human because the work of the human connects with the world — it is through work that the worker sees themselves in the world. This essence, irrevocable in the life of the entrepreneur, will bring them emotions of conquest and also emotions of loss, as their work and their identity are the target of the adversities of the journey of transforming art and identity thrown into the world.
+
 This condition stamps the state of the individual's self-realization and resonates with the humanized version of the relationship between work and the individual presented by Maslow [^maslow] (Maslow, 1998, p.1) which states that highly evolved individuals assimilate their work with their identities. In other words, work becomes part of the being that defines the individual.
 
 [^maslow]: "These highly evolved individuals assimilate their work into their identity into their self, i.e., work actually becomes part of the self part of the individual's definition of himself."  Maslow (Maslow, 1998. p.1)
-
-In this sense, we can consider that the true entrepreneur - or the true manager, or true worker - feels good about what they do and lives the relationship with their work. The relationship with work defines the identity and this is being human because the work of the human connects them with the world — it is through work that the worker sees themselves in the world. This essence, irrevocable in the life of the entrepreneur, will bring them emotions of conquest and also emotions of loss, as their work and their identity are the target of the adversities of the journey of transforming art and identity thrown into the world.
-
 
 Entrepreneur, investor, and professor Steve Blank reported not believing that he was working in Silicon Valley and being paid to do what he would do for free (Blank, 2014) or that he might even pay to have the opportunity. This is not uncommon at some stage for entrepreneurs who find passions during their journeys. It happens when they stumble upon opportunities along the way — events that resonate with the entrepreneur's identity or that form a new identity. As the entrepreneur progresses on the journey of discovery and refinement, they better see the art being carved out of the stone and their identity — feeling like a deserving or rightful owner, or protagonist of the discovery, of what they saw, vision. That is, proud but also responsible, or the one carrying that flag.
 
@@ -28,9 +27,38 @@ https://steveblank.com/2011/04/09/entrepreneurs-are-artists/
 
 At this stage, the entrepreneur connects with the art, or their identity as an artist is defined. A marvel of brand, and brand. This sensation of revealed, stamped identity generates entropy, that is, it feeds the entrepreneur again on their journey - thus creating the foundation, or condition, defining the line of behavior that says "I would do this even for free" or "I might even pay someone instead of receiving".
 
-This condition, this place in the entrepreneur's journey, is revealing of the phenomenon of a potential for creation and destruction. Based on this entrepreneur-artist, who works on their work and identity and seeks connection with the world — good relations with customers, suppliers, collaborators, etc. — their passions and motivations, and the way they manage them, are elements that influence the journey towards success or failure.
+### How investors recognize passions  
 
-In this sense, the passion of the entrepreneur is a subject explored by researchers who take into account the observation of the effects produced, for example, the impact on investors, in the business world.
+<!-- 
+
+* Ref 9248984-34902849284-348928428-4829849 
+* On TODO / p3, ( ) research editor review - passions of entrepreneurs vs. VC - seek 9248984-34902849284-348928428-4829849 within 610_driven_by_love and review this section against the research. 
+
+--> 
+
+This condition, this place in the entrepreneur's journey, is revealing of the phenomenon of a potential for creation and destruction. Based on this entrepreneur-artist, who works on their work and identity and seeks connection with the world — good relations with customers, suppliers, collaborators, etc. — their passions and motivations, and the way they manage them, are elements that influence the journey towards success or failure. In this sense, the passion of the entrepreneur is a subject explored by researchers who take into account the observation of the effects produced, for example, the impact on investors, in the business world.
+
+Although it is certainly a challenge for researchers to understand the aspects of passions, or to find ways to assess the types of passions that determine more or less success in entrepreneurship, yet from the quantitative aspects, the research paper by Warnick, Murnieks, McMullen, and Brooks (Warnick, 2018) consisted in asking investors about the types of passions that capture the best investments; the approach of their research had considered the passion for entrepreneurship or passion for the product, as relevant to investors, which are generally associcated with traits assumed to be important for the team that is interested in materializing innovation in the market, such as to bring a product or service, which depends on the growth of business. 
+
+An interesting finding of the study was that of an element of feedback which is tied to passion, perhaps the flipside of passion, which is articulated as openness to feedback was revealed as important for entrepreneurs to be able to obtain investment from investors, such as angel investors and venture capital investors. Yes, investors prefer passionate entrepreneurs, but at the same time, they want those who are more open to feedback.
+
+In other words, openness to feedback is a crucial element for investors to be able to help entrepreneurs to conquer their next steps. It follows from the research that blind passion, or unrestrained, can manifest as egocentrism, rigidity, or resistance; impacting the non-participation of investors. It is worth remembering that the role of the investor is the risk analyst of the business relationship with the external environment. In other words, a good investor is concerned about whether the entrepreneur is capable of listening to external feedback, as they know that the final word is from the market. Thus, the role of investors is also a test, a validation, which is compatible with the various other validations such as the market/customers, competition, etc.
+
+It becomes clearer the view that entrepreneurship is science and art, which is born protagonized by entrepreneurs, passionate about art but equally passionate about science, who seek the balance of passions taking into account the connection with the environment where they produce and deliver their creations. Perhaps this formulation helps to explain the tendency of investors to trust more in teams of co-founders than in entrepreneurs who are alone, as probably, except for exceptions, solitary entrepreneurs are more intractable.
+
+Therefore, the investor's view, especially more professional growth investors like venture capitalists, do respect passions and the benefits of passions - such as when the team had invested a lot in a domain, such as the team's expertise to make a product or service real, but are especially concerned with the destructive force of founders who are enchanted, or too passionated, or in love, to a point of missing elements which are key to check what it takes to continue to journey into growth. When they are enchanted, they tie themselves up, putting themselves at risk of disconnection from the next stage, for example, the launching of their creations in front of audiences. This subject is complex precisely because the audience, like the market, is in the future and it is not known where things will go.
+
+In Entrepreneurship Through the Lens of Venture Capital (Stanford, 2013), Howard Hartenbaum a general partner at August Capital, had seen enough interactions with founders to point that even founder's passions and expertise in a given domain - which he recognizes as must have - can become motivators for going full force instead of focusing in the homework and getting involved in checking aspects that could support to reduce the risk to the grow the business. He commented about a situation of a pitch given by founders that were attracted by an idea but missed a major flaw in the business model: 
+
+> *"They didn't grasp the fatal flaw in their business model. This is a perfect example of 'they are gonna go into a space where they lack expertise other than finding it attractive,' they should have gone and found somebody who understood what are the challenges with that specific business, technically, market-wise, customer acquisition, LTV [life time value], all. For most businesses, there are enough similar or identical companies out there that you can learn from when starting a business."* - Howard Hartenbaum (Stanford, 2013, 17:21)
+
+<!-- 
+
+Reference
+
+Stanford. (2013). Entrepreneurship Through the Lens of Venture Capital [Video]. Interview with Howard Hartenbaum. Available at: https://www.youtube.com/watch?v=zRIPiISZucY
+
+--> 
 
 ### The price of social capital 
 
@@ -52,21 +80,7 @@ Identity and Violence: The Illusion of Destiny. W. W. Norton & Company, Inc.
 
 --> 
 
-### How investors recognize dangers of passions  
-
-Here we consider the questions that investors, such as top-tier venture capital, ask when the theme are the passions of founders, the kind of passions they are after, which goes without saying the risks they keep an eye on. 
-
-É um desafio de pesquisa encontrar meios de avaliar os tipos de paixões que determinam mais ou menos sucesso. Para isso, pesquisadores normalmente se baseiam em dados quantitativos, por exemplo eles perguntam para investidores sobre os tipos de paixões dos empreendedores que capturam os melhores investimentos. Essa abordagem estampa que a arte de empreender tem sucesso na materialização da inovação, rumo ao mercado.
-
-Embora certas categorias de paixões, como a paixão por empreender ou paixão pelo produto, sejam relevantes para investidores, uma questão desafiadora é o viés da paixão que pode ser articulado como paixão tendenciosa. Na visão apontada pelos pesquisadores Warnick, Murnieks, McMullen e Brooks, (Warnick, 2018) a questão da abertura ao feedback foi revelada como importante para que empreendedores possam obter investimento de investidores, como os investidores anjo e dos investidores de capital de risco. Sim, investidores preferem empreendedores apaixonados mas ao mesmo tempo querem os que estão mais abertos ao feedback.
-
-Em outras palavras, abertura ao feedback é um elemento crucial para que investidores possam ajudar empreendedores para conquistarem seus próximo passos. Decorre da pesquisa que a paixão cega, ou sem restrições, pode se manifestar como egocentrismo, rigidez ou resistência; impactando a não participação dos investidores. Vale lembrar que o papel do investidor é do analista de risco da relação do negócio com o ambiente externo. Em outras palavras, o bom investidor está preocupado se o empreendedor é capaz de ouvidos ao feedback externo, pois sabe que a última palavra é do mercado. Assim, o papel dos investidores não deixa de ser mais uma teste, uma validação, que é compatível com as várias outras validações como o mercado/clientes, competição, etc.
-
-Fica mais clara a visão que empreender é ciência e arte, que nasce protagonizada por empreendedores, apaixonados pela arte mas igualmente apaixonados pela ciência, que buscam o equilíbrio das paixões levando em consideração a conexão com o meio onde produzem e entregam suas criações. Talvez essa formulação  ajude a explicar a tendência dos investidores a confiarem mais em times de cofundadores do que em empreendedores que são sozinhos pois provavelmente, salvo exceções, empreendedores solitários são mais irredutíveis.
-
-Assim a jornada do empreendedor sofre com as tensões do mundo externo. Talvez uma questão, não muito abordada nos manuais de startup e empreendedorismo, é também uma questão dos artistas — eles modelam suas identidades, com seus trabalhos e suas obras, e se apaixonam por elas. Mas a partir daí eles encontram uma encruzilhada quando seus trabalhos se confrontam com audiências. Nessa encruzilhada eles decidem, voltar, continuar no estado da identidade anterior, ou explorar o novo caminho, aprendendo com a audiência. A versão destruição é justamente quando se encantam por uma identidade (ou de auto eficácia, se performance, de auto estima) que eles desenvolvem em cima do estado da arte. Isso não deveria ser problema exceto que a arte que está no rumo de encontrar o mundo se encontra em adaptação. Quando se encantam, se amarram, se colocam em risco da desconexão com o próximo estágio, por exemplo o lançar de suas criações na frente de audiências. Esse assunto é complexo justamente porque a audiência, como o mercado, está no futuro e não se sabe onde as coisas vão dar.
-
-
+It may be important, therefore, to recognize that the formation, or support for an an identity, hasn't ties with product identity, such as ties associated with the vision. These ties also lies in self-efficacy, self performance, self-esteem, that they develop through the execution. 
 
 
 
