@@ -77,17 +77,6 @@ Greylock Partners, 2017, Growth Panel with Gustaf Alströmer and Ed Baker, moder
 
 FastClip. (13/09/2015). Exposição Universal de 1876 nos EUA. Retirado de https://www.fastclip.net/Taboca/dupg0
 
-<!-- 
-
-100 / 610_driven_by_love
-
---> 
-
-Klein, Maury. (2009). The power makers : steam, electricity, and the men who invented modern America. Bloomsbury Press. First U.S. edition.
-
-* pt-br - Greylock Partners. (2015, November 30th), Blitzscaling 18: Brian Chesky on Launching Airbnb and the Challenges of Scale. Retrieved from https://www.youtube.com/watch?v=W608u6sBFpo / @ 020_rainbow_grayscale 
-
-Blank, S. (2010, November 1st). No Business Plan Survives First Contact With A Customer – The 5.2 billion dollar mistake. Retrieved from https://steveblank.com/2010/11/01/no-business-plan-survives-first-contact-with-a-customer-%E2%80%93-the-5-2-billion-dollar-mistake/
 
 <!-- 
 
@@ -105,11 +94,28 @@ McKee, R., & Gerace, T. (2018). Storynomics: story-driven marketing in the post-
 
 --> 
 
+Klein, Maury. (2009). The power makers : steam, electricity, and the men who invented modern America. Bloomsbury Press. First U.S. edition.
+
+Greylock Partners. (2015, November 30th), Blitzscaling 18: Brian Chesky on Launching Airbnb and the Challenges of Scale. Retrieved from https://www.youtube.com/watch?v=W608u6sBFpo / @ 020_rainbow_grayscale 
+
+Blank, S. (2010, November 1st). No Business Plan Survives First Contact With A Customer – The 5.2 billion dollar mistake. Retrieved from https://steveblank.com/2010/11/01/no-business-plan-survives-first-contact-with-a-customer-%E2%80%93-the-5-2-billion-dollar-mistake/
+
+Draper, B. (2017, November 9). Bill Draper: The Origins of Venture Capital in Silicon Valley. [Video]. YouTube. https://www.youtube.com/watch?v=QqwKuKKWiJ4
+
+
 Blank, S. (2011, March 31). Entrepreneurship is an Art not a Job. Steve Blank. https://steveblank.com/2011/03/31/entrepreneurship-is-an-art-not-a-job/
 
 Michael Dearing. Greylock. (2015, October 8). Blitzscaling 03: Michael Dearing on Capitalism, Creativity, and Creative Destruction [video]. Retrieved from https://www.youtube.com/watch?v=3vCdfa_aeI8
 
 Identity and Violence: The Illusion of Destiny. W. W. Norton & Company, Inc.
+
+
+Benjamin J. Warnicka, Charles Y. Murnieks, Jeffery S. McMullen, Wade T. Brooks. (2018). Passion for entrepreneurship or passion for the product? A conjoint analysis of angel and VC decision-making. Journal of Business Venturing Volume 33, Issue 3, May 2018, Pages 315-332. Retrieved from https://doi.org/10.1016/j.jbusvent.2018.01.002
+
+Stanford. (2013). Entrepreneurship Through the Lens of Venture Capital [Video]. Interview with Howard Hartenbaum. Available at: https://www.youtube.com/watch?v=zRIPiISZucY
+
+Bouizegarene, N., Bourdeau, S., Leduc, C., Gousse-Lessard, A.-S., Houlfort, N., & Vallerand, R. J. (2018). We are our passions: The role of identity processes in harmonious and obsessive passion and links to optimal functioning in society. Self and Identity, 17(1), 56–74. https://doi.org/10.1080/15298868.2017.1321038
+
 
 <!-- 
  230_self_confirmation_bias_social_identity.txt
@@ -183,19 +189,6 @@ Stanford Graduate School of Business. (7/11/2014). Sequoia Capital's Doug Leone 
 Maslow, Abraham H. (1998). Maslow on Management. Published by John Wiley & Sons, Inc.
 
 Dalio, R. (2017). Principles: Life and work. Avid Reader Press/Simon & Schuster.
-
-<!-- 
-
-100 / 610_driven_by_love 
-
---> 
-
-Benjamin J. Warnicka, Charles Y. Murnieks, Jeffery S. McMullen, Wade T. Brooks. (2018). Passion for entrepreneurship or passion for the product? A conjoint analysis of angel and VC decision-making. Journal of Business Venturing Volume 33, Issue 3, May 2018, Pages 315-332. Retrieved from https://doi.org/10.1016/j.jbusvent.2018.01.002
-
-Stanford. (2013). Entrepreneurship Through the Lens of Venture Capital [Video]. Interview with Howard Hartenbaum. Available at: https://www.youtube.com/watch?v=zRIPiISZucY
-
-Bouizegarene, N., Bourdeau, S., Leduc, C., Gousse-Lessard, A.-S., Houlfort, N., & Vallerand, R. J. (2018). We are our passions: The role of identity processes in harmonious and obsessive passion and links to optimal functioning in society. Self and Identity, 17(1), 56–74. https://doi.org/10.1080/15298868.2017.1321038
-
 
 
 
