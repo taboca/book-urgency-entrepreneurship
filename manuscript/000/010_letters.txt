@@ -17,6 +17,15 @@
 [l] 012_investor_introduction.txt 
 [a] accepted to receive the manuscript
 
+## Letter message to Marc Andreessen 
+
+* via Twitter, X. 
+
+```
+Hi Marc, 
+
+I am consistently writing a book entitled Slow Down Startup to help founders with a conscious view for executing a startup in the world that is too fast. May I send to you the overview letter of the book? Audience, Goal, Structure, and Origins of the book.
+```
 
 ## Letter to Rohan Workman, Wl on November 21th 2023 
 
