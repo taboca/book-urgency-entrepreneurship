@@ -1,5 +1,8 @@
 # Todo # 
 
+* p2, ( ) Lean no lean - Add reference to Steve Blank's article that recognizes Job To be Done. ref 938498254-98353985-5983958375-57457357
+
+* p3, ( ) Identity - Check cross use of composer case around the book which had referred to Steve Blank. 3290849824-49284928-4290849284901-4988234982394
 
 * p3, ( ) research editor review - passions of entrepreneurs vs. VC - seek 9248984-34902849284-348928428-4829849 within 610_driven_by_love and review this section against the research. 
 
@@ -18,7 +21,7 @@
 
 * p2 ( ), #outcome #output #okr, Andy Grove in p.17 of High Output Management uses output in the sense of outcome in his example: "Obviously, you measure a salesman by the orders he gets (output), not by the calls he makes (activity)." Of course, his use of output seems in the way of a further more strategic output which could be understood as outcome, in the sense of objectives. But nevertheless, the right breakdown, in Marcio's opinion is about not hiding the activity and the output in the face of an outstanding objective or outcome, thus enabling the window of opportunity to learn. 
 
-* ( ) p2, The Feedback of Urgency, Fix quote of Reid Hoffman to case from Start up of You and likely link to Conscious Business. 4892489-4928948-48284-483984. 
+* ( ) p2, The Feedback of Urgency - Fix quote of Reid Hoffman to case from Start up of You and likely link to Conscious Business. 4892489-4928948-48284-483984. 
 
 * p2, ( ) Check the footnote, Adam Grant and the map of giver and taker, which is the book, and which was the talk - [^editornote_adamgrant_give_or_take] within 410_automatic_reaction_breaking.. 
 

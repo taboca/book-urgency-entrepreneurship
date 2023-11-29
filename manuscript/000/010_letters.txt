@@ -1,9 +1,10 @@
 
 ## Matrix initial reviews 
 
-* (p, l, a) Steve Blank, invited with introduction letter [l], accepted to receive manuscript. 
 * (p, a) Chris Yeh - chat invited, may look at intro presentation document and manuscript. 
-* (p, c, l) Jason Fried, through linked in. 
+* (p, l, a) Steve Blank, invited with introduction letter [l], accepted to receive manuscript. 
+
+* (p, l, c) Jason Fried, through linked in. 
 * (p, l, ) Editors Melissa and Jonathan , on Nov 14th 2023.
 * (p, l) Fred Filho - friend/colleague field, pinged, intro letter.  
 * (p, l) Christian Guimaraes - friend - pinged, intro letter. 
@@ -11,13 +12,83 @@
 * (p, l) Dan Barry - friend - pinged, intro letter. 
 * (p, l) Ricardo Agostinho - friend/colleague - pinged, intro letter. 
 * (p, ) Rohan Workman, which interviewed Steve Blank 
+* (p, l, ) Brendan Eich 
+* (p, l, ) Chris Hoffman 
 
 [p] pinged 
 [c] connected 
 [l] 012_investor_introduction.txt 
 [a] accepted to receive the manuscript
 
-## Letter message to Marc Andreessen 
+## Letter to Chris Hoffman on November 29th 2023 
+
+```
+Hey Chris,
+
+So I may have touched the subject - of a book - perhaps a few times. I
+had started a material - based on studies of the Blitzscaling lectures
+around 2017. Not consistently, mostly slides or drafts and articles
+came along in an online publication which helped me to advance with an
+initial belief of being a writer. But this year, around 6 months ago,
+I went back to it and had engaged in a consistent writing path - as in
+writing almost every day except time off - 80+ episodes of writing by
+now.
+
+The book is for entrepreneurs trying to make startups in the
+accelerated and networked world. And may also matter for parents and
+anyone like investors, coaches, supporters, as they care about
+founders and their future companies.
+
+For now I am attaching a PDF which has the audience, theme, structure
+and a personal note about the origins of the book. In case the
+material rings any bells, or if you know of a special person that
+could be interested too, please let me know and I will be happy to
+send the manuscript as any special person and perspectives are always
+welcome.
+
+Draft has by now about 500 pages but I will try to get it to become
+250-300 if I can and if it does not hurt the value.
+
+MG
+```
+
+## Letter to Brendan Eich on November 29th 2023
+
+```
+Hey Brendan,
+
+I am sure you have entered a path of being busy - focusing on Brave -
+but if somehow the theme interests you I would be happy to send the
+draft manuscript when ready. Even if it is to take a look to see if it
+rings any bells.
+
+The subject of the book deals with the urgency and pressures of the
+world, however in the domain of founders (and anyone interested in
+helping them like parents or investors) that are motivated to do
+startups as in startups to grow.
+
+I started this material around 2017 when I was studying the
+Blitzscaling lectures [1] the very course that gave me awareness of a
+readiness level - of human beings - that seemed to be important to
+make great lasting companies. And I had written drafts, bits and
+pieces, then somehow in the last 6 months I had entered a consistent
+writing path, one which I never did in my life, as in now writing for
+80+ consecutive days aside from pauses like time off and vacation.
+
+The general overview is attached, so that you can appreciate the
+theme, audience, structure, and more on origins of the material. In
+case it does not ring any bell but you know people that may be
+interested in reading the draft manuscript (when ready) I will be glad
+to connect.
+
+Sincerely,
+
+Marcio Galli
+
+[1] https://www.youtube.com/watch?v=s3RrVmv5WwA (and other 20 lectures)
+```
+
+## Letter message to Marc Andreessen on November 27th 2023 
 
 * via Twitter, X. 
 
