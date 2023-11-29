@@ -20,6 +20,23 @@
 [l] 012_investor_introduction.txt 
 [a] accepted to receive the manuscript
 
+## Letter to Ted Tayer of JTBD, On November 29th, 2023 
+
+```
+Hi Ted,
+
+The attachment is to let you know of this project which now has
+reached a state of continuous writing based on the past 80 episodes of
+work (except time off) while the origins were slow from 2017 when I
+started to study the Blitzscaling lectures while as usual trying to
+make a company.
+
+In case you happen to want to take a look when the manuscript is
+ready, in case the topic interests you in any way, please let me know.
+
+MG
+```
+
 ## Letter to Chris Hoffman on November 29th 2023 
 
 ```
