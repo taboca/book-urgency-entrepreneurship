@@ -174,6 +174,12 @@ We make calls, we make mistakes - in the context of urgencies, pressures of judg
 
 The complication is then, in the heat of all that happens, with no clear vision of any identities influencing, they can't separate these emotions, emotions that counts and chimes in, especially in front of projections of judges, and the pressure of time. So the question remains: can the successful entrepreneur separate emotions from ideas like someone who is inside and at the same time outside the hurricane? The answer is yes although it involes the recognition of tolerance for ambiguous situations such as abilities to live inside and outside the reality of what happens. 
 
+<!--
+
+scqa: key - experience emotions seem not tied with identity?
+
+--> 
+
 In the battles of the learning and doing, the subject of the identities can be used so that we can reflect about these emotions that in the day drives but with no alarm given; supporting a must reflection as we are generally unable to pause to reflect on what we fell, why we feel, how we are reacting, and if our reaction can be driven by values, such as if emotions driving decisions are triggered from value-systems associated with who they are and their roles. 
 
 According to Robert McKee [1], "In life, if you see a dead body in the street, you are hit by a wave of adrenaline: 'My God, he's dead!' Maybe you run away in fear. Later, when the emotions settle down, you may reflect on the meaning of the death of this stranger, your own mortality, and life under the shadow of death." The truth is that in the face of ups and downs we are emotionally affected because we are human, because we feel. For example, saying no, even to an unwanted type of client, is not so easy if the entrepreneur feels empathy and compassion. In other words, it is not just a simple question of suitability for the business.
@@ -181,6 +187,11 @@ According to Robert McKee [1], "In life, if you see a dead body in the street, y
 When we feel emotions such as insecurity or fear in the situations we experience, we feel them because our brain is defending us: sometimes we even perceive risk situations as if we were being attacked — like trying to flee from a tiger. The idea of losing a client, or even a client meeting that didn't happen (the client needed to cancel), are day-to-day events for the entrepreneur that come in any form, as they are part of the adversities on the battlefield. Thus, our perception determines our emotions and reactions. If we are conditioned with the perception that losing a client is a threat, our brain can trigger an emergency routine and the emotions tallied may be too strong to the point of impacting our performance and our ability to, for example, reflect with the creativity that could eliminate problems.
 
 For McKee, in life, idea and emotion come separately. This view can help us explain the liberating reflection that arises when a former entrepreneur gives up but as soon as they start a new job they can organize their ideas — oh, if they could make a call to their former self or go back in time.
+
+<!-- 
+
+Key point - see from far? Cold? Should this be here?
+--> 
 
 According to Reid Hoffman and Ben Casnocha (2012), the real estate agent does not know when their next payment will come in because their job is based on highs and lows. So the agent works to sell but also on building their client network which is compatible with constant changes in daily life. It can be said that salespeople and brokers are resilient or even opportunistic. But we can look at the discipline that defines the survival conditions of brokers: they need to create a space to work on ideas isolated from the arrows of emotion, from the adversities of daily life. When the broker sells a big house, they are aware that they cannot be shaken for a longer time. What explains this resilience of sellers, in part, is a preconception inherent in the profession itself: sellers fly over, observe the environment, work in networks, and eventually dive to conquer their prizes. They do not categorize the work of the sale (the conquest of the prize) as being the greater work. For them, what is work is working on the network, flying over, navigating, observing, looking for new directions.
 
@@ -193,9 +204,7 @@ Agora, no campo das batalhas e das incertezas, precisamos de uma abordagem human
 Esse caminho existe graças também a outro fator humano, assim como o sentir. Decorre da nossa capacidade humana de sentir pelo outro. Quando olhamos para fora, para o problema alheio, nós sentimos, mas sentimos de uma forma diferente com empatia e compaixão; bem diferente de estar vivendo como o protagonista. A versão humanizada para o empreendedor é direta: podemos ajudar outros empreendedores, principalmente aqueles que estão vivendo adversidades. Mesmo partindo da posição de ouvinte, estamos exercitando nossas capacidades de observar, ouvir, refletir e opinar. Ainda, engajamos de forma “junto com eles” com empatia e compaixão pelo problema mas ao mesmo tempo sabemos que estamos fora do olho do furacão. Essa abordagem nos ajuda a sintetizar as ideias sem a confusão das emoções que só o protagonista sente. Torna-se um exercício que nos deixa mais arrojados, que cria um modelo mental mais flexível, um olhar; sem contar a ajuda que estaremos fazendo ao próximo.
 
 
-### Being tested by supporting groups 
-
-* First draft 
+### Being tested by the judges of growth 
 
 I wanted to write, the theme, about the emotions and judgements that can get into the way of the execution of projects. Start-ups, teams, and their constituents are people - they feel, they have emotions. We are also storytellers, and we make sense of what we do with narratives. And, we judge what we do, when we do it in realtime. It`s our natural ability. 
 
@@ -220,6 +229,8 @@ The point here is that we are being judged by say "another point of view". In ot
 Thus, it is up to us to keep track with methods that can support us to advance, to judge and judge it right, and judge in the right time. One theme in this theme is when to judge for execution of projects. Since a startup acts supposedly faster, things that really complicated as we are moving with specific tasks, when we are acting doing it. 
 
 The focus here I am looking at is activities that be broken, generate poor results, as we judge in realtime. Knowing when to judge is a reflection that I invite you to engage here. And in this regard, we can get help from one of the area that is one of the most complicated fields that involves creativity and execution - an area that when judgement comes into the act of doing, writing. Two ideas, that explores the same point where our conscious judge gets in our way. The goal of these lessons is to spark in us a light, the light of control. 
+
+<!-- taming the judge --> 
 
 "Aiming for that, I learned to write setting judgment aside and save a polish for later. I canned this new, freer writing "laying track." For the first time I gave myself emotional permission to do rough drafts and for those rough drafts to be, well, rough. " - (Cameron, 1998, p. 19)
 
@@ -312,20 +323,6 @@ Os usuários, portanto, passaram a interpretar a popularidade de uma postagem ou
 
 O caso de Wirathu e Mianmar, como descrito por Fisher, destaca o poder e o perigo das redes sociais em uma sociedade recém-conectada. O que antes eram fragmentos de crenças sem confirmação passou a ser, na era digital, validação em massa de uma identidade e narrativa alternativa, proporcionando aos usuários um sentido distorcido de realidade e moralidade. Isso ilustra a urgência de se abordar a disseminação de desinformação e ódio nas redes sociais para garantir um futuro digital mais seguro e inclusivo.
 
-### Identification with a problem 
-
-Empreender é uma atividade que envolve não apenas uma motivação comercial, mas também a paixão por uma causa que se quer ver mudada. Essa motivação é central no fenômeno da "Inovação do Usuário" (User Innovation), onde o empreendedor se vê intrinsecamente ligado à causa que defende. Tanto o trabalho de Eric von Hippel em "Democratizando a Inovação" (2005) quanto o curso "User Innovation: A Path to Entrepreneurship" no MITx no edX ressaltam essa premissa, enfatizando que "a inovação frequentemente começa com pessoas reais resolvendo seus próprios problemas" (MIT, 2015). Este conceito incentiva os empreendedores a se envolverem profundamente com as causas que defendem, alimentando tanto sua paixão como sua motivação para criar soluções inovadoras e disruptivas.
-
-<!--
-
-User Innovation: A Path to Entrepreneurship. Massachusetts Institute of Technology (MIT) on edX. Recuperado de https://www.youtube.com/watch?v=LpBSY9_RyCg
-
-von Hippel, E. (2005). Democratizing Innovation. The MIT Press. DOI: https://doi.org/10.7551/mitpress/2333.001.0001
-
---> 
-
-Como indicado nesta vídeo introdução do curso, invenções como basquete, braille, dentre outras e até soluções tecnológicas como Dropbox, foram invenções que surgiram a partir de necessidade real, ou das dores. Em outras palavras, causas próprias. Essa premissa, na visão de Eric von Hippel, está por todo lado e é um fenômeno. 
-
 ### A calling 
 
 O renomado Steve Blank, pioneiro do movimento lean [^steveblanklean] e criador do processo intitulado Customer Discovery (2005), quando entrevistado sobre uma única ideia de conselho para fundadores, reveleu na entrevista em vídeo: 
@@ -342,6 +339,22 @@ Steve Blank at MAP14. (Published on Mar 13, 2014.) MAP14 Public Forum: Steve Bla
 [^steveblanklean]: Steve Blank é um renomado empresário e acadêmico reconhecido por ser um dos pioneiros do movimento Lean Startup. Blank, juntamente com Eric Ries, ajudou a definir e propagar a filosofia Lean Startup, que propõe a criação de empresas e produtos sob condições de extrema incerteza. Seu trabalho, caracterizado pelo "desenvolvimento de clientes" e pela ideia de "saia do prédio", é um pilar fundamental desta metodologia. Blank enfatiza a importância da aprendizagem validada, o desenvolvimento iterativo de produtos e a resposta rápida às necessidades dos clientes como princípios chave para a inovação em startups.
 
 Assim, podemos reconhecer que entre casos de sucesso e ideias grandiosas, há muitas invenções e inovações atribuídas a fundadores que se viram envolvidos em uma luta por uma causa. No entanto, também existem muitos empreendedores que, mesmo sem uma causa tão forte, ainda se sentem em uma missão ou estão em processo de formação de suas identidades. Embutida na premissa de Steve Blank - de que o chamado é necessário - está também a ideia de que neste chamado, o fundador se torna vítima das projeções de futuro que faz em relação ao que faz, bem como vítima da identidade projetada. Isso pode parecer exagerado, mas as ações atreladas à pressão da identidade ocorrem no dia a dia e podem se manifestar em coisas simples, que passariam despercebidas.
+
+<!-- case of user innovation? --> 
+
+Empreender é uma atividade que envolve não apenas uma motivação comercial, mas também a paixão por uma causa que se quer ver mudada. Essa motivação é central no fenômeno da "Inovação do Usuário" (User Innovation), onde o empreendedor se vê intrinsecamente ligado à causa que defende. Tanto o trabalho de Eric von Hippel em "Democratizando a Inovação" (2005) quanto o curso "User Innovation: A Path to Entrepreneurship" no MITx no edX ressaltam essa premissa, enfatizando que "a inovação frequentemente começa com pessoas reais resolvendo seus próprios problemas" (MIT, 2015). Este conceito incentiva os empreendedores a se envolverem profundamente com as causas que defendem, alimentando tanto sua paixão como sua motivação para criar soluções inovadoras e disruptivas.
+
+<!--
+
+User Innovation: A Path to Entrepreneurship. Massachusetts Institute of Technology (MIT) on edX. Recuperado de https://www.youtube.com/watch?v=LpBSY9_RyCg
+
+von Hippel, E. (2005). Democratizing Innovation. The MIT Press. DOI: https://doi.org/10.7551/mitpress/2333.001.0001
+
+--> 
+
+Como indicado nesta vídeo introdução do curso, invenções como basquete, braille, dentre outras e até soluções tecnológicas como Dropbox, foram invenções que surgiram a partir de necessidade real, ou das dores. Em outras palavras, causas próprias. Essa premissa, na visão de Eric von Hippel, está por todo lado e é um fenômeno. 
+
+
 
 ### A superhero
 
