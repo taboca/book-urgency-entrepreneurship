@@ -139,7 +139,9 @@ A situation of the performance system impacting the execution was illustrated by
 
 <!-- 
 
-( ) Check page above because p223 is from the pt-br one, O Estilo Startup 
+* p2 ( ) / Narratives Lean - Check page above because p223 is from the pt-br one, O Estilo Startup / ref "A situation of the performance system impacting the execution was illustrated by Eric Ries in the The Startup Way, (2017, p.223). Eric Ries, when involved in the process of supporting a program of innovation at GE, FastWorks, came across the situation of moving forward, after prior validated learning effort. Eric was quite happy with the results and had in mind that the meeting would be about the decision to propose a new plan to the direction. To his surprise, mostly everyone denied moving forward. What he had discovered was that the change proposed, fundamented by the prior learning, would create additional costs for the company. Then Eric dug more asking help to find out the costs and they figured that it would be worth it to move forward. But still, another person brought up yet another good reason to not move forward, which was human resources: The fact that if an employee happen to rework in something, that would count against his career evaluation. " 29829482948-4294898249-4924824-40280480824
+
+## Reference
 
 Ries, E. (2017). The Startup Way: How Modern Companies Use Entrepreneurial Management to Transform Culture and Drive Long-Term Growth. Currency.
 

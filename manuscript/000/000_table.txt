@@ -1,19 +1,39 @@
 # Todo # 
 
-* p2, ( ) Lean no lean - Add reference to Steve Blank's article that recognizes Job To be Done. ref 938498254-98353985-5983958375-57457357
+* p2, ( ) / Narratives lean, add [^footnote_10000hour_rule] and [^footnote_reid_phisolophy] [^footnote_sequoia_capital]9439825-5935983-53985983-5938598
 
-* p3, ( ) Identity - Check cross use of composer case around the book which had referred to Steve Blank. 3290849824-49284928-4290849284901-4988234982394
+* p3, ( ) / Narratives lean, check if we should refer to professor name or course / ref ", may consider to add his name or reference if any, ref "I had once joined a delightful course on creativity where all the participants had to come up with a restaurant. Our professor asked all of us to feed the blackboard in a brainstorming with all that is known about a restaurant such as: has money, has tables, plates, waiters, and all. Right after, he asked all the teams to create their unique restaurants, but had taken some key features from all teams, such as "you can't use money," and so on. In a matter of fifteen minutes we had created, and witnessed, amazing restaurant ideas. " 92489824-4820842-482048-4829482
 
-* p3, ( ) research editor review - passions of entrepreneurs vs. VC - seek 9248984-34902849284-348928428-4829849 within 610_driven_by_love and review this section against the research. 
+* p2, ( ) / Narratives lean, check with David of Hackernoon, if it makes sense to put the name Hackernoon - "As a side note, on the day when I got that article published on a publication, the CEO had replied to me saying "I just did," likely confirming our urge to use the canvas to tell the story that seems coherent. And it does, doesn't it? As one shall be very happy to see how the *Canvas* has that built-in value - coherence by its nine building blocks [^footnote_businessmodelcanvas]." 45989583-5038535-593859835-5803853850
 
-* p1, ( ) #research - #StephenCovey The Urgency Addiction - "The way this works out for me is that because I hate failure I often get crazy focused (and drop everything else) when I have something big I need to achieve. Steven Covey wrote best about it when he talked about “The Urgency Addiction” where people like me prioritize things that are urgent & important. (Of course you’re supposed to prioritize things that are important but not yet urgent!)." https://bothsidesofthetable.com/developing-an-action-plan-for-high-performance-with-add-80e33126840c
+* p2, ( ) / Narratives lean, correct reference to Steve Blank's book, and possible point of citation, on "Steve Blank, in Customer Development (Four Steps to the Epiphany), emphasizes" 494839843-43849834-4930480358-593859839
 
-* p1, ( ) #MD - Find place to put the ideas of creating support space for killing ideas #MD #Disney #Blitzscaling3 / Consider to put MD disney case under Lean no Lean, 630_lean_no_lean 
+* p3, ( ) / Narrativees lean, Check footnote of "[^footnote_businessmodelcanvas]" 424949284-492849759-5959839-53985358
 
-* p1, ( ) #sorrow - "The paradox of the rainbox #sorrow" vs. Search impact - Should Search for impact, deal with the pre-projections, such as #sorrow and cover frustrations? 
-* p1, ( ) #sorrow - Should "On the Right Side" cover #Sorrow? 
+* p2, ( ) / Narratives lean - Check "The Canvas process makes it clear that it guarantees nothing. It has no date, no promise. Like any lean process, the central idea is learning, not validation. " with reference and reading of Canvas again. 249824982-20482842-42048204-402840284
 
-* p1, ( ) Cross John Lilly vision about communication and design with the tools of communication and the medium - 100/850_communication_space_tool.txt 200/800_collaboration_new_medium.txt and 200/860_role_models_design_empatia.txt
+* p2 ( ) / Narratives Lean - Check page above because p223 is from the pt-br one, O Estilo Startup. Plus also notice that this reference quote to Eric Ries is on "Lean no Learn", thus consider to refer to the priorly written referred element.  / ref "A situation of the performance system impacting the execution was illustrated by Eric Ries in the The Startup Way, (2017, p.223). Eric Ries, when involved in the process of supporting a program of innovation at GE, FastWorks, came across the situation of moving forward, after prior validated learning effort. Eric was quite happy with the results and had in mind that the meeting would be about the decision to propose a new plan to the direction. To his surprise, mostly everyone denied moving forward. What he had discovered was that the change proposed, fundamented by the prior learning, would create additional costs for the company. Then Eric dug more asking help to find out the costs and they figured that it would be worth it to move forward. But still, another person brought up yet another good reason to not move forward, which was human resources: The fact that if an employee happen to rework in something, that would count against his career evaluation. " 29829482948-4294898249-4924824-40280480824
+
+* p2, ( ) Part 2 / Lean no Lean -  Review the quote based in English 944839854938-305830-5938593-9835983
+
+* p2, ( ) Part 2 / Lean no Lean - review Steve's point that lean is no magic formula if done strictly - https://hbr.org/2013/05/why-the-lean-start-up-changes-everything 298959825-593859835-5938598-58395839 
+
+* p2, ( ) Part 2 / Lean no Lean - Add footnote, validated, learning, [^footnote_leanstartup_validated_learning]. 
+
+* p2, ( ) Part 2 / Lean no lean - Add reference to Steve Blank's article that recognizes Job To be Done. ref 938498254-98353985-5983958375-57457357
+
+* p3, ( ) Part 1 / Identity - Check cross use of composer case around the book which had referred to Steve Blank. 3290849824-49284928-4290849284901-4988234982394
+
+* p3, ( ) Part 1 / Identity / #research #editor #review - passions of entrepreneurs vs. VC - seek 9248984-34902849284-348928428-4829849 within 610_driven_by_love and review this section against the research. 
+
+* p1, ( ) Other / #research - #StephenCovey The Urgency Addiction - "The way this works out for me is that because I hate failure I often get crazy focused (and drop everything else) when I have something big I need to achieve. Steven Covey wrote best about it when he talked about “The Urgency Addiction” where people like me prioritize things that are urgent & important. (Of course you’re supposed to prioritize things that are important but not yet urgent!)." https://bothsidesofthetable.com/developing-an-action-plan-for-high-performance-with-add-80e33126840c
+
+* p1, ( ) Other / #MD - Find place to put the ideas of creating support space for killing ideas #MD #Disney #Blitzscaling3 / Consider to put MD disney case under Lean no Lean, 630_lean_no_lean 
+
+* p1, ( ) Other / #sorrow - "The paradox of the rainbox #sorrow" vs. Search impact - Should Search for impact, deal with the pre-projections, such as #sorrow and cover frustrations? 
+* p1, ( ) Other / #sorrow - Should "On the Right Side" cover #Sorrow? 
+
+* p1, ( ) Other / Cross John Lilly vision about communication and design with the tools of communication and the medium - 100/850_communication_space_tool.txt 200/800_collaboration_new_medium.txt and 200/860_role_models_design_empatia.txt
 
 * p1, ( ) #ogilvy #speed - Consider 3 perspectives for speed all driven by feedback 348493849-49349834-498349348-4838575
 
@@ -121,6 +141,8 @@ https://chat.openai.com/share/b7eb16c5-4c18-4709-9220-bd2629f34a3d
 * (Done, removed from 100 and kept under thanks) Check the story of the designer vs. the ceo which is also shown in 090_saying_thanks_reflections.txt and here 100_operating_systems.txt / 123e4567-e89b-12d3-a456-426614174000
 
 * (x) Fix the Peter Drucker quote with the English book on 040_induction_embedded_everything / 123e4567-e89b-12d3-a456-426614174000
+
+* p2, (x) Part 2 / Lean no Lean - Add reference from Blitzscaling lectures, or any model or celebrity practitioner, that Startups can move fast, to the "Ainda, faz-se importante contextualizar que exatamente por não existir uma dependência com o mercado, como servir clientes conquistados, e o time ser pequeno, a agilidade é observável de que startups mudam de rumo rapidamente e que permite que mais falhas possam ocorrer na busca de acertos.  " ref 98349834-43489384-48394893-839849849
 
 ## Reviews external
 

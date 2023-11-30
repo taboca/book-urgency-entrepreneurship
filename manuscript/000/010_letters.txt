@@ -3,6 +3,7 @@
 
 * (p, a) Chris Yeh - chat invited, may look at intro presentation document and manuscript. 
 * (p, l, a) Steve Blank, invited with introduction letter [l], accepted to receive manuscript. 
+* (p, l, a) Marcelo Muniz, 
 
 * (p, l, c) Jason Fried, through linked in. 
 * (p, l, ) Editors Melissa and Jonathan , on Nov 14th 2023.
@@ -14,13 +15,19 @@
 * (p, ) Rohan Workman, which interviewed Steve Blank 
 * (p, l, ) Brendan Eich 
 * (p, l, ) Chris Hoffman 
+* (p, l, ) Ted Thayer 
+
+## Matrix subscribers 
+
+* (p, w ) Vitor Torres - CEO of Contabilizei 
 
 [p] pinged 
 [c] connected 
 [l] 012_investor_introduction.txt 
 [a] accepted to receive the manuscript
+[w] Wants a copy when done 
 
-## Letter to Ted Tayer of JTBD, On November 29th, 2023 
+## Letter to Ted Thayer of JTBD, On November 29th, 2023 
 
 ```
 Hi Ted,

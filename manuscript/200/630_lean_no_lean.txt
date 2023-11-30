@@ -2,19 +2,50 @@
 
 <!-- ( ) leading paragraphs to be shorter --> 
 
-O movimento *lean* permeou-se entre grandes empresas e no mundo dos empreendedores, pois reflete o mundo que ficou mais interativo, mais dinâmico, onde o produtor está mais próximo do consumidor. São inúmeras metodologias que promovem aprendizado que contribui com o processo de inovação para criação de produtos e serviços. Consideremos Lean Startup, que é uma metodologia onde o progresso depende do conceito de aprendizado validado [^footnote_leanstartup_validated_learning] que torna-se vital no ambiente de extrema incerteza. Segundo Steve Blank{id: author-steve-blank-200-600-a} [HBR 2013] a abordagem diminui os riscos porque favorece a experimentação em oposição ao pré-planejamento elaborado. 
+O movimento *lean* permeou-se entre grandes empresas e no mundo dos empreendedores, pois reflete o mundo que ficou mais interativo, mais dinâmico, onde o produtor está mais próximo do consumidor. São inúmeras metodologias que promovem aprendizado que contribui com o processo de inovação para criação de produtos e serviços. Consideremos Lean Startup, que é uma metodologia onde o progresso depende do conceito de aprendizado validado [^footnote_leanstartup_validated_learning] que torna-se vital no ambiente de extrema incerteza. Segundo Steve Blank [HBR 2013] a abordagem diminui os riscos porque favorece a experimentação em oposição ao pré-planejamento elaborado. 
 
-[^footnote_leanstartup_validated_learning]
+[^footnote_leanstartup_validated_learning]: 
 
 <!-- situation of lean, highlights the complication that lean solves --> 
 
-Vale lembrar que os movimentos lean mudam o padrão da fórmula tradicional que envolvia a escrita do plano de negócios, o *pitch* para os investidores, a montagem do time, lançamento do produto e finalmente vendas. Em outras palavras, os movimentos lean estão presentes na fase de design da startup ou da unidade de trabalho de empresas grandes que buscam inovar seus produtos ou serviços. Em outras palavras, a interação com o ambiente externo tem a intenção de reduzir riscos e permitir investimentos maiores, como por exemplo a justificação de um protótipo mais elaborado. Então, pode ser abstraído ser um processo que busca maior eficiência para o processo de inovação em contraste com o design e desenvolvimento de longo prazo, quando feito com dados estáticos, como hipóteses, premissas, pesquisa de mercado, etc, que pode acarretar em uma grande surpresa ao ser lançado para um público onde ninguém se interessa. Por essa e outras razões os movimentos lean remetem a ideia de menos trabalho, ou menos desperdício, com relação aos recursos já que a interação com o ambiente externo gera a oportunidade para o aprendizado validado que reduz incertezas que justificam maiores investimentos que são esperados também pela situação da startup que buscam o crescimento. Em outras palavras, as metodologias lean conferem grandes poderes uma vez que as dados obtidos por meio das interações justificam investimentos de recursos para novas etapas, mesmo sendo a etapa que pede para voltar o ciclo de novo. 
+<!-- 
+
+* ( ) p2, review Steve's point that lean is no magic formula if done strictly - https://hbr.org/2013/05/why-the-lean-start-up-changes-everything 298959825-593859835-5938598-58395839 
+
+-->
+
+Os movimentos lean mudaram o padrão da fórmula tradicional que envolvia a escrita do plano de negócios [^footnote_steveblank_oldapproach], o *pitch* para os investidores, a montagem do time, lançamento do produto e finalmente vendas. Em outras palavras, os movimentos lean estão presentes na fase de design da startup ou da unidade de trabalho de empresas grandes que buscam inovar seus produtos ou serviços. Em outras palavras, a interação com o ambiente externo tem a intenção de reduzir riscos e permitir investimentos maiores, como por exemplo a justificação de um protótipo mais elaborado. Então, pode ser abstraído ser um processo que busca maior eficiência para o processo de inovação em contraste com o design e desenvolvimento de longo prazo, quando feito com dados estáticos, como hipóteses, premissas, pesquisa de mercado, etc, que pode acarretar em uma grande surpresa ao ser lançado para um público onde ninguém se interessa. Por essa e outras razões os movimentos lean remetem a ideia de menos trabalho, ou menos desperdício, com relação aos recursos já que a interação com o ambiente externo gera a oportunidade para o aprendizado validado que reduz incertezas que justificam maiores investimentos que são esperados também pela situação da startup que buscam o crescimento. Em outras palavras, as metodologias lean conferem grandes poderes uma vez que as dados obtidos por meio das interações justificam investimentos de recursos para novas etapas, mesmo sendo a etapa que pede para voltar o ciclo de novo. 
+
+[^footnote_steveblank_oldapproach]: In HBR's article from 2013, "Why the Lean Start-Up Changes Everything," (Blank, 2013), Steve Blank contrasts the decades-old formula, where innovators - small or large - would start by focusing on the development of the business plan followed by investment to producize and sell; with the at the time modern methodology named "lean startup" that enabled teams to search for business models using iterations with the external environment, therefore reducing risks of higher bets, not to mention the alignment with that other innovation processes, such as open source and democratization of venture financing, which reveals the presence of users in the innovation processes. 
+
+<!-- 
+
+## reference
+
+Blank, S. (2013). Why the Lean Start-Up Changes Everything. Harvard Business Review. Retrieved from https://hbr.org/2013/05/why-the-lean-start-up-changes-everything
+
+--> 
 
 <!-- complication of lean, for us here --> 
 
 <!-- some of these seem to be pre-complications? --> 
 
-A razão para nosso momento desenvolve as grandes responsabilidades está na consequência natural dos processos poderosos porque está implícito na situação da startup - onde tudo começa pequeno, que parte de hipóteses, que os dados mesmo sendo fragmentados, ou insignificantes - que esses dados tornam-se intrínsicamente significativos no sentido que afeta as percepções do time, de forma geral. Em outras palavras, os dados tem muita presença, acabam que criticam ou aplaudem demais, dado que os experimentos são elaborados com base nas pressões de crescimento e buscam por valores representativos do mercado e significativos para mais investimento. 
+A razão para nosso momento desenvolve as grandes responsabilidades está na consequência natural dos processos poderosos porque está implícito na situação da startup - onde tudo começa pequeno, que parte de hipóteses, que os dados mesmo sendo fragmentados, ou insignificantes - que esses dados tornam-se intrínsicamente significativos no sentido que afeta as percepções do time, de forma geral. Em outras palavras, os dados tem muita presença, acabam que criticam ou aplaudem demais, dado que os experimentos são elaborados com base nas pressões de crescimento e pela necessidade da busca por valores, ou validação, ou a voz do mercado que são elementos significativos para mais investimento. Ainda, faz-se importante contextualizar que exatamente por não existir uma dependência com o mercado, como servir clientes conquistados, e o time ser pequeno, a agilidade é observável de que startups mudam de rumo rapidamente e que permite que mais falhas possam ocorrer na busca de acertos, e até uma alta tolerância para erros a ponto de se tornar valor, ou quase que orgulho de fundadores [^footnote_samaltman_blitzscaling_pivot_generation]. 
+
+[^footnote_samaltman_blitzscaling_pivot_generation]: There are many obvious reasons to consolidate the general idea that startups are in a good position to move faster, in the sense of changing directions, as of course the initial situation starts with no market dependencies and the small team, the intentions to execute cheaper experiments, and the like. But the general idea of pivoting went further from the notion that entrepreneurs should embrace the possibility, towards a point that pivoting is promoted, as illustrated by Sam Altman's interview (Altman, 2015) which recognized that "Silicon Valley really gets the pivot thing wrong," to the point that teams brag about pivoting, which for him means bragging about failing which is different from the needed aspect of tolerance for failure.
+
+<!-- 
+
+reference 
+
+Altman, S. (2015, September 30). Blitzscaling 02: Sam Altman on Y Combinator and What Makes The Best Founders [Video]. Greylock. https://www.youtube.com/watch?v=CxKXJWf-WMg&t=456s
+
+--> 
+<!-- 
+
+* p2, (x) Part 2 / Lean no Lean - Add reference from Blitzscaling lectures, or any model or celebrity practitioner, that Startups can move fast, to the "Ainda, faz-se importante contextualizar que exatamente por não existir uma dependência com o mercado, como servir clientes conquistados, e o time ser pequeno, a agilidade é observável de que startups mudam de rumo rapidamente e que permite que mais falhas possam ocorrer na busca de acertos.  " ref 98349834-43489384-48394893-839849849
+
+--> 
 
 Mas não deveriam os processos ágeis proporcionar mais aprendizado justamente porque estes estão mais próximos do ambiente externo? Sim, em teoria. Porém, na prática, empreendedores executam as atividades do mundo ágil como uma forma de auto-validação e de auto-crítica para que possam avançar na execução da empresa. Assim eles que bram um contrato fundamental da proposta do movimento ágil e dizem que fazem *lean*, mas na realidade não fazem. Talvez essa questão possa ser vista como uma síndrome que decorre de baixa autoestima, tornam-se “perfeccionistas” quando querem somar pontos de sucesso e não se sentem à vontade em avançar com maior reconhecimento sobre seus problemas dando chance para algo que alinha melhor com objetivos, valores que envolve aceitar as falhas e críticas no caminho e encontrar oportunidaes para continuar aprendendo.  
 
@@ -25,13 +56,13 @@ Decorre ainda deste ambiente, possíveis questões que vem da pressão do cresci
 
 <!-- elaboration of key lines ahead? --> 
 
-Esse olhar pede por uma leitura consciente sobre a utilização de processos lean. Nossa primeira reflexão surge a partir da execução dos processos lean, que mesmo quando executados de forma elegante, criam condições onde times, de baixo de pressão, perdem a visão holística que é a visão de propósito. Em outras palavras é possível tirar “nota 10” em um determinada tarefa e falham na tarefa final, como o compromisso com uma visão que vai de encontro com oferecer valor para um mercado de tal forma a operar de forma lucrativa e sustentável e duradoura. 
+Na busca de um olhar e leitura consciente sobre a utilização de processos lean, nossa primeira reflexão surge a partir da execução dos processos lean, que mesmo quando executados de forma elegante, criam condições onde times, de baixo de pressão, perdem a visão holística que é a visão de propósito, acabando com o potencial do processo ou confiando demais nos dados. Veremos como essa situação ocorre no ambiente corporativo e também no de pequenos times que estão começando suas startups. 
 
-Nossa segunda reflexão, é centrada no time de uma startup em estágio inicial, ou até um empreendedor, que tem sua atenção desviada e perde a conexão com um propósito maior. Em outras palavras, não é que o time se vê em um objetivo de defender um sucesso como quem está conscientemente forçando, mas acaba por defender um caminho pelo sucesso ao trazer o olhar crítico, como um juíz, que diante dos dados do ambiente externo, defende como quem critíca demais  aos moldes quantitativos ou processos de seleção levando a decisões com sinais fracos mas fortes para decisões que de qualquer forma afetam a visão de propósito. 
+Nossa segunda reflexão, é centrada no time de uma startup em estágio inicial, ou até um empreendedor, e explora como que a sua atenção desviada a ponto de perder a conexão com um propósito maior. Em outras palavras, verificaremos que ficamos centrados demais no processo lean porque justamente surge a oportunidade de não olhara para dados subjetivos que não seriam adequados - causando um tipo de fusão onde o criticado se torna o crítico, onde o processo acaba por critícar demais, aos moldes quantitativos, ou processos de seleção levando a decisões fortes, mesmo que com base em sinais fracos, que afetam a visão de propósito. 
 
 Finalmente, concluimos com algumas das ideias de pensadores dos movimentos lean e outros que estão compromissados com o entendimento sobre as dificuldades de navegar com interações com o mundo externo e ao mesmo tempo estarem dentro e fora dos dados com o objetivo de criarem mais condições para inovação no mercado. 
 
-## Experienging the holistic view under pressure 
+## The holistic view under pressure 
 
 Mas *Lean Startup* é somente uma dessas metodologias. Em 2014, o Google promoveu um debate entre os criadores do *Lean Startup* e do *Design Thinking* intitulada *Lean Startup Meets Design Thinking*. Nesse debate, o autor Eric Ries{id: author-eric-ries-200-600-b} falou sobre a abrangência desses processos:
 
@@ -82,7 +113,9 @@ The finding of learning experiments are valid but a lack of purpose happens as t
 
 --> 
 
-Let us consider that how a team engages with lean may also put the interpretation at risk, by the very situation that any experiment will be limited and that subjective analysis is a must. This inclination, when recognized, will also push the entrepreneurs into overfocusing on the experiment in an attempt to make the data speaks louder than the subjective values outstanding which could cause interference. This situation could provoke founders and teams into the denial of the very subjective analysis which should be actually based on values, and priciples. 
+Let us consider that how a team engages with lean may also put the interpretation at risk, by the very situation that any experiment will be limited and that subjective analysis is a must. This inclination, when recognized, will also push the entrepreneurs into overfocusing on the experiment in an attempt to make the data speaks louder than the subjective values outstanding which could cause interference [^footnote_subjectiveness_risk]. This situation could provoke founders and teams into the denial of the very subjective analysis which should be actually based on values, and priciples. 
+
+[^footnote_subjectiveness_risk]: And it would be a quite valid interference if a team considers that lean means precision, as in data or that has rigor as a process, and contrasts with opinions or other subjective interactions with no formality around. In other words, it is difficult to compare an approach of discovery, such as lean that is mature and fits the frames of methodologies, with other interpretations that are ambiguous and may not have a formal framework that can incorporate subjectiveness back into the situation. 
 
 MAP14 public forum, 2014, Australia – Rohan Workman interviewed Steve Blank and asked whether the popularization of lean movements reveals entrepreneurs who claim to do lean but actually don't. Steve Blank had not only acknowledged the situation as a of disorder that affects founders and had illustrated an example of an extremme situation: 
 
@@ -100,15 +133,31 @@ Thus, tests are conducted with a critical tone that selects or validates, pressu
 
 Or to map the forces in the illustration, since we are not in the situation, and safely can freely reflect and idealize scenarions, we shall consider the potential latent need, or pain, of the team asking for the founder to get out given that the team had spent a lot idealizing; the inclination of a founder to get the data because they were doing too much subjective analysis, which may involve a potential denial and allowance of subjective analysis, which could also lead to looking at the not enough data as in enough data and better than subjectiveness to a point of blinding the team from context, from having a wider perspective, such as to see that the experiment data could be a total flaw, ignore the wider context that holds the team together, the wider purpose, nuanced interpretations, analysis without pressure, and more. 
 
-### The fusion with the critic  
+### Fusion with the critic  
 
-In the corporate situation, we note that people or groups present their preferences, which impact project desicions as biases affecting the interpretations after lean project execution and learnings. For example, teams need to achieve their goals, whether individual or group, so they need to perform their work in light of expected objectives. And this can be a conflict with the situation of learning the lean processes.
+As discussed in the corporate situation, the values of lean projects executed by teams, as in their syloes, can find a tension when the data and propositions may fail to understand the forces that can change the applicability and investments further. For example, consider the situation that Eric Ries has illustrated in The Startup Way  a team need to achieve their goals, whether individual or group, as they need to perform their work in light of expected objectives, they may defend against the potential change of direction proposed by a discovery - a conflict with the situation of learning from lean processes. 
 
-Confrontation with the strenght of data which is now incoming and result of the design of experiments. And the very conflict between "they just don't get it" and "they might be right" as it is noticeable that the problem is not clear, the audience might not be clear, in front of a perception of clear vision. The reality is that “one data point is not enough” as indicated by Steve, is strong enough to cause change of path in the development. As an illustration, entrepreneurial team A might give up vision A as data traction B while team B gave up vision B and found data traction A. Now these teams are executing towards growth in spaces they didn't enjoy initially. Eventually if the two companies grow, then could move to the other companies? Unlikely that a swift move happens.  
+> *""* Eric Ries, The Startup Way 
 
-### Courage to break the critic - containement 
+<!-- 
 
-In this section, we may consider the tame the critic, therefore to allow room for external interactions where data chimes in, and where the critical analysis is deferred to later, with a more conscious and friendly secondary phase, such as of what a conscious board would do. 
+* p2, ( ) Part 2 / Lean no Lean -  Review the quote based in English 944839854938-305830-5938593-9835983 the pt-br one is on p223 of O Estilo Startup. 
+
+--> 
+
+<!--
+
+## Reference
+
+Ries, E. (2017). The Startup Way: How Modern Companies Use Entrepreneurial Management to Transform Culture and Drive Long-Term Growth. Currency.
+
+--> 
+
+Therefore, the situation brings about the complication and the need to a wider view and discussion. One possible is exactly the paradox of why a company is doing lean if the results of it will provoke a reaction of another nature - which would make it necessary to understand the very subject of purpose which is what makes everyone working, what keeps them working, and how these forces, such as values, will interfere. 
+
+Furthermore, this confrontation of interests may also appear in any stages such as the situation of a small team or even at the individual level, thus it may give us to opportunity to see it as a fusion. A reflection about the early  company struggle, the apparent sign of trouble, can be identified by the indicated conflict that a founder may have found as they fight with the data the the realization of "they just don't get it" when they are focusing on the vision; and alltogether the eventual realization of "they might be right" which shows that they had defined a responsibility to the duty of lean in the first place. This situation shows how the lean experiment can be fragile in as things are not clear, in front of a perception of clear vision. But, on the other hand, quite strong, if the responsibility of doing lean acts as a stronger criticism. The reality is that “one data point is not enough” as indicated by Steve, is strong enough, tough, to cause change of path in a development in both situations - either trusting too much lean data or the full denial. 
+
+Let us consider how to tame the critic, therefore to allow room for external interactions where data chimes in, and where the critical analysis is deferred to later, with a more conscious and friendly secondary phase, such as of what a conscious board would do. 
 
 As indicated by Steve Blank, the other extremme is a reaction of a great founder that after looking at the data come to the realization that "they just don't get the idea". But down the line, he adds, the founder thinks, "ah, maybe they're trying to tell me something". (Steve Blank, 2014, MAP Unimelb 26m49s)
 
@@ -118,46 +167,79 @@ The inspiration to this model is taken from the situation of a writer that may a
 
 The startup version of that support can be created and a conscious point of view for the analysis of lean data may be proposed as: Data that is taken is taken but it does not mean that actions are immediately taken. The analysis of what to do needs a point of view of support which takes in consideration the values, the vision, a wider view. Exactly because one data point is not enough, one data point can't either be too strong to impact positively or negatively. Being one or a lot of data points, a supporting role must exist which is never unaware of the team values, team vision, team beliefs. 
 
-### Considerations about anchoring vs. learning  
+### Considerations about anchoring 
 
-Let's start by talking about the Business Model Canvas, the Lean tool developed by Alexander Osterwalder that was designed for learning, but entrepreneurs use it as a means to seek status.
+Although we have reflected about the need to be aware about purpose, to establish the clear conversation about the team's purpose, it does not mean that purpose is not acting anyway, as we have considered, as a force. For the sake of identifying the force that may affect results of lean experiments, we shall consideer the team, anchoring, as an element that may happen due to purpose, or values, and can affect interpretations. 
 
-I ended up writing "never send a canvas to your investor" while driving my car one day, with my girlfriend beside me. She commented that a colleague, who was trying to present an idea and was going to present in the future, had sent an image of a Canvas via WhatsApp. At that moment, a wave of adrenaline surged through my body, the strong insight that gave the title to the article, which is indeed a very simple idea but highlights a phenomenon. Entrepreneurs are not using the Canvas to its constructive potential and often simply fall victim to its destructive potential, the misuse governed by a poor focus, perhaps the need to advance towards success and not use the Canvas as a tool for interaction.
+Let's start by talking about the "Business Model Canvas," the popular lean tool developed by Alexander Osterwalder that was designed for learning about potential business models, although entrepreneurs run the risk of using it promote advancement, as if it means status, like credits. I ended up idealizing an article, mainly the title of it, as "never send a canvas to your investor," while driving car when my partner seating next to me said that her colleague had sent an image of a *Canvas* via WhatsApp. At that moment, a wave of adrenaline surged through my body, mainly materialized as the title to the article, which is a simple idea but highlights a phenomenon that at times, entrepreneurs are not using the *Canvas* to its constructive potential, to learn, to iterate ideas, and often simply fall victim to its destructive potential where they misuse as in promoting, presenting, likely as a result of their urge towards progressing. To be fair, perhaps whoever sent that Canvas was just inviting her to change that Canvas, therefore to learn. As a side note, on the day when I got that article published on a publication, the CEO had replied to me saying "I just did," likely confirming our urge to use the canvas to tell the story that seems coherent. And it does, doesn't it? As one shall be very happy to see how the *Canvas* has that built-in value - coherence by its nine building blocks [^footnote_businessmodelcanvas].
 
-{ Because the implied idea of validated learning, a premisse, would it be the case that teams might anchor themselves? }
+<!--
 
-The Canvas process makes it clear that "xxx" and one more thing, it guarantees nothing. It has no date, no promise. Like any lean process, the central idea is learning, not validation. Steve Blank, in Customer Development (Four Steps to the Epiphany), emphasizes the search part of the process as one that returns to the beginning, designed to go backward, like many other Lean processes. But, again and again, entrepreneurs want to move forward. The positive sense of urgency that becomes a villain. And in this sense, a fundamental point of the whole story is worth mentioning - that the act of entrepreneurship is both science and art that must be led by those who are willing, prepared, and have a strong connection with the idea, with the merit.
+## Todo 
 
-#### Case of founder's denial to try a different canvas 
+* p2, ( ) / Narratives lean, check with David of Hackernoon, if it makes sense to put the name Hackernoon - "As a side note, on the day when I got that article published on a publication, the CEO had replied to me saying "I just did," likely confirming our urge to use the canvas to tell the story that seems coherent. And it does, doesn't it? As one shall be very happy to see how the *Canvas* has that built-in value - coherence by its nine building blocks [^footnote_businessmodelcanvas]." 45989583-5038535-593859835-5803853850
 
+-->
 
+[^footnote_businessmodelcanvas]: The Business Model Canvas, developed by Alexander Osterwalder, is a strategic management template used for developing new business models and documenting existing ones. It consists of nine building blocks that together provide a coherent story of a business's key elements. These building blocks include customer segments, value propositions, channels, customer relationships, revenue streams, key resources, key activities, key partnerships, and cost structure. It's important to note that the primary purpose of the Business Model Canvas is not to serve as a tool for presenting a business or convincing stakeholders after the canvas is completed. Rather, it is a framework for understanding and designing business models.
 
+<!-- 
+
+## Todo 
+
+* p3, ( ) / Narrativees lean, Check footnote of "[^footnote_businessmodelcanvas]" 424949284-492849759-5959839-53985358
+
+--> 
+
+Therefore the case of the *Canvas* is interesting exactly because it is simple, and its aspect of coherent elements which supports storytelling. And although that support is first meant to allow a wider view, such as to set the team to do their homework in a number of areas, the very homework feeding back the Canvas supports coherence again, thus adds value, or fidelity to the *Canvas* and then it becomes a picture, or a photo, likely with the benefits and risks of the knowing that a picture is worth a thousand words. 
+
+A stronger, or more colored illustration of a founder driven by the *Canvas* has happened when I was in a role of a observer in a three-day Business Canvas workshop given at a local accelerator in Brazil. The professor had asked the participants to modify their Canvas projects. They were six teams and had a limited amount of time to do the exercise. The idea given by the professor seemed nice, as it provoked the teams to create a variation of their *Canvas* by setting a provocation, such as forcing a limitation, which aligns with strategies used by creativity exercises where new ideas can be discovered by forcing certain limits, adding or subtracting features. As a side note and context for how excited I was to see what next, I had once joined a delightful course on creativity where all the participants had to come up with a restaurant. Our professor asked all of us to feed the blackboard in a brainstorming with all that is known that a restaurant has such as: money, tables, plates, waiters, and all. Right after, he had given us fifteen minutes and the task to create an unique restaurant. But to help us, he had taken some key features for each team, such as "team A, you can't use money." At the end of the exercise every single team had created an amazing restaurant idea. 
+
+<!-- 
+
+## todo
+
+* p3, ( ) / Narratives lean, check if we should refer to professor name or course / ref ", may consider to add his name or reference if any, ref "I had once joined a delightful course on creativity where all the participants had to come up with a restaurant. Our professor asked all of us to feed the blackboard in a brainstorming with all that is known about a restaurant such as: has money, has tables, plates, waiters, and all. Right after, he asked all the teams to create their unique restaurants, but had taken some key features from all teams, such as "you can't use money," and so on. In a matter of fifteen minutes we had created, and witnessed, amazing restaurant ideas. " 92489824-4820842-482048-4829482
+
+--> 
+
+But my excitement didn't last even five minutes in this episode where founders needed to change their projects. From the six teams, only two had accepted to do anything. As I moved across the room, observing the inactivity of teams, I broke the observer rule and asked one of the founders why they weren't trying. The CEO had replied that they wouldn't do because they had won a contest or some other confirmation that they were right, just the night before. I looked to the co-founder, a software developer. He had a sad look in his face. I literally moved away, slowly and moving backwards looking at them and not knowing what to say. They were anchored by that last night. 
+
+The *Canvas*, as a process, doesn't want to give you a winning *Canvas*. It has no date, no promise, like any *lean* process which the central idea is learning, not validation. And if any hint of validation is there, it may be so in alignment with the idea of validated learning, not validation to the business. Steve Blank, in Customer Development (Four Steps to the Epiphany), emphasizes the search part of the process as one that returns to the beginning, designed to go backward, like many other lean processes. But, again and again, entrepreneurs want to move forward. The positive sense of urgency that becomes a villain. And in this sense, a fundamental point of the whole story is worth mentioning - that the act of entrepreneurship is both science and art that must be led by those who are willing, prepared, and have a strong connection with the idea, with the merit.
+
+<!-- 
+
+## Todo 
+
+* p2, ( ) / Narratives lean, correct reference to Steve Blank's book, above, and possible point of citation, on "Steve Blank, in Customer Development (Four Steps to the Epiphany), emphasizes" 494839843-43849834-4930480358-593859839
+
+* p2, ( ) / Narratives lean - Check "The Canvas process makes it clear that it guarantees nothing. It has no date, no promise. Like any lean process, the central idea is learning, not validation. " with reference and reading of Canvas again. 249824982-20482842-42048204-402840284
+
+--> 
 
 #### Considerations of selective pressure 
 
-Perhaps entrepreneurs are applying all the processes, one on top of the other, in a generalized and poorly organized manner.
+While, on one hand, Canvas and other Lean processes indicate the cycle that should be repeated, on the other hand, the entrepreneur, or teams responsible for the discovery process, are setting dates and creating criteria with a clear objective: to move forward. The very complexity for teams doing these processes is that the room for purpose can also be filled with the how the gatekeepers of growth judge, if not themselves. 
 
-What's the problem? They learn the basics of customer development, of Canvas, and then embark on the mission. And therein lies a wrong premise, the mission. {confusion of the mission with the point of the exercise which may actually signal that a given bad direction needs to be avoided - acceptable losses} It's as if they create a pipeline with a set date for a choice to be made. On that date, they will simply move forward with what they have. The mix of processes creates a negative artificiality to the potential emergence of innovation.
+Therefore and even if perfection is never real, some nuanced realization of scoring, or being perfect for a given purpose, may create a risk, such as when the discovery makes the eyeballs of a judge, like an investor, to grow. It's in a way unavoidable that founders looking into their eyes will see the growth opportunity ahead. 
 
-While, on one hand, Canvas and other Lean processes indicate the cycle that should be repeated, on the other hand, the entrepreneur, or teams responsible for the discovery process, are setting dates and creating criteria with a clear objective: to move forward. As if the generalization like "execution is everything" takes a bias, advance with the best of what you do in the time you have. Moreover, there is something very interesting in the law of xxxxxxx (check this) that says if you have time x, you will be able to do it in x - indeed, the world has learned to operate under windows of processing, windows of opportunity, this is part of the Lean execution process, of agile approaches. The wrong lesson, on the other hand, is when entrepreneurs believe that the result of the work window is necessarily information that validates the next stage in light of the pre-planned plan.
+The truth in the space is that this support, or selected pressure, happens from many angles, like due to when money and resources run out, co-founders disagree, the next round of investment never happens, or simply the product doesn't sell, and more. In other words, it's the voice from the pipeline ahead that can affirm. If it works, move forward; if it fails, give up. There's no time to do Lean as it should be done, not at all with a wider view about purpose. 
 
-<!-- Following 5 stars --> 
+To illustrate growth forces, consider the perspective given by Howard Hartenbaum, in "Entrepreneurship Through the Lens of Venture Capital," (Stanford, 2013) where he had recognized that some teams are "precedents driven" in the sense of an alighment with the 10000-hour rule [^footnote_10000hour_rule] and likely with a deeper understanding of the underlying problem even at a philosophical level [^footnote_reid_phisolophy]. But one thing is to consider the team's involvement at that level of depth; but another is the very observation that top-tier venture capital firms are not only aware but actually quite involved in doing their homework, such as research about the potencial changes that are happening to the world. In other words, it has to do with the jobs of their partners, the homework of identifying risks and opportunities for investment which depends on using their minds and all the resources they can to advance their understanding about potential transformations. To illustrate how real is this, consider the situation depicted by Brad Stone in his 2017 book, "The Upstarts: How Uber, Airbnb, and the Killer Companies of the New Silicon Valley Are Changing the World," when Sequoia [^footnote_sequoia_capital] wanted to invest in a ride sharing business in the east of United States which didn't work because the CEO had refused to stay away from yellow cabs which was a concern and fear brought up by Sequoia. On the other hand, Sequoia moved on, and end up investing in a team from San Francisco, California, Uber, a team focusing on black cars, like limo service; although Sequoia were quite interested to know that the founders would be okay to scale towards yellow cabs when the moment was right. 
 
-Important - that the scenario of perfection is never real, thus the assumption of perfection is represents the risk. The ability to see the outcome of a learning cycle as subjective is a must. 
+[^footnote_10000hour_rule]: 
 
-<!-- Following 5 stars --> 
+[^footnote_reid_phisolophy]: 
 
-See, the idea of agile processes is precisely to allow new discoveries, including those that lead teams to consider critical actions like returning to the initial step, pivoting (basically giving up and restarting another idea when you still have money or resources). So why do entrepreneurs consistently increment their projects with the Lean process?
+[^footnote_sequoia_capital]: 
 
-But they don't do it this way - they use the Lean processes to evolve the same idea, as if at any cost, eventually accepting changes in the face of strong impact waves, such as when money and resources run out, co-founders disagree, the next round of investment never happens, or simply "the product doesn't sell" while the machine is bleeding out.
+<!-- 
 
-<!-- Following 5 starts , interrupted by major value --> 
+## Todo
 
-In addition to the above effects, another very accepted approach for entrepreneurs is the strong signal of supposed validation by third-party systems - not passing a competition, not being among the finalists in the accelerator's evaluation process. As if the Lean window ceases to be Lean and becomes a shot of execution because there is a pipeline ahead that can affirm. If it works, move forward; if it fails, give up. There's no time to do Lean as it should be done.
+* p2, ( ) / Narratives lean, add [^footnote_10000hour_rule] and [^footnote_reid_phisolophy] 9439825-5935983-53985983-5938598
 
-<!-- can the following be trasnformed in a consideration about purpose? --> 
-
-In "Entrepreneurship Through the Lens of Venture Capital" (Stanford, 2013), the given perspective may appear for some that sucessful startups didn't use lean principles - as it indeed focuses in principles towards thesis, or vision, or what was referred as "precedents driven". Therefore, it should be acknowledged that VCs, such as top-tier VCs, are doing their research and working in analysis of what is happening to the world. This can be also confirmed by the situation - as detailed in Brad Stone's 2017 book The Upstarts: How Uber, Airbnb, and the Killer Companies of the New Silicon Valley Are Changing the World - of Sequoia when they wanted to invest in the business of ride sharing which took them to try to invest in a company in the east of United States which didn't work because the CEO had refused to stay away from yellow cabs which was a concern at the time which Sequoia had; while the investiment with Uber had worked as Uber was focusing in black cars, like limo service. Of course, Sequoia was also interested in eventually scaling towards yellow cabs, which is what Uber did. 
+--> 
 
 <!-- 
 
@@ -167,8 +249,6 @@ Stone, B. (2017). The Upstarts: How Uber, Airbnb, and the Killer Companies of th
 --> 
 
 
-But it should be noted that yet values in the lean processes are deeply interconnected, such as if we consider that startups that didn't explicitly claim to use formal lean processes doesn't imply in having not moved with experimentation and data validation and interactions with the external environment. Consider, for example, the case of the successful situation of Facebook, as highlighted in the lecture (Stanford, 2013), where there is a perceived expertise of Facebook's founding team, including Mark Zuckerberg, and the situation where the innovation didn't follow any lean practices - needless to indicate that lean movements wheren't there - but nevertheless that are so many aspects recognized by investors that have reflected in examples like this such as the interactions with a niche market of college students. 
-
 <!-- 
 
 ## Reference 
@@ -177,8 +257,7 @@ Stanford. (2013, February 20). Entrepreneurship through the lens of venture capi
 
 --> 
 
-
-
+In conclusion, the illustration is a reminder that strong thesis about the future, and even the inclination of bigger bets by investors, or customer's interest, can become supporting forces that be either mess up with values lean experiments or support. 
 
 
 ## Expanding the horizon 
@@ -190,9 +269,6 @@ Stanford. (2013, February 20). Entrepreneurship through the lens of venture capi
 Since awareness is key to any process, and founders generally suffer from being enamored with the process, it becomes the founder’s responsibility first to recognize such syndrome; then second, to find for ways to ensure the process is running with quality.
 
 But the problem with quality is always in knowing which criteria to use for these situations that can be really adverse. In Steve Blank’s suggestion, founders should find a board of directors or an advisory board: The body responsible for from an outside perspective therefore supporting the founder to get out from instant pressures, and compromising decisions.
-
-
-
 
 The key to executing the process is to do it first without holding the agenda for the success (for the business or the idea.) Success, for the process, is most likely the case of learning new information (good or bad.) When going out, or trying to be systematic about the data you get, you need to be genuine to the cause (the bold vision) but at the same time recognize uncertainty and that learning will help you out in the long run.
 
