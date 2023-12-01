@@ -108,7 +108,7 @@ The case presented, when one says to use the "72h rule" is an example applicable
 
 In other words, teams are looking for evidence of value, such as values, which is driven by their very outcomes needs associated with their plans, if not they are also measured in terms of performance. 
 
-## Logic of good and the lean audience 
+### Logic of good and the lean audience 
 
 Now, as suggested by the process, learning is involved so that the next phase of investment can be activated - either more funding, more resources, scaling needs, productization, and more. Implicit in this process is the idea that someone is observing, the judges, being the team or others supporting peers. 
 
@@ -201,7 +201,7 @@ Consider how strong it can be the data "from the real world" for a group of foun
 * one will recognize that no text is devoid of historical, situational, and biographical context,
 * one will recognize that the meaning of value of any account are always influenced by how the account or story stands with or against other stories known to the audience of the other observer.
 
-## Distortions and parallel realities 
+## Parallel narratives
 
 <!--
 
@@ -315,7 +315,7 @@ https://medium.com/@mcgd/the-cognitive-distortions-of-founders-8e96c1edf60b
 
 https://medium.com/@mcgd/the-cognitive-distortions-of-founders-8e96c1edf60b
 
-## Curating the devil's advocate, it's okay to destroy 
+### Curating the devil's advocate, it's okay to destroy 
 
 The founder engaging in the devil’s advocacy business
 “[Reid Hoffman asks] And what are the indicators that you would use for checking the idea. [context: You could be jumping off a clicf without the ability to assemble the airplane on your way down]. What are the crosschecks you think people should do?
