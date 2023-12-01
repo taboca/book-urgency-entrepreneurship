@@ -2,7 +2,7 @@
 
 <!-- 
 
-v2.1
+v2.2
 
 [v2.1 - final, exercício reflexivo está na versão portugues]
 [!] Verificar, abaixo, inserir complicação. 
@@ -26,7 +26,7 @@ Later, when everything calmed down, I had created an imaginary situation - if po
 
 To which the response is the following and I hate to say that I loved it: 
 
-> *"Hello there, sweet tooth adventurer! 🍰👋 I'm not just a cup; I'm a delightful experience waiting to happen. Inside me is a scrumptious cupcake topped with the creamy, dreamy Brazilian condensed milk pudding, a treat so unique it's like a carnival in a cup! Don't just walk by; give yourself a moment of delicious joy. Come, take a closer look, and let your taste buds dance to the rhythm of our bakery's special creations! 🧁💃✨" ChatGPT 4. 
+> *"Hello there, sweet tooth adventurer! 🍰👋 I'm not just a cup; I'm a delightful experience waiting to happen. Inside me is a scrumptious cupcake topped with the creamy, dreamy Brazilian condensed milk pudding, a treat so unique it's like a carnival in a cup! Don't just walk by; give yourself a moment of delicious joy. Come, take a closer look, and let your taste buds dance to the rhythm of our bakery's special creations!"* ChatGPT 4. 
 
 Many items, products, services, or methods are in front of us, in the showcases of life; when we go out in search of something. My motivation for this article arises from this alarming reality. It starts the moment we go out, because we are looking for something. We no longer go out just to do nothing. And this predisposition is the hook for us to be besieged in spaces, in front of shop windows, websites, search results, and more.
 
