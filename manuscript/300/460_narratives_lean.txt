@@ -4,7 +4,13 @@ To recap, we may consider that what was given or experienced with that narrative
 
 Now, we have considered in *Lean deficit disorder" that teams find challenging to execute lean, even when they do well, that they may lack a wider view of purpose. Therefore, we shall now set the stage to wonder whereas the narrative rationaly, taken as as an effective mechanism for collaboration, and its logic of good reasons influences the course of action of the lean movement.  
 
-To move with this subject, we need to assume that the lean movements are real in the path of entrepreneurs trying to become productive and rigorous. If shall then turn our attention to the situation when entrepreneurs engage with lean methods, and as considered if they find out complications, where the promise of lean seems to fall apart, where consequences may appear such as when a team gives up lean, enters premature pivoting, and others conditions of when lean apparently fails which would also suggest to them that some of the lean practices weren't really as appropriate, if not in some cases of jugment, the rise of an idea, or a possibility of, that lean does not work. Although the prior chapter on narrative rationality does not explore when lean fails, it might be a basis for more clarity for how communicative experiences enables a glitch in the operation of lean practices that shapes decision making and evaluation, aside from expertise and intelligence level of teams. 
+To move with this subject, we not only assume that lean movements are real in the path of entrepreneurs and that they use it to become productive, or rigorous, as they recognize that being efficient in the process of discovery is a must. With that, and as entrepreneurs engage, the assumption that they find complications where the promise - in the sense of enchantement - with lean seems to fall apart, perhaps not entirely but it may start to send signals and cause frustrations. In this situation, the consequences of concern may appear like when a team gives up lean, enters premature pivoting, and others conditions of when lean apparently fail, which also suggests that certain lean practices weren't really as appropriate, or are being executed incorrectly, if not leading to consider the possibility that lean does not work. 
+
+But then it comes the complication, that entrepreneurs that execute lean run the risk of giving up lean, or to talk about using lean but aren't, or taking themselves into false-positives; or in other words generally failing with lean. This phenomenon is recognized by entrepreneurs and practitioners. This concern was reflected by Steve Blank, "doing lean vs. talking about lean" [^footnote_steve_blank_talking_about], that indicated that founders may suffer from an attention deficit disorder. The concern of Eric Ries can also be expressed by the question he asks entrepreneurs - "if you use lean why it is that you want to give up" [^footnote_eric_ries_startup_way_give_up]. Although these aspects are observations of the complication, we will consider how the storied context of lean applicability is impacted by the context as a major influence, how forces impacts phases such as hypothesis design, interview selection, data collection and interpretation, discussions and judgments for what is next.
+
+Let's start by revisiting premisses of the environment of lean which may prepare the ground for a storied context, or so that narratives working for the cause of success could be applicable. Then we will look at how situations from lean movements that shows how the problem is experienced and real, then considerations for how the logic of good reasons affects the storied context of lean, and finally consider strategies for a healthier involvement with lean. 
+
+## The stage 
 
 Anyone navigating modern entrepreneurship is likely following the general philosophy, methodologies and frameworks of the lean movement. Consider Customer Discovery, of Steve Blank, which supports founders with interactions with potential customers and the goal to understand their needs and if they have a problem worth solving [^footnote_steve_blank_customer_discovery]. As we have considered in a prior chapter, the specific framework of Business Model Canvas is also a tool intented to learn about potential business models. These frameworks and methodologies are highly iterative and hypothesis-driven. 
 
@@ -33,11 +39,7 @@ Ries, E. (2017). The Startup Way: How Modern Companies Use Entrepreneurial Manag
 
 -->
 
-But then it comes the complication, that entrepreneurs that execute lean run the risk of giving up lean, or to talk about using lean but aren't, or taking themselves into false-positives; or in other words generally failing with lean. This phenomenon is recognized by entrepreneurs and practitioners. This concern was reflected by Steve Blank, "doing lean vs. talking about lean" [^footnote_steve_blank_talking_about], that indicated that founders may suffer from an attention deficit disorder. The concern of Eric Ries can also be expressed by the question he asks entrepreneurs - "if you use lean why it is that you want to give up" [^footnote_eric_ries_startup_way_give_up]. Although these aspects are observations of the complication, we will consider how the storied context of lean applicability is impacted by the context as a major influence, how forces impacts phases such as hypothesis design, interview selection, data collection and interpretation, discussions and judgments for what is next.
-
-Let's start looking at how situations from lean movements that shows how the problem is experienced and real, then considerations for how the logic of good reasons affects the storied context of lean, and finally consider strategies for a healthier involvement with lean. 
-
-## Lean movement under pressure 
+## The movement 
 
 We also know that the world has changed, that the longer process of analysis of a business plan does not work anymore [^stevenobusinessplansurvives], at least in the face of the popular lean movements that came to help team to innovate. Therefore, now, the pathway of entrepreneurs had changed from the prior world of writing a business plan to a new world, a highly iterative world, promoted by the lean movement. This new movement is meant to help teams to learn, from iterations, from experiments considerably cheap, from analysis of the experiments, trying to map value that suggests hints for more investment, the next stage. 
 
@@ -284,7 +286,7 @@ Comparison of stories
 Stories in time 
 
 
-## Shock-absorbers for founders and founder distortions 
+## Distortions 
 
 <!-- 
 
