@@ -80,13 +80,13 @@ Graham, P. (2012, September). Startup = Growth. Retrieved August 29, 2023, from 
 
 Going back to the metaphor of the supermarket, it is as if we coordinate the construction of a story within the "safe zones" of advancement, a smaller project that feeds good reasons in the fact of an upcoming decision. And in that regard we seek, to that shopping for good reasons; but as we come to decisions, depeding on our decision and expectations, we move on visiting other isles of a higher-order, compelled again to buy-in and act in in the new zone which can be a investment of another nature such as associated with a bigger bet. Natural questions when walking this aisle are: At some point we gotta scale? Once we get product-market fit, and so on. As in, we move straight, or feel pulled to do so, into the aisle of serving the plates, to buy cups and plates for the party, without having properly done with the learnings if the recipe is good. 
 
-As the move with lean, iterative, learn, in the process of execution towards their goals. And as they do, as expectations and goals are set, they seek out models to supports them to manage themselves, as resources, so that hopefully they move on to the next stage of investment. And, again, nothing wrong with that. Still, us bringing the storytelling and how we use it to this situation is key to put us in a more flexible position about the stories of what we read and write in the face of our intention to move on. 
+As the move, movement, or even the movie of lean happens, through its iterativeness, towards goals, expectations and goals are set as they seek models to supports them to manage themselves, as resources, so that hopefully they move on to the next stage of investment. And, again, nothing wrong with that. Still, us bringing the storytelling and how we use it to this situation is key to put us in a more flexible position about the stories of what we read and write in the face of our intention to move on. 
 
 Let's review the logic of good reasons being applicable by the founders as they work with fragmented data in the face of unceertainty of the lean process. Then the mechanism of the good reasons associated with the higher order pressure. And then how the storyline unfolds creating relative comparisons pushing a storyline. [Check these 3 titles.]
 
-> "founder comes out of the building, asks to pivot. Silence equals to pivot. founder comes out if the building, asks to pivot, team claims the Steve 72h rule. Founder goes back to streets. " Cartoon strip interpretation of Steve notes, by Marcio 
+But as we dive in the process, if we zoom in, we will see that the storytelling applied by the hour, as events are happening, as execution happens, is tied to the storytelling by the longer period of investment. 
 
-But as we dive in the process, if we zoom in, we will see that the storytelling applied by the hour, as events are happening, as execution happens, is tied to the storytelling by the longer period of investment. To give colorful case, consider the "72h rule" created by Steve Blank to help teams to control the impulses of a CEO - that leaves the building to do interviews - that comes back with a story that seem to present good reasons to pivot. 
+Now the situation of the "72h rule" of Steve Blank was brought under the viewpoint of a rational system which conforms with a rational world paradigm. To recap the call was that a founder would be asked to keep the mouth shut for 72 hours before announcing the word pivot. That would then be applicable to help teams to control the impulses of a CEO - that leaves the building to do interviews - that comes back with a story that seem to present good reasons to pivot. 
 
 <!-- 
 
@@ -94,11 +94,13 @@ MAP14. (2014, March 13). MAP14 Public Forum: Steve Blank. [video]. Retrieved fro
 
 --> 
 
-The case presented by Steve shows how storytelling conveys partial data and compells the participants to act. It would be the case when the CEO presents its good reasons for a "let's pivot!" And as well, it is the case when the team stops that CEO with good reasons for "keeping your mouth shut, from when you think you got an insight do when you are allowed to announce the word pivot." (Steve Blank @ MAP14, 2014,  24m34s)
+The case presented by Steve shows how storytelling conveys partial data and compells the participants to act. It would be the case when the CEO presents its good reasons for a "let's pivot!" And as well, it is the case when the team stops that CEO with good reasons for "keeping your mouth shut." 
 
 As an example, a CEO confronted with that strong saying, would perhaps have a lot of reasons to trust the team too, as like a good classical story, the indicated rule might have being said in the right time and space and might pull a truth in it. Thus, the rule does not lie is a result of its applicability in the context. It could be that it serves a purpose in the process but it may also influence the process. 
 
-Thus, what is implicit in the doing of lean is a relationship with storytelling. We use storytelling to advance. At the macro level, such as when we seek higher outcomes - financial rewards - or at the micro level, in the daily routine, as we are oriented to outcomes that seem to be aligned with the further outcomes.  But, of course, there is nothing wrong with that, again. 
+Thus, what is implicit in the doing of lean is a relationship with storytelling as in from the perspective that teams are more driven by the whiteboard than the actual looking in the mirror. In other words, the notion that we use storytelling to advance comes from the very fact that we use our the narrative rationality to present the outstanding narrative that asks for decision - through voice, whiteboards, and other systems. 
+
+At the macro level, such as when we seek higher outcomes - financial rewards - or at the micro level, in the daily routine, as we are oriented to outcomes that seem to be aligned with the further outcomes.  But, of course, there is nothing wrong with that, again. 
 
 But it serves as an alert of our propensity to decide for action x or y using stories by the good job of providing it with coherence and fidelity - the proofs of value. And a reminder for us that, when the clock is ticking, sticking with a story that supports decision is generally applauded. We need to be pragmatic, in the end of the day, we need to move. And, again, there is nothing wrong with that. As the process, as we know it, will ultimately reveal the truth, in the end of the days. 
 
@@ -199,7 +201,7 @@ Consider how strong it can be the data "from the real world" for a group of foun
 * one will recognize that no text is devoid of historical, situational, and biographical context,
 * one will recognize that the meaning of value of any account are always influenced by how the account or story stands with or against other stories known to the audience of the other observer.
 
-## Moving on with storytelling, and parallel realities 
+## Distortions and parallel realities 
 
 <!--
 
@@ -254,6 +256,10 @@ These illustrations are here to help us to execute these processes, the episodes
 
 <!--
 
+## todo 
+
+* p2 ( ), Lean dilemma - this Scott Belsky quote is likely dup - take out from here. 4938498394-43984934-4304093-403843
+
 Belsky, Scott. (2010). Making Ideas Happen. London, England: Portfolio.
 
 -->
@@ -298,7 +304,6 @@ Comparison of stories
 Stories in time 
 
 
-## Distortions 
 
 <!-- 
 

@@ -1,5 +1,7 @@
 # Todo # 
 
+* p2 ( ), Lean dilemma - this Scott Belsky quote is likely dup - take out from here. 4938498394-43984934-4304093-403843
+
 * p2 ( ), Lean dilemma - Check if the quote from Eric Ries can be used in this article, which was by the way used in  150_entrepreneurship_is_management 439859853-503853855035-43084384-43849348
 
 * p2, ( ) / Narratives lean, add [^footnote_10000hour_rule] and [^footnote_reid_phisolophy] [^footnote_sequoia_capital]9439825-5935983-53985983-5938598
