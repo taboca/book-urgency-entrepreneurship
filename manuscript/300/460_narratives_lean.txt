@@ -39,8 +39,6 @@ Ries, E. (2017). The Startup Way: How Modern Companies Use Entrepreneurial Manag
 
 -->
 
-## The movement 
-
 We also know that the world has changed, that the longer process of analysis of a business plan does not work anymore [^stevenobusinessplansurvives], at least in the face of the popular lean movements that came to help team to innovate. Therefore, now, the pathway of entrepreneurs had changed from the prior world of writing a business plan to a new world, a highly iterative world, promoted by the lean movement. This new movement is meant to help teams to learn, from iterations, from experiments considerably cheap, from analysis of the experiments, trying to map value that suggests hints for more investment, the next stage. 
 
 [^stevenobusinessplansurvives]: 
@@ -51,7 +49,21 @@ Blank, S. (2010, November 1st). No Business Plan Survives First Contact With A C
 
 -->
 
-But the complication, also recognized, is that teams give up lean, as they try to advance, which may lead to false-positives situation. The situation with lean carries the premise, that it is meant to learn, to iterate, and in the direction of being scientific. Lean is for that, a movement and has principles. But we also give up on that as soon as we stumble in what appears to be evidence. Renowned entrepreneur Eric Ries in his book The Startup Way [^ericriesonfoundersnolean] discusses a complication that comes in the way of founders as they advance with the lean startup methodology. He provoke founders pointing an intriguing trend that emerges when entrepreneurs often abandon the lean methodology once they find a promising lead. It's akin to an urgency mode kicking in, driving them to forego the principles that initially brought them to iterate and to learn. 
+## The photo montage 
+
+<!--
+
+## todo 
+
+* p2 ( ), Lean dilemma - Check if the quote from Eric Ries can be used in this article, which was by the way used in  150_entrepreneurship_is_management 439859853-503853855035-43084384-43849348
+
+> “What I think is really interesting about these stories about entrepreneurship is that 95% of the time of the movie is spent in act one and act three even though in real life all of the important work of entrepreneurship happens during the photo montage.” (Ries, 2011, 4:58)
+
+--> 
+
+But the complication, also recognized, is that teams give up lean, as they try to advance, which may lead to false-positives situation. The situation with lean carries the premise, that it is meant to learn, to iterate, and in the direction of being scientific. Lean is for that, a movement and has principles. But we also give up on that as soon as we stumble in what appears to be evidence. Renowned entrepreneur Eric Ries in his book The Startup Way [^ericriesonfoundersnolean] discusses a complication that comes in the way of founders as they advance with the lean startup methodology. 
+
+We shall then provoke founders pointing an intriguing trend that emerges when entrepreneurs often abandon the higher purposes a lean methodology - not precisely by the full denial of lean but as considered that they claim the output of lean under a prism of an "attention deficit disorder" where purpose is lost among conflicting values and pressures of growth, such as growth for the business and the growth of departments, and teams.  
 
 [^ericriesonfoundersnolean]:
 
