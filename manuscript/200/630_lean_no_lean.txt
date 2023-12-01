@@ -74,23 +74,31 @@ Finally, we conclude with some thoughts from thinkers of the lean movement and o
 
 ## The holistic view under pressure 
 
-Mas *Lean Startup* é somente uma dessas metodologias. Em 2014, o Google promoveu um debate entre os criadores do *Lean Startup* e do *Design Thinking* intitulada *Lean Startup Meets Design Thinking*. Nesse debate, o autor Eric Ries falou sobre a abrangência desses processos:
+In 2014, Google hosted a debate between the creators of Lean Startup and Design Thinking entitled *Lean Startup Meets Design Thinking*. In this debate, author Eric Ries sets the stage and elaborates how many of these lean processes are well intended, on one hand: 
 
-> Grab the Design silo  —and they have read Tim’s book, and if they understand what a modern approach design looks like, you will see kind of design thinking that he mentioned. Grab Marketing, you will see customer development. If you grab Operations, you will see some Dev Ops.. — Eric Ries{id: author-eric-ries-200-600-d} (Google for Startups, 2017, [XX:YY](https://medium.com/@taboca/disconnection-from-the-everyday-works-purpose-7c4b29d861d9))
+<!-- 
 
-[^designthinking]: *Design Thinking* é um processo na mesma linha de outros “leves” ou “ágeis” mas originado do mundo do design e aplicável em um contexto mais amplo nas empresas. https://hbr.org/2008/06/design-thinking
+## reference
 
-Eric passa a ideia da abrangência das metodologias ágeis, todas bem intencionadas para elevar diferentes departamentos na linha do movimento ágil. Porém, tal abrangência ou abundância, não necessariamente resolve a questão maior da coerência entre departamentos:
+Google for Startups. (2014). Lean Startup Meets Design Thinking [Video]. YouTube. https://www.youtube.com/watch?v=bvFnHzU4_W8
 
-> *“You might find an organization where at every silo, things are very iterative, customer centric, and where people are really focused on learning. But then, zoom out and you will say “wow, this must be a really adaptable, learning oriented company, this is fantastic.” But actually, what you will see in a lot of companies, is, although there all this iteration learning happening at each individual silo, the actual work product that company produces, is passed binder to binder from each silo to the next, in a totally linear and old school waterfall style approach. “* — Eric Ries{id: author-eric-ries-200-600-e2} (Google for Startups, 2017, [XX:YY](https://medium.com/@taboca/disconnection-from-the-everyday-works-purpose-7c4b29d861d9))
+--> 
 
-Segundo Eric, os líderes desses departamentos acreditam que se pudessem controlar os outros departamentos as coisas seriam bem mais fáceis. Ou seja, o olhar de dentro do silo lhes dá esperança que suas metodologias ágeis são suficientes para resolver o sucesso do todo. Mas ainda assim, o desafio dos CEOs está na harmonia entre os silos — eles sofrem na arte da coreografia, que atua entre o produto do trabalho dos silos:
+> *"Grab the design silo, and they have read Tim’s book, and if they understand what a modern approach design looks like, you will see kind of design thinking that he mentioned. Grab marketing, you will see customer development. If you grab operations, you will see some dev ops.. You might find an organization where at every silo, things are very iterative, customer centric, and where people are really focused on learning." - Eric Ries (Google for Startups, 2014, 11:14)
+
+[^designthinking]: *Design Thinking* is a process aligned with other "lean" or "agile" methods but originated from the world of design and which is also applicable in a broader context to support teams to innovate. https://hbr.org/2008/06/design-thinking
+
+While, on the other hand, coherence between deparments remains a major problem that prevents innovation from happening: 
+
+> "*But then, zoom out and you will say “wow, this must be a really adaptable, learning oriented company, this is fantastic.” But actually, what you will see in a lot of companies, is, although there all this iteration learning happening at each individual silo, the actual work product that company produces, is passed binder to binder from each silo to the next, in a totally linear and old school waterfall style approach. “* — Eric Ries (Google for Startups, 2014, 11:14)
+
+According to Eric, the leaders of these departments believe that if they could control the other departments, things would be much easier. In other words, the view from within their silo gives them hope that their agile methodologies are sufficient to ensure the overall success. However, the challenge for CEOs lies in harmonizing these silos — they struggle with the art of choreography, which operates between the products of the silos' work:
 
 > *"Of course, everybody in all the silos are saying that, and, for modern managers that can be really challenging. So, for me, my aspiration for Lean Startup is not to have people adopt it as yet another silo approach, but rather to take these common elements, that are common to design thinking, and to agile, and to lean, and certain apply them at a system-wide, at the company level, so that we have a common framework for understanding what are the problems, a common approach for the process that we are going to use to solve those problems, and most importantly, we can speak the language of business to say “he are the concrete financial and business outcomes that we can achieve if we work in this way”"*. — Eric Ries{id: author-eric-ries-200-600-f2} (Google for Startups, 2017, [XX:YY](https://medium.com/@taboca/disconnection-from-the-everyday-works-purpose-7c4b29d861d9))
 
-Essa preocupação com a união, ou falta de, entre os departamentos das empresas, pode servir de base para a exploração do problema que empreendedores também enfrentam quando lidam com os processos ágeis no estágio inicial das suas startups. Nesse contexto, obviamente não existem silos, os vários departamentos. No início, não existe produto nem clientes. A única coisa que empreendedores têm são as hipóteses iniciais. Segundo Steve Blank{id: author-steve-blank-200-600-b}, uma *startup* é uma instituição em fase de descoberta. [^author-steveblankstartup].
+This concern with the unity, or lack thereof, among company departments can serve as a basis for exploring the problem that entrepreneurs also face when dealing with agile processes in the early stages of their startups. In this context, there obviously are no silos, or various departments. At the beginning, there is no product, nor customers. The only thing entrepreneurs have are their initial hypotheses. According to Steve Blank, a startup is an institution in the discovery phase [^author-steveblankstartup].
 
-[^author-steveblankstartup]: nonono nononono nonnono nononono ononono nonon ono nonono nonono nonono non on onoooo. https://steveblank.com/2010/01/14/a-startup-is-not-a-smaller-version-of-a-large-company/
+[^author-steveblankstartup]: Steve Blank had considered the fundamental difference from a large company and a startup, emphasizing that a startup is an entity in the process of discovery, primarily working to validate its initial hypotheses in an uncertain environment. For more details, read *A Startup is Not a Smaller Version of a Large Company* from Steve Blank (2010).
 
 ### The breakdown of the holistic view 
 

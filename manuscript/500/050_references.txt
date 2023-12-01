@@ -214,7 +214,7 @@ Leanpub. (April 4, 2012). Interview with Roy Osherove, author of Notes to a Soft
      200 / 390_mood_analysis_planning.txt
      200 / 510_ideas_emotions_judgement.txt 
      100 / 600_driven_by_fear 
-     300 / 470_culture_productivity
+     300 / 470_culture_productivMeetsity
      200 / 630_lean_no_lean 
      
          --> 
@@ -222,6 +222,8 @@ Leanpub. (April 4, 2012). Interview with Roy Osherove, author of Notes to a Soft
 Blank, S. (2013). Why the Lean Start-Up Changes Everything. Harvard Business Review. Retrieved from https://hbr.org/2013/05/why-the-lean-start-up-changes-everything
 
 Altman, S. (2015, September 30). Blitzscaling 02: Sam Altman on Y Combinator and What Makes The Best Founders [Video]. Greylock. https://www.youtube.com/watch?v=CxKXJWf-WMg&t=456s
+
+Blank, S. (2010, January 14). A Startup is Not a Smaller Version of a Large Company. Retrieved from https://steveblank.com/2010/01/14/a-startup-is-not-a-smaller-version-of-a-large-company/
 
 Cameron, J. (1998). The Right to Write. TarcherPerigee.
 
