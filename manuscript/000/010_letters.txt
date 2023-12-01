@@ -1,9 +1,11 @@
 
 ## Matrix initial reviews 
 
+* (p, l, a, r ) Chris Hoffman - of Mozilla. Had accepted to help.  
+* (p, l, a, r ) Marcelo Muniz, had accepted to help. 
+
 * (p, a) Chris Yeh - chat invited, may look at intro presentation document and manuscript. 
 * (p, l, a) Steve Blank, invited with introduction letter [l], accepted to receive manuscript. 
-* (p, l, a) Marcelo Muniz, 
 
 * (p, l, c) Jason Fried, through linked in. 
 * (p, l, ) Editors Melissa and Jonathan , on Nov 14th 2023.
@@ -27,6 +29,38 @@
 [a] accepted to receive the manuscript
 [w] Wants a copy when done 
 
+## Letter to David Smooke of Hackernoon, On November 30th, 2023
+
+```
+(If you want I can e-mail this if you give me your e-mail) 
+
+Hi David, 
+
+What I am about to inform you might be a result of one amateur writer, amateur entrepreneur, wantrepreneur, wannabe writer - you name it - that had received help to become a writer from the perspective that a writer starts with the act of writing.
+
+In this context, Hackernoon, of course, had offered help, a space, an opportunity. In addition, of course, many others like Julia Cameron to name a special name. 
+
+So I am writing a book. Part one of this note. One which I didn't know when navigating the origins of it, by 2017, by that timeframe which BTW I had become an Uber driver for 1000 trips (on Fridays) and somehow the driving took me into writing, which produced the following articles, the first of them on The Ascent, and the other I think youself had approved it when Hackernoon was on Medium - this is when our story begins. 
+
+[Why that first Uber (driver) trip never happened | by Marcio S Galli | Ascent Publication | Medium](https://medium.com/the-ascent/why-that-first-uber-driver-trip-never-happened-2d36a073ebfc)
+
+[Never Send a Business Model Canvas to Your Investors | HackerNoon](https://hackernoon.com/never-send-a-business-model-canvas-to-your-investors-f832fd854518)
+
+To add more to this first point, the book, so far entitled Slow Down Startup, shows a great deal of connection with a point of view - which I can't say yet that it is style - that had in that article about canvas, which has to do with a calmer mind which is necessary for entrepreneurship, especially in the days when all seems to hyperconnected. The draft has about 480 pages I am trying to keep under 500 with the goal of arriving at 250-300 - as if the number of pages were a topic to talk about. 
+
+Now the other point is that I do have, in one of the chapters, a section where I talk about Lean, and Canvas, and somehow I caught myself remembering the reply that you said when I wrote that article ( "Never Send the Business Model Canvas to Your Investor" ) when you published it, as you wrote something like "Oops I just did". 
+
+At this stage, I added added a bit of color, and thoughts, and made a reference to the situation. I had indicated that CEO of a publication when had replied "Oops, I just did" doesn't tell if he were using Canvas wrong or right. But what is more important is that it happens to mean more, that the matter of being aware about the responsible use of lean tools, such as business model canvas, are good themes to be concerned with. In other words, that CEO wanted to remind himself of being aware. 
+
+Now, I would or could perhaps keep that story as that, or also to add a reference in the footnote about Hackernoon and/or your name; so I am asking your permission or it case it is not nice just wonder if I can keep the story without mentioning names or the publication. 
+
+Beyond that, I would very much like to say thanks to you and Hackernoon from a general point of view of having supported my life as a writer. Or perhaps the beginning of it. 
+
+Sincerely, 
+
+Marcio
+```
+
 ## Letter to Ted Thayer of JTBD, On November 29th, 2023 
 
 ```
@@ -45,6 +79,8 @@ MG
 ```
 
 ## Letter to Chris Hoffman on November 29th 2023 
+
+* Ref - review 1 of Chris - https://mail.google.com/mail/u/0/#inbox/KtbxLwgZVwjDDccMZJKdWcPBwPDlzZFlzL
 
 ```
 Hey Chris,

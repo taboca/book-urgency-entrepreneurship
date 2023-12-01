@@ -2,9 +2,9 @@
 
 <!-- ( ) leading paragraphs to be shorter --> 
 
-O movimento *lean* permeou-se entre grandes empresas e no mundo dos empreendedores, pois reflete o mundo que ficou mais interativo, mais dinâmico, onde o produtor está mais próximo do consumidor. São inúmeras metodologias que promovem aprendizado que contribui com o processo de inovação para criação de produtos e serviços. Consideremos Lean Startup, que é uma metodologia onde o progresso depende do conceito de aprendizado validado [^footnote_leanstartup_validated_learning] que torna-se vital no ambiente de extrema incerteza. Segundo Steve Blank [HBR 2013] a abordagem diminui os riscos porque favorece a experimentação em oposição ao pré-planejamento elaborado. 
+O movimento *lean* permeou-se entre grandes empresas e no mundo dos empreendedores, pois reflete a necessidade de mais agilizade e eficiência no mundo que ficou mais ágil, mais interativo, mais dinâmico, no mundo onde o consumidor está mais envolvido no processo de inovação ficando mais próximo do produtor [^footnote_ericvonhippel_democratizing_innovation]. A uma década atrás, a revista Harvard Business Review e Steve Blank reconheceu que mesmo sendo jovem, o movimento intitulado "the lean start-up" estaria a par com vários outros trends como necessidade de mais aproximação com clientes, abertura para falhas, abertura para mudar de curso, contabilidade do processo de inovação com mais transparência - tudo isso para melhorar os antigos processos onde o pré-planejamento elaborado prevalecia. Com o tempo, na última década, o movimento *lean* conquistou muito mais atenção e contribuiu para mais eficiência quanto ao processo de inovação para criação de produtos e serviços. 
 
-[^footnote_leanstartup_validated_learning]: 
+[^footnote_ericvonhippel_democratizing_innovation]: In *Democratizing Innovation,* MIT professor and author, Eric von Hippel, explores the phenomenon of User Innovation, a concept where users of products and services play an active role in the innovation process. Von Hippel argues that users, being close to their own needs and experiences, often innovate by modifying and improving products. This user-driven innovation blurs the traditional boundaries between consumer and producer, fostering a collaborative environment where users not only consume but also contribute to the development and improvement of products and services
 
 <!-- situation of lean, highlights the complication that lean solves --> 
 
@@ -14,9 +14,19 @@ O movimento *lean* permeou-se entre grandes empresas e no mundo dos empreendedor
 
 -->
 
-Os movimentos lean mudaram o padrão da fórmula tradicional que envolvia a escrita do plano de negócios [^footnote_steveblank_oldapproach], o *pitch* para os investidores, a montagem do time, lançamento do produto e finalmente vendas. Em outras palavras, os movimentos lean estão presentes na fase de design da startup ou da unidade de trabalho de empresas grandes que buscam inovar seus produtos ou serviços. Em outras palavras, a interação com o ambiente externo tem a intenção de reduzir riscos e permitir investimentos maiores, como por exemplo a justificação de um protótipo mais elaborado. Então, pode ser abstraído ser um processo que busca maior eficiência para o processo de inovação em contraste com o design e desenvolvimento de longo prazo, quando feito com dados estáticos, como hipóteses, premissas, pesquisa de mercado, etc, que pode acarretar em uma grande surpresa ao ser lançado para um público onde ninguém se interessa. Por essa e outras razões os movimentos lean remetem a ideia de menos trabalho, ou menos desperdício, com relação aos recursos já que a interação com o ambiente externo gera a oportunidade para o aprendizado validado que reduz incertezas que justificam maiores investimentos que são esperados também pela situação da startup que buscam o crescimento. Em outras palavras, as metodologias lean conferem grandes poderes uma vez que as dados obtidos por meio das interações justificam investimentos de recursos para novas etapas, mesmo sendo a etapa que pede para voltar o ciclo de novo. 
+Consideremos Lean Startup, que é uma metodologia onde o progresso depende do conceito de aprendizado validado [^footnote_leanstartup_validated_learning] que torna-se vital no ambiente de extrema incerteza. Os movimentos lean mudaram o padrão da fórmula tradicional que envolvia a escrita do plano de negócios [^footnote_steveblank_oldapproach], o *pitch* para os investidores, a montagem do time, lançamento do produto e finalmente vendas. Em outras palavras, os movimentos lean estão presentes na fase de design da startup ou da unidade de trabalho de empresas grandes que buscam inovar seus produtos ou serviços. Em outras palavras, a interação com o ambiente externo tem a intenção de reduzir riscos e permitir investimentos maiores, como por exemplo a justificação de um protótipo mais elaborado. Então, pode ser abstraído ser um processo que busca maior eficiência para o processo de inovação em contraste com o design e desenvolvimento de longo prazo, quando feito com dados estáticos, como hipóteses, premissas, pesquisa de mercado, etc, que pode acarretar em uma grande surpresa ao ser lançado para um público onde ninguém se interessa. Por essa e outras razões os movimentos lean remetem a ideia de menos trabalho, ou menos desperdício, com relação aos recursos já que a interação com o ambiente externo gera a oportunidade para o aprendizado validado que reduz incertezas que justificam maiores investimentos que são esperados também pela situação da startup que buscam o crescimento. Em outras palavras, as metodologias lean conferem grandes poderes uma vez que as dados obtidos por meio das interações justificam investimentos de recursos para novas etapas, mesmo sendo a etapa que pede para voltar o ciclo de novo. 
 
-[^footnote_steveblank_oldapproach]: In HBR's article from 2013, "Why the Lean Start-Up Changes Everything," (Blank, 2013), Steve Blank contrasts the decades-old formula, where innovators - small or large - would start by focusing on the development of the business plan followed by investment to producize and sell; with the at the time modern methodology named "lean startup" that enabled teams to search for business models using iterations with the external environment, therefore reducing risks of higher bets, not to mention the alignment with that other innovation processes, such as open source and democratization of venture financing, which reveals the presence of users in the innovation processes. 
+[^footnote_leanstartup_validated_learning]: Validated Learning is a core concept in Eric Ries's book *The Lean Startup* (Ries, 2011). It refers to a process where startups use empirical data gathered from real customers to validate their hypotheses about both the business and product. This approach emphasizes learning over mere intuition and guides startups in making decisions based on what customers actually want, thereby reducing market risks and avoiding the building of products that customers do not need 
+
+<!-- 
+
+## reference 
+
+Ries, E. (2011). The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses. Crown Business.
+
+--> 
+
+[^footnote_steveblank_oldapproach]: In the article's, *Why the Lean Start-Up Changes Everything,* Steve Blank (2013) contrasts the decades-old formula, where innovators - small or large - would start by focusing on the development of the business plan followed by investment to producize and sell; with the at the time modern methodology named "lean startup" that enabled teams to search for business models using iterations with the external environment, therefore reducing risks of higher bets, not to mention the alignment with that other innovation processes, such as open source and democratization of venture financing, which reveals the presence of users in the innovation processes. 
 
 <!-- 
 
@@ -262,9 +272,7 @@ In conclusion, the illustration is a reminder that strong thesis about the futur
 
 ## Expanding the horizon 
 
-
 <!-- check sb suggestion board case, reflect on that --> 
-
 
 Since awareness is key to any process, and founders generally suffer from being enamored with the process, it becomes the founder’s responsibility first to recognize such syndrome; then second, to find for ways to ensure the process is running with quality.
 
