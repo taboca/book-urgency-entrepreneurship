@@ -1,5 +1,10 @@
 # Todo # 
 
+
+* p2 ( ) Lean no lean, check SCqA here against the 3rd key answer of The lean dilemma. 42498249-4280482948-42849284-428498294
+
+* p2 ( ), Lean dilemma - Find the video reference, interview, make a reference in the footnote [^footnote_steveblank_hallucinations]: Steve Blank illustrates that the visions of founders are visions, are dreams, not disconnected from the situation of "a calling". The metaphor that founders hallucinate given by Steve makes that point.  38498349-43848394-943948394-493894839
+
 * p2 ( ), Lean dilemma - this Scott Belsky quote is likely dup - take out from here. 4938498394-43984934-4304093-403843
 
 * p2 ( ), Lean dilemma - Check if the quote from Eric Ries can be used in this article, which was by the way used in  150_entrepreneurship_is_management 439859853-503853855035-43084384-43849348
