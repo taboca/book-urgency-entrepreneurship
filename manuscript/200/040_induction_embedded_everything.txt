@@ -8,7 +8,29 @@
 
 * Referencia - 
  
- [ ScqA ] Induction is around, induction attracts. We derive that induction can be used arbitrarily, the complication, abuses. We need to watch out to not fall, and to not comply with; instead consider SCqA. 
+
+## SCqA review v0.2 
+
+* Subject - 
+
+* Situation - People use writing, said or presented, to convince. The urgency to close the gap makes the presenter to skip communication, and just use it, may add arbitrariness, and now help with clarity. Can be ignored by the audiences. 
+
+* Complication - Induction is misundertood, used inrresponsibly, or automatically, from a denial to consider that induction serves the purpose, to add clarity. 
+
+* Question - What to do? Continue to deny and present what is right, and responsible, by ignoring communication? As in all the time proving? 
+
+* Answer - The right is to be in peace with induction, respecting its purpose, and the process of transformation, and clarity, where one adds and build a good structure writing. 
+
+* K1 - How it is experience, it might be style. PRoblem of a deductive mind, difficulties such as the value is rational, logic, data. We can't see that this can be true induction and abuse, if not waste or investment. 
+
+* k2 - THe machine is inductive anyway, don't be mad. We need to embrace, it's an inductive world and we need to be responsible to deal with it. Works for a fast track world, transactional, but still how to?
+
+* k3 - The logical horizon. 
+
+* v0.1 -  [ ScqA ] Induction is around, induction attracts. We derive that induction can be used arbitrarily, the complication, abuses. We need to watch out to not fall, and to not comply with; instead consider SCqA. 
+
+## Todo 
+
 
  [ Add ] Consider the notes from Adam Silva, about the language. 
  
@@ -20,19 +42,39 @@
 
 -->
 
-The written things - also said or presented - are materialized for a purpose such as to change something, for presenting a viewpoint, for getting a proposal accepted. They are using words, arranged in different ways, to convince an audience. Our reflection here might try to course correct this situation - towards the idea that words are arranged - and rearranged - in order for ideas to be clearly presented to an audience. But in many situations a pattern is common - that people communicates with another with no intention of being misunderstood, or wishing the other to object to their ideas. Thus writing serve to our goals, when we write, or say something; it exists to convey an idea and it invites an audience to collaborate, to join, to support, to share, to buy, to invest, and more.  
+<!-- scqa: situation --> 
+
+The purpose of this section is to help entrepreneurs to be in peace with communication, especially with inductive communication - the kind of communication that might be generally seen as persuative, if not evil, by many - and how the great inductive writing can be done honestly, as in to be used to achieve clarity and to support audiences to understand clearly, other than be convinced. 
+
+The written things - said or presented - are materialized for a purpose - to change something. In other words, and especially in the world of entrepreneurs, they may exist to get a proposal approved, to offer a viewpoint about a situation that need change, or even when writing is biographical, or historical, still it exists to give a new perspective to the audience. Therefore, it might be unescapable that they are using words, arranged in different ways, to more or less convince audiences. Or from a more general viewpoint, that what we write, said or presented, exists to serve goals, that it is driven to audiences, that it asks engagement, invites them to join, to collaborate, to provide support, to buy, to invest, and more. It is also equality unescapable that factors, such as the pressures of the day, influences the prompts, that it pulls writings to exist. In other words, makes writing appear as a response to specific needs and not due to arbitrary reasons. It may be also unescapable that no writing exists to cause confusion or to intentionally cause objections by the audience. 
+
+<!-- scqa: complication --> 
+
+But it might also be obseverved that an urge to convince the audience gets in the way of the goals, the higher-order purpose. As in when the writing with all the good intentions causes confusion to the audience. Or objection such as objection that even comes before you can complete what you wanted to say, such as when the reader gives up in the middle of your writing to point he disliked something or disagree with an premise. As if they found good reasons to stop right there. Even worse is when these observations are difficult to detect exactly because of the urgencies of our busy day, such as that when the tension arises, the discussion turn our attention to what one wanted to communicate and generally not to the writing. Of course, as it would be an absurd to judge the communicator by the writing, and it would even sound as evil - a sign that how is being written counts, or convinces, as in, "wait, you are telling me that if I write elegantly I could convince you like a salesman that is persuasive?" 
+
+As the day runs, it seems that we find comfort in accepting that poor writing is honest, or is inclusive, is more debatable; which by the way does not prevent good writing - given by whoever is good at - to run smoothly, to convince smoothly even to a point where it seems that the ideas of the good communicator are better. The sad reality, is that the denial of the science for better writing not only pulls the doer to think that "I don't want to be an evil communicator, to use manipulative writing, and I want my ideas to stand as rational, or logical" and worse than that to not consider that inductive communication can serve an honest purpose. 
+
+And this is the purpose of this section. To consider inductive writing as valuable, that can be be used honestly by entrepreneurs, not only to be aware of what is being told, but to be conscious of using it responsibly and in a way that truly suppports the goals. In this direction, let us first consider how inductive communication is assesed in the work place and some complications for doers such as technical or engineer mindset. Next, we will consider 
+
+
+
+## It might be style 
 
 One point to look, from one communication to another, has to do with how one does it. Some people do it with style. Some can do naturally do so well they don't even understand how they do. Some others struggle to put out their ideas with clarity. Others put a lot of work, and struggle, and nothing sticks. But we all know what induction is, and how we use it, although not many will recognize the phenomenon of using it as induction. It is all around. As I was having coffee before writing the draft for this article, I heard a person that were passing by as he was leaving a voice message to someone. He said "What did you think of my idea?" And right away added the note "although it is not the best solution, what do you think?". After that I couldn't hear more, and it was enough for me. He was seemed to be trying to add value to his point. The way he said was also part of the convincing mechanism. Or he knew that the other, on the other end, were likely to cut his idea and needed something the other could agree with. Perhaps he was trying to induce by presenting an implied reason, as if he had said "see, we won't have the time to pick the perfect idea now. Let's move on." And likely was hoping that the other end, in the urgency of the world, would agree with a yes and a let's go with that. 
 
-## Complication 
+### Complication 
 
 To consider induction, it is a problem for many people that want to put their ideas out but have a brain that loves deduction, people that love to coordinate their ideas by expressing the element of their struggle such as the steps of their discoveries. Many people are like that, such as engineers, as they don't even want to change their model of communication, from deductive to inductive. If they do, when they attempt, they might feel, as they approach the effort, that they are tricking themselves, that they are being other beings that they dislike, like perhaps a salesman that is in hurry to convince someone. Considering to engage and use tools of induction can make one feel like that he is interested in tricking others.  
 
-## Question answer 
+### Question answer 
 
 But there are others that have a deductive mind - such as engineers - and yet understand how induction tools. These are the folks that can actually transform their solid ideas in solid proposals that can get accepted. Perhaps these are the ones that do a lot of work viewpoint of Barbara Minto - author of The Pyramid Principle. The kind of work she asks us to engage. She asks us to think through but in a way where reasoning does a service. Therefore, to use critical thinking and logic and do the design work an the work of writing a good idea and proposal with clarity and structure. That is Barbara's SCqA way of organizing a communication; and it offers a great deal of achieving clarity especially for people, such as entrepreneurs, that are interested in achieving results - such as to have all things they are saying in a way that people understand. In a way that traction can be achieved with decision makers - your audience.  Therefore, induction, when correctly used, does the service of supporting the audience to contextualize a problem associated with a solution. 
 
-## Inductive communication in the machine 
+
+
+## The inductive machine 
+
+The machine is inductive anyway and we will be be mad; but we need to reason, be calm, and initially embrace the situation, the reality, that it is an inductive world and that to be responsible and to deal with it is key for entrepreneurship. 
 
 I was in a supermarket these days and the lady of the deli section promoted a product when we were to buy mossarela cheese. Apparently, as far as we knew it, we wanted 200g of mossarela. But before we said the amount, she interrupted us to suggest that we buy the mossarela that were pre-packaged by her (pre sliced and in a combo with prosciutto). She said that the cost, per gram, of that mossarela were less. Needless to say that we were in a hurry, right? We were not there to reason, to think, to get ideas for writing a book or reflecting about the ways people communicate with induction. We were apparently just there to buy mossarela. But I was there and confess having entered in the basic math which is something we do when buying. We never ignore the math, right? I asked her how much was the cost per kilogram of the mossarela alone to which she said 55 brazilian reals. And then she added that the cost per kilogram for the one in the package was 40. So, the basic math seems to work and she also added an inductive expression, with her face, and said that she was there to help. I then asked her what where the cost of the - needless to say cheap/poor quality - prosciutto that came in the package. She said that it was about 30 BRL (Brazilian Reais). The package was half plus half, and somehow I wasn't anymore there to buy but willing to see what was going on. And with another not so simple to do math, I figured that the price per kilogram in the combo package was just the expected average price. So, voila, she was offering 200g of mossarela at its normal price with a 200g of cheap-quality prosciutto in its normal price, although her was limited to the stress the fact that the mossarela was cheaper.
 
@@ -40,15 +82,24 @@ At that point, I've told her that she was selling he prosciutto at a higher pric
 
 The induction pushes you over too as it presents the mechanics that we know as the good mechanics that can can carry things. The logic in the use of induction can be like a super fast train. See, one thing is the train and the other is the cargo. When induction comes our way, it comes with a sound of a train and it prompt us to be on time, to react. If we don't have time to look at the interior of it, to see its cargo and the logic, then we might, even without noticing it, pay the ticket which might cost more as the impact of giving our attention to anything might cost more than the actual price we paid for anything. Watch out for free things.  
 
-## The ugly and the good way 
+### The ugly and the good way 
 
 Back in the Silicon Valley days I had an opportunity to get an overview of a kind of inductive communication which I think it is the ugly case. I learned that the hard way. When I was working at one of the iconic companies of Silicon Valley, a few chapters ago, my spoken English were poor and my abilities to control inductive communication poorer - although that does not mean that I wasn't naturally inducing others to react, to decide, such as to accept or ignore my ideas. But anyway I wasn't afraid to say my thoughts which is generally a good thing, and I wanted to convince my peers. So in that meeting I said something like "mada big bada bum, korben, bada bum bada bum," while a local manager chimed right on top of my train of sound and was sharp precise with a clear and sound English that started with "But more importantly,.." and that was enough for everyone to accept his judgement. 
 
 That was a prelude to a big lesson which I could not grasp at the time. But I sort of knew what he did. The real thing I didn't see is that the event was remarkable in my life but remarkable in a bad way which had prepared my investment towards communication, unfortunately, to be stuck in terms of investing. In other words, I wasn't in peace with with using induction, or inductive communication, because that way of communication seemed to be a deal breaker, or deal maker. Perhaps I have seen that in my whole life - in a way or another - but it was too brute to see a manager in a place which I thought as special - Silicon Valley the open book of opportunities. And, to be fair, perhaps implied in what happened that day was the fact that I did my part too - that what I tried to say had paved the way for that manager to bring some equilibrium to the meeting. In other words, in his defense, I started and he reacted in a way to be optimial, perhaps a pragmatic way. Well but for me that was an ugly case and it took ke decates to be in peace and find an enlightened way to grasp inductive communication, in a good way, and in a responsible way. 
 
+
+
+
+Where the act of putting it out is part of the writing process, of the process to achieve clarity. In other words, the tendency, and the urge to force writing, said or presented, to serve the end, set us in the wrong focus, that set us to not think of writing as yet another iteration, as if written things were micro products, and if that is not enough of a complication, worse it maybe for the doers that in the end of the day writing generates tensions, and failures, and to appear as forcing, and to create objections, and to motivate judgements; all that making the doer frustrated, or angry, or even worse, that by the nature of work, that they would have to add more data, more gems, into what is bring delivered. And by that urge to add value, pushing them to miss the opportunity, to see writing as an opportunity to achieve clarity, as if it is a mean to learn, to be vulnerable, to find actual value.  
+
+
+
 ## Executive communication 
 
-When one can't get communication, especially an engineer type of person, or a person with a fixed mindset such as to see inductive communication as ugly and communication in general as difficult, one is then lost and they need the enlighted way. Barbara Minto is a hero in the field of communications being used in to transform the world. Her story is of a person that unlocked communication and her structed work - through her book The Minto Pyramid Principle - offers guidance to many people that find themselves suffering, or struggling, or arbitrary, when working on formal documents such as executive proposals. 
+When one can't get communication, especially an engineer type of person, or a person with a fixed mindset such as to see inductive communication as ugly and communication in general as difficult, one is then lost and they need the enlighted way. WIth no peace, with no open mindset, one can't see the value and can't find a responsible framework or principles to guide how communication can be used to really support goals. 
+
+Barbara Minto is a hero in the field of communications being used in to transform the world. Her story is of a person that unlocked communication and her structed work - through her book The Minto Pyramid Principle - offers guidance to many people that find themselves suffering, or struggling, or arbitrary, when working on formal documents such as executive proposals. 
 
 I will focus first on points I have learned from Michael Dearing - from his talk Executive Communication - which I think does a service for entrepreneurs. In other words, I am here giving you the reasons why you need to take care of your communication using structured way of organizing your communication which leads to responsible communication. In agreement with that Michael would say - it may change your life. It has changed mine. 
 
@@ -69,6 +120,9 @@ Drucker, P. (2011). Technology, management, and society. Routledge.
 --> 
 
 In other words, most of the time we use communicative experiences to get things done, spoken or written or codified, and our obsession with "using communication" set us to miss the opportunity of using it to achieve clear thinking, which puts us in a complex place of using communication without changing the underlying assumption [^editornote_style_interstellar] as if each iteration is an effort to prove ideas with our own proofs in what can be recursive, or nonsensical, or as in one trying to solve communication needs not with one arm but with both arms tied behind their back.  
+
+
+
 
 [^editornote_style_interstellar]: There is a line where professor Brand makes a point, a truthful point, that people, like scientists, develop so much theories to a point that they are locked within the realm of their frameworks - unable to see other dimensions for the challenge given, thus misleading them to miss the opportunity to solve their problems. 
 
