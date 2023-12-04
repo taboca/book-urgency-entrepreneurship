@@ -84,17 +84,17 @@ Google for Startups. (2014). Lean Startup Meets Design Thinking [Video]. YouTube
 
 --> 
 
-> *"Grab the design silo, and they have read Tim’s book, and if they understand what a modern approach design looks like, you will see kind of design thinking that he mentioned. Grab marketing, you will see customer development. If you grab operations, you will see some dev ops.. You might find an organization where at every silo, things are very iterative, customer centric, and where people are really focused on learning." - (Ries, 2014, 11:14)
+> *"Grab the design silo, and they have read Tim’s book, and if they understand what a modern approach design looks like, you will see kind of design thinking that he mentioned. Grab marketing, you will see customer development. If you grab operations, you will see some dev ops.. You might find an organization where at every silo, things are very iterative, customer centric, and where people are really focused on learning."* - Eric Ries (2014, 11:14)
 
 [^designthinking]: *Design Thinking* is a process aligned with other "lean" or "agile" methods but originated from the world of design and which is also applicable in a broader context to support teams to innovate. https://hbr.org/2008/06/design-thinking
 
 While, on the other hand, coherence between deparments remains a major problem that prevents innovation from happening: 
 
-> "*But then, zoom out and you will say “wow, this must be a really adaptable, learning oriented company, this is fantastic.” But actually, what you will see in a lot of companies, is, although there all this iteration learning happening at each individual silo, the actual work product that company produces, is passed binder to binder from each silo to the next, in a totally linear and old school waterfall style approach. “* — (Ries, 2014, 11:14)
+> "*But then, zoom out and you will say “wow, this must be a really adaptable, learning oriented company, this is fantastic.” But actually, what you will see in a lot of companies, is, although there all this iteration learning happening at each individual silo, the actual work product that company produces, is passed binder to binder from each silo to the next, in a totally linear and old school waterfall style approach. “* - Eric Ries (2014, 11:14)
 
 According to Eric, the leaders of these departments believe that if they could control the other departments, things would be much easier. In other words, the view from within silos gives them hope, or expectatins, that their specific agile effort is sufficient to ensure the overall success. However, the challenge from top-down is a must and lies in moving across these silos and checking the local purpose versus higher purposes. In other words, deals with the struggle of a choreography that seeks to create harmony accross working boxes: 
 
-> *"Of course, everybody in all the silos are saying that, and, for modern managers that can be really challenging. So, for me, my aspiration for Lean Startup is not to have people adopt it as yet another silo approach, but rather to take these common elements, that are common to design thinking, and to agile, and to lean, and certain apply them at a system-wide, at the company level, so that we have a common framework for understanding what are the problems, a common approach for the process that we are going to use to solve those problems, and most importantly, we can speak the language of business to say “he are the concrete financial and business outcomes that we can achieve if we work in this way”"*. — (Ries, 2014, 11:14)
+> *"Of course, everybody in all the silos are saying that, and, for modern managers that can be really challenging. So, for me, my aspiration for Lean Startup is not to have people adopt it as yet another silo approach, but rather to take these common elements, that are common to design thinking, and to agile, and to lean, and certain apply them at a system-wide, at the company level, so that we have a common framework for understanding what are the problems, a common approach for the process that we are going to use to solve those problems, and most importantly, we can speak the language of business to say “he are the concrete financial and business outcomes that we can achieve if we work in this way."* — - Eric Ries (2014, 11:14)
 
 This concern with the unity, or lack thereof, among company departments can serve as a basis for exploring the problem faced by all levels - in large companies or smaller settings where entrepreneurs are dealing with agile processes. 
 
@@ -106,7 +106,7 @@ As an illustration inspired by a startup setting, consider a chief designer that
 
 These are situations of a complex work setting with multiple people and where it is important to map the values that are influencing everyone's work. Consider the concern of Eric Ries: 
 
-> *“It’s easy for us, to kind of get lost and forget what the purpose of our work everyday is. I think a lot of the waste in the modern work environment has to do with people that become disconnected from what is that purpose, what is the greater meaning of the work that we do.”* (Ries, 2014, 10:35)
+> *“It’s easy for us, to kind of get lost and forget what the purpose of our work everyday is. I think a lot of the waste in the modern work environment has to do with people that become disconnected from what is that purpose, what is the greater meaning of the work that we do.”* - Eric Ries (2014, 10:35)
 
 <!-- 
 
@@ -164,11 +164,23 @@ Furthermore, this confrontation of interests may also appear in any stages such 
 
 Let us consider how to tame the critic, therefore to allow room for external interactions where data chimes in, and where the critical analysis is deferred to later, with a more conscious and friendly secondary phase, such as of what a conscious board would do. 
 
-The illustration of this problem can be considered in the life of an aspiring writer that may attempt to get feedback but as she does, she runs the risk of listening too much to the data and become blocked by the very criticism that the market data is too big in front of something that wasn't yet ready to be seen. In this situation, is like when an arbitrary critic is invited, one that is not conscious and aware of what is going on in terms of the holistic view of the text under construction. This complexity requires, as recommended by Julia Cameron in The Right to Write, that a writer should be aware and engage in activities such as of nurturing readers, thus to be free from the critic that is unconscious, not free of any critic such as of a friendly critic: 
+The illustration of the problem of the fusion with the critic, consider a sitation of a life of an aspiring writer that needs feedback as writting happens. As she engages with others seeking feedback, she also engages in overlistening to a point of internalizing the voice fo the critic, even to a point of being blocked by the very criticism. This complex situation gains an enlighted viewpoint with the wisdom of Julia Cameron given by The Right to Write - as she points a case of Terrence, a writer that became blocked by interacting with a professional editor: 
+
+> *"Although we seldom think of it this way, a writer's block is often very healthy self-protective on the part of our inner creator to a dangerous threat. Terrence's inner writer refused to have his work misread and mutilated. " Julia Cameron (1998, p.180)
+
+<!-- 
+
+## reference
+
+Cameron, J. (1998). The Right to Write. TarcherPerigee.
+
+--> 
+
+She points that there are cases that when editors are out of the loop - fired - the work had continued to work, the writing continued to happen. But it turns out that the criticism, such as that negative criticism that mutilates the work, is really tied to how one internalizes what was told, like voice of the market. In other words, when it happens like as if the data is too strong, or too brutal, it might happen under a latent potential for criticism which is outstanding in the first place by the situation, like expectations, of the doer. Therefore, is not unlikely that the incident is so brutal that one can't even reflect about what has happened, such as being aware that what was shown wasn't ready to be exposed to that particular kind of critisicm, such as that the doer might have engaged with anyone under the assumption that the criticism would advance smoothly, such as that one had invited a quite arbitrary reviewer, such as one that is also not conscious, or even aware, that the text is under construction may actually needed to be seen in perspective. In other words, the writer-doer wasn't conscious of that in the first place. This complexity requires, as recommended by Julia Cameron, that a writer to engage in activities such as of nurturing readers, thus to be free from the critic that is unconscious, and to get involved with a critic like a friendly critic: 
 
 > *"It is very important that we keep a few nurturing readers as friends to our work quite apart from whatever is going on in our publishing life. We need people who are happy to hear a poem or an essay for its own sake and not as career maneuaveurs. The part of us that writes must be allowed to write freely and not always with an eye to the market. An eye to the market is part of the writing life, but if it is too large a part, it shuts down invention and leads to the blockage of many valuable avenues of exploration which are not - at first blush - commercial."* Julia Cameron (1998, p.181)
 
-The startup version of that support can be created and a conscious point of view for the analysis of lean data may be proposed as: Data that is taken is taken but it does not mean that actions are immediately taken. The analysis of what to do needs a point of view of support which takes in consideration the values, the vision, a wider view. Exactly because one data point is not enough, one data point can't either be too strong to impact positively or negatively. Being one or a lot of data points, a supporting role must exist which is never unaware of the team values, team vision, team beliefs. 
+The startup version of that support can be created, a conscious point of view that the interaction with lean establishes the voice of the market, that lean data being exposed needs to be exposed under a perspective, such as a perspective that supports that what is being taken does not demand actions to be immediately taken. The analysis of what to do, therefore, needs a point of view of support, which takes in consideration the values, the vision, a wider view, purpose. In other words, exactly because one data point is not enough, one data point can't either be too strong to impact positively or negatively. Being one or a lot of data points, this supporting role must exist which is never unaware of the team values, team vision, team beliefs, and team's purpose. 
 
 ### Anchoring 
 
@@ -247,18 +259,13 @@ To illustrate growth forces, consider the perspective given by Howard Hartenbaum
 ## Reference 
 
 Stone, B. (2017). The Upstarts: How Uber, Airbnb, and the Killer Companies of the New Silicon Valley Are Changing the World. Little, Brown and Company.
---> 
-
-
-<!-- 
-
-## Reference 
 
 Stanford. (2013, February 20). Entrepreneurship through the lens of venture capital | Team [Video]. YouTube. https://www.youtube.com/watch?v=zRIPiISZucY
 
 --> 
 
 In conclusion, the illustration is a reminder that strong thesis about the future, and even the inclination of bigger bets by investors, or customer's interest, can become supporting forces that be either mess up with values lean experiments or support. 
+
 
 ## Expanding the horizon 
 
