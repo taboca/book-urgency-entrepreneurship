@@ -13,5 +13,6 @@
 
 * start-up - startup - The definition of Steve in HBR 2013 - - was "It shapes the lean definition of a start-up: a temporary organization designed to search for a repeatable and scalable business model." The definition of Paul Graham is used in the book too. Check this. 
 
-* lean methods - Or lean methodologies, and lean movement? 
+* lean methods - Or lean methodologies, and lean movement? / @prompt: Note if you see lean methods, lean methodologies, and lean movement. 
 
+* methods - in the place of processes, such as Marcio had changed on "630_lean_no_lean", on "realization of the power of these methods". / @prompt, if you watch out for the word "process" or "processes" it may be so that the correct would be methods, as in the process might be the actual usage of a method. Make a note, of your guess, proposal to change process to method, as in 0 to 10 being 5 I am confused, 0 would never do and 10 would likely do. 
