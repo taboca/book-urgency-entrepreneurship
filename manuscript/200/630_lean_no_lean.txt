@@ -1,6 +1,18 @@
 # Lean deficit disorder 
 
-The lean movement has permeated in the entrepreneurial world, in the life of founders and even at large companies. It went along with the need for more agility, or efficiency, in a world that has needed to respond faster, more interactive, dynamic; a world where the consumer is more involved in the innovation process where the ones living the challenges firsthand at closer to the process of creation of products and services [^footnote_ericvonhippel_democratizing_innovation]. A decade ago, Harvard Business Review and Steve Blank recognized that, although young, the movement titled "the lean start-up" would be on par with various other trends like the need for closer customer relationships, openness to failure, willingness to change course, and more transparent accounting of the innovation process - all this to improve the old processes where elaborate pre-planning prevailed. Over time, in the last decade, the lean movement has garnered much more attention and contributed to greater efficiency in the process of innovation for the creation of products and services.
+The lean movement has permeated in the entrepreneurial world, in the life of founders and even at large companies. It went along, with its origins two decades ago [^footnote_steveblank_origins_remark], following the needs for agility, or efficiency, in a world that needed to respond faster, more interactive, dynamic, and a world where the consumer is more involved in the innovation process where the ones living the challenges firsthand at closer to the process of creation of solutions [^footnote_ericvonhippel_democratizing_innovation]. A decade ago, Harvard Business Review and Steve Blank recognized that, although young, the movement titled "the lean start-up" were on par with various other trends [^footnote_steve_blank_agile_lean_trends] which reflected the emerging needs such as closer relationships with potential customers, openness to failure, willingness to change course, iterative learning, and more transparent accounting of the innovation process - all this to improve the old processes where elaborate pre-planning prevailed. Over time, in the last decade, the lean movement has garnered much more attention and contributed to greater efficiency in the process of innovation for the creation of products and services.
+
+[^footnote_steveblank_origins_remark]: In *Why the Lean Start-Up Changes Everything,* in 2013, Steve Blank (2013) recognizes that lean startup were yet promising, although already popularizing not only among entrepreneurs but recognized by large companies. He indicates the origins of his work as a course at Haas School of Business at the University of California at Berkeley in 2003 and his book *The Four Steps to the Epiphany*; and other key major developments such as the Business Model Generation written by Alexander Osterwalder and Yves Pigneur in 2010 and Eric Ries' book "The Lean Startup" in 2011.
+
+[^footnote_steve_blank_agile_lean_trends]: In *Why the Lean Start-Up Changes Everything,* Steve Blank (2013) indicated how start-ups doing lean, lean start-ups, were practicing *agile development*; to make a point that the development which is iterative had alignment with the lean movement practices.   
+
+<!--
+
+## todo 
+
+* p1 (Done, referred to HBR 2013) - Lean no lean - Lean startup vs. agile vs. trends such as open-source - May add more nuanced view, likely confirmed in a footnote, of agile that goes along. This might be introduced before the words of Eric Ries which refers to other lean practices. FROM HBR 2013 - - of Steve Blank, quote "Third, lean start-ups practice something called agile development, which originated in the software industry. Agile development works hand-in-hand with customer development. " ref 4398498349-420848240-58305803-5390583058
+
+--> 
 
 <!-- 
 
@@ -10,7 +22,7 @@ The lean movement has permeated in the entrepreneurial world, in the life of fou
 
 -->
 
-[^footnote_ericvonhippel_democratizing_innovation]: In *Democratizing Innovation,* MIT professor and author, Eric von Hippel, explores the phenomenon of User Innovation, a concept where users of products and services play an active role in the innovation process. Von Hippel argues that users, being close to their own needs and experiences, often innovate by modifying and improving products. This user-driven innovation blurs the traditional boundaries between consumer and producer, fostering a collaborative environment where users not only consume but also contribute to the development and improvement of products and services
+[^footnote_ericvonhippel_democratizing_innovation]: In *Democratizing Innovation,* MIT professor and author, Eric von Hippel, explores the phenomenon of User Innovation, a concept where users play an active role in the innovation process. Von Hippel argues that users, being close to their own needs and experiences, often innovate by modifying and improving products or services. This user-driven innovation blurs the traditional boundaries between consumer and producer, fostering a collaborative environment where users not only consume but also contribute to the development and improvement of products and services.
 
 <!-- situation of lean, highlights the complication that lean solves --> 
 

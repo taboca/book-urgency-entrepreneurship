@@ -9,7 +9,9 @@
 
 ## Dictionary
 
-offerings - Steve Blank and HBR had used offerings, instead of products and services which Marcio used across the book. It should be noted that Marcio had also started to use offering even before being fully conscious of Steve using offerings. Ref - https://hbr.org/2013/05/why-the-lean-start-up-changes-everything
+* offerings - Steve Blank and HBR had used offerings, instead of products and services which Marcio used across the book. It should be noted that Marcio had also started to use offering even before being fully conscious of Steve using offerings. Ref - https://hbr.org/2013/05/why-the-lean-start-up-changes-everything
 
+* start-up - startup - The definition of Steve in HBR 2013 - - was "It shapes the lean definition of a start-up: a temporary organization designed to search for a repeatable and scalable business model." The definition of Paul Graham is used in the book too. Check this. 
 
+* lean methods - Or lean methodologies, and lean movement? 
 

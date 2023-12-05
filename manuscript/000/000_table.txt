@@ -1,6 +1,6 @@
 # Todo # 
 
-* p1 ( ) - All - Review startup vs. growth - and footnotes such as footnote_growth_paul_graham . Ref 24928498-429849284-4928492-4928492849
+* p1 ( ) - All - Review startup vs. growth - and footnotes such as footnote_growth_paul_graham. Also we should check the directionary definition of start-up. Ref 24928498-429849284-4928492-4928492849
 
 * p2 ( ) - Lean no lean - Principles of lean, back to lean, as a board - Can principles like "failing fast" and "learning" be brought to guide the way to curate lean? Ref HBR 2013 - - "principles of failing fast and continually learning". It may be worth to check these principles, and cross with the framework of Marcio, suggestion. It may be also worth to check McCallum's letter? / ref 28492849-429842984-5725795-5892579
 
@@ -157,6 +157,8 @@ https://chat.openai.com/share/b7eb16c5-4c18-4709-9220-bd2629f34a3d
 * Culture 
 
 ## Done
+
+* p1 (Done, referred to HBR 2013) - Lean no lean - Lean startup vs. agile vs. trends such as open-source - May add more nuanced view, likely confirmed in a footnote, of agile that goes along. This might be introduced before the words of Eric Ries which refers to other lean practices. FROM HBR 2013 - - of Steve Blank, quote "Third, lean start-ups practice something called agile development, which originated in the software industry. Agile development works hand-in-hand with customer development. " ref 4398498349-420848240-58305803-5390583058
 
 * p2 (Done, quoted directly "A Startup is Not a Smaller Version of a Large Company") - Lean no lean - Startups are not small version of large companies - bring into lean? ref quote from HBR 2013 - - is "Start-ups are not smaller versions of large companies. They do not unfold in accordance with master plans. The ones that ultimately succeed go quickly from failure to failure, all the while adapting, iterating on, and improving their initial ideas as they continually learn from customers." / ref 423848924-4894894-489849-8940894894 / resolution: Marcio had quoted directly the article that has that in the title. 
 
