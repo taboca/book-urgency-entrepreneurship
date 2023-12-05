@@ -6,3 +6,10 @@
 
 * v0.2 - Narrative Dilemma - inspired in Innovator's Dilemma. 
 * v0.1 - Telling stories something
+
+## Dictionary
+
+offerings - Steve Blank and HBR had used offerings, instead of products and services which Marcio used across the book. It should be noted that Marcio had also started to use offering even before being fully conscious of Steve using offerings. Ref - https://hbr.org/2013/05/why-the-lean-start-up-changes-everything
+
+
+

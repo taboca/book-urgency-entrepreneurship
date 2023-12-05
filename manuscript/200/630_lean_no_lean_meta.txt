@@ -17,6 +17,12 @@
 * Q - 
 * Answer - 
 
+## Todo 
+
+* p2 ( ) - Lean no lean - "The fatal setback" was brought up by Steve Blank in HBR 2013 article - - under the perspective that it is likely that "launching a new enterprise" using the old approach would cause that. Steve had also referred to a "new research by Harvard Business School’s Shikhar Ghosh shows, 75% of all start-ups fail." Would it be worth checking the percentage of startups that fail, from the startups dong lean? / ref 424892849-24900492-49384924-424892849
+
+* p2 ( ) - Lean no lean - In conclusion, as we recognize that the lean story is an actual story in movement, it may be worth to go back to early comments, from Steve Blank, such as the note from HBR 2013 - https://hbr.org/2013/05/why-the-lean-start-up-changes-everything - where Steve the article's summary has indicated that "He [Steve] believes that if it’s widely adopted, it would reduce the incidence of start-up failure." Yes, this shows the intention. And likewise, the widely adoption beings a lot of usages, modern usages, and then continue to connect with the fact that Steve and Eric, and many others, are in the loop, accepting the world as it is, improving it.  / 439843849-4893498349-86938569385-3048304894
+
 ## Side considerations
 
 * ( ) Consider the idea that lean was a movement that came out to catch up with the world's new pace of how innovation happens with more interaction with users; in other words the approach of the producer, the factory, the manufacturing, the vendor, the seller, had to become dynamic as on the other hand the end-user, consumer, client were more involved in the manipulation of the process that brings about solution to their needs, which is evidenced by User Innovation work of Eric von Hippel. 

@@ -1,6 +1,14 @@
 # Todo # 
 
-* p0 ( ) Letter of presentation - Marcio had noticed that the points of Chris Hoffman might help to define Perspectives to be given to the letter, not only motivations, background. These perspectives can actually be supporting points to inform a potential need, complication, urges to the life of the audience, concerns from investors, and more. 
+* p1 ( ) - All - Review startup vs. growth - and footnotes such as footnote_growth_paul_graham . Ref 24928498-429849284-4928492-4928492849
+
+* p2 ( ) - Lean no lean - Principles of lean, back to lean, as a board - Can principles like "failing fast" and "learning" be brought to guide the way to curate lean? Ref HBR 2013 - - "principles of failing fast and continually learning". It may be worth to check these principles, and cross with the framework of Marcio, suggestion. It may be also worth to check McCallum's letter? / ref 28492849-429842984-5725795-5892579
+
+* p2 ( ) - Lean no lean - "The fatal setback" was brought up by Steve Blank in HBR 2013 article - - under the perspective that it is likely that "launching a new enterprise" using the old approach would cause that. Steve had also referred to a "new research by Harvard Business School’s Shikhar Ghosh shows, 75% of all start-ups fail." Would it be worth checking the percentage of startups that fail, from the startups dong lean? / ref 424892849-24900492-49384924-424892849
+
+* p2 ( ) - Lean no lean - In conclusion, as we recognize that the lean story is an actual story in movement, it may be worth to go back to early comments, from Steve Blank, such as the note from HBR 2013 - https://hbr.org/2013/05/why-the-lean-start-up-changes-everything - where Steve the article's summary has indicated that "He [Steve] believes that if it’s widely adopted, it would reduce the incidence of start-up failure." Yes, this shows the intention. And likewise, the widely adoption beings a lot of usages, modern usages, and then continue to connect with the fact that Steve and Eric, and many others, are in the loop, accepting the world as it is, improving it.  / 439843849-4893498349-86938569385-3048304894
+
+* p0 ( ) Letter of presentation - Marcio had noticed that the points - nuanced view that there seems to be value in the "motivations" section , of Chris Hoffman, might help to define Perspectives to be given to the letter, not only motivations, background. These perspectives can actually be supporting points to inform a potential need, complication, urges to the life of the audience, concerns from investors, and more. 
 
 * p1 ( ) Happyness and animation - #editor-style #editor-humor - I had an insight that may support the line about kicking the air and scarynig the pigeons, to be maintained. Currently it is an arbitrary story as in "I am mad," with "But I didn't went far on that day. I left nervously, kicking the air, right before a few pigeons nearby had decided fly away vigorously. " But what if: When Marcio leaves the bakery and does his nervous movement, kicking the air in desperation, likewise has scared the pigeons that were calmy eating the scraps in the sidewalk. The truth behind the situation - Marcio did the same, too vigorous, too animated, for the pigeons. / 48329483948-43984398-493849384-483084843
 
@@ -149,6 +157,8 @@ https://chat.openai.com/share/b7eb16c5-4c18-4709-9220-bd2629f34a3d
 * Culture 
 
 ## Done
+
+* p2 (Done, quoted directly "A Startup is Not a Smaller Version of a Large Company") - Lean no lean - Startups are not small version of large companies - bring into lean? ref quote from HBR 2013 - - is "Start-ups are not smaller versions of large companies. They do not unfold in accordance with master plans. The ones that ultimately succeed go quickly from failure to failure, all the while adapting, iterating on, and improving their initial ideas as they continually learn from customers." / ref 423848924-4894894-489849-8940894894 / resolution: Marcio had quoted directly the article that has that in the title. 
 
 * (Done, removed from 100 and kept under thanks) Check the story of the designer vs. the ceo which is also shown in 090_saying_thanks_reflections.txt and here 100_operating_systems.txt / 123e4567-e89b-12d3-a456-426614174000
 

@@ -8,6 +8,14 @@ All entrepreneurial action seeks growth. Some entrepreneurs start with what seem
 
 [^footnote_growth_paul_graham]: 
 
+<!-- 
+
+## todo
+
+* p1 ( ) - All - Review startup vs. growth - and footnotes such as footnote_growth_paul_graham . Ref 24928498-429849284-4928492-4928492849
+
+--> 
+
 The situation involves failing and learning, as part of the journey to grow. This failure is a known outcome of any growth aspect. Growth simply does not happen without failure, although the necessary learning aspect comes after. Some of the practitioners, or mentors or parters, do recognize failure, and the necessary aspect of resillience in the face of failure - needed traits to this journey. Fail, fail, fail, and learn, fail fast, learn fast, that sort of idea. This is also part of the entrepreneurial setting situation. [^footnote_bill_drapper_fail_fail]. 
 
 [^footnote_bill_drapper_fail_fail]: https://www.youtube.com/watch?v=KxDxRUYEMXg 
