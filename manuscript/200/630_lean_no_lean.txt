@@ -372,9 +372,22 @@ Blank, S. (2013). Why the Lean Start-Up Changes Everything. Harvard Business Rev
 
 --> 
 
-This can be clearly understood if we consider the life of the many authors of resources related to the lean movement, such as the leading authors Eric Ries and Steve Blank among others, as they are entrepreneurs themselves, first, and secondly that they do care about the movement and how things are changing - likely because they came upon lean discoveries by reflecting on the movements about the needs to transcend. In other words, they are in the loop of lean, not as watchers but listeners of feedback that they get throughout time and which adds to them new perspectives. The very book of Eric Ries points presents a point of view that indicates that the need from a degree of view from above where the purpose is to bring back the values - as he wrote "purpose"  of the team members which may bring about values and the vision of the business and the consciousness about the ability to judge as in judgment from outside as in alignment with purpose which is very useful in the front of the potential critic that of course chimes in. And, needless to say, that any viewpoint that comes above everything is a very possibility of influencing everything.
+Therefore, it is also noticeable that these leading authors, Eric Ries and Steve Blank to name exemplary ones, were involved in the art and science of entrepreneurship from many angles. Consider that they were entrepreneurs themselves, investors themselves in the first place, highly interested in the viewpoints for what happens from the investor's views, and yet not careless of what happens in the life of founders, needless to say that this situation brings the rise of true managers, leading them to follow through, to think through. 
 
-To point an example, consider how new interpretations happen in the face of a movement that is not static, such as the article of Steve Blank that acknowledges thoughts from the Jobs to be done team of Tony Ulwick with the realization that lean processes, such as customer discovery, may be benefited from a higher awareness about what is the market, thus awareness that a demographic-based market might obfuscate the view of a team that may be trying to discover a needs-based market. 
+These folks do care about the movement, the holistic view, which put them in the good place to see how things are changing. To point an example, consider how new interpretations are needed in the face of a movement that is not static, such as the article of Steve Blank written in alignment with the work of the Jobs to be Done team of Tony Ulwick and his team, with the realization that lean processes, such as customer discovery, may be benefited from a perspective about what is the market, which also involves objective observations that using a demographic-based market might obfuscate the view of a team that may be trying to discover a good solution for a "market" that defined by needs [^footnote_steve_tony_jtbd].
+
+[^footnote_steve_tony_jtbd]: In 2021, Steve Blank (2021), emphasizes the importance to establish a wider view for the market definition. He first warns that certain market definitions, such as where defining a market solely around products, demographics, or technologies, can lead to a recursive process of constant iteration, altering the original market definition and potentially invalidating identified customer needs. This can result in startups churning, pivoting, and failing. In addition, he recognizes the contribution of the Jobs-To-Be-Done (JTBD) theory which not only supports teams with a broader perspective about a market but also offers an structured framework that supports the process of innovation. 
+
+<!--
+
+## reference 
+
+Blank, S. (2021, November 4). How to Find a Market? Use Jobs-To-Be-Done as the Front End of Customer Discovery. Steve Blank. https://steveblank.com/2021/11/04/market-definition-its-the-front-end-of-customer-discovery/
+
+--> 
+
+ likely because they came upon lean discoveries by reflecting on the movements about the needs to transcend. In other words, they are in the loop of lean, not as watchers but listeners of feedback that they get throughout time and which adds to them new perspectives. The very book of Eric Ries points presents a point of view that indicates that the need from a degree of view from above where the purpose is to bring back the values - as he wrote "purpose"  of the team members which may bring about values and the vision of the business and the consciousness about the ability to judge as in judgment from outside as in alignment with purpose which is very useful in the front of the potential critic that of course chimes in. And, needless to say, that any viewpoint that comes above everything is a very possibility of influencing everything.
+
 
 <!-- 
 
