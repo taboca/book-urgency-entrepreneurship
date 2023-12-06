@@ -233,6 +233,8 @@ Y Combinator. (2016, 25 de outubro). Marc Andreessen na Startup School SV 2016[v
 
 Stanford. (2013, February 20). Entrepreneurship through the lens of venture capital | Team [Video]. YouTube. https://www.youtube.com/watch?v=zRIPiISZucY
 
+Wikipedia contributors. (n.d.). Business Model Canvas. Wikipedia. Retrieved December 6, 2023, from https://en.wikipedia.org/wiki/Business_Model_Canvas
+
 Stone, B. (2017). The Upstarts: How Uber, Airbnb, and the Killer Companies of the New Silicon Valley Are Changing the World. Little, Brown and Company.
 
 Blank, S. (2021, November 4). How to Find a Market? Use Jobs-To-Be-Done as the Front End of Customer Discovery. Steve Blank. https://steveblank.com/2021/11/04/market-definition-its-the-front-end-of-customer-discovery/

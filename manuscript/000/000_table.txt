@@ -1,5 +1,7 @@
 # Todo # 
 
+* p2 ( ) - Lean no lean - Review vanity metrics footnote - Which was the first full parapraph written by ChatGPT "[^footnote_eric_ries_vanity_metrics]: Vanity metrics, as discussed by Eric Ries in his Lean Startup methodology, refer to data points that look impressive on paper but do not necessarily correlate with the metrics that really matter in business, such as those that reflect true growth, revenue, and customer engagement. These metrics can often be misleading, as they offer a superficially positive view of a company's performance while failing to provide insights into sustainable success or long-term viability." 492489284-42849824-294092049-483483948
+
 * p1 ( ) - All - Review startup vs. growth - and footnotes such as footnote_growth_paul_graham. Also we should check the directionary definition of start-up. Ref 24928498-429849284-4928492-4928492849
 
 * p2 ( ) - Lean no lean - Principles of lean, back to lean, as a board - Can principles like "failing fast" and "learning" be brought to guide the way to curate lean? Ref HBR 2013 - - "principles of failing fast and continually learning". It may be worth to check these principles, and cross with the framework of Marcio, suggestion. It may be also worth to check McCallum's letter? / ref 28492849-429842984-5725795-5892579
@@ -26,11 +28,7 @@
 
 * p2, ( ) / Narratives lean, check with David of Hackernoon, if it makes sense to put the name Hackernoon - "As a side note, on the day when I got that article published on a publication, the CEO had replied to me saying "I just did," likely confirming our urge to use the canvas to tell the story that seems coherent. And it does, doesn't it? As one shall be very happy to see how the *Canvas* has that built-in value - coherence by its nine building blocks [^footnote_businessmodelcanvas]." 45989583-5038535-593859835-5803853850
 
-* p2, ( ) / Narratives lean, correct reference to Steve Blank's book, and possible point of citation, on "Steve Blank, in Customer Development (Four Steps to the Epiphany), emphasizes" 494839843-43849834-4930480358-593859839
-
-* p3, ( ) / Narrativees lean, Check footnote of "[^footnote_businessmodelcanvas]" 424949284-492849759-5959839-53985358
-
-* p2, ( ) / Narratives lean - Check "The Canvas process makes it clear that it guarantees nothing. It has no date, no promise. Like any lean process, the central idea is learning, not validation. " with reference and reading of Canvas again. 249824982-20482842-42048204-402840284
+* p3, ( ) / Narratives lean - Check "The Canvas process makes it clear that it guarantees nothing. It has no date, no promise. Like any lean process, the central idea is learning, not validation. " with reference and reading of Canvas again. 249824982-20482842-42048204-402840284
 
 * p2 ( ) / Narratives Lean - Check page above because p223 is from the pt-br one, O Estilo Startup. Plus also notice that this reference quote to Eric Ries is on "Lean no Learn", thus consider to refer to the priorly written referred element.  / ref "A situation of the performance system impacting the execution was illustrated by Eric Ries in the The Startup Way, (2017, p.223). Eric Ries, when involved in the process of supporting a program of innovation at GE, FastWorks, came across the situation of moving forward, after prior validated learning effort. Eric was quite happy with the results and had in mind that the meeting would be about the decision to propose a new plan to the direction. To his surprise, mostly everyone denied moving forward. What he had discovered was that the change proposed, fundamented by the prior learning, would create additional costs for the company. Then Eric dug more asking help to find out the costs and they figured that it would be worth it to move forward. But still, another person brought up yet another good reason to not move forward, which was human resources: The fact that if an employee happen to rework in something, that would count against his career evaluation. " 29829482948-4294898249-4924824-40280480824
 
@@ -157,6 +155,10 @@ https://chat.openai.com/share/b7eb16c5-4c18-4709-9220-bd2629f34a3d
 * Culture 
 
 ## Done
+
+* p2, (Done, taken out) / Narratives lean, correct reference to Steve Blank's book, and possible point of citation, on "Steve Blank, in Customer Development (Four Steps to the Epiphany), emphasizes" 494839843-43849834-4930480358-593859839
+
+* p3, (Done, ) / Narrativees lean, Check footnote of "[^footnote_businessmodelcanvas]" 424949284-492849759-5959839-53985358
 
 * p1 (Done, referred to HBR 2013) - Lean no lean - Lean startup vs. agile vs. trends such as open-source - May add more nuanced view, likely confirmed in a footnote, of agile that goes along. This might be introduced before the words of Eric Ries which refers to other lean practices. FROM HBR 2013 - - of Steve Blank, quote "Third, lean start-ups practice something called agile development, which originated in the software industry. Agile development works hand-in-hand with customer development. " ref 4398498349-420848240-58305803-5390583058
 
