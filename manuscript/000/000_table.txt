@@ -1,5 +1,9 @@
 # Todo # 
 
+* p1 ( ) 070_bad_investors - Remove pitch from Bad investors - Consider to remove the quote from Marc Andreessen about "yet another test vs. pitch" as it is placed on 040_induction_embedded_everything. / ref 39483948-398439843-04340384-40384083
+
+* p2 ( ) Induction - Review Michael Dearing's Executive Communication talk and consider to include the "unlocking moment" of Barbara. https://www.heavybit.com/library/video/executive-communication ref - 493859385-539859385-53985983-53885983958
+
 * p2 ( ), Paradox Rainbox under Err is Okay - Now should focus in the idea that we need to scale up by measuring or having some validation of the growth, so projections are expected. As they are launched, things change. But it didn't fail, likely. It may have worked but a new challenge is ahead. / 493849834-4398394834-93859385-539589859
 
 * ( ) 200 / Irreducible minimum - Consider the situation of Michael about people in the boat, equity solution after millions of years. 384983498-43849384-43849834-493849384

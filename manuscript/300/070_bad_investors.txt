@@ -14,6 +14,14 @@ O investidor, ou mentor, não vai chegar na reunião de apresentação com uma c
 
 > “For investors, the formal presentation is yet another test I think the formal presentation is another test . . . As a founder, if you are not good enough at your job as a CEO, to get up and present, to institutional investors, for 60 minutes, and sell them on your thing . . . We love when somebody walks in and has a compelling pitch so we can give them a check . . . that is a successful day for us. In contrast, every other pitch you ever gonna make is going to somebody that is going to be much worse than us … Customers, they are going to be like — no, I am not going to give you any money — like their default position right? Engineers — you going to try to recruit engineers, and they got 20 other job offers, so why does your pitch is going to be much better than the other 20 startups?” Marc Andreessen (Y Combinator, 2016, 11:49)
 
+<!-- 
+
+## todo 
+
+* p1 ( ) 070_bad_investors - Remove pitch from Bad investors - Consider to remove the quote from Marc Andreessen about "yet another test vs. pitch" as it is placed on 040_induction_embedded_everything. / ref 39483948-398439843-04340384-40384083
+
+--> 
+
 ### A good investor seeks a great people with a great theory
 
 For Chris Douvos, on distinctiveness, it's important to look "for a point of view and strong opinion" because so many of "these people are just chasing the hot deal". The best are proactive in investing, rather than reactive, with strong opinions. Put it in another way, “contrarians are courageous” — https://youtu.be/EGPn1a7D1LA?t=2063
