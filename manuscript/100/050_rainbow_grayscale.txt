@@ -1,31 +1,37 @@
-# The paradox of the rainbow 
+## The paradox from the rainbow 
 
 <!--
 
 ## Title 
 
-v0.1 - No colors in the rainbow 
+* v0.2 - The paradox from the rainbow 
+* v0.1 - No colors in the rainbow 
 
 ## Version 
 
-* v2.2
+* v2.3
 
 ## SCqA 
 
 * Subject - Focusing that the success as the result of a contest, market success, prevents opportunity. 
-* Situation - MOtivation and early design is a drive. We do things as we love. 
-* Complication - We lock early results as world driven, growth driven. 
+* Situation - Motivation and early design is a drive. We do things as we love. 
+* Complication - We lock ealy results, as world driven, growth driven. We plant the seed that creates frustration under the confrontation that we have just moved up the stage, a new challenge. 
 
-* Abstract - The conventional notion of a fixed dream for entrepreneurs may lead to disillusionment when faced with challenges. Successful ventures often emerge from failed projects and continuous adaptations. Entrepreneurship requires a practical direction and openness to change, with endurance to navigate through the Valley of Sorrow. The journey is about learning, resilience, and finding a guiding force amid uncertainty.
-
-## Part 
-
-* 1
-* Note: The colors projected of focus on outcome. 
+* Abstract - We have to dream of launches, something launched, ahead; and idealizing the iteractions. When iteractions happen, through, it changes, it access; the success brings also a new transformation, seems weird and not real, of that things failed. The projections fail and this is not wrong, be prepared. 
 
 ## references
 
 * Brian Chesky 
+
+--> 
+
+We have to dream of launches, something launched, ahead; and idealizing the iteractions. When iteractions happen, through, it changes, it access; the success brings also a new transformation, seems weird and not real, of that things failed. The projections fail and this is not wrong, be prepared. 
+
+<!-- 
+
+## todo 
+
+* p2 ( ), Paradox Rainbox under Err is Okay - Now should focus in the idea that we need to scale up by measuring or having some validation of the growth, so projections are expected. As they are launched, things change. But it didn't fail, likely. It may have worked but a new challenge is ahead. / 493849834-4398394834-93859385-539589859
 
 --> 
 

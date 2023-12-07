@@ -8,6 +8,7 @@
 
 ## Titles 
 
+* v0.3 - Reducing battles, increasing listening 
 * v0.2 - Release of control, and possibility 
 * v0.1 - Managing control
 
@@ -17,9 +18,16 @@
 * Situation - In moving towards judgements, reviews, evaluations, we want to add more, add from the strategy. We end up passing adding more, and breaking things apart, disconnecting from the strategy of the goal. 
 * Complication - Some of these situations allow feedback reading, we might not listen. By giving up trying to win, picking battles to lose, we can listen more. Focus in therefore, improving listening and saving resources. 
 
-## Tags 
+* ka - Sub-point - Lose to win - #contest #austin
+* ka - Sub-point - Allowance failure vs. listening 
+* ka - Sub-point - Fast-pivot illustion vs. listening 
+* kb - Sub-article - Salesperson-entrepreneur vs. listening? - 170_sales_for_entrepreneurs
+* kc - Sub-article - Irreducible minimum vs. listening? - 180_irreducible_collaborator
 
-* Focus 
+## Tags, prompts, 
+
+* Focus, meaning of focus, discovering focus 
+* Relates to - lock values, open in everything else 
 
 ## Cases, can be the K1, k2, k3  
 
@@ -35,13 +43,15 @@
 -->
 
 
-Success will happen. It's a generally accepted idea, otherwise we wouldn't be willing to learn, to put an effort for a better future. But after that idea, when we consider and coordinate our actions with that inclination, it is not uncommon when we face situations such as "I don't understand why every time that something works then things out of the sudden falls apart. " And even other situations that pushes our mind into considering that something else, as in "out of this world" is harming our way. 
+Success will happen. It's a generally accepted idea. Otherwise we wouldn't be willing to learn, to put an effort for a better future. But after that idea, when we consider and coordinate our actions with that inclination, it is not uncommon when we face situations such as "I don't understand why every time that something works then things out of the sudden falls apart. " And even other situations that pushes our mind into considering that something else, as in "out of this world" is harming our way. This is us failing with very willingless to learn in "success will happen otherwise we wouldn't be willing to learn." 
 
 The price we pay for trying to control success, or specifically the outcome we want, is that it drags us to a darker place, a very difficult condition, for when things does not work. But worse, a complication, that the more we lock a target for success, such as the more we focus in an specific outcome, the more we increase the chances for the outcome to come out differently as we have locked ourselves in the first place, as we wouln't be in a good position to see that things can be different. The real problem is not that we get mad, or get frustrated, when we find the confrontation that a bit effort will fail. What is under it is that we might engage with the process and without allowing a listening as things are happening. And even worse, when we don't have time to understandm and we are not aware that we are influencing the process in the first place. 
 
 Now, we have already reflected about ourselves as a carrier [check this], or a train, e section "Entrepreneurship success". What if we do act like more like a technology product, such as a social network tool, that can carry on good or bad things, like shit, but it is not punished as its role is centered around being useful. It's for communication, transfer, connection, and accessibility. What if we can just see carriers, professional carriers. If we put our expectation in the carrier, as opposed to what we want to deliver, perhaps we can do a good job and improve our chances to deliver better things as well. 
 
-But it is challenging to to this, of course, to distance ourselves and to fully grasp that the stuff we deliver is not the stuff we want. As in to put ourselves in the situation of carying less for the outcome. To put ourselves to care for our ability to carry or the process. And this is not to imply, of course, that we are careless. But it is to imply that we can act like a locomotive owner whose responsibility is to care care of the passengers to the destination. In a way, the direction we are going here, is of you trying to regulate your control with meta-control. In the train trip analogy, you become responsible for evaluating the trip. 
+But it is challenging to do that, of course, to distance ourselves and to fully grasp that the stuff we deliver is not the stuff we want. As in to put ourselves in the situation of carying less for the outcome. To put ourselves to care for our ability to carry or the process. And this is not to imply, of course, that we are careless. But it is to imply that we can act like a locomotive owner whose responsibility is to care care of the passengers to the destination. In a way, the direction we are going here, is of you trying to regulate your control with meta-control. In the train trip analogy, you become responsible for evaluating the trip. 
+
+### Lose to win 
 
 If trying to control the outcome happens with you, which can be difficult to observe, I wonder if you can come up with exercises to treat yourself in the good ways. I tell you of an episode that happened with me and where I sort of stumbled in a winning situation after the fact that I gave up my controller way of working. I can't say what really supported me to drop control at that point. But after the events were unfolding, I can say that a lot of the episodes where I was able to drop my controller have helped me to achieve the actual winning results. I won't event forget that trip to Austin, Texas. 
 
@@ -49,7 +59,7 @@ Mozilla, the company that is known for the popular Firefox browser, was a compan
 
 [^mozillamcarthur]: In collaboration with the MacArthur Foundation, Mozilla launched the Jetpack for Learning Design Challenge, aimed at developing Firefox add-ons to enhance online learning. The initiative leveraged Mozilla's technology, enabling the creation of add-ons using standard web technologies. Select innovators from this challenge were invited to a three-day intensive Learning Design Camp in March 2010, coinciding with SXSW Interactive, where the best works received public recognition. https://www.macfound.org/press/grantee-news/design-challenge-to-expand-possibities-for-learning-online
 
-It was a sort of selection so it started with interested developers but a number of phases led to 10 of us that where invited SxSw to refine the work where judges would select three as winners. I was among the ones that joined the final stage. As a developer and participant, my solution was something to be proud of. It was an annotation system to help students to share their annotations while a professor were giving a live lecture, as in sharing notebook. During the days there, we had opportunities to improve our prototypes and to get feedback. And I caught myself in a situation that has happened many times in my life, which is when I tend to work more, the more I move toward the judgement day. 
+It was a sort of selection so it started with interested developers but a number of phases led to ten of us that where invited SxSw to refine the work where judges would select three as winners. I was among the ones that joined the final stage. As a developer and participant, my solution was something to be proud of. It was an annotation system to help students to share their annotations while a professor were giving a live lecture, as in sharing notebook. During the days there, we had opportunities to improve our prototypes and to get feedback. And I caught myself in a situation that has happened many times in my life, which is when I tend to work more, the more I move toward the judgement day. 
 
 Now, just by writing this, I just remembered an episode that has happened a couple years before that, when I was helping Mozilla to come to Brazil at a conference and just before the president of Mozilla was to speak to a reporter, I sadly report to them that I was having headaches. I noticed something on their face that didn't totally understand until years later, that had do to with what now I see as question: Why? Why I pushed myself into a situation which brought me to suffer and to put the moment of delivery in risk? Perhaps, by 2010, my subconscious were yet grasping what has happened that day. I can't say. 
 
@@ -63,7 +73,7 @@ But the real prize was to come back to all that has happened, that had less to d
 
 [^joiito]: Joi Ito, a Japanese entrepreneur, served as the director of the MIT Media Lab from 2011 to 2019. Renowned for his role in the growth of digital technology and as an early advocate of the Internet in Japan, Ito has made significant investments in tech ventures and maintained affiliations with institutions like the MacArthur Foundation. 
 
-## Allowance for failure 
+### Allowance for failure 
 
 We're all controllers. Why? Because we like playing it safe. We control things around us just to feel we're in control. Don't beat yourself up about it, it's a natural thing.
 
@@ -81,7 +91,7 @@ Go ahead, go with your fears on the side. Don't try to set them aside, that's ju
 
 * Supported by ChatGPT, fixed style asking to be plain English more like what William Zinsser would enjoy. Asked to keep some of my lines of thinking. 
 
-## The fast-pivoting illusion 
+### The fast-pivoting illusion 
 
 <!--
 * Chesky, B. (2015, November 30). Blitzscaling 18: Brian Chesky on Launching Airbnb and the Challenges of Scale [Video]. Greylock. https://www.youtube.com/watch?v=W608u6sBFpo
@@ -95,7 +105,7 @@ But here's where we need to pause and reflect: For every success story told with
 
 Consider the interpretations we can get, especially when we are also learning in accelerated mode, when we hit the occasional triumphs of great founders and their journeys. Let's reflect about some of the stories of Airbnb, as they end up stumbling on the right stones, and explore the complex interplay of urgency, speed, and entrepreneurial success. 
 
-### Harnessing Focus in the Face of Distractions: The Airbnb Parable
+#### Harnessing Focus in the Face of Distractions: The Airbnb Parable
 
 The journey of Airbnb, as articulated by co-founder Brian Chesky in a talk at Greylock, is one that vividly illustrates the interplay between urgency and the rhythm of life in the entrepreneurial world.
 
@@ -103,7 +113,7 @@ Chesky recounted a crucial phase in Airbnb's early days, where one of his co-fou
 
 However, amidst the whirlwind of life's demands, Airbnb persisted. Despite the team's temporary hiatus, they harnessed their collective focus to bring the idea back to life, embodying the delicate balance between living urgently and understanding the inherent ebb and flow of life (Chesky, 2015).
 
-### The Slow Dance in Fast-Paced Entrepreneurship: Lessons from Airbn
+#### The Slow Dance in Fast-Paced Entrepreneurship: Lessons from Airbn
 
 The captivating tale of Airbnb, shared by its co-founder Brian Chesky at a Greylock talk, offers a unique perspective on the pace and rhythm of entrepreneurial success. Specifically, it uncovers the oft-overlooked slow dance that unfolds amidst the seemingly accelerated world of startups.
 
