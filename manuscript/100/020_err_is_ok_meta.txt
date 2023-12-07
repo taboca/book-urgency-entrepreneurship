@@ -7,6 +7,8 @@
 
 ## Title 
 
+* v0.6 - Right 
+* v0.5 - On the right side  
 * v0.4 - Right 
 * v0.3 - To be right, and not to be 
 * v0.2 - Being right, and not being 

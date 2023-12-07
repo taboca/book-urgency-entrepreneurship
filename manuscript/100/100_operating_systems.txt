@@ -1,4 +1,4 @@
-# Interfaces are goggles 
+# Interfaces 
 
 <!--
 
@@ -8,6 +8,8 @@
 
 ## Titles
 
+* v0.4 - Interfaces
+* v0.3 - Interfaces are goggles 
 * v0.2 - Interfaces 
 * v0.1 - The invisible operating system
 

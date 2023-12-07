@@ -16,6 +16,8 @@
   
 ## Title 
 
+* v0.9 - Time 
+* v0.8 - The matter of time 
 * v0.7 - Time 
 * Title v0.6 - Time is relative 
 * Title v0.5 - Love transcends time and space 

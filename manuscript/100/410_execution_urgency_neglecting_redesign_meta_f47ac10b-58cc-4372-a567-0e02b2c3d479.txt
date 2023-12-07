@@ -17,6 +17,8 @@
 
 ## Title 
 
+* v0.4 - Impact
+* v0.3 - Searching impact 
 * v0.2 - Impact 
 * v0.1 - Marginal cost of reaction 
 

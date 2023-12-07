@@ -8,6 +8,8 @@
 
 ## Title 
 
+* v0.7 - Space 
+* v0.6 - The elements of space
 * v0.5 - Space 
 * v0.4 - Living transcends space
 * title v0.3 - Space and peace 

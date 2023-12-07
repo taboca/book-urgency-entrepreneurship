@@ -1,9 +1,11 @@
-# The power of narratives 
+# Narratives
 
 <!--
 
 ## Titles 
 
+* v0.4 - Narratives
+* v0.3 - The power of narratives 
 * v0.2 - Narratives 
 * v0.1 - Narratives and narrative potential
 

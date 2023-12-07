@@ -1,9 +1,11 @@
-# Who is an entrepreneur  
+# Entrepreneur  
 
 <!-- 
 
 ## Titles 
 
+* v0.4 - Entrepreneur
+* v0.3 - Who is an entrepreneur  
 * v0.2 - Wantrepreneur
 * v0.1 - A wantrepreneur, fear not
 
