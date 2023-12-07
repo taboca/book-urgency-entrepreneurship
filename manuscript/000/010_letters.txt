@@ -6,6 +6,7 @@
 
 * (p, a) Chris Yeh - chat invited, may look at intro presentation document and manuscript. 
 * (p, l, a) Steve Blank, invited with introduction letter [l], accepted to receive manuscript. 
+* (p, l, a, ) Ted Thayer - of JTBD, accepted to receive the manuscript. 
 
 * (p, l, c) Jason Fried, through linked in. 
 * (p, l, ) Editors Melissa and Jonathan , on Nov 14th 2023.
@@ -17,7 +18,6 @@
 * (p, ) Rohan Workman, which interviewed Steve Blank 
 * (p, l, ) Brendan Eich 
 * (p, l, ) Chris Hoffman 
-* (p, l, ) Ted Thayer 
 
 ## Matrix subscribers 
 
@@ -28,6 +28,12 @@
 [l] 012_investor_introduction.txt 
 [a] accepted to receive the manuscript
 [w] Wants a copy when done 
+
+
+## Follow ups 
+
+* Ted - https://mail.google.com/mail/u/0/#inbox/QgrcJHsBtPszjcdSZGMtPVbJdtZbDRNjSrq 
+* Chris -  https://mail.google.com/mail/u/0/#inbox/KtbxLwgZVwjDDccMZJKdWcPBwPDlzZFlzL
 
 ## Letter to David Smooke of Hackernoon, On November 30th, 2023
 
@@ -62,6 +68,8 @@ Marcio
 ```
 
 ## Letter to Ted Thayer of JTBD, On November 29th, 2023 
+
+* ref - https://mail.google.com/mail/u/0/#inbox/QgrcJHsBtPszjcdSZGMtPVbJdtZbDRNjSrq
 
 ```
 Hi Ted,
