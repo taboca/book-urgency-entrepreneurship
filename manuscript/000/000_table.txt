@@ -1,5 +1,11 @@
 # Todo # 
 
+* p1 ( ) Review 040_induction_embedded_everything, change the title of "Informação, Comunicação e Compreensão" to the English one / ref 4934934-43983985-39583958-5038538
+
+* p1 ( ) Review 050_references, Minto Pyramid, which is likely not right publisher, and date. Get the correct version from Marcio's reference. "Minto, B. (1996). The Minto Pyramid Principle: Logic in Writing, Thinking, & Problem Solving. Minto International." / ref 28429849284-942849824-4204820840-042804824
+
+* p1 ( ) 040_induction_embedded_everything - Management fails to support communicators - In some of the Blitzscaling talks, if I am not mistaken, it was said that communication is like an aspect that people won't point to anyone as it seems like harrasment. Check this because I would think that this seems to be real in corporations. / ref 498498249-428482948294-4289482948-42984892
+
 * p1 ( ) 070_bad_investors - Remove pitch from Bad investors - Consider to remove the quote from Marc Andreessen about "yet another test vs. pitch" as it is placed on 040_induction_embedded_everything. / ref 39483948-398439843-04340384-40384083
 
 * p2 ( ) Induction - Review Michael Dearing's Executive Communication talk and consider to include the "unlocking moment" of Barbara. https://www.heavybit.com/library/video/executive-communication ref - 493859385-539859385-53985983-53885983958
