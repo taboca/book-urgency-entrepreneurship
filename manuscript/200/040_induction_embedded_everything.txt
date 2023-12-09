@@ -8,38 +8,48 @@
 
 * Referencia - 
  
+## ScqA outline v0.3 
+
+* Subject - We should value communications, get it right, see the easy way in. 
+* Situation - We dismiss communication, favor rationality. 
+
+* Complication - Overlook, force data, struggle, no idea
+* Complication - (change?) think it's marketing. 
+* Complication - (change?) miss that is logic, can do a service, honest, ethical  
+* Complication - (change?) miss structured helps with access growth 
+
+* GA - Why we ignore, Why matters, How to approach 
+
+* Ka - Why ignore - 
+* Ka - Why ignore - style, unknown, evil persuation, no substance 
+* Ka - Why ignore - favor rationality 
+* Ka - Why ignore - management can't help
+
+* kb - why matters - 
+* kb - why matters - grease
+* kb - why matters - abuse of data costs 
+* kb - why matters - growth and solutions oriented 
+
+* kc - how - 
+* kc - how - cracking the code 
+* kc - how - clarity achieving 
+* kc - how - do responsibly 
 
 ## SCqA review v0.2 
 
 * Subject - 
-
 * Situation - People use writing, said or presented, to convince. The urgency to close the gap makes the presenter to skip communication, and just use it, may add arbitrariness, and now help with clarity. Can be ignored by the audiences. 
-
 * Complication - Induction is misundertood, used inrresponsibly, or automatically, from a denial to consider that induction serves the purpose, to add clarity. 
-
 * Question - What to do? Continue to deny and present what is right, and responsible, by ignoring communication? As in all the time proving? 
-
 * Answer - The right is to be in peace with induction, respecting its purpose, and the process of transformation, and clarity, where one adds and build a good structure writing. 
-
 * K1 - it might be style - How it is experienced, it might be style, the deductive mind seens investment in communication as lower, favors value towards what seems rational, logic, data - pulls them to focus on data. We can't see even the true induction, or abuse, if not waste or investment, by the insertion of data. 
-
 * k2 - the inductive machine - The machine is inductive anyway, don't be mad. We need to embrace, it's an inductive world and we need to be responsible to deal with it. Works for a fast track world, transactional, but still how to?
-
 * k3 - The logical horizon. 
-
 * v0.1 -  [ ScqA ] Induction is around, induction attracts. We derive that induction can be used arbitrarily, the complication, abuses. We need to watch out to not fall, and to not comply with; instead consider SCqA. 
 
 ## Todo 
 
-* p2 ( ) Induction - Review Michael Dearing's Executive Communication talk and consider to include the "unlocking moment" of Barbara. https://www.heavybit.com/library/video/executive-communication ref - 493859385-539859385-53985983-53885983958
-
- [ Add ] Consider the notes from Adam Silva, about the language. 
- 
- [ Add ] Consider SCqA of Barbara Minto, a structured approach for making peace with induction; Not a random way. A way to go. Consider to bring the point that Barbara's approach is the way to solve induction and communication for business folks - the case of the owl according to Michael Dearing. 
-
- [ Add ] Conclusion - Consider that to make the case to the folks around you, that you depend on, as you move towards with your entrepreneurial journey - such as investors, they will likely know that you are using induction. And they will seek substance. 
-
-[ Add ] What to do with Michael since a lot of the stuff I am doing came from Michael? I wanted to meta refers to Michael. 
+* p2 ( ) - Inductive communication - Consider the notes from Adam Silva, about the language. Ref 42498492-4289489284-42984928-9248498
 
 -->
 
@@ -55,9 +65,7 @@ Now, the complication with this setting, and reason for us to be here, isn't tha
 
 But as we continue to ignore valuing communication, we continue to communicate in inneficcient ways, to confuse our teams, our audiences. What is even worse is that as we move away from communication, and yet use communication to get something of them, we rather do what we can and add even more of the valid elements, such as data, which puts pressure on the writer-presenter, such as to engage in being manipulative although not even aware, such as to support the end by filling out the right means, with the things that are assumed to serve the logic and the rationality. What is even worse of this setting of denial is that it does not prevent one or other that are skilled in the art and science of communicating, such as in persuasive ways, to do well, and to smoothly convince more especilly if they do a good job of providing supporting data that serves the rationality. 
 
-To support founders to be friendly with focusing in the quality of communication, we will first see that anyway the inductive communication is around, it is unavoidable, used by everyone, but generally dismissed by roles which are systems-oriented. 
-
- Then we will see how the dynamics of the startup, and any corporate environment, is intrinsically using inductive communication, where the refusal to understand makes only the rational being to operate by following induction. And third, we will find a logical and structured way to advance to improve the quality of communiation with the notion of Executive communication as the kind of communication that is good for solutions-oriented situations. And this is the purpose of this section. To consider inductive writing as valuable, that can be be used honestly by entrepreneurs, not only to be aware of what is being told, but to be conscious of using it responsibly and in a way that truly suppports the goals. In this direction, let us first consider how inductive communication is assesed in the work place and some complications for doers such as technical or engineer mindset. Next, we will consider ...
+To support founders to find a reasonable way to value communication, not as a solution sell something ready, but in the direction of a tool to collaborate with the growth machine of solutions-oriented, we will first focus in how we dismiss, how we experience the dismissal and forces that may influence it. Then we will see why it matters, not only that communication exists anyway but how the abuse of communication might come from rational and poor communication, and why the folks that test, such as customers and investors, demands the other kind of communication. And third, we will experience a logical and structured way to advance to communiation, referred as Executive communication, which not only helps with solutions-oriented audiences but makes sense as a way to organize ideas thus works like a self-cleaning oven for improving the offering. 
 
 ## How we dismiss 
 
@@ -69,15 +77,13 @@ it might be style - How it is experienced, it might be style, the deductive mind
 
 One point to look, from one communication to another, has to do with how one does it. Some people do it with style. Some can do naturally do so well they don't even understand how they do. Some others struggle to put out their ideas with clarity. Others put a lot of work, and struggle, and nothing sticks. So a complication in the corporate work setting - likely perceived by the ones that are young with communication and does not control how the communication style or language of the machine works - is that they might see their voices being shut, not brutally, but mainly by the other voices that sounds more coherent especially under the urgency.  
 
-But we all have experienced that sort of communication that seems persuative, or inductive, although we won't generally refer to that kind of communication as inductive. Nevertheless, it is all around. As I was having coffee before writing the draft for this article, I heard a person that were passing by as he was leaving a voice message to someone. He said "What did you think of my idea?" And right away added the note "although it is not the best solution, what do you think?". After that I couldn't hear more, and it was enough for me. 
-
-He was seemed to be trying to add value to his point. The way he said was also part of the convincing mechanism. Or he knew that the other, on the other end, were likely to cut his idea and needed something the other could agree with. Perhaps he was trying to induce by presenting an implied reason, as if he had said "see, we won't have the time to pick the perfect idea now. Let's move on." And likely was hoping that the other end, in the urgency of the world, would agree with a yes and a let's go with that. 
+But we all have experienced that sort of communication that seems persuative, or inductive, although we won't generally refer to that kind of communication as inductive. Nevertheless, it is all around. As I was having coffee before writing the draft for this article, I heard a person that were passing by as he was leaving a voice message to someone. He said "What did you think of my idea?" And right away added the note "although it is not the best solution, what do you think?". After that I couldn't hear more, and it was enough for me. He was seemed to be trying to add value to his point. The way he said was also part of the convincing mechanism. Or he knew that the other, on the other end, were likely to cut his idea and needed something the other could agree with. Perhaps he was trying to induce by presenting an implied reason, as if he had said "see, we won't have the time to pick the perfect idea now. Let's move on." And likely was hoping that the other end, in the urgency of the world, would agree with a yes and a let's go with that. 
 
 Although the given illustration was too simple and not even to be considered a solid communicative experience, when we hear these fragments of communication in the average day, such as in the work setting, we can sense a hint of a communication that wants to be persuasive, that has all the intentions to convince, if not a hint of a type of communication that is wrong. And for many that see from that angle, they may set themselves to deny any investment further in communication. 
 
 
 
-
+### Denial by analysis  
 
 
 Now by being a natural-born no communicator, and being able to detect the machine seems inductive anyway ,and likely be mad with the usage, I happened to become a sort of translator of induction into deduction, which can be illustrated the work that I went through by the following situation in the supermarket. as I was in deli section, a lady promoted a product when we were to buy mossarela cheese. Apparently, as far as we knew it, we wanted 200g of mossarela. But before we said the amount, she interrupted us to suggest that we buy the mossarela that were pre-packaged by her (pre sliced and in a combo with prosciutto). She said that the cost, per gram, of that mossarela were less. Needless to say that we were in a hurry, right? We were not there to reason, to think, to get ideas for writing a book or reflecting about the ways people communicate with induction. We were apparently just there to buy mossarela. But I was there and confess having entered in the basic math which is something we do when buying. We never ignore the math, right? I asked her how much was the cost per kilogram of the mossarela alone to which she said 55 brazilian reals. And then she added that the cost per kilogram for the one in the package was 40. So, the basic math seems to work and she also added an inductive expression, with her face, and said that she was there to help. I then asked her what where the cost of the - needless to say cheap/poor quality - prosciutto that came in the package. She said that it was about 30 BRL (Brazilian Reais). The package was half plus half, and somehow I wasn't anymore there to buy but willing to see what was going on. And with another not so simple to do math, I figured that the price per kilogram in the combo package was just the expected average price. So, voila, she was offering 200g of mossarela at its normal price with a 200g of cheap-quality prosciutto in its normal price, although her was limited to the stress the fact that the mossarela was cheaper.
@@ -90,17 +96,19 @@ Nevertheless my job as not a communicator and not in peace with this kind of com
 
 Moreover, Therefore, some people might be go away from being persuasive as for them it adds nothing or that they might fear to be tricking themselves, misleading themselves, that they are being others perhaps even linked to that figure of a salesman that is in hurry to convince. But even if we consider to elaborate further a proposition for inductive communication as a kind that has a lot more to offer and that can be done seriously, the consideration is yet a problem for many people. A big reason might happen for the folks that are creators, makers, engineers, and whoever looks at things from a rational and logical, or a systems-oriented perspective. These folks may see themselves as the brains and originators of ideas. They love deduction, they love to prove, they love to come up with the map, such as a map based on structured ideas, on truths, on their discoveries. Of course, they love to to express their ideas, and they do know that they want to put their ideas out in front of audiences, and they know that they need to get buy-in from them, minimally attention, and seeking support from these audiences. But still, they rather use their precious time to focus in the supporting elements, like the values and the truths, the gems that makes ideas to grow into good ideas and potential solutions. 
 
-But while the ideas, and substance or truths, or data, are the parts of the gears of the work machine, that kind of communication is still a grease required that makes everything moving smoothly. And the enginering, or deductive-oriented mindset, knows that while they are the curators behind the scenes making the bits and pieces that runs, they are dependent anyway of that kind of grase. And, to their happiness and sometimes frustation, they depend on folks that can translate what they have to offer. Now, if we come to this realization, then the question is why should one integrate that additional skill, such as to achieve expertise with inductive and persuasive communication while the engines of many organizations shows that it's not urgent, clearly for the many such as engineers and systems-oriented roles. 
+Therefore, there are the substance, truths, or data, which are indeed the parts, or the gears, of the work machine; and while an acknowledgement that communication is a grease required that makes everything moving smoothly, still we can live without it. In other words, that deductive-oriented mindset knows that while they are the curators behind the scenes making the bits and pieces that runs, and they are dependent anyway of that kind of grease; and, to their happiness, and sometimes frustation, they depend on folks that can translate what they have to offer. But they continue to do what they do by proving. 
 
+What comes from that idea of - never touch the communication aspects - is that the idea of poor communication is never related to the actual how communication is conducted, it's mainly discussions abotu the cargo. The view from this angle, can take us in a long ride of not only a denial to the aspects of communication but into spending time, attention, interest, getting frustrated, burning our attention and effort to try to make sense of things, being busy only checking its cargo and not considering that the conduction can be rotten. 
 
+Plus, any approach of expression that offers coherence might be also used to express coherence to older ideas. I wonder if the realization of that would push anyone to integrate that the investment in that skill, such as to achieve expertise persuasive communication, to be a bad direction too. As in when it set us to miss the opportunity of using keep using communication without changing the underlying assumption, as if each iteration is an effort to prove ideas with our own proofs - which can be recursive, or nonsensical - or as in one trying to solve communication needs not with one arm but with both arms tied behind their back.  
 
-### Critics can't help with communication 
+### Management critics can't help  
 
 <!--
 
 ## Todo
 
-* p1 ( ) 040_induction_embedded_everything - Management fails to support communicators - In some of the Blitzscaling talks, if I am not mistaken, it was said that communication is like an aspect that people won't point to anyone as it seems like harrasment. Check this because I would think that this seems to be real in corporations. / ref 498498249-428482948294-4289482948-42984892
+* p1 ( ) 040_induction_embedded_everything - Management fails to support communicators - In some of the Blitzscaling talks, if I am not mistaken, it was said that communication is like an aspect that people won't point to anyone as it seems like harrasment #clothes #dressing. Check this because I would think that this seems to be real in corporations. / ref 498498249-428482948294-4289482948-42984892
 
 --> 
 
@@ -117,25 +125,23 @@ In other words, the idea that the act of putting it out is part of the writing p
 
 ## Why it matters 
 
-
-
-
-
-
-### Grease sticks anyway 
+### The grease  
 
 Back in the Silicon Valley days I had an opportunity to get an overview of a kind of inductive communication which I think it is the ugly case. I learned that the hard way. When I was working at one of the iconic companies of Silicon Valley, a few chapters ago, my spoken English were poor and my abilities to control inductive communication poorer - although that does not mean that I wasn't naturally inducing others to react, to decide, such as to accept or ignore my ideas. But anyway I wasn't afraid to say my thoughts which is generally a good thing, and I wanted to convince my peers. So in that meeting I said something like "mada big bada bum, korben, bada bum bada bum," while a local manager chimed right on top of my train of sound and was sharp precise with a clear and sound English that started with "But more importantly,.." and that was enough for everyone to accept his judgement. 
 
 That was a prelude to a big lesson which I could not grasp at the time. But I sort of knew what he did. The real thing I didn't see is that the event was remarkable in my life but remarkable in a bad way which had prepared my investment towards communication, unfortunately, to be stuck in terms of investing. In other words, I wasn't in peace with with using induction, or inductive communication, because that way of communication seemed to be a deal breaker, or deal maker. Perhaps I have seen that in my whole life - in a way or another - but it was too brute to see a manager in a place which I thought as special - Silicon Valley the open book of opportunities. And, to be fair, perhaps implied in what happened that day was the fact that I did my part too - that what I tried to say had paved the way for that manager to bring some equilibrium to the meeting. In other words, in his defense, I started and he reacted in a way to be optimial, perhaps a pragmatic way. Well but for me that was an ugly case and it took ke decates to be in peace and find an enlightened way to grasp inductive communication, in a good way, and in a responsible way. 
 
+### Evil data 
 
+These are the folks that can actually transform their solid ideas in solid proposals that can get accepted. BUt then under the condition of being certain that they can't focus in persuading, they are left with the tools they have. Therefore, they can use critical thinking, and logic, and do the design work, and research, and find data. 
 
+Sometimes a prototype can prove, sometimes a full proof is given, this is the beautiful side, sort of innevitable when effort and intent is high, and when purpose exists, and even in a world where no one understand, if they have resources. But, as likely the by-product of going in that direction, they might also die before they have time to prove, part A. And if that is not enough what can be really tricky is that they may actual do a kind of work that is in a way like what the bad salesperson would do, although no evil is perceived; when they are inserting data enough to prove, although not quite intended as a conscious evil act but as they do, they materialize an evil with no awareness of it, even to a point that does worse than the salesperson that attempts to persuade with no given value offered exactly because that salesperson would be less likely to convince. 
 
+But more than the harm to the business, is that the devotion towards being functional to add proofs exceeds to an extremme where they can't see that they are lying to themselves. As a sidenote to this notion and idea, I seem to be communicator that didn't happen in my youth but that found some traction in the world of user interfaces first, like prototypes, then in the world of high tech companies working with interfaces and prototypes, before I caught myself into the learnings in the world of entrepreneurs. I grew up mad with the bad salesperson - likely made me to be in a denial to the art of communicating well such as to persuade. But then, being decades and decades around software developers, and the young minds like I was, I came to the full realization of how many iterations of software developers were so well crafted, so well promoted, by their shining prototypes; and alltogether the so many instances of those creations that meant nothing, that left as partial prototypes, as ideas projected, illusions too, and illustions that had teased in fact by the shinning and apparent materialization in front of buyers, buyers like customers, investos, and themselves, that had given the buy-in and later cried. Which makes developers a potential worse kind of salesperson that won't even notice when they lie as they lie to themselves by being involved with the perceived materialization of what they had in mind. This day made me happy with the salesperson that mainly deals with what they have to sell and their reputation with the customer as they are to be likely to see the customer in the next day, as they are showing their faces. 
 
+Therefore, the systems-oriented folks enter the induction game too, at another level, by overfocusing in trying to make their paintings to stand, such as my using an excessive amount of nails. Now, if they minimize their willingness to put mails, they are to face the "yet another test" against all the external folks they need help. It's a balance. 
 
-
-
-### The growth machine demands  
+### Growth is solutions-oriented   
 
 <!-- scqa: k "it might be style" k1.k1
 
@@ -163,23 +169,21 @@ Y Combinator. (2016, 25 de outubro). Marc Andreessen na Startup School SV 2016. 
 
 
 
-### Inductive behind the scenes
-
-These are the folks that can actually transform their solid ideas in solid proposals that can get accepted. BUt then under the condition of being certain that they can't focus in persuading, they are left with the tools they have. Therefore, they can use critical thinking, and logic, and do the design work, and research, and find data. 
-
-Sometimes a prototype can prove, sometimes a full proof is given, this is the beautiful side, sort of innevitable when effort and intent is high, and when purpose exists, and even in a world where no one understand, if they have resources. But, as likely the by-product of going in that direction, they might also die before they have time to prove, part A. And if that is not enough what can be really tricky is that they may actual do a kind of work that is in a way like what the bad salesperson would do, although no evil is perceived; when they are inserting data enough to prove, although not quite intended as a conscious evil act but as they do, they materialize an evil with no awareness of it, even to a point that does worse than the salesperson that attempts to persuade with no given value offered exactly because that salesperson would be less likely to convince. 
-
-But more than the harm to the business, is that the devotion towards being functional to add proofs exceeds to an extremme where they can't see that they are lying to themselves. As a sidenote to this notion and idea, I seem to be communicator that didn't happen in my youth but that found some traction in the world of user interfaces first, like prototypes, then in the world of high tech companies working with interfaces and prototypes, before I caught myself into the learnings in the world of entrepreneurs. I grew up mad with the bad salesperson - likely made me to be in a denial to the art of communicating well such as to persuade. But then, being decades and decades around software developers, and the young minds like I was, I came to the full realization of how many iterations of software developers were so well crafted, so well promoted, by their shining prototypes; and alltogether the so many instances of those creations that meant nothing, that left as partial prototypes, as ideas projected, illusions too, and illustions that had teased in fact by the shinning and apparent materialization in front of buyers, buyers like customers, investos, and themselves, that had given the buy-in and later cried. Which makes developers a potential worse kind of salesperson that won't even notice when they lie as they lie to themselves by being involved with the perceived materialization of what they had in mind. This day made me happy with the salesperson that mainly deals with what they have to sell and their reputation with the customer as they are to be likely to see the customer in the next day, as they are showing their faces. 
-
-Therefore, the systems-oriented folks enter the induction game too, at another level, by overfocusing in trying to make their paintings to stand, such as my using an excessive amount of nails. Now, if they minimize their willingness to put mails, they are to face the "yet another test" against all the external folks they need help. It's a balance. 
-
-
-
 
 
 ## Executive communication 
 
 Now, any further investment in communication would require a level of awareness to convince ourselves, our colleagues, and future entrepreneurs to join this boat. While we have seen reasons to not ignore, and ideas about how we lower the priority, still a problem to approach the subject is that a lot of resources about communication are oriented to marketing, such as to support positioning of messages, to present better, to improve sales, that sort of line. These invitations are too out of touch with the needs of entrepreneurs which contributes to further lack of interest. 
+
+To conclude, I think it is good to recognize the "Owl problem" pointed by Michael, that when the topic is communication, it is generally difficult to know how to draw the owl. 
+
+<!--
+
+## todo 
+
+* p2 (Done, Barbara's SCqA ) Consider SCqA of Barbara Minto, a structured approach for making peace with induction; Not a random way. A way to go. Consider to bring the point that Barbara's approach is the way to solve induction and communication for business folks - the case of the owl according to Michael Dearing.  / ref 2984284982-492849284-2948298492-429842984922
+
+--> 
 
 Fortunately, a responsible proposition exists for entrepreneurs. And here is where we turn our attention to the investor and professor Michael Dearing, of Harrison Metal [^footnote_harrisonmetal], especialy to his special talk entitled Executive Communication (Heavybit, 2019) where he had offered reasons and an overview of the remarkable work of Barbara Minto, Minto Pyramid Principle: Logic in Writing, Thinking, & Problem Solving. In this section, we ride along with Michael, to honor that what audiences expect becomes persuasiveness by aspects of communication such as clarity, structure, logic, and substance; and ... 
 
@@ -201,17 +205,17 @@ Heavybit. (2019, July 30). Executive communication w/ Harrison Metal [Video]. ht
 
 -->
 
-## Executive communication 2 
 
-As we celebrate the phenomenon of missing the point about communication as a tool - as in celebrating a trap from ugency - we can turn our attention to reasons for valuing communication as the executive communication mechanism for getting things done. To recall our context in simple terms, as we have seen [^editornote_reference_prior_growth], the startup evolution as the situation of growth. And the implied necessity of entrepreneurs to use communicative experiences to get help. From who? From any audience that is relevant to what is ahead, such as customers, investors, but above all the team as an initial audience. With that, althought it is already a complex problem, they might find more trouble as they try to control the results, such as to convince the audience. Their job, especially as they engage with the communicative experiences such as writing, should go away from convincing an audience. The risk of going in that urgent direction might lead, or mislead, themselves too - into convincing themselves. Their job, conversely, is first to achieve clarity for the challenge at hand. By first focusing in a responsible communication, the team will develop themselves into a conscious path that will help them to understand their problems and translate the challenges ahead into proposals targeted for collaborators that comes along, such as the team themselves. 
 
-[^editornote_reference_prior_growth]: Growth was presented on the chapter entitled Success, and it's around thoughout other subjects, our assumption of a view where the startup is in a path of evolving through stages and accordingly the necessity that entrepreneurs are learning and executing alltogether in a path of uncertainty, therefore required to grow themselves as individuals and entrepreneurs, to transcend and evolve their roles, thus to be able to see the multiple dimensions, theirselves in the startup, their startup in the context of market, their startup in the context of society, their startup in the context of humanity. 
 
-The celebration that writing is not manipulative does justice first to the team, their time, and invites us to the structured and logical work of Barbara which gives to people an easier and structured way to deal with communication. Her approach is can be especially life-changing for entrepreneurs as they depend, interact, and need support from solutions-oriented audiences.  
 
-> "" Michael Dearing, Heavybit  
+### Cracking the code - Barbara's epiphany 
 
-### It's not my fault 
+<!--
+
+* p2 (x) Induction - Review Michael Dearing's Executive Communication talk and consider to include the "unlocking moment" of Barbara. https://www.heavybit.com/library/video/executive-communication ref - 493859385-539859385-53985983-53885983958
+
+--> 
 
 The story of how Barbara Minto took herself into writing The Pyramid Principle does justice and brings about a situation where we generally overlook the aspects of communication and turn our attention to something else, like the thoughts being carried by the train, and missing the point that the train matters. 
 
@@ -223,7 +227,15 @@ Now when I read this part from Michael's talk, it took me back to the university
 
 No, that was not the view of Barbara. And she went further as "she rewrote it line by line, paragraph by paragraph, page by page until she could teach macro, the basic concepts of macroeconomics to her colleagues in the section." And that is it. That is how Barbara took herself further and went along on her journey to help many people to write in a structured way, to not be creating confusion to others through writing. Barbara Minto not only solved her problems but she unlocked our minds to be able to see that how we see influences what we see, how we get influences what we get. Now even better than that she had positioned the important of focusing, and working, in communication, towards the business world, to the corporations, to managemnt, which is some great executive minds love Barbara's work: 
 
-#### Barbara's SCqA 
+#### Barbara's SCqA  
+
+<!--
+
+## todo 
+
+* p2 (Done, Barbara's SCqA ) Consider SCqA of Barbara Minto, a structured approach for making peace with induction; Not a random way. A way to go. Consider to bring the point that Barbara's approach is the way to solve induction and communication for business folks - the case of the owl according to Michael Dearing.  / ref 2984284982-492849284-2948298492-429842984922
+
+--> 
 
 And while thre is a lot about communication, her work is special exactly because the target audience are the ones that want to do it because of honest reasons, like to achive clarity, to suffer less, to have a model for structuring that makes sense. For Michael, the work of Barbara "might change your life." It has done for him, for me but also for many others as Michael confirms: 
 
@@ -240,13 +252,13 @@ And while thre is a lot about communication, her work is special exactly because
 
 > *"You see "Answer," and then the second row. Those might be why my answer is right, they might be "How" arguments to implement the answer. But they're bolstering the answer. I want to show you an example. Underneath each of those bolstering arguments is the evidence ."* Michael Dearing (Heavybit, 2019) 
 
+### The model for clarity 
 
+As we turn our attention to valuing executive communication, and as we recall, first, that communication serves the purposes of the interactions with stakeholders, such as customers and investors, being that startups are in the a path of growth [^editornote_reference_prior_growth]. Second, we have also celebrated the a complex problem of the rise of a potential abuse where more trouble comes from trying to control the results, such as to convince an audience, shch as with data. 
 
+[^editornote_reference_prior_growth]: Growth was presented on the chapter entitled Success, and it's around thoughout other subjects, our assumption of a view where the startup is in a path of evolving through stages and accordingly the necessity that entrepreneurs are learning and executing alltogether in a path of uncertainty, therefore required to grow themselves as individuals and entrepreneurs, to transcend and evolve their roles, thus to be able to see the multiple dimensions, theirselves in the startup, their startup in the context of market, their startup in the context of society, their startup in the context of humanity. 
 
-
-### The hidden value 
-
-As we move on with a rationale that sets communication as a highest priority in entrepreneurship, we might first recognize the phenomenon which takes us to miss the point of communication and creates confusion; which may look like an obsession where we see communication as a tool for achieving results, such as a tool to convince, to sell, as if the work with the tool does not yield learning. This view paradoxically rises from the very merit, or the beauty, of great communicative experiences. In other words, it is because communication can be greatly done that we turn out attention to the narratives, or the stories, or the value, being given by communicative experiences. This obsession with the results can set us to miss the entire birthplace of how great communicative experiences can be achieved, the construction of it, how the photo montage matters. As if we enjoy smart kids but ignore the educational process that starts from the early days. This point missed can be experienced from a management view by Peter Drucker in Technology, Management and Society; in the article entitied "Informação, Comunicação e Compreensão": 
+Now the hidden complex problem to do that, aside from what was discussed, is that the effort to convince an audience - such as with data - puts the team at risk of being urgent and to potentially mislead themselves, distracting themselves, convincing themselves, and even unconsciously to lie to themselves and therefore to their audiences, which aligns with the thought from Peter Drucker that the job of a good communication is to first communicate with ourselves: 
 
 <!-- 
 
@@ -258,7 +270,6 @@ As we move on with a rationale that sets communication as a highest priority in 
 
 > *"There is a very old saying among writers: 'Difficulties with a sentence always mean confused thinking. It is not the sentence that needs straightening out, it is the thought behind it. In writing we attempt, of course, to communicate with ourselves. An unclear sentence is one that exceeds our own capacity for perception. Working on the sentence, that is, working on what is normally called communications, cannot solve the problem. We have to work on our own concepts first to be able to understand what we are trying to say - and only then can we write the sentence."* (Drucker, 2011, p. 6)
 
-
 <!-- 
 
 ## references 
@@ -268,37 +279,30 @@ Drucker, P. (2011). Technology, management, and society. Routledge.
 --> 
 
 
+Therefore, if the team recognizes that they are the initial audience, they are effectively not wasting time, as the test ultimatelly will catch them, such as the test of market with customers. By recognizing that executive communication is an actual effective mechanism to move in the right direction, it sets them to communicate honestly among themselves, as an audience, and therefore to their audiences. In other words, by acknowledging their duty, to respond to the audience's demand such as "why are we here?," they engage in "logic in writing, thinking and problem solving" as the subtitle of Barbara's book indicates. 
 
+Moreover that the very mechanism of translating the how we think and solve problems to the propositions for solution-oriented mindset audience becomes a mechanism of education and direction that supports a non-arbitrary duty to deal with communication and development of proposals for action. To give you a real example, I had the chance to help a friend that needed to present himself better in a hiring process. He was applying for a software engineering position, believed that he was great but didn't had all the requirements, skills in a given area. When he approached me assking for help, SCqA gave me a direction in terms of what to do, immediately, as opposed to that weird situation where I would be reading his résumé trying to guess what to do as if I had to make a drawing in a blank piece of paper, lost if not going in arbitrary directions, such as asking him to fix one or other part. No, I sort of knew what to do. Right away I made a quick meeting with him and explained to him that his résumé had to start with something that the hiring manager would agree and understand. Now, as the SCqA would prompt us to offer Roberto as a result, the answer, to the audience, the method had positioned ourselves to be concerned with a the question to the audience as being "Should I hire Roberto?" And we also felt an idea to deal with that area of his apparent weakeness with a given skill, which was also a fact - no one would deny. Therfore with situation A being that Roberto had all the skills, and situation B being that Roberto had a lacking skill, the complication that we came up, quite fast to be honest and not suffering, had recognized the line of thinking of: is that missing skill a real problem. And following along, and respecting the audience in mind, we realized that the audience would likely wonder, in case Roberto were able to work on that skill, if he really wanted to do that. It turned out that the missing skill was an area that Roberto had an interest, and was even engaged in a course already. To the setting allowed us to address in the introduction the situation of "While I do not fulfil the skill, I am already workng on that," and if that wasn't enoough we even discussed the point, for a cover letter, where had indicated that skills will come and go but the willingness to learn is key. Now, at the end of our work, we also had the feeling that in case he would come to be invited to a conference, that the same seamless mechanism, direction by SCqA, would and could be used by Roberto to have more straight answers. If even joked that a busy HR person would more be happy to feel the logic in the communication and less judging the data given. Some weeks later Roberto had reported he passed and that it was a lot due to the method. Of course I sort of sensed but a humble thiking came along to respect that he was the actual value in all. Then I was invited to a party in his place before he had to move to another city, and in that party, a bit drunk, he told his friends that the method also helped him to give a good and clear answer in the interview. He gave me some of the credits but the real thanks went to Barbara Minto. That experience goes along with the line of "it might change your life" given by Michael Dearing.  
 
+### Do it responsibly 
 
+* The celebration that writing is not manipulative does justice first to the team, their time, and invites us to the structured and logical work of Barbara which gives to people an easier and structured way to deal with communication. Her approach is can be especially life-changing for entrepreneurs as they depend, interact, and need support from solutions-oriented audiences.  
 
-
-
-
-> *"I had the great privilege 25 years ago to spend three days with her while she coached me, rewriting a three page memo to Michael Eisner about why we should buy Winnie the Pooh for $850 million dollars. I fantasized that when I showed up to the workshop with her, she was going to read my draft and say, "Honey, I can't help you. You're already there." She calls me "Honey." I've heard her call other people "Honey," too. I'm OK with it. But I wish she would only call me "Honey." We spent three days together rewriting this memo and it was a frickin'work of art. She unlocked the door for me."* Michael Dearing (Heavybit, 2019) 
-
-
-### Conclusion 
 
 What can we make of about that thing that is all around? Is this an opportunity for another cry and rant about inductive forces all around us? Well, I wanted to celebrate that induction works, first. But my wish is that we make peace with inductive communication - and to use it responsibly. See, if I keep that last moment of rage, without flowing into these pages, I would perhaps not move on, not grasp a single learning, not take advantage in a conscious way that makes sense for entrepreneurs. This, I caught myself in a situation to bring justice, to the story, to put to the page which is in itself an act of reflective thinking - as Julia Cameron would recommend that too. Perhaps right there, although indeed what they were doing is not nice to people, that thing can be good for me, for us, an opportunity to reflect. Pehaps we can learn with them. Of course, not with the goal of tricking our audiences, with a goal of selling to them as a salesman that lies. But learn that induction is all around and that taming induction is a good investment; minimally so that we can better come out of trouble, to spot trouble. Pèrhasp the moments of trouble won't come in your way exacly like that as life is not always cheesy. 
 
 
 
-### Other points
-
-
-
-
-
-* What comes from that idea of - never touch the communication aspects - is that the idea of poor communication is never related to the actual how communication is conducted, it's mainly discussions abotu the cargo. The view from this angle, can take us in a long ride of not only a denial to the aspects of communication but into spending time, attention, interest, getting frustrated, burning our attention and effort to try to make sense of things, being busy only checking its cargo and not considering that the conduction can be rotten. 
-
-* set us to miss the opportunity of using it to achieve clear thinking, which puts us in a complex place of using communication without changing the underlying assumption as if each iteration is an effort to prove ideas with our own proofs - which can be recursive, or nonsensical - or as in one trying to solve communication needs not with one arm but with both arms tied behind their back.  
-
-* Moreover that the very mechanism of translating the systems-based, or value-based, propositions into the solution-oriented mindset, which is the case of these audiences, is the mechanism that helps them to make the value which is not quite ready to be value that is accepted by the ones that will use it. This is a big part of many aspects brought by Michael Dearing points given by his talk Executive Communication. 
 
 * according to Michael, "might change your life." It has changed mine, and has a lot to offer to entrepreneurs to help them to invest in communication, exactly because it works for systems-oriented professionals and, even better, that gives to them a structured path that connects value and where the targets of communications - such as investors, customers, you name it - will be glad, in the first place, to understand the communicative experiences, to follow through, in the first place. 
 
-* Now, this may seem complex because founders think that they know what they are doing, alfter all, they hold vision and the value. But what they can't initially fully grasp is that the interactions with the tests of communication - as indicated in the above section with customers, colleagues, engineers, experts that give feedback, partners, investors and other stakeholders - is the very element that helps them to achieve clarity which supports them to make their visions to fit into the world. 
+
+
+
+
+
+
+
+
 
 
 
