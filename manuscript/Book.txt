@@ -65,7 +65,7 @@
 
 ### Part 2, transactional communication 
 
-200/040_induction_embedded_everything.txt
+200/040_communication.txt
 
 ## Part 3 
 

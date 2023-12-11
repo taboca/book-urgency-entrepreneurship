@@ -1,4 +1,4 @@
-# Inductive communication and peace 
+# In peace with communication
 
 <!-- 
 
@@ -7,7 +7,11 @@
 * V2.3 - 
 
 * Referencia - 
- 
+
+## Todo 
+
+* p2 ( ), Induction and communication - Put William Zinsser "how to explain science topics" which aligns with Barbara Minto's case - Ref 3923848234-49023849038-9039409-03940930
+
 ## ScqA outline v0.3 
 
 * Subject - We should value communications, get it right, see the easy way in. 
@@ -35,10 +39,28 @@
 * kc - how - clarity achieving 
 * kc - how - do responsibly 
 
+## SCqA review v0.3 
+
+* Subject - Communication is misundertood among entrepreneurs, undervalued or overvalued, like it is persuave and manipulative or it is too complex to bother. The favoring for rationality makes entrepreneurs to use poor communication and miss opportunities, not to convince, but to engage others to collaborate, and to achive clarity for themselves too. Communication, such as persuasiveness, can be used honestly, can help the team to collaborate. 
+
+* Situation - People use writing, said or presented, to create change, to an audience. But the usage of communication in the urgent world, seems to evidence extremmes: Either communication to sell, such as convince; or a communication that ignores communication and overfocus in rational aspects, like proofs, where the data matters. 
+
+* Complication - Communication is misundertood and founders may dislike communications, as it may appear to be used to manipulate, favoring only data, proofs, prototypes, etc. And even if we see that it can be used honestly, seems to be confusing how to approach it as materials of communication might be serving urgent needs, such as to sell, to convince. 
+
+* Question/Answer - What to do? To be in peace, we need to see how and why we dismiss communication investment, why it matters for entrepreneurs, and how to proceed further investment, not because of marketing reasons but because of a rich process where communication serves the purpose of the audiences, starting with the team, but all the other stakeholders. 
+
+* Solution a - How we experience - We generally think undervalue communication, such as persuasiveness, if not to block ourselves of dealing with it, as evil, or manipulative, or it might be style. In front of communication, we rather focus on rational aspects.  Even poor communication can be also inclusive, can be a means to go find the problems, focus on the subject, go straight to rational aspects, like value. Plus, criticism for communication, again, can't do anything as management fears to judge the communication of some, such as harrasment, plus they don't know what to do as communication working for management does not seem to be real, so they don't do anything to help to communicate better in the right way. 
+
+* Solution b - Why it matters - Communication such as persuasiveness exists and is the grease of the rational engine. The lack of skill in the effective communication for audiences leads to overfocus in "supporting with data" which may in extremme cases lead to misleading with data. The growth aspects of the startup can't test and undertstand using narrative style, prefers organized solutions-oriented communication, which has to respect the audience's reason to be there, why it matters for them. 
+
+* Solution c - How to approach - With Executive Communication. The story of Barbara, SCqA, and how Barbara has 'cracked the code of communication, especially for executives. Overview of SCqA and why it has the mechanism that supports the team to organize communication (proposals, documents) with the reader/audience/stakeholder first, where the reader is considered solutions-oriented audiences. Focus that the work of logical communication first does justice to the team's need to achieve clarity, instead of convincing in arbibrary ways, or even with data. Reminder that the powerful mechanism of SCqA has to be used responsibly as it may persuade too. 
+
 ## SCqA review v0.2 
 
 * Subject - 
+
 * Situation - People use writing, said or presented, to convince. The urgency to close the gap makes the presenter to skip communication, and just use it, may add arbitrariness, and now help with clarity. Can be ignored by the audiences. 
+
 * Complication - Induction is misundertood, used inrresponsibly, or automatically, from a denial to consider that induction serves the purpose, to add clarity. 
 * Question - What to do? Continue to deny and present what is right, and responsible, by ignoring communication? As in all the time proving? 
 * Answer - The right is to be in peace with induction, respecting its purpose, and the process of transformation, and clarity, where one adds and build a good structure writing. 
@@ -53,11 +75,13 @@
 
 -->
 
+<!-- scqa: subject --> 
+
+The purpose of this section is to help entrepreneurs to invest in communication that is generally seen as persuative, which is often dismissed as being manipulative, often seen as too complex or too subjective, especially given that importance is given to the truths such as data. The lack of interest becomes a problem not only because being persuasive is important - it also prevents entrepreneurs to understand that communication can be persuasive, honest. Furthermore, that the process can be used to achieve clarity, and to support audiences to understand what is being told, more than to convince. 
+
 <!-- scqa: situation --> 
 
-The purpose of this section is to help entrepreneurs to invest in communication that is generally seen as persuative, which is often dismissed as being manipulative, often seen as too complex or too subjective, especially given that the important is given to the truths such as the data. This lack of interest becomes a problem not only because being persuasive is important but it prevents entrepreneurs to invest and understand that communication can be persuasive and honest, and furthermore that the process can be used to achieve clarity, and to support audiences to understand what is being told, more than to convince. 
-
-In the entrepreneurial setting, communication exists in cause change such as to get a proposal approved, to offer a viewpoint about a situation that needs attention, to explain how something works and how to use it, and more. Therefore, what we communicate serves to goals and driven to an audience. From there, we minimally ask their attention, if not engagement, it invites them to join, to collaborate, and more, such as when an entrepreneur asks for money from an investor. 
+In the entrepreneurial setting, communication exists to cause change, such as to get a proposal approved, to offer a viewpoint about a situation that needs attention, to explain how something works and how to use it, and more. Therefore, what we communicate serves to goals and driven to an audience. From there, we minimally ask their attention, if not engagement, it invites them to join, to collaborate, and more, such as when an entrepreneur asks for money from an investor. 
 
 But as the day goes by failing with communication is part of the duty. Through that, our audiences can be confused, objections are raised, like when an investor asks a founder to stop before they get to the point. While this is inconvenient, it is considered as a nuisance, it is acknowledged as legitimate. In other words, that what has to be told has to be told and if it isn't told in the right way then it is right to find a way around. In other words, it makes sense to accept the failures of communication because it matters more that it serves the rational setting of entrepreneurship. Thus, entrepreneurial communication rests in the intents where the results of the dynamics matters more, such as going after the truths to be uncovered, the problems that to be better explored. This approach is not only honest, it allows the conversation to happen, it is inclusive, and debatable. If this is not a reason to put a low priority for investing in quality of communication as a fear of failing with rationality and reason, if not projections of an evil act as in "wait, are you telling me that we need to write elegantly or persuasively to convince the audience?" 
 
@@ -75,22 +99,19 @@ it might be style - How it is experienced, it might be style, the deductive mind
 
 --> 
 
-One point to look, from one communication to another, has to do with how one does it. Some people do it with style. Some can do naturally do so well they don't even understand how they do. Some others struggle to put out their ideas with clarity. Others put a lot of work, and struggle, and nothing sticks. So a complication in the corporate work setting - likely perceived by the ones that are young with communication and does not control how the communication style or language of the machine works - is that they might see their voices being shut, not brutally, but mainly by the other voices that sounds more coherent especially under the urgency.  
+One point to look, from one communication to another, has to do with how one does it. Some people do it with style. Some can do naturally do so well they don't even understand how they do. Some others struggle to put out their ideas with clarity. Others put a lot of work, and struggle, and nothing sticks. So a complication with communication is that they might see their voices being shut, not brutally, but mainly by the other voices that sounds more coherent especially under the urgency.  
 
-But we all have experienced that sort of communication that seems persuative, or inductive, although we won't generally refer to that kind of communication as inductive. Nevertheless, it is all around. As I was having coffee before writing the draft for this article, I heard a person that were passing by as he was leaving a voice message to someone. He said "What did you think of my idea?" And right away added the note "although it is not the best solution, what do you think?". After that I couldn't hear more, and it was enough for me. He was seemed to be trying to add value to his point. The way he said was also part of the convincing mechanism. Or he knew that the other, on the other end, were likely to cut his idea and needed something the other could agree with. Perhaps he was trying to induce by presenting an implied reason, as if he had said "see, we won't have the time to pick the perfect idea now. Let's move on." And likely was hoping that the other end, in the urgency of the world, would agree with a yes and a let's go with that. 
+But we have experienced a kind of communication that seems persuative and all around. As I was having coffee before writing the draft for this article, I heard a person that were passing by as he was leaving a voice message to someone. He said "What did you think of my idea?" And right away added the note "although it is not the best solution, what do you think?". After that I couldn't hear more, and it was enough for me. He seemed to be trying to add value, perhaps taking care of a potential objection from the other end? And by doing so also inducting a supporting point like that says "See, we won't have the time to pick the perfect idea. Let's move on for now with this one." 
 
-Although the given illustration was too simple and not even to be considered a solid communicative experience, when we hear these fragments of communication in the average day, such as in the work setting, we can sense a hint of a communication that wants to be persuasive, that has all the intentions to convince, if not a hint of a type of communication that is wrong. And for many that see from that angle, they may set themselves to deny any investment further in communication. 
+Although the illustration is a fragment of a communicative experience, still these are the very fragments of our average day in the work setting that suggests the mechanisms of persuasivess, the intentions to convince, if not a hint of a type of communication that can be wrong by focusing in the appealing aspects for the audience and not the supporting aspects. 
 
+### Focus on analysis of content 
 
+Another illustration of this kind of communication can also serve to show a problem which happens with the critic of any communicative experience. And I was, again, caught on the side of the critic in this episode in supermarket, at the deli section which usually a place I care about the items because of my Italian origins. There, a lady were there to help and we were there to buy mozzarella cheese, we apparently needed about 7 ounces of it. But before we said the amount, she suggested that we buy the mozzarella that were pre-packaged, pre-sliced, that happeed to come with another 7 ounces of prosciutto. She added that by buying the combo the mozzarella would be cheaper. But we were also in a hurry, and not there to reason, to think, such as to reflect about the ways people communicate or even to pick ideas for a book. We were just there to buy the cheese. But I was there as a critic, and having entered in the mode of doing basic math, which is something I do when buying things. In a way or another, in a hurry or not, we seem to never ignore the math. Since I needed data, I asked her how much was the cost per pound for mozzarella alone - to which she said 25 Brazilian Reais and immediately added that the per-pound-cost for the combo was 18, therefore cheaper. Indeed, the basic math seemed to work and she also smiled and added that she was there to help. But then I asked about the per-pound-cost for the prosciutto to which she said to be about 13. At this point I fent confused that she didn't add that in the combo the prosciutto became 18. So being there, with no much to do and not too hungry, I've told her that she was selling he prosciutto at a higher price. She smiled and said again that she was there to help. But this time she also added that I could either accept the help or not. Being that the love of my life was also next to me, waiting, i had decided to keep the marriage, enjoy the Saturday, moved on, although I had to imagine myself kicking the shelf. We picked the pricey prosciutto with the cheaper mozzarella although we didn't want to buy prosciutto in the first place. I guess, we were too urgent to pause life right there, or perhaps pausing life seemed wrong. But, to note, on the side of the attendant, it was likely her job. 
 
-### Denial by analysis  
+This more elaborated fragment of a communicative experience not only shows the mechanism of communication when it does to to appeal to a potential need, or ugent need, of the audience; therefore a form of persuasiveness. But the it also shows that some people, perhaps like me, have a sort of defense mechanism in front of a communication, maybe is like to love and hate, to the kind of analysis that happens to be activated, where analysis for the communication happens with a relative involvement of fact-checking, such as the analysis I were doing, like calculating, when it also may happen a sort of fear of a communication that seems inductive.
 
-
-Now by being a natural-born no communicator, and being able to detect the machine seems inductive anyway ,and likely be mad with the usage, I happened to become a sort of translator of induction into deduction, which can be illustrated the work that I went through by the following situation in the supermarket. as I was in deli section, a lady promoted a product when we were to buy mossarela cheese. Apparently, as far as we knew it, we wanted 200g of mossarela. But before we said the amount, she interrupted us to suggest that we buy the mossarela that were pre-packaged by her (pre sliced and in a combo with prosciutto). She said that the cost, per gram, of that mossarela were less. Needless to say that we were in a hurry, right? We were not there to reason, to think, to get ideas for writing a book or reflecting about the ways people communicate with induction. We were apparently just there to buy mossarela. But I was there and confess having entered in the basic math which is something we do when buying. We never ignore the math, right? I asked her how much was the cost per kilogram of the mossarela alone to which she said 55 brazilian reals. And then she added that the cost per kilogram for the one in the package was 40. So, the basic math seems to work and she also added an inductive expression, with her face, and said that she was there to help. I then asked her what where the cost of the - needless to say cheap/poor quality - prosciutto that came in the package. She said that it was about 30 BRL (Brazilian Reais). The package was half plus half, and somehow I wasn't anymore there to buy but willing to see what was going on. And with another not so simple to do math, I figured that the price per kilogram in the combo package was just the expected average price. So, voila, she was offering 200g of mossarela at its normal price with a 200g of cheap-quality prosciutto in its normal price, although her was limited to the stress the fact that the mossarela was cheaper.
-
-At that point, I've told her that she was selling he prosciutto at a higher price. She smiled and said again that she was there to help and that I could accept her help or not. Being that the love of my life was also next to me, I imagined myself kicking the shelf of bread and we moved on. We picked the pricey prosciutto and the cheap mossarela although we didn't come to the deli section to buy prosciutto. I guess, we were too urgent to pause life right there, or perhaps pausing life seemed wrong, but on the side of the attendant, it was her job.  
-
-Nevertheless my job as not a communicator and not in peace with this kind of communication consisted in being calculating and to fear inductive communication like a super fast train. See, one thing is the train and the other is the cargo. When induction comes our way, it comes with a sound of a train and it prompt us to be on time, to react. If we don't have time to look at the interior of it, to see its cargo and the logic, then we might, even without noticing it, pay the ticket which might cost more as the impact of giving our attention to anything might cost more than the actual price we paid for anything. Watch out for free things, I fear the train. 
+See, one thing is the train and the other is the cargo. When induction comes our way, it comes with a sound of a train and it prompt us to be on time, to react. If we don't have time to look at the interior of it, to see its cargo and the logic, then we might, even without noticing it, pay the ticket which might cost more as the impact of giving our attention to anything might cost more than the actual price we paid for anything. Watch out for free things, I fear the train. 
 
 ### Favoring rationality 
 

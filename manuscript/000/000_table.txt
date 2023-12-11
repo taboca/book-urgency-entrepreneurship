@@ -1,5 +1,7 @@
 # Todo # 
 
+* p2 ( ) - Inductive communication - Put William Zinsser "how to explain science topics" which aligns with Barbara Minto's case - Ref 3923848234-49023849038-9039409-03940930
+
 * p2 ( ) - Inductive communication - Consider the notes from Adam Silva, about the language. Ref 42498492-4289489284-42984928-9248498
 
 * p1 ( ) Review 040_induction_embedded_everything, change the title of "Informação, Comunicação e Compreensão" to the English one / ref 4934934-43983985-39583958-5038538
