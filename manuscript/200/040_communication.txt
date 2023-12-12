@@ -107,17 +107,9 @@ Y Combinator. (2016, 25 de outubro). Marc Andreessen na Startup School SV 2016. 
 
 --> 
 
-
-
-
-
-
-
 ## Executive communication 
 
-Now, any further investment in communication would require a level of awareness to convince ourselves, our colleagues, and future entrepreneurs to join this boat. While we have seen reasons to not ignore, and ideas about how we lower the priority, still a problem to approach the subject is that a lot of resources about communication are oriented to marketing, such as to support positioning of messages, to present better, to improve sales, that sort of line. These invitations are too out of touch with the needs of entrepreneurs which contributes to further lack of interest. 
-
-To conclude, I think it is good to recognize the "Owl problem" pointed by Michael, that when the topic is communication, it is generally difficult to know how to draw the owl. 
+While we have seen reasons to not ignore, and ideas about how we lower the priority, still a problem to approach the subject is that a lot of resources about communication are oriented to the final product, such as to support positioning of messages, to present better, to sell better, that sort of line. This point of view are too out of touch with the needs of entrepreneurs which contributes to further lack of interest. 
 
 <!--
 
@@ -127,7 +119,7 @@ To conclude, I think it is good to recognize the "Owl problem" pointed by Michae
 
 --> 
 
-Fortunately, a responsible proposition exists for entrepreneurs. And here is where we turn our attention to the investor and professor Michael Dearing, of Harrison Metal [^footnote_harrisonmetal], especialy to his special talk entitled Executive Communication (Heavybit, 2019) where he had offered reasons and an overview of the remarkable work of Barbara Minto, Minto Pyramid Principle: Logic in Writing, Thinking, & Problem Solving. In this section, we ride along with Michael, to honor that what audiences expect becomes persuasiveness by aspects of communication such as clarity, structure, logic, and substance; and ... 
+Fortunately, a responsible proposition exists for entrepreneurs. And here is where we turn our attention to enlightening talk by Michael Dearing, of Harrison Metal [^footnote_harrisonmetal], entitled Executive Communication (Heavybit, 2019) where he introduced the remarkable work from Barbara Minto, The Minto Pyramid Principle: Logic in Writing, Thinking, & Problem Solving. As we will ride along with Michael, we shall start by acknowleding the complexity to approach the theme of communication. The problem, as illustrated by Michael, is like the meme known as "drawing the owl problem" where you get some initial instructions like "draw two circles" and then you are left with "complete the owl" situation. 
 
 [^footnote_harrisonmetal]: Instead of trying to describe the viewpoint from Harrison Metal's educational content for entrepreneurs, I took some of the phrases that are shown at the bottom of their web site: Harrison Metal is grateful for the business historians at Harvard Business School, Harrison Metal produces case studies to help businesspeople, Harrison Metal makes everything by hand. Sometimes it hurts, Harrison Metal likes when ideas from the past help us, Harrison Metal appreciates optimistic, frugal ambition, Harrison Metal thinks the best and worst of us live side by side, Harrison Metal thinks capitalism is a self-cleaning oven. Visit https://www.harrisonmetal.com/, enjoy the materials, and take time to say hello to Michael Dearing and his team. 
 
@@ -147,9 +139,7 @@ Heavybit. (2019, July 30). Executive communication w/ Harrison Metal [Video]. ht
 
 -->
 
-
-
-
+A more specific point of view is given in the preface of Barbara's book, where she wrote that when she started to research the material, she had discovered that a lot of books were focusing on how to write, and even said things like "Be logical" or "Have a logical outline," but didn't focus in organizing the thinking. Her discover, the pyramid, was the result of her quest to find out how to differentiate a logical outline from an illogical one. Her developments, different from many materials about communication, are special in the sense of presenting thinking in a more clear way, which is a much better invintation for entrepreneurs.  
 
 ### Cracking the code - Barbara's epiphany 
 
