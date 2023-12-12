@@ -109,19 +109,13 @@ Y Combinator. (2016, 25 de outubro). Marc Andreessen na Startup School SV 2016. 
 
 ## Executive communication 
 
-While we have seen reasons to not ignore, and ideas about how we lower the priority, still a problem to approach the subject is that a lot of resources about communication are oriented to the final product, such as to support positioning of messages, to present better, to sell better, that sort of line. This point of view are too out of touch with the needs of entrepreneurs which contributes to further lack of interest. 
+While we have seen reasons to not ignore, and ideas about how we lower the priority, still a problem to approach the subject as an arbitrary move to educate with communication can take one in arbitrary directions not in touch with the needs of entrepreneurs. Consider, for example, that a search for materials related to communication could possibly being about too many resources related to how to better communicate about a done product, such as to support positioning of messages, to present better, write better, to sell better, the sky is the limit. 
 
-<!--
-
-## todo 
-
-* p2 (Done, Barbara's SCqA ) Consider SCqA of Barbara Minto, a structured approach for making peace with induction; Not a random way. A way to go. Consider to bring the point that Barbara's approach is the way to solve induction and communication for business folks - the case of the owl according to Michael Dearing.  / ref 2984284982-492849284-2948298492-429842984922
-
---> 
-
-Fortunately, a responsible proposition exists for entrepreneurs. And here is where we turn our attention to enlightening talk by Michael Dearing, of Harrison Metal [^footnote_harrisonmetal], entitled Executive Communication (Heavybit, 2019) where he introduced the remarkable work from Barbara Minto, The Minto Pyramid Principle: Logic in Writing, Thinking, & Problem Solving. As we will ride along with Michael, we shall start by acknowleding the complexity to approach the theme of communication. The problem, as illustrated by Michael, is like the meme known as "drawing the owl problem" where you get some initial instructions like "draw two circles" and then you are left with "complete the owl" situation. 
+Fortunately, a proposition exists and does justice to the needs of serious communicators, which is the condition of entrepreneurs. And here is where we turn our attention to enlightening talk from Michael Dearing, of Harrison Metal [^footnote_harrisonmetal], where he stresses not only the importance of communication in management and entrepreneurship but guide us in the right direction. In this talk Executive Communication (Heavybit, 2019), Michael introduces the remarkable work of Barbara Minto, available as a book, entitled The Minto Pyramid Principle [^footnote_barbara_pyramid]. 
 
 [^footnote_harrisonmetal]: Instead of trying to describe the viewpoint from Harrison Metal's educational content for entrepreneurs, I took some of the phrases that are shown at the bottom of their web site: Harrison Metal is grateful for the business historians at Harvard Business School, Harrison Metal produces case studies to help businesspeople, Harrison Metal makes everything by hand. Sometimes it hurts, Harrison Metal likes when ideas from the past help us, Harrison Metal appreciates optimistic, frugal ambition, Harrison Metal thinks the best and worst of us live side by side, Harrison Metal thinks capitalism is a self-cleaning oven. Visit https://www.harrisonmetal.com/, enjoy the materials, and take time to say hello to Michael Dearing and his team. 
+
+[^footnote_barbara_pyramid]: See Minto, B. (1996). The Minto Pyramid Principle: Logic in Writing, Thinking, & Problem Solving. Minto International, for a detailed exploration of structured communication and clear thinking methodologies. This work introduces the SCQA framework and is a key resource for managers and professionals aiming to enhance their decision-making and communication skills.
 
 <!-- 
 
@@ -139,7 +133,11 @@ Heavybit. (2019, July 30). Executive communication w/ Harrison Metal [Video]. ht
 
 -->
 
-A more specific point of view is given in the preface of Barbara's book, where she wrote that when she started to research the material, she had discovered that a lot of books were focusing on how to write, and even said things like "Be logical" or "Have a logical outline," but didn't focus in organizing the thinking. Her discover, the pyramid, was the result of her quest to find out how to differentiate a logical outline from an illogical one. Her developments, different from many materials about communication, are special in the sense of presenting thinking in a more clear way, which is a much better invintation for entrepreneurs.  
+As we embark in Executive Communication, with Michael and Barbara, let us first acknowledge the complication that Barbara set herself to solve. As indicated in the preface of her book, her work had developed after she realized that a lot of books were focusing on how to write, and even said things like "Be logical" or "Have a logical outline," but didn't focus in organizing the thinking that were required to make sentences, paragraphs, and ideas, to be logical. Her discovery, the pyramid, was the result of the effort to find out how to differentiate a logical outline from an illogical one. In Michael's talk (2019), he had humorously illustrated - showed the "Draw the Owl" meme - the sad reality of how lost one would be when trying to learn about communication: 
+
+![Draw the Own Meme](images/meme_draw_the_owl.jpg)
+
+[^footnote_meme_draw_the_owl]: The "Draw the Owl" meme consists of an illustration with humorous tone that shows the oversimplification of complex processes, such as guides. The meme has a two-panel image which is a drawing tutorial where, on the left, the image shows two circles, like the body of the owl and the head, with a supporting text indicating "Draw some circles." On the right, a detailed drawing of a whole owl is shown with suporting instructions as "Draw the rest of the fucking owl." 
 
 ### Cracking the code - Barbara's epiphany 
 
