@@ -151,9 +151,10 @@ Heavybit. (2019, July 30). Executive communication w/ Harrison Metal [Video]. ht
 
 -->
 
-As we embark in Executive Communication, with Michael and Barbara, let us first acknowledge the complication that Barbara set herself to solve. As indicated in the preface of her book, her work had developed after she realized that a lot of books were focusing on how to write, and even said things like "Be logical" or "Have a logical outline," but didn't focus in organizing the thinking that were required to make sentences, paragraphs, and ideas, to be logical. Her discovery, the pyramid, was the result of the effort to find out how to differentiate a logical outline from an illogical one. In Michael's talk (2019), he had humorously illustrated - showed the "How to Draw the Owl" meme - the sad reality of how lost one can be when trying to learn about communication: 
+As we embark in Executive Communication, with Michael and Barbara, let us first acknowledge the complication that Barbara set herself to solve. As indicated in the preface of her book, her work had developed after she realized that a lot of books were focusing on how to write, and even said things like "Be logical" or "Have a logical outline," but didn't focus in organizing the thinking that were required to make sentences, paragraphs, and ideas, to be logical. Her discovery, the pyramid, was the result of the effort to find out how to differentiate a logical outline from an illogical one. In Michael's talk (2019), he had humorously illustrated - showed the "How to Draw the Owl" [^footnote_meme_draw_the_owl] meme - the sad reality of how lost one can be when trying to learn about communication: 
 
-![Draw the Own Meme](images/300/meme_draw_the_owl.jpg)
+![Draw the Own Meme](images/300/meme-draw-the-owl.jpg)
+![Imagem do cupcake com pudem de leite condensado](images/second-layer-cake.jpg)
 
 [^footnote_meme_draw_the_owl]: The "Draw the Owl" meme consists of an illustration with humorous tone that shows the oversimplification of complex processes, such as guides. The meme has a two-panel image which is a drawing tutorial where, on the left, the image shows two circles, like the body of the owl and the head, with a supporting text indicating "Draw some circles." On the right, a detailed drawing of a whole owl is shown with suporting instructions as "Draw the rest of the fucking owl." 
 
