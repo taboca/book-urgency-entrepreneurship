@@ -1,80 +1,5 @@
 # In peace with communication
 
-<!-- 
-
-* Goal - good people are the ones that need to master inductive and structured communication 
-
-* V2.3 - 
-
-* Referencia - 
-
-## Todo 
-
-* p2 ( ), Induction and communication - Put William Zinsser "how to explain science topics" which aligns with Barbara Minto's case - Ref 3923848234-49023849038-9039409-03940930
-
-## ScqA outline v0.3 
-
-* Subject - We should value communications, get it right, see the easy way in. 
-* Situation - We dismiss communication, favor rationality. 
-
-* Complication - Overlook, force data, struggle, no idea
-* Complication - (change?) think it's marketing. 
-* Complication - (change?) miss that is logic, can do a service, honest, ethical  
-* Complication - (change?) miss structured helps with access growth 
-
-* GA - Why we ignore, Why matters, How to approach 
-
-* Ka - Why ignore - 
-* Ka - Why ignore - style, unknown, evil persuation, no substance 
-* Ka - Why ignore - favor rationality 
-* Ka - Why ignore - management can't help
-
-* kb - why matters - 
-* kb - why matters - grease
-* kb - why matters - abuse of data costs 
-* kb - why matters - growth and solutions oriented 
-
-* kc - how - 
-* kc - how - cracking the code 
-* kc - how - clarity achieving 
-* kc - how - do responsibly 
-
-## SCqA review v0.3 
-
-* Subject - Communication is misundertood among entrepreneurs, undervalued or overvalued, like it is persuave and manipulative or it is too complex to bother. The favoring for rationality makes entrepreneurs to use poor communication and miss opportunities, not to convince, but to engage others to collaborate, and to achive clarity for themselves too. Communication, such as persuasiveness, can be used honestly, can help the team to collaborate. 
-
-* Situation - People use writing, said or presented, to create change, to an audience. But the usage of communication in the urgent world, seems to evidence extremmes: Either communication to sell, such as convince; or a communication that ignores communication and overfocus in rational aspects, like proofs, where the data matters. 
-
-* Complication - Communication is misundertood and founders may dislike communications, as it may appear to be used to manipulate, favoring only data, proofs, prototypes, etc. And even if we see that it can be used honestly, seems to be confusing how to approach it as materials of communication might be serving urgent needs, such as to sell, to convince. 
-
-* Question/Answer - What to do? To be in peace, we need to see how and why we dismiss communication investment, why it matters for entrepreneurs, and how to proceed further investment, not because of marketing reasons but because of a rich process where communication serves the purpose of the audiences, starting with the team, but all the other stakeholders. 
-
-* Solution a - How we experience - We generally think undervalue communication, such as persuasiveness, if not to block ourselves of dealing with it, as evil, or manipulative, or it might be style. In front of communication, we rather focus on rational aspects.  Even poor communication can be also inclusive, can be a means to go find the problems, focus on the subject, go straight to rational aspects, like value. Plus, criticism for communication, again, can't do anything as management fears to judge the communication of some, such as harrasment, plus they don't know what to do as communication working for management does not seem to be real, so they don't do anything to help to communicate better in the right way. 
-
-* Solution b - Why it matters - Communication such as persuasiveness exists and is the grease of the rational engine. The lack of skill in the effective communication for audiences leads to overfocus in "supporting with data" which may in extremme cases lead to misleading with data. The growth aspects of the startup can't test and undertstand using narrative style, prefers organized solutions-oriented communication, which has to respect the audience's reason to be there, why it matters for them. 
-
-* Solution c - How to approach - With Executive Communication. The story of Barbara, SCqA, and how Barbara has 'cracked the code of communication, especially for executives. Overview of SCqA and why it has the mechanism that supports the team to organize communication (proposals, documents) with the reader/audience/stakeholder first, where the reader is considered solutions-oriented audiences. Focus that the work of logical communication first does justice to the team's need to achieve clarity, instead of convincing in arbibrary ways, or even with data. Reminder that the powerful mechanism of SCqA has to be used responsibly as it may persuade too. 
-
-## SCqA review v0.2 
-
-* Subject - 
-
-* Situation - People use writing, said or presented, to convince. The urgency to close the gap makes the presenter to skip communication, and just use it, may add arbitrariness, and now help with clarity. Can be ignored by the audiences. 
-
-* Complication - Induction is misundertood, used inrresponsibly, or automatically, from a denial to consider that induction serves the purpose, to add clarity. 
-* Question - What to do? Continue to deny and present what is right, and responsible, by ignoring communication? As in all the time proving? 
-* Answer - The right is to be in peace with induction, respecting its purpose, and the process of transformation, and clarity, where one adds and build a good structure writing. 
-* K1 - it might be style - How it is experienced, it might be style, the deductive mind seens investment in communication as lower, favors value towards what seems rational, logic, data - pulls them to focus on data. We can't see even the true induction, or abuse, if not waste or investment, by the insertion of data. 
-* k2 - the inductive machine - The machine is inductive anyway, don't be mad. We need to embrace, it's an inductive world and we need to be responsible to deal with it. Works for a fast track world, transactional, but still how to?
-* k3 - The logical horizon. 
-* v0.1 -  [ ScqA ] Induction is around, induction attracts. We derive that induction can be used arbitrarily, the complication, abuses. We need to watch out to not fall, and to not comply with; instead consider SCqA. 
-
-## Todo 
-
-* p2 ( ) - Inductive communication - Consider the notes from Adam Silva, about the language. Ref 42498492-4289489284-42984928-9248498
-
--->
-
 <!-- scqa: subject --> 
 
 The purpose of this section is to help entrepreneurs to invest in communication that is generally seen as persuative, which is often dismissed as being manipulative, often seen as too complex or too subjective, especially given that importance is given to the truths such as data. The lack of interest becomes a problem not only because being persuasive is important - it also prevents entrepreneurs to understand that communication can be persuasive, honest. Furthermore, that the process can be used to achieve clarity, and to support audiences to understand what is being told, more than to convince. 
@@ -91,7 +16,7 @@ But as we continue to ignore valuing communication, we continue to communicate i
 
 To support founders to find a reasonable way to value communication, not as a solution sell something ready, but in the direction of a tool to collaborate with the growth machine of solutions-oriented, we will first focus in how we dismiss, how we experience the dismissal and forces that may influence it. Then we will see why it matters, not only that communication exists anyway but how the abuse of communication might come from rational and poor communication, and why the folks that test, such as customers and investors, demands the other kind of communication. And third, we will experience a logical and structured way to advance to communiation, referred as Executive communication, which not only helps with solutions-oriented audiences but makes sense as a way to organize ideas thus works like a self-cleaning oven for improving the offering. 
 
-## How we dismiss 
+## Dismissing communication
 
 <!-- scqa: abstract 
 
@@ -105,25 +30,23 @@ But we have experienced a kind of communication that seems persuative and all ar
 
 Although the illustration is a fragment of a communicative experience, still these are the very fragments of our average day in the work setting that suggests the mechanisms of persuasivess, the intentions to convince, if not a hint of a type of communication that can be wrong by focusing in the appealing aspects for the audience and not the supporting aspects. 
 
-### Focus on analysis of content 
+### Busy with analysis
 
-Another illustration of this kind of communication can also serve to show a problem which happens with the critic of any communicative experience. And I was, again, caught on the side of the critic in this episode in supermarket, at the deli section which usually a place I care about the items because of my Italian origins. There, a lady were there to help and we were there to buy mozzarella cheese, we apparently needed about 7 ounces of it. But before we said the amount, she suggested that we buy the mozzarella that were pre-packaged, pre-sliced, that happeed to come with another 7 ounces of prosciutto. She added that by buying the combo the mozzarella would be cheaper. But we were also in a hurry, and not there to reason, to think, such as to reflect about the ways people communicate or even to pick ideas for a book. We were just there to buy the cheese. But I was there as a critic, and having entered in the mode of doing basic math, which is something I do when buying things. In a way or another, in a hurry or not, we seem to never ignore the math. Since I needed data, I asked her how much was the cost per pound for mozzarella alone - to which she said 25 Brazilian Reais and immediately added that the per-pound-cost for the combo was 18, therefore cheaper. Indeed, the basic math seemed to work and she also smiled and added that she was there to help. But then I asked about the per-pound-cost for the prosciutto to which she said to be about 13. At this point I fent confused that she didn't add that in the combo the prosciutto became 18. So being there, with no much to do and not too hungry, I've told her that she was selling he prosciutto at a higher price. She smiled and said again that she was there to help. But this time she also added that I could either accept the help or not. Being that the love of my life was also next to me, waiting, i had decided to keep the marriage, enjoy the Saturday, moved on, although I had to imagine myself kicking the shelf. We picked the pricey prosciutto with the cheaper mozzarella although we didn't want to buy prosciutto in the first place. I guess, we were too urgent to pause life right there, or perhaps pausing life seemed wrong. But, to note, on the side of the attendant, it was likely her job. 
+Another illustration of this kind of communication can also serve to show a problem which happens with the critic of any communicative experience. And I was, again, caught on the side of the critic in this episode in supermarket, at the deli section which usually a place I care about the items because of my Italian origins. There, a lady were there to help and we were there to buy mozzarella cheese, we apparently needed about 7 ounces of it. But before we said the amount, she suggested that we buy the mozzarella that were pre-packaged, pre-sliced, that happeed to come with another 7 ounces of prosciutto. She added that by buying the combo the mozzarella would be cheaper. But we were also in a hurry, and not there to reason, to think, such as to reflect about the ways people communicate or even to pick ideas for a book. We were just there to buy the cheese. But I was there as a critic, and having entered in the mode of doing basic math, which is something I do when buying things. In a way or another, in a hurry or not, we seem to never ignore the math. Since I needed data, I asked her how much was the cost per pound for mozzarella alone - to which she said 25 Brazilian Reais and immediately added that the per-pound-cost for the combo was 18, therefore cheaper. Indeed, the basic math seemed to work and she also smiled and added that she was there to help. But then I asked about the per-pound-cost for the prosciutto to which she said to be about 13. At this point I fent confused that she didn't add that in the combo the prosciutto became 18. So being there, with no much to do and not too hungry, I've told her that she was selling he prosciutto at a higher price. She smiled and said again that she was there to help. But this time she also added that I could either accept the help or not. Being that the love of my life was also next to me, waiting, i had decided to keep the marriage, enjoy the Saturday, moved on, although I had to imagine myself kicking the shelf. We picked the pricey prosciutto with the cheaper mozzarella because, I guess, as we weren't there to fully pause the movie of life. Needless to observe is that the attendant would be likely following her job, equally in urgent mode, likely following orders. 
 
-This more elaborated fragment of a communicative experience not only shows the mechanism of communication when it does to to appeal to a potential need, or ugent need, of the audience; therefore a form of persuasiveness. But the it also shows that some people, perhaps like me, have a sort of defense mechanism in front of a communication, maybe is like to love and hate, to the kind of analysis that happens to be activated, where analysis for the communication happens with a relative involvement of fact-checking, such as the analysis I were doing, like calculating, when it also may happen a sort of fear of a communication that seems inductive.
+This more elaborated fragment of a communicative experience shows a mechanism of a communication that exists to serve a potential need, like an urgent need, with an the audience. Therefore, take aside right or wrong, it has to do with persuasiveness. But it also shows that there are situations when some of us may wear a hat, like me, where we engage a defense mechanism against a potentially evil communication, where the math matters, where fact-checking matters, which involves a process of checking if what was said which sounds coherent comes with data that supports. 
 
-See, one thing is the train and the other is the cargo. When induction comes our way, it comes with a sound of a train and it prompt us to be on time, to react. If we don't have time to look at the interior of it, to see its cargo and the logic, then we might, even without noticing it, pay the ticket which might cost more as the impact of giving our attention to anything might cost more than the actual price we paid for anything. Watch out for free things, I fear the train. 
+Now, the point to be made is that when doing that we might in fact favor rationality, favor the fact-checking aspect. It is not to say that we ignore communication and the aspects of coherence. We do recognize it, and in fact may do so quite well, like we recognize when that sort of train comes, on time, when the sound of induction comes our way, like the sound of a train arriving which prompts us to enter it. But as we do so, we also tend to see if it carries the cargo, if value has in its wagons. In other words, the more we see fast trains of thought carrying useless cargo, the more we are inclined to engage in the - quite needed process of - analysis which suggest to us that communication aspects, the train, is not as important, that can be secondary. 
 
-### Favoring rationality 
+### Rationality matters 
 
-Moreover, Therefore, some people might be go away from being persuasive as for them it adds nothing or that they might fear to be tricking themselves, misleading themselves, that they are being others perhaps even linked to that figure of a salesman that is in hurry to convince. But even if we consider to elaborate further a proposition for inductive communication as a kind that has a lot more to offer and that can be done seriously, the consideration is yet a problem for many people. A big reason might happen for the folks that are creators, makers, engineers, and whoever looks at things from a rational and logical, or a systems-oriented perspective. These folks may see themselves as the brains and originators of ideas. They love deduction, they love to prove, they love to come up with the map, such as a map based on structured ideas, on truths, on their discoveries. Of course, they love to to express their ideas, and they do know that they want to put their ideas out in front of audiences, and they know that they need to get buy-in from them, minimally attention, and seeking support from these audiences. But still, they rather use their precious time to focus in the supporting elements, like the values and the truths, the gems that makes ideas to grow into good ideas and potential solutions. 
+Now, if people go away from being persuasive, they might do so with an inclination that it adds nothing, if not it could be an investment misleading themselves. One in that position could fear to look like the picture of that salesman in hurry to convince and that disregard value. But even if they consider to invest in communication with an idea to use it responsibly, still it might be a problem with folks like creators, makers, engineers, and whoever looks at things from a logical, or a systems-oriented perspective. These folks may see their roles as being supporters, responsible for the actual cargo, the values, what matters. They might also love deduction, to prove, to come up with the how to map, to work with more logical and structured ideas, to fill out the details with truths, and the like. Of course, they love to to express their ideas, and they do recognize the importance of being able to put their ideas in front of audiences in a way that make sense. But still, they rather use their precious time to focus in the inner works, or inner proofs, and the supporting elements like the values and the truths, the gems that makes ideas to be recognized as good ideas and solutions. 
 
-Therefore, there are the substance, truths, or data, which are indeed the parts, or the gears, of the work machine; and while an acknowledgement that communication is a grease required that makes everything moving smoothly, still we can live without it. In other words, that deductive-oriented mindset knows that while they are the curators behind the scenes making the bits and pieces that runs, and they are dependent anyway of that kind of grease; and, to their happiness, and sometimes frustation, they depend on folks that can translate what they have to offer. But they continue to do what they do by proving. 
+Therefore, while there is an acknowledgement that focusing in communication helps with the grease required that makes everything moving smoothly, still higher importance is given to the works for things like substance, truths, or data, which are the gears of the working machines. In other words, their job becomes the duty of trying to convince the communication folks, the translators. And as they focus a lot on trying to prove things, when they win an acknowledgedment, they can get so excited that it all makes sense, which contributes even more to ignore the possibility that they didn't needed to show as much to prove if they had worked better in the actual communication. In other words, when proof is given to a point that the magic click happens, such as "Now I got and thanks for the prototype," a potential for a post-mortem analysis for how communication happens is dead. 
 
-What comes from that idea of - never touch the communication aspects - is that the idea of poor communication is never related to the actual how communication is conducted, it's mainly discussions abotu the cargo. The view from this angle, can take us in a long ride of not only a denial to the aspects of communication but into spending time, attention, interest, getting frustrated, burning our attention and effort to try to make sense of things, being busy only checking its cargo and not considering that the conduction can be rotten. 
+Now, there are many reasons why to focus first in value, second in communication, and it is generally quite valid. One other example might have to do understanding that the roles that focus more on coherence, the ones concerned with the audience and interested in persuading them, might not generally understand what is up and coming, such as what is new and innovative. A major reason for that is that these folks are too tied with the needs of the audiences, thus they can be representative of the market needs, be pressured by the market. Thus, given that what is outstanding might not be yet fully meaningful to the audience, the role of the expert communication would either not get it or force the offering to be appealing, which can be seen by the one working in the value to be a not so honest movement. This might be yet another reason supporting the lack of interest in communication, keeping the doers to believe in what they believe without changing the underlying assumption - supported by an unshakable faith - which sets them to try to solve communication needs not with one arm but with both arms tied behind their back.  
 
-Plus, any approach of expression that offers coherence might be also used to express coherence to older ideas. I wonder if the realization of that would push anyone to integrate that the investment in that skill, such as to achieve expertise persuasive communication, to be a bad direction too. As in when it set us to miss the opportunity of using keep using communication without changing the underlying assumption, as if each iteration is an effort to prove ideas with our own proofs - which can be recursive, or nonsensical - or as in one trying to solve communication needs not with one arm but with both arms tied behind their back.  
-
-### Management critics can't help  
+### Managerial ignorance  
 
 <!--
 
@@ -134,17 +57,15 @@ Plus, any approach of expression that offers coherence might be also used to exp
 --> 
 
 
-As an aside of the corporate setting, no one tells the writer-doer, the subordinate, that they are being observed under the frames that failing is okay, that their ability to grow with communicative experiences is an opportunity, that they could use writing, and fail, and fail, to learn, to achieve clarity of ideas. Although the executive level, such as the CEO or a anyone in a level of maturity, are in a good position to recognize that as a truth, it is rarely being told. It maybe so due to fear, such as fear that talking about one's writing, or one's communication, would offend or sound like harassement. which goes without saying that adults, or more senior people, are not good critics, that they grew up in a society where they would - in case they expose their criticism - do more in terms of criticizing with an orientation to the eyes of their maturity levels, such as involving the prism of expecting outcomes, which would naturally bring about the sort of product or market oriented critics, not the critics that promotes learning and advancement, which would be considered for them not even a critics, but more like mentorship. Their level, their position, the the moment where a potential willingness to be a critic comes about, is not even a moment for educating, for motivating, for looking at potential value. It's more like a review to avoid risks. Then, with that, nothing is done. You are on your own. 
+Now, in the corporate setting, no one tells the writer-doer that they are being observed that they are failing with communication, that their failures are okay, that they can invest and grow with communicative experiences, that they could fail, and fail, and learn, and improve their communication skills, such as to achieve clarity and to be able to communicate better with their colleagues and audiences. Although the executive level, such as the CEO or a anyone in a senior position, are in a good position to recognize that as a truth, it is rarely told to the doers. It maybe so due to fear, such as fear that talking about one's writing, or one's communication, would offend or sound like harassement. 
+
+Another aspect, that the process is more collaborative, and that the communication will rise anyway. Thus, in the face of any potential side impact of the focus in works towards value, or valuing arguments more than coherence, which takes a long ride - as we can be spending time, attention, interest, getting frustrated, burning our attention and effort to try to make sense of things - it is generally taken as the cost and where collaboration happens. 
+
+Still, yet another role of management, to favor ignoring, goes by the fact that more senior people, are not good critics to support communicative experiences, that they grew up in a society where they would - in case they expose their criticism - do more in terms of criticizing with an orientation to the eyes of their maturity levels, such as involving the prism of expecting outcomes, which would naturally bring about the sort of product or market oriented critics, not the critics that promotes learning and advancement, which would be considered for them not even a critics, but more like mentorship. Their level, their position, the the moment where a potential willingness to be a critic comes about, is not even a moment for educating, for motivating, for looking at potential value. It's more like a review to avoid risks. Then, with that, nothing is done. You are on your own. 
 
 In other words, the idea that the act of putting it out is part of the writing process, of a process to achieve clarity, is not part of the life of work. In other words, the tendency, and the urge to force writing, said or presented, to serve the end, set us in the wrong focus, that set us to not think of writing as yet another iteration, as if written things were micro products, to be judged, and if that is not enough of a complication, worse it maybe for the doers under the no option situation. In other words, in the end of the day, as writing yet generates tensions (out of its failures, the urges to force, as it pulls objections, as it motivates judgements) the doer gets frustrated, angry, and even worse, that by the nature of work, they can only find one direction which is to add more data, more gems, and to bundle that into what is bring delivered. Thus, by that urge to add value, they not only miss the opportunity to see writing as an opportunity to achieve clarity - as if it is a mean to learn, to be vulnerable, to find actual value - but they add data that convinces too by the excess of value, which can be wasteful, if not evil. 
 
-
-
-
-
-
-
-## Why it matters 
+## Unavoidable 
 
 ### The grease  
 
@@ -152,7 +73,7 @@ Back in the Silicon Valley days I had an opportunity to get an overview of a kin
 
 That was a prelude to a big lesson which I could not grasp at the time. But I sort of knew what he did. The real thing I didn't see is that the event was remarkable in my life but remarkable in a bad way which had prepared my investment towards communication, unfortunately, to be stuck in terms of investing. In other words, I wasn't in peace with with using induction, or inductive communication, because that way of communication seemed to be a deal breaker, or deal maker. Perhaps I have seen that in my whole life - in a way or another - but it was too brute to see a manager in a place which I thought as special - Silicon Valley the open book of opportunities. And, to be fair, perhaps implied in what happened that day was the fact that I did my part too - that what I tried to say had paved the way for that manager to bring some equilibrium to the meeting. In other words, in his defense, I started and he reacted in a way to be optimial, perhaps a pragmatic way. Well but for me that was an ugly case and it took ke decates to be in peace and find an enlightened way to grasp inductive communication, in a good way, and in a responsible way. 
 
-### Evil data 
+### Data can be evil 
 
 These are the folks that can actually transform their solid ideas in solid proposals that can get accepted. BUt then under the condition of being certain that they can't focus in persuading, they are left with the tools they have. Therefore, they can use critical thinking, and logic, and do the design work, and research, and find data. 
 
@@ -162,7 +83,7 @@ But more than the harm to the business, is that the devotion towards being funct
 
 Therefore, the systems-oriented folks enter the induction game too, at another level, by overfocusing in trying to make their paintings to stand, such as my using an excessive amount of nails. Now, if they minimize their willingness to put mails, they are to face the "yet another test" against all the external folks they need help. It's a balance. 
 
-### Growth is solutions-oriented   
+### Growth 
 
 <!-- scqa: k "it might be style" k1.k1
 
