@@ -129,11 +129,13 @@ Therefore, looking from this angle, that tests are happening, working in communi
 
 ## Executive communication 
 
-While we have seen ideas for how communication is generally ignored, and reasons for why it matters, still it is a problem when we feel inclined to develop this area in a way that is tuned to the needs of entrepreneurs. Fortunately, a direction exists and does justice to the need for using communication to serve the purpose of growth - in the whole sense, for the communication with cofounders, colleagues, customers, investors, and more. 
+While communication is generally dismissed, and while there are consequences of doing so, yet entrepreneurs still not care if they don't have a solid proposition to move forward. In other words, the situation requires a model that does justice to entrepreneurial needs where communicative experiences can be effectively used accross the stages of growth, as the team communicates with a range of audiences like themselves, customers, investors, and more. 
+
+Fortunately, an enlightening approach exists to help entrepreneurs to manage communications. With that, I welcome you to the theme of Executive Communication (Heavybit, 2019), where we will be guided by Michael Dearing, of Harrison Metal [^footnote_harrisonmetal], and get to know remarkable work of Barbara Minto, the author of The Minto Pyramid Principle (2016) [^footnote_barbara_pyramid]. 
+
+This the brief journey ahead is less of a guide and more of overview for a new paradigm. What Michael asks us to celebrate, and what Barbara set herself to solve, is exactly about solving the complication with learning communications where a lot of materials do not help communicators to organize the thinking required. In Michael's talk (2019), he had illustrated the complication with a meme known as "How to Draw the Owl" [^footnote_meme_draw_the_owl] which does justice to the sad reality of one trying to learn about communication: 
 
 [^footnote_harrisonmetal]: Instead of trying to describe the viewpoint from Harrison Metal's educational content for entrepreneurs, I took some of the phrases that are shown at the bottom of their web site: Harrison Metal is grateful for the business historians at Harvard Business School, Harrison Metal produces case studies to help businesspeople, Harrison Metal makes everything by hand, Sometimes it hurts, Harrison Metal likes when ideas from the past help us, Harrison Metal appreciates optimistic, frugal ambition, Harrison Metal thinks the best and worst of us live side by side, Harrison Metal thinks capitalism is a self-cleaning oven. Visit https://www.harrisonmetal.com/, enjoy the materials, and take time to say hello to Michael Dearing and his team. 
-
-And here is where we turn our attention to an enlightening talk - Executive Communication (Heavybit, 2019) - from Michael Dearing, of Harrison Metal [^footnote_harrisonmetal], and the remarkable work of Barbara Minto, available as a book entitled The Minto Pyramid Principle (2016) [^footnote_barbara_pyramid]. Before we embark with them towards Executive Communication, let us celebrate the challenge that Barbara set herself to solve, as she realized that a lot of books which were focusing on how to write, concerned with things like "Be logical" or "Have a logical outline," didn't do anything to help communicators to organize the thinking required to make sentences - or paragraphs and ideas - to be logical. Her discovery, the pyramid, was the result of her effort to find out how to differentiate a logical outline from an illogical one (1996). In Michael's talk (2019), he showd the meme known as "How to Draw the Owl" [^footnote_meme_draw_the_owl] which does justice to the sad reality of one trying to learn about communication: 
 
 [^footnote_barbara_pyramid]: See Minto, B. (1996). The Minto Pyramid Principle: Logic in Writing, Thinking, & Problem Solving. Minto International, for a detailed exploration of structured communication and clear thinking methodologies. This work introduces the SCQA framework and is a key resource for managers and professionals aiming to enhance their decision-making and communication skills.
 
@@ -166,7 +168,7 @@ Heavybit. (2019, July 30). Executive communication w/ Harrison Metal [Video]. ht
 
 --> 
 
-In this section, I will take you through a story of how Barbara took herself in the direction to "crack the code" of communication. Although you could jump to the next section to get some other points about the how-to, I do think that the story of Barbara, her life journey and the struggles, is key into understanding the viewpoint that matters for founders and the entrepreneurial situation. Part of this viewpoint can be observed from her motivations:  
+Now, the story of how Barbara led herself in a journey to "crack the code" of communication, helps to to the understand for how we overlook communications: 
 
 > *"Interestingly, when I began researching materials on report writing, I discovered that while there were an enormous number of books on how to write better sentences and paragraphs, there were no books on how to organize the thinking those sentences and paragraphs are meant to convey."* (Minto, 1996, Preface).
 
@@ -178,42 +180,31 @@ Minto, B. (1996). The Minto Pyramid Principle: Logic in Writing, Thinking, & Pro
 
 --> 
 
-Barbara's quest also originated from her experiences as a student. As Michael mentioned in his talk, Barbara was among the first 20 women admitted to Harvard Business School in the late 1950s. At that time, the school was 55 years old and already considered top-tier. Additionally, this first group of women were set in a more traditional lecture style in a separate classroom from the men. Therefore, Barbara was in a special section with her nine other colleagues. In addition, they were informed that if they finished in the top 10%, they could earn a spot alongside the men, across the river, in the next year. Adding to the challenge, Barbara's subject was macroeconomics. Plus, her last math class was 12th-grade.
+But such interest and viewpoint had origins from Barbara's unique perspective long before she happen to be working to come up with a good theory. As Michael mentioned, Barbara was among the first 20 women admitted to Harvard Business School in the late 1950s. At that time, the school was 55 years old and already considered top-tier. Additionally, this first group of women were set in a more traditional lecture style in a separate classroom from the men. Therefore, Barbara was in a special section with her nine other colleagues. In addition, they were informed that if they finished in the top 10%, they could earn a spot alongside the men, across the river, in the next year. Adding to the challenge, Barbara's subject was macroeconomics. Plus, her last math class was 12th-grade.
 
 When I watched that segment, I pondered the extremes: one to proceed to abandon everything, or, perhaps like the the man of Harvard of the time, to proceed to engage with the day's battles. But that wasn't Barbara's anyway. When Michael asked her, "What did you do?" she told him that as she began preparing notes from the textbook, she became angry. She told him that "It was so badly written. This person who wrote this textbook was keeping me from understanding this cool topic." (Heavybit, 2019). 
 
-Now the watching of that talk also took me back to my own days in the university when I was studying Computer Science in Brazil in a well-regarded top-tier university. Most of us students knew that things were hard. We would never know what we would find ahead of us when the matter was to learn topics like math. We knew the amount of hours for the lectures but the unknowing of what it takes to learn - on the side - was frightening. So while I felt thoughts of suspiction about the ways the materials were given and written, and the struggles and confusion with no horizon ahead of all challenges, on the other hand what I had was the authority of the system which was too strong, hard professors, hard materials, hard work. All that against the image where students were lazy. Plus I was lazy. Now, looking in retrospect, I could not say I were in front of confusing things keeping me from understanding topics. What we could tell, though, was that a handful of professors and authors seemed to be very good at explaining things which made us like the topics. There were exceptions. 
+Now the watching of that talk also took me back to my own days in the university when I was studying Computer Science in Brazil in a well-regarded top-tier university. Most of us students knew that things were hard. We would never know what we would find ahead of us when the matter was to learn topics like math. We knew the amount of hours for the lectures but the unknowing of what it takes to learn - on the side - was frightening. So while I felt thoughts of suspiction about the ways the materials were given - or written - these thoughts were clouded by the storms of authority of a system that was too hard, with hard professors, and hard materials, where hard work was the way to survive. All that against the image that students were lazy. Plus, I was lazy. Now, looking in retrospect, I can't say I were in front of confusion through the things, as in if the materials were keeping me from understanding the cool topics. What we could tell, though, was that a handful of professors and authors were actually good at explaining things which made us learn the topics. These were exceptions. 
 
-But back to Barbara's day, her reaction was at another level. She went further and faced the battle from a different angle. According to Michael (Heavybit, 2019), she "rewrote it, line by line, paragraph by paragraph, page by page, until she could teach the basic concepts of macroeconomics to her colleagues in the section." And that is part of Barbara's story of how she took herself into a path that took her to crack the code of executive communication: 
+But back to Barbara's day, her reaction were different - she faced the battle from a different angle. According to Michael, she "rewrote it, line by line, paragraph by paragraph, page by page, until she could teach the basic concepts of macroeconomics to her colleagues in the section" (Heavybit, 2019). And that is part of the origins of the story led her to crack the code of executive communication:  
 
 > *"I worked at the Walt Disney Company for a man named Michael Eisner when he was CEO, and his deep religious conviction was that Barbara Minto had cracked the code on executive communication. He's not alone. If you go around the world and you talk to the most accomplished executive communicators, they are practicing a version of her framework called the Pyramid Principle"* Michael Dearing (Heavybit, 2019)
 
 For me, as far and up to when I had found Barbara's work, I kept moving on generally looking at the things written wearing goggles where most written things were right. Therefore, putting myself into the battle with the subject, taking myself straight into the effort to assemble the puzzles, blaming myself for when things would not work, living the tension, or frustrations, through the misunderstandings, but more importantly and quite sadly, generally never paying attention to the fact that a lot of the struggle could have to do with the texts, that I wasted energy, time, being confused by the text, and worse, blaming myself. 
 
-In the next section, we continue our journey to value the direction of Barbara's work that "might change your life," as Michael would say. 
-
 ### Searching for clarity 
 
-As you will recall from the section about growth, communication wants change, by its interactions with the audiences, like stakeholders, cofounders, customers, and anyone else in the path for growth. On the other hand, you will also recall the problem of overfocusing in the arguments, and reasons, such as when the team prioritizes going after data, collecting evidence, coming up with proofs, if not even constructing systems. Because the sky is the limit, I will simplify and call it *Data*.
+As you will recall from the section about growth, communication by its interactions with audiences - like stakeholders, cofounders, customers, and anyone else in the path for growth - exists to cause change. On the other hand, you will also recall the situation of overfocusing in the arguments, and reasons, such as when the team prioritizes going after data, collecting evidence, coming up with proofs, if not even constructing systems. Because the sky is the limit, I will simplify and call it *Data*.
 
-The question is, if the team favors *Data*, still it mean that the interaction with the audience will be effective? Imagine a team that builds and shows a prototype and a customer said "that is cool." Now, even if some customers like it, it still does not solve the needs of an investor as she might be interested in the business model, in the growth potential, any risks involved, if the team can productize the real version, and more. Now, a fair consideration must be made, that if this situation were real, such objection could be dismissed by the saying that "this is a problem we all want to have," which is a short version that acknowledges that the investor further interest has happened after the investor's recognigtion of the success with the customer.  
+The question is, if the team favors *Data*, it means that the interaction with the audience will be effective? Imagine a team that builds and shows a prototype and a customer said "that is cool." Now, even if some customers like it, it still does not solve the needs of an investor as she might be interested in the business model, in the growth potential, any risks involved, if the team can productize the real version, and more. Now, a fair consideration must be made, that if this situation were real, such objection could be dismissed by the saying that "this is a problem we all want to have," which is a short version that acknowledges that the investor further interest has happened after the investor's recognigtion of the success with the customer.  
 
 Likewise, it is also fair to consider that the team's interest in building, and creating supporting arguments, wasn't a full intention to prove but that their affairs with *Data*. Inteas, it had more to do with their intents to fulfil the demands of good arguments and good reasons, in the hope is that a better communication would emerge. 
 
-Therefore, as far as communication goes, the inclination towards the *Data* has less to do with the team's intent to gamble by betting on data - in the hope is that the audience will get - and more to do with the team's intent in improving or achieving clarity. Which is, to be fair, an example of collaboration. Therefore, if gambling is nothing like the self description of what entrepreneurs do when they come up with *Data*, then by the nature of the iterative and interactive process, more fairly we can say that these affairs are part of the process to search for clarity. 
+Therefore, if gambling is nothing like the self description of what entrepreneurs do when they come up with *Data*, then by the nature of the iterative and interactive process, more fairly we can say that these affairs are part of the process to search for clarity.  Which is, to be fair, an example of collaboration. 
 
-An observation from Peter Drucker, which identifies the struggle with writing, helps us to visualize that the effort that a team puts to improve their communication is indeed not related to what people normally call communications: 
+Now, this situation for searching for clarity in communicative experiences is also a struggle that happens if one approaches the other end, such as the attempt to go straight to the writing job. The following observation from Peter Drucker identifies that the problem of achieving clarity is not regarded as the problem with what people normally call communications: 
 
 > *"There is a very old saying among writers: 'Difficulties with a sentence always mean confused thinking. It is not the sentence that needs straightening out, it is the thought behind it. In writing we attempt, of course, to communicate with ourselves. An unclear sentence is one that exceeds our own capacity for perception. Working on the sentence, that is, working on what is normally called communications, cannot solve the problem. We have to work on our own concepts first to be able to understand what we are trying to say - and only then can we write the sentence."* (Drucker, 2011, p. 6)
-
-<!-- 
-
-## todo 
-
-* p1 ( ) Review 040_induction_embedded_everything, change the title of "Informação, Comunicação e Compreensão" to the English one / ref 4934934-43983985-39583958-5038538
-
---> 
-
 
 <!-- 
 
@@ -223,13 +214,27 @@ Drucker, P. (2011). Technology, management, and society. Routledge.
 
 --> 
 
-Now, as entrepreneurs don't want to waster their time gambling with data, and likewise not waste their time straightening out the communications as generally called, then they may rest themselves in the space where they need a direction to what they do as they need to achieve clear thinking. 
+As entrepreneurs don't want to waste their time, such as gambling with data, and likewise aren't interested in wasting time straightening out communications are normally seen, then they should be busy with the effort to achieve clear thinking. Thus, the work to improve a communicative experiences as a work searching clarity, has to start with the audience and to honor their question - Why am I here? which is of course connectd with the situation of change, that the communication in the entrepreneurial situation exists to provoke a change, such as the change that is produced when the customer says yes, the change that happens when the investor says yes, and the like. 
 
-Now, as we recall from the thought of Marc Andreessen of the growth situation - it is yet another test - we can also think of any communicative experience as the prototype of a communication that is yet to be tested. Thus, the work to improve a communicative experience as a work searching clarity, has to start with the audience and to honor their question - Why am I here? which is of course connectd with the situation of change, that the communication in the entrepreneurial situation exists to provoke a change, such as the change that is produced when the customer says yes, the change that happens when the investor says yes, and the like. 
+<!-- 
+
+## todo 
+
+* p1 ( ) Review 040_induction_embedded_everything, change the title of "Informação, Comunicação e Compreensão" to the English one / ref 4934934-43983985-39583958-5038538
+
+--> 
 
 #### Barbara's SCqA and why are we here 
 
-I invite you to a brief overview of a key aspect in Barbara's work, that starts with honoring the reason for the audience to be there. Therefore, if we want them to listen to a communicative experience, we do so because we want something from them. And if we want something from there, we need to give them a reason to be there. In that direction, Barbara came up with a fundamental unit of logic that guides us to come up with introductions, which she called SCqA and stands for situation, complication, question, and answer.  
+In that direction, Barbara came up with a fundamental unit of logic that guides us to come up with introductions, which she called SCqA and stands for situation, complication, question, and answer.  I like to think of Barbara's SCqA as a sort of contract for why the audience is there. It governs the relationship between the individuals involved in a communication, or the sides, or the entities, it honors the value-exchange of the relationship. 
+
+<!--
+
+## todo 
+
+* p2 ( ) Communications - Barbara's SCqA - Get quote from p.37 of The Pyramid Principle / 3953985893-5938593859-593859385-593859835
+
+--> 
 
 <!--
 
@@ -255,6 +260,25 @@ I invite you to a brief overview of a key aspect in Barbara's work, that starts 
 
 By engaging in trying to come up with a coherent communiation that honors SCqA, you set yourself to to make the communication respond to the audience's potential interest and in a way that you are required to achieve clarity. In other words, by acknowledging their duty, to respond to the audience's demand such as "why are we here?," we have to face our duty to use "logic in writing, thinking and problem solving" as the subtitle of Barbara's book indicates. 
 
+#### The canonical 
+
+<!--
+
+## todo
+
+* p2 ( ) - Communications - Barbara's SCqa - Add cases of the canonical versus other forms, from Barbara, from The Pyramid Princple, with examples of SCqA cases, which should be quoted under permission. p.40 / 449384-9384938-48394983-4803483
+
+-->
+
+<!--
+
+## todo
+
+* p2 ( ) - Communications - Barbara's SCqa - Add the section from Barbara, from The Pyramid Princple, with examples of SCqA cases, which should be quoted under permission. p.37 / 4394938493-398493849-93493849-483483948
+
+-->
+
+
 #### The power lies of directeness 
 
 To give you a real example, I had the chance to help a friend that needed to present himself better in a hiring process. He was applying for a software engineering position, believed that he was great but didn't had all the requirements, skills in a given area. When he approached me assking for help, SCqA gave me a direction in terms of what to do, immediately, as opposed to that weird situation where I would be reading his résumé trying to guess what to do as if I had to make a drawing in a blank piece of paper, lost if not going in arbitrary directions, such as asking him to fix one or other part. No, I sort of knew what to do. Right away I made a quick meeting with him and explained to him that his résumé had to start with something that the hiring manager would agree and understand. Now, as the SCqA would prompt us to offer Roberto as a result, the answer, to the audience, the method had positioned ourselves to be concerned with a the question to the audience as being "Should I hire Roberto?" And we also felt an idea to deal with that area of his apparent weakeness with a given skill, which was also a fact - no one would deny. Therfore with situation A being that Roberto had all the skills, and situation B being that Roberto had a lacking skill, the complication that we came up, quite fast to be honest and not suffering, had recognized the line of thinking of: is that missing skill a real problem. And following along, and respecting the audience in mind, we realized that the audience would likely wonder, in case Roberto were able to work on that skill, if he really wanted to do that. It turned out that the missing skill was an area that Roberto had an interest, and was even engaged in a course already. To the setting allowed us to address in the introduction the situation of "While I do not fulfil the skill, I am already workng on that," and if that wasn't enoough we even discussed the point, for a cover letter, where had indicated that skills will come and go but the willingness to learn is key. Now, at the end of our work, we also had the feeling that in case he would come to be invited to a conference, that the same seamless mechanism, direction by SCqA, would and could be used by Roberto to have more straight answers. If even joked that a busy HR person would more be happy to feel the logic in the communication and less judging the data given. Some weeks later Roberto had reported he passed and that it was a lot due to the method. Of course I sort of sensed but a humble thiking came along to respect that he was the actual value in all. Then I was invited to a party in his place before he had to move to another city, and in that party, a bit drunk, he told his friends that the method also helped him to give a good and clear answer in the interview. He gave me some of the credits but the real thanks went to Barbara Minto. That experience goes along with the line of "it might change your life" given by Michael Dearing.  
@@ -265,8 +289,9 @@ The celebration that writing is not manipulative does justice first to the team,
 
 Pehaps we can learn with them. Of course, not with the goal of tricking our audiences, with a goal of selling to them as a salesman that lies. But learn that the direction to persuade can have a holistic intention - can involve indeed the who are they, why what might want, why are they here, what is changing, and the solution with the supporting aspects. 
 
+## Conclusion
 
-
+Now, this chapter exists not to convince you that your entrepreneurial journey will benefit from this thing called executive communications, like as if it is a tool for better communicative experiences. I rather think that the viewpoint of executive communication can be seen as the birthplace of communicative experiences. This brief moment is, therefore, a celebration and a brief journey that is an invitation to a new paradigm or way to see communication. The movement towards executive communication is organized, it is self propelled by the very initial movement. It may help you to reset your point of view about communications, it may help entrepreneurs to change their operational model when communicating, it will not only support the entrepreneurial life of a startup but your journey as a worker, as a citizen, and even your life with your family and friends. What we did, beyond anything, a celebration to Barbara's work that "might change your life," as Michael would say. 
 
 
 

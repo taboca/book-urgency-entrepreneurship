@@ -1,10 +1,16 @@
 # Todo # 
 
+* p2 ( ) - Communications - Barbara's SCqa - Add cases of the canonical versus other forms, from Barbara, from The Pyramid Princple, with examples of SCqA cases, which should be quoted under permission. p.40 / 449384-9384938-48394983-4803483
+
+* p2 ( ) Communications - Barbara's SCqA - Get quote from p.37 of The Pyramid Principle / 3953985893-5938593859-593859385-593859835
+
+* p2 ( ) Communications - Barbara's SCqA - Get quote from p.37 of The Pyramid Principle / 3953985893-5938593859-593859385-593859835
+
+* p1 ( ) Communications - Review 040_induction_embedded_everything, change the title of "Informação, Comunicação e Compreensão" to the English one / ref 4934934-43983985-39583958-5038538
+
 * p2 ( ) - Inductive communication - Put William Zinsser "how to explain science topics" which aligns with Barbara Minto's case - Ref 3923848234-49023849038-9039409-03940930
 
 * p2 ( ) - Inductive communication - Consider the notes from Adam Silva, about the language. Ref 42498492-4289489284-42984928-9248498
-
-* p1 ( ) Review 040_induction_embedded_everything, change the title of "Informação, Comunicação e Compreensão" to the English one / ref 4934934-43983985-39583958-5038538
 
 * p1 ( ) Review 050_references, Minto Pyramid, which is likely not right publisher, and date. Get the correct version from Marcio's reference. "Minto, B. (1996). The Minto Pyramid Principle: Logic in Writing, Thinking, & Problem Solving. Minto International." / ref 28429849284-942849824-4204820840-042804824
 
