@@ -121,7 +121,11 @@ Y Combinator. (2016, 25 de outubro). Marc Andreessen na Startup School SV 2016. 
 
 --> 
 
-Now, considering that startups deal with multiple audiences, with a product that doesn't fully exist, customers that are yet to be discovered, where not a clear sense for who will help with what; the inclination to use communication as a tool at a later stage, such as a tool to promote, or to convince, goes against the actual necessity where actively communication happens for the sake of improving communication with the audience which requires the continuous interest to discovery why all communication matters to every single audience. This forces the communication experience to be serve the needs of growth, forces the holistic view of growth, forces transcendence, away from manipulative communication, as you are communicating to all stakeholders using the same mechanism, such as your own team. Thus, looking from this angle, that tests are happening, working in communication for the sake of serving the tests have more to do with acessing the audiences other than tricking everyone; through that clarity for the values, vision, product, customers, cofounders, investors, all happens. 
+Now, considering that startups deal with multiple audiences, with a product that doesn't fully exist, customers that are yet to be discovered, and not even a full picture of who to communicate with, any inclination to use communication as a tool at a later stage, such as a tool to promote, or to convince, goes against the major necessity where actively communication need to happen - in the course - for the sake of navigating with communication, and improving communication with the audiences.
+
+This forces the communication experience to be serve the needs of growth, forces the holistic view of growth, forces transcendence, forces the entrepreneurs to move across the various levels of audiences, respecting them in the first place; and more importantly if communication happens to exist at all levels, such as the internal team, it also goes naturally away from manipulative communication that could take over, such as in conditions where communication appears as a solution of-the-shelf on top of a communication need with an audience. 
+
+Therefore, looking from this angle, that tests are happening, working in communication for the sake of serving the tests have more to do with acessing the audiences other than gaming the system, and through those interactions, the opportunity to find clarity for the many elements involved such as values, vision, mission, product values, customer's problems, cofounders roles, investors's participations, and the why for everyone else invited to the conversation. 
 
 ## Executive communication 
 
@@ -188,14 +192,19 @@ For me, as far and up to when I had found Barbara's work, I kept moving on gener
 
 In the next section, we continue our journey to value the direction of Barbara's work that "might change your life," as Michael would say. 
 
-### The model for clarity 
+### Searching for clarity 
 
-As you will recall from the section about growth, communication needs to cause a reaction, such as a change, by its interactions with the various stakeholders, such as cofounders, customers, and anyone else that we think can support the path of growth. On the other hand, you will also recall of the potential problem of overfocusing in what seems to be the rational parts, like the arguments and reasons, such as when we focus in adding data, collecting proofs, evidence, if not even constructing systems, prototypes, and more. Because the sky is the limit, I will simplify for now and call it "the data."
+As you will recall from the section about growth, communication wants change, by its interactions with the audiences, like stakeholders, cofounders, customers, and anyone else in the path for growth. On the other hand, you will also recall the problem of overfocusing in the arguments, and reasons, such as when the team prioritizes going after data, collecting evidence, coming up with proofs, if not even constructing systems. Because the sky is the limit, I will simplify and call it *Data*.
 
-Now, if the team favors "the data," still does not mean that the interaction with these roles will be effective. As an example, imagine a team that assembles a prototype that is compelling to their customers, which feedback was given as "cool." Now, even if some customers like it, it still does not solve the needs of an investor, as they can be interested in the business model, in the growth potential, risks involved, if the team can productize the real version, and more. In addition, if a team is all about the construction of proofs, would it be that they are in it to also prove to the investor? Probably not, as it is fair to assume - from the startup situation - that they are mainly focusing in "the data" as an argument, as reasons. Thus, as far as the communication with the investor goes, it is fair to think that what they have is a poor communication with the good data. Or, to look from an optimistic angle, a better communication because it has supporting data. 
+The question is, if the team favors *Data*, still it mean that the interaction with the audience will be effective? Imagine a team that builds and shows a prototype and a customer said "that is cool." Now, even if some customers like it, it still does not solve the needs of an investor as she might be interested in the business model, in the growth potential, any risks involved, if the team can productize the real version, and more. Now, a fair consideration must be made, that if this situation were real, such objection could be dismissed by the saying that "this is a problem we all want to have," which is a short version that acknowledges that the investor further interest has happened after the investor's recognigtion of the success with the customer.  
 
-Now as far as communication goes, the favor to the data, such as reason and arguments, is likely to set the communicative experience to become something like gambling with the data, in the hope is that the audience will get. Again, the investor's concern might be on the risks. Now, even if we limit communicative experiences to customers and investors, still the communication favors towards being boring to the audience as it provides evidence for no reason. And worse it may be that the defense mechanism mfor that possibility may push the communicator to try even more, to add yet more data, which may only add confusion. 
-A thought from Peter Drucker helps us to set the focus on what matters when it comes to communicative experiences, where the team has to use communication to achieve clarity and where communication only exists when it is perceived: 
+Likewise, it is also fair to consider that the team's interest in building, and creating supporting arguments, wasn't a full intention to prove but that their affairs with *Data*. Inteas, it had more to do with their intents to fulfil the demands of good arguments and good reasons, in the hope is that a better communication would emerge. 
+
+Therefore, as far as communication goes, the inclination towards the *Data* has less to do with the team's intent to gamble by betting on data - in the hope is that the audience will get - and more to do with the team's intent in improving or achieving clarity. Which is, to be fair, an example of collaboration. Therefore, if gambling is nothing like the self description of what entrepreneurs do when they come up with *Data*, then by the nature of the iterative and interactive process, more fairly we can say that these affairs are part of the process to search for clarity. 
+
+An observation from Peter Drucker, which identifies the struggle with writing, helps us to visualize that the effort that a team puts to improve their communication is indeed not related to what people normally call communications: 
+
+> *"There is a very old saying among writers: 'Difficulties with a sentence always mean confused thinking. It is not the sentence that needs straightening out, it is the thought behind it. In writing we attempt, of course, to communicate with ourselves. An unclear sentence is one that exceeds our own capacity for perception. Working on the sentence, that is, working on what is normally called communications, cannot solve the problem. We have to work on our own concepts first to be able to understand what we are trying to say - and only then can we write the sentence."* (Drucker, 2011, p. 6)
 
 <!-- 
 
@@ -205,7 +214,6 @@ A thought from Peter Drucker helps us to set the focus on what matters when it c
 
 --> 
 
-> *"There is a very old saying among writers: 'Difficulties with a sentence always mean confused thinking. It is not the sentence that needs straightening out, it is the thought behind it. In writing we attempt, of course, to communicate with ourselves. An unclear sentence is one that exceeds our own capacity for perception. Working on the sentence, that is, working on what is normally called communications, cannot solve the problem. We have to work on our own concepts first to be able to understand what we are trying to say - and only then can we write the sentence."* (Drucker, 2011, p. 6)
 
 <!-- 
 
@@ -215,7 +223,9 @@ Drucker, P. (2011). Technology, management, and society. Routledge.
 
 --> 
 
-Drucker's observation reminds us that we shouldn't be trying to be fixing the words, like sentences, and paragraphs, such as to expect that working in communication like that is a solution to the communication. On the other hand, the problem to be addressed is the problem of perception which requires us to fully embrace the audience in the first place, and after that, to understand what we are trying to say to them. Which takes us to the the need to honor the question of the audience being "Why am I here?"
+Now, as entrepreneurs don't want to waster their time gambling with data, and likewise not waste their time straightening out the communications as generally called, then they may rest themselves in the space where they need a direction to what they do as they need to achieve clear thinking. 
+
+Now, as we recall from the thought of Marc Andreessen of the growth situation - it is yet another test - we can also think of any communicative experience as the prototype of a communication that is yet to be tested. Thus, the work to improve a communicative experience as a work searching clarity, has to start with the audience and to honor their question - Why am I here? which is of course connectd with the situation of change, that the communication in the entrepreneurial situation exists to provoke a change, such as the change that is produced when the customer says yes, the change that happens when the investor says yes, and the like. 
 
 #### Barbara's SCqA and why are we here 
 
