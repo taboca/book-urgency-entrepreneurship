@@ -9,6 +9,10 @@ Check https://chat.openai.com/share/b7eb16c5-4c18-4709-9220-bd2629f34a3d
 ```
 I'm interested in this research - as I need to know a bit more about ego invested structures referred from "We are our passions". I am writing "Slow Down Startup" a book to help founders to do it slower, to understand better before jumping into action in the fast-paced world. ```
 
+## Marc Andreessen 
+
+* Pitch is yet another test - In Part 2, Communications (040_communication.txt) - Marc Andreessen is quoted as he had asserted that the formal presentation, the pitch, is yet another test of communications. 
+
 ## James Green 
 
 * Representativeness - 410_execution_urgency_neglecting_redesign_f47ac10b-58cc-4372-a567-0e02b2c3d479.txt
