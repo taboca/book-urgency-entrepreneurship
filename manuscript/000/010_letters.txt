@@ -8,6 +8,7 @@
 * (p, l, a) Steve Blank, invited with introduction letter [l], accepted to receive manuscript. 
 * (p, l, a, ) Ted Thayer - of JTBD, accepted to receive the manuscript. 
 * (p, l, quote, a, ) - David Smooke of HN had accepted the situation of the annedocte in the story of the "Never send a canvas to your investors" vs. "oops I just did" / 42849289-42984982-92484928-20849284
+* (p, l, ) Eric Ries - / 42849284928-42984984-49284984-4928498294
 
 * (p, l, c) Jason Fried, through linked in. 
 * (p, l, ) Editors Melissa and Jonathan , on Nov 14th 2023.
@@ -20,8 +21,6 @@
 * (p, l, ) Brendan Eich 
 * (p, l, ) Chris Hoffman 
 * (p, l, ) Adrian of Barbara 
-
-
 
 ## Matrix subscribers 
 
@@ -38,6 +37,27 @@
 
 * Ted - https://mail.google.com/mail/u/0/#inbox/QgrcJHsBtPszjcdSZGMtPVbJdtZbDRNjSrq 
 * Chris -  https://mail.google.com/mail/u/0/#inbox/KtbxLwgZVwjDDccMZJKdWcPBwPDlzZFlzL
+
+## Letter to Eric Ries of Lean Startup December 15th 2023 
+
+* Ref 42849284928-42984984-49284984-4928498294 
+* Ref via Linked In 
+
+```
+Hey Eric, 
+
+How things. I am working in a book entitled Slow Down Startup which I believe it may support entrepreneurs with more conscious entrepreneurship in the face of the too many options, too many of-the-shelf solutions for advancing.
+
+It's sort of a book for even before starting. 
+
+Your name has appeared across over a few areas because of the concerns and consciousness viewpoint that you provided such as when you are concerned with the entrepreneurs, or teams, their behaviors that prevent them to access purpose accross their siloed focus. 
+
+I wonder, if I can first send you a PDF that has an overview of the structure of the book, as a way so that you can know of my in progress work which is BTW about 6 years although I started slow and not so clear. In the past 6 months I am writing almost every day though, so I believe the process looks now closer to real writers. 
+
+Sincerely, 
+
+Marcio
+```
 
 ## Letter to Adrian of Barbara Minto December 7 2023
 
