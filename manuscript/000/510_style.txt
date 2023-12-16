@@ -1,6 +1,10 @@
-## Editor note - Logic accross sections - transitionary phrases 
+## Editor note - Logic accross sections - transitionary phrases - ref style-657-768
 
-* Barbara Minto, in The Pyramid Principle, in Reflecting The Pyramid On the Page, brings about the necessity of the writer to use, to write, transitionary phrases "that take the reader fracefully from one grouping to another, as needed." p.171
+* Barbara Minto, in The Pyramid Principle, in Reflecting The Pyramid On the Page, brings about the necessity of the writer to use, to write, transitionary phrases "that take the reader gracefully from one grouping to another, as needed." p.171. What she urges you to do is to avoid "The prior section, we talked about X. Now we will talk about  Y.". Instead, consider that such graceful transition can also use the SCqA mechanism. I believe that I have done that in "Executive Communications" as I started with "We have seen that *We dismiss communications* and that *Communication matters*. But still, as we consider the trip in this direction, a major roadblock is that entrepreneurs still don't care until they see a safe road to move forward, that does justice to the needs of using communicative experiences that helps through the stages of growth with several audiences such as themselves, customers, investors, and more. ". The intent was to set a new complication and a reason for the section to exist. 
+
+## Editor note - Remove conclusion headings - 
+
+* Barbara Minto, in The Pyramid Principle, p.175, makes a point that is not useful to the reader to have headings like "Introduction" or "Conclusions". Headings, for her, makes sense because they represent divisions of thought. 
 
 ## Editor note - Logic accross sections - within chapters - Titles are similar in structure 
 

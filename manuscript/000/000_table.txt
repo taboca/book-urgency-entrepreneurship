@@ -1,5 +1,7 @@
 # Todo # 
 
+* p2 ( ) - Part 2, Communications - Communication matters need a graceful transition, according to style-657-768. / ref 75674-785743-85784-847883
+
 * p2 ( ) - In part 2, Communications - Consider to review Marc Andreessen footnote ( footnote_marc_andreessen_tests ). Perhaps quote can be more objective to the point offered by Marc, such as that behaviors like "CEO superpowers" are important? Ref / 249284294-429849284-49834983-439849384
 
 * p2 ( ) Communications - Barbara's SCqA - Get quote from p.37 of The Pyramid Principle / 3953985893-5938593859-593859385-593859835
