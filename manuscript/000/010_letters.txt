@@ -8,8 +8,10 @@
 * (p, l, a) Steve Blank, invited with introduction letter [l], accepted to receive manuscript. 
 * (p, l, a, ) Ted Thayer - of JTBD, accepted to receive the manuscript. 
 * (p, l, quote, a, ) - David Smooke of HN had accepted the situation of the annedocte in the story of the "Never send a canvas to your investors" vs. "oops I just did" / 42849289-42984982-92484928-20849284
-* (p, l, ) Eric Ries - / 42849284928-42984984-49284984-4928498294
 
+* (p, ?, a) Gabrielly @ Panini - Asked if she can read some part of it. / 748-849-874-885
+
+* (p, l, ) Eric Ries - / 42849284928-42984984-49284984-4928498294
 * (p, l, c) Jason Fried, through linked in. 
 * (p, l, ) Editors Melissa and Jonathan , on Nov 14th 2023.
 * (p, l) Fred Filho - friend/colleague field, pinged, intro letter.  
@@ -37,6 +39,11 @@
 
 * Ted - https://mail.google.com/mail/u/0/#inbox/QgrcJHsBtPszjcdSZGMtPVbJdtZbDRNjSrq 
 * Chris -  https://mail.google.com/mail/u/0/#inbox/KtbxLwgZVwjDDccMZJKdWcPBwPDlzZFlzL
+
+## Letter with Gabrielly @ Panini December 18th 2023 
+
+* Ref 748-849-874-885
+* Ref https://mail.google.com/mail/u/0/#inbox/QgrcJHsBnjjbxcZpZhjfqkwZPbGqlGDrZBl?compose=GTvVlcSHvnnrKBLqsBTRnJlCQlFJKxckfTJtdgRQhDwbKDqHHKNPpDHkphClxSggNvttCHNtjfgzh 
 
 ## Letter to Eric Ries of Lean Startup December 15th 2023 
 
