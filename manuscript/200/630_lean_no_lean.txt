@@ -83,14 +83,15 @@ This environment also raises possible questions stemming from the pressure of gr
 
 <!-- answer key line? --> 
 
+In the search for an a conscious understanding of lean in practice, we will consider situations where the usage of lean, in the corporate and startup context, happens to cause frustrations to teams - such from observations that lean seems to be failing or not fulfilling its promises - exactly because teams focuses in lean and misses the wider view, such as how other governing forces affects lean execution and judgement. 
 
 <!-- elaboration of key lines ahead? --> 
 
-In the pursuit of a conscious understanding and interpretation of the use of lean processes, our first reflection focuses in the conditions where teams, under pressure, lose the holistic vision which is the vision of purpose, ending up diminishing the potential of the process as they might, to name an extremme case, over focus in the process or the data.
+In the effort to develop a conscious understanding for why teams can get frustrated with lean, we will start from the corporate context, recognizing a concern where teams engage with lean processes, such as to find good traction, but the process fails in its yield real value due to lack of awareness for the values and conflicting forces in the corporate setting. 
 
-Our second reflection focuses on the team of an early-stage startup, or even a solo entrepreneur, and explores how a diverted attention is experienced when doing lean - which can lead to a loss of connection with that needed greater purpose. In other words, we will examine the tendency to become overly centered on the lean process, especially when it presents an opportunity to disregard subjective data that might not seem appropriate. This can lead to a kind of fusion where the criticized becomes the critic, where the process ends up over-criticizing, adhering to quantitative molds or selection processes, leading to strong decisions based on weak signals, which in turn impact the vision of purpose.
+Thereafter, we will explore a similar phenomenon of the corporate situation, although in the early stage startup, where teams can be frustrated, as the execution of lean fails to its major purpose to help the team, in the face of the team's overfocus in lean and the disconnect with subjective analysis such as their greater purpose. 
 
-Finally, we conclude with some thoughts from thinkers of the lean movement and others who are committed to understanding the challenges of navigating interactions with the external world while simultaneously being within and outside of the data, with the aim of creating more conducive conditions for innovation in the market.
+Finally, we conclude with thoughts from thinkers of the lean movement, and others who are committed to understanding the challenges of navigating interactions with the external world, to improve the awareness for executing lean within and outside of the data, or the process, with the aim of maintaining the necessary awareness of purpose which can support the innovative capacity of the team and bring a friendly understanding of lean. 
 
 ## The holistic view under pressure 
 
