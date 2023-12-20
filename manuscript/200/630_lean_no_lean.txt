@@ -70,12 +70,15 @@ Now, it is also implicit of the startup situation using lean methods, that a lot
 
 <!-- 
 
-reference 
+## reference 
 
 Altman, S. (2015, September 30). Blitzscaling 02: Sam Altman on Y Combinator and What Makes The Best Founders [Video]. Greylock. https://www.youtube.com/watch?v=CxKXJWf-WMg&t=456s
 
 --> 
+
 <!-- 
+
+## todo 
 
 * p2, (x) Part 2 / Lean no Lean - Add reference from Blitzscaling lectures, or any model or celebrity practitioner, that Startups can move fast, to the "Ainda, faz-se importante contextualizar que exatamente por não existir uma dependência com o mercado, como servir clientes conquistados, e o time ser pequeno, a agilidade é observável de que startups mudam de rumo rapidamente e que permite que mais falhas possam ocorrer na busca de acertos.  " ref 98349834-43489384-48394893-839849849
 
