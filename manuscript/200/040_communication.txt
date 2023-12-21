@@ -242,9 +242,21 @@ Drucker, P. (2011). Technology, management, and society. Routledge.
 
 --> 
 
-Now, an observation must be made that the extremmes aren't good. On one hand, one that attempts to fix the communication in terms of sentences, instead of being busy with the concepts first. On the other hand, one that attempts to find *Data* and presenting it with no regard to the story of the future. As entrepreneurs don't want to waste their time, such as gambling with data, and likewise aren't interested in wasting time straightening out communications are normally seen, then they should be busy with the effort to achieve clear thinking, to get the concepts rights. 
+Now, an observation must be made that the extremmes aren't good. On one hand, one that attempts to fix the communication in terms of sentences, instead of being busy with the concepts first. On the other hand, one that attempts to find *Data* and presenting it with no regard to the objectives to be achieved in the future. As entrepreneurs don't want to waste their time, such as gambling with data, and likewise aren't interested in wasting time straightening out sentences, then they should be busy with the effort to achieve clear thinking, to get the concepts rights. 
 
-Thus, the work to improve a communicative experiences as a work searching clarity, has to start with the audience and to honor why they are there. Examples of potential questions wouuld be: Why that audience? What you want from them? What is in it for them? Why should they care? All of this is connected with the a potential transactional aspect in the communication- the situation that calls for a change because after the change happens both parties are to be in better shape. After all, we should assume that for one side to ask the other side to listen, to engage, and to act, involves the premisse that one side has something to offer that could be needed by the other side. 
+But then the question is - where to start? From the communications end or from the data end? Well, from both. But acknowledging both can be as simple as noticing that the work in the communicative experience may use models that can help the process to seek for answers, searching for clarity. Consider, for example, the approach used by the late professor William Zinsser as he needed to help students who were struggling to write about science and technology subjects: 
+
+> *"Describing how a process works is valuable for two reasons. It forces you to make sure you know how it works. Then it forces you to take the reader through the same sequence of ideas and deductions that made the process clear to you. I've found it to be a breakthrough for many students whose thinking was disordely."* (Zinsser, 2006, p. 148)
+
+<!-- 
+
+## references 
+
+Zinsser, W. (2006). On Writing Well: The Classic Guide to Writing Nonfiction (7th ed.). Harper Perennial.
+
+--> 
+
+In other words, there are things with can do about communications, there are means that we can manage communications, models that can help us to approach communications. And, more importantly, there are models that are applicable to the specific situations, like the situations of entrepreneurs, or business people, or of audiences that have a solutions oriented mindset. And, back to Barbara's model, here is where I invite you to a teaser of Barbara's SCqA which can be seen as a model to organize communications. 
 
 <!-- 
 
@@ -254,11 +266,10 @@ Thus, the work to improve a communicative experiences as a work searching clarit
 
 --> 
 
-With that challenge ahead, I invite you to a teaser of Barbara's SCqa which helps with a direction to establish an outstanding communicative experience with an audience. In other words, an approach where we can use the communication to anticipate, or to prototype, manage the communications to serve to the purpose with the audience and with ourselves, like a contract. 
 
 #### Barbara's SCqA and why are we here 
 
-In that direction, Barbara came up with a fundamental unit of logic that guides us to come up with introductions, which she called SCqA and stands for situation, complication, question, and answer.  I like to think of Barbara's SCqA as a sort of contract for why the audience is there. It governs the relationship between the individuals involved in a communication, or the sides, or the entities, it honors the value-exchange of the relationship. 
+In that direction, Barbara came up with a fundamental unit of logic that guides the doer to come up with introductions, which she called SCqA and stands for situation, complication, question, and answer. I like to think of Barbara's SCqA as a sort of contract for why the audience is there. It governs the relationship between the individuals involved in a communication, or the sides, or the entities, it honors the value-exchange of the relationship. 
 
 <!--
 
