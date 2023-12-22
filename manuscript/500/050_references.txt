@@ -359,12 +359,14 @@ Ries, E. [Talks at Google]. (2011). The Lean Startup [Video]. YouTube. https://w
 <!-- 
 
 * 200/250_stop_impressing.txt 
+* 200/040_communications.txt
 
 --> 
 
 Zinsser, W. (2006). On Writing Well: The Classic Guide to Writing Nonfiction (7th ed.). Harper Perennial.
 
-Child, J. (2023, July 7). The Job of a CFO at a Scaling Company | Sarah Friar (CFO of Square) & Jason Child (CFO of Opendoor) [Video]. YouTube. https://youtu.be/A9MqV4ULMuM?t=889
+Greylock. (2017, June 20). The Job of a CFO at a Scaling Company with Sarah Friar and Jason Child | The Scaleup Offsite 2017 [Video]. YouTube. https://www.youtube.com/watch?v=[VideoID]
+
 
 
 <!-- 

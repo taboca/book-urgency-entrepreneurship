@@ -1,5 +1,7 @@
 # Todo # 
 
+* p2 ( ) - Part 2, Communications - Case of Jeff Bezos asking to double check the data - Within the "It calls for evil data", a case may be presented which is the case where Jeff suspected that people would lie to him, with data, to please him. Ref 7493-8458-8478-8944
+
 * p2 ( ) - Part 2, Communications - Communication matters need a graceful transition, according to style-657-768. / ref 75674-785743-85784-847883
 
 * p2 ( ) - In part 2, Communications - Consider to review Marc Andreessen footnote ( footnote_marc_andreessen_tests ). Perhaps quote can be more objective to the point offered by Marc, such as that behaviors like "CEO superpowers" are important? Ref / 249284294-429849284-49834983-439849384
@@ -180,7 +182,7 @@ https://chat.openai.com/share/b7eb16c5-4c18-4709-9220-bd2629f34a3d
 
 ## Done
 
-* p2 (Done) - Communications - Put the endless meetings into the context - The illustration "Endless meetings" was brought up by Fred Filho. 948848-98444-84895-129384
+* p2 (Done, @Fred) - Communications - Put the endless meetings into the context - The illustration "Endless meetings" was brought up by Fred Filho. 948848-98444-84895-129384
 
 * p2 (Done) - Communications - Barbara's SCqa - Add cases of the canonical versus other forms, from Barbara, from The Pyramid Princple, with examples of SCqA cases, which should be quoted under permission. p.40 / 449384-9384938-48394983-4803483
 

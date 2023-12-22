@@ -18,7 +18,12 @@ Now, the complication isn't that investing in communication is wrong - such as i
 
 To support founders to value communication throughout the whole process - as opposed to being a of-the-self tool for when things are ready - we will start by considering how we generally dismiss communication, perceptions that may support us to not consider communication. Then we will consider why investing in communication is critical, such as why it matters for startups that have affairs with various levels of audiences,  and the potential risks of overfocusing in product without aiming for the coherence in communication. And finally, we will consider a logical approach to value communication, referred as Executive communication.
 
-## We dismiss communication
+## We run with normal communications
+
+<!-- 
+## crossreference
+* We run with normal communications - 
+--> 
 
 <!-- scqa: abstract 
 
@@ -38,7 +43,7 @@ But one way or another, it seemed that my views had seen these fragments of comm
 
 As in the more I see communication that is ready, like a shiny offering (good or bad), the more I get used to ignoring communication until the moment is right, which can be a problem for entrepreneurs, as the moment is not right exists while communication need to exist to get there. 
 
-### Via analysis 
+### Doing analysis 
 
 But even though if communication is generally perceived as a ready-made thing needed in a transactional world, still the judgements during the communicative experiences are quite strongly observed. To illustrate the rise of another critic style, consider an episode where I went to the supermarket, at the deli section which usually a place I care due to my Italian origins. There, a lady were there to help and we were there to buy mozzarella cheese, we apparently needed about 7 ounces of it. But before we said the amount, she suggested that we buy the mozzarella that were pre-packaged, pre-sliced, that happeed to come with another 7 ounces of prosciutto. She added that by buying the combo the mozzarella would be cheaper. But we were also in a hurry, and not there to reason, to think, such as to reflect about the ways people communicate or even to pick ideas for a book. We were just there to buy the cheese. But I was there as a critic, and having entered in the mode of doing basic math, which is something I do when buying things. In a way or another, in a hurry or not, we seem to never ignore the math. Since I needed data, I asked her how much was the cost per pound for mozzarella alone - to which she said 25 Brazilian Reais and immediately added that the per-pound-cost for the combo was 18, therefore cheaper. Indeed, the basic math seemed to work and she also smiled and added that she was there to help. But then I asked about the per-pound-cost for the prosciutto to which she said to be about 13. At this point I fent confused that she didn't add that in the combo the prosciutto became 18. So being there, with no much to do and not too hungry, I've told her that she was selling he prosciutto at a higher price. She smiled and said again that she was there to help. But this time she also added that I could either accept the help or not. Being that the love of my life was also next to me, waiting, i had decided to keep the marriage, enjoy the Saturday, moved on, although I had to imagine myself kicking the shelf. We picked the pricey prosciutto with the cheaper mozzarella because, I guess, as we weren't there to fully pause the movie of life. Needless to observe is that the attendant would be likely following her job, equally in urgent mode, likely following orders. 
 
@@ -52,7 +57,7 @@ note: Marcio had written, in a note about the above, that a paradox was evidence
 
 Now, the point to be made is that when doing that we might in fact favor rationality, favor the fact-checking aspect. It is not to say that we ignore communication and the aspects of coherence. We do recognize it, and in fact may do so quite well, like we recognize when that sort of train comes, on time, when the sound of induction comes our way, like the sound of a train arriving which prompts us to enter it. But as we do so, we also tend to see if it carries the cargo, if value has in its wagons. In other words, the more we see fast trains of thought carrying useless cargo, the more we are inclined to engage in the - quite needed process of - analysis which suggest to us that communication aspects, the train, is not as important, that can be secondary. Which is not, by the way, a bad mechanism to exist, although from the needs of this chapter, it does not help much. 
 
-### Via favoring reason 
+### Focusing on good reasons 
 
 Now, if people go away from being persuasive, they might do so with an inclination that it adds nothing, if not it could be an investment misleading themselves. One in that position, such as an entrepreneur, could fear to look like a salesman in hurry and intended to convince in bad ways which disregard value. But even if they consider to invest in communication responsibly, still it might be a problem with folks like creators, makers, engineers, and whoever looks at things from a logical, or a systems-oriented mindset. These folks may see themselves as supporters, responsible for the actual cargo, the values, what matters. They might also love deduction, to prove, to come up with the how-to, to work with more logical and structured ideas, to fill out the details with truths, and the like. This is quite evident in the situation of entrepreneurs as, of course, they love and want to express their ideas, and they recognize the importance of being understood by audiences in a way that make moves forward. But still, they rather use their time to focus in the inner works, or inner proofs, and the supporting elements that makes ideas to become good solutions. 
 
@@ -60,7 +65,7 @@ Therefore, while there is an acknowledgement that focusing in communication help
 
 Now, there are many reasons why to focus first in value, second in communication, and it is generally quite valid. One other example might have to do understanding that the roles that focus more on coherence, the ones concerned with the audience and interested in persuading them, might not generally understand what is up and coming, such as what is new and innovative. A major reason for that is that these folks are too tied with the needs of the audiences, thus they can be representative of the market needs, be pressured by the market. Thus, given that what is outstanding might not be yet fully meaningful to the audience, the role of the expert communication would either not get it or force the offering to be appealing, which can be seen by the one working in the value to be a not so honest movement. This might be yet another reason supporting the lack of interest in communication, keeping the doers to believe in what they believe without changing the underlying assumption - supported by an unshakable faith - which sets them to try to solve communication needs not with one arm but with both arms tied behind their back.  
 
-### Via managerial support - and managerial ignorance   
+### Counting on managerial support   
 
 <!--
 
@@ -84,16 +89,18 @@ Thus, under the pressure of the normal corporate space, the roles might indeed g
 ## Communication matters 
 
 <!-- 
-
 ## todo 
-
 * p2 (Done) - Part 2, Communications - Communication matters need a graceful transition, according to style-657-768. / ref 75674-785743-85784-847883
-
 --> 
 
-By the idea that "we dismiss communications," has less to do with us ignoring communications. In other words, if we do analysis for the things being told, it is because we are trying to be conscious - we must be improving communications. And when we favor rationality, such as going after data such as good reasons, we do so because we believe that we are making our narratives more truthful. 
+Now, the above consideration that *We run with normal communications* isn't in any way an evidence that  ignore communications. As an example, if we care to check the things being told, we do so because we are trying to be conscious. And if we favor rationality, such as going after the good reasons, we do so because of our interest to make our narratives truthful. In other words, we know that communications matters, a lot. It matters so much that we deal with fixing communication that way, through a collaborative environment where our narratives are constructed as the day goes by. 
 
-In other words, we know that communications matters, and a lot. With that said, let's celebrate further some situations of how we move on with communicative experiences in the average day, such as to be living with communications that set us to be frustrated, like when we are mad to endless meetings. And also, on the other end, how we try to fix our broken communications by going straight to, again, favoring rationality which leads to lying with data. 
+<!-- 
+## crossreference
+* We run with normal communications - 
+--> 
+
+With that said, let us consider reasons why communication matters by reflecting some effects of using normal communications in the average day. One being a reflection about the ongoing and endless frustration that set many of us to be mad such as when they don't get the endless meetings only after a lot of endless meetings have happened. And also, from the other side of the spectrum, when we seem to react to fix the broken communications by going straight to use, and abuse, with data. 
 
 <!--
 
@@ -103,25 +110,53 @@ In other words, we know that communications matters, and a lot. With that said, 
 
 * was - In other words, communications matters. Let's then celebrate a further some situations of how we move on with communicative experiences of the average day. Some of them put us to be quite frustrated. And in other situations, we jump into action to fix it. 
 
-* became - 
+* became - In other words, we know that communications matters, a lot. With that said, let's celebrate further some situations of effects from the normal usage of communications in the average day, such when we get frustrated, like after being mad about endless meetings only after a lot of endless meetings have happened. And also, from the other side of the spectrum, when we seem to react to fix the broken communications by going straight to use, and abuse, with data. 
 
 --> 
 
-### Like a grease  
+### It's like a grease  
 
-Back in other chapters of my Silicon Valley life, I was a victim of a kind of communication which I learned the hard way. Although my English were poor, and I wasn't afraid to say things and try to persuade. So in a given meeting I said something like "bada big bada bum, korben, bada bum bada bum," and quite quick a manager threw a crisp and clear English that started with "But more importantly,.." to which I don't recall what was it but I know that everybody agreed. 
+Back a few chapters in Silicon Valley history, in the *Book of Marcio Lost in Translation*, I was a victim of a sort of normal communication which I learned the hard way. Although my English were poor, and I wasn't afraid to say things and try to persuade. It was a sunny day in the valley and I was in a meeting with many people and feeling energetic I said something like "bada big bada bum, korben, bada bum bada bum," and quite fast a local manager threw a crisp and clear English that started with "But more importantly,.." to which I don't recall what was it but I know that everybody agreed. 
 
 That incident for me was remarkable but in a weird way. First, I knew that something had happened and that an effort would be required to learn. But it also had an effect in pushing me to dislike communications. As in to consider that going in that direction would make me to use that sort of brutality. But to be fair, I saw later, that implied in what happened was the fact that I did my part - that whatever I said paved the way for that manager to bring back the equilibrium to that meeting. In other words, to his defense, he has reacted towards the pragmatic way.  
 
-### Like evil data  
+Another story has happened at the same company when I had joined a team of - as they called themselves - web monkeys. Our mission were to help implement new color themes thus to relaunch a new version of their web mail site. In order to do that, we had to edit a lot of files, one for each theme, and within each one edit the color codes from an old color to a new color. If we were really monkeys it would be about having to visit 16 different trees and for each tree, and for each leaf, paint them with the expected new color, one by one. As the task would demand a lot of energy and it was quite a mechanical work, I came up with an idea to automate our work. But when I tried to tell the team, the way I had explained was something like "What if we come up with one new tree where all the leafs are replaced to bananas.  With that, we can then clone the trees 16 times and run a code that replaces bananas with the color we want." Well, I don't recall my confusing explanation but I am quite certain that I might have used actual banana as the example of a color. With that, and not knowing that I had to think through before putting ideas into words, I had given to them straight in quite arbitrary ways. So I tried and didn't work, then I went to the board to try again, it didn't work, then I almost tried again when my manager asked me "do not talk about that idea again." I was frustrated, mad, feeling silenced in front of the team but the worse was really my frustration from the fact that the idea was good. As soon as I left the room, however, an impulse took me straight to the office of a software engineer that I knew where I asked him if he could write the code to automate the process. He agreed and he had the script ready a couple days later. Eventually, things worked and the team had accepted the contribution. So it may be that what has happened could be considered good news. But again, perhaps all of that supports the idea that the communications that we are using are okay, that teams get away, and that we are trying to achieve clarity for things as we break things, or go for doing things. Therefore, it is quite acceptable that my manager might have asked that as I was trying again and again and wasting the team's time. On the other hand, I also didn't do too bad, considering that the other engineer had the time not only to understand but also to do it. But the real point which I missed was that I was too arbitrary when making propositions to a team, telling them the bits and pieces of ideas, using a sort of narrative form, likely in a way running with a trial and error model. 
+
+### It calls for evil data  
+
 
 These are the folks that can actually transform their solid ideas in solid proposals that can get accepted. BUt then under the condition of being certain that they can't focus in persuading, they are left with the tools they have. Therefore, they can use critical thinking, and logic, and do the design work, and research, and find data. 
 
 Sometimes a prototype can prove, sometimes a full proof is given, this is the beautiful side, sort of innevitable when effort and intent is high, and when purpose exists, and even in a world where no one understand, if they have resources. But, as likely the by-product of going in that direction, they might also die before they have time to prove, part A. And if that is not enough what can be really tricky is that they may actual do a kind of work that is in a way like what the bad salesperson would do, although no evil is perceived; when they are inserting data enough to prove, although not quite intended as a conscious evil act but as they do, they materialize an evil with no awareness of it, even to a point that does worse than the salesperson that attempts to persuade with no given value offered exactly because that salesperson would be less likely to convince. 
 
-But more than the harm to the business, is that the devotion towards being functional, such as to add proofs, takes the doer to workaround, or to prove anyway, or even in extremme situations, when they can be lying to themselves. As an illustration of a case, not apparently harmful, I recalled a situation when I was a web developer for a known Silicon Valley company. I had joined a team that had the responsiliby to make a graphics theme for a popular mail system. As part of the work we had to write a lot of lines of code, using color codes. I came up with an idea to automate but when trying to explain in the meeting, I happened to not rework how to communicate my idea and had given to them straight as in using a sort of narrative format explaining the idea how it worked likely inserting some arbitrary points about the mechanism. I tried and didn't work, then I went to the board to try to explain how to do the solution, it didn't work, then I almost tried again to insist in a different way when my manager asked me "do not talk about that idea again." I was frustrated, mad, silenced in front of the team but the worse was really my frustration that I could not win their trust. I left the room, mad, and went straight to the office of a software engineer, asked him if he could write the code to automate the process of theme generations, and he had the script ready. Eventually it worked and the team had accepted. Now, to defend my manager, of course many ideas can work, if you have time and resources. Perhaps in that situation end up being well because the other engineer had the time not only to understand but also to do it. But the real point which I missed was that I was too arbitrary when making propositions to a team, telling them the bits and pieces of ideas always in my own view and not formatting the ideas properly to the audience.  
+> *"And he would get into business, and then we'd look at stuff, and then he would see things, and if looked really good or really bad, he turned to me and he says, 'Is this number right? And would you stake your career on it?' Or maybe in different words. And his whole point was, he wanted to make sure that the analytic— I mean, cohort analysis is a great example. I've seen a lot. You can lie with numbers very easily. You know, is a subscriber a customer? Is it including reactivation? Is it including, you know, there's so many ways you can make it say what you want it to say."* Jason Child (Greylock, 2017, 14:37)
+
+
+<!--
+
+## todo
+
+* p2 ( ) - Part 2, Communications - JEff Bezos doubts data - Review the quote of Jason Child -  Jeff Bezos asking to double check the data - Within the "It calls for evil data", a case may be presented which is the case where Jeff suspected that people would lie to him, with data, to please him. Ref 7493-8458-8478-8944
+
+* ref https://youtu.be/UgVab3NeP-k?si=4nMw52b7YTJdiwOI&t=893 
+
+* Possible - "What we did at Amazon was a bit unique, and that was because Jeff Bezos had a very strong point of view that, as the CEO, every one of his direct reports has a bias to want to please him. Therefore, the analysis of the metrics they show are going to try to show that they're doing a great job. And so, Jeff is famous for a couple of things. One of the things is, he optimizes not for a cohesive culture but a truth-seeking culture." Jason Child (Greylock, 2017, 14:37)
+
+* Possible - "And he would get into business, and then we'd look at stuff, and then he would see things, and if looked really good or really bad, he turned to me and he says, 'Is this number right? And would you stake your career on it?' Or maybe in different words. And his whole point was, he wanted to make sure that the analytic— I mean, cohort analysis is a great example. I've seen a lot. You can lie with numbers very easily. You know, is a subscriber a customer? Is it including reactivation? Is it including, you know, there's so many ways you can make it say what you want it to say." Jason Child (Greylock, 2017, 14:37)
+
+--> 
+
+<!-- 
+
+## reference 
+
+Greylock. (2017, June 20). The Job of a CFO at a Scaling Company with Sarah Friar and Jason Child | The Scaleup Offsite 2017 [Video]. YouTube. https://www.youtube.com/watch?v=[VideoID]
+
+--> 
 
 As a sidenote to this notion and idea, I seem to be communicator that didn't happen in my youth but that found some traction in the world of user interfaces first, like prototypes, then in the world of high tech companies working with interfaces and prototypes. I grew up with some frustrations with communication and likely also mad with the bad salesperson - likely made me to be in a denial to the art of communicating well such as to persuade. But then, being decades and decades around software developers, I came to the full realization of how many iterations of software developers are so well crafted, so well promoted, by their shining prototypes; and alltogether the so many instances of those creations that meant nothing, that left as partial prototypes, as ideas projected, illusions too, and illustions that had teased in fact by the shinning and apparent materialization in front of buyers, buyers like customers, investos, and themselves, that had given the buy-in and later cried. Which makes developers a potential worse kind of salesperson that won't even notice when they lie as they lie to themselves by being involved with the perceived materialization of what they had in mind. This day made me happy with the salesperson that mainly deals with what they have to sell and their reputation with the customer as they are to be likely to see the customer in the next day, as they are showing their faces. Therefore, the systems-oriented folks can also enter the game of persuasion, however at another level, by overfocusing in trying to make their paintings to stand, such as my using an excessive amount of nails. Now, if they minimize their willingness to put mails, they are to face the "yet another test" against all the external folks they need help. It's a balance. 
+
+
 
 ### Like growth depends on it  
 
@@ -167,7 +202,13 @@ Therefore, looking from this angle, that tests are happening, working in communi
 
 ## Executive communication 
 
-Now, have seen that *We dismiss communications* and that *Communication matters*. But still, any inclination to that destination will start by a major roadblock - that we still don't care if the road is not clear, safe, and does justice to the needs where communicative experiences are meaninful through the stages of growth and interactions with several audiences - themselves, customers, investors, to name a few. 
+Now, we have considered that *We run with normal communications* and that *Communication matters*. But still, any inclination to that destination will start by a major roadblock - that we still don't care if the road is not clear, safe, and does justice to the needs where communicative experiences are meaninful through the stages of growth and interactions with several audiences - themselves, customers, investors, to name a few. 
+
+<!-- 
+## crossreference
+* We run with normal communications - 
+* Communication matters - 
+--> 
 
 Fortunately, an enlightening way exists, and will help us to manage communications. With that, I welcome you to the theme of Executive Communication (Heavybit, 2019), where we will be guided by Michael Dearing, of Harrison Metal [^footnote_harrisonmetal], and get to know remarkable work of Barbara Minto, the author of The Minto Pyramid Principle (2016) [^footnote_barbara_pyramid]. This the brief journey is less of a guide. I like to think of it as a new paradigm. What Michael asks us to celebrate, and what Barbara set herself to solve, solves the puzzle with communications. In Michael's talk (2019), he had illustrated the complication with a meme known as "How to Draw the Owl" [^footnote_meme_draw_the_owl] which brings about the sad reality of trying to learn about communication: 
 
