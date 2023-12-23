@@ -2,19 +2,7 @@
 
 <!-- ## section / scqa: subject --> 
 
-In this section, we'll reflect about communications, often overlooked by teams. We typically wait for the right moment to think about communications, just like buying a nice wrapping paper before giving the gift. However, in startups, effective communication is crucial throughout the various phases of growth, the frequent interactions with many audiences. We'll reflect of how we maintain the status quo and propose a proactive strategy for communication management.
-
-<!-- 
-
-## history 
-
-* original 0.1 - In this section, we will stress the importance of managing communications. The reason to do so is that teams are generally not interested in how they communicate. We may have good reasons to continue with what we think of as normal communications - with the view that improving communications is applicable when the time is ready, like wrapping paper that is bought off the shelf only if a good gift is ready. In the setting of a startup, this appears as polishing up for the presentation. This view is not useful to the startup situation, due to the high amount of interactions that happen through the journey - the communicative experiences with multiple audiences. We will reflect first on how we continue to run with this normal communications, observations for the price we pay, and finally consider an enlightening approach to manage our communications.
-
-* chatgpt 0.2 - In this section, we'll emphasize managing communications, often overlooked by teams. We typically wait for the right moment to enhance communication, similar to buying wrapping paper only for the right gift. However, in startups, effective communication is crucial due to frequent interactions with various audiences. We'll examine the drawbacks of maintaining the status quo and propose a proactive strategy for communication management.
-
-* 0.3 - Marcio - In this section, we'll emphasize managing communications, often overlooked by teams. We typically wait for the right moment to think about communications, just like buying a nice wrapping paper before giving the gift. However, in startups, effective communication is crucial throughout the various phases of growth, the frequent interactions with many audiences. We'll reflect of how we maintain the status quo and propose a proactive strategy for communication management.
-
---> 
+In this section, we will stress the importance of managing communications. The reason to do so is that teams are generally not interested in how they communicate. We may have good reasons to continue with what we think of as normal communications - with the view that improving communications is applicable when the time is ready, like wrapping paper that is bought off the shelf only if a good gift is ready. In the setting of a startup, this appears as polishing up for the presentation. This view is not useful to the startup situation, due to the high amount of interactions that happen through the journey - the communicative experiences with multiple audiences. We will reflect first on how we continue to run with this normal communications, observations for the price we pay, and finally consider an enlightening approach to manage our communications.
 
 <!-- ## section / scqa: situation --> 
 
