@@ -1,6 +1,8 @@
 # In peace with communication
 
-<!-- scqa: subject --> 
+<!-- ## section / scqa: subject --> 
+
+In this section, we'll reflect about communications, often overlooked by teams. We typically wait for the right moment to think about communications, just like buying a nice wrapping paper before giving the gift. However, in startups, effective communication is crucial throughout the various phases of growth, the frequent interactions with many audiences. We'll reflect of how we maintain the status quo and propose a proactive strategy for communication management.
 
 <!-- 
 
@@ -14,27 +16,26 @@
 
 --> 
 
-In this section, we'll emphasize managing communications, often overlooked by teams. We typically wait for the right moment to think about communications, just like buying a nice wrapping paper before giving the gift. However, in startups, effective communication is crucial throughout the various phases of growth, the frequent interactions with many audiences. We'll reflect of how we maintain the status quo and propose a proactive strategy for communication management.
-
-<!-- scqa: situation --> 
+<!-- ## section / scqa: situation --> 
 
 In the entrepreneurial setting, communication exists to cause change, such as to get a proposal approved, to offer a viewpoint about a situation that needs attention, to explain how something works, and a lot more. With that, we necessarily include a target audiences where we ask for help towards our goals. In other words, we invite them to listen and to collaborate if they have an interest, such as when a team pitches an investor. 
 
-But as the day goes by, the team communicates with all the good intentions to move needle of the startup further. Through that, audiences can oftenly be confused or objections are frequently raised. A particular example is a situation of an investor that asks the team to stop - right there - before they even get to the point. But these observable effects are generally seen as the cost of the process. These are nuisances that although inconvenient are legitimate. In other words, what has to be told has to be told and if it things aren't heard as expected then that is feedback that can be taken and by the agile nature of the team, it actually helps the tema into the right direction such as to find a way around. Therefore, from an optimistic view, our failures with communication aren't failures as the communication is what moves entrepreneurship further. That is to say that our focus shifts to the dynamics, such as to move through the bushes, going after the truths to be uncovered, the data that proves, the arguments that convinces. This approach is also optimistic in the sense that it seems honest - it allows the conversation to happen, it is inclusive, and debatable. Thus, if we lower priorization to invest communicating better, we might do so with ties , if not fears, that we would be failing with the more urgent work which asks us to focus on parts that seem move logical, like arguments. This might also be quite evident in the early stage where the offering is being designed, the customers yet to be discovred, which only seem to justify that further investment in communication is a waste of resources and can be deferred to later, such as when communication can be used when the value proposition is solid, when customers are known, in what seems to be the right time.   
+But as the day goes by, the team communicates with all the good intentions to move needle of the startup further. Through that, audiences can oftenly be confused or objections are frequently raised. A particular example is a situation of an investor that asks the team to stop - right there - before they even get to the point. But these observable effects are generally seen as the cost of the process. These are nuisances that although inconvenient are legitimate. In other words, what has to be told has to be told and if it things aren't heard as expected, then feedback is incessantly welcomed under the agile nature of the modern team; which seems to help the team to course-correct "back into the right direction." Therefore, under the modern terms of entrepreneurship, there is an an optimistic view where normal communication is not an issue, that nothing is failing, and even as it is, a more active use of it is seen as necessary. That is to say that our focus shifts to the dynamics, such as to move through the bushes, going after the truths to be uncovered, the data that proves, the arguments that convinces. This way to see is like thinking that communication finds a way, just like life finds a way. Our inclination to keep using normal communications is also optimistic in the sense that it seems honest - that it allows the conversation to happen, that it is inclusive or debatable. 
 
-<!-- 
-## scqa: complication 
---> 
+In other words, the possibility of investing in communications is not only seen as unnecessary but it may be even considered to be wrong. The normal thinking is that we can use this normal communications to these important activities first - assuming it helps with the necessary work such as to discover customers and to figure out the value to be offered - and then, at some point when it is time to present or to convince, we justify a kind of improvement to the communicative experiences, like shopping for a nice wrapping paper for a gift that is ready. The startup version of that may appear like the polishing work to a presentation, learning with cases of sucessful presentations, and the like.    
 
-Now, the complication isn't that investing in communication is wrong - such as in an extremme to be seen as an evil act. But when entrepreneurs consider further investment, and compare the extremmes of poor communication with substance vs. quality communication lacking substance, they rather invest in what seems to be logical, and applicable to the urgency, which favors value as logically no value may fully exist yet, which pushes them to think that quality in communication serves the the communication purpose for when things are ready. This takes us to ignore communication as a valuable investment that can support the growth process of the startup, as it is developed. With that, we continue to communicate in inneficcient ways, to confuse our teams, our audiences, and the many others in our ways. What is even worse is that, as we ignore investing in communication and yet use communication to get something of them, we favor focusing on more reasons to convince, such as data, which puts pressure on the team to engage in being excessive focus, if not obsessive, towards adding value to what is being offered, if not engaging in manipulating the data. 
+<!-- ## section / scqa: complication --> 
 
-To support founders to value communication throughout the whole process - as opposed to being a of-the-self tool for when things are ready - we will start by considering how we generally dismiss communication, perceptions that may support us to not consider communication. Then we will consider why investing in communication is critical, such as why it matters for startups that have affairs with various levels of audiences,  and the potential risks of overfocusing in product without aiming for the coherence in communication. And finally, we will consider a logical approach to value communication, referred as Executive communication.
+Now, that viewpoint is a complication preventing teams to find better ways to organize, or manage, their communications; under the assumption that better communications is something political, such as that it promotes, convices, persuades; while that normal communications is more honest to the needs of the average day. That view also pushes teams to overlook communications, even to a point of thinking that it is wrong - like an evil act. With that view, they are expected to prioritize some other works which they assume to be valuable, such as finding value to customers, such as coming up with the proofs, such as prototyping, concretizing some of their thesis. With that, again, they do think that they are using communications, or normal communications, which takes us to ignore any possible opportunities to manage communications. By this denial of managing communications, to seek an organized approach to communications, they miss the opportunity of using communications in a more helpful and honest way to the needs of the startup, as it is developed. With that, we continue to communicate in inneficcient ways, to confuse our teams, our audiences, and the many others in our ways. What is even worse is that, as we ignore investing in communication - and yet use communication to get something of them - we favor focusing on reasons to convince, such as going find the data, which puts pressure on the team, such as to excessively, if not obsessive, try to add value to what is being communicated, that can even take them to misuse data as a convincing mechanism. 
+
+To support founders to value communication throughout the whole process - as opposed to being a of-the-self tool for when things are ready to be presented - we will start by considering how we generally dismiss communication. Next, we will move to why communication is critically being used with multiple audiences, and the potential risks of overfocusing in product without aiming for the coherence in communication. And finally, we will consider a logical model that help teams to manage their communications - an approach referred as *Executive Communications*.
 
 ## Running with normal communications
 
-<!-- 
-## crossreference
-* Running with normal communications - 
+<!-- ## crossreference 
+
+* title: Running with normal communications - 
+
 --> 
 
 <!-- scqa: abstract 
@@ -107,9 +108,8 @@ Thus, under the pressure of the normal corporate space, the roles might indeed g
 
 Now, the above consideration that *Running with normal communications* isn't in any way an evidence that we ignore communications. As an example, if we care to check the things being told, we do so because we are trying to be conscious. And if we favor rationality, such as going after the good reasons, we do so because of our interest to make our narratives truthful. In other words, we know that communications matters, a lot. It matters so much that we deal with fixing communication that way, through a collaborative environment where our narratives are constructed as the day goes by. 
 
-<!-- 
-## crossreference
-* Running with normal communications - 
+<!-- ## crossreference
+* title: Running with normal communications - 
 --> 
 
 With that said, let us consider reasons why communication matters by reflecting about side effects of the normal communications in the average day. One being a reflection about the ongoing and endless frustration that set many of us to be mad such as when they don't get the endless meetings only after a lot of endless meetings have happened. And also, from the other side of the spectrum, when we seem to react to fix the broken communications by going straight to use, and abuse, with data. 
