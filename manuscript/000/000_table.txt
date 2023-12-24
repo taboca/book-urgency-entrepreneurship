@@ -1,5 +1,7 @@
 # Todo # 
 
+* p2 ( ) - In Part 2, Communicatons, 040_communications.txt - Check the footnote footnote_model_four_stages_competence which seems to be correct, however, from the Learning How to Learn course, the model is referred to Noel Bursh. ref 6575-85674-8483-3298
+
 * p2 ( ) - Part 2, Communications - Case of Jeff Bezos asking to double check the data - Within the "It calls for evil data", a case may be presented which is the case where Jeff suspected that people would lie to him, with data, to please him. Ref 7493-8458-8478-8944
 
 * p2 ( ) - Part 2, Communications - Communication matters need a graceful transition, according to style-657-768. / ref 75674-785743-85784-847883
