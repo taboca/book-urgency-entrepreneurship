@@ -180,6 +180,16 @@ The other drive to an interest in lean would be the realization that the beginin
 
 [^footnote_steveblank_hallucinations]: Steve Blank illustrates that the visions of founders are visions, are dreams, not disconnected from the situation of "a calling". The metaphor that founders hallucinate given by Steve makes that point. 
 
+[^footnote_eric_ries_leanstartup_principles]: 
+
+<!-- 
+
+## todo 
+
+* p2 ( ) - In Part 2, Lean Attention Deficit, 630_lean_no_lean.txt - Write the footnote footnote_eric_ries_leanstartup_principle that indicates that lean startup has principles. / ref 989285-985983-9583958-983895
+
+--> 
+
 But, of course, all of that can't be problem. Except that the responsibily lies in the hands of the drivers, and even when they do so with all the good intentions, a complication comes when the inclination towards these methods of rigor, which favors the perspective for rigorous analysis, takes the attention away from keeping the subjective considerations, or in an extremme scenario, to push the team into the full denial of any subjective interpretation. 
 
 <!-- 
@@ -224,11 +234,23 @@ Or to map the forces in the illustration, since we are not in the situation, and
 
 ### Fusion with the critic  
 
-Furthermore, this confrontation of interests may also appear in any stages such as the situation of a small team or even at the individual level, thus it may give us to opportunity to consider a notion of fusion; which is a tension where multiple roles with different interests appear in the setting of a minimal entity of work that would apparently look to be confused. A reflection about the early company struggle, the apparent sign of trouble, can be identified by the indicated conflict that a founder may have found as they fight with the data the the realization of "they just don't get it" (MAP14, 2014) when they are focusing on the vision; and alltogether the eventual realization of "they might be right" which shows that they had defined a responsibility to the duty of lean in the first place. This situation shows how the lean experiment can be fragile in as things are not clear, in front of a perception of clear vision. But, on the other hand, quite strong, if the responsibility of doing lean acts as a stronger criticism. The reality is that “one data point is not enough” as indicated by Steve, is strong enough, tough, to cause change of path in a development in both situations - either trusting too much lean data or the full denial. 
+Furthermore, this confrontation of interests may also appear in any stages such as the situation of a small team or even at the individual level, thus it may give us to opportunity to consider a notion of fusion; which is a tension where multiple roles with different interests appear in the setting of a minimal entity of work that would apparently look to be confused. A reflection about the early company struggle, the apparent sign of trouble, can be identified by the indicated conflict that a founder may have found as they fight with the data the the realization of "they just don't get it" (MAP14, 2014) when they are focusing on the vision; and alltogether the eventual realization of "they might be right" which shows that they had defined a responsibility to the duty of lean in the first place. This situation shows how any interaction with the external environment offers a risk, or fragilily, under the perspective of the outstanding values of the situation, that things are not clear given the perception of quite strong vision or aspiration. Therefore, the point we can now reflect - using the individual situation - reveals that the voice of the market becomes strong, represented, and into view frame, the lean can be a challen for stronger criticism. The reality is that “one data point is not enough” as indicated by Steve, is strong enough, tough, to cause change of path in a development in both situations - either trusting too much lean data or the full denial. 
 
-Let us consider how to tame the critic, therefore to allow room for external interactions where data chimes in, and where the critical analysis is deferred to later, with a more conscious and friendly secondary phase, such as of what a conscious board would do. 
+To illustrate this situation of fusion of the doer and the critic, consider a situation of an aspiring writer that seeks feedback through her writing process. As she engages with others, she also becomes a lister to the point of view of that specific critic, although one created by her and not entired the actual other. In other words, the voice of that critic is heard as perceived, even to a point of being blocked by the very criticism. This complex situation might have been captured by the careful viewpoint of Julia Cameron in The Right to Write, as she the complication with Terrence, a writer that became blocked when interacting with a professional editor: 
 
-To illustrate this situation of fusion of the doer and the critic, consider a situation of an aspiring writer that needs feedback as writting happens. As she engages with others seeking feedback, she also engages in overlistening to a point of internalizing the voice fo the critic, even to a point of being blocked by the very criticism. This complex situation gains an enlighted viewpoint with the wisdom of Julia Cameron given by The Right to Write - as she points a case of Terrence, a writer that became blocked by interacting with a professional editor: 
+> *"Driven by the market and what he perceived to be 'currently' selling, the agent was unable to read the work for its own shape and value. He was quick to ask for drastic revisions not in the direction the work was naturally evolving but in the direction he felt he could sell. Terrence's productivity plummeted. The steady and accomplished production he had enjoyed for years slowed down to a crawl and then stopped entirely. He could not write without thinking of what his agent would think and how his agent would want the work altered. Eventually, Terrence could not write at all."* Julia Cameron (1998, p.180)
+
+<!-- 
+
+## reference
+
+Cameron, J. (1998). The Right to Write. TarcherPerigee.
+
+--> 
+
+But it turns out that the criticism, such as that negative criticism that mutilates the work, is really tied to how one internalizes what was told, like voice of the market. In other words, when it happens like as if the data is too strong, or too brutal, it might happen under a latent potential for criticism which is outstanding in the first place by the situation, like expectations, of the doer. 
+
+As indicated by the situation given by Julia, an impact is likely applicabel such as that the writer-doer to be trapped in the conflict, where from the extremme cases, one possible outcome is to write by following the editor and lacking the writer's voice, and on the other side writer's block:
 
 > *"Although we seldom think of it this way, a writer's block is often very healthy self-protective on the part of our inner creator to a dangerous threat. Terrence's inner writer refused to have his work misread and mutilated."* Julia Cameron (1998, p.180)
 
@@ -240,7 +262,31 @@ Cameron, J. (1998). The Right to Write. TarcherPerigee.
 
 --> 
 
-She points that there are cases that when editors are out of the loop - fired - the work had continued to work, the writing continued to happen. But it turns out that the criticism, such as that negative criticism that mutilates the work, is really tied to how one internalizes what was told, like voice of the market. In other words, when it happens like as if the data is too strong, or too brutal, it might happen under a latent potential for criticism which is outstanding in the first place by the situation, like expectations, of the doer. Therefore, is not unlikely that the incident is so brutal that one can't even reflect about what has happened, such as being aware that what was shown wasn't ready to be exposed to that particular kind of critisicm, such as that the doer might have engaged with anyone under the assumption that the criticism would advance smoothly, such as that one had invited a quite arbitrary reviewer, such as one that is also not conscious, or even aware, that the text is under construction may actually needed to be seen in perspective. In other words, the writer-doer wasn't conscious of that in the first place. This complexity requires, as recommended by Julia Cameron, that a writer to engage in activities such as of nurturing readers, thus to be free from the critic that is unconscious, and to get involved with a critic like a friendly critic: 
+<!-- 
+
+## todo 
+
+* p2 (Done), In Lean Attention Deficit, 630_lean_no_lean - Consider to quote Julia as she explains how a write internalizes the "editor" - what he would say. This also has a connection with the comment from Jordan Peterson on his willingness to maintain "roles" like characters representing point of views - you may find this in JP's tips about writing. 
+
+--> 
+
+Therefore, is not unlikely that appearances of criticism are resulting from the incidents of interactions, which happens to be brutal as one can't reflect on what has happened, when they lack being aware that what was shown wasn't ready to be exposed to that particular kind of critisicm - such as that the doer might have engaged with anyone under the assumption that the criticism would advance smoothly, such as that one had invited a quite arbitrary reviewer, such as one that is also not conscious, or even aware, that the text is under construction may actually needed to be seen in perspective. 
+
+With these considerations, we continue to use the wisdom from the good teachers or writings on - beyond being conscious of these criticism - some ideas for taming the critic, therefore to allow room for external interactions where data chimes in, and where the critical analysis can be deferred to later, with a more conscious and friendly secondary phase. 
+
+In this direction, an insight about a writing process by Jordan Peterson unveils his effort in establishing a conscious process the viewpoints that can act on top of the writing. His viewpoint suggests that we also think by creating "internalized conversations" which I personally like to see as narratives that are in a way associated with certain *roles* or active characters: 
+
+> *"Basically what you do, and this is really what you do when you think, is you know if thinking is an internalized conversation, which at least is one form of thinking, is that you spin off avatars of yourself. You say, 'Well, you take this position, and you take this position, and you take this position,' and then you have each fictional part of yourself lay out the argument and argue it through."* — Jordan Peterson (2018, 16:50-17:04)
+
+<!--
+
+## references
+
+Valuetainment. (2018, October 18). Jordan Peterson - UNCENSORED [Video]. YouTube. https://www.youtube.com/watch?v=dvBbxbjFRw4
+
+--> 
+
+This complexity requires, as recommended by Julia Cameron, that a writer to engage in conscious support to the process, such as of nurturing the space. As an example, she suggests how readers can be directed; which is to say in other words that the perception of the doer is being directed and sets them free from the critic that is unconscious, which opens the space for obtaining value from feedback:  
 
 > *"It is very important that we keep a few nurturing readers as friends to our work quite apart from whatever is going on in our publishing life. We need people who are happy to hear a poem or an essay for its own sake and not as career maneuaveurs. The part of us that writes must be allowed to write freely and not always with an eye to the market. An eye to the market is part of the writing life, but if it is too large a part, it shuts down invention and leads to the blockage of many valuable avenues of exploration which are not - at first blush - commercial."* Julia Cameron (1998, p.181)
 

@@ -1,5 +1,11 @@
 # Todo # 
 
+* p2 ( ) - In Part 2, Lean Attention Deficit, 630_lean_no_lean.txt - Write the footnote footnote_eric_ries_leanstartup_principle that indicates that lean startup has principles. / ref 989285-985983-9583958-983895
+
+* p2 ( ) - In Part 2, Communications, 040_communications.txt - Jordan Peterson may have a good point about the interaticve nature of editing, with technological tools like word processors, and which also gives a hint that one could enter into being arbitrarily editing if one didn't have a process https://www.youtube.com/watch?v=X3otsJZWKbk&t=915s This can support the idea of the macro version of this where workers are doing arbitrary movements and trying to edit in retrospect; which eventually works, perhaps, although have a cost to pay; such as the cost that people could never really think through the process themselves, just plug the good reasons and eventually the machine puts together the "chapters". Read through Jordan's interview about the micro to macro version and perhaps this idea can be established - https://www.youtube.com/watch?v=DKc4-iVJsL0
+
+* p2 ( ) - In part 2, Communications, 040_communications.txt - Consider Jordan Peterson's insight about writing and arguments: "As you progress through life, one of the things you realize, especially if you're dealing with people in relatively sophisticated situations -- but it doesn't really matter -- is that those who formulate the best arguments win. They win everything! Right? They negotiate more effectively at work. People are more likely to listen to and abide by the plans that they formulate. They formulate better plans. They can negotiate better with their spouse and their children, because they're articulate. And it's such a funny thing, because it's so seldomly the case. You know. What's the utility of a liberal arts degree? Well, right now, damn little, I would say. But previously the whole idea was, well, it would teach you to communicate. It would teach you to write. Why is that useful? Well, because if you could communicate effectively, then you always do better at everything. You know. And it doesn't matter what endeavor you're pursuing. If you're a housing contractor and you have to negotiate with your clients, if you can formulate your plans and your arguments in an articulate way, you're way ahead of the game. And it sharpens you up in such a remarkable way." Jordan Peterson and the Writing Process https://www.youtube.com/watch?v=X3otsJZWKbk&t=915s
+
 * p2 ( ) - In Part 2, Communicatons, 040_communications.txt - Check the footnote footnote_model_four_stages_competence which seems to be correct, however, from the Learning How to Learn course, the model is referred to Noel Bursh. ref 6575-85674-8483-3298
 
 * p2 ( ) - Part 2, Communications - Case of Jeff Bezos asking to double check the data - Within the "It calls for evil data", a case may be presented which is the case where Jeff suspected that people would lie to him, with data, to please him. Ref 7493-8458-8478-8944
@@ -183,6 +189,8 @@ https://chat.openai.com/share/b7eb16c5-4c18-4709-9220-bd2629f34a3d
 * Culture 
 
 ## Done
+
+* p2 (Done, @Marcio), In Lean Attention Deficit, 630_lean_no_lean - Consider to quote Julia as she explains how a write internalizes the "editor" - what he would say. This also has a connection with the comment from Jordan Peterson on his willingness to maintain "roles" like characters representing point of views - you may find this in JP's tips about writing. 
 
 * p2 (Done, @Fred) - Communications - Put the endless meetings into the context - The illustration "Endless meetings" was brought up by Fred Filho. 948848-98444-84895-129384
 
