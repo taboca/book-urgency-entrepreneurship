@@ -1,5 +1,7 @@
 # Todo # 
 
+* p2 ( ) - In Part 2, Communications, 040_communications.txt - Writing to open up thinking process - Consider supporting Jordan Peterson's quote starting with "Consider ... " and ending with "whole empires." @ https://jordanbpeterson.com/wp-content/uploads/2018/02/Essay_Writing_Guide.docx / ref - 424972-492849-4298492-4982489
+
 * p2 ( ) - In Part 2, Lean Attention Deficit, 630_lean_no_lean.txt - Write the footnote footnote_eric_ries_leanstartup_principle that indicates that lean startup has principles. / ref 989285-985983-9583958-983895
 
 * p2 ( ) - In Part 2, Communications, 040_communications.txt - Jordan Peterson may have a good point about the interaticve nature of editing, with technological tools like word processors, and which also gives a hint that one could enter into being arbitrarily editing if one didn't have a process https://www.youtube.com/watch?v=X3otsJZWKbk&t=915s This can support the idea of the macro version of this where workers are doing arbitrary movements and trying to edit in retrospect; which eventually works, perhaps, although have a cost to pay; such as the cost that people could never really think through the process themselves, just plug the good reasons and eventually the machine puts together the "chapters". Read through Jordan's interview about the micro to macro version and perhaps this idea can be established - https://www.youtube.com/watch?v=DKc4-iVJsL0

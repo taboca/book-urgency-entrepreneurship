@@ -1,6 +1,49 @@
 
 <!--
 
+### Short outline - SCqA based 
+
+* Subject - Things become urgent, after an initial movement that shows signs of traction; traction that had reached a sort of impact. The discussion important vs. urgent sets in, if the team starts to consinder the price to pay, such as that they startup can fail entirely; unless they can reinvent themselves and go back to the unsafe position where opportunity might exist, aiming for a better future. 
+
+* Situation - Activities that shows signs of working starts to take the attention from the team. 
+* Situation - We value traction as opposed to the doubt or unknown. 
+* Situation - Strategic activities, and even stratetic planning, receives less attention, with the sharing of resources. 
+
+* Complication - Urgent becomes urgent because we value activities with more real feedback. 
+* Complication - Urgent problems seem to be good problems. 
+* Complication - Difficult to let it go, under the assumption this focus area will save everything?
+
+* Question - What and why is that? And can teams break urgency and extend their tolerance to go seek something better? 
+
+* Answer intro - We will see how we experience forces of feedback "enters the game" especially that under the new reality of feedback, a prior vision can be compared and may become weak. Under pressure, backed by values, by principles, and representation of success goals plays a role. 
+
+* Answer intro - To solve, it is about being protected, like an investment, which requires a view and team commitment to what is important, to vision, to goals and using analysis that transcends the urgent realities.  
+
+* k1 - Temporal analysis - 
+* k2 - Feedback valuation 
+* k2 - Feedback valuation - amateur feedback 
+* k2 - Feedback valuation - -- protected by values 
+* k2 - Feedback valuation - -- exercising from principles 
+* k2 - Feedback valuation - Protecting by local-global representativeness 
+* k2 - Feedback valuation - Protecting by leadership 
+* k2 - Feedback valuation - -- Story of the dishwasher 
+* k2 - Feedback valuation - Protecting by readiness 
+* k2 - Feedback valuation - Search for reasons for timeless 
+* k3 - Conclusion - 
+
+
+### SCqA v0.5 
+
+* Subject - When activities are executed as urgent, execution might have reached a saturation point which would also call for the discussion - important vs. urgent. But as urgent is urgent based on feedback systems that take place, new ideas such and discussions about important activities can be killed. We should consider a reflection about the feedback systems and values that keep the equilibrium and the team to consider engaging in new activities which could help with change and innovation. 
+
+* Situation - The theme, important vs. urgent, becomes a subject when what is being done reaches a sort of 100%, saturation preventing change and improvement of the work process. Unless urgent activities shows a major sign of trouble, it is difficult for teams to see through, think through, and justify use of time that is strategic; as the traction with activities taken as urgent feeds a system of value that keeps an equilibrium that seems promising. 
+
+* Complication - A system of values supports the feedback system which makes urgent to become urgent. A team success finds good problems which ties with good reasons to solve these good problems. Like customers - good problems. Good reasons to support all customers could be that the prior investment was major effort to go seek customers. 
+
+* Question - How teams can break urgency that opens space for reflection and possibilities to drop some of the urgent activities to consider non-urgent and important and, quite risky. 
+
+* Answer - The answer lies in seeking protection, like by reviewing values, or principles, or setting roles that represent new goals. Although a simple idea, the odds for not happening is high, due to urgency to maintain the equilibrium (we will see how we experience this), due to lack of clear views of values, principles affecting the feedback that feeds urgency, and due to lack of representation and support to what is ahead vs. risks.  
+
 ## Todo 
 
 * ( ) p2, Consider Maslow / * Abe maslow, p.178 - for Maslow, a question of time and time span affects collaboration and management. The illustration is of an environment where quick decisions are needed. In this situation, the superior (in the case of maslow a player that is superior in Intelligence) have a tendency to make decisions quick, to be directive, authoritative and to not allow room for discussion. It's an urgent agenda with no time for redesigning, possibly allowing actions such as harvesting or applying the potential that is on the table. On the other hand, there could be a situation that more time is allowed, thus in this scenario the superior can act differently. In this case, Maslow considered the building of a business to last for 50-100 years. In such protected frame, the dynamics of the group could be different and tending to the participative front, even in the condition of a natural unbalance with superiority of manager amid subordinates. If the time range is higher, such as if we extrapolate to the point of the need for a manager to find its sucessor, then the authoritativeness approach may become different, such as it may have better chances to tend to the manager approach as pointed by Andy Grove, the manager as an educator for example. *  Maslow adds, p.178, "this is a little like saying again that the ideal management policies are best under good conditions in a good world for management of good people. " And "If we had a peaceful, one-world society in which there were none of the present emergencies and in which we could patiently work toward the improvement of mankind, then the more participative management would be more desirable, even under this special condition of admitted superiority. "
@@ -36,18 +79,6 @@ O nosso ser gestor pode não estar preparado. Assim, por um lado é merecedor de
 * v0.1 - You just don't turn it off 
 
 ## SCqA 
-
-### SCqA v0.5 
-
-* Subject - When activities are executed as urgent, execution might have reached a saturation point which would also call for the discussion - important vs. urgent. But as urgent is urgent based on feedback systems that take place, new ideas such and discussions about important activities can be killed. We should consider a reflection about the feedback systems and values that keep the equilibrium and the team to consider engaging in new activities which could help with change and innovation. 
-
-* Situation - The theme, important vs. urgent, becomes a subject when what is being done reaches a sort of 100%, saturation preventing change and improvement of the work process. Unless urgent activities shows a major sign of trouble, it is difficult for teams to see through, think through, and justify use of time that is strategic; as the traction with activities taken as urgent feeds a system of value that keeps an equilibrium that seems promising. 
-
-* Complication - A system of values supports the feedback system which makes urgent to become urgent. A team success finds good problems which ties with good reasons to solve these good problems. Like customers - good problems. Good reasons to support all customers could be that the prior investment was major effort to go seek customers. 
-
-* Question - How teams can break urgency that opens space for reflection and possibilities to drop some of the urgent activities to consider non-urgent and important and, quite risky. 
-
-* Answer - The answer lies in seeking protection, like by reviewing values, or principles, or setting roles that represent new goals. Although a simple idea, the odds for not happening is low, due to urgency to maintain the equilibrium (we will see how we experience this), due to lack of clear views of values, principles affecting the feedback that feeds urgency, and due to lack of representative roles for the important activities. 
 
 ### SCqA v0.4  
 
