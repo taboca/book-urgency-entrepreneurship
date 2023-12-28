@@ -270,6 +270,7 @@ Graham, P. (2014, Outubro 9). Before the Startup with Paul Graham (How to Start 
 
 <!-- 
 * From 450_passing_on_stories.txt 
+* 030_wanterpreneur 
 --> 
 
 Graham, P. (2014). Before the Startup. http://www.paulgraham.com/before.html

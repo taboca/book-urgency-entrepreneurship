@@ -1,5 +1,7 @@
 # Todo # 
 
+* p2 ( ) - In Part 1, Wantrepreneur, a citation of Ogilvy needs to be reviewed for accuracy - "the best way to increase the sales of a product is to improve the product" (Ogilvy, 1983, our translation). Ref 6575-8575-84374-8584
+
 * p2 ( ) - In Part 2, Communications, 040_communications.txt - Writing to open up thinking process - Consider supporting Jordan Peterson's quote starting with "Consider ... " and ending with "whole empires." @ https://jordanbpeterson.com/wp-content/uploads/2018/02/Essay_Writing_Guide.docx / ref - 424972-492849-4298492-4982489
 
 * p2 ( ) - In Part 2, Lean Attention Deficit, 630_lean_no_lean.txt - Write the footnote footnote_eric_ries_leanstartup_principle that indicates that lean startup has principles. / ref 989285-985983-9583958-983895
