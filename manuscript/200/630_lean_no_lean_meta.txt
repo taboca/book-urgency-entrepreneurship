@@ -1,10 +1,48 @@
-## Internal Titles
+## Outline v2 - Lean attention deficit 
 
-* lean no lean 
+* Introduction - Startups will stumble on lean.  [#popular]
+* Introduction - Lean methods go along with modern needs.  [#trends #userinnov #openness #discovery]
+* Introduction - What is the lean movement, when started and what it did? [#gap #businessold]
+* Illustration of case - Validated learning and Lean Startup. [#premise-validation-growth]
+
+* Situation - Explosions - not of quantity of data but of interactions with poor data. [#iterativeagile]
+* Situation - Encounter with fragments of data which is quite significant. [#critic]
+* Complication - Agility pulls decision - a potential to move prematurely, with data and narratives. [#pivotpride]
+* Complication - Agile to execute enamorated with process, perfectionism, low-self steam. 
+* Complication - Agile to be formal about subjectiveness under lean objective lenses. 
+* Question - Can they consider awareness on how they go with lean?
+* Question - Can they focus on why their business model can fail?
+* General answer - Conscious about lean is to consider the corporate dynamics for when lean fails with the purpose. And from that, a reflective opportunity to consider lean failing at the beginning.  
+
+* k1 - Lean corporate frustration. 
+*      \__ Holistic view under pressure [feat. ER]
+*      \__ Breakdown of the holistic view 
+*      \__ 
+
+* k2 - Entrepreneurial attention deficit - 
+* k2    \___ Situation    - Agily is high, data is high, potential risk to move too fast 
+* k2    \___ Situation    - Aversion to subjectiveness - can't sustain, has to be with data. 
+* k2    \___ Complication - Fails with subjectiness - values, vision, full denial - subjective using data. 
+* k2    \___ Discussion - Not easy - the narrative context can be outstanding. 
+* k2    \___ Discussion - Not easy - Growth grading pressure, judgement by numbers. 
+* k2    \___ Discussion - Observations of observers: Attention deficit, purpose lack, enamorated with process. 
+* k2    \___ Abstraction - ?? p. 294
+* k2    \___ key - Fusion with the critic individual case "they don't get vs. they might be right"
+* k2        \___ Writer case - currently selling vs. writer's block 
+* k2        \___ Writer case - Fixing with views and supporting perspectives 
+* k2        \___ Case, Canvas Anchoring 
+* k2        \___ Case, Selective pressure 
+
+* k3 - Expanding the horizon 
+* k3 -  \___ The critic is not a killer - friendly 
+* k3 -  \___ Purpose before surprises - anticipation 
+* k3 -  \___ Connect with higher-order purpose  
+* k3 -  \___ 
 
 ## Titles 
 
 * v0.2 - Lean deficit disorder 
+* Internal - lean no lean  
 
 ## Vs. other chapters / articles
 

@@ -3,15 +3,49 @@
 
 ## v3 
 
-### Outline 
+### Writing perspective 
 
-* ka - How it is generally perceived, underlying values and the feedback of urgency, unbundling 
+* Ideas - Bundling vs. unbundling. When urgency comes our way, it seems that it is like auto bundle is happening. From that you can be either a victim of the situation, which can prompt us to be stuck, to react to maintain the box, to untouch it. Or you can be exposed to the learnings, into the box, and do nothing. Or you can reflect in and out from the box, and which let you unbundle all of it, and perhaps come up with a new storyline which can be provoked to the team, which can be liberating - of course which will incur risks. 
 
-* k1 - How it is perceived - 
+* Ideas - Urgent might be the learning, or can be stuck, change?
+* Questions - Could check Eisenhower's matrix by 7 Habits - Marcio has the book - and also which were the origins of the thinking of the matrix, does it bring up the point about that urgent vs. important has to do with something like interference?
 
-* k2 - Underlying values - 
+### Outline v2
 
-* k3 - Unbundling / conclusion 
+* Topic - What is the nature, or the critical aspects that makes work to become urgent, and why it matters to be aware about what drives urgencies. 
+
+* Thesis - There is no important versus urgent. There should be only important, although urgent comes our way. 
+
+* Introduction - scqa - situation - Success of a team leads to urgency. 
+* Introduction - scqa - situation - Get dragged to maintains an equilibrium due to high stakes. 
+* Introduction - scqa - situation - Saturation - leads to signs of trouble - Urgent vs. Important. 
+* Introduction - scqa - situation - Unless major sign of trouble, they get stuck.   
+
+* Introduction - scqa - complication - Overvalue - by perceived value.
+* Introduction - scqa - complication - Overvalue - prior investment. 
+* Introduction - scqa - complication - Miss perspective - Teams can start to work more, out of accounting. 
+* Introduction - scqa - complication - Enter danger - Facing the explosion of problems can be difficult. 
+* Introduction - scqa - complication - Strategic analysis is painful. 
+
+* Introduction - scqa - question - Why we are dragged towards urgent? 
+* Introduction - scqa - question - Can we escape?
+
+* introduction - scqa - general answer - How we bundle ourselves as urgent and considerations to unblundle. 
+
+* scqa - answer - ## How we experience the complication
+* scqa - answer -   \___ Observations of a factory that becomes urgent  
+* scqa - answer -   \___ Potential explosions - the end justifies the means.   
+* scqa - answer -   \___ Potential alternate storylines 
+
+* scqa - answer - ## The reflection about feedback and values influencing
+* scqa - answer -   \___ Amateur feedback 
+* scqa - answer -   \___ Protected by values  
+* scqa - answer -       \___ Facets of pleasing   
+* scqa - answer -   \___ Protected by local-global representativeness
+* scqa - answer -   \___ Protected by leadership
+* scqa - answer -        \___ Story of the dishwasher solution
+* scqa - answer -   \___ Protected by readiness
+* scqa - answer -   \___ Reasons for timeless 
 
 ## v2
 

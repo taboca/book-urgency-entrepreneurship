@@ -1,0 +1,105 @@
+## Writing framework - 20% + 80% - less critics, more flow 
+
+* Phase 1 - Domain 
+* Phase 1 - Problem and Motivation 
+
+* Phase 2 - Lower self criticism / Ref Jordan Peterson's Writing Process, Ref Ayn Rand, Ref Julian Cameron
+* Phase 2 - Outline 
+* Phase 2 - First draft quick and dirty / Ref Jordan Peterson's Writing Essay 
+
+* Phase 3 - Editing - Paragraph and sections arrangement. 
+* Phase 3 - Editing - Sections vs. outline review. 
+
+## Editor note - Watch for breezyness - thin line between breezyness and style and eloquence? 
+
+* William Zinsser, in On Writing Well, p. 234-235, suggests that the amateur writer may try to "catch up" with a sort of language of professional great writers which appears to be like a breezy writing. 
+
+## Editor note - High stakes, characters, value system, and risks 
+
+* Julia Cameron, in The Right to Write, had given the chapter "Stakes" where she gives a good idea for how to make the reader to care. She points the necessity of supporting a character that has a problem, or is at risk. But that the way to build the empathy to the problem of the character has to do with elaborating the character's value system. 
+
+## Editor note - Logic accross sections - transitionary phrases - ref style-657-768
+
+* Barbara Minto, in The Pyramid Principle, in Reflecting The Pyramid On the Page, brings about the necessity of the writer to use, to write, transitionary phrases "that take the reader gracefully from one grouping to another, as needed." p.171. What she urges you to do is to avoid "The prior section, we talked about X. Now we will talk about  Y.". Instead, consider that such graceful transition can also use the SCqA mechanism. I believe that I have done that in "Executive Communications" as I started with "We have seen that *We dismiss communications* and that *Communication matters*. But still, as we consider the trip in this direction, a major roadblock is that entrepreneurs still don't care until they see a safe road to move forward, that does justice to the needs of using communicative experiences that helps through the stages of growth with several audiences such as themselves, customers, investors, and more. ". The intent was to set a new complication and a reason for the section to exist. 
+
+## Editor note - Remove conclusion headings - 
+
+* Barbara Minto, in The Pyramid Principle, p.175, makes a point that is not useful to the reader to have headings like "Introduction" or "Conclusions". Headings, for her, makes sense because they represent divisions of thought. 
+
+## Editor note - Logic accross sections - within chapters - Titles are similar in structure 
+
+* Barbara Minto, in The Pyramid Principle, p.175, recommends that sections (groups) that have multiple ideas, must have headings that are similar. Such as "How to ...; How to...; How to...;" or "Grouping...; Assigning...; Removing...". 
+
+## Editor note - Style - Writing about science and technology 
+
+* William Zinsser, in On Writing Well, p. 155, explains that some subjects people may not know nothing, and even may not have an interest, like what people think of bats. But, on the other hands, a good writer's goal is to explain the science beyond the surface in ways people can relate to, and be interested. He shows an example of a writer that had explained how the echo-based location mechanism of bats works. A nice thing, from the example given, was that the writer had started by acknowleding how difficult it is to picture that bats can be whistling and calling using sounds. Then the writing follows up to acknoledge that humans can't listen to those frequencies. These two initial statements sound good to a reader, may even catch their attention. 
+
+## Editor note - Storytelling - the hero's land, in equilibrium in the foreword 
+
+* 7097f259-128b-468d-81a7-8c04423b2c63 (check) - When thinking about the ground of entrepreneurs, the terrain which justifies the complication and reason for the book, I had the opportunity to go back to the heroic world of a super hero like Ironman that has tools that are quite smart to help him. The update in the foreword was revisited, in October 10th 2023 with a paragraph that adds more images to the situation of the ground, or terrain, that connects with the cover as it is now. 
+
+## Editor note - Storytelling - How the audience and theme affects interest and value of our story 
+
+* The audience and the world/theme for the story - in storytelling terms, as I have understood from Robert McKee in Storynomics, that a professional author/storyteller measures the quality of their work based on the size of the effect caused to the audience. As in, what is being told, a story, might push the reader to understand, more or less, feel more or less, reflect, and so on. In this regard, Robert reminds us that best selling authors might want to reach out to bigger audiences they seek to open their stories from a crafted world - as more general where a lot fits in - which causes the work to push away the audience, thus the opposite effect. Therefore, as "the terrain" needs to exist for a good story to happen - which is the world that starts with a certain equilibrium and where the problem/change might happen in the face of that Earth to be changed - we shall focus towards the specific, which is unambiguous, and which provides a vidid reason for us (readers or entrepreneurs or who cares for them) to be together. And then, from that, of course more general value can be elaborated, or discovered, or unfolded. In words from Robert, he gives a good example of one that tells "furniture", which is a too general image to start with, ambiguous, and how starting with an specific furniture would be much more interesting and yet how it is unavoidable for a reader to visualize the category anyway.
+
+## Editor note - Quotes - Starting with uncapitalization 
+
+* Marcio has verified in Storynomics a blockquote that started with a lowercase. Check this usage as he thought that it was not possible although he always wanted to do that as some of the quotes are sections of larger quotes. 
+
+## Editor Note - Style - personal stories matter, unique perspective, truths, and not boring
+
+* Pluses - when there is truth 
+* Pluses - no boring
+* Julia Cameron, p.139 if you are weak  about it. The new foreword, 060_foreword_2_cd02b42b-31e1-4511-9312-4b91d41e25f7.txt has a point of view that brings up what Julia said that resonated with me. As, of course, I caught myself judging if I could write without having prooved with success as we know it. 
+
+## Editor Note - Style - dejargonizing - humanization and warmth
+
+* AI Prompt - "Check for concept noums in the following text" that could be jargon. 
+
+* Simple and familiar english - avoid vague nouns,
+* Simple and familiar english - avoid concept nouns, 
+* Example of concept nouns - "Implementation of disruption strategies" -> "Implementation" and "disruption strategy". 
+* Example of concept nouns - "Desenvolvimento de sinergias corporativas" -> "sinergias corporativas" 
+* Example of concept nouns - "Criação de valor agregado" -> "valor agregado" 
+* Example of concept nouns - "Gestão da cadeia de suprimentos" -> "Gestão" 
+* Example of concept nouns -
+* Example of concept nouns -
+* Example of concept nouns -
+
+## Editor Note - Style - Dejargonizing - What not to do 
+
+* [feat. a16z] - Introductory paragraph of article at a16z, shows a good number of jargom and concept nouns - with all the respect to a16z, this is not a style we are to use: "One of the holy grails in the newco world is to build out a digital platform that successfully serves the needs of a broad number of adjacent verticals, and become the definitive platform in its space. We know the now-canonical early examples of this: Amazon, eBay, Craigslist. And we also know that once that holy grail of a new digital platform is attained, competitors quickly come a’ callin’. " - Note: Although it is not a desired style, I am hereby respecting A16z as this intro might be a situation, or subject, which can be recognized by an audience. https://a16z.com/platforms-vs-verticals-and-the-next-great-unbundling/
+
+## Editor Note - Style and Humor connected with main point 
+
+* Humor - Life or family - It happened that Marcio caught himself bringing cases of a very simple life as illustrations to make a point about how automatic ways we behave. He thought it was light, or fun. Some of these illustrations might seem odd, in the face of the so serious aspects of startups. Still, Marcio believes he is using to make the point. 
+
+* Humor - Life or family - William Zinsser confirms about the kind of humor that is simple, it uses the language of family, illustrations from the family and real life, which pulls truths. p.213 of On Writing Well. 
+
+* Humor - Life or family - Connection with the thesis of the book - Now, on a second thought, the situations brought as jokes, or humos, are means to pull truths from our lifes, truths that appears on our way. A real deepr connection with the book thesis is that life urgencies gets in the way of a startup, not only to limit time that is being used but influencing the conversations, the discussions, the language. As an example, the language of war, or an action-oriented language, or clichês; are used in the daily basis to solve the operations of business work, the work life. In other words, work life is connected with life life and with family life. 
+
+* Humor - Life or Family - 450_passing_on_stories        feat. Marcio and Vanessa eating Pasta 
+* Humor - Life or Family - 120_reaction                  feat. Marcio and Bakery Pote da Felicidade 
+* Humor - Life or Family - 260_stop_being_impressed      feat. Salman Kahn
+* Humoe - Life or Family - 480_fear                      feat. Doug Leone 
+
+## Editor Note - style - William Zinsser on no clichés and avoidance for breezy
+
+* Check William Zinsser's The Sound of Your Voice 
+
+
+## Editor cases - Two paragraphs intro with SC of qA - feat. a16z 
+
+* Case: Intro paragraph shows fact but which is reason for an opportunity, it unveils how something happens after the reference situation. As in, from ground, dry, you can wet and should get seeds. 
+
+* Two paragraphs, one with the state of truth as known by the audience, and the second is the base from which the change happens, like the complication, thus this example from A16z shows "SC" leading to Q
+
+"One of the holy grails in the newco world is to build out a digital platform that successfully serves the needs of a broad number of adjacent verticals, and become the definitive platform in its space. We know the now-canonical early examples of this: Amazon, eBay, Craigslist. And we also know that once that holy grail of a new digital platform is attained, competitors quickly come a’ callin’. 
+
+One of the most effective forms of that competition often comes in the form of newcos who aspire to take chunks out of that emergent platform by better addressing the needs of a specific vertical within that platform—by creating a user experience or business model that’s much more tailored to the unique attributes of that vertical. StubHub, for example, took a big chunk out of eBay by creating a ticket-buying experience that was so in tune with the needs of those specific buyers and sellers—with ticket verification, venue maps, and rapid shipping—that they were able to get strong traction in spite of the fact that their fees were substantially higher than what eBay was charging (which likely motivated eBay to buy Stubhub in 2007). " - https://a16z.com/platforms-vs-verticals-and-the-next-great-unbundling
+
+## Cases  
+
+* 450_narratives.txt // Life and family - A touch of humor, or attempt to pull truths from the life, appears on our way. But not in an arbitrary way. The point, that life urgencies gets in the way. You think it doesn't? It comes back to culture, and language, such as the language of war, or action-oriented language. 
+
+* 450_narratives.txt // #pasta #family The case of the Pasta and the urgency of the live pasta. The cook, by asking yes/no for all ingredients in a certain order, implies a value system. It suggests a narrative and guidance. 
