@@ -1,0 +1,42 @@
+## Outline
+
+1 - Photo Montage
+1.a. Intrusion of Communicative Experiences
+1.b. Safe Zones and Judgment Calls
+1.c. Logic of Good Reasons in Lean - Case of 72h by Narrative Lenses
+1.d. Intrusion of Maturity Tests and High Stakes
+1.e. Intrusion of Characterization of Teams
+1.f. Storied Context Comparisons
+  1.f.i. Technical Logic
+  1.f.ii. Numbering
+  1.f.iii. 3 Levels of Discrimination
+
+2 - Parallel Narratives
+
+2.a. Story Context perceived with Customers
+2.b. Story Context perceived with Venture Capitalists (VC)
+2.c. Story Context for Momentary Injustice
+2.d. Story Context for Devil's Advocate
+2.e. Story Context for Innovation Accounting
+
+## SCqA v2 
+
+* scqa - Recap - We have looked at storyelling, of a narrative rationaly, creates a highly effective system for fast collaboration, where people come up experience and act, for good or bad. 
+
+* scqa - Subject - The subject now is to look at the lean methods (can we use one to generalize all?, notice that Marcio has clipping of Eric Ries where he refers to all movements in many areas) and amid their intention to innovation (check the goals of lean, as Eric one that has nothing to do with size) still is difficult to embrace it properly. As in people, even when trying, fail trying to control it. 
+
+* scqa - Sit - Lean is to learn, validated learning. 
+* scqa - Sit - Lean is cheap, meant to be fast, to speed things. 
+* scqa - Complication - People give up lean, talk about using lean but aren't, false-positives, or it does not work. 
+* scqa - Question - Can we be aware of what happens? Can we reflect? In the hope of noticing what our execution, and frameworks of execution, does? 
+
+* scqa - A - Key - Generally, storytelling as the grease to the system, for any team willing to use lean to innovate (check Eric definition) a storied context is developed. In time, amid an existing organization and the forces governing its operationality, lean interpretation, for proposals, data collection, and judgment, suffers as a logic of good reasons affects the story, with many subjective levels, of what is being experience, then affecting decisions, what is being told. 
+
+* scqa - A.0 - Nature of lean - Eric contribs, lean vs. design, thinking. Nature of startups, growth and future. Nature of decision, based on subjective logic and judgement, forces actuating, risk analysis based on analogies/coherent stories, and investing bets, like investor does. 
+
+* scqa - A.1 - How experience fail - Expectations of objectives, character of roles, character of other judges. In terms of goals, although learning is recognized, still there is double bet, the team is intended to succeed. Now that they lie, they just miss beind devil's advocate. On roles, the executor's job might be compensated for finding the solution, not the learning. So it believes she will die if she doesn't find oil. And at complex forces actuating such as complex organizations, a governing force might create blind zones, or clarity zones for a direction, like when legal prevents a simple experiment as if it is against the norm. In other words, identity (character) of goal, identity (character) of individual or team, tension or conflict with institutional identity. 
+
+* scqa - A.2 - How taming - Awareness of the language, the forces, good outstanding reasons, and taming influence of language. Awareness of protection or lock/unlock power, or bundle/unbundle forces. Eric talks about a role to help making work. JOhn Doerr in Measure What MAtters talks about a role of a promoter, whcih also protects a line of conduct, permission, courage bought in. And paralelizing, not when in doubt, but as principle - models of character of self, aside from distortions of self, MD. Check about concept of actuators (physics), Scotch belsky. Problem for startups, is not having a role other point of view. And even worse, a cofounder can also blind. 
+
+SCqA - v0.1 - Teams drop lean? Wait, what is lean? Recognize lean, reason, exactly to seek truths. But the complication is that, in the pressure of goals and expectations, the "Logic of good" reasons applies on different levels, associated with expectation goals. Q and A? Why? The logic of good reasons, and storytelling, supports advancing in a team. Again, the grease. What are generally good reasons? The outcomes as seen. Key 3 is that Incidents feed good reasons in time, we compare with the prior state, like a storytelling. We might be compensating positive with negative? Key 2, for how, is that "Zones of lean" creates allowances but the outcome of the zones, story outcomes, finds "trigger points" where hierarchies of good reasons promotes advancement at another investment level of scale, supposedly influencing risk assessment and fear. 
+
