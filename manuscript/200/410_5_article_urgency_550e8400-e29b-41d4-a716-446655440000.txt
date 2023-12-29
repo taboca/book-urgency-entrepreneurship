@@ -1,5 +1,13 @@
 # The feedback of urgency
 
+<!-- 
+
+## todo 
+
+* p2 ( ) - In Part 1, Searching Impact, there is a whole section entitled "The guardian" which seems as a good introduction to the chapter "The feedback of urgency". Ref 9884-8944-9492-9044 #duplicated #crossreference 
+
+--> 
+
 At any time, a sense of urgency can take the attention of the startup team; which is generally not too bad, as to work in what is urgent comes with a direction, even if it is so to maintain some equilibrium, to sustain a value. But it is also the case that teams - under the consideration of their future - can be concerned that focusing on what is urgent could can put the future at risk. Let us reflect about the things that changes, as the startup advances, and how feedback interferes with how the team prioritizes their activities, such as to get stuck with urgent and non-important activites. 
 
 It comes a day when the team is concerned that some important work is not being done as the team is too busy. This discussion can be explored using the Eisenhower matrix [^footnote_matrix_important_vs_urgent], where the urgent axis intersects with the important axis, resulting in four quadrants: urgent and important, urgent and non-important, non-urgent but important, and non-urgent non-important. Should this matrix appear or not, the core of the discussion has to do with questions such as "why the urgent work is really urgent?" or "why we aren't we working more on the other things that could change our situation to better?" 

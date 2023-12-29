@@ -100,6 +100,14 @@ Or, again, would that be a pattern that repeats with the storied context, as the
 
 ### The guardian 
 
+<!-- 
+
+## todo 
+
+* p2 ( ) - In Part 1, Searching Impact, there is a whole section entitled "The guardian" which seems as a good introduction to the chapter "The feedback of urgency". Ref 9884-8944-9492-9044 #duplicated #crossreference 
+
+--> 
+
 Existe uma força que pode assediar o empreendedor e o levar a preencher completamente sua agenda; resultante de uma crença que mais trabalho traz mais resultados. Essa força pede incremento, produção, ou mais eficiência com as atividades que estão em curso. Essa busca por produtividade é de certa forma natural porque as ações de empreendedores são guiadas por feedback. O problema é saber que tipo de feedback deve-se ouvir; e reconhecer a necessidade de atuação nas várias frentes de um negócio. O foco unicamente ao design do produto, por exemplo, não resolve as outras questões relevantes para o crescimento e sustentabilidade do negócio.
 
 Essa pressão, de certa forma positiva, ocorre por exemplo quando empreendedores fazem leituras a partir de sinais que mostram tração. Os sinais podem ser vários. Um empreendedor-programador pode ser muito eficaz no processo de design e desenvolvimento do produto; e normalmente esse tipo de eficácia acaba influenciando o projeto como um todo com a ideia de que as coisas estão no caminho certo.

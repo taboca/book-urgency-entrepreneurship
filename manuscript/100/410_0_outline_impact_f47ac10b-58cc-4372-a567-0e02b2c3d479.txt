@@ -1,26 +1,48 @@
+## Outline v2 - Searching impact 
 
-## Todo 
+* Subject - We aim for impact but we miss the possibility by the urge to create impact. 
 
-* ( ) As I have added the points of Michael, to section "How we experience" and also the section "The ethical performer" wihch connects with an e-mail message that Marcio has written to Michael Dearing; I have brought what seems to be a duplication of reference about Michael, perhaps. The part is duplicated, the quote "First you have to have an insight,.." which appears on "610_driven_by_love.txt" a1b2c3d4-e5f6-7890-a1b2-1234567890ab
+* Intro - Situation - Entrepreneurial effort calls for impact. 
+* Intro - Situation - But we don't know the map. 
+* Intro - Situation - But our drive to work, perform, causes impact too, like corruption real cost.  
+* Intro - Complication - What gets you here is not what takes you there. 
+* Intro - Complication - Connecting the dots is complicated. 
+* Intro - Question - What to do to aim for impact for the long run? Can be done? 
+* Intro - Answer - Reflection is about Doing vs. Transcending which requires adaptation. 
 
-* ( ) Move Michael`s point to above, before "How we experience the performer"; ( ) which could be turned into the "Ethical performer" which could ( ) bring "THe illustration case" within. Make sure that ( ) the point of complication is  priourly presented, introduced, with the article's introduction following SCqA. 
+* k1 - How we experience - Subject - Starting with the performing, motivations? Vision? Problems? 
+* k1 - How we experience - Situation? Urgent vs. important (is relevant?) 
+* k1 - How we experience - Situation? Need to face the shifts 
 
-* ( ) The abstraction, for the complication, have a good deal of great material at "In abstract terms,.." and "There is a natural force..." which is ( ) yet (move away from there?) under "How we experience the performer" but these points can be moved into the intro's SCqA, Complication and elaboration of answer, presentation of answer. 
+* k1 - How we experience - Complication - Can be stuck, overperformance, productization, being somebody.
+* k1 - How we experience - Complication - Case - illustration - harvesting the investment. 
+* k1 - How we experience - Complication - Issue that "The performant" buys success.  
 
-*  ( ) Treat objection of hero and case for hero's time for non-heroic transcending - When we recognize the hero's case, in p.113 ("In theory, this should be good, ... ) we need to do so also acknowledgingg the potential objection (Like Paulo colleage of PM world has given to Marcio once) that the a state of flow that allows one to give superpowers can be good; thus we recognize that supporting confidence for a human, like the self, towards growth is key, but the reason for acknowledging this is to allow moving on, while be specific that reflections on ways to support confidence and development are being discussed elesewhere, such as in wantrepreneur, which points back our frame goal of the future, which has a start to grow, which naturally requires transcending which does not mean killing the "self in progress" and means more to allow the "self representing the whole in progress", some time to that. Thus, this statement shapes the A, general line for points given. 478248274-4294924729-983953-43984983 search in text. 
+* k1 - How we experience - Q/A - Real and danger? 
 
-## Cross and differentiation 
+* k1 - How we experience - Answer - Reflection - Case - High-performer ethical worker 
+* k1 - How we experience - Answer - Reflection - Case - Romantic worker 
+* k1 - How we experience - Answer - Reflection - Case - Tour off duty - and being somebody 
+* k1 - How we experience - Answer - Reflection - Case - Tour off duty - and being somebody 
+* k1 - How we experience - Answer - Reflection - Case - Guardian - Case for Feeedback of Urgency 
 
-* (self) 300_execution_urgency_neglecting_redesign_f47ac10b-58cc-4372-a567-0e02b2c3d479.txt (urgent vs. important)
-* 210_breaking_automatic_reaction_550e8400-e29b-41d4-a716-446655440000.txt (urgent vs. important)
-* 200 / 450_urgent_vs_important_9d8b7e90-04b2-468a-990e-5a5b68b28c42.txt (urgent vs. important)
+* k2 - Transcending - Subject - Importance to get out from flow, listen and adapt 
+* k2 - Transcending - Situation - Conscious view (layers) is necessary (Feat. Reid and Fred)
+* k2 - Transcending - Complication - New nature is tough, how to be conscious beyond for unknown future. 
+* k2 - Transcending - Answer - What's changing - Can't learn in retrospect (what works vs doest work)
+* k2 - Transcending - Answer - Reflection on dynamic nature of growth - accessing values (Feat. MD)
 
-## Title 
+### Abstract 
 
-* v0.4 - Impact
-* v0.3 - Searching impact 
-* v0.2 - Impact 
-* v0.1 - Marginal cost of reaction 
+* v0.1 - gpt 
+* v0.2 - Marcio 
+
+```
+Este artigo discute a complexidade da busca por impacto nas iniciativas empreendedoras, destacando a lacuna entre o desejo de criar impacto e a realidade desafiadora que tal empreitada envolve. Inicialmente, examina-se o impulso empreendedor e como nossa determinação de trabalhar - ou performar - pode paradoxalmente levar a consequências de impacto negativo que arrasta o empreendimento e distrai os que executam. O artigo propõe que o que nos leva ao sucesso inicial não é necessariamente o que nos sustentará a longo prazo, enfatizando a dificuldade em conectar os pontos e a necessidade de reflexão entre o fazer e o transcender, o que requer adaptação.
+
+Na primeira parte da reflexão traz a preocupação com o movimento incial empreendedor que impulsionado por uma visão pode gerar impacto negativo. Neste sentido, destacam-se "armadilhas" que surgem a partir da ilusão de performance, como a partir da productização ou do exercício da identidade especialista. Alguns casos são ilustrados como o trabalhador de alta performance e ético, o trabalhador romântico e o trabalhador guardião. A segunda parte da reflexão trata da busca por sair do fluxo de performance do trabalho para escutar e adaptar-se - transcender. O artigo conclui refletindo sobre a natureza dinâmica do crescimento e a importância de acessar valores que podem ajudar a guiar ações e decisões em um cenário que demanda constante adaptação e execução consciente.
+
+```
 
 ## SCqA 
 
@@ -38,17 +60,3 @@
 Notice the nature of release of control, such as a work towards aspiring goals. We now it works and may explain that we can and should do that. But by noticing the value, we also can notice the risks, that we will dead certain to get results. But also results in arbitrary might not reflect in goal-driven when to be goal-driven is a must. Plus, it may create other distractions too, after excitement. Plus, success in terms of goal achievement and growth is not garanteed through the arbitrary. 
 
 * Answer - key 2 - Management of goals and bottoms up and goal discovery. Present the idea that putting to out pulls for clarity. Conver strategic key results that adds space for what is needed in terms of development, such as the case that Michael has referred of an employee that was highly technical and had created a key result to participate in business meetings. Cover the recognition of certain "blocked areas" which would influence transcending the role - We might be judging ourselves as not apt to managerial, not skilled, not enabling room within the project for aspirational design, or setting a commitment for something that demands research or learning, and transcending the activity, minimally recognizing time. All sorts of difficult places can create a blocking condition. The design of any goal that is difficult needs to account the capacity for delivery plus allow room for learning, and not punish by results. The complication is that if we are running arbitrary and not getting comfortable with stating what is going to happen, and being okay with learning and failure. 
-
-## Meta prior 
-
-* Abstract - The abstract discusses the true cost of corruption of time/goals and its implications for entrepreneurs. It draws parallels between the time and energy spent managing corruption (the upper part of the iceberg) and the neglect of focusing on important issues that could prevent such problems in the first place (the lower part of the iceberg). The abstract suggests that entrepreneurs should avoid falling into a reactive mode of execution, solely focused on putting out fires, and neglecting strategic, which requires pre-planning. It emphasizes the importance of balancing tactical execution with strategic thinking to address the managerial situation thus to support the development towards the deeper problems and the goal of bringing innovative solutions. The abstract also explores the dilemma of artists and entrepreneurs who juggle creation and management, emphasizing the need for productive management. The potential dangers of reacting to external pressures and feedback without considering the bigger picture are highlighted. Ultimately, the abstract emphasizes the importance of continuous learning and adaptability for entrepreneurs in order to prevent falling into the trap of reactive execution.
-
-## references
-
-* This Week In Startups. (April 28th 2017). E728: “Angel” Sneak Peek+Startup Tune-up: First-look & lessons from Jason’s book + pitches [video]. Retrieved from https://www.youtube.com/watch?v=Krgz7b9oKLA
-
-* Jason Calacanis 
-
-## Done 
-
-* (x) Anedoctal of Marcio - when Marcio had insight and told Michael that the major problem was of a party, for what was nice, like flow. And not the denial to do the boring. So the doing the so good things led to use of energy in excess.  Insigh of Marcio - Thank you Michael. Your reply resonated so much with things in my head, concerns, sometimes not clear; it adds so much clarity. A few months ago, I had, virtually speaking, screamed — ah! It's that freaking party the problem. The party would be, for example, a 4h engineering activity that goes over the time of other important things (not seen as critical of course). The benefit was so great that a sort of specialized mindset acts. I was not conscious and would never judge that as a potential evil act. Well, how could it be? The very greatness, supposedly my creative engine, the productive engine. And worse, the general brain command was — continue! Do it, Marcio, advance that. You can fix other things later. I was assuming that a great actor would compensate for the other stuff running slow. Insight of Michael, not a public quote, "Categorization --> clusters --> patterns --> priorities -- that's it exactly. Natural multi-taskers with a strong work ethic (that's what I hear in your opening above) can easily lose site of what matters most because getting things done feels terrific and is comparatively easy / cheap for them. That's a problem if you compound the implicit deprioritization of the few most important things, in favor of many things because we love to get lots of things done, over a long period of time. Thank you for the note. It's very helpful to see through your goggles." 
