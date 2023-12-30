@@ -98,7 +98,7 @@ Now, within the realm of the off tour, I am quite free, or arbitrary, mostly sel
 
 Or, again, would that be a pattern that repeats with the storied context, as the narrative of the project unfolds? It appears that the act of progressing for any project may actually be about writing upfront some goal, being able to select activities that pulls the goal closer, closes the gap, allowing room for precise work, for some aspiring work (check the balance) and be okay when the project ends with no perfect results achieved. Results, therefore, aren't the most important. 
 
-### The guardian 
+### The responsible guardian 
 
 <!-- 
 
@@ -108,9 +108,9 @@ Or, again, would that be a pattern that repeats with the storied context, as the
 
 --> 
 
-Existe uma força que pode assediar o empreendedor e o levar a preencher completamente sua agenda; resultante de uma crença que mais trabalho traz mais resultados. Essa força pede incremento, produção, ou mais eficiência com as atividades que estão em curso. Essa busca por produtividade é de certa forma natural porque as ações de empreendedores são guiadas por feedback. O problema é saber que tipo de feedback deve-se ouvir; e reconhecer a necessidade de atuação nas várias frentes de um negócio. O foco unicamente ao design do produto, por exemplo, não resolve as outras questões relevantes para o crescimento e sustentabilidade do negócio.
+Existe uma força que pode nos levar a preencher nossas agendas - que é resultante de uma crença que mais trabalho traz mais resultados. Essa força pede incremento, mais produção ou mais eficiência para as atividades em curso. Essa tendência no rumo da produtividade é de fato natural já que ações de empreendedores são guiadas também por feedback dos resultados. O problema é saber que tipo de feedback devemos ouvir; e reconhecer a necessidade de atuação nas várias frentes de um negócio. O foco unicamente ao design do produto, por exemplo, não resolve as questões relevantes para o crescimento e sustentabilidade do negócio.
 
-Essa pressão, de certa forma positiva, ocorre por exemplo quando empreendedores fazem leituras a partir de sinais que mostram tração. Os sinais podem ser vários. Um empreendedor-programador pode ser muito eficaz no processo de design e desenvolvimento do produto; e normalmente esse tipo de eficácia acaba influenciando o projeto como um todo com a ideia de que as coisas estão no caminho certo.
+Essa pressão torna-se positiva por conta que empreendedores fazem leituras a partir de sinais de tração, que podem se tornar aparentes de várias formas. Um empreendedor-programador, por exemplo, pode se sentir eficaz no processo de design e desenvolvimento do produto; e normalmente isso pode influenciar sua ações e o consequentemente o todo a partir da percepção que o caminho está correto. 
 
 Em outro cenário, o empreendedor pode ficar 100% do tempo tratando de chamados de suporte ou incêndios relacionados aos seus atuais clientes; e isso pode criar um escudo para que ele possa visualizar outras necessidades estratégicas. A ideia é simples - se algo está funcionando, basta fazer mais do mesmo. Ou a expressão "em time que está ganhando não se mexe". Se a colheita continua vendendo então basta replantar do mesmo, seguir as mesmas regras.
 
