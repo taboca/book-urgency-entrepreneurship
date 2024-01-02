@@ -1,3 +1,52 @@
+## Outline 0.5 
+
+* outline - introduction - scqa / Situation - Communication is for change which is part of entrepreneurship. 
+* outline - introduction - scqa / Situation - Normal communication moves with the agile flow, even more intensively.   
+* outline - introduction - scqa / Complication - We overlook communications - if not, like the marketing kind.  
+* outline - introduction - scqa / Complication - (Consider) We keep wasting resources and missing opportunities. 
+* outline - introduction - scqa / General line - Map ahead - How we overlook; Why Matters to Change; How we can look. 
+
+* outline - introduction - scqa / K1 - "Running with normal communications" it may be style. 
+* outline - introduction - scqa / K1.0.1  \___ We are detectors of persuasion 
+* outline - introduction - scqa / K1.0.2  \___ Normal communications like tools, like old marketing  
+* outline - introduction - scqa / K1.1.1  \___ Doing analysis - Approach for dealing with communications  
+* outline - introduction - scqa / K1.1.x    \______ Doing analysis - Dealing with communication in retrospect (consider)
+* outline - introduction - scqa / K1.1.2    \______ Doing analysis - Abstraction that communications serve urgent needs  
+* outline - introduction - scqa / K1.2.0  \___ Focusing on good reasons -   
+* outline - introduction - scqa / K1.2.1    \_____ Focusing on good reasons - Creators do that    
+* outline - introduction - scqa / K1.2.2    \_____ Focusing on good reasons - Convincing the translators
+* outline - introduction - scqa / K1.2.3    \_____ Focusing on good reasons - Perception that it is marketing tied
+* outline - introduction - scqa / K1.3.0  \___ Managerial supported -   
+* outline - introduction - scqa / K1.3.1    \_____ Managerial supported - Each has a style
+* outline - introduction - scqa / K1.3.2    \_____ Managerial supported - Managers are bad critics
+* outline - introduction - scqa / K1.3.3    \_____ Managerial supported - Think broken equals to collaboration
+* outline - introduction - scqa / K1.3.4    \_____ Managerial supported - Managers are translators
+* outline - introduction - scqa / K1.3.5    \_____ Managerial supported - People growth and specialize
+
+* outline - introduction - scqa / K2.0.0 - "Communication happens more"  - Communications are happening by the hour, intensively  
+* outline - introduction - scqa / K2.1.0    \______  "Because it is a grease" 
+* outline - introduction - scqa / K2.1.x        \______ We keep "Fixing in restrospect" #kolb #learning 
+* outline - introduction - scqa / K2.1.1        \______ The price we pay, we keep trying to prevent potential trouble.
+* outline - introduction - scqa / K2.2.0    \______  "Because data can be evil"  - To convince, we need arguments, and data.
+* outline - introduction - scqa / K2.2.1        \______ Case: Amazon lying with numbers is easy #jasonchild #jeffbezos 
+* outline - introduction - scqa / K2.2.2        \______ Case: Systems people, Marcio's welcome page 
+* outline - introduction - scqa / K2.3.0    \______  "Because growth depends on it" - #startup #growth  
+* outline - introduction - scqa / K2.3.x        \______ (Consider) Talk about much more interactions happening. 
+* outline - introduction - scqa / K2.3.1        \______ Case: Marc Andreessen, formal communications it's yet another test.  
+
+* outline - introduction - scqa / K3.0.0 - Executive Communications  
+* outline - introduction - scqa / K3.1.0 -    \____ Cracking the code  
+* outline - introduction - scqa / K3.1.1 -      \____ Okay with it, it might be right  
+* outline - introduction - scqa / K3.2.0 -    \____ Searching for clarity   
+* outline - introduction - scqa / K3.2.x -      \____ Intensive iteration? (confirm)
+* outline - introduction - scqa / K3.2.x -      \____ Retrospect? (confirm)
+* outline - introduction - scqa / K3.2.1 -      \____ Barbara's SCqA 
+* outline - introduction - scqa / K3.2.2 -      \____ How SCqA happens in the everyday situation 
+* outline - introduction - scqa / K3.2.3 -      \____ SCqA in formal communications
+* outline - introduction - scqa / K3.2.4 -      \____ The power of directeness 
+* outline - introduction - scqa / K3.3.0 -    \____ Humanized prose
+* outline - introduction - scqa / K3.3.1        \______  Case: Marcio's synergy  
+* outline - introduction - scqa / K3.4.0 -    \____ Doing it responsibly 
 
 ## SCqA-based outline v0.4 
 
@@ -24,7 +73,7 @@
 * outline - introduction - scqa / K1.3.4    \_____ Managerial supported - Managers are translators
 * outline - introduction - scqa / K1.3.5    \_____ Managerial supported - People growth and specialize
 
-* outline - introduction - scqa / K2.0.0 - Communication happens more  -   
+* outline - introduction - scqa / K2.0.0 - "Communication happens more"  -   
 * outline - introduction - scqa / K2.1.0    \______  Because it is a grease  
 * outline - introduction - scqa / K2.1.x        \______ Fixing in restrospect
 * outline - introduction - scqa / K2.1.1        \______ Cost of slippery, stop break prevent
