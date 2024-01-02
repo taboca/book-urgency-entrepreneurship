@@ -405,9 +405,8 @@ Heavybit. (2019, July 30). Executive communication w/ Harrison Metal [Video]. ht
 --> 
 
 <!--
-
+@meta @todo 
 * p2 (x) Induction - Review Michael Dearing's Executive Communication talk and consider to include the "unlocking moment" of Barbara. https://www.heavybit.com/library/video/executive-communication ref - 493859385-539859385-53985983-53885983958
-
 --> 
 
 What is ahead of us is, first, the story of Barbara Minto set herself to fill that gap. I think that the story of Barbara is especially relevant because of her concern about communications had to do with finding a way to manage communication: 
@@ -415,18 +414,15 @@ What is ahead of us is, first, the story of Barbara Minto set herself to fill th
 > *"Interestingly, when I began researching materials on report writing, I discovered that while there were an enormous number of books on how to write better sentences and paragraphs, there were no books on how to organize the thinking those sentences and paragraphs are meant to convey."* (Minto, 1996, Preface).
 
 <!--
-
-## references
-
-Minto, B. (1996). The Minto Pyramid Principle: Logic in Writing, Thinking, & Problem Solving. Minto International.
-
+@meta @references
+* Reference - Minto, B. (1996). The Minto Pyramid Principle: Logic in Writing, Thinking, & Problem Solving. Minto International.
 --> 
 
 But such interest and viewpoint had origins from Barbara's unique perspective long before she happen to be working to come up with a good theory. As Michael mentioned, Barbara was among the first 20 women admitted to Harvard Business School in the late 1950s. At that time, the school was 55 years old and already considered top-tier. Additionally, this first group of women were set in a more traditional lecture style in a separate classroom from the men. Therefore, Barbara was in a special section with her nine other colleagues. In addition, they were informed that if they finished in the top 10%, they could earn a spot alongside the men, across the river, in the next year. Adding to the challenge, Barbara's subject was macroeconomics. Plus, her last math class was 12th-grade.
 
 When I watched that segment, I pondered the extremes: one to proceed to abandon everything, or, perhaps like the the man of Harvard of the time, to proceed to engage with the day's battles. But that wasn't Barbara's anyway. When Michael asked her, "What did you do?" she told him that as she began preparing notes from the textbook, she became angry. She told him that "It was so badly written. This person who wrote this textbook was keeping me from understanding this cool topic." (Heavybit, 2019). 
 
-Now the watching of that talk also took me back to my own days in the university when I was studying Computer Science in Brazil in a well-regarded top-tier university. Most of us students knew that things were hard. We would never know what we would find ahead of us when the matter was to learn topics like math. We knew the amount of hours for the lectures but the unknowing of what it takes to learn - on the side - was frightening. So while I felt thoughts of suspiction about the ways the materials were given - or written - these thoughts were clouded by the storms of authority of a system that was too hard, with hard professors, and hard materials, where hard work was the way to survive. All that against the image that students were lazy. Plus, I was lazy. Now, looking in retrospect, I can't say I were in front of confusion through the things, as in if the materials were keeping me from understanding the cool topics. What we could tell, though, was that a handful of professors and authors were actually good at explaining things which made us learn the topics. These were exceptions. 
+Now the watching of that talk also took me back to my own days in the university when I was studying Computer Science in Brazil in a well-regarded top-tier university. Most of us students knew that things were hard. We would never know what we would find ahead of us when the matter was to learn topics like math. We knew the amount of hours for the lectures but the unknowing of what it takes to learn - on the side - was frightening. So while I felt thoughts of suspiction about the ways the materials were given - or written - these thoughts were clouded by the storms of authority of a system that was too hard, with hard professors, and hard materials, where hard work was the way to survive. All that against the image that students were lazy. Now, looking in retrospect, I can't say I were in front of confusion through the things, as in if the materials were keeping me from understanding the cool topics. What we could tell, though, was that a handful of professors and authors were actually good at explaining things which made us learn the topics. These were exceptions. 
 
 But back to Barbara's day, her reaction were different - she faced the battle from a different angle. According to Michael, she "rewrote it, line by line, paragraph by paragraph, page by page, until she could teach the basic concepts of macroeconomics to her colleagues in the section" (Heavybit, 2019). Fast-foward from the origins, the result of her work took her to solving the problem, or that she had cracked the code of executive communication:  
 
@@ -469,11 +465,8 @@ Now, this situation for searching for clarity can also be observed from the pers
 > *"There is a very old saying among writers: 'Difficulties with a sentence always mean confused thinking. It is not the sentence that needs straightening out, it is the thought behind it. In writing we attempt, of course, to communicate with ourselves. An unclear sentence is one that exceeds our own capacity for perception. Working on the sentence, that is, working on what is normally called communications, cannot solve the problem. We have to work on our own concepts first to be able to understand what we are trying to say - and only then can we write the sentence."* (Drucker, 2011, p. 6)
 
 <!-- 
-
-## references 
-
-Drucker, P. (2011). Technology, management, and society. Routledge.
-
+@meta @references 
+* reference - Drucker, P. (2011). Technology, management, and society. Routledge.
 --> 
 
 Now, an observation must be made that the extremmes aren't good. On one hand, one that attempts to fix the communication in terms of sentences, instead of being busy with the concepts first. On the other hand, one that attempts to find *Data* and presenting it with no regard to the objectives to be achieved in the future. As entrepreneurs don't want to waste their time, such as gambling with data, and likewise aren't interested in wasting time straightening out sentences, then they should be busy with the effort to achieve clear thinking, to get the concepts rights. 
@@ -508,19 +501,13 @@ In other words, there are things with can do about communications, there are mea
 Now, the story of Barbara's journey in cracking the code of executive communication guides the doer to manage and design the communicative experience. Part of The Pyramid Principle involves the identification of a fundamental unit of logic that is quite applicable in business communications - in proposals, memos, reports, pitch to investors, and more. This unit of logic she called SCqA and stands for situation, complication, question, and answer. I like to think of Barbara's SCqA as a sort of contract for why the audience is there. It governs the relationship between the individuals involved in a communication, or the sides, or the entities, it honors the value-exchange of the relationship. 
 
 <!--
-
-## todo 
-
+@meta @todo 
 * p2 ( ) Communications - Barbara's SCqA - Get quote from p.37 of The Pyramid Principle / 3953985893-5938593859-593859385-593859835
-
 --> 
 
 <!--
-
-## todo 
-
-* p2 (Done, Barbara's SCqA ) Consider SCqA of Barbara Minto, a structured approach for making peace with induction; Not a random way. A way to go. Consider to bring the point that Barbara's approach is the way to solve induction and communication for business folks - the case of the owl according to Michael Dearing.  / ref 2984284982-492849284-2948298492-429842984922
-
+@meta @todo 
+* p2 (Done, Barbara's SCqA ) Consider SCqA of Barbara Minto, a structured approach for making peace with induction; Not a random way. A way to go. Consider to bring the point that Barbara's approach is the way to solve induction and communication for business folks - the case of the owl according to Michael Dearing.  / ref 2984284982-492849284-2948298492-429842984922 
 --> 
 
 ##### Situation 
@@ -557,19 +544,13 @@ What I really like from Barbara's Pyramid Principle is her attention to explain 
 Now, when I undertood these variations, I had recognized myself right away and how the form actually appears everywhere. . It also helped me to notice my use of arbitrary combinations, or even my ways to stress points with the intention of "adding value" such as qSCC, qCC, CCA, CAA, and more. 
 
 <!--
-
-## todo
-
+@meta @todo 
 * p2 (Done) - Communications - Barbara's SCqa - Add cases of the canonical versus other forms, from Barbara, from The Pyramid Princple, with examples of SCqA cases, which should be quoted under permission. p.40 / 449384-9384938-48394983-4803483
-
 -->
 
 <!--
-
-## todo
-
+@meta @todo 
 * p2 ( ) - Communications - Barbara's SCqa - Add the section from Barbara, from The Pyramid Princple, with examples of SCqA cases, which should be quoted under permission. p.37 / 4394938493-398493849-93493849-483483948
-
 -->
 
 #### SCqA in formal communications
@@ -639,11 +620,8 @@ With that said, and to honor Willian's point, is not that we need to hit our fac
 > *""* Barbara Minto 
 
 <!--
-
-## todo 
-
+@meta @todo 
 * p2 ( ) - In Part 2, Communications, Perception in prose - Seek for the quote from Barbara Minto from The Minto Pyramid Principle, which states that we need to work more in the text, use the text to achieve clarity. Ref 7575-78685-8484-493849
-
 --> 
 
 They are asking us to think through, to start with the audience, with the subject, with that "contract" and within that view to honor why the audience should be there, why we want them, what is a reason for them. Does it being a complication, or an opportunity, and one that comes after some situation that they recognize and where can consider a potential solution or answer to be presented?. And, with that, and likewise, the prose follows, the prose conforms, the words that are plain, not with the keywords. Our job is, therefore, a translation job. More work is needed but the good news is that writing can be used as the process to get there. 
