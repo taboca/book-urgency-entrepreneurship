@@ -1,54 +1,92 @@
 # In peace with communication
 
-<!-- ## section / scqa: subject --> 
-
-For startups, investing in communications is seen as unnecessary if not wrong. That is not to say that they ignore communications. If the measure is usage, startups heavily depend on the communicative experiences like the grease to the parts of the growth engine. What they miss though is to value, such as to revisit, how they communicate. In general, our further investment in communications appears more like the situation of when we go shopping and pick up a wrapping paper right before giving out the gift. In the startup setting, it would be apppear like the polish work moment when the presentation time is arriving. Let us reflect on how run with this normal communications, consider situations for the price we pay, and finally consider an enlightening approach to manage our communications through all the stages from the startup to the mature company. 
-
 <!--
-
-## todo 
-
-* p2 ( ) - In Part 2, Communications, 040_communications.txt - Writing to open up thinking process - Consider supporting Jordan Peterson's quote starting with "Consider ... " and ending with "whole empires." @ https://jordanbpeterson.com/wp-content/uploads/2018/02/Essay_Writing_Guide.docx / ref - 424972-492849-4298492-4982489
-
+@meta @section @outline
+* outline - 
 --> 
 
-<!-- ## section / scqa: situation --> 
+Even though everything we do depend on what we think of a normal communications; the team or the doers are generally not interested in specific investments in communications; which is seen taken as unnecessary if not wrong. If you disagree, you will surely enjoy this chapter. But if you agree, I ask you to stick around, as I will celebrate, first, why we generally deprioritize communications, good reasons for not doing so, and an organized way to organize communications under new goggles which will support entrepreneurs to waste less time and into growth. 
+
+<!--
+@meta @todo
+* p2 ( ) - In Part 2, Communications, 040_communications.txt - Writing to open up thinking process - Consider supporting Jordan Peterson's quote starting with "Consider ... " and ending with "whole empires." @ https://jordanbpeterson.com/wp-content/uploads/2018/02/Essay_Writing_Guide.docx / ref - 424972-492849-4298492-4982489
+--> 
+
+<!--
+@meta @section @outline
+* outline - introduction - scqa/situation - Communication is for change which is part of entrepreneurship. 
+ --> 
 
 In the entrepreneurial setting, communication exists to cause change, such as to get a proposal approved, to offer a viewpoint about a situation that needs attention, to explain how something works, and a lot more. With that, we necessarily include a target audiences where we ask for help towards our goals. In other words, we invite them to listen and to collaborate if they have an interest, such as when a team pitches an investor. 
 
-But as the day goes by, the team communicates with good intentions to move needle further. Through that, if the audience gets confused, or if objections are raised, these are nuisances and quite legitimate. As an example, if an investor asks the team to stop before they get to the point. But effects are seen as the price to pay for a process that involves learning and failure. In other words, what has to be told has to be told and if it things aren't heard as expected, then that means valuable feedback. And this cycle can incessantly happen through the agile tracks of the modern startup team able to course-correct the efforts back into the right direction. Therefore, we don't expect much of this normal communication. It is not that our communication is failing and it may be even good that through failures, through hopping, we are in fact incessantly using communication to solve failure, or to fail faster towards a successful station. With that, we prioritize what we can see as logical, the dynamics, such as our movement through the bushes, our effort to uncover the truths such as the data that proves and the arguments that forms the narrative. With these goggles, we trust that communication finds a way - like life finds a way - because effort comes first. 
+<!--
+@meta @section @outline
+* outline - introduction - scqa/situation - Normal communication moves with the agile flow  
+ --> 
 
-<!-- ## section / scqa: complication --> 
+But as the day goes by, the team communicates with good intentions to move needle further. Through that, if the audience gets confused, or if objections are raised, these are nuisances and quite legitimate. As an example, if an investor asks the team to stop before they get to the point. But effects are seen as the price to pay for a process that involves learning and failure. In other words, what has to be told has to be told and if it things aren't heard as expected, then that means valuable feedback and motivation to course-correct. Through this cycle, the team incessantly works to let it go what does not work and creatively fix up what works better; which goes well through the agile tracks of the modern startup. Therefore, we don't expect much of this normal communication. It is not that our communication is failing and it may be even good that through failures, through hopping, we are in fact incessantly using communication to solve failure, or to fail faster towards a successful station. With that, we prioritize what we can see as logical, the dynamics, such as our movement through the bushes, our effort to uncover the truths such as the data that proves and the arguments that forms the narrative. With these goggles, we trust that communication finds a way - like life finds a way - because effort comes first - because it all looks like a jungle with all sorts of uncertainties an adversities. 
+
+<!--
+@meta @section @outline 
+* outline - introduction - scqa / Complication - We overlook communications of the marketing 
+ --> 
 
 Now, that viewpoint is a complication preventing teams to find better ways to organize, or manage, their communications; under the assumption that better communications is something political, such as that it promotes, convices, persuades; while that normal communications is more honest to the needs of the average day. That view also pushes teams to overlook communications, even to a point of thinking that it is wrong - like an evil act. With that view, they are expected to prioritize some other works which they assume to be valuable, such as finding value to customers, such as coming up with the proofs, such as prototyping, concretizing some of their thesis. With that, again, they do think that they are using communications, or normal communications, which takes us to ignore any possible opportunities to manage communications. By this denial of managing communications, to seek an organized approach to communications, they miss the opportunity of using communications in a more helpful and honest way to the needs of the startup, as it is developed. With that, we continue to communicate in inneficcient ways, to confuse our teams, our audiences, and the many others in our ways. What is even worse is that, as we ignore investing in communication - and yet use communication to get something of them - we favor focusing on reasons to convince, such as going find the data, which puts pressure on the team, such as to excessively, if not obsessive, try to add value to what is being communicated, that can even take them to misuse data as a convincing mechanism. 
+
+<!--
+@meta @section @outline 
+* outline - introduction - scqa / General line - Map ahead - Why we can't see opportunity; and new paradigm that grows us 
+ --> 
 
 To support founders to value communication throughout the whole process, we will start with a reflection of how we run with communications, or normal communications. Next, we will move to why this normal communication affects everything we do, such as the too many interactions that startups do with their multiple audiences, and some of the risks of overfocusing in our obsession with the value with a disregard to the coherence of communication with our audiences. And finally, you will be introduced to a organized model that will help teams to manage their communications and effectively use across all the stages - an approach referred as *Executive Communications* that is key to change the life of the startup. 
 
 ## Running with normal communications
 
-<!-- ## crossreference 
+<!--
+@meta @section @outline 
+* outline - introduction - scqa / K1 - "Running with normal communications" it may be style. 
 
-* title: Running with normal communications - 
+* comment: might be style - How it is experienced, it might be style, the deductive mind seens investment in communication as lower, favors value towards what seems rational, logic, data - pulls them to focus on data. We can't see even the true induction, or abuse, if not waste or investment, by the insertion of data. 
 
 --> 
 
-<!-- scqa: abstract 
-
-it might be style - How it is experienced, it might be style, the deductive mind seens investment in communication as lower, favors value towards what seems rational, logic, data - pulls them to focus on data. We can't see even the true induction, or abuse, if not waste or investment, by the insertion of data. 
-
+<!--
+@meta @crossreference 
+* title: Running with normal communications 
 --> 
 
 From one communication to another there seems to have different ways of doing it, like as if some people do it with style. Some people struggle with the effort but somehow put out their ideas in a relatively clear, although not persuasive. Others struggle in the work and rework but nothing sticks. But there are the others that gets in the stage, and on that to be followed by the limelight, and swiftly say things that appear as just right, in the right moment and place, and with that these same folks appear to effortlessly and quite softly, or brutally, silence others thoughts even the ones with better ideas. In other words, there are communicative experiences that sounds better, that flows better, that sounds coherent. And our hopes are that these communicators are also coherently speaking the truths. 
+
+<!--
+@meta @section @outline 
+* outline - introduction - scqa / K1.1  \___ We are detectors of persuasion #evil 
+--> 
 
 But one thing is to be able to control this *special thing* about communications; and the other thing is to detect when we hear that. That is to say that we can detect when communication wants to be persuasive. Besides being able to notice, some of us may also dislike this kind of communication - or the ways of persuasivenees - as it seems to be powerful and in some cases evil. As I was having coffee when starting this article, I caught a fragment of a voice message from a passing pedestrian. He said "What did you think of my idea? Although it is not the best idea, what do you think?". Having detected that fragment, I thought that he was trying to aleviate a potential objection - that is not the best idea - from the other side. So he offered a shortcut to an outstanding decision as in saying that "we won't have the time to pick the perfect idea; so let's move on with this one." With that view in mind, thinking that he had put a frame to persuade while not providing substance, I kept my views that communication can be evil which is why I tend to dislike communications.  
 
 But after a reflection, I realized that my judgment came from the fears that such kind of communication has the power to convince, that it could be dangerous by its power, like when some of the nuances presented can affect situations where people are in a hurry, or under pressure. But what if what was said were expected by the other person? As an example if his manager, on the other end, had replied "I agree." It could be that his manager wanted to hear that because she had asked for a pragmatic solution the day before. In that case, it would be then that what was said was said in right time. Conversely, my analysis had changed and allowed me to recognized that he had respected his audience, that he had acknowledged the "why am I here" question from his audience, and that he had acknowledged the outstanding complication expressed by her. Conversely, by imagining a favorable context, I accepted that the possibility that his communication were persuasive and honest. 
 
+<!--
+@meta @section @outline 
+* outline - introduction - scqa / K1.2  \___ Normal communications like tools, marketing  
+--> 
+
 But one way or another, in my view, these fragments of communication were serving a purpose, such as convince, or to sell, as if the communication an immutable thing serving to the purposes of an immutable need. Just like a communication about a car that exists after the fact that the car is produced and for the purpose of selling. This inclination, when it happens, feeds my lack of interest for working in communication, such as to manage communications, such as to use communications for the needs of the average day. As in the more I see communication like the wrapping paper, the more I continue to ignore investing in communication - until the moment is right. This can be a problem for entrepreneurs, as the moment that isn't right happens all the time while communication is happening, by the hour. 
 
 ### Doing analysis 
 
-But even though if communication is generally perceived as a ready-made thing needed in a transactional world, still the judgements during the communicative experiences are quite strongly observed. To illustrate the rise of another critic style, consider an episode where I went to the supermarket, at the deli section which usually a place I care due to my Italian origins. There, a lady were there to help and we were there to buy mozzarella cheese, we apparently needed about 7 ounces of it. But before we said the amount, she suggested that we buy the mozzarella that were pre-packaged, pre-sliced, that happeed to come with another 7 ounces of prosciutto. She added that by buying the combo the mozzarella would be cheaper. But we were also in a hurry, and not there to reason, to think, such as to reflect about the ways people communicate or even to pick ideas for a book. We were just there to buy the cheese. But I was there as a critic, and having entered in the mode of doing basic math, which is something I do when buying things. In a way or another, in a hurry or not, we seem to never ignore the math. Since I needed data, I asked her how much was the cost per pound for mozzarella alone - to which she said 25 Brazilian Reais and immediately added that the per-pound-cost for the combo was 18, therefore cheaper. Indeed, the basic math seemed to work and she also smiled and added that she was there to help. But then I asked about the per-pound-cost for the prosciutto to which she said to be about 13. At this point I fent confused that she didn't add that in the combo the prosciutto became 18. So being there, with no much to do and not too hungry, I've told her that she was selling he prosciutto at a higher price. She smiled and said again that she was there to help. But this time she also added that I could either accept the help or not. Being that the love of my life was also next to me, waiting, i had decided to keep the marriage, enjoy the Saturday, moved on, although I had to imagine myself kicking the shelf. We picked the pricey prosciutto with the cheaper mozzarella because, I guess, as we weren't there to fully pause the movie of life. Needless to observe is that the attendant would be likely following her job, equally in urgent mode, likely following orders. 
+<!--
+@meta @section @outline 
+* outline - introduction - scqa / K1.3  \___ Doing analysis approach for dealing with communications  
+* outline - introduction - scqa / K1.x  \___ Dealing with communication in retrospect (consider)
+--> 
+
+But even though if communication is generally perceived as a ready-made thing needed in a transactional world, still the judgements during the communicative experiences are quite strongly observed. To illustrate the rise a critic style, consider an episode where I went to the supermarket, at the deli section which usually a place I care due to my Italian origins. There, a lady were there to help and we were there to buy mozzarella cheese, we apparently needed about 7 ounces of it. But before we said the amount, she suggested that we buy the mozzarella that were pre-packaged, pre-sliced, that happeed to come with another 7 ounces of prosciutto. She added that by buying the combo the mozzarella would be cheaper. But we were also in a hurry, and not there to reason, to think, such as to reflect about the ways people communicate or even to pick ideas for a book. We were just there to buy the cheese. But I was there as a critic, and having entered in the mode of doing basic math, which is something I do when buying things. In a way or another, in a hurry or not, we seem to never ignore the math. Since I needed data, I asked her how much was the cost per pound for mozzarella alone - to which she said 25 Brazilian Reais and immediately added that the per-pound-cost for the combo was 18, therefore cheaper. Indeed, the basic math seemed to work and she also smiled and added that she was there to help. But then I asked about the per-pound-cost for the prosciutto to which she said to be about 13. At this point I fent confused that she didn't add that in the combo the prosciutto became 18. So being there, with no much to do and not too hungry, I've told her that she was selling he prosciutto at a higher price. She smiled and said again that she was there to help. But this time she also added that I could either accept the help or not. Being that the love of my life was also next to me, waiting, i had decided to keep the marriage, enjoy the Saturday, moved on, although I had to imagine myself kicking the shelf. We picked the pricey prosciutto with the cheaper mozzarella because, I guess, as we weren't there to fully pause the movie of life. Needless to observe is that the attendant would be likely following her job, equally in urgent mode, likely following orders. 
+
+<!--
+@meta @section @outline 
+* outline - introduction - scqa / K1.4  \___ Abstraction that communications serve urgent needs  
+--> 
 
 This more elaborated fragment shows a mechanism that exists to serve a potential need, like an urgent need of sales, and a potential need of the audience. Therefore, take aside right or wrong, it certainly shows persuasiveness, although at the risk of failing after the fact-checking. But it also shows that there are situations when some of us may wear a hat, like me, where we engage a defense mechanism against a potentially evil communication, where the math matters, where fact-checking matters, which involves a process of checking if what was said which sounds coherent comes with data that supports. 
 
@@ -62,43 +100,94 @@ Now, the point to be made is that when doing that we might in fact favor rationa
 
 ### Focusing on good reasons 
 
+<!--
+@meta @section @outline 
+* outline - introduction - scqa / K1.2.0  \___ Focusing on good reasons -   
+* outline - introduction - scqa / K1.2.1  \_____ Focusing on good reasons - Creators do that    
+* outline - introduction - scqa / K1.2.2  \_____ Focusing on good reasons - Convincing the translators
+--> 
+
 Now, if people go away from being persuasive, they might do so with an inclination that it adds nothing, if not it could be an investment misleading themselves. One in that position, such as an entrepreneur, could fear to look like a salesman in hurry and intended to convince in bad ways which disregard value. But even if they consider to invest in communication responsibly, still it might be a problem with folks like creators, makers, engineers, and whoever looks at things from a logical, or a systems-oriented mindset. These folks may see themselves as supporters, responsible for the actual cargo, the values, what matters. They might also love deduction, to prove, to come up with the how-to, to work with more logical and structured ideas, to fill out the details with truths, and the like. This is quite evident in the situation of entrepreneurs as, of course, they love and want to express their ideas, and they recognize the importance of being understood by audiences in a way that make moves forward. But still, they rather use their time to focus in the inner works, or inner proofs, and the supporting elements that makes ideas to become good solutions. 
 
+<!--
+@meta @section @outline 
+* outline - introduction - scqa / K1.2.2  \_____ Focusing on good reasons - Convincing the translators
+--> 
+
 Therefore, while there is an acknowledgement that focusing in communication helps with the grease required that makes everything moving smoothly, still higher importance is given to the works for things like substance, truths, or data, which are the gears of the working machines. In other words, their job becomes the duty of trying to convince the communication folks, the translators. And as they focus a lot on trying to prove things, when they win an acknowledgedment, they can get so excited that it all makes sense, which contributes even more to ignore the possibility that they didn't needed to show as much to prove if they had worked better in the actual communication. In other words, when proof is given to a point that the magic click happens, such as "Now I got and thanks for the prototype," a potential for a post-mortem analysis for how communication happens is dead. 
+
+<!--
+@meta @section @outline 
+* outline - introduction - scqa / K1.2.3  \_____ Focusing on good reasons - Perception that it is marketing tied
+--> 
 
 Now, there are many reasons why to focus first in value, second in communication, and it is generally quite valid. One other example might have to do understanding that the roles that focus more on coherence, the ones concerned with the audience and interested in persuading them, might not generally understand what is up and coming, such as what is new and innovative. A major reason for that is that these folks are too tied with the needs of the audiences, thus they can be representative of the market needs, be pressured by the market. Thus, given that what is outstanding might not be yet fully meaningful to the audience, the role of the expert communication would either not get it or force the offering to be appealing, which can be seen by the one working in the value to be a not so honest movement. This might be yet another reason supporting the lack of interest in communication, keeping the doers to believe in what they believe without changing the underlying assumption - supported by an unshakable faith - which sets them to try to solve communication needs not with one arm but with both arms tied behind their back.  
 
 ### Counting on managerial support   
 
 <!--
+@meta @section @outline 
+* outline - introduction - scqa / K1.3.0  \___ Managerial supported -   
+--> 
 
-## Todo
+<!--
+@meta @todo
 
 * p1 ( ) 040_induction_embedded_everything - Management fails to support communicators - In some of the Blitzscaling talks, if I am not mistaken, it was said that communication is like an aspect that people won't point to anyone as it seems like harrasment #clothes #dressing. Check this because I would think that this seems to be real in corporations. / ref 498498249-428482948294-4289482948-42984892
 
 --> 
 
+<!--
+@meta @section @outline 
+* outline - introduction - scqa / K1.3.1  \___ Managerial supported - Each has a style
+--> 
 
 Now, in the corporate setting, no one tells the communicator-doer that they are being observed that they are failing with communication, that their failures are okay, that they can invest and grow with communicative experiences, that they could fail, and fail, and learn, and improve their communication skills, such as to achieve clarity and to be able to communicate better with their colleagues and audiences. Although the executive level, such as the CEO or a anyone in a senior position, are in a good position to recognize that as a truth, it is rarely told to the doers. It maybe so due to fear, such as fear that talking about one's writing, or one's communication, would offend or sound like harassement. 
 
+<!--
+@meta @section @outline 
+* outline - introduction - scqa / K1.3.2    \_____ Managerial supported - Managers are bad critics
+--> 
+
 On top of that, goes the fact that senior people, are not good critics to support communicative experiences, that they grew up in a space where they would - in case they expose their criticism - do more in terms of criticizing with an orientation to the eyes of their maturity levels, such as involving the prism of expecting outcomes, which would naturally bring about the sort of product or market oriented critics, not the critics that promotes learning and advancement, which would be considered for them not even a critics, but more like mentorship. Their level, their position, the the moment where a potential willingness to be a critic comes about, is not even a moment for educating, for motivating, for looking at potential value. It's more like a review to avoid risks. Then, with that, nothing is done. You are on your own. 
+
+<!--
+@meta @section @outline 
+* outline - introduction - scqa / K1.3.3    \_____ Managerial supported - Think broken equals to collaboration
+--> 
 
 Another aspect, to not touch communication investment for the subordinate, is that the process is more collaborative, and that the communication will rise anyway. Thus, in the face of any potential side impact of the focus in works towards value, or valuing arguments more than coherence, which takes a long ride - as we can be spending time, attention, interest, getting frustrated, burning our attention and effort to try to make sense of things - it is generally taken as the cost and where collaboration happens. 
 
+<!--
+@meta @section @outline 
+* outline - introduction - scqa / K1.3.4    \_____ Managerial supported - Managers are translators
+--> 
+
 Another factor is that management plays a role in communication from a translation perspective. In other words, managers are in between the top-down concerns, representing or translating the higher-level interests under a solutions-oriented perspective, and the bottoms-up concerns where the systems-orientation are considered critical. 
+
+<!--
+@meta @section @outline 
+* outline - introduction - scqa / K1.3.5    \_____ Managerial supported - People growth and specialize
+--> 
 
 Thus, under the pressure of the normal corporate space, the roles might indeed gravitate for one or other side where generally some people better with communication seems to move towards the solutions-oriented space where some people better with creation seems to move to the systems-oriented space while some people are translators. To point an example, if a manager sees a subordinate doing a good job in the fields of productization, like prototyping, he would be likely to allow that subortinate to invest their own time to overperform in improving the prototype the demo day. In other words, managers will be more comfortable to identify and recognize the growth of individuals as they gravitate towards one or other end. 
 
 ## Communication happens more 
 
+<!--
+@meta @section @outline 
+* outline - introduction - scqa / K2.0.0  \___ Communication happens more  -   
+--> 
+
 <!-- 
-## todo 
+@meta @todo
 * p2 (Done) - Part 2, Communications - Communication happens more need a graceful transition, according to style-657-768. / ref 75674-785743-85784-847883
 --> 
 
 Now, the above consideration that *Running with normal communications* isn't in any way an evidence that we ignore communications. As an example, if we care to check the things being told, we do so because we are trying to be conscious. And if we favor rationality, such as going after the good reasons, we do so because of our interest to make our narratives truthful. In other words, we know that communications matters, a lot. It matters so much that we deal with fixing communication that way, through a collaborative environment where our narratives are constructed as the day goes by. 
 
-<!-- ## crossreference
+<!--
+@meta @crossreference
 * title: Running with normal communications - 
 --> 
 
@@ -109,7 +198,7 @@ With that said, let us consider reasons why Communication happens more by reflec
 
 <!--
 
-## todo 
+@meta @todo
 
 * p2 (Done) - Communications - Put the endless meetings into the context - The illustration "Endless meetings" was brought up by Fred Filho. 948848-98444-84895-129384
 
@@ -121,13 +210,29 @@ With that said, let us consider reasons why Communication happens more by reflec
 
 ### Because it is a grease  
 
+<!--
+@meta @section @outline 
+* outline - introduction - scqa / K2.1.0     \______ Communication happens more  - Because it is a grease  
+* outline - introduction - scqa / K2.1.x        \______ Communication happens more  - Because it is a grease - Fixing in restrospect
+--> 
+
 A few chapters back in Silicon Valley history, in the *Book of Marcio Lost in Translation*, I felt as victim of a kind of communication which I disliked and which I learned the hard way. It was yet another sunny day and although my English were poor the valley seemed to welcome more ideas in that big meeting. I don't recall the context but at some point I wanted to speark and threw a "bada big bada bum, korben, bada bum bada bum." But to my surprise, and quite quick, the local manager threw a crisp and clear English that started with "But more importantly,.." to which I don't recall what came next except that everybody agreed with him.  
 
 That incident was remarkable but in a weird way. First, I knew I would have to do something about that in order to really learn really what was that about such as what have I done? What has he done? Is that good or bad? But it also had an effect in the sense of delaying my interest in communications. As in, to consider going in that direction seemed to be an invitation to using it in the bad way. But long after, I had considered that I did my part too, that whatever I said had paved the way for that manager to bring back the equilibrium to the meeting. In other words, in his defense, perhaps he had to be pragmatic.  
 
+<!--
+@meta @section @outline 
+* outline - introduction - scqa / K2.1.1        \______ Communication happens more  - Because it is a grease - Cost of slippery, stop break prevent
+--> 
+
 There is also another story that has happened at the same company. This time I were part of a a team where they called themselves web monkeys. Our mission were to help implement new color themes to help relaunching their web mail service. In order to do that, as web monkeys, we had to edit a lot of files, one for each theme, and for each one, replace the old color codes with a new color code. If we were really monkeys it would be like climbing in 16 different trees and, for each tree, paint the color of its leafs. As the task would demand a lot of "monkey work," I came up with an insight to automate part of the monkey job. Quite excited with my approach, I tried to tell them althought my explanation came up like "What if we come up with one new tree where all the leafs are replaced to bananas.  With that, we can then clone the trees 16 times and run a code that can replace bananas with the color we want." I don't recall the specifics of the complex explanation I gave them but I am certain that I had used "banana" as the example of a color. So I tried that and didn't work, the team were looking at me. Then I went to the white board to try again, it didn't work again. Then, when I was to try again in another quite arbitrary way, my manager told me to "not bring that idea again." I got frustrated, a bit mad, and feeling silenced in front of the team. But the worse was really my frustration that I could not give the idea in a way they could understand - an idea that would help them in fact. As soon as I left the room, however, an impulse took me straight to the office of a software engineer that I knew. I had asked help to him and he had created the script a couple days later. Eventually, things worked and the team had accepted our contribution. 
 
 It may be that what had happened could be considered good news - that all of that supports the idea that we can use a normal kind of communications, that things are okay, that life finds a way, workers finds a way, the team can get away. Or that in the end of the day, we say how we way, and by the misunderstandings we course-correct to achieve clarity for things, as we break things. Therefore, it is quite acceptable that my manager might have asked that as I was trying again and again and wasting the team's time. And as yet another plus, perhaps I didn't do too bad, especially considering that the other engineer had the time to give to me, first to listen, then to interpret, then to reflect, then to do the work which of course delayed him from doing the work he were to do, although he may have allowed that as he saw a potential - such as to save the monkeys - and likely he might have done in his own extra time, like in his house, which would be then incurr a potential loss to his family, which I hope it was an acceptable.
+
+<!--
+@meta @section @outline 
+* outline - introduction - scqa / K2.1.x        \______ Communication happens more  - Because it is a grease - Restrospect operational?
+--> 
 
 But while I didn't miss my manager's being a bit brutal to me, what I missed was what to do about that. In other words, I kept doing what I were doing, I kept being quite arbitrary when giving people my ideas, the propositions. I would now say that I was giving them the bits and pieces of how I see things, assuming that they would follow along. I now see too my own tendency to use a narrative style of communication where I tend to explain the reasoning that I am using to arrive at the idea; and worse which is to assume that this approach works or that it is the only way to communicate. In retrospect, it is fair to consider that I didn't had the tools to communicate better, that I didn't know which direction to go. And if any solution were to be considered, these seemed to be quite limited and confined to improving the general idea of improving communications, which I think were linked to the fact that I also didn't speak and write English fluently. So most of us, at the time, like colleagues and friends, would simplify as English communication or some sort of related training. I had a hint, tough it was not clear too, where I would tell my Silicon Valley friends that my friends in Brazil would not understand me either. The response to that, unfortunatelly, was to dismiss the subject as a sort of joke. 
 
@@ -146,6 +251,11 @@ Now, in retrospect and looking at the area of skill development, I came accross 
 --> 
 
 ### Because data can be evil  
+
+<!--
+@meta @section @outline 
+* outline - introduction - scqa / K2.2.0    \______  Because data can be evil   
+--> 
 
 These are the folks that can actually transform their solid ideas in solid proposals that can get accepted. BUt then under the condition of being certain that they can't focus in persuading, they are left with the tools they have. Therefore, they can use critical thinking, and logic, and do the design work, and research, and find data. 
 
@@ -176,9 +286,19 @@ Greylock. (2017, June 20). The Job of a CFO at a Scaling Company with Sarah Fria
 
 --> 
 
+<!--
+@meta @section @outline 
+* outline - introduction - scqa / K2.2.1        \______  Case: Marcio's synergy  
+--> 
+
 As a sidenote to this notion and idea, I seem to be communicator that didn't happen in my youth but that found some traction in the world of user interfaces first, like prototypes, then in the world of high tech companies working with interfaces and prototypes. I grew up with some frustrations with communication and likely also mad with the bad salesperson - likely made me to be in a denial to the art of communicating well such as to persuade. But then, being decades and decades around software developers, I came to the full realization of how many iterations of software developers are so well crafted, so well promoted, by their shining prototypes; and alltogether the so many instances of those creations that meant nothing, that left as partial prototypes, as ideas projected, illusions too, and illustions that had teased in fact by the shinning and apparent materialization in front of buyers, buyers like customers, investos, and themselves, that had given the buy-in and later cried. Which makes developers a potential worse kind of salesperson that won't even notice when they lie as they lie to themselves by being involved with the perceived materialization of what they had in mind. This day made me happy with the salesperson that mainly deals with what they have to sell and their reputation with the customer as they are to be likely to see the customer in the next day, as they are showing their faces. Therefore, the systems-oriented folks can also enter the game of persuasion, however at another level, by overfocusing in trying to make their paintings to stand, such as my using an excessive amount of nails. Now, if they minimize their willingness to put mails, they are to face the "yet another test" against all the external folks they need help. It's a balance. 
 
 ### Because growth depends on it  
+
+<!--
+@meta @section @outline 
+* outline - introduction - scqa / K2.3.0    \______  Because growth depends on it  
+--> 
 
 <!-- scqa: k "it might be style" k1.k1
 
@@ -222,6 +342,11 @@ Therefore, looking from this angle, that tests are happening, working in communi
 
 ## Executive communication 
 
+<!--
+@meta @section @outline 
+* outline - introduction - scqa / K3.0.0 - Executive Communications  
+--> 
+
 Now, we have considered that *Running with normal communications* and that *Communication happens more*. But still, any inclination to that destination will start by a major roadblock - that we still don't care if the road is not clear, safe, and does justice to the needs where communicative experiences are meaninful through the stages of growth and interactions with several audiences - themselves, customers, investors, to name a few. 
 
 <!-- 
@@ -260,6 +385,11 @@ Heavybit. (2019, July 30). Executive communication w/ Harrison Metal [Video]. ht
 ### Cracking the code  
 
 <!--
+@meta @section @outline 
+* outline - introduction - scqa / K3.1.0 -    \____ Cracking the code  
+--> 
+
+<!--
 
 * p2 (x) Induction - Review Michael Dearing's Executive Communication talk and consider to include the "unlocking moment" of Barbara. https://www.heavybit.com/library/video/executive-communication ref - 493859385-539859385-53985983-53885983958
 
@@ -287,11 +417,22 @@ But back to Barbara's day, her reaction were different - she faced the battle fr
 
 > *"I worked at the Walt Disney Company for a man named Michael Eisner when he was CEO, and his deep religious conviction was that Barbara Minto had cracked the code on executive communication. He's not alone. If you go around the world and you talk to the most accomplished executive communicators, they are practicing a version of her framework called the Pyramid Principle"* Michael Dearing (Heavybit, 2019)
 
+<!--
+@meta @section @outline 
+* outline - introduction - scqa / K3.1.1 -      \____ Okay with it, it might be right  
+--> 
+
 For me, as far and up to when I had found Barbara's work, I kept moving on generally looking at the things written wearing goggles where most things, written or presented, were right. Therefore, normally setting myself right into the battle, the struggle, and taking myself to be okay to assemble the puzzles, if not blaming myself for when things would not work, living the tension, or frustrations, through the misunderstandings. This phenomenon, such as of accepting what is presented as being right, and looking at myself as the one to solve, is perhaps a force that some people are fine with it. I always felt sort of proud of it and it reaches out beyond standard texts, such as with interfaces of digital systems. I was the other day working with my friend and we were trying to figure how to use a digital service through the software system that we had to develop. We spent about 30 minutes reading and trying out things and then, voilá, we had figured. It turned out that what was in front of us was too exciting - our chance to create a digital conversational chatbot [^footnote_chatbot] using an the online infrastructure of a major well-known service. When we achieved the moment pride, euphory took us over, we were excited; and I almost moved on as I used to do in many episodes as a software developer. But then, as we have a bit of time in the meeting, I had paused and told him that we just spent 30 minutes trying to read a poor documentation and trying to navigate through an ambigous interface that was not stable where most of its the texts to help were doing a dissservice. We sort of agreed that we wasted our time. But then, again, that is life, isn't it? Perhaps most developers are, in the end of the day, mainly moving on through the broken texts, and the broken interfaces, and with that they are the ones in a good position to be ahead in the game since after they cut the bushes from their path, they are the first to be able to use some good ideas, they still have it energy. Being that real or not, it is more real that the world of digital systems is so dynamic and the interfaces, and the texts that go along, are changing all the time, being writen in different ways, serving the urgencies of launching first, being clear later. 
 
-But back to the main point, and more importantly and quite sadly, my own inclination to not pay attention to the fact that a lot of the struggle had to do with the clarity of texts, led me not only to wast energy, such as time, such as to be be confused with these materials; but worse, to be blaming myself and continuing to work for the situations, instead of asking myself - is this text clear? Is this interface clear? What I am doing here? And the like. 
+But back to the main point, and more importantly and quite sadly, my own inclination to not pay attention to the fact that a lot of the struggle had to do with the clarity of texts, led me not only to wast energy, such as time, such as to be be confused with these materials; but worse, to be blaming myself and continuing to work for the situations, instead of asking myself - is this text clear? Is this interface clear? What I am doing here? And the like. Plus, and this is the sad news, the environment of being okay around all the broken documents, may have supported me to be okay with the producing broken documents, broken interfaces, broken communication, even though my broken documents had a nice example in the middle, sometimes. 
 
 #### Searching for clarity 
+
+<!--
+@meta @section @outline 
+* outline - introduction - scqa / K3.2.0 -    \____ Searching for clarity   
+* outline - introduction - scqa / K3.2.x -      \____ Intensive iteration? (confirm)
+--> 
 
 Now, one thing is to consider the angle where more traditional texts, such as renowmed text books, lack the good order and clarity in ways that prevents the audience to understand. But the world has changed - not to say exploded - with too many formats, too many opportunities, and too many interactions happening in the average day. We are now pressured to read more, to write more, to exchange more messages. In other words, we more iteratively and interactively watch, read, reflect, and then we write or present or decide. All that in a faster pace, through online documents being shared, e-mails exchanged, text messages, conference calls, you name it. In other words, with more interaction and communicative happening, the lack of clarity in the everyday communications would lead to an explosion of problems. 
 
@@ -300,6 +441,11 @@ But the reason that things seem to be working - as opposed to a chaos - is that,
 Not coming back to the startup setting, we can first recount the situation where communicative experiences are happening like the grease in the machine not mattering the size. Two, that it exists to cause change through the interactions with audiences like stakeholders, cofounders, customers, and more. And three, that we have expressed a tendency of the doers in overlooking communication and instead overfocusing in the arguments, and reasons, going after data, collecting evidence, coming up with proofs, constructing systems, and the like. Because the sky is the limit, I will simplify and call it *Data*.
 
 Now a question is, if the team favors *Data*, it means that the interaction with the audience will be effective? Imagine a team that builds and shows a prototype and a customer said "that is cool." Now, even if some customers like it, it still does not solve the needs of an investor as she might be interested in the business model, in the growth potential, any risks involved, if the team can productize the real version, and more. Now, a fair consideration must be made, that if this situation were real, such objection could be dismissed by the saying that "this is a problem we all want to have," which is a short version that acknowledges that the investor further interest has happened after the investor's recognigtion of the success with the customer.  
+
+<!--
+@meta @section @outline 
+* outline - introduction - scqa / K3.2.x -      \____ Retrospect? (confirm)
+--> 
 
 Therefore, it is a fair conclusion that the team's interest in affairs with the *Data* has less to do with their intention to come up with the offering and more of serving the needs to support good arguments, or good reasons, that supports a clear story that supports the more mature decisions ahead associated with the growth expectations, such as further investment. Therefore, if gambling is nothing like the self description of what entrepreneurs do when they come up with *Data*, then by the nature of the iterative and interactive process, we can fairly say that they are searching clarity; which is not much different from the corporate version where communicative experiences through collaboration helps with clarity. 
 
@@ -342,6 +488,11 @@ In other words, there are things with can do about communications, there are mea
 
 #### Barbara's SCqA  
 
+<!--
+@meta @section @outline 
+* outline - introduction - scqa / K3.2.1 -      \____ Barbara's SCqA 
+--> 
+
 Now, the story of Barbara's journey in cracking the code of executive communication guides the doer to manage and design the communicative experience. Part of The Pyramid Principle involves the identification of a fundamental unit of logic that is quite applicable in business communications - in proposals, memos, reports, pitch to investors, and more. This unit of logic she called SCqA and stands for situation, complication, question, and answer. I like to think of Barbara's SCqA as a sort of contract for why the audience is there. It governs the relationship between the individuals involved in a communication, or the sides, or the entities, it honors the value-exchange of the relationship. 
 
 <!--
@@ -378,6 +529,11 @@ By engaging in trying to come up with a coherent communiation that honors SCqA, 
 
 #### How SCqA happens in the everyday situation 
 
+<!--
+@meta @section @outline 
+* outline - introduction - scqa / K3.2.2 -      \____ How SCqA happens in the everyday situation 
+--> 
+
 What I really like from Barbara's Pyramid Principle is her attention to explain how SCqA happens in life. When I first heard about SCqA - after watching an online video - I had sensed its coherence: Well, yes, presenting a situation that is something that the audience knows to be true is a good baseline. Then, as something is needed of them, they shall indeed ask themselves questions like should I proceed? should I invest? how does that work? Those sort of questins. Which would, indeed, would show take them to a solution, an answer; but of course all that would only work if they had a good reason, if a see a complication, which can be solved by the answer that follows. But although that sounded coherent, still I wondered if the everyday communication had anything of that. For me it was enlightening to read a section from Barbara's book that had elaborated about variations to that standard order (2016, p.40). The following are examples I came up with to illustrate these variations: 
 
 * Direct - ASC - The CEO comes into the building and tells her colleagues "Let us pivot. We should implement right now, feature ABC." She adds that "I heard from our customer, his loud and clear feedback, that what we are offering is not good." In addition, she added "If we don't do that feature, we won't be able to keep that customer." 
@@ -406,9 +562,19 @@ Now, when I undertood these variations, I had recognized myself right away and h
 
 #### SCqA in formal communications
 
+<!--
+@meta @section @outline 
+* outline - introduction - scqa / K3.2.3 -      \____ SCqA in formal communications
+--> 
+
 But that very same identification - that is in the everyday - and that the struggle can be observed, also gets in our way when we move into formal communications, which make us to come up with formal communications in quite arbitrary ways. And SCqA in this regard, goes well to solve our problems, especially to help us approach the design of our communication. 
 
 #### The power of directeness 
+
+<!--
+@meta @section @outline 
+* outline - introduction - scqa / K3.2.4 -      \____ The power of directeness 
+--> 
 
 By now we have some idea that a structure exists that asks for an order for a communicative experience, and that the SCqA approach of Barbara gives access to this "minimum contract" that sustains an audience in front of the communicator, minimally to listen to the conversation, where it starts. With that, the audience being selected by afinitity with a subject, may be interested if they arrive at that Question, in the middle. If one is explaining how a machine operates, they might do doing so because the audience wants to know how it operates. If one listens to a roadmap for a trip, they do so because they are asking "how do I get there?" which goes along with complication that they might not know how to get there although they want. Likewise, by the nature of such structure, founders are asked to pitch investors which solid candidates to invest, that had prior experience investing in startups, or that do recognize the question "should I invest in this company?" 
 
@@ -418,7 +584,12 @@ Let us first consider the power of using the SCqA as a guide with an illustratio
 
 Now, to be fair, we had followed along the tip of the icerbeg, trying to set the bottom part of it so that it would stand. Maybe we were even quite arbitrary as we had assembled our Answer parts with three parts, recognizing Roberto's skills first, then Roberto's weaknesses and how he were addressing them, and the third part convering his interest in learning. I would say that we did it responsibly, in a way, but also that we didn't bother much to consider other scenarios. In other words, it is major that teams should work in the Answer part of the communicative experience as it is all connected. And this is yet another major reason for further investment in The Pyramid Principle. 
 
-### Perception and coherence through prose 
+### Humanized prose
+
+<!--
+@meta @section @outline 
+* outline - introduction - scqa / K3.3.0 -    \____ Humanized prose
+--> 
 
 But all kinds of communicative experiences, eventually it boils down to the words being used - in the field - written, spoken, or told on the side of what is being presented. And because of that, eventually, all that were designed by the doers that deny coherence, or persuasion, are left with the consequences of such denial - the possibility that by overfocusing on data, such as generally the mechanics of what they want to say, will bring about their words and with that impact of what could be perceived as their style. It can come out in many ways, like the arbitrary ways, or can be pompous, or full of clichés, or even a brevity of style that is boring, or even what seems exciting but not in exciting way. But their audiences recognize even without being fully aware - like when they lose focus, can't follow anymore. 
 
@@ -466,6 +637,11 @@ With that said, and to honor Willian's point, is not that we need to hit our fac
 They are asking us to think through, to start with the audience, with the subject, with that "contract" and within that view to honor why the audience should be there, why we want them, what is a reason for them. Does it being a complication, or an opportunity, and one that comes after some situation that they recognize and where can consider a potential solution or answer to be presented?. And, with that, and likewise, the prose follows, the prose conforms, the words that are plain, not with the keywords. Our job is, therefore, a translation job. More work is needed but the good news is that writing can be used as the process to get there. 
 
 ### Doing it responsibly 
+
+<!--
+@meta @section @outline 
+* outline - introduction - scqa / K3.4.0 -    \____ Doing it responsibly 
+--> 
 
 The celebration that writing is not manipulative does justice first to the team, their time, and invites us to the structured and logical work of Barbara which gives people an easier and structured way to deal with communication. It gives us management for communications. Her approach can be especially life-changing for entrepreneurs as they depend, interact, and need support from solutions-oriented audiences throughout the development phases of their startups.   
 
