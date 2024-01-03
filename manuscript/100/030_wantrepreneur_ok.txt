@@ -98,7 +98,7 @@ Graham, P. (2014). Before the Startup. http://www.paulgraham.com/before.html
 --> 
 
 
-## The essence of entrepreneurs 
+## The essence of entrepreneurs
 
 In summary, the wantrepreneur role, redefined, is necessary, although we rather call them entrepreneurs. Now can entrepreneur be used before success? Yes too, as the measure has to be another. In essence, the true spirit of an entrepreneur - in alighment with Steve's viewpoint - has to be willing to learn which will set them to consciously execute what has to be done. Everyone will make mistakes and learn, and for this, it's important that the climb can be made with support, firstly. Support so that we can be inspired, learn, and grow. If there is a base model for other models, it is the model of the learner that can give you the path to avoid being confined in the wantrepreneur situation, as learning is your chance to emerge from a potential plunge into the abyss.
 
@@ -115,3 +115,33 @@ The wantrepreneur condition can be likened to an advertisement that makes many p
 -->
 
 Entrepreneurship, as discussed by Steve Blank and highlighted in the article "Who is an Entrepreneur," is less about inborn talent and more about a deep-seated willingness to learn and engage. Blank's comparison to Renaissance artists, who needed both passion and hands-on practice, underscores this idea. Whether one starts as a wantrepreneur or an entrepreneur, the key differentiator is the internal drive to embark on this challenging and unpredictable journey. This concept suggests that entrepreneurship is not just taught, but also chosen, with success stemming from a blend of desire, dedication, and hands-on experience.
+
+## The essential entrepreneur 
+
+An essential component of entrepeneurship - and a quite exciting one - is that all entrepreneurial action involves an initial movement that can be of the romantic kind. I like to think that it has to do with a kind of romantic art [^footnote_romantic_art_ayn_rand] where the doer feels empowered to change the world. Consider the story of Oliver Evans, the american inventor recognized as a protagonist in the history of the high pressure steam engine - the thing that later found traction in the world of locomotives. He couldn't be aroud, not enough time, to witness the movement of the heavy weight carrying locomotives, spreading around the United States and producing change by its steady speed and arrival the on-time. And from that, not witnessing the equally necessary air brake system invented and produced [^footnote_wikipedia_georgewestinghouse_airbrakes] by George Westinghouse - the thing that allowed those heavy trains to be stopped safely and efficiently. On the good side, he didn't live through more complications in the nightmare of court battles around patents [^footnote_mauryklein_oliver_court]. It would be too much pressure for him to take I would think. Just too many revolutions going on. 
+
+[^footnote_romantic_art_ayn_rand]: 
+
+[^footnote_mauryklein_oliver_court]: 
+
+[^footnote_wikipedia_georgewestinghouse_airbrakes]: https://en.wikipedia.org/wiki/Westinghouse_Air_Brake_Company
+
+But he saw a lot of it coming anyway - as he had planted the seeds and sparked the revolution of the terrain as it is, a revolution that gave him a place as a protagonist on the nation's way into automation, but one that had to start in his own mind first. And when he saw it coming he saw it quite before it would be possible, bearing the impossible for him anyway. According to Maury Klein, he had a vision:
+
+> *""* Maury Klein ()
+
+Whatever he had dreamed were the kind of goal that propelled his work. Yet it took him 17 years to get to make a bit of that to work, to be seen as useful and real in the world, such as the steam engines used to pump water, such as the automatic milling machine, such as to write up a guide to support promoting and educating the young millwright to operate and thrive with it. And with that his long term vision were alive too, developing and endured, as the drawing of the Oruktor shows in one of his patents: 
+
+> *""* Oruktor 
+
+For me the story of Oliver shows a bit of what it is an entrepreneur because he had embraced the challenges, such as to embrace the inventor following a vision, to access a new world; therefore to access the creative part. And, on the very same hand is about being a doer, around the world, going through the challenges and in a way to destroy existing preassumptions, or core components, of an old world and story that can be rewritten, such as the necessity for manual labor. Yes I am reducing - I can't go back to interview him - of course. 
+
+But I bet that he cared for other benefits from the realization of that automation, such as the benefits that could give him the means to create more impactful things, the benefits to get more support to the course of opportunities. In other words, he were interested in sustaining the thing that he saw as the new vision, to secure investment support, to secure the good conditions for that kind of entrepreneurial action to continue to thrive. It is then undeniable that money coming from the sales of those creations would serve a good purpose. 
+
+What I like about the story of Oliver is that it adds the romantic and the creativity twist into the thing of the doer, the method or the approach so that they can keep up messing up with the environment, the market, and life as it is yet to be changed. In other worlds, it adds the missing component to the Schumpeterian point about entrepreneurs as doers: 
+
+> *""* Schumpeter () 
+
+Now has Schumpeter misunderstood the entrepreneur reducing it as the pure doer? No, I would think, exactly because of a premisse that the incessant doing of the doer brings up freedom from the current stream and the way things are done. It other words, doing leads to reinvention just like writing every day leads to clear writing. But the very twist to the incessant doer lies in the Schumpeterian concept of creative destruction, where the macro phenomenon is a projection of the same individual mechanism in the individual that does - when they see it and when they feel empowered to act on it - which involves challenging their own status quo and bring about change to themselves in the first place. 
+
+
