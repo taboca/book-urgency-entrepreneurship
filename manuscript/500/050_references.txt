@@ -116,8 +116,15 @@ Stanford. (2013). Entrepreneurship Through the Lens of Venture Capital [Video]. 
 
 Bouizegarene, N., Bourdeau, S., Leduc, C., Gousse-Lessard, A.-S., Houlfort, N., & Vallerand, R. J. (2018). We are our passions: The role of identity processes in harmonious and obsessive passion and links to optimal functioning in society. Self and Identity, 17(1), 56–74. https://doi.org/10.1080/15298868.2017.1321038
 
+<!-- 
+
+* From - Wantrepreneur - 030_wanterpreneur
+
+--> 
+
 Klein, Maury. (2009). The power makers : steam, electricity, and the men who invented modern America. Bloomsbury Press. First U.S. edition.
 
+Schumpeter, J. A. (2008). Capitalism, socialism, and democracy. Harper Perennial Modern Thought. (Original work published 1942)
 
 <!-- 
  230_self_confirmation_bias_social_identity.txt
