@@ -1,63 +1,93 @@
 # Wantrepreneur   
 
 <!-- 
-
-## Titles 
-
+@meta @titles 
 * v0.5 - Wantrepreneur 
 * v0.4 - Entrepreneur
 * v0.3 - Who is an entrepreneur  
 * v0.2 - Wantrepreneur
 * v0.1 - A wantrepreneur, fear not
+-->
 
-## Scqa
-
+<!-- 
+@meta @abstract 
 * Abstract - In the realm of entrepreneurship, the concept of a "wantrepreneur" emerges as a cautionary term used to describe individuals who express a desire to become entrepreneurs but fail to take decisive steps to materialize their ambitions. This reflection delves into the significance of dreams and values, highlighting the importance of striking a balance between inspiration and realism in the entrepreneurial journey. It also emphasizes the value of role models as a source of guidance and motivation. Furthermore, being an eternal learner and seeking feedback are key elements that contribute to an entrepreneur's growth and success. By navigating this path consciously and embracing the identity of a perpetual learner, aspiring entrepreneurs can transform aspirations into tangible achievements and truly embrace the entrepreneurial spirit.
+-->
 
-Checar 
-
-Referencias
-
-Collins, J. (1994). Built to Last: Successful Habits of Visionary Companies. Harper Business; 3rd ed. edition.
-
-Graham, P. [PaulGraham.com]. (2014, October). Before the Startup. Retrieved from 
-http://www.paulgraham.com/before.html
-
-Greylock. (2015, November 30). Blitzscaling 18: Brian Chesky on Launching Airbnb and the Challenges of Scale [Video]. YouTube. https://www.youtube.com/watch?v=W608u6sBFpo
-
+<!-- 
+@meta @Outline
+* outline - Introduction - Leading pitch and subject - An ocean of recipes, some of them creates confusion 
 --> 
 
-In the world of entrepreneurship, there are many people passing on recipes about what is correct to do, the right way. And about what not to do, the wrong way. Moreover, there are categorizations that judge the entrepreneur's profile. One of them is the concept titled wantrepreneur.
+<!-- 
+@meta @Outline
+* outline - Introduction - Situation - An ocean of recipes, some of them creates confusion 
+--> 
 
-Wantrepreneur, in English, is a pejorative term typically used to refer to someone who pretends to be an entrepreneur, who in some way seeks status, preferring to show results rather than work to achieve them. Therefore, this categorization is a warning given by some entrepreneurs, the real ones, when they want to help other entrepreneurs do it the right way. The alert serves as a warning and reminds that the entrepreneur's destiny is not status but the action of entrepreneurship, the results, and the impact. Nothing too wrong with that, right? When revising this section, I asked ChatGPT, what is wantrepreneur?
+From the world of entrepreneurship, there are many people passing on recipes about what to do, the right way, and what not to do, the wrong way. They are unstoppable - no matter how far they are - because it seems part of the their craft, to keep doing it, sharing and telling what they know. From my jorney of hopes and hopping through too many recipes, one in particular has hit my board. This arrow was labelled *Wantrepreneur*. 
+
+<!-- 
+@meta @Outline
+* outline - Introduction - Situation - Definition from my experience, caught, and can't deny, seems reasonable. 
+--> 
+
+Wantrepreneur, what seemed to be English, is a term that may or may not come our ways, the way of entrepreneurship. It came my way  anyway used to refer to someone who pretends to be an entrepreneur, who in some way seeks status, preferring to show results rather than work to achieve them. Therefore, this categorization is a warning given by some entrepreneurs, what appears to be real heroes, when they want to help other entrepreneurs do it the right way. Their alert serves a potential purpose to help with the entrepreneur's destiny? Maybe, where not the status has to be pursued but the action of entrepreneurship, which aims for results, which demands impact. Well, what could one say if not to nod under the idea that there is nothing too wrong with that. When revising this section, I asked ChatGPT, what is wantrepreneur?
+
+<!-- 
+@meta @Outline
+* outline - Introduction - Situation - Pejorative in many ways, definition. 
+--> 
 
 > *"Wantrepreneur is a pejorative term used to describe someone who talks about starting a business but never takes concrete steps to make it a reality. In other words, it's someone who 'wants' to be an entrepreneur but doesn't act as one. A wantrepreneur may spend a lot of time reading about business, watching lectures, or taking courses, but they never actually start their own venture. They may have many ideas but don't act on them or execute them. Often, these individuals may be more in love with the idea of being entrepreneurs than with the reality of working hard to build and manage a business. The term is often used to emphasize the importance of action and execution as opposed to mere contemplation or speculation in the entrepreneurial journey."* ChatGPT
 
-Again, nothing wrong with that, there is a valid essence. From an optimistic side, it's an emblematic alert that creates pressure for the good of entrepreneurs. But let's face it, it's easy to be articulated by those who have made it after they have failed before achieving status of true entrepreneurs. It's these individuals, now real entrepreneurs, who can now tell the story of how to do it, now empowered to pass on their recipes, now feeling that they raise these warning signs. Don't be a wantrepreneur, don't write or communicate anything while in the aspirant stage, while under construction, be a true entrepreneur and deliver, act, execute first. 
+<!-- 
+@meta @Outline
+* outline - Introduction - Complication - Not confusing? Yet another story. Wait,  
+--> 
 
-The fact is that all these beings, you call them wantrepreneurs or entrepreneurs, once had to face the path of learning. The apparent problem is that the distinction doesn't deal with the process, for instance, of those who are beginners still trying to emerge. The real question is whether entrepreneurs start their journey with the goal of becoming entrepreneurs. Can they do that way? Where do things truly begin? In this context, in an interview by Roham Workman, Steve Blank was asked if entrepreneurship can be taught or if people are born with that. Steve openned his answer with his testament of how he and his friends were amuzed to see that he became a practictioner as they assumed that he was "the last guy on the planet that anybody would thought to be a strategist." The answer to the question, which took him about a decade to find, circled back to the question of "Who can entrepreneurship be taught to?" Or that entrepreneurship involves learning, indeed, involves practice, indeed, but also an initial movement, a volunteering intention:  
-
-> *"About 500 years ago, we discovered in the Renaissance, you can actually train artists. First of all, you passionately have to want to be one. You want to be a sculptor or a painter or a musician. And the way you're going to learn is, yeah, we'll teach you some theory, but you're going to apprentice and do it tons of hands on. You're not going to learn how to be a painter by reading painting books."* (Blank, 2014, 10:42)
-
-In the interview, he recognizes a entrepreneur is the one that passionately volunteers to be in, to engage with theory and a ton of practice, and that they develop the craft counting on support from the external environment like through a rich ecossystem like incubators, accelerators, and more. 
+The problem is that the doer on her way to become an entrepreneur may show signs of the wantrepreneur character. And under the positive tone of the voices attacking the hypothetical or real wanterpreneur, no harm if necessarity intended by these voices. They are indeed working more like a sign - bad course to take. Therefore, the possibility of one being stuck right there, or even to give up, is not really the main complication. What could be, tough, is an instant desire to take the right way, such as to embrace getting things done. In other words, the complication is that it does deal with the process, for instance, for those who are beginners and trying to emerge. 
 
 <!-- 
-
-video position https://youtu.be/UFx2CQUTpYo?si=JhViq9N7lZp3ki09&t=642 
-
-reference 
-
-Steve Blank @ MAP Unimelb, Published on Mar 13, 2014 [video]. Retrieved from https://www.youtube.com/watch?v=UFx2CQUTpYo
-
+@meta @Outline
+* outline - Introduction - Question and Answer - (Elaborate) Breaking down - Can it be taught?  
 --> 
+
+The real question is whether entrepreneurs start their journey with the goal of becoming entrepreneurs without being entrepreneurs. Can they do that way? Moreover, can they start entrepreneurship based on motivations, based on inspirations such as when inspired by successful entrepreneur models? Also, is wanting to be an entrepreneur a valid destination? Currently, yes, the entrepreneur can and should want to be, can and should desire to pursue dreams, can and should be inspired by examples, can and should express his ideas out. Indeed, they risk falling into the abyss and staying there at the bottom of the entrepreneurship ocean, somewhat conversing with model entities, learning, and experiencing the wonders of the romantic world of entrepreneurship. While exiting the abyss, rising to the surface, is important - as no one denies the fruit of entrepreneurship is changing the environment - still, the great complication of negatively labeling the wantrepreneur lies in the small chance of the protagonist going directly to a supposed successful execution, a supposed act of delivering results.
+
+
+In summary, we can't say that the wantrepreneur role has to be redefined. We shouldn't bother with specifics from ideas that aren't clear yet; and we can do better by turning our attention to the what matters, such as to consider the actual path of development and the actual considerations that characterizes the entrepreneur in development. 
+
+## The modern pathways
+
+<!-- 
+@meta @Outline
+* outline - answer k1 - Writing, networking, sharing, even theorizing seems to be part of the moden craft 
+--> 
+It used to be the case that entrepreneurs were forged by an environment, such as the place where they lived through challenges firt hand, where some of them raised alone to change their environment and their lifes, and some others had the opportunity to be educated, such as doing the craft like apprentice, and others found ways to have their journey smoothed in a way, with protection like investment. We can go back in history and see a lof of that through the industrial revolution days. 
+
+But nowadays, the learning path is not structured, even due to educational frameworks or by the forceful environment. That, in a way, seems like good news, many more are able to get into what they see as an entrepreneurial pathway. As in, the entrance points have indeed exploded and with that the exit points too happen to show promising results. 
+
+
+
+### The reaction with the wantrepreneur incident 
+
+<!-- 
+@meta @Outline
+* outline - answer k1.1 - The wantrepreneur incident and attack  
+--> 
+
+Again, nothing apparently wrong with that, there is a valid essence. From an optimistic view, it's an emblematic alert that creates pressure for the good of entrepreneurs. But let's face it, it's easy to be articulated by those who have made it after they have failed before achieving status of true entrepreneurs. It's these individuals, now real entrepreneurs, who can now tell the story of how to do it, now empowered to pass on their recipes, now feeling that they raise these warning signs. Don't be a wantrepreneur, don't write or communicate anything while in the aspirant stage, while under construction, be a true entrepreneur and deliver, act, execute first. 
 
 ![Illustration of stairs, when baby entrepreneurs, and at the top an entrepreneur wearing a hat, pointing to the ones bellow and saying - don't be *wantrepreneur*s!]()
 
-Moreover, can they start entrepreneurship based on motivations, based on inspirations such as when inspired by successful entrepreneur models? Also, is wanting to be an entrepreneur a valid destination? Currently, yes, the entrepreneur can and should want to be, can and should desire to pursue dreams, can and should be inspired by examples. Indeed, they risk falling into the abyss and staying there at the bottom of the entrepreneurship ocean, somewhat conversing with model entities, learning, and experiencing the wonders of the romantic world of entrepreneurship. While exiting the abyss, rising to the surface, is important - as no one denies the fruit of entrepreneurship is changing the environment - still, the great complication of negatively labeling the wantrepreneur lies in the small chance of the protagonist going directly to a supposed successful execution, a supposed act of delivering results.
-
 Who is anyone to systematize, or categorize, the path of entrepreneurs when they are discovering? But here in this reflection, we can think of some arguments that support the role of the entrepreneur who lives the entrepreneurship process. First, the recognition of their dreams and values. Second, the search for role models. Third pillar, the quest for learning. Logically, there are various other elements that support those who want to embark on entrepreneurship. The main point of the exercise is not to prescribe the right way but to zoom in on the process and recognize that discovery and permission are critical elements for the entrepreneurial journey.
 
-### Dreams and values 
+### From dreams become values 
+
+<!-- 
+@meta @Outline
+* outline - answer k1.2 - Dreams to values   
+--> 
 
 In the context of entrepreneurship, addressing dreams and principles with due importance is essential. The entrepreneurial journey isn't merely a series of actions aimed at profit-making. It's a mission deeply intertwined with dreams, principles, and a defined vision. However, a complication often arises when there's a tendency to minimize or "prune" the wantrepreneur aspect as one transitions into the role of an entrepreneur. This denial may be fueled by a mistaken belief that the realism of entrepreneurship doesn't allow for a high degree of inspiration, romanticism, or that grand visions can be a hindrance to immediate action focused on the market.
 
@@ -65,9 +95,19 @@ This mindset, however, is not only limiting but also counterproductive. The rele
 
 The second step, equally crucial, is to translate these dreams and principles into tangible actions that allow progress without sacrificing core values. In this exercise, we can find inspiration in Jim Collins's work "Built to Last: Successful Habits of Visionary Companies" (1994). Collins emphasizes that "Visionary companies make some of their best moves by experimentation, trial and error, opportunism, and—quite literally—accident. What looks in retrospect like brilliant foresight and preplanning was often the result of 'Let’s just try a lot of stuff and keep what works.'" This perspective encourages a balance between maintaining visionary ideals and engaging in practical, adaptable actions to navigate the unpredictable path of entrepreneurship.
 
+<!--
+@meta @references
+* Reference - Collins, J. (1994). Built to Last: Successful Habits of Visionary Companies. Harper Business; 3rd ed. edition.
+--> 
+
 Applying this concept to entrepreneurship, we can envision a dynamic where values and vision provide necessary guidance, while at the same time allowing freedom for experimentation and execution. In this way, the vision of the wantrepreneur and the efficacy of the entrepreneur not only coexist but complement each other, enabling a successful and principled entrepreneurial journey.
 
-### Models 
+### From models become references 
+
+<!-- 
+@meta @Outline
+* outline - answer k1.3 - From models become references  
+--> 
 
 Now, what role models should we seek for inspiration? Well, these models are always changing, and you should choose the ones that fit your business and objectives. But the matter of role models is simply a means for you to interpret valuable lessons, principles, and behavior models. This is because it's simpler this way and because the world of knowledge is documenting things in this manner — presenting people's ideas and creating models, or representations, for you to first engage and be inspired. So, looking to role models is a shortcut we can use to retrieve lessons, their thoughts, and behaviors.
 
@@ -77,7 +117,12 @@ Ray Dalio, a superb role model, has stated that he created a "deck of cards" of 
 
 In other words, note that there is a connection between role models and the knowledge and behavior documented by them. But indeed, there are different types of role models. The good news is that you can test your models, read about what they say, understand their principles, explore the books they read, etc.
 
-### Learning depends on listening.
+### From learning to listening
+
+<!-- 
+@meta @Outline
+* outline - answer k1.3 - From learning to listening
+--> 
 
 Another important element in the initial or perpetual journey of the entrepreneur is the issue of learning how to learn. According to Reid Hoffman, co-founder of LinkedIn, Brian Chesky is an example of an infinite learner:
 
@@ -88,37 +133,42 @@ Connected with this idea of the infinite learner is a behavioral element, which 
 > *"Some founders listen more than others, and this tends to be a predictor of success. One of the things I remember about the Airbnbs during YC is how intently they listened."* (Graham, 2014)
 
 <!-- 
-
-## references 
-
-Greylock. (2015, November 30). Blitzscaling 18: Brian Chesky on Launching Airbnb and the Challenges of Scale [Video]. YouTube. https://www.youtube.com/watch?v=W608u6sBFpo
-
-Graham, P. (2014). Before the Startup. http://www.paulgraham.com/before.html
-
+@meta @references
+* reference - Greylock. (2015, November 30). Blitzscaling 18: Brian Chesky on Launching Airbnb and the Challenges of Scale [Video]. YouTube. https://www.youtube.com/watch?v=W608u6sBFpo
+* reference - Graham, P. (2014). Before the Startup. http://www.paulgraham.com/before.html
 --> 
-
-
-## The essence of entrepreneurs
-
-In summary, we can't say that the wantrepreneur role has to be redefined or that it is necessary. We shouldn't bother with specifics from ideas that aren't clear yet; and we can do better by turning our attention to the what matters, such as to consider the above and many other considerations that characterizes an entrepreneur in development. 
-
-In essence, the true spirit of an entrepreneur aligns with Steve's viewpoint that they see themselves as entrepreneurs willing to learn while executing the craft. And for that, support is the key ingredient to be planted everyday, as everyone will make mistakes learning and reflection rises from that support which improves listening necessary before growth. 
-
-On their path, there are crossroads and opportunities - to navigate towards the side of status or to navigate by seeking clarity through truths, principles, and values. The biggest risk of seeking status is that this pursuit can greatly hinder learning. Doers can also fall into being arbitrary doers. Arbitrary doers can become stuck too. On the other hand, the always-learning entrepreneur sees themselves as an aspirant first and foremost.
-
-Through the development of an entrepreneur - and some of its characterizations could be identified by the ones tagging wantrepreneurs - the  may be working on a message, like the David Ogilvy brilliantly  "the best way to increase the sales of a product is to improve the product" (Ogilvy, 1983, our translation). So be it, if you are projecting yourself, exercising your aspiration, and navigating the space that could be called wantrepreneur, remember that this is your chance to improve yourself and not to give up.
-
-<!-- 
-
-## todo 
-
-* p2 ( ) - In Part 1, Wantrepreneur, a citation of Ogilvy needs to be reviewed for accuracy - "the best way to increase the sales of a product is to improve the product" (Ogilvy, 1983, our translation). Ref 6575-8575-84374-8584
-
--->
 
 Entrepreneurship, as discussed by Steve Blank and highlighted in the article "Who is an Entrepreneur," is less about inborn talent and more about a deep-seated willingness to learn and engage. Blank's comparison to Renaissance artists, who needed both passion and hands-on practice, underscores this idea. Whether one starts as a wantrepreneur or an entrepreneur, the key differentiator is the internal drive to embark on this challenging and unpredictable journey. This concept suggests that entrepreneurship is not just taught, but also chosen, with success stemming from a blend of desire, dedication, and hands-on experience.
 
 ## The essential entrepreneur 
+
+<!-- 
+@meta @Outline
+* outline - Answer k2 - The essential entrepreneur 
+--> 
+
+<!-- 
+@meta @Outline
+* outline - Answer k2.1 - Can entrepreneurship be taught? 
+--> 
+
+The fact is that all these beings, you call them wantrepreneurs or entrepreneurs, once had to face the path of learning under the conditions of uncertainty - and being alone. The apparent problem is that the distinction doesn't deal with the process, for instance, of those who are beginners still trying to emerge. The real question is whether entrepreneurs start their journey with the goal of becoming entrepreneurs. Can they do that way? Where do things truly begin? In this context, in an interview by Roham Workman, Steve Blank was asked if entrepreneurship can be taught or if people are born with that. Steve openned his answer with his testament of how he and his friends were amuzed to see that he became a practictioner as they assumed that he was "the last guy on the planet that anybody would thought to be a strategist." The answer to the question, which took him about a decade to find, circled back to the question of "Who can entrepreneurship be taught to?" Or that entrepreneurship involves learning, indeed, involves practice, indeed, but also an initial movement, a volunteering intention:  
+
+> *"About 500 years ago, we discovered in the Renaissance, you can actually train artists. First of all, you passionately have to want to be one. You want to be a sculptor or a painter or a musician. And the way you're going to learn is, yeah, we'll teach you some theory, but you're going to apprentice and do it tons of hands on. You're not going to learn how to be a painter by reading painting books."* (Blank, 2014, 10:42)
+
+In the interview, he recognizes a entrepreneur is the one that passionately volunteers to be in, to engage with theory and a ton of practice, and that they develop the craft counting on support from the external environment like through a rich ecossystem like incubators, accelerators, and more. 
+
+<!-- 
+@meta @references 
+* Reference - video position https://youtu.be/UFx2CQUTpYo?si=JhViq9N7lZp3ki09&t=642 
+* Reference - Steve Blank @ MAP Unimelb, Published on Mar 13, 2014 [video]. Retrieved from https://www.youtube.com/watch?v=UFx2CQUTpYo
+--> 
+
+
+<!-- 
+@meta @Outline
+* outline - Answer k2.2 - Pulling up essentials of vision and getting things done
+--> 
 
 An essential component of entrepeneurship - and a quite exciting one - is that all entrepreneurial action involves an initial movement that can be of the romantic kind. I like to think that it has to do with a kind of romantic art [^footnote_romantic_art_ayn_rand] where the doer feels empowered to change the world. Consider the story of Oliver Evans, the american inventor recognized as a protagonist in the history of the high pressure steam engine before - the thing that later found traction in the world of locomotives. He couldn't be around, not enough time, to witness the movement of the heavy weight carrying locomotives, spreading around the United States and producing change by its steady speed and arrival the on-time. And from that, not witnessing the air brakes [^footnote_wikipedia_georgewestinghouse_airbrakes] required to stopped those heavy trains safely and equaly on time. 
 
@@ -150,6 +200,21 @@ The story of Oliver shows a bit of what it is an entrepreneur because he had emb
 * Reference - Schumpeter, J. A. (2008). Capitalism, socialism, and democracy. Harper Perennial Modern Thought. (Original work published 1942)
 --> 
 
+<!-- 
+@meta @Outline
+* outline - Answer k2.3 - Getting things done should seek reinvention and freedom 
+--> 
+
 Now has Schumpeter misunderstood the entrepreneur reducing it as the pure doer? No, I would think, exactly because of a premisse that the incessant doing of the doer brings up freedom from the current stream and the way things are done. It other words, doing leads to reinvention just like writing every day leads to clear writing. But the very twist to the incessant doer lies in the Schumpeterian concept of creative destruction, where the macro phenomenon is a projection of the same individual mechanism in the individual that does - when they see it and when they feel empowered to act on it - which involves challenging their own status quo and bring about change to themselves in the first place. 
 
+In essence, the true spirit of an entrepreneur aligns with Steve's viewpoint that they see themselves as entrepreneurs willing to learn while executing the craft. And for that, support is the key ingredient to be planted everyday, as everyone will make mistakes learning and reflection rises from that support which improves listening necessary before growth. 
+
+On their path, there are crossroads and opportunities - to navigate towards the side of status or to navigate by seeking clarity through truths, principles, and values. The biggest risk of seeking status is that this pursuit can greatly hinder learning. Doers can also fall into being arbitrary doers. Arbitrary doers can become stuck too. On the other hand, the always-learning entrepreneur sees themselves as an aspirant first and foremost.
+
+Through the development of an entrepreneur - and some of its characterizations could be identified by the ones tagging wantrepreneurs - the may be working on a message, like the David Ogilvy brilliantly  "the best way to increase the sales of a product is to improve the product" (Ogilvy, 1983, our translation). So be it, if you are projecting yourself, exercising your aspiration, and navigating the space that could be called wantrepreneur, remember that this is your chance to improve yourself and not to give up.
+
+<!-- 
+@meta @todo
+* p2 ( ) - In Part 1, Wantrepreneur, a citation of Ogilvy needs to be reviewed for accuracy - "the best way to increase the sales of a product is to improve the product" (Ogilvy, 1983, our translation). Ref 6575-8575-84374-8584
+-->
 
