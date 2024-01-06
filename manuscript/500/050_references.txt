@@ -56,12 +56,21 @@ Greylock. (2015, November 30). Blitzscaling 18: Brian Chesky on Launching Airbnb
 
 
 <!-- 
-100/080_narratives_improving.txt
+100 / 110_narratives_improving.txt
 -->
 
 Ulwick, A. W. (2016). Jobs to be Done: Theory to Practice. Idea Bite Press.
 
+<!--
+100 / 030_wantrepreneur_article
+100 / 110_narratives_improving.txt
+--> 
+
 McGonigal, J. (2011). Reality is Broken: Why Games Make Us Better and How They Can Change the World. Penguin Books.
+
+<!-- 
+100 / 110_narratives_improving.txt
+-->
 
 Kim, A. J. (2018). Game Thinking: Innovate smarter & drive deep engagement with design techniques from hit games. Idea Bite Press.
 
