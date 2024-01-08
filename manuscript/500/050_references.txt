@@ -28,6 +28,12 @@ Didn't reffered this one but the above Hari, from 050_foreword.txt
 Lorenz-Spreen, P., Mørch Mønsted, B., Hövel, P., & Lehmann, S. (2019). Accelerating dynamics of collective attention. Nature Communications, 10, 1759.
 --> 
 
+<!-- 
+* 000 / 100_introduction.txt
+--> 
+
+Global Silicon Valley. (2018, April 28). ASU GSV Summit: Main Stage Panel: The Future of Talent -- Transcending Work [Video]. YouTube. https://www.youtube.com/watch?v=GFKgJ4wkxQU&t=345s
+
 
 <!-- 
  100/010_startup_you.txt 
@@ -186,6 +192,7 @@ Terdiman, D. (2013, November 18). Tiny Speck releases entire Glitch art archives
 --> 
 
 Blank, S. (2014, March 13). [Video]. MAP Unimelb. https://www.youtube.com/watch?v=UFx2CQUTpYo
+
 
 
 <!-- 

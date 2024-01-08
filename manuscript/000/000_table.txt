@@ -1,11 +1,12 @@
 # Todo # 
 
+* p2 ( ) - In introduction -  Check the footnote of Andy Grove, pick original quote from Only the Paranoid Survive / Ref 123e4567-e89b-12d3-a456-426614174000
+* p2 ( ) - In Introduction - Check the quote again, from the English book of Fried and Hansson "It Doesn't Have to be Crazy at Work" / Ref - 9a7b111c-8c02-4d1e-b9eb-79a344c1c0f0
+* p2 ( ) - In introduction - Should growth - as defined by Paul Graham - be indicated as a pressure of the startup setting? Ref "[^editornote_paulgraham_growth]: Paul Graham covers both the aspect that startups are for a growth situation but also covers that founders follow instincs such as a willingness to play the game. The through of sorrow of Paul Graham also depicts that startups force their status as political, projections, leading to falling in their own traps, such as to be sad that their projections were not real." / ref 829482-2948492-429084928-429884922
+
 * p2 ( ) - In Wantrepreneur - Fix the story of Oliver Evan's burning patents and the footnote footnote_maury_klein_oliver_patents_hell -  Review with Maury Klein. Ref "It took him yet more 17 years to come to get involved, to get into making a high-pressure steam engine. Now, through the consideration of Oliver's life as an inventor and doer we can minimally arrive at the observation that a balance betweem getting things done and the sensitive self which is a premisse to learn. But his life is also a lesson to keep in mind that all of that has nothing to do with having a happy life, or with achieving success from other measuments, such as financial success, or healthy. Oliver kept doing but had a tough path through his jorney, especially being that he believed that the patent system would give him protection but gave him nightmares and a situation of being overwhelmed up to the point when he end up burning his patents papers. " / Ref 040-492849-928492-942849
-
 * p2 ( ) - In Wantrepreneur - Check the quote and pick the other where Steve uses the work *volunteer*. Ref "> *" You're not going to learn how to be a painter by reading painting books."* (Blank, 2014, 10:42) " Ref 392839020320-0329039-32093092-9320930
-
 * p2 ( ) - In Wantrepreneur - Fix the page and check Oliver Evans quote. Ref "That story is documented by Maury Klein as he had referred to that as the moment of an awakening, "It immediately occurred to me that there was a power capable of propelling any waggon, provided that I could apply it; and I set myself to work.to find out the means of doing so"​ (Klein, 2009, p. xx)" Ref 93948-94384983-4938498-4838499
-
 * p3 ( ) - In Wantrepreneur - Consider if the concepts from Reality is Broken, could apply. "When I were reviewing this section, I remembered the four key elements from Jane McGonigal of Reality if Broken - where she organizes concepts from game design that addresses real-world issues: * Goals, * Rules, * Feedback system , * Voluntary participation " ref 343-349489-4983849-493849
 
 * p2 ( ) - In Part 2, Communications, Perception in prose - Seek for the quote from Barbara Minto from The Minto Pyramid Principle, which states that we need to work more in the text, use the text to achieve clarity. Ref 7575-78685-8484-493849
@@ -125,19 +126,13 @@
 
 * p2, ( ) Consider view of Bruce Lee about honestly expressing youself - "“Honestly expressing yourself...it is very difficult to do. I mean it is easy for me to put on a show and be cocky and be flooded with a cocky feeling and then feel like pretty cool...or I can make all kind of phony things, you see what I mean, blinded by it or I can show you some really fancy movement. But to express oneself honestly, not lying to oneself...now that, my friend, is very hard to do.”" and the question that was given to him in the first place at https://youtu.be/fEDfznOP820?si=EPhz-bNuv1971ugB&t=750
 
-* ( ) Get the following quote from the English book of Fried and Hansson / 9a7b111c-8c02-4d1e-b9eb-79a344c1c0f0
-
 * ( ) Check if this which was on intro, should be kept / "On the other hand, when unexpected waves appear and new winds blow, as in the adverse situations facing teams, that is when we need new solutions since what is being done needs to be reconsidered. However, moments of uncertainty do not arrive with a banner — moment of uncertainty, new winds ahead. We end up falling into traps in the sequence of execution." 
-
-* ( ) Check intro / for Footnote of Andy, pick original quote from Only the Paranoid Survive / 123e4567-e89b-12d3-a456-426614174000
 
 * ( ) In the intro of foreword, there is "on one hand" and "on the other hand" and also a third element. I figure that it would ironic and interesting to continue the third aspect with "on yet another hand". 
 
 * ( ) ( ) Insert growth and loliness into 970_winning, consider the incorporation of the following, perhaps in the place of "splitting the love". 39084-4901374-340978-3091271 
 
 * ( ) Content structure review - Inercia movement - Marcio had removed 030_razoes_para_correr.txt from the part 2  but the article touches the subject of induction as a movment that does not want to stop. We need to check and celebrate if this idea has a place. In addition there is a reference to a note from Ogilvy. 
-
-* ( ) Editor review - Check (GROVEDATA, p.116) - real Andy Grove reference. 123e4567-e89b-12d3-a456-426614174000
 
 * ( ) Review Andy Grove's maturity within 470_culture_productivity which is poited by Michael Dearing's course GM2 / f47ac10b-58cc-4372-a567-0e02b2c3d479 Marcio believes that maturity as indicated by Andy Grove in High Output Management has a connection with the model from effort to high-order objectives that might also transcend objectives. 
 
