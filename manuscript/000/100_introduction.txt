@@ -120,14 +120,12 @@ However, reflection is necessary and important, as getting to the wrong place fa
 
 <!-- 
 @meta @Outline
-* outline - SCqA K2 - #Abstraction point that generalist is not specialist [feat. Steve Blank]
+* outline - SCqA K2 - #Abstraction, with #situation-complication, that generalist is not specialist [feat. Steve Blank]
 --> 
 
-The renowned Steve Blank has acknowledged and addressed a fundamental issue with startups when he revealed a vision he had in 2014. According to Steve, the precursor idea of the lean movement is that entrepreneurs think their ideas can be materialized as smaller versions of large companies. Steve states that "startups are not smaller versions of large companies," emphasizing the difference between a startup and an established company. He notes that a startup is in the discovery phase, which differs from a large company that has already identified its role in the market and has a validated product. When ideas are not validated, operating as if it were a large company is very dangerous and risky since the young company is in the process of discovery and has limited resources for betting. 
+The renowned Steve Blank has acknowledged and addressed a fundamental issue with startups when he revealed a vision he had in 2014. According to Steve, the precursor idea of the lean movement is that entrepreneurs think their ideas can be materialized as smaller versions of large companies. Steve states that "startups are not smaller versions of large companies," emphasizing the difference between a startup and an established company. He notes that a startup is in the discovery phase, which differs from a large company that has already identified its role in the market and has a validated product. When ideas are not validated, operating as if it were a large company is dangerous and risky since the young company is in the process of discovery and has limited resources for betting. 
 
-Therefore, by now, much about this subject (not operating as a large company and recognizing the discovery phase) exists in startup literature and is also present in the world of platforms, methodologies, and startup structures.
-
-But a decade later, the lean startup movement, and the whole entrepreneurial ecosystem, grew in size and within the sea of abundance as indicated; which brought entrepreneurs to be lost in the sea of ready-made solutions, that puts them equally harassed by specialized solutions - likely driven by a specialized mindset - which sets them in a cockpit that promises high performance startup development as an option that leads to innovation; which offers "plug-and-play" options from the urgent world, such as the abudant world of lean methodologies, frameworks, platforms of all sorts and supporting systems by too many choices in terms of growingh startups, such as when a team decides to join, in the pressure to advance, a bootcamp, enroll in an incubator, dive into an accelerator, participate in a contest, and other participations with collaboration that promisses potential results that would perhaps sling them into even faster growth. These are situations that promise acceleration and claim to solve the entrepreneur's journey. 
+By now, much about this subject (not operating as a large company and recognizing the discovery phase) exists in startup literature and is also present in the world of platforms, methodologies, and startup structures. But now a decade later, the lean startup movement, and the whole entrepreneurial ecosystem, grew in size so there literally a sea of solutions to be used by entrepreneurs, that puts them in a position to be harassed by specialized solutions - likely driven by a specialized mindset - which sets them in a cockpit that promises high performance startup development as an option that leads to innovation; which offers "plug-and-play" options from the urgent world, such as the abudant world of lean methodologies, frameworks, platforms of all sorts and supporting systems by too many choices in terms of growingh startups, such as when a team decides to join, in the pressure to advance, a bootcamp, enroll in an incubator, dive into an accelerator, participate in a contest, and other participations with collaboration that promisses potential results that would perhaps sling them into even faster growth. These are situations that promise acceleration and claim to solve the entrepreneur's journey. 
 
 Although we can't blame abundance, still the reality is that it is a strong idea that leads entrepreneurs to rush into acting as reactive entrepreneurs on instinct, for example, when they scramble to seek solutions that they think are things that startups do. Similarly, entrepreneurs might, in their urgent processes, flee from corporate behavior - or a general cultural machine of interacting and producing - and be drawn to the automatic behavior typical of how startups do. For example, they may become immersed in lean processes, enamored with the processes, promote that they are practicing lean while they are actually procrastinating [^editornote_procrastination_lean]with lean, and much more.
 
@@ -155,7 +153,7 @@ When we are hungry for the breakfast and in front of the all-you-can-it buffet, 
 * outline - SCqA K3 - Answer - book's intention 
 --> 
 
-#### Where we are going we don't need roads 
+## Where we are going we don't need roads 
 
 This book challenges entrepreneurs to embrace the principle that begins with the courage, or permission, to say no, or to give up on boarding a high-speed train that is typically taken just because others do so. It's not necessarily about joining the club because the beat seems to be the "beat of the moment." The greatest abuse an entrepreneur can commit is when they start to sacrifice their identity, trample over their highest value, leading to confusion, or fusion, defining an identity that results in burnout.
 
@@ -163,24 +161,49 @@ We will see that based on respect for the entrepreneurial spirit, we will be fre
 
 In other words, we aim a strategy that ceases to be reactive or speed-oriented from the pressures clamoring for results. Thus we will set themselves to avoid resorting to abuses that form a toxic culture centered where the end justifies the means. In such a culture, work dances with the bursts of motivational incentives, while possible signs of an environment detrimental to the work itself and the development of the team's work methodology are silenced.The strategy cannot be reduced to just going with the flow, under the shadow of the world’s accelerated pace. We don’t just want speed, to run for the sake of running. On the contrary, we need to learn as we execute, but leaning about growth both as individuals and as leaders of our organizations. By doing so, we create a learning organization, which is one of the goals of this reflection and opportunity. 
 
-Therefore, we bring situations, complications, and reflections that were not designed as recipes, as ready-made solutions to solve the adversities and complexities of the urgent mode. The idea is to strengthen the entrepreneurial side of the entrepreneur — so that when you are confronted with chaos, and pressure, and a "normal" crazyness at work which is incessant urgent and rarely seen as toxic and that is actually presented as a price to pay, or the norm, for success. In this sense, Fried and Hansson [^basecampcrazy] invite us to reflect:
+<!-- 
+@meta @Outline
+* outline - SCqA kxx - Answer - book's intention - Book wants to not be crazy, not arbitrary  
+--> 
+
+Therefore, we bring situations, complications, and reflections that were not designed as recipes, as ready-made solutions to solve the adversities and complexities of the urgent mode. The idea is to strengthen, or to recover, or to keep alive, the entrepreneurial side of the entrepreneur — so that when you are confronted with chaos, and pressure, and a "normal" crazyness at work which is incessantly urgent and rarely seen as toxic and that is actually presented as a price to pay, or the norm, for success. In this sense, Fried and Hansson [^basecampcrazy] invite us to reflect:
 
 [^basecampcrazy]: Fried and Hansson are the founders of Basecamp, a well-known company from Silicon Valley focused on productivity. In the book "It Doesn't Have to Be Crazy at Work," they argue that it is necessary to work against the industry's toxic instincts and norms that avoids the possibility of managing a company calmly. The expression "It's crazy at work" is used by them to describe a work environment where pressure, such as excessive working hours, and consequences like anxiety, are the norm; and they reject this idea in favor of a calmer and more balanced work environment.
+
+> *"Infelizmente, administrar uma empresa de maneira tranquila não é o modo padrão de gerir uma empresa atualmente. Você precisa ir contra seus instintos por um tempo. Você precisa deixar de lado as normas tóxicas da indústria. Você precisa reconhecer que 'É loucura no trabalho' não está certo."* (Fried & Hansson, 2018, p. 9, tradução nossa).
 
 <!--
 @meta @todo 
 * p2 ( ) - In Introduction - Check the quote again, from the English book of Fried and Hansson "It Doesn't Have to be Crazy at Work" / Ref - 9a7b111c-8c02-4d1e-b9eb-79a344c1c0f0
 -->
 
-> "Infelizmente, administrar uma empresa de maneira tranquila não é o modo padrão de gerir uma empresa atualmente. Você precisa ir contra seus instintos por um tempo. Você precisa deixar de lado as normas tóxicas da indústria. Você precisa reconhecer que 'É loucura no trabalho' não está certo." (Fried & Hansson, 2018, p. 9, tradução nossa).
-
 With the goal of running less arbitrarily, and creating conditions for conscious actions, entrepreneurs need a more suitable approach to navigate this environment which, without a conscious attitude, proves to be frustrating and exhausting. This approach, above all, begins with something that is internal rather than external, requiring a regulation to the compulsive tendency to constantly seek solutions from the outside. In this sense, this material is not made for a machine. Our most essential reference is valuing the human being as the foundation of the entrepreneurial spirit. In other words, our strategy does not involve selling out the human being as part of the process, discarding our greatest resource. This idea necessarily creates a force, or principle, of self-respect in terms of setting boundaries, but these are justified in order to create well-being for the entrepreneur and the enterprise. This will be our guide for many of our reflections in the three parts to come.
+
+<!-- 
+@meta @Outline
+* outline - SCqA kxx - Answer - book's intention - Chapter - Behavioral 
+--> 
 
 The first part, entitled "Behavioral Urgency," deals with the nature of the entrepreneur, an introspection, as it is useless to discuss the dangers and pitfalls of the urgent world without analyzing habits and behaviors. With this, we enrich a basic framework of principles that will guide us in the accelerated world, against traps.
 
+<!-- 
+@meta @Outline
+* outline - SCqA kxx - Answer - book's intention - Chapter - Interpersonal 
+--> 
+
 The second agenda, "Interpersonal Urgency," is an opportunity for us to reflect on our accelerated communication in the environment where people collaborate. We will look at how the reactive and urgent mode of execution creates pressure for urgent entrepreneurship where actions have become more specialized, with ready-made solutions for everything and where we are always engaged, such as the propensity for entrepreneurs to execute their plans with support from interactive platforms where the protagonists are registered and participating actively. Our reflection does not ask entrepreneurs to stop navigating this world. It asks for a little less precision in execution and more attention to knowing how to guide themselves. This will be an opportunity to reflect on the fact that the world's agenda, even if it is super efficient, is not always compatible with the developing agenda of the entrepreneur and their venture; consequently affecting their goals and dreams.
 
+<!-- 
+@meta @Outline
+* outline - SCqA kxx - Answer - book's intention - Chapter - Systems  
+--> 
+
 The last part is an opportunity to look at the entrepreneur who grows their organization that seeks to develop a sustainable work entity but in an external environment that, as evident everywhere, is connected, urgent, transactional. In this part, the reflection will allow us to consider that we will be growing an organization in an environment that generates pressure and that in all forms of entities are connected and influencing control - through platforms, networks, systems, tools, technologies, and more.
+
+<!-- 
+@meta @Outline
+* outline - SCqA kxx - Answer - book's intention - Closing - Audience? 
+--> 
 
 This is a book for everyone who supports entrepreneurs, but particularly for those who care about them and are concerned with their health and their psychological well-being; hence for those who do not think that entrepreneurs are expendable. They are the ones in the arena, and it is a complicated space, full of urgencies and a fast-paced nature, which could prompt them into action and a natural inclination to miss the space for evaluating themselves. Thus, it becomes a book for entrepreneurs themselves as naturally, they will likely be alone at times, and will bear the responsibility to grow themselves, to learn and adapt from experiences. Being open to enlightenment should be acknowledged as part of entrepreneurship. This is especially necessary as entrepreneurs are expected to be in a position to change reality, to free themselves from the normal way things are done, which requires adapting and changing themselves. Entrepreneurial action invites new management.
 

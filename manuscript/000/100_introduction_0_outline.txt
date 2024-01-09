@@ -1,3 +1,25 @@
+## Outline v2.8 (editing)
+
+* Abstract - insitht - Arbitrariness, effort-based, seems to sound inclusive. Course-correcting has a degree of validity especially when you are running with investment and people don't cost much. Some of the modern startups 
+
+* outline - introduction - #Pitch - Slow down sounds complex but speed up sounds good, generally.
+* outline - introduction - #Situation of fun to work, hetic, "perks" support a fast-paced culture.  
+* outline - introduction - #Situation The normality erases the "wait" and auguments the movement.
+* outline - introduction - #SCqA #Question #Complication - Should we wait a bit?
+* outline - introduction - #SCqA #Complication - management follows too, and a mechanized entrepreneurship follows too
+* outline - SCqA K0 - #Complication - #Situation from Complication of system, data and systems 
+* outline - SCqA K0 - #Complication - Supporting abstraction point on abundance - feat. Peter Drucker of data  
+* outline - SCqA K1 - #Complication - All is interactive and iterative, systems, networks, platforms.  
+* outline - SCqA K2 - #Abstraction, with #situation-complication, that generalist is not specialist [feat. Steve Blank]
+* outline - SCqA K2 - #Abstraction point that situation is of being hungry 
+* outline - SCqA K1 - #Abstraction point that action is not navigation. 
+* outline - SCqA K3 - Answer - book's intention 
+* outline - SCqA kxx - Answer - book's intention - Book wants to not be crazy, not arbitrary  
+* outline - SCqA kxx - Answer - book's intention - Chapter - Behavioral 
+* outline - SCqA kxx - Answer - book's intention - Chapter - Interpersonal 
+* outline - SCqA kxx - Answer - book's intention - Chapter - Systems  
+* outline - SCqA kxx - Answer - book's intention - Closing - Audience? 
+
 ## Outline v2.7 
 
 * outline - introduction - #Pitch - Slow down sounds complex but speed up sounds good, generally.
@@ -9,7 +31,7 @@
 * outline - introduction - #Complication - Supporting abstraction point on abundance - feat. Peter Drucker of data  
 * outline - SCqA K1 - #new-situation-complication - All is interactive and iterative, systems, networks, platforms.  
 * outline - SCqA K1 - #Abstraction point that action is not navigation. 
-* outline - SCqA K2 - #Abstraction point that generalist is not specialist [feat. Steve Blank]
+* outline - SCqA K2 - ##Abstraction, with #situation-complication, that generalist is not specialist [feat. Steve Blank]
 * outline - SCqA K2 - #Abstraction point that situation is of being hungry 
 * outline - SCqA K3 - Answer - book's intention 
 
