@@ -1,8 +1,18 @@
 # Not so radical focus
 
-## Goal-setting and accounting for innovation 
+If entrepreneurial effort happens to creatively destroy the old and change anything, it does so not in theory or as a fiction - although theory and fiction goes along as - but under the terms of getting things done [^footnote_schumpeter_entrepreneur_gettingthingsdone]. Execution is, therefore, a necessity for change. As we do, and as much as we do not follow a very scientific approach, we are inclined to measure our progress, based on what we want to do, what we are doing, and how we are doing. With that, comes a complication: How to track our progress effectively when what we are doing requires innovation and walking through the path of uncertainty? How to do it in a way that the creative and aspirational component simultaneously supports the concretes? 
 
-Entrepreneurship is not a theoretical thing. As we enter the space, we will gravitate towards doing something. Towards execution. As we do, and as much as we do not follow a very scientific approach, we are natutarally inclined to measure our progress, based on what we want to do, what we are doing, and how we are doing. With that, comes a complication. How to track our progress effectively when what we are doing requires innovation. 
+[^footnote_schumpeter_entrepreneur_gettingthingsdone]: Joseph Schumpeter, in Capitalism, socialism, and democracy, highlights the characterization of "getting things done" (Schumpeter, 2008, p. 132) as an essencial element of the entrepreneurial function - even more than other elements such as entrepeneurial ability to invent new things or create the conditions for the entreprise to thrive.  
+
+<!--
+@meta @note @dup:030_wantrepreneur_article 
+
+> *"To undertake such new things is difficult and constitutes a distinct economic function, first, because they lie outside routine tasks which everybody understands, and secondly, because the environment resists in many ways that vary, according to social conditions, from simple refusal either to finance or to buy a new thing, to physical attack on the man who tries to produce it. To act with confidence beyond the range of familiar beacons and to overcome that resistance requires aptitudes that are present in only a small fraction of the population and that define the entrepreneurial type as well as the entrepreneurial function. This function does not essentially consist in either inventing anything or otherwise creating the conditions with the enterprise exploit. It consists in getting things done."* (Schumpeter, 2008, p. 132)
+
+@meta @references
+* Reference - Schumpeter, J. A. (2008). Capitalism, socialism, and democracy. Harper Perennial Modern Thought. (Original work published 1942)
+
+-->
 
 As much as we have a lot of tools that promises to help track and find our way to innovate, is it not easy to have a clear view of what goes on and to see in perspective. We keep falling in traps also for the matter of managing productivity, even to a point of doubting the ways to manage progress.  
 

@@ -222,6 +222,11 @@ And, on the very same hand is about being a doer, around the world, going throug
 
 > *"To undertake such new things is difficult and constitutes a distinct economic function, first, because they lie outside routine tasks which everybody understands, and secondly, because the environment resists in many ways that vary, according to social conditions, from simple refusal either to finance or to buy a new thing, to physical attack on the man who tries to produce it. To act with confidence beyond the range of familiar beacons and to overcome that resistance requires aptitudes that are present in only a small fraction of the population and that define the entrepreneurial type as well as the entrepreneurial function. This function does not essentially consist in either inventing anything or otherwise creating the conditions with the enterprise exploit. It consists in getting things done."* (Schumpeter, 2008, p. 132)
 
+<!--
+@meta @todo 
+* p2 ( ) - In Wantrepreneur - Check the quote from Joseph Schumpeter for accuracy. Is it "lie" or "live"? Double check the whole quote. Ref 49284982-49284928-480294982-4892849289
+--> 
+
 <!-- 
 @meta @references
 * Reference - Schumpeter, J. A. (2008). Capitalism, socialism, and democracy. Harper Perennial Modern Thought. (Original work published 1942)

@@ -1,5 +1,7 @@
 # Todo # 
 
+* p2 ( ) - In Wantrepreneur - Check the quote from Joseph Schumpeter for accuracy. Is it "lie" or "live"? Double check the whole quote. Ref 49284982-49284928-480294982-4892849289
+
 * p2 ( ) - In introduction -  Check the footnote of Andy Grove, pick original quote from Only the Paranoid Survive / Ref 123e4567-e89b-12d3-a456-426614174000
 * p2 ( ) - In Introduction - Check the quote again, from the English book of Fried and Hansson "It Doesn't Have to be Crazy at Work" / Ref - 9a7b111c-8c02-4d1e-b9eb-79a344c1c0f0
 * p2 ( ) - In introduction - Should growth - as defined by Paul Graham - be indicated as a pressure of the startup setting? Ref "[^editornote_paulgraham_growth]: Paul Graham covers both the aspect that startups are for a growth situation but also covers that founders follow instincs such as a willingness to play the game. The through of sorrow of Paul Graham also depicts that startups force their status as political, projections, leading to falling in their own traps, such as to be sad that their projections were not real." / ref 829482-2948492-429084928-429884922
