@@ -1,5 +1,7 @@
 # Todo # 
 
+* p2 ( ) - In Not so Radical Focus - Should we bring a block quote from them here? Ref 492849-4298-925820-598259
+
 * p2 ( ) - In Wantrepreneur - Check the quote from Joseph Schumpeter for accuracy. Is it "lie" or "live"? Double check the whole quote. Ref 49284982-49284928-480294982-4892849289
 
 * p2 ( ) - In introduction -  Check the footnote of Andy Grove, pick original quote from Only the Paranoid Survive / Ref 123e4567-e89b-12d3-a456-426614174000

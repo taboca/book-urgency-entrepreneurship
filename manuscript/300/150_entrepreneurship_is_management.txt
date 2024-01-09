@@ -1,5 +1,10 @@
 # Not so radical focus
 
+<!-- 
+@meta @outline 
+* Outline - Introduction - Leading pitch - Gettings done requires measuring, in a way or another. But measuring also affects the effect potential. 
+--> 
+
 If entrepreneurial effort happens to creatively destroy the old and change anything, it does so not in theory or as a fiction - although theory and fiction goes along as - but under the terms of getting things done [^footnote_schumpeter_entrepreneur_gettingthingsdone]. Execution is, therefore, a necessity for change. As we do, and as much as we do not follow a very scientific approach, we are inclined to measure our progress, based on what we want to do, what we are doing, and how we are doing. With that, comes a complication: How to track our progress effectively when what we are doing requires innovation and walking through the path of uncertainty? How to do it in a way that the creative and aspirational component simultaneously supports the concretes? 
 
 [^footnote_schumpeter_entrepreneur_gettingthingsdone]: Joseph Schumpeter, in Capitalism, socialism, and democracy, highlights the characterization of "getting things done" (Schumpeter, 2008, p. 132) as an essencial element of the entrepreneurial function - even more than other elements such as entrepeneurial ability to invent new things or create the conditions for the entreprise to thrive - which becomems so necessary for creative destruction to happen. 
@@ -32,23 +37,26 @@ Ries, E. [Talks at Google]. (2011). The Lean Startup [Video]. YouTube. https://w
 Crosslink: 450_passing_on_stories.txt 
 --> 
 
-Notice that “photo montage” that he seeks, the thing we as founders don't care, shows the gap. We gravitate for tracking success more than tracking learning. From the standpoint of narratives, we will have an opportunity to reflect about how we use storytelling such as to trap ourselves. But for now, our focus in this reflection faces the challenges of tracking goals especially when the team seeks to innovate. 
+Notice that “photo montage” that he seeks, the thing we as founders don't care, shows the gap. We gravitate for tracking success more than tracking learning. From the standpoint of narratives, we will have an opportunity to reflect about how we use storytelling such as to trap ourselves. But for now, our focus in this reflection faces the challenges of tracking goals especially when the team seeks to innovate.  We will reflect if goal-setting and tracking makes sense when the space ahead is uncertain; When tracking disconnects from strategic thinking; And come up with principles for managing our investment. 
 
-We will reflect if goal-setting and tracking makes sense when the space ahead is uncertain; When tracking disconnects from strategic thinking; And come up with principles for managing our investment. 
+<!-- 
+@meta @outline 
+* Outline - Introduction - #SCqA - Situation - Making up as you go seems to be real, in contrast with crazy goals?
+--> 
 
 ## Can goal-setting survive?  
 
 In *It Doesn't Have to Be Crazy at Work* by Fried and Hansson (2018, p. 32), the authors provoke readers with the article "Making it up as you go." They argue that adhering strictly to strong goals, such as setting 2, 3, or even 5-year plans, can be detrimental to genuine progress.
 
 <!-- 
-
-Reference 
-
-Fried, J., & Hansson, D. H. (2018). It doesn't have to be crazy at work. HarperCollins.
-
+@meta @references 
+* Reference - Fried, J., & Hansson, D. H. (2018). It doesn't have to be crazy at work. HarperCollins.
 --> 
 
-[Should we bring a block quote from them here?]
+<!-- 
+@meta @todo 
+* p2 ( ) - In Not so Radical Focus - Should we bring a block quote from them here? Ref 492849-4298-925820-598259
+-->
 
 Althought they don't endorse the big and sticky goal plan, a slow refletion is a must. With "Make it up as you go" they are concerned that teams can sometimes put goals that works the other way around - that costs more time. But worse than that, it changes how teams perform as anxiety comes their way: 
 
@@ -65,12 +73,21 @@ But a pattern of planning is shown by them and put us in a good position to chec
 > "Every six weeks or so, we decide what we will be working on next. And that is the only plan we have. Anything further out is considered a 'maybe, we will see.'" (Fried & Hansson, 2018, p. 32).
 
 <!-- 
+@meta @references 
+* Reference - Fried, J., & Hansson, D. H. (2018). It doesn't have to be crazy at work. HarperCollins.
+--> 
 
-Fried, J., & Hansson, D. H. (2018). It doesn't have to be crazy at work. HarperCollins.
-
+<!-- 
+@meta @outline 
+* Outline - Introduction - #SCqA - Complication - maybe we will see means more, reflective though
 --> 
 
 Their "maybe, we will see" is an invitation for us to continue a reflective moment about goals such as long-term goals. If something is "maybe", it implies that something is exposed, or being discussed, or shared in the first place. And the "we will see" sets a principle which says something like "we will learn and decide." Therefore, there is a discussion going on. With that invitation, let's look at what others have documented, such as from theorists, practitioners, and entrepreneurs that claim that goals, and even long-term goals, matter. 
+
+<!-- 
+@meta @outline 
+* Outline - Introduction - #SCqA - Complication - OKR could be dropped? Or done without a perspective?
+--> 
 
 One of the resources to this reflection comes from a key book that has championed the idea of aligning and engaging teams around measurable goals. In the book entitled *Measure What Matters*, John Doerr [^footnote_johndoerr_okr] continued his saga to popularize a framework - known as OKR - that has helped him and his teams to innovate with goals.
 
@@ -97,9 +114,8 @@ Thereore, we can't deny that the subject of goals connects with motivation and m
 Therefore, it is not unwise to consider that, for teams and as teams unfold, the existence of a goals create a condition for them not only to join, due to motivations and interest in the outcome, but to engage in a movement where they seek to identify how they can contribute. In the "What Should I Contribute?" section of Managing Oneself, Peter Drucker (2008) recognized an extreme situation of when one is being told what to do, one one hand which certainly is not appropriate in modern management, and, on the other hand, the response inclination of "do your own thing." However, he concludes that the inclination to doing one's own thing doesn't suffice when striving to contribute, achieve self-fulfillment, and find success (pp. 53-54).
 
 <!-- 
-
-Drucker, P. (2008). Managing Oneself. Harvard Business School Press. pp. 53-54.
-
+@meta @references 
+* reference - Drucker, P. (2008). Managing Oneself. Harvard Business School Press. pp. 53-54. 
 --> 
 
 [Consider the picture, an illustration, of an X axis, with the "being told" and on the other extremme the "do your own thing" and, from the middle, comes an arrow towards the top, the "how should I contribute". ]
@@ -113,6 +129,11 @@ Thus it is uncommon for people to join projects, with causes and goals, as they 
 [The storytelling that they produce, as they go, is also key as they struggle to get feedback and involvement from potential customers, inspire and hire developers, get support from investors, and a lot of more as they ask for help. But again, storytelling we will consider in the end of this part. ]
 
 Therefore, it is not unwise to notice how we gravitate towards having a plan, an outcome ahead, and even a 2-year plan, as a key element that may put us in a position to solve what is needed to be solved. Plus there seesm to exist an alignment with the too many stories, as told, that we have seen, and read, and watched, and continue to witness; the too many examples of people that told that they were doing something as in to change the world and they did. Plus, if one feels that goal-setting in the corporate is more like a storytelling that fails, with lots of traps (and it does have), and as they dig, they will find an entire field of research related to goal-setting. But if we dig, it is undeniable that out of goal-setting, and after goal-setting, we can find that the reason for the whole field has to do with how we react, how we fix ourselves, as we go. We can't deny that the environment created by a goal-setting system has the good intention to shape us towards progress, even when progress is yet to be discovered in the innovation space. 
+
+<!-- 
+@meta @outline 
+* Outline - Introduction - #SCqA - Answer? OKR and course correction 
+--> 
 
 ## Does OKR supports iteration and course-correction?
 
