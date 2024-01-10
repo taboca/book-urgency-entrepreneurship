@@ -6,8 +6,6 @@ Consider, for example, the cost for acessing motivation from networks, for insta
 
 In this world, there are far many solutions to help us now throughout all the process steps [^footnote_tonyulwick_jobmap] of the entrepreneurial effort. In other words, the modern entrepreneur is better equipped - if not in a hypermarket of offerings - with solutions that helps them from definition to execution to conclusion. No way all that there is now can be thought, not generally under the circustances and the pace of execution, as a bad ground for founders to start up. Even if their starting journey looks a bit like a desert and quite a lonely place, as soon as entrepreneurs set foot they get to be literally equipped, literally augumented, and literally into a process - which set us them into a readiness state, feeling energetic and being empowered, and ready to action. 
 
-It all starts with that inner human, a little excited or fearful and following the rhythm of their heart, these modern extensions sets them to be not be consciusly numb, or comfortably numb. No, it does not look like that. A single command we give to ourselves - quite consciously - and we can get into it, into a quasi-unconscious flow of action with tools and methods of all sorts and under the influence of a feeling that we are traveling fast, and performing like heroines and heroes would. There are far too many online ".com" solutions, from Monday to Monday, and far too many acessible entry points for us to beat all challenges ahead, or battles to be won. This ground, or the equilibrium in this ground, seems really around the fact that they not only feel empowered to jump to action but motivated that there is a world of resources that they can access, such as tools, such as assistance with others - weapons for the action, the fight. But what is the enemy ahead? It could be to change the market reality, to help a group of people with a need, to put a dent in the universe, implement the rocket, you name it. Undeniably, in essense, there is ahead indeed a world problem which we want to solve - a reality to change. As we enter that quest, they also know that they are in a quest as learners, equally undeniable. But we know too that there is a lot available to help us to do it better, to do it faster, to do it through collaboration; available through the frameworks of all kinds, through role models, through stories, through networks, through paltforms, through collaborators that can also be recruited. It is undeniable that they can access collaboration especially using the digital and networked matrix where everything happens. The equilibrium in this space, this terrain, starts with the fact that the fight, and movement, demands a vision, a quest, a goal, first, like what they have volunteered for. After that, they also recognize their ecosystem as the space allowing them to move fast such as fight specific battles; or scale themselves, so that they can get more equipment, more "weapons", more people, access other levels and grow themselves. This is the space where startups can grow, and they can warp, increase in size, grow from the founders in armors to family and tribes in a small ship to become leaders of a more complex ship and a quest with larger teams. 
-
 [^footnote_tonyulwick_jobmap]: In the article "Mapping the Job-to-be-Done" (Ulwick, 2017), Tony Ulwick defines job map as an "ideal process flow" that customers go through as they are involved in a job to be done. The steps are: Define, Locate, Prepare, Confirm, Execute, Monitor, Modify, and Conclude. The main point of the job map is to help the deconstruction of a job that customers are trying to get done, thus with the understanding of customer needs, before considering the opportunities in terms of products or solutions. With that said, I have drawn an analogy from this concept - due to its underlying universality - to provoke us to consider that if the very job of the entrepreneurial is yet another job to be done and conversely many solutions exists: methods, tools, platforms, and more. 
 
 <!--
@@ -15,30 +13,61 @@ It all starts with that inner human, a little excited or fearful and following t
 * reference - Ulwick, T. (2017, January 12). Mapping the Job-to-be-Done. JTBD + Outcome-Driven Innovation. Retrieved from https://jobs-to-be-done.com/mapping-the-job-to-be-done-45336427b3bc
 --> 
 
-But the cost for maintaining that equilibrium is not generally as topic especially when one is eager towards the battle, especially when an entrepreneur jumps into the superchanged armor. The problem is that this urgent, accelerated, and high-pressure mode, frames their present. Now, just like experts, entrepreneurs make accelerated decisions, even when they are starting - in the understanding phase when ideas are still forming - along with the discovery process, trying to find the value in their team, for their product, for serving needs of customers, seeking investors, etc. But how would this be a problem? It isn't, or at least it does not appear to be, as a lot of good solutions, or product-like solutions, are cheaply available in what appears to be a supermarket with all sorts of solutions which are all approved by the regulating community, the ecosystem, which appear as quality solutions. The problem is precisely that in the pressure to undertake arises the pressure for decision which stifles the consideration for management of entrepreneurship. This leads to entrepreneurs to fall in traps as they navigate the ecosystem of entrepreneurship and the fast-paced culture of entrepreneurship. Well, falling is not even perceived as trap but as part of the equation, to fail and learn, or to learn fast. So, right there, after a fail, there is no time to reflect, as in one that went to the supermarket in a hurry and hungry, picked a rotten meal, but in a hurry goes back to the same market searching for drugs for indigestion. 
+It all starts with that inner human, a little excited or fearful and following the rhythm of their heart, these modern extensions sets them to be not be consciusly numb, or comfortably numb. No, it does not look like that. A single command we give to ourselves - quite consciously - and we can get into it, into a quasi-unconscious flow of action with tools and methods of all sorts and under the influence of a feeling that we are traveling fast, and performing like heroines and heroes would. There are far too many online ".com" solutions, from Monday to Monday, and far too many acessible entry points for us to beat all challenges ahead, or battles to be won. 
+
+<!-- 
+@meta @Outline
+* Outline - introduction - Situation - Something to change is real 
+--> 
+
+This ground, or the equilibrium in this ground, seems really around the fact that they not only feel empowered to jump to action but motivated that there is a world of resources that they can access, such as tools, such as assistance with others - weapons for the action, the fight. But what is the enemy ahead? It could be to change the market reality, to help a group of people with a need, to put a dent in the universe, implement the rocket, you name it. Undeniably, in essense, there is ahead indeed a world problem which we want to solve - a reality to change. As we enter that quest, they also know that they are in a quest as learners, equally undeniable. But we know too that there is a lot available to help us to do it better, to do it faster, to do it through collaboration; available through the frameworks of all kinds, through role models, through stories, through networks, through paltforms, through collaborators that can also be recruited. It is undeniable that they can access collaboration especially using the digital and networked matrix where everything happens. The equilibrium in this space, this terrain, starts with the fact that the fight, and movement, demands a vision, a quest, a goal, first, like what they have volunteered for. After that, they also recognize their ecosystem as the space allowing them to move fast such as fight specific battles; or scale themselves, so that they can get more equipment, more "weapons", more people, access other levels and grow themselves. This is the space where startups can grow, and they can warp, increase in size, grow from the founders in armors to family and tribes in a small ship to become leaders of a more complex ship and a quest with larger teams. 
+
+<!-- 
+@meta @Outline
+* Outline - introduction - Complication - Framed by too many tools, framed by the urgent narrative.  
+--> 
+
+But the cost for maintaining that equilibrium is not generally perceived - not as a topic generally discussed anyway - especially when one is eager towards the battle, especially when an entrepreneur jumps into that superchanged armor and in control of superpowers. The problem is that this urgent, accelerated, and high-pressure mode, frames their present. Now, just like experts, entrepreneurs make accelerated decisions, even when they are starting - in the understanding phase when ideas are still forming - along with the discovery process, trying to find the value in their team, for their product, for serving needs of customers, seeking investors, etc. But how would this be a problem? It isn't, or at least it does not appear to be, as a lot of good solutions, or product-like solutions, are cheaply available in what appears to be a supermarket with all sorts of solutions which are all approved by the regulating community, the ecosystem, which appear as quality solutions. The problem is precisely that in the pressure to undertake arises the pressure for decision which stifles the consideration for management of entrepreneurship. This leads to entrepreneurs to fall in traps as they navigate the ecosystem of entrepreneurship and the fast-paced culture of entrepreneurship. Well, falling is not even perceived as trap but as part of the equation, to fail and learn, or to learn fast. So, right there, after a fail, there is no time to reflect, as in one that went to the supermarket in a hurry and hungry, picked a rotten meal, but in a hurry goes back to the same market searching for drugs for indigestion. 
+
+<!-- 
+@meta @Outline
+* Outline - introduction - Complication of Situation - Case of Marcio, motivations?
+--> 
 
 For me, the confrontation with this fast-paced intent was a major reason to advance this book, which came out of my own struggle or the swim in the ocean of solutions. I had the opportunity to engage with reflective thinking and recognized the importance of bringing up strategic management to entrepreneurs, especially duringn the initial stages of an entrepreneurial effort. Strategy is usually a word reserved for, or related to, the strategy for pushing a solution to the market. If that is true, then the problem is exposed, right there, as the word fails to find its place in the managemerial context of entrepreneurship. The price to pay is generally not seen - as there are not many stories of the many that gave up - not if you search for solutions for great results. What is under, though, is everywhere, and it is being said, and it is sad and not exciting. That the price we pay when entrepreneurial management is not present, comes in terms of confusion, frustration, willpower loss, impacting the premature end of a journey, dying slow journey, following instincts, inability to learn, changing directions prematurely, failing to create products that people love, losing interest of good investors, arbitrary use of resources, disrespect for constituents, and more. 
+
+<!-- 
+@meta @Outline
+* Outline - introduction - Complication, Abstraction - Balancing out activities 
+--> 
 
 Our overarching theme ahead does not escape the subject of productivity, for the entrepreneur's life and their act of entrepreneurship, which naturally in the case of startups involves risk management, which naturally finds a confrontation with the struggle for being performant. In this regard, Peter Drucker, in The Practice of Management, sets a managerial thought that guides us to reflect about the challenge of productivity:
 
 > *"Finally, productivity is vitally affected by organization structure and by the balance between the various activities within the business. If, for lack of clear organization, managers waste their time trying to find out what they are supposed to do rather than doing it, the company's scarcest resource is being wasted. "* (Drucker, 1986, p. 45)
 
 <!-- 
-
-## Reference 
-Drucker, P. F. (1986). The Practice of Management. Harper Business. (Original work published 1954)
-
+@meta @references 
+* Reference - Drucker, P. F. (1986). The Practice of Management. Harper Business. (Original work published 1954)
 --> 
 
 <!-- 
-
-* Review ( ) Marcio Digs into the "Doing it" of Peter Drucker, applicable to the entrepreneurial setting of startups, which would mean, organizing, the meta. In foreword, in the paragraph that uses Peter Drucker's quote to add clarity, the point of question, complication, has to do with the meaning of the word "doing" as the setting of startups the doing is unknown. Right, there, of course, when in the face of uncertainty, what remains valid can be as simple as split your time to reflect 50%.  @8ab346b4-699e-4066-855d-f342ba599cc9 
-
+@todo 
+* p2 ( ) - Foreword - Marcio Digs into the "Doing it" of Peter Drucker, applicable to the entrepreneurial setting of startups, which would mean, organizing, the meta. In foreword, in the paragraph that uses Peter Drucker's quote to add clarity, the point of question, complication, has to do with the meaning of the word "doing" as the setting of startups the doing is unknown. Right, there, of course, when in the face of uncertainty, what remains valid can be as simple as split your time to reflect 50%.  @8ab346b4-699e-4066-855d-f342ba599cc9 
 --> 
 
 It is a perspective that prompts us to consider the complications for any kind of organization. If we don't know what to do, and if we are "trying to find out what they are supposed to do," then we are not productive. On the other hand, although it is ethical to be productive and advance, the context of a startup involves navigating a path of uncertainty. In other words, the possibility of a paradox might rise - what can I do if I don't know how to do? However, if we respect the situation of startups, the level of uncertainty, and the essence of Drucker's thought, we should confront the reality that doing it posits a call for organization, for reflective thinking, which naturally frames the constituents, such as founders, and the team, to respect themselves as beings that produce the entrepreneurs. In other words, if we become preoccupied with not waste the team, the vital force, it implies that we need to determine a code of conduct, such as that we are not gambling with these resources. In other words, the top priority goes to the people involved, which includes respecting their time, their willpower, their mental health, and their well-being. Thus, in the light of Peter Drucker's thought, when not knowing where you are going, respect the self, the team, and the goal or the matter ahead. Which naturally calls for the need for clear organization. How would this translate in a more realistic example? If a solo founder, willing to enter a field where she has no idea what to do, should acknowledge that part of the work involves spliting time, such as to allow a conscious organization, and reflective management, to be applicable as part of the work time. In other words, if entrepreneurs don't have a clear roadmap on how to proceed (which is natural in the innovation process,) there is a natural need for organizing the process which starts with the initiative to reflect on the act of entrepreneurship and the activities of entrepreneurship. In other words, it is valid, if not vital, for them to be concerned with "the balance between the various activities." 
 
+<!-- 
+@meta @Outline
+* Outline - introduction - Answer - Respect to the self, balancing starts there  
+--> 
+
 In other words, if we consider Peter's thought on top of the startup situation, it will provoke us to reducing the action of moving fast. Or better, sets a call for splitting the usage of time which allows room for reflective thinking and reasoning about how things are going. This book exercises that view. But it does so in the light of the lighting speed and networked situation of modern entrepreneurship. In other words, we will start from the "ongoing conversation," from being inside the train, and try to jump out of it, to look from outside. In other words, we are to recognize the environment of modern entrepreneurship that empowers us for action and guiding us in many ways. 
+
+<!-- 
+@meta @Outline
+* Outline - introduction - Answer - Key one - When all started  
+--> 
 
 Now, and before we put step towards the introduction, I invite you to consider a visit to when things started to change, to when fast-paced seemed to walk into our world. Then, we shall briefly visualize the world of abundance we caught ourselves into, where the urgencies of our environment sets much of what we do, where attention is limited; and how even the generalist role of an entrepreneur that is now harassed by information overload with all sorts of solutions which are powerful in the sense of boosting them but also becomes challenging and obfuscates their ability to manage what they do. In this regard, we start our mindful instrospection about the entrepreneurial ventures of valuing and respecting the beings and their ability to tame entrepreneurship. 
 
@@ -49,6 +78,11 @@ Now, as for the environment and the accelerated pace of the world, or how the ac
 ![Illustration of the Corliss Engine, public domain.](images/100/CentennialEngine.png)
 
 According to historian Maury Klein (2008), the exhibition showcased all the modern wonders of the mechanization of the industrial revolution: machines that prepared molds for printing machines, sewing machines, telegraph devices, locomotives, automatic saws, belt presses, winches, scales, excavators, drilling machines, giant sugarcane mills, cotton presses, stone-crushing machines, diamond drills, stone cutters, various tools, agricultural equipment, carriages, tile and brick-making machines, bookbinding machines, paper-making machines, cardboard, machines for making threads, cables, screws, car wheels, train wheels, and so much more. Machines. I know, it might seem too much to name 26 examples - that now seem antiquated - instead of focusing on big numbers, such as 200 buildings, or the 14 meters steam engine, or the 5 kilometers lenght of the exhibition, or the 10 million visitors, or the 7 days time which one would take to visit the whole exhibition. A bit antiquated for us but nevertheless amusing in size and impact, especially for the ones who experienced the exposition and had a chance to see revolutionary solutions in many sorts of fields as all of these things were new. 
+
+<!-- 
+@meta @Outline
+* Outline - introduction - Answer - Key one - .1 Creative Destruction, necessary but wait, it bundles 
+--> 
 
 These solutions, much of it materialized as mechanical solutions, were fruits of human work and collaboration at the epicenter of a destruction to an economic order heavily based on slavery. The rising new economic model were supported by technological innovations that redefined rules of labor force that went along with societal changes in the system and shaped a new economy. The situation in the United States, the north vs. south confrontation, illustrated the advancement of the new order and how it deconstructed a present economic order where slavery persisted. As these worlds collided, the industrial revolution defined the economic context that accelerated the destruction of the old system based on slavery and gave rise to a new system that brought more freedom and innovation. This new pace, a new order, which changed the rules of work and the economic system, is an exemplary case of a process known as Creative Destruction [^footnote_creativedestruction]. We have others that would come later, such as the revolution brought about by the advancement of electrical energy, telecommunications, and others yet to come.
 
@@ -61,6 +95,11 @@ To better illustrate the formation of a new platform, consider the flour mill cr
 [^footnote_oliverevans_mill]: The illustration of Evans' automatic mill, which is in the public domain, was made by James Poupard and documented in the work titled "The Young Mill-Wright & Miller's Guide."
 
 The new entrepreneurial order, born from the process of Creative Destruction, broke the rules of the "previous game" but at the same time established new rules, and a new economic and social order. And with that, room is being made for the next cycle. Therefore, this very example depicts how innovative solutions responded as viable, or were favored, in the face of the historical context of the dismantling of a system based on slavery. 
+
+<!-- 
+@meta @Outline
+* Outline - introduction - Answer - Key one - .2 We are bundled as entrepreneurs 
+--> 
 
 And back to the future, in front of a new order, we have different challenges that prevents, or provokes, entrepreneurs from making the world a better place. Challenges that prevents and conversely creates the opportunity. Therefore, if we look at entrepreneurship from the lenses of creative destruction, we shall first recognize that revolutions are set in a way that rewrite the platform, and history, or act as a macroeconomic force that unbundles the reality, then bundling comes our new as new economic platforms, which enables a reality that might provoke us to either comform, and accept the rules, or join the call for unbundling again and seeking opportunities. In other words, our celebration for what brought us to be here, after cycles of the Creative Destruction process, is less about celebrating all the aspects of the world as we have inherited. In other words, it is undeniable that live in a world that needs help, as we look at the macro outset, our planet's horizon, and the rise in diseases linked to diet, the rise of unhealthy lifestyle, the rise of stress, or the destruction of our nature, and even general attention loss of people. The celebration can be turned for respecting how big are the consequences of any revolutinary platform that changes the economic order, and our lives, as in the raise the respect for "the size of the beast" which might help us to put order, or to be aware, for how much we can be stick into a societal and economic reality, for good or bad. 
 
@@ -88,14 +127,16 @@ Therefore, we are in a paradoxal situation. Because despite the turbulence and p
 > (Andreessen, 2023)
 
 <!-- 
-
-reference 
-
-Andreessen, M. (2023, October 16). The Techno-Optimist Manifesto. a16z. https://a16z.com/the-techno-optimist-manifesto
-
+@meta @reference 
+* Reference - Andreessen, M. (2023, October 16). The Techno-Optimist Manifesto. a16z. https://a16z.com/the-techno-optimist-manifesto
 --> 
 
 This situation does not put the entrepreneur out of the opportunities and risk in of the party. In other words, in front of a explosion of solutions - like processes, tools, methodologies, systems, and more - our attention can be limited and we might be pressured to act, to judge, to decide. The ecosystem of entrepreneurship is what gives us the chance and at the same time can be the trap. One thing we know - we are compelled to move fast, with decisions, and informed decisions. But also superficial analysis will find our way. 
+
+<!-- 
+@meta @Outline
+* Outline - introduction - Answer - Key two - Action bundled  
+--> 
 
 #### Entrepreneurial action bundled 
 
@@ -106,6 +147,11 @@ Another aspect of concern has to do with the situation where the generalist mind
 We, as entrepreneurs, who strive to change the world and our lives, recognize the complexities of navigating a stormy sea. But like any environment that needs to change, we don't have time to adjust our routine. We are bound to the pace of acceleration, to the urgent drumbeat, the pressure for decision. We are pushed to decide, to move forward. Consider, for example, how we are bombarded by a torrent of information, we are immersed in constant overexposure that submerges us in a sea of choices. The channels we subscribe, the "newspapers" we read, and the systems and networks that shape behaviors; with data, with what we think as "good reasons," empowering us to the next step. In this environment, entrepreneurs might see themselves as protagonists, empowered to execute faster with a feeling of certainty to an iminent success; 
 
 In other words, a dive into the situation that we live shows the projections of the current order - as it seems - at all levels which includes influencing the management of entrepreneurship, which makes it not immune to the urgent forces or pressures of the interconnected platforms we live in. Thus, how we act and behave is always a symptom of bring framed, or victim of the accelerated environment, that not only might suck their project's potential but their energy. The ranges of what can go on with the too fast mover goes from wasting resources to just launching things that are not useful on top of existing platforms without reconsidering that a lot of what is out there is a created reality in the first place.  
+
+<!-- 
+@meta @Outline
+* Outline - introduction - Answer - Key three - Who can unbundle it? 
+--> 
 
 #### Why for entrepreneurs, what kind of 
 

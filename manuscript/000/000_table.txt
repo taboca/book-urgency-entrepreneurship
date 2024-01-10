@@ -1,5 +1,7 @@
 # Todo # 
 
+* p2 ( ) - Foreword World - Marcio Digs into the "Doing it" of Peter Drucker, applicable to the entrepreneurial setting of startups, which would mean, organizing, the meta. In foreword, in the paragraph that uses Peter Drucker's quote to add clarity, the point of question, complication, has to do with the meaning of the word "doing" as the setting of startups the doing is unknown. Right, there, of course, when in the face of uncertainty, what remains valid can be as simple as split your time to reflect 50%.  @8ab346b4-699e-4066-855d-f342ba599cc9 
+
 * p1 ( ) - General - Consider to merge "Right" with "Impact" into "The right to impact"
 
 * p2 ( ) - In Not so Radical Focus - Should we bring a block quote from them here? Ref 492849-4298-925820-598259
