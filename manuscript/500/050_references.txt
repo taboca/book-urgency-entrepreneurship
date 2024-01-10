@@ -4,6 +4,10 @@
 
 Drucker, P. F. (1986). The Practice of Management. Harper Business. (Original work published 1954)
 
+<!-- Foreword --> 
+
+Ulwick, T. (2017, January 12). Mapping the Job-to-be-Done. JTBD + Outcome-Driven Innovation. Retrieved from https://jobs-to-be-done.com/mapping-the-job-to-be-done-45336427b3bc
+
 <!-- 
 
  000/050_foreword.txt 
