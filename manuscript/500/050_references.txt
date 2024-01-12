@@ -370,12 +370,19 @@ Dearing, M. (2018, February 13). Michael Dearing at the 2018 NYC Product Leader 
 
 
 <!-- 
-
+@meta @from
 * 300/150_entrepreneurship_is_management.txt
-
 --> 
 
 Doerr, J. (2018). Measure What Matters. Portfolio/Penguin, p. 46.
+
+<!-- 
+@meta @from
+* 300/150_entrepreneurship_is_management.txt
+--> 
+
+Wodtke, C. (2022, February 4). Are You Sure You Want to Use OKRs? Retrieved from https://cwodtke.medium.com/you-cant-handle-okrs-5465cf161e81
+
 
 <!-- 
 

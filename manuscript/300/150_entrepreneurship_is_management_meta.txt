@@ -14,9 +14,11 @@
 
 * Crosslink: 450_passing_on_stories.txt 
 
-### Research data
+## Research points 
 
-* Management linkted to business performance - Peter Drucker, in The Practice of Management, p.8, The Role of Management, indicates that "In a competitive economy, above all, the quality and performance of the managers determine the success of a business, indeed they determine its survival. " (p.8)
+* A balancing view to Christina Wodtke's point - against outcome-based OKR - Christina wrote that "Key Results need to be outcomes, not outputs. If you make a key result “launch this feature” and halfway through the quarter you discover it won’t move the number you hoped it would, you’re stuck. You committed to that feature and now you feel like you have to deliver it. But if you pick a number you want to move, you can try dozens of things to change it." The point of the view from Andy Grove, IMHO, is that you need to be able to see whappens. When both cases fail, the option A - output - is better for knowing what was done. The option B could be implemented like gambling. In the point is, in the extremme bad usage of each, which does worse?
+
+* Management linked to business performance - Peter Drucker, in The Practice of Management, p.8, The Role of Management, indicates that "In a competitive economy, above all, the quality and performance of the managers determine the success of a business, indeed they determine its survival. " (p.8)
 
 ### References
 
