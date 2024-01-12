@@ -240,7 +240,16 @@ Consider to bring about the essential points from MWM and MWM course if that is 
 * Outline - Answer k3 - Outcome vs. output battle - Intro - pitch 
 --> 
 
-Likewise to MVP, Business Model Canvas, OKR is yet another topic that starts with a great inspiration, it invites you to learn, it’s all good. You enter the OKR train as it stops beautifully on time in the station. It’s a trip with a goal, and key results for you, you will learn about OKR. As you enter in it, the wagon starts smooth and the scenery is beautiful, it’s unbelievable, all the scenes, the things you see and after 4 hours the suddenly the lights of the train blinks consistently at the same time when the calm music in the background fades incredibly fast. A minimal yellow light is seen now and people start to be worried. Next stop, unknown, the train enters the tunel, the heater stops working, and it goes on for another 2 hours with the speed increasing. What is next will blow your mind.
+There are situations that people enter the OKR train is valid, as it stops beautifully on time in the station. It’s a trip with a goal, such as to learn and use OKR in the best way possible. But then we enter in it, the wagon starts smooth and the scenery is beautiful, it’s unbelievable and the roadmap seem to make sense with scenes around. But then, give it some time and housing passing by. Suddenly the lights of the train blinks arbitrarily and we hear something craking as the speed of the train increases fast. A yellow light fades under the seat and people start to be worried. Next stop, unknown, the train enters a tunel, the heater stops working, and it goes on for another 2 hours with the speed increasing. What is next will blow your mind. You can't go back to revisit the trip. You are on it and it is going of the tracks. This is where you start to lose faith in your OKR trip and your training. 
+
+The way that Christina Wodtke puts it in her article - entitled *"Are You Sure You Want to Use OKRs?"* I love it because the actual *Call to Action* calls for a reflection: 
+
+> *"There is a concept I call drift. Drift means that a process has drifted away from the original framing. It happened to Agile. What started as a simple idea that people should work collaboratively and iteratively became people policing each other on the True Agile Way: “this is how to write a user story” and “Stand up can’t be more than 15 minutes long.”"* (Wodtke, 2022)
+
+<!--
+@meta @references
+* reference - Wodtke, C. (2022, February 4). Are You Sure You Want to Use OKRs? Retrieved from https://cwodtke.medium.com/you-cant-handle-okrs-5465cf161e81
+-->
 
 <!--
 @meta @outline
@@ -347,7 +356,7 @@ The potential toxic by-product, especially if you don't have the maturity view;
 * outline - Answer k3 - Outcome vs. output batle - answer - k3.2 - Thesis for output as the window - Andy Grove and also MWM coursera course. 
 --> 
 
-### Recovering the reflective opportunity - The window 
+#### Recovering the reflective opportunity - The window 
 
 Adjusting Christina's approach to make it work with the output-based, would be about acknowledging first the good intentions in the good not the best: 
 
@@ -370,7 +379,22 @@ The idea of using Key Results to quantity success can be dangerous because your 
 * outline - Answer k3 - Outcome vs. output batle - answer - k3.3 - maturity models
 --> 
 
-### Answer - who is junior - the context and the aspirational vs. commitment problem 
+The viewpoint given by Reforge is also mature to recognize not only the different kinds of key results but strategic mixing of these kinds to actually improve the deepthness of connection with the purpose, the objectives: 
+
+> *"They come together to paint a picture of what needs to happen for your objective to be successful. .. There are output-metric key results — such as delivering an important feature — as well as outcome-oriented key results. It’s also important to note that outcome-oriented key results can come in two varieties based on the metric within the key result."* 
+
+<!-- 
+@meta @references
+* reference - Rekhi, S. (n.d.). 6 Steps for setting high-leverage OKRs. Reforge. Retrieved January 12, 2024, from https://www.reforge.com/previews/growth/okr-guide
+
+--> 
+
+<!--
+@meta @outline 
+* outline - Answer k3 - Outcome vs. output batle - answer - k3.3.1 - maturity models - effort vs. outcome
+--> 
+
+#### Clarity for effort vs. outcome using roles of junior vs. senior 
 
 That shows a complex approach that some of the Mozilla managers had for measuring folks, where "junior people can be measured by effort" while "the outcome can measure senior people."The framing of this last article helped me see correlations with:+ junior/senior+ unknown/known+ divergence/convergence+ aspirational/commitment+ effort/outcomeAnd that helped me to see better that the adjustment of the needle (from action, to output, to outcome) could be done depending on the context of the objective.Therefore, if you don't know much about what you are doing, you can measure by effort and revisit faster (100 times). If you are confident, the measure could be oriented towards an outcome.That could also explain why composed OKR (team level) could be more oriented to outcomes and why an individual could be more oriented to effort. Not sure.
 
@@ -398,7 +422,12 @@ As in - aspirational vs. commitment
 
 I do not know if my awakening has a significant flaw, but something seems linear here or structured about the problem.
 
-#### Who is the junior? 
+<!--
+@meta @outline 
+* outline - Answer k3 - Outcome vs. output batle - answer - k3.3.1.1 - maturity models - effort vs. outcome - resetting junior
+--> 
+
+##### Who is the junior? 
 
 What matters, really, is that you can be just out of the sudden under a need to flip yourself, to embraced a personality, to model it, to consider the maturity level for that task. In other words, no matter how senior you are, you can be a junior at any time depending on your objectives ahead: 
 
@@ -409,7 +438,12 @@ What matters, really, is that you can be just out of the sudden under a need to 
 * reference - Nightingale, J. (2017, February 8). Leadership is not about your good intentions: Managing junior vs senior staff, and why you might be an ass. The Co-pour. Retrieved from https://mfbt.ca/leadership-is-not-about-your-good-intentions-5e21666cb01b
 --> 
 
-#### Rupture and maturity dissonance 
+<!--
+@meta @outline 
+* outline - Answer k3 - Outcome vs. output batle - answer - k3.3.1.2 - maturity models - effort vs. outcome - rupture
+--> 
+
+##### Rupture and maturity dissonance 
 
 An outcome of setting a mature expectation to your now-junior doer is that you create a maturity dissonance which under the need to keep all strict as "this is the way" you bring about rupture to your working team - and moreover misses the point which is using the effort phase to bring about and to discover maturity: 
 
@@ -420,7 +454,7 @@ An outcome of setting a mature expectation to your now-junior doer is that you c
 * reference - Nightingale, J. (2017, February 8). Leadership is not about your good intentions: Managing junior vs senior staff, and why you might be an ass. The Co-pour. Retrieved from https://mfbt.ca/leadership-is-not-about-your-good-intentions-5e21666cb01b
 --> 
 
-#### Maturation models 
+##### Maturation models 
 
 The model which we aim, which especially is the case for startups, is that the roles are dynamic. The "mature" corporate situation has the light for the solution. If you are mature enough to do that, it is then that you are positioning and understand that there is a way to actually push the outcome you want:
 
