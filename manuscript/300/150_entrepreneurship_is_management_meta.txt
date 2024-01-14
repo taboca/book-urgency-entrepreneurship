@@ -1,18 +1,21 @@
 
-<!--
-
 * V2.3
 
 * Title - Analog inverse of Radical Focus 
 
-* (TODO) Search for "I am here"
+## Todo 
 
-* ( ) Change title from - Innovation Accounting 
+* @todo p1 ( ) - Foreword or Afterword - The doer-learner can write because he takes a photo of the photo montage process where many are busy with something like - to get out, to growth, to exit, and more. Case of Why Marcio to Write this? Consider why marcio would be the one to write a book, or such a book, and the assumed potential objection under the normal circumstances of the normal critic. The solution is that Márcio happened to be in the arena, in zone of leaning, and struggling, and while executing and learning and still believing in the possível growth situation and being involved in local incubators and accelerators; he happened to be caught in a situation/complication of listening to models, approaches, methods, interactions, networks where a lot seemed to be cohorent, apparently. In other words, their narratives were quite exciting. But, on the other had, he had also found some harsh reality where the thing said like "how to" really weren't with lines as in "this is not a university where we would guide you." That sort of response, which seemed to - apparently look strong - over time revealed to be a sort of weakness or lacking essential elements - as if the doers and practitioners were actually propagating ideas with a degree of "it will work" up to the point of failing where the truth of "you did wrong" takes the doer back again into the general truth of all, or the universal solution, that "you likely and probably did something of what we have told wrong." In other words, this seems to be the case of a sort of contest model, therefore, where the accelerator role will always work as it more aligns things into the pipeline and less educate, where the fail of some are in fact a filtering system and where a basic core implied structure exists where they are in the shadows of following the top-tier althoough with much less awareness of how things happen. @refid 2984-49028-4908-4902
 
-* ( ) Fix reference to Eric von. Hippel, make a decision to use on 150 or 230, see References and the following reference to Eric. 
-# The Boring Yet Critical Part of Entrepreneurship is Management and Innovation Accounting (feat Eric Ries part 2)
+* @todo p2 ( ) - In Not so Radical Focus - in the beginning we are talking about it making longer plans is worth it. We hold the position that longer plan and meaningful goals are important. This view is about recognizing that people get to do things because of their connection with what has to be done. This also aligns with the startup situation where there is a prior movement before getting things ready, before action, such as the precursor movement from inspiration, from having a viewpoint about something that needs to be changed. In other words, it may be overlooked that a strong objective exists. And if this is not yet of a reason for having the objective written down, we should also do so because the challenge for startups also involve changing the objective. The opportunities are in fact discovered through the learning and through the progress. But a point from there, a warning of caution, from writing it down these ambitious and meaningful goals, was indicated in the course, Coursera from Measure What Matters: They have stated the quote from John Doerr: "In Measure What Matters, John Doerr says, "The more ambitious the OKR, the greater the risk of overlooking a vital criterion. " [Check this section from the book, actual full quote and page and keep it as APA style here. ]It should also be acknowledged that the section in the above course also brought a note referring to Andy Grove's High Output Management where Key Results can be arranged to measure "both effect and counter-effect." [Check the page of Andy which maybe the pages indicated by the course of Michael Dearing.] * @refid-whatsapp 23479 @refid 3298-9484-8483-9943
 
-* Crosslink: 450_passing_on_stories.txt 
+* @todo p2 ( ) - In Not so Radical Focus - #OKRCommunicationTool #OKRKinds #ComittedOKR #AspirationalOKR #LearningOKR - OKR can be a Communication Tool to allow understanding of what to focus. - The work of focus, the point of focus, is to understand what should be focusing. In the Course from Measure What Matters, 3 kinds of OKRs are presented to show that flexibility is important, and that there can be strategies that gives the team the opportunity to see what is happening in perspective. * These three kind of OKRs are: committed, aspirational and learning and the structure shoes order and logic ,from being specific, to allowing flexibility or to stretch, to allow the doer to be in learning mode. * [The reference to this is under the Coursera Course from Measure What Matters, reading entitled "The 3 kinds of OKR". ]  * Scqa note - complication and answer - If success defined in a flexible way is not set upfront, it will be then defined as progress happens which will cause frustration, will be unfair, and "create turmoil." This flexibility is what makes possible for the team to actually be able to set success upfront and not after the fact or during the progress. [Ref from the course is "Define Success Upfront"] According to this reading, the attitudes of the team will be different. It says that "Designating OKRs as committed or aspirational will help direct a team's actions. We have noted how phrasing and point of view have significant impact on how OKRS are perceived and executed. " (The 3 Kinds of OKRs, Measure What Matters Coursera). @refid: 6484-6486-7485-7484 
+
+* p2 ( ) - In Not so Radical Focus - Search for "I am here".
+
+* p2 ( ) - In Not so Radical Focus - Fix reference to Eric von. Hippel, make a decision to use on 150 or 230, see References and the following reference to Eric. 
+
+* p2 ( ) - In Not so Radical Focus - Check the "The Boring Yet Critical Part of Entrepreneurship is Management and Innovation Accounting (feat Eric Ries part 2)" - Crosslink: 450_passing_on_stories.txt 
 
 ## Follow ups
 
@@ -34,10 +37,7 @@ von Hippel, E. (2005). Democratizing Innovation. The MIT Press. DOI: https://doi
 
 Drucker, P. (2008). Managing Oneself. Harvard Business School Press. pp. 53-54.
 
-
--->
-
-<!-- SCqA 
+## SCQA 
 
 ( ) Make intro 
 
@@ -46,4 +46,3 @@ Drucker, P. (2008). Managing Oneself. Harvard Business School Press. pp. 53-54.
 
 * Complication - We gravitate towards performance, and we lock goals, or as we lock goals. We respond to goals even when they were very unclear, more like a mission or vision. We tend to lock so that we can be productive. 
 * ( ) Need to improve complication. 
--->

@@ -379,6 +379,10 @@ The idea of using Key Results to quantity success can be dangerous because your 
 * outline - Answer k3 - Outcome vs. output batle - answer - k3.3 - maturity models
 --> 
 
+
+
+
+
 The viewpoint given by Reforge is also mature to recognize not only the different kinds of key results but strategic mixing of these kinds to actually improve the deepthness of connection with the purpose, the objectives: 
 
 > *"They come together to paint a picture of what needs to happen for your objective to be successful. .. There are output-metric key results — such as delivering an important feature — as well as outcome-oriented key results. It’s also important to note that outcome-oriented key results can come in two varieties based on the metric within the key result."* 
@@ -388,6 +392,11 @@ The viewpoint given by Reforge is also mature to recognize not only the differen
 * reference - Rekhi, S. (n.d.). 6 Steps for setting high-leverage OKRs. Reforge. Retrieved January 12, 2024, from https://www.reforge.com/previews/growth/okr-guide
 
 --> 
+
+
+
+
+
 
 <!--
 @meta @outline 
