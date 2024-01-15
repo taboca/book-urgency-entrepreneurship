@@ -146,6 +146,12 @@ And it makes sense, doesn't it? For a solo founder, a team just starting, and fo
 * Outline - Answer k1.2 - Goals might be inherently part of - the contribution   
 --> 
 
+<!-- 
+@meta @todo 
+
+* @todo - p2 ( ) - In Not So Radical Focus - On "What should my contribution be?" - The writing down, the specification, how how what they do vs. the larger purpose. According to Michael, from his GM2 Course [ ref https://www.harrisonmetal.com/classes/gm2-setting-goals-measuring-performance/lessons/magic-of-okrs ] which is private, "they are doing to know how what they do connects to a larger purpose." / @meta-refid 20129-201921-201920-201902 
+--> 
+
 Thereore, we can't deny that the subject of goals connects with motivation and meaning. In other words, the reason that goals matters have also to do with our roles in it. We should note that people join causes to work on them for a while and the meaning might also break down in terms of expectations for what can be done (what we are doing) and how things can be done (how are doing). People evaluate themselves against their goals. 
 
 Therefore, it is not unwise to consider that, for teams and as teams unfold, the existence of a goals create a condition for them not only to join, due to motivations and interest in the outcome, but to engage in a movement where they seek to identify how they can contribute. In the "What Should I Contribute?" section of Managing Oneself, Peter Drucker (2008) recognized an extreme situation of when one is being told what to do, one one hand which certainly is not appropriate in modern management, and, on the other hand, the response inclination of "do your own thing." However, he concludes that the inclination to doing one's own thing doesn't suffice when striving to contribute, achieve self-fulfillment, and find success (pp. 53-54).
@@ -163,7 +169,14 @@ We should account here that John Doerr is known as the evangelist of OKR as a fr
 
 Thus it is uncommon for people to join projects, with causes and goals, as they know that their strenghts can be used for the situation that needs to be changed. And, as they feel that they can do something. Likewise, the structure of a goal-setting project, such as one having a clear documentation and expected results to favor the goal, is likely used by founders as they have to communicate round and improve their chances towards success.
 
+<!-- 
+@meta @todo 
+* @todo - p2 ( ) - In Not So Radical Focus - * Personal, "what should my contribution be" vs goals - The point given by Peter is also a point given by Michael Dearing in his private GM2 course - he indicated that the Objective has to be meaningful and consistent with the person's values, principles, and also generates pride when accomplished - 'sense of accomplishment' / ref 8474-6573-7282-8383
+--> 
+
 Therefore, it is not unwise to notice how we gravitate towards having a plan, an outcome ahead, and even a 2-year plan, as a key element that may put us in a position to solve what is needed to be solved. Plus there seesm to exist an alignment with the too many stories, as told, that we have seen, and read, and watched, and continue to witness; the too many examples of people that told that they were doing something as in to change the world and they did. Plus, if one feels that goal-setting in the corporate is more like a storytelling that fails, with lots of traps (and it does have), and as they dig, they will find an entire field of research related to goal-setting. But if we dig, it is undeniable that out of goal-setting, and after goal-setting, we can find that the reason for the whole field has to do with how we react, how we fix ourselves, as we go. We can't deny that the environment created by a goal-setting system has the good intention to shape us towards progress, even when progress is yet to be discovered in the innovation space. 
+
+There is the minimal unit of work for a goal which means "working for a goal" and can and should be honored. This is about showing up. Of course, no one wants to show up in ways that we burn resources but the very showing up and considering the best way possible, should then set us to discover the how should I contribute that is better, which is a good opening to the next section. This openning, that avoids the arbitrary movement, starts with having more time such as time to reflect. If you use your scarce resources, if you split time, you are making things harder in a way. And if you use wisely this time crack which takes the time you are doing - such as in arbitrary ways - you are then reflecting. And if you are doing so and considering how to do better, then you are acknowleding the possible better use of time. Thus goals vs. how should I contribute is a good start, a frame of reference, such as to set us in the direction of the next section. 
 
 <!-- 
 @meta @outline 
@@ -219,6 +232,22 @@ When exposing what we do, the things we are doing, and letting others chime in t
 @meta @outline 
 * Outline - Answer k2.1.2 - If you can't see you can't change the course  
 --> 
+
+Consider that the point about transparency and collaboration has to do not with the benefits like gambling, of one helping with the other, as if people have the clicks, that is a by-product of doing in a collaborative and transparency way. But in addition to that, it is important to recognize that transparency, having things written down, also reveals failure in the eyes of everyone, which could be complicated depending on the effects from the exposure of failure, such as if the protagonists of the failed propositions aren't to be valued. Therefore, in other words, the exposure goes along with the necessity of the right attitude, a system of protection which when exists gains a strategic meaning, as indicated by Michael Dearing, gains a tone of competition, a healthy competition: 
+
+> *"It seems to me that the best product roadmaps come from vigorous internal competition for time and talent from engineering, design, marketing. " Michael Dearing (2016)
+
+The point suggested by Micheal was isnpired from the general point about competition in macro markets (2016) - the situation and acknowledgement that competition drives better results with the rise of the winning competitor. But then, deriving from that, it comes the natural question if any of that is the actual mechanism we use when we come up with a better thing to do in the face of our goals. Perhaps Michael saw the whole world as a one big company which is the analogy for the intercal micro market and the notion of competition. In this model, consider that there is the input of doing, from doing, from vision, from brainstorming, first in the beginning of a process like a funnel. And then, a quantitative and qualitative judgement chimes in which separates the gold from the things that we can separate, as in the data to support recyling it. 
+
+But a quite important aspect of it has to do with the need for transparency and exposure. "Put the roadmap where everyone can see it is one of the most powerful actions a founder can take." (2016) which goes along with " It is to be expected that people who care about what they work on are disappointed when something doesn’t work out the way they wanted. The approach above arms them with the information they need to make sense of the disappointment and to improve the probability that their next ideas will get funded." (2016)
+
+Notice that in the illustration he created the idea of "funded" can be interpreted as approved or the general idea of buy-in. 
+
+<!--
+@meta @references 
+* @reference - Dearing, M. (2016, September 10). Competitive micro-markets for product development. Medium. https://medium.com/@mcgd/competitive-micro-markets-for-product-development-e74fe56b1c02
+--> 
+
 
 It is valid to assert that OKR, as a framework, promotes the effort of colloration that involves, checking, evaluating, and changing direction. Consider, for example, another aspect of OKR where Key Results - as promoted by the viewpoint of John Doerr - can be defined as aspirational or commitment based. [Check the wording for these]. These approaches exist to accommodate the situations where a lot of learning, such as discovery, is involved, on one hand. While on the other hand, commitment based key results offers an approach to check progress for the moments that we know exactly what needs to be done. Again, the applicability and value from it depends on the strategic planning. 
 

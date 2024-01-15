@@ -1,7 +1,10 @@
 # Todo # 
 
-* @todo p2 ( ) - In Not So Radical Focus - Check if OKR is a method or framework / ref 49284-492849-492849-942894 
+* @todo - p2 ( ) - In Not So Radical Focus - * Personal, "what should my contribution be" vs goals - The point given by Peter is also a point given by Michael Dearing in his private GM2 course - he indicated that the Objective has to be meaningful and consistent with the person's values, principles, and also generates pride when accomplished - 'sense of accomplishment' / ref 8474-6573-7282-8383
 
+* @todo - p2 ( ) - In Not So Radical Focus - On "What should my contribution be?" - The writing down, the specification, how how what they do vs. the larger purpose. According to Michael, from his GM2 Course [ ref https://www.harrisonmetal.com/classes/gm2-setting-goals-measuring-performance/lessons/magic-of-okrs ] which is private, "they are doing to know how what they do connects to a larger purpose." / @meta-refid 20129-201921-201920-201902 
+
+* @todo p2 ( ) - In Not So Radical Focus - Check if OKR is a method or framework / ref 49284-492849-492849-942894 
 
 * @todo p2 ( ) - In Not so Radical Focus - Check the quote from Measure What Matters coursera course, which is private, so we may need to go dig for the actual quote from the Measure What Matters book - Ref from Coursera is: "In Measure What Matters, John Doerr says, "The more ambitious the OKR, the greater the risk of overlooking a vital criterion. "". @refid-whatsapp 23479 @refid 3298-9484-8483-9943 
 
