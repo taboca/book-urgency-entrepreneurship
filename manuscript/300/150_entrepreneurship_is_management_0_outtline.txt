@@ -1,3 +1,42 @@
+## Outline v0.3 
+
+
+
+
+* Outline - Introduction - Leading pitch - Gettings done requires measuring, in a way or another. But measuring is challenging as it affects the plan towards the outcome. You have to fail objective must change, key results must change. Can measure work for aspirational and objectives in the path of uncertainty?
+
+* Outline - Introduction - #SCqA - Situation - Our solutions for goal tracking and measuring progress towards objectives seem to fail, to a point we can be confused. 
+
+* Outline - Introduction - #SCqA - Complication - We struggle with the thing in the middle, the execution.; 
+
+* Outline - Introduction - #SCqA - Question Answer - What is it that set us to use goal setting and measuring in wrong ways? We will consider that being hard on goals and following blindly is an issue; We will consider how OKR helps with goal progressing, not so radical focus. 
+
+* Outline - Answer k1 - Can goal setting survive? Making up as you go seems to be real, in contrast with crazy goals?
+* Outline - Answer k1.1 - Top-down matters 
+* Outline - Answer k1.1.1 - Some goals are present anyway  
+* Outline - Answer k1.2 - The real doers against objectives? 
+
+* Outline - Answer k2 - OKR analysis for Course-correction, failure, and opportunity 
+* Outline - Answer k2.1 - Revisiting top-down goals through collaboration
+* Outline - Answer k2.1.1 - Illustration of collaboration for a book writing 
+* Outline - Answer k2.1.2 - If you can't see you can't change the course  
+
+* Outline - Answer k3.0 - Outcome vs. output battle - Intro - pitch 
+* Outline - Answer k3.1 - Outcome vs. output battle - Intro - Situation  
+* Outline - Answer k3.2 - Outcome vs. output battle - Intro - Complication - Being arbitrary in terms of key results doesn't add transparency level to what is going on, and can even lead to abuse. What to do? What is going on?  
+
+* Outline - Answer k3.3 - Outcome vs. output battle - Intro - Answer - 
+* Outline - Answer k3.3.1 - Outcome vs. output battle - answer - Underlying concept of project logic 
+* outline - Answer k3.3.2 - Outcome vs. output battle - answer - Thesis for output as the window - Andy Grove and also MWM coursera course. 
+* outline - Answer k3.3.3 - Outcome vs. output battle - answer - maturity models
+* outline - Answer k3.3.3 - Outcome vs. output battle - answer - maturity models - effort vs. outcome
+* outline - Answer k3.3.3.2 - Outcome vs. output battle - answer - maturity models - effort vs. outcome - resetting junior
+* outline - Answer k3.3.3.3 - Outcome vs. output battle - answer - maturity models - effort vs. outcome - rupture
+
+
+
+
+
 ## Outline v0.2
 
 * Potential insight - How to measure goals if innovation path is a path of uncertainty? where objectives change? Consider, for example, aspirational goals.
@@ -15,12 +54,7 @@
 * Outline - Answer k2 - OKR analysis for Course-correction, failure, and opportunity 
 * Outline - Answer k2.1 - Revisiting top-down goals through collaboration
 * Outline - Answer k2.1.1 - Illustration of collaboration for a book writing 
-
 * Outline - Answer k3 - (Proposal) - Outcome vs. output bugs? 
-
-
-* continue 
-
 
 ## Outline v0.1 
 

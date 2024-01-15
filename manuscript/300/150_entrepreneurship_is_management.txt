@@ -2,7 +2,7 @@
 
 <!-- 
 @meta @outline 
-* Outline - Introduction - Leading pitch - Gettings done requires measuring, in a way or another. But measuring also affects the effect potential. 
+* Outline - Introduction - Leading pitch - Gettings done requires measuring, in a way or another. But measuring is challenging as it affects the plan towards the outcome. You have to fail objective must change, key results must change. Can measure work for aspirational and objectives in the path of uncertainty?
 --> 
 
 If entrepreneurial effort happens to creatively destroy the old and change anything, it does so not in theory or as a fiction - although theory and fiction goes along as - but under the terms of getting things done [^footnote_schumpeter_entrepreneur_gettingthingsdone]. Execution is, therefore, a necessity for change. As we do, and as much as we do not follow a very scientific approach, we are inclined to measure our progress, based on what we want to do, what we are doing, and how we are doing. With that, comes a complication: How to track our progress effectively when what we are doing requires innovation and walking through the path of uncertainty? How to do it in a way that the creative and aspirational component simultaneously supports the concretes? 
@@ -52,7 +52,7 @@ Notice that “photo montage” that he seeks, the thing we as founders don't ca
 
 <!-- 
 @meta @outline 
-* Outline - Introduction - #SCqA - Question Answer - What is it that set us to use goal setting and measuring in wrong ways? We will consider that being hard on goals and following blindly is an issue; Use OKR as a reflection for a goal progressing not so radical focus. 
+* Outline - Introduction - #SCqA - Question Answer - What is it that set us to use goal setting and measuring in wrong ways? We will consider that being hard on goals and following blindly is an issue; We will consider how OKR helps with goal progressing, not so radical focus. 
 --> 
 
 <!-- 
