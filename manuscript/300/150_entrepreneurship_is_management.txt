@@ -28,7 +28,7 @@ As much as we have solutions to help track execution, is it not easy to have a c
 
 Eric Ries[^footnote_ericries_lean], the notable advocate for Lean principles, continually reminds entrepreneurs that learning is the essence. His words provoke reflection on how inclined we are to use lean methodologies more like a system to accelerate and execute, rather than a system to learn—essentially attempting to harvest something we didn't originally plant with proper care.
 
-> “What I think is really interesting about these stories about entrepreneurship is that 95% of the time of the movie is spent in act one and act three even though in real life all of the important work of entrepreneurship happens during the photo montage.” (Ries, 2011, 4:58)
+> *“What I think is really interesting about these stories about entrepreneurship is that 95% of the time of the movie is spent in act one and act three even though in real life all of the important work of entrepreneurship happens during the photo montage.”* (Ries, 2011, 4:58)
 
 <!-- 
 @meta @references 
@@ -75,9 +75,7 @@ In *It Doesn't Have to Be Crazy at Work* by Fried and Hansson (2018, p. 32), the
 
 Althought they don't endorse the big and sticky goal plan, a slow refletion is a must. With "Make it up as you go" they are concerned that teams can sometimes put goals that works the other way around - that costs more time. But worse than that, it changes how teams perform as anxiety comes their way: 
 
-> "Much corporate anxiety comes from the realization that the company has been doing the wrong thing, but it is too late to change the direction because of the 'Plan.'"
-> 
-> — Fried & Hansson, 2018, p. 33
+> *"Much corporate anxiety comes from the realization that the company has been doing the wrong thing, but it is too late to change the direction because of the 'Plan.'"* (Fried & Hansson, 2018, p. 33)
 
 In other words, they recognize that unexpected outcomes shows as teams advance towards something, like a goal, as they come across data that challenges what they were doing. Therefore, if following David and Jason viewpoint, we have to face the importance of creating the conditions for a healthy way of working. No anxiety on our way is key when it comes to understanding the discoveries that can likely help us to improve our roadmap, including the possibility of let go for a bad goal.
 
@@ -85,7 +83,7 @@ It seems reasonable to lock in a "Therefore" here. That we all seek to instill a
 
 But a pattern of planning is shown by them and put us in a good position to check, or ask, if a stronger goals, such as long-term goals, make sense and how to deal with that in the face of uncertainty: 
 
-> "Every six weeks or so, we decide what we will be working on next. And that is the only plan we have. Anything further out is considered a 'maybe, we will see.'" (Fried & Hansson, 2018, p. 32).
+> *"Every six weeks or so, we decide what we will be working on next. And that is the only plan we have. Anything further out is considered a 'maybe, we will see.'"* (Fried & Hansson, 2018, p. 32).
 
 <!-- 
 @meta @references 
@@ -129,15 +127,11 @@ OKR, which stands for objectives and key resources, is a framework that provoke 
 
 Let's consider Objectives and Key Results, from a general perspective. Does it require a main goal to exist? One such as a driving goal of 2 years? Yes, it is a way to go. It can and, according to the practitioners promoting it, it should. In terms having a defined goal ahead, John Doerr wrote it straight: 
 
-> "An effective goal setting system starts with disciplined thinking at the top, with leaders who invest the time and energy to choose what counts."
->
-> — Doerr, J. (2018). p. 50.
+> *"An effective goal setting system starts with disciplined thinking at the top, with leaders who invest the time and energy to choose what counts."* (Doerr, J., 2018, p. 50)
 
 But a quick reading of that likely suggest an idea of a sort of visionary and disciplined being that knows. While when digging for the nuances, the leadership effort of goal-setting which they talk about has more to do with an initial effort of modelling goals with clarity: 
 
-> "Leaders must get across the *why* as much as the *what*. Their people need more than milestones for motivation. They are thirsting for meaning, to understand how their goals relate to the mission. " 
-> 
-> — Doerr, J. (2018). p. 50.
+> *"Leaders must get across the *why* as much as the *what*. Their people need more than milestones for motivation. They are thirsting for meaning, to understand how their goals relate to the mission."* (Doerr, J., 2018, p. 50)
 
 And it makes sense, doesn't it? For a solo founder, a team just starting, and for the big ones. Consider, for example, the life of one that feels motivated enough to do something, to put their hands, to work. It is natural that people enter to work in projects as they have goals, such as goals that are bold, such as goals that asks for people to work towards them. It also makes sense that people join goals to be part of something, such as for the cause of aiming for a different world when things come true.
 
@@ -165,7 +159,7 @@ Therefore, it is not unwise to consider that, for teams and as teams unfold, the
 
 We should account here that John Doerr is known as the evangelist of OKR as a framework, a work he started at Google. As he has recognized in *Measure What Matters*, the framework was given to him by Andy Grove while he worked at Intel. In addition, Andy has credited that he improved his Objectives and Key Results with learnings from Peter Drucker. Therefore, it is not unwise to consider that the willingness for one to contribute, in an organization, has ties with the effort to manage oneself. Peter has elaborated a contribution for the individual version of it: 
 
-> "What should my contribution be? To answer it, it must address three distinct elements. What does the situation require? Given my strenghts, my way of performing, and my values, how can I make the greatest contribution to what needs to be done? And finally, What results have to be achieved to make a difference." (Drucker, Peter. 2008. (pp. 35)
+> *"What should my contribution be? To answer it, it must address three distinct elements. What does the situation require? Given my strenghts, my way of performing, and my values, how can I make the greatest contribution to what needs to be done? And finally, What results have to be achieved to make a difference."* (Drucker, Peter. 2008. (pp. 35)
 
 Thus it is uncommon for people to join projects, with causes and goals, as they know that their strenghts can be used for the situation that needs to be changed. And, as they feel that they can do something. Likewise, the structure of a goal-setting project, such as one having a clear documentation and expected results to favor the goal, is likely used by founders as they have to communicate round and improve their chances towards success.
 
@@ -205,7 +199,7 @@ Picture: drawing of an objective and key results under it in a way like https://
 
 But then, with that idea, it is time to consider if OKR passes the complication pointed by David and Jason, who stated: 
 
-> "the sooner you admit you have no idea what the world will look like in five years, three years, or even one year, the sooner you will be able to move forward without the fear of making the wrong big decision years in advance." (Fried & Hansson, 2018, p. 33).
+> *"the sooner you admit you have no idea what the world will look like in five years, three years, or even one year, the sooner you will be able to move forward without the fear of making the wrong big decision years in advance."* (Fried & Hansson, 2018, p. 33).
 
 Indeed, when working with innovative products, in a world that changes fast, that sounds about the situation that many founders live. It might come a situation of conflict when the findings pull the team to reconsider but in fact they feel that they cannot change direction, cannot be creative, or even when the team looses interest because things are too mechanical in the face of, as indicated, corporate anxiety. The situation becomes confusion as the required goal can create confusion in the face of other elements that are essential for the ones actually working, such as the things that comes after the question that Peter Drucker brought up: how can I make the greatest contribution to what needs to be done?
 
