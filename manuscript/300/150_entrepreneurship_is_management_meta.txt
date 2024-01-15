@@ -4,9 +4,14 @@
 * Title - Analog inverse of Radical Focus 
 
 
-## Phrases 
+## Dictionary and Knowledge Phrases - 
 
-* Management by Objectives 
+* OKR framework - From Founder Institute's e-mail - "OKR framework - " ref "OKR (Objectives and Key Resources) framework, which traces its roots back to the concept of MBO (Management by Objectives) from the 1950s. " ref - https://mailchi.mp/founderinstitute/a-good-to-know-acronym?e=6e21d94e44
+
+* OKR initiatives - From Founder's institute's e-mail Initiatives  - Initiatives are all the projects and tasks that will help you achieve Key Results. They answer the question: “What will I do to get there?” - Ref - https://mailchi.mp/founderinstitute/a-good-to-know-acronym?e=6e21d94e44
+
+* MBO, Management by Objectives - Andy Grove brought up refering Peter Drucker in High Output Management. 
+
 * What are the things I should be working?
 * "Winning feels wonderful" - private note - that responds to why to do a list of prioritized things to do - was a note left by Michael Dearing from his General Management course where he explains OKR, management by objectives. And, of course, we seek a winning that transcends, for us, for the business that we are doing, for customers, for investors. Keeping up with the balanced view of the wider winning, is critical, important, and tough. 
 * Writing down the goal increases sense of achieving it - private by Michael in the GM2 course. Makes note of behavioral economist concept. 
