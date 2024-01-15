@@ -31,9 +31,8 @@ Eric Ries[^footnote_ericries_lean], the notable advocate for Lean principles, co
 > “What I think is really interesting about these stories about entrepreneurship is that 95% of the time of the movie is spent in act one and act three even though in real life all of the important work of entrepreneurship happens during the photo montage.” (Ries, 2011, 4:58)
 
 <!-- 
-
-Ries, E. [Talks at Google]. (2011). The Lean Startup [Video]. YouTube. https://www.youtube.com/watch?v=fEvKo90qBns
-
+@meta @references 
+* @meta-reference - Ries, E. [Talks at Google]. (2011). The Lean Startup [Video]. YouTube. https://www.youtube.com/watch?v=fEvKo90qBns
 --> 
 
 [^footnote_ericries_lean]: Eric Ries is a renowned entrepreneur and author, best known for pioneering the Lean Startup movement. His seminal work, "The Lean Startup," introduced a methodology that emphasizes the importance of adapting and adjusting business directions with agility, based on customer feedback. In his subsequent book, "The Startup Way," Ries expanded on these principles, providing a framework for entrepreneurial management applicable in various sectors, from fledgling startups to established enterprises. As a thought leader in the world of startups and innovation, Ries has played a pivotal role in reshaping the way companies are built and new products are launched.
@@ -44,7 +43,7 @@ Crosslink: 450_passing_on_stories.txt
 
 <!-- 
 @meta @outline 
-* Outline - Introduction - #SCqA - Complication - We struggle with the thing in the middle, the execution.; 
+* Outline - Introduction - #SCqA - Complication - We struggle with the thing in the middle, the execution; We may doubt that a method for progressing with goals helps for when the path is uncertain? 
 --> 
 
 Notice that “photo montage” that he seeks, the thing we as founders don't care, shows the gap. We gravitate for tracking success more than tracking learning. From the standpoint of narratives, we will have an opportunity to reflect about how we use storytelling such as to trap ourselves. But for now, our focus in this reflection faces the challenges of tracking goals especially when the team seeks to innovate.  We will reflect if goal-setting and tracking makes sense when the space ahead is uncertain; When tracking disconnects from strategic thinking; And come up with principles for managing our investment. 
@@ -98,7 +97,28 @@ Their "maybe, we will see" is an invitation for us to continue a reflective mome
 
 <!-- 
 @meta @outline 
-* Outline - Answer k1.1 - Top-down matters? 
+* Outline - Answer k1.1 - How top-down matters? 
+--> 
+
+Let us consider if the notion of the longer plan can apply and what should be the degree of flexibility in it which may align with the notions given by the Basecamp founders. If we hold the position that a longer plan is valid and meaningful, it may be so because goals are important. This view recognizes that people get to do things because of their connection with what has to be done. This also aligns with the startup situation where there is a prior movement exists before getting things ready, before action, such as the precursor movement from inspiration, from having a viewpoint about something that needs to be changed. In other words, it may be overlooked that a strong objective exists. 
+
+Now, if we consider OKR - a method and framework (check) for getting things done, the concern of Basecamp founders might be a guiding opportunity to actualy understand the nuances of it, which would even perhaps give us the opportunity for a nuanced interpretation about if top-down goals matters and how to deal with the necessity of change along the way. 
+
+<!--
+@meta @todo
+* @todo p2 ( ) - In Not So Radical Focus - Check if OKR is a method or framework / ref 49284-492849-492849-942894 
+--> 
+
+And if this is not yet of a reason for having the objective written down, we should also do so because the challenge for startups also involve changing the objective. The opportunities are in fact discovered through the learning and through the progress.
+
+But a point from there, a warning of caution, from writing it down these ambitious and meaningful goals, was indicated in the course, Coursera from Measure What Matters: They have stated the quote from John Doerr: "In Measure What Matters, John Doerr says, "The more ambitious the OKR, the greater the risk of overlooking a vital criterion. ""  
+
+<!--
+@meta @todo 
+
+* @todo p2 ( ) - In Not so Radical Focus - Check the quote from Measure What Matters coursera course, which is private, so we may need to go dig for the actual quote from the Measure What Matters book - Ref from Coursera is: "In Measure What Matters, John Doerr says, "The more ambitious the OKR, the greater the risk of overlooking a vital criterion. "". @refid-whatsapp 23479 @refid 3298-9484-8483-9943 
+
+* @todo p2 ( ) - In Not so Radical Focus - Check the high level point from the Measure What Matters folks, John and also Andy, in alignment with what was said in the Coursera course from What Matters which referenced Andy Grove on the importance of pairing indicators - "both effect and counter-effect." . Check the page from Andy's book which maybe have to do with the pages indicated by the course of Michael Dearing. @refid-whatsapp 23479 @refid 3298-9484-8483-9943
 --> 
 
 One of the resources to this reflection comes from a key book that has championed the idea of aligning and engaging teams around measurable goals. In the book entitled *Measure What Matters*, John Doerr [^footnote_johndoerr_okr] continued his saga to popularize a framework - known as OKR - that has helped him and his teams to innovate with goals.
@@ -123,7 +143,7 @@ And it makes sense, doesn't it? For a solo founder, a team just starting, and fo
 
 <!-- 
 @meta @outline 
-* Outline - Answer k1.1.1 - Some goals are present anyway  
+* Outline - Answer k1.2 - Goals might be inherently part of - the contribution   
 --> 
 
 Thereore, we can't deny that the subject of goals connects with motivation and meaning. In other words, the reason that goals matters have also to do with our roles in it. We should note that people join causes to work on them for a while and the meaning might also break down in terms of expectations for what can be done (what we are doing) and how things can be done (how are doing). People evaluate themselves against their goals. 
@@ -136,11 +156,6 @@ Therefore, it is not unwise to consider that, for teams and as teams unfold, the
 --> 
 
 [Consider the picture, an illustration, of an X axis, with the "being told" and on the other extremme the "do your own thing" and, from the middle, comes an arrow towards the top, the "how should I contribute". ]
-
-<!-- 
-@meta @outline 
-* Outline - Answer k1.2 - The real doers against objectives? What should I contribute?
---> 
 
 We should account here that John Doerr is known as the evangelist of OKR as a framework, a work he started at Google. As he has recognized in *Measure What Matters*, the framework was given to him by Andy Grove while he worked at Intel. In addition, Andy has credited that he improved his Objectives and Key Results with learnings from Peter Drucker. Therefore, it is not unwise to consider that the willingness for one to contribute, in an organization, has ties with the effort to manage oneself. Peter has elaborated a contribution for the individual version of it: 
 
