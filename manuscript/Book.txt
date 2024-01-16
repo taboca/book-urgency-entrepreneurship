@@ -6,7 +6,7 @@
 
 
 000/040_foreword_external.txt
-000/050_foreword_world.txt
+000/050_foreword.txt
 000/050_foreword_marcio_fit.txt
 
 000/100_introduction.txt
@@ -84,7 +84,7 @@
 
 ### Part 3, objectives, key results, not so radial focus  
 
-300/150_entrepreneurship_is_management.txt
+300/150_entrepreneurship_management_okr/10_article.txt
 
 ### Part 3, systems mechanization   
 
