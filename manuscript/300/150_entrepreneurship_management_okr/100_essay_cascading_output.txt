@@ -1,5 +1,7 @@
 ## Considerations about cascading expectations and managerial involvement 
 
+* pt-BR chatgtp translation - https://docs.google.com/document/d/1vZFchZ1GO4QOvR-ZA2J00oG85_zjHHlgn2GUaZA_cQE/edit 
+
 If people work for others, as subordinates, and if the output of their managers are the output of the organization under them [^foonote_andygrove_managersoutput], then if also all of them make their objectives and key results clear to each other, it would be then be unescapable that something expected as key results from the managers would actually appear through the OKR plans of the subordinates. Or, from another view of the narrative, the manager is interested in knowing if the output given by the organization - that he is responsible for - works to pull his higher-order objectives closer. 
 
 And, moreover, not only interested - as in curious - which would be related to the interests of tracking and monitoring, but also willing and feeling responsible - in a way or another - and aware of its participation, conscious, that he has to be involved in the assessment and the process of management and planning that helps to the organization under which is the essential fundamental unit which will bring about change to his own objectives. 
