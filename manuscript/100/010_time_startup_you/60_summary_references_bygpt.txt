@@ -1,0 +1,21 @@
+@prompt
+
+From the following copy and paste, pull the references and list as items. First to all, then pull only the ones cited as APA inline. 
+
+## Results
+
+Category Design: This concept is mentioned in the context of entrepreneurs who start with a vision to create a new category of products or services. The reference is indicated as [^footnote_category_design], but the specific source is not provided in the text.
+
+Ayn Rand on Money Making: The article references Ayn Rand's perspective on money-making, denoted by [^footnote_ayn_rand_money_maker]. Again, the exact source is not provided.
+
+Paul Graham on Startup Growth: Mentioned as [^footnote_growth_paul_graham], the article refers to Paul Graham's views on startup growth. The specific source or article by Paul Graham is not indicated.
+
+Bill Draper on Failure and Learning: The footnote [^footnote_bill_drapper_fail_fail] links to a YouTube video featuring Bill Draper discussing failure and learning in the entrepreneurial journey. The URL is https://www.youtube.com/watch?v=KxDxRUYEMXg.
+
+Reid Hoffman on Assembling a Ship: The article cites Reid Hoffman's analogy of assembling a ship (or airplane) while sailing, marked as [^footnote_reid_assemble_airplane]. The exact source is not provided.
+
+Brian Chesky and Reid Hoffman on Learning: Brian Chesky's approach to learning and Reid Hoffman's perspective on this are discussed, with the reference [^footnote_reid_hoffman_brian_infinite_learner]. The source is not specified in the text.
+
+Kolb's Experiential Learning Model: The article cites David A. Kolb's model of experiential learning, referred to as [^footnote_kolbmodel]. This model describes a learning process involving concrete experience, reflective observation, abstract conceptualization, and active experimentation.
+
+Reid Hoffman's Commencement Speech: The article concludes with a quote from Reid Hoffman's 2023 commencement speech at Bologna Business School, but the specific source URL or reference is not provided.
