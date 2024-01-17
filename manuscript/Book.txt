@@ -13,7 +13,8 @@
 
 100/000_part1.txt
 
-100/010_startup_you.txt
+100/010_time_startup_you/10_article.txt 
+
 100/030_wantrepreneur_article.txt
 
 100/060_words.txt 
