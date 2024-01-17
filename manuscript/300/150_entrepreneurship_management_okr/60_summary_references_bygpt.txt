@@ -1,0 +1,23 @@
+Given the extensive and detailed nature of the article, I will first list the references used in it as footnotes. Then, I will proceed to list APA-style inline citations for the content of the article.
+
+### Footnotes:
+
+1. Schumpeter, J. A. (2008). *Capitalism, socialism, and democracy*. Harper Perennial Modern Thought. (Original work published 1942)
+2. Ries, E. (2011). The Lean Startup [Video]. YouTube. Retrieved from https://www.youtube.com/watch?v=fEvKo90qBns
+3. Fried, J., & Hansson, D. H. (2018). *It doesn't have to be crazy at work*. HarperCollins.
+4. Drucker, P. (2008). *Managing Oneself*. Harvard Business School Press.
+5. Dearing, M. (2016, September 10). Competitive micro-markets for product development. Medium. Retrieved from https://medium.com/@mcgd/competitive-micro-markets-for-product-development-e74fe56b1c02
+6. Wodtke, C. (2022, February 4). Are You Sure You Want to Use OKRs? Retrieved from https://cwodtke.medium.com/you-cant-handle-okrs-5465cf161e81
+7. Nightingale, J. (2017, February 8). Leadership is not about your good intentions: Managing junior vs senior staff, and why you might be an ass. The Co-pour. Retrieved from https://mfbt.ca/leadership-is-not-about-your-good-intentions-5e21666cb01b
+
+### APA-style Inline Citations:
+
+- Joseph Schumpeter’s work on entrepreneurial functions emphasizes the importance of execution in entrepreneurship (Schumpeter, 2008).
+- Eric Ries, a proponent of Lean principles, emphasizes the significance of learning in entrepreneurship (Ries, 2011).
+- The concept of flexible goal-setting and the pitfalls of rigid long-term planning are discussed in Fried and Hansson's book, "It doesn't have to be crazy at work" (Fried & Hansson, 2018).
+- Peter Drucker's "Managing Oneself" highlights the importance of understanding one’s role and contributions within an organization (Drucker, 2008).
+- Michael Dearing discusses the concept of competitive micro-markets in product development (Dearing, 2016).
+- Christina Wodtke provides a critical perspective on the use of OKRs in organizational settings (Wodtke, 2022).
+- Jane Nightingale addresses the complexities of leadership and the differing expectations for junior and senior staff (Nightingale, 2017).
+
+These references provide a comprehensive foundation for understanding various aspects of entrepreneurship, goal-setting, leadership, and organizational management as discussed in the article.

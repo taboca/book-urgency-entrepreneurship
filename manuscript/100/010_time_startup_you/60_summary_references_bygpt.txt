@@ -2,6 +2,10 @@
 
 From the following copy and paste, pull the references and list as items. First to all, then pull only the ones cited as APA inline. 
 
+```
+COPY AND PASTE article
+```
+
 ## Results
 
 Category Design: This concept is mentioned in the context of entrepreneurs who start with a vision to create a new category of products or services. The reference is indicated as [^footnote_category_design], but the specific source is not provided in the text.
