@@ -182,7 +182,13 @@ And it makes sense, doesn't it? For a solo founder, a team just starting, and fo
 <!-- 
 @meta @todo 
 
-* @todo - p2 ( ) - In Not So Radical Focus - On "What should my contribution be?" - The writing down, the specification, how how what they do vs. the larger purpose. According to Michael, from his GM2 Course [ ref https://www.harrisonmetal.com/classes/gm2-setting-goals-measuring-performance/lessons/magic-of-okrs ] which is private, "they are doing to know how what they do connects to a larger purpose." / @meta-refid 20129-201921-201920-201902 
+* @todo - p2 ( ) - In Not So Radical Focus - On "What should my contribution be?" - The writing down, the specification, how how what they do vs. the larger purpose. According to Michael, from his GM2 Course [ ref https://www.harrisonmetal.com/classes/gm2-setting-goals-measuring-performance/lessons/magic-of-okrs ] which is private, "they are dying to know how what they do connects to a larger purpose." / @meta-refid 20129-201921-201920-201902 
+--> 
+
+
+<!-- 
+@meta @todo 
+* @todo - p2 ( ) - In Not So Radical Focus - * Personal, "what should my contribution be" vs goals - The point given by Peter is also a point given by Michael Dearing in his private GM2 course - he indicated that the Objective has to be meaningful and consistent with the person's values, principles, and also generates pride when accomplished - 'sense of accomplishment' / ref 8474-6573-7282-8383
 --> 
 
 Thereore, we can't deny that the subject of goals connects with motivation and meaning. In other words, the reason that goals matters have also to do with our roles in it. We should note that people join causes to work on them for a while and the meaning might also break down in terms of expectations for what can be done (what we are doing) and how things can be done (how are doing). People evaluate themselves against their goals. 
@@ -194,18 +200,11 @@ Therefore, it is not unwise to consider that, for teams and as teams unfold, the
 * reference - Drucker, P. (2008). Managing Oneself. Harvard Business School Press. pp. 53-54. 
 --> 
 
-[Consider the picture, an illustration, of an X axis, with the "being told" and on the other extremme the "do your own thing" and, from the middle, comes an arrow towards the top, the "how should I contribute". ]
-
 We should account here that John Doerr is known as the evangelist of OKR as a framework, a work he started at Google. As he has recognized in *Measure What Matters*, the framework was given to him by Andy Grove while he worked at Intel. In addition, Andy has credited that he improved his Objectives and Key Results with learnings from Peter Drucker. Therefore, it is not unwise to consider that the willingness for one to contribute, in an organization, has ties with the effort to manage oneself. Peter has elaborated a contribution for the individual version of it: 
 
 > *"What should my contribution be? To answer it, it must address three distinct elements. What does the situation require? Given my strenghts, my way of performing, and my values, how can I make the greatest contribution to what needs to be done? And finally, What results have to be achieved to make a difference."* (Drucker, Peter. 2008. pp. 35)
 
 Thus it is uncommon for people to join projects, with causes and goals, as they know that their strenghts can be used for the situation that needs to be changed. And, as they feel that they can do something. Likewise, the structure of a goal-setting project, such as one having a clear documentation and expected results to favor the goal, is likely used by founders as they have to communicate round and improve their chances towards success.
-
-<!-- 
-@meta @todo 
-* @todo - p2 ( ) - In Not So Radical Focus - * Personal, "what should my contribution be" vs goals - The point given by Peter is also a point given by Michael Dearing in his private GM2 course - he indicated that the Objective has to be meaningful and consistent with the person's values, principles, and also generates pride when accomplished - 'sense of accomplishment' / ref 8474-6573-7282-8383
---> 
 
 Therefore, it is not unwise to notice how we gravitate towards having a plan, an outcome ahead, and even a 2-year plan, as a key element that may put us in a position to solve what is needed to be solved. Plus there seesm to exist an alignment with the too many stories, as told, that we have seen, and read, and watched, and continue to witness; the too many examples of people that told that they were doing something as in to change the world and they did. Plus, if one feels that goal-setting in the corporate is more like a storytelling that fails, with lots of traps (and it does have), and as they dig, they will find an entire field of research related to goal-setting. But if we dig, it is undeniable that out of goal-setting, and after goal-setting, we can find that the reason for the whole field has to do with how we react, how we fix ourselves, as we go. We can't deny that the environment created by a goal-setting system has the good intention to shape us towards progress, even when progress is yet to be discovered in the innovation space. 
 
