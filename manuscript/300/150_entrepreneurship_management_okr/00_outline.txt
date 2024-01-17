@@ -1,3 +1,9 @@
+## Outline v0.4 
+
+* Strategy - the points from J&F has to be brought up, as they are generic and makes a better motivation to the chapter, this would make the K1 have a smaller introduction, which makes sense because it is huge now. In addition, this will take us to remove the parts of the photo montage of Eric Ries, which is quite arbitrary. 
+
+
+
 ## Outline v0.3 --------------------------------
 
 * Outline - Introduction - Leading pitch - Gettings done requires measuring, in a way or another. But measuring is challenging as it affects the plan towards the outcome. You have to fail objective must change, key results must change. Can measure work for aspirational and objectives in the path of uncertainty?
@@ -6,10 +12,13 @@
 
 * Outline - Introduction - #SCqA - Complication - We struggle with the thing in the middle, the execution; We may doubt that a method for progressing with goals helps for when the path is uncertain? 
 
-* Outline - Introduction - #SCqA - Question Answer - What is it that set us to use goal setting and measuring in wrong ways? We will consider that being hard on goals and following blindly is an issue; We will consider how OKR helps with goal progressing, not so radical focus. 
+* Outline - Introduction - #SCqA - Question Answer - Introduction - #SCqA - Question Answer - What is it that set us to use goal setting and measuring in wrong ways? We will consider that being hard on goals and following blindly is an issue; We will consider how OKR helps with goal progressing, not so radical focus. @meta-refid 875-834-923-933
 
-* Outline - Answer k1 - Can goal setting survive? Making up as you go seems to be real, in contrast with crazy goals?
-* Outline - Answer k1.1 - Top-down matters? 
+* Outline - Answer k1 - Can goal-setting survive? 
+* Outline - Answer k1 - intro - situation         - Successful executives argues that strong goals can be detrimental. 
+* Outline - Answer k1 - intro - complication      - Making up as you go seems to be real? Why to contrast with crazy goals?
+* Outline - Answer k1 - intro - question / answer - We will use OKR as it is widely used as a goal progress in executive spaces from individual to organizing getting things done for teams. 
+* Outline - Answer k1.1 - Why top-down matters? 
 * Outline - Answer k1.2 - Goals might be inherently part of - the contribution   
 
 * Outline - Answer k2 - OKR analysis for Course-correction, failure, and opportunity 

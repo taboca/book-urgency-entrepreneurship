@@ -20,8 +20,6 @@
 
 * p1 ( ) - General - Consider to merge "Right" with "Impact" into "The right to impact"
 
-* p2 ( ) - In Not so Radical Focus - Should we bring a block quote from them here? Ref 492849-4298-925820-598259
-
 * p2 ( ) - In Wantrepreneur - Check the quote from Joseph Schumpeter for accuracy. Is it "lie" or "live"? Double check the whole quote. Ref 49284982-49284928-480294982-4892849289
 
 * p2 ( ) - In introduction -  Check the footnote of Andy Grove, pick original quote from Only the Paranoid Survive / Ref 123e4567-e89b-12d3-a456-426614174000
@@ -248,6 +246,8 @@ https://chat.openai.com/share/b7eb16c5-4c18-4709-9220-bd2629f34a3d
 * (x) Fix the Peter Drucker quote with the English book on 040_induction_embedded_everything / 123e4567-e89b-12d3-a456-426614174000
 
 * p2, (x) Part 2 / Lean no Lean - Add reference from Blitzscaling lectures, or any model or celebrity practitioner, that Startups can move fast, to the "Ainda, faz-se importante contextualizar que exatamente por não existir uma dependência com o mercado, como servir clientes conquistados, e o time ser pequeno, a agilidade é observável de que startups mudam de rumo rapidamente e que permite que mais falhas possam ocorrer na busca de acertos.  " ref 98349834-43489384-48394893-839849849
+
+* p2 (x) - In Not so Radical Focus - Should we bring a block quote from them here? Ref 492849-4298-925820-598259
 
 ## Reviews external
 
