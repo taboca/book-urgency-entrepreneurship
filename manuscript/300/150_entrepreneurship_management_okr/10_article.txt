@@ -37,13 +37,13 @@ If entrepreneurial effort happens to creatively destroy the old and change anyth
 * Outline - Introduction - #SCqA - Situation - Our solutions for goal tracking and measuring progress towards objectives seem to fail, to a point we can be confused. 
 --> 
 
+It's unescapable - the more success we have the more we will be happy to know how we are progressing, the more we will want to move not in arbitrary ways and love to know that communication about our objectives, and how to get there [^foonote_michaeldearing_clearobjectives], influences not only our outcomes but also our happiness. And even if the path is uncertain, to have a clear plan even when the plan is - I have to learn. But it may not be clear the impact of goal tracking and goal progressing in the beginning when one is not proficient in the art and science of management by objectives. 
+
 Goal setting in general exists. And in the startup situation there are popularized frameworks and methods for goal-setting and progressing. A popular one is OKR, Objectives and Key Results, which is essentially a framework or approach of management by objectives. 
 
 
 
-
-
-
+[^foonote_michaeldearing_clearobjectives]: 
 
 
 

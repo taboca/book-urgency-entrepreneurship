@@ -41,6 +41,29 @@
 * Chris -  https://mail.google.com/mail/u/0/#inbox/KtbxLwgZVwjDDccMZJKdWcPBwPDlzZFlzL
 
 
+## Letter - Asking for reference confirmation - [feat. Michael Dearing @ Harrison Metal]
+
+* status - not sent 
+
+```
+Subject - Marcio's book - Slow Down to Start Up -  Referencing that 250-survey that confirms that successful entrepreneurs love clear communication about objectives
+
+Hi Michael or team,
+
+I wanted to reference a note from Michael from GM2 [1] course about a survey. I think part of the good data, Michael notes, is in the video but also there seems to be part available as a PDF [2]. I wonder if I could link to the PDF or if you have more on that survey. The context of my intention to link/refer to is the following:
+
+I have a paragraph, in a material that I am working on [3], which basically is an easy to understand phrase that says that people of success will love to know clearly what they are doing and how they are progressing. In order to add a supporting point to that, I would love to link to Michael's discovery from the GM2 course - a note about the survey with 250 workers.
+
+Would you think is fine if I make a footnote, referencing the GM2 course but moreover I wonder if could link to the PDF [2] too or even better if you have any specific public writing  on that survey.
+
+MG
+
+[1] https://www.harrisonmetal.com/classes/gm2-setting-goals-measuring-performance/lessons/magic-of-okrs
+[2] https://cdn.harrisonmetal.com/library/266/GM2__Setting_Goals___Measuring_Performance.pdf
+[3] https://leanpub.com/slowdownstartup 
+```
+
+
 ## Sent invitation to Kris Duggan of the OKR talk on heavybit - re: Not so radical focus
 
 * Linkedin in - https://www.linkedin.com/in/krisduggan/
