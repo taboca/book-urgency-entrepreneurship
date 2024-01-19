@@ -2,7 +2,7 @@
 
 <!-- 
 @meta @outline 
-* Outline - Introduction - Leading pitch - Gettings done requires measuring, in a way or another. But measuring is challenging as it affects the plan towards the outcome. You have to fail objective must change, key results must change. Can measure work for aspirational and objectives in the path of uncertainty?
+* Outline - Introduction - Leading pitch - Gettings done exists, we know. But also we know it is not to do arbitrary. We get involved with that. 
 --> 
 
 When the entrepreneurial function happens to creatively destroy the old and change  reality it does so more by getting things done [^footnote_schumpeter_entrepreneur_gettingthingsdone] and less because of theory, fiction, inventions, and other required arrangements to thrive. Focusing on the worker - call them doers, executors, entrepreneurs - right after they put their helmet on and set themselves in the trajectory, immediately they visualize that if they want to get things done back home they can't just be doing things, like getting arbitrary things done. In other words, the doers go far but they do so by calling ground control - by setting goals and an incessant fear of being drifters in the space of opportunities.
@@ -22,7 +22,7 @@ Now, if we focus in the startup situation, the theme of management by objectives
 
 <!-- 
 @meta @outline 
-* Outline - Introduction - #SCqA - Situation - Our solutions for goal tracking and measuring progress seem not to be the reality for the doing it. 
+* Outline - Introduction - #SCqA - Complication - We doubt, w defer, and when we check, it seems too much. 
 --> 
 
 Now, if looking to that horizon rings a bell for what is ahead it isn't entirely enough for early doers to - let me put it that way - be distracted from the actual challenges of the day which may feel like "jumping off a cliff trying to assemble an airplane on their way down," [^footnote_reidhoffman_airplane_cliff] as vividly said by Reid Hoffman. In other words, the actual call we make to ground control sets us in what is major - to do what needs to be done first and then, afterwards, come back to organize things such as sorting out post-its as part of the reflection [^footnote_michaeldearing_realdoing_postits] and organizational work. 
@@ -70,11 +70,9 @@ Furthermore they give us a good supporting point for how to be driven by an orie
 * Reference - Fried, J., & Hansson, D. H. (2018). It doesn't have to be crazy at work. HarperCollins.
 --> 
 
-In other words, this example is one of many conversations about the challenges, or the price to pay, when you are involved in managing your objectives, setting goals, and measuring the progress. 
-
 <!-- 
 @meta @outline 
-* Outline - Introduction - #SCqA - Question Answer - Introduction - #SCqA - Question Answer - What is it that set us to use goal setting and measuring in wrong ways? We will consider that being hard on goals and following blindly is an issue; We will consider how OKR helps with goal progressing, not so radical focus. @meta-refid 875-834-923-933
+* Outline - Introduction - #SCqA - Question Answer - Introduction - #SCqA - Question Answer - Dilemma of alraey being involved with productivity and provooked to not dive as the methods for orientation to goals seem to not fit, too complex, can be deferred. @meta-refid 875-834-923-933
 --> 
 
 So, here we set ourselves in a dilemma where we are engaged and concerned with productivity, to do our best towards our objectives, but equally concerned  with the aspects when the whole system of measurement influences everything. A potential question is: Is it worth to get involved with learning about management by objectives or to get involved with communications about goal setting and goal progressing? And if so, when?
