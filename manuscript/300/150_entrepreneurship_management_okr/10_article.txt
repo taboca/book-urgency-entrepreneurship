@@ -5,9 +5,11 @@
 * Outline - Introduction - Leading pitch - Gettings done requires measuring, in a way or another. But measuring is challenging as it affects the plan towards the outcome. You have to fail objective must change, key results must change. Can measure work for aspirational and objectives in the path of uncertainty?
 --> 
 
-When the entrepreneurial function happens to creatively destroy the old and bring about change to the new, it does so by getting things done [^footnote_schumpeter_entrepreneur_gettingthingsdone] and less because of theory, fiction, inventions, and even other arrangements for the entreprise to thrive. In addition if we zoom in, into the micro function of the successful workers of high-growth organizations, it seems inescapable how they value the clarity of communications in terms of goals and how to get there, as a reflection of the quality of management [^foonote_michaeldearing_clearobjectives]. 
+When the entrepreneurial function happens to creatively destroy the old and change our realities - such as your bedroom or the market - it does so more by getting things done [^footnote_schumpeter_entrepreneur_gettingthingsdone] and less because of theory, fiction, inventions, and other required arrangements to thrive. Focusing on the worker - call them doers, executors, entrepreneurs - right after they put their helmet on and set themselves in the trajectory, immediatelly they look back and visualize that getting things done - back home - is very different from doing things like doing in arbitraty ways. In other words, if the doers go far they do so by calling ground control, by setting goals and by their willingness to not incessantly drift in the space of opportunities. 
 
-[^footnote_schumpeter_entrepreneur_gettingthingsdone]: Joseph Schumpeter (2008), the renowned  Austrian-American economist and political scientist known for his theories on economic development and business cycles, in "Capitalism, Socialism, and Democracy," emphasizes the characterization of "getting things done" (p. 132) as an essential element of the entrepreneurial function. He argues this aspect is even more crucial than others, such as the entrepreneur's ability to invent new things or create conditions for the enterprise to thrive. Schumpeter's concept of "creative destruction," a key mechanism in capitalist innovation, is largely dependent on this entrepreneurial dynamism. 
+[^footnote_schumpeter_entrepreneur_gettingthingsdone]: Joseph Schumpeter (2008), the renowned  Austrian-American economist and political scientist known for his theories on economic development and business cycles, in "Capitalism, Socialism, and Democracy," emphasizes the characterization of "getting things done" (p. 132) as an essential element of the entrepreneurial function. He argues this aspect is even more crucial than others, such as the entrepreneur's ability to invent new things or create conditions for the enterprise to thrive. 
+
+Now and here, and with out foots in the startup context, the situation continues to invite us to value communications about getting things done - or managemeng by objectives - not only as a contributing factor to the development but as a critical step towards growth given that more collaboration is head, within the team and with stakeholders outside. In a survey of workers of high-growth organizations, it is inescapable how they value the clarity of communications in terms of goals and how to get there, and how that becomes a reflection of the quality of management [^foonote_michaeldearing_clearobjectives]. 
 
 [^foonote_michaeldearing_clearobjectives]: Michael Dearing discusses the importance of understanding top priorities in high-growth companies in his course 'Self Study GM2: Setting Objectives & Measuring Performance.' In this course, Dearing surveyed 250 people working in high-growth companies about the clarity of top priorities and the quality of team management. He found that 70% of respondents confirmed that understanding top priorities was extremely important. Source: Dearing, M. (n.d.). Self Study GM2: Setting Objectives & Measuring Performance. Harrison Metal. Retrieved January 18, 2024, from https://www.harrisonmetal.com/classes/gm2-setting-goals-measuring-performance/lessons/magic-of-okrs.
 
@@ -20,10 +22,10 @@ When the entrepreneurial function happens to creatively destroy the old and brin
 
 <!-- 
 @meta @outline 
-* Outline - Introduction - #SCqA - Situation - Our solutions for goal tracking and measuring progress towards objectives seem to fail, to a point we can be confused. 
+* Outline - Introduction - #SCqA - Situation - Our solutions for goal tracking and measuring progress seem not to be the reality for the doing it. 
 --> 
 
-Now, if looking to that horizon rings any bell, it wouldn't harm much except that the challenging circumstances of getting things done - as in they jumped off a cliff trying to assemble an airplane on their way down [^footnote_reidhoffman_airplane_cliff] - now becomes alarming under the possibility that we also need to get involved in achieving such clarity, or to organize communications about what and how they do.  
+Now, if looking to that horizon rings a bell for what is ahead it isn't entirely enough to set our inner doers to - let me put it that way - be distracted from the actual challenges of the day which may feel like "jumping off a cliff trying to assemble an airplane on their way down," [^footnote_reidhoffman_airplane_cliff] as vividly said by Reid Hoffman. In other words, the actual call we make to ground control set us to the major job to do what needs to be done first and then later try to organize things such as sorting out post-its as part of the reflection [^footnote_michaeldearing_realdoing_postits] and organizational work.
 
 [^footnote_reidhoffman_airplane_cliff]: In discussing the nature of startups, Reid Hoffman celebrates the metaphor where in the startup situation "you throw yourself off a cliff and you assemble an airplane on the way down," (Hoffman & Casnocha, 2013) to vividly note about the challenges such as the mortality situation and of focusing. 
 
@@ -32,23 +34,25 @@ Now, if looking to that horizon rings any bell, it wouldn't harm much except tha
 * reference - Hoffman, R., & Casnocha, B. (2013, July 15). The Startup of You. CreativeLive. Retrieved January 18, 2024, from https://youtu.be/e2X54ALRkZg?si=OF_2-LTUk6KR17ip
 --> 
 
-In other words, startup teams are inevitably called to join conversation about goal-setting and progressing with goals happens; the conversation that is quite old and always evolving [^footnote_stephencovey_priorities] such as OKR - objectives and key results aka management by objectives - which is a framework that is popular and well-used among high-growth organizations. 
+[^footnote_michaeldearing_realdoing_postits]: Harrison Metal illustrates, in "Objectives & Key Results" [Harrison Metal, 2016], a case of a lemonade business owner that starts with an initial aspiration, that gets involved with the day-to-day activities, and then engages in an effort to improve its productivity which leads to management by objectives if done right.
 
-[^footnote_stephencovey_priorities]: 
-
-<!--
+<!-- 
 @meta @todo 
-* @todo - p2 ( ) - Add Stephen points, from 7-habits book, about the historical development of goals and priorization theory; which may also connect with the points from Kris Kris Duggan https://www.heavybit.com/library/video/using-okrs-to-drive-results-aka-secrets-to-crushing-your-goals @meta-refid 20489-429084-42084-40284
+* @todo - p1 (x) - Consider the mini video of Michael - about post-its and bottom up - within the context of Not so radical focus - https://vimeo.com/188846225 . Ref [^footnote_michaeldearing_realdoing_postits] / Ref 482748-492849-409284-42084209
+
+@meta @references
+* reference - Harrison Metal. (2016, October 25). Objectives & Key Results [Video]. Vimeo. https://vimeo.com/188846225
 --> 
+
 
 <!-- 
 @meta @outline 
-* Outline - Introduction - #SCqA - Complication - We struggle with the thing in the middle, the execution; We may doubt that a method for progressing with goals helps for when the path is uncertain? 
+* Outline - Introduction - #SCqA - Complication - We struggle with the thing in the middle, the execution; We may doubt that a method for progressing with goals helps for when the urgencies are real. 
 --> 
 
-But the complication on their way - of their involvedment with communicating and measuring progress - is that they find an uncomfortable situation even to a point to doubt these ideas for managing goals and progress. In other words, in our hurry to improve our "how should I contribute best?" and living under pressure of our own objectives, we get distracted and if not mad about these ideas that were brought first to help. How come the system for helping with objectives and key results is getting on my way to get things done? 
+But the complication that follows is that the ongoing conversation of management by objevtives is alive but we can be uncomfortable, even to a point of doubting these ideas for managing goals and progress, or thinking that something of that can be used in the right time, such after more traction exists or the team is bigger. In other words, in our hurry to improve our "how should I contribute best?" and living under pressure of our own objectives, we may feel that to consider the more formal considerations can be a distraction. We might even get mad about these ideas that were brought first to help but we feel that the potential applicability does not suit the reality. 
 
-Thus, it is not uncommon, naturally for starting teams, even for grown up entrepreneurs to just not get much of what is being talked, and the way that these ideas are put into practice. In *It Doesn't Have to Be Crazy at Work* by Fried and Hansson (2018, p. 32), the authors provoke readers with the article "Making it up as you go." They argue that adhering strictly to strong goals, such as setting 2, 3, or even 5-year plans, can be detrimental to genuine progress. With a solid view of their big picture, they do well running their successful company in more steady and calmer ways: 
+If this is not enough of a problem, the looking up ahead from experienced or grown up entrepreneurs, the ongoing conversation, doesn't hide many challenging implications of managing by objectives. As an example, consider the view given by Fried and Hansson (2018, p. 32) in "Making it up as you go," and their testimonial of how they run their firm quite well by denying the notion of setting 2, 3, or even 5-year plans: 
 
 > *"Every six weeks or so, we decide what we will be working on next. And that is the only plan we have. Anything further out is considered a 'maybe, we will see.'"* (Fried & Hansson, 2018, p. 32).
 
@@ -57,7 +61,7 @@ Thus, it is not uncommon, naturally for starting teams, even for grown up entrep
 * Reference - Fried, J., & Hansson, D. H. (2018). It doesn't have to be crazy at work. HarperCollins.
 --> 
 
-Althought they don't endorse the big and sticky goal plan, their calmer refletion through "Make it up as you go" brings about a special condition where the presence of a too strict objective harms the entrepreneurial function within the entrepreneur: 
+Furthermore they give us a good supporting point for how to be driven by an orientation of strict and strong goals can be detrimental to genuine progress: 
 
 > *"Much corporate anxiety comes from the realization that the company has been doing the wrong thing, but it is too late to change the direction because of the 'Plan.'"* (Fried & Hansson, 2018, p. 33)
 
@@ -66,23 +70,22 @@ Althought they don't endorse the big and sticky goal plan, their calmer refletio
 * Reference - Fried, J., & Hansson, D. H. (2018). It doesn't have to be crazy at work. HarperCollins.
 --> 
 
-In other words, they recognize that there are serious situations of teams advancing towards goals but hitting a situation that affects the health of the working situation. 
+In other words, this example is one of many conversations about the challenges, or the price to pay, when you are involved in managing your objectives, setting goals, and measuring the progress. 
 
 <!-- 
 @meta @outline 
 * Outline - Introduction - #SCqA - Question Answer - Introduction - #SCqA - Question Answer - What is it that set us to use goal setting and measuring in wrong ways? We will consider that being hard on goals and following blindly is an issue; We will consider how OKR helps with goal progressing, not so radical focus. @meta-refid 875-834-923-933
 --> 
 
-So, here's something for us to be mindful of as we move forward. Our primary goal is to manage our situation healthily and to be aware of conditions such as excessive anxiety that can lead to delays. In this regard, we will seek a healthy situation for the worker to evaluate what they are doing, correct their course, achieve better results, and find their best versions as contributors.
+So, here we set ourselves in a dilemma where we are engaged and concerned with productivity, to do our best towards our objectives, but equally concerned  with the aspects when the whole system of measurement influences everything. A potential question is: Is it worth to get involved with learning about management by objectives or to get involved with communications about goal setting and goal progressing? And if so, when? 
 
-As we progress, we will guide our discussion using OKR - because, whether perfect or imperfect, OKR is indeed widely used and accepted, and through it, there are many important discussions and conversations.
+Our answer is yes and the when can be dropped because if you are into anything that has objectives, you already started it and you are already using your time and energy. But a reframing to the question in alignment with the style of this book is: Is there a way to reflect on the subject of goal setting and goal progressing that is applicable in the beginning and can be lasting? 
+
+And through that viewpoint, we will move on not like a playbook, or a set of rules that you are required to follow up through with many iterations for stages, and required to become an expert for something that by the time you hit specific necessities you don't even know anymore the details or need to out of the sudden access that expert. 
+
+But we will use OKR - one popular framework being used by high-growth organizations - as a guide to an actual conversation, a reflection. With that, we aren't pressured to keep thinking of matching the elements of the framework for the situations of our startup; but in fact reflecting on the actual fundamental challenges and checking if the framework recognizes them and if the ongoing conversations about the framework discusses them. Using OKR as a guide is here first because it is popular because it's being used effectively, because it's being misused, because like many of the modern "solutions in the hypermarket of entrepreneurship," people can sometimes pick it quickly and start to use it just like their organize their efforts, under pressure, under anxiety, which sets them to be quite frustrated. 
 
 We will begin by analyzing why OKRs start with the premise that objectives should be strong, ambitious, and possibly long-term. This includes recognizing the potential problems of this approach, questioning whether it makes sense to start there, and how discussions about OKRs deal with the probable lack of flexibility. Following this, we will examine whether OKRs offer elements that assist in course correction in a healthy manner, given that the nature of entrepreneurship involves uncertain paths and the pursuit of innovation that requires learning. Finally, we will consider complications and confusions that exist and are part of the broader discussion, such as problems where the measurement and judgment of progress end up influencing execution; and how to deal with a measurement and judgment approach that is not so radical, and that actually helps the team operate better.
-
-
-
-
-
 
 <!-- 
 @meta @outline 
@@ -90,6 +93,16 @@ We will begin by analyzing why OKRs start with the premise that objectives shoul
 --> 
 
 ## Can goal-setting survive?  
+
+<!--
+@meta @todo 
+* @todo - p2 ( ) - Add Stephen points, from 7-habits book, about the historical development of goals and priorization theory; which may also connect with the points from Kris Kris Duggan https://www.heavybit.com/library/video/using-okrs-to-drive-results-aka-secrets-to-crushing-your-goals @meta-refid 20489-429084-42084-40284
+
+In other words, startup teams are inevitably called to join conversation about goal-setting and progressing with goals happens; the conversation that is quite old and always evolving [^footnote_stephencovey_priorities] such as OKR - objectives and key results aka management by objectives - which is a framework that is popular and well-used among high-growth organizations. 
+
+[^footnote_stephencovey_priorities]: 
+
+--> 
 
 <!-- 
 @meta @outline 

@@ -251,6 +251,8 @@ https://chat.openai.com/share/b7eb16c5-4c18-4709-9220-bd2629f34a3d
 
 * p2 (x) - In Not so Radical Focus - Should we bring a block quote from them here? Ref 492849-4298-925820-598259
 
+* @todo - p1 (x) - Consider the mini video of Michael - about post-its and bottom up - within the context of Not so radical focus - https://vimeo.com/188846225 . Ref [^footnote_michaeldearing_realdoing_postits] / Ref 482748-492849-409284-42084209
+
 ## Reviews external
 
 * ( ) Approval review - with John Lilly - if the story of UI firefox can be depicted as I did in 090_saying_thanks_reflections.txt. / f47ac10b-58cc-4372-a567-0e02b2c3d479
