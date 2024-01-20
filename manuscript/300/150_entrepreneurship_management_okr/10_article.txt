@@ -126,33 +126,29 @@ We will begin by analyzing why OKRs start with the premise that objectives shoul
 
 <!-- 
 @meta @outline 
-* Outline - Answer k1.1 - Situation / complication - The dichotomy is there, and is a point to reflect. What OKR tells about that? 
---> 
-
-We follow on with OKR, Objectives and Key Results, as indicated. However, and in alignment with the concerns of the Basecamp founders, we are respecting the dichotomy that although on one hand supports strong goals, as in bold and ambitious goals that are purposeful, on the other hand people enter into their activities with initial state of support or agreement with these goals, but eventually find states of anxiety that brings them into lower performance, to be frustrated, to encounter a critic that punishes them - being from the inner self or peers, and to bring about the impossibility of making the goal happen which means the impossiblity of being engaged. 
-
-<!-- 
-@meta @outline 
+* Outline - Answer k1.0 - Situation - The dichotomy is there, top-down goals can be hard, so hard. And some can be creative to come up and do, others don't. 
 * Outline - Answer k1.1 - Question / answer - Destroying that old top-down was required, but it does not mean to be arbitrary, OKR deals with that. 
 --> 
 
-Through that we will briefly reflect on the historical construction of the top-down goals that so harshly come upon us, but acknowledge how OKR goes along with the changes by our times to open up the discussion that otherwise with doing nothing it just make us so mad, so anxious, and frustrated, under the inagility of the rigid situation. 
+We follow on with OKR, Objectives and Key Results, as indicated, but also in alignment with the concerns of the Basecamp founders - where the presence of strong goals, as in bold and ambitious goals that are purposeful, may push people into a state of anxiety that brings them into lower performance, to be frustrated, to encounter a critic that punishes them - being from the inner self or peers, and to bring about the impossibility of making the goal happen which means the impossiblity of being engaged. Through that we will briefly reflect on the historical construction of the top-down goals that so harshly come upon us, but acknowledge how OKR goes along with the changes by our times to open up the discussion that otherwise with doing nothing it just make us so mad, so anxious, and frustrated, under the inagility of the rigid situation. 
+
+
+
+
 
 <!-- 
 @meta @outline 
 * Outline - Answer k1.1 - How top-down matters? 
 --> 
 
-
-
-
-
 <!-- 
 @meta @outline 
 * Outline - answer k1.1.1 - Origins of top-down, good and bad [feat. Peter Drucker, feat. Stepher Covey, feat. Kris Duggan] 
 --> 
 
-Why is it that in many work situations, like when a young employee enters an existing organization, the top-down impact is so impactful, or it appears to be? Is this a heritage of the hierarchical harshness and rigidness of the old days where the outcome was told by the masters and effort would be the main expectation? But then, when many of us become founders and are able to invite others, we seem in a way or another - although not in the ancient brutal ways - exercise a form or another of a top-down expectations which may minimally start with the very hiring moment. 
+Why is it that when a young enters an existing organization they find a top-down impact that is so impactful to their lives as contributors? And I don't mean impactful as seen through the outcome-oriented pupils of them self-called executives that mostly deploy - their precious - top-down goals. But impactful to the this doer in ways that bring tears from her eyes and drains her creative potential if not her health as a whole. Is that a heritage of the harsh and rigid bad old days where outcome were all that matters - as told by them self called masters - and where people weren't much more than a effort-deploying units that happens to walk and talk? With that, naturally, the modern young doer and inner worker is likely to be conspiring a revolt with that managerial style. But sadly that revolt does't come out properly, or even with a proper reflection, as we don't have time for that too. It comes as that increased anxiety and it brings  frustrations. And moreover, and sadly, has the power to set us to deny, or at minimum to be not excited with, much about what management has leaned and told us in subject of managing progress with goals. 
+
+But then, when many of us become founders and are able to invite others, we seem in a way or another - although not in the ancient brutal ways - exercise a form or another of a top-down expectations which may minimally start with the very hiring moment. 
 
 If we hold the position that a longer plan is valid and meaningful, it may be so because goals are important. This view recognizes that people get to do things because of their connection with what has to be done. This also aligns with the startup situation where there is a prior movement exists before getting things ready, before action, such as the precursor movement from inspiration, from having a viewpoint about something that needs to be changed. In other words, it may be overlooked that a strong objective exists. 
 
