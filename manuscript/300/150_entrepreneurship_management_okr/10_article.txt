@@ -95,7 +95,7 @@ And through that viewpoint, we will move on not like a playbook, or a set of rul
 
 But we will use OKR - one popular framework being used by high-growth organizations - as a guide to an actual conversation, a reflection. With that, we aren't pressured to keep thinking of matching the elements of the framework for the situations of our startup; but in fact reflecting on the actual fundamental challenges and checking if the framework recognizes them and if the ongoing conversations about the framework discusses them. Using OKR as a guide is here first because it is popular because it's being used effectively, because it's being misused, because like many of the modern "solutions in the hypermarket of entrepreneurship," people can sometimes pick it quickly and start to use it just like their organize their efforts, under pressure, under anxiety, which sets them to be quite frustrated.
 
-We will begin by analyzing why OKRs start with the premise that objectives should be strong, ambitious, and possibly long-term. This includes recognizing the potential problems of this approach, questioning whether it makes sense to start there, and how discussions about OKRs deal with the probable lack of flexibility. Following this, we will examine whether OKRs offer elements that assist in course correction in a healthy manner, given that the nature of entrepreneurship involves uncertain paths and the pursuit of innovation that requires learning. Finally, we will consider complications and confusions that exist and are part of the broader discussion, such as problems where the measurement and judgment of progress end up influencing execution; and how to deal with a measurement and judgment approach that is not so radical, and that actually helps the team operate better.
+We will begin by analyzing why OKRs starts with the premise that objectives should be strong, ambitious, and possibly long-term. This includes recognizing the potential problems of this approach, questioning whether it makes sense to start there, and how discussions about OKRs deal with the probable lack of flexibility. Following this, we will examine whether OKRs offer elements that assist in course correction in a healthy manner, given that the nature of entrepreneurship involves uncertain paths and the pursuit of innovation that requires learning. Finally, we will consider complications and confusions that exist and are part of the broader discussion, such as problems where the measurement and judgment of progress end up influencing execution; and how to deal with a measurement and judgment approach that is not so radical, and that actually helps the team operate better.
 
 
 
@@ -126,15 +126,14 @@ We will begin by analyzing why OKRs start with the premise that objectives shoul
 
 <!-- 
 @meta @outline 
-* Outline - Answer k1.0 - Situation - The dichotomy is there, top-down goals can be hard, so hard. And some can be creative to come up and do, others don't. 
-* Outline - Answer k1.1 - Question / answer - Destroying that old top-down was required, but it does not mean to be arbitrary, OKR deals with that. 
+* Outline - Answer k1.0.1 - Situation - Recognizes that strong and bold goals persists; Recognizes that people are trying to learn and growth. 
+* Outline - Answer k1.0.2 - Complication - Recognizes anxiety and managerial dismiss. 
+* Outline - Answer k1.0.3 - Question / answer - OKR helps us to keep the perspectives alive. 
 --> 
 
-We follow on with OKR, Objectives and Key Results, as indicated, but also in alignment with the concerns of the Basecamp founders - where the presence of strong goals, as in bold and ambitious goals that are purposeful, may push people into a state of anxiety that brings them into lower performance, to be frustrated, to encounter a critic that punishes them - being from the inner self or peers, and to bring about the impossibility of making the goal happen which means the impossiblity of being engaged. Through that we will briefly reflect on the historical construction of the top-down goals that so harshly come upon us, but acknowledge how OKR goes along with the changes by our times to open up the discussion that otherwise with doing nothing it just make us so mad, so anxious, and frustrated, under the inagility of the rigid situation. 
+We shall then proceed to understand why it is that the idea of ambitious goals - such as strong and purposeful goals that are initially good - are so persisting, and as well without disconnecting from the concern from the Basecamp founders about that state of anxiety that not only harms the actual doers but also brings up the state of lower performance to the organization. 
 
-
-
-
+To reflect on that, we will briefly look at the historical perspective about goal-setting and management of goals and how the urgencies of its execution sets the very top-down goals that oftenly appears harshly upon us. With that, we will contrast with the other side, the bottoms-up reality of the doers which also requires the management of the self as we are trying to figure our contribution in a setting such as a team or a unit of work. With these two perspectives, we will introduce OKR although in alignment with our strategy which is less of a playbook and more intended to poke into the OKR conversation to see how it deals with these perspectives. 
 
 <!-- 
 @meta @outline 
