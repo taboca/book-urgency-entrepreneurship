@@ -1,3 +1,60 @@
+## Outline v0.7 
+
+* @meta-ref-worklog - 4824928-402842-402840-4082042
+
+* Strategy - The getting things done, even done by chance, starts to show that doing things is not getting things done. 
+* Outline - Introduction - Leading pitch - Gettings done exists, we know. But also we know it is not to do arbitrary. We get involved with that anyway, concerned with. 
+* Outline - Introduction - #SCqA - Situation - We are concerned with productivity and even give management of objectives under the need of being productive. 
+* Outline - Introduction - #SCqA - Complication - We doubt, w defer, and when we check, it seems too much. 
+* Outline - Introduction - #SCqA - Question Answer - Introduction - #SCqA - Question Answer - Dilemma of alraey being involved with productivity and provooked to not dive as the methods for orientation to goals seem to not fit, too complex, can be deferred. @meta-refid 875-834-923-933
+
+* --------------
+
+* Outline - Answer k1 - Can goal-setting survive? 
+* Outline - Answer k1.0 - Situation - The dichotomy is there, and is a point to reflect. What OKR tells about that? 
+
+* Outline - Answer k1.1 - Situation / complication - The dichotomy is there, and is a point to reflect. What OKR tells about that? 
+* Outline - Answer k1.1 - Question / answer - Destroying that old top-down was required, but it does not mean to be arbitrary, OKR deals with that. 
+
+* Outline - answer k1.1 - Why top-down matters? 
+* Outline - answer k1.1.1 - Origins of top-down, good and bad [feat. Peter Drucker, feat. Stepher Covey, feat. Kris Duggan] 
+* Outline - answer k1.1.2 - Introduce OKR as the continuation to the discussion that adapts to our days, it was tested at google, and have good origins. 
+* Outline - answer k1.1.2.1 - OKR supports top-down how? 
+* Outline - answer k1.1.2.2 - OKR reflects on risks? 
+
+* Outline - answer k1.2 - What should me contribution be? 
+
+* --------------
+
+* Outline - Answer k2 - OKR analysis for Course-correction, failure, and opportunity 
+* Outline - Answer k2.0.2 - intro - complication - 
+* Outline - Answer k2.0.2 - intro - question - 
+* Outline - Answer k2.0.2 - intro - answer - 
+* Outline - Answer k2.1 - Collaboration aspect of OKR - transparency of key results 
+* Outline - Answer k2.1.1 - Collaboration aspect of OKR  - and case of a book writing 
+* Outline - Answer k2.1.2 - Course correct - internal market starts with honesty and transparency
+* Outline - Answer k2.2. - Course correct - Allowing the editor-critic 
+* Outline - Answer k2.2. - Course correct - Allowing the editor-critic - complication - 
+* Outline - Answer k2.3. - Course correct - Reinventing recyling - answer - allowance to review "hundreds of time" is the very test of support and alloance to talk about  
+
+* Outline - Answer k2.1 - Revisiting top-down goals through collaboration
+* Outline - Answer k2.1.1 - Illustration of collaboration for a book writing 
+* Outline - Answer k2.1.2 - If you can't see you can't change the course  
+
+* --------------
+
+* Outline - Answer k3 - Outcome vs. output battle - Intro - pitch 
+* Outline - Answer k3 - Outcome vs. output battle - Intro - Situation  
+* Outline - Answer k3 - Outcome vs. output battle - Intro - Complication - Being arbitrary in terms of key results doesn't add transparency level to what is going on, and can even lead to abuse. What to do? What is going on?  
+
+* Outline - Answer k3 - Outcome vs. output battle - Intro - Answer - 
+* Outline - Answer k3.1 - Outcome vs. output battle - answer - Underlying concept of project logic 
+* outline - Answer k3.2 - Outcome vs. output battle - answer - Thesis for output as the window - Andy Grove and also MWM coursera course. 
+* outline - Answer k3.3 - Outcome vs. output battle - answer - maturity models
+* outline - Answer k3.3 - Outcome vs. output battle - answer - maturity models - effort vs. outcome
+* outline - Answer k3.3.2 - Outcome vs. output battle - answer - maturity models - effort vs. outcome - resetting junior
+* outline - Answer k3.3.3 - Outcome vs. output battle - answer - maturity models - effort vs. outcome - rupture
+
 ## Outline v0.6 
 
 * Strategy - The getting things done, even done by chance, starts to show that doing things is not getting things done. 

@@ -9,6 +9,15 @@ When the entrepreneurial function happens to creatively destroy the old and chan
 
 [^footnote_schumpeter_entrepreneur_gettingthingsdone]: Joseph Schumpeter (2008), the renowned  Austrian-American economist and political scientist known for his theories on economic development and business cycles, in "Capitalism, Socialism, and Democracy," emphasizes the characterization of "getting things done" (p. 132) as an essential element of the entrepreneurial function. He argues this aspect is even more crucial than others, such as the entrepreneur's ability to invent new things or create conditions for the enterprise to thrive. 
 
+
+
+
+
+<!-- 
+@meta @outline 
+* Outline - Introduction - #SCqA - Situation - We are concerned with productivity and even give management of objectives under the need of being productive. 
+--> 
+
 Now, if we focus in the startup situation, the theme of management by objectives is likely to appear not only to respond to these internal needs do things productively but because the growth needs adds complexity - more people and more viewpoints and more differences and therefore more necessary to get involved with figuring how each one can contribute. This notion was confirmed by a survey conducted by Michael Dearing - of Harrison Metal - where he asked about 250 top workers of high-growth organizations, and confirmed that they value the clarity of communications in terms of goals and for how to get there, in addition to their confirmation for how this reflects their perception about the quality of management [^foonote_michaeldearing_clearobjectives]. 
 
 [^foonote_michaeldearing_clearobjectives]: Michael Dearing discusses the importance of understanding top priorities in high-growth companies in his course 'Self Study GM2: Setting Objectives & Measuring Performance.' In this course, Dearing surveyed 250 people working in high-growth companies about the clarity of top priorities and the quality of team management. He found that 70% of respondents confirmed that understanding top priorities was extremely important. Source: Dearing, M. (n.d.). Self Study GM2: Setting Objectives & Measuring Performance. Harrison Metal. Retrieved January 18, 2024, from https://www.harrisonmetal.com/classes/gm2-setting-goals-measuring-performance/lessons/magic-of-okrs.
@@ -19,11 +28,6 @@ Now, if we focus in the startup situation, the theme of management by objectives
 @meta @references
 * Reference - Schumpeter, J. A. (2008). Capitalism, socialism, and democracy. Harper Perennial Modern Thought. (Original work published 1942)
 -->
-
-<!-- 
-@meta @outline 
-* Outline - Introduction - #SCqA - Complication - We doubt, w defer, and when we check, it seems too much. 
---> 
 
 Now, if looking to that horizon rings a bell for what is ahead it isn't entirely enough for early doers to - let me put it that way - be distracted from the actual challenges of the day which may feel like "jumping off a cliff trying to assemble an airplane on their way down," [^footnote_reidhoffman_airplane_cliff] as vividly said by Reid Hoffman. In other words, the actual call we make to ground control sets us in what is major - to do what needs to be done first and then, afterwards, come back to organize things such as sorting out post-its as part of the reflection [^footnote_michaeldearing_realdoing_postits] and organizational work. 
 
@@ -43,6 +47,10 @@ Now, if looking to that horizon rings a bell for what is ahead it isn't entirely
 @meta @references
 * reference - Harrison Metal. (2016, October 25). Objectives & Key Results [Video]. Vimeo. https://vimeo.com/188846225
 --> 
+
+
+
+
 
 
 <!-- 
@@ -70,6 +78,10 @@ Furthermore they give us a good supporting point for how to be driven by an orie
 * Reference - Fried, J., & Hansson, D. H. (2018). It doesn't have to be crazy at work. HarperCollins.
 --> 
 
+
+
+
+
 <!-- 
 @meta @outline 
 * Outline - Introduction - #SCqA - Question Answer - Introduction - #SCqA - Question Answer - Dilemma of alraey being involved with productivity and provooked to not dive as the methods for orientation to goals seem to not fit, too complex, can be deferred. @meta-refid 875-834-923-933
@@ -85,6 +97,26 @@ But we will use OKR - one popular framework being used by high-growth organizati
 
 We will begin by analyzing why OKRs start with the premise that objectives should be strong, ambitious, and possibly long-term. This includes recognizing the potential problems of this approach, questioning whether it makes sense to start there, and how discussions about OKRs deal with the probable lack of flexibility. Following this, we will examine whether OKRs offer elements that assist in course correction in a healthy manner, given that the nature of entrepreneurship involves uncertain paths and the pursuit of innovation that requires learning. Finally, we will consider complications and confusions that exist and are part of the broader discussion, such as problems where the measurement and judgment of progress end up influencing execution; and how to deal with a measurement and judgment approach that is not so radical, and that actually helps the team operate better.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- 
 @meta @outline 
 * Outline - Answer k1 - Can goal setting survive?  
@@ -92,57 +124,137 @@ We will begin by analyzing why OKRs start with the premise that objectives shoul
 
 ## Can goal-setting survive?  
 
-<!--
-@meta @todo 
-* @todo - p2 ( ) - Add Stephen points, from 7-habits book, about the historical development of goals and priorization theory; which may also connect with the points from Kris Kris Duggan https://www.heavybit.com/library/video/using-okrs-to-drive-results-aka-secrets-to-crushing-your-goals @meta-refid 20489-429084-42084-40284
-
-In other words, startup teams are inevitably called to join conversation about goal-setting and progressing with goals happens; the conversation that is quite old and always evolving [^footnote_stephencovey_priorities] such as OKR - objectives and key results aka management by objectives - which is a framework that is popular and well-used among high-growth organizations. 
-
-[^footnote_stephencovey_priorities]: 
-
+<!-- 
+@meta @outline 
+* Outline - Answer k1.1 - Situation / complication - The dichotomy is there, and is a point to reflect. What OKR tells about that? 
 --> 
+
+We follow on with OKR, Objectives and Key Results, as indicated. However, and in alignment with the concerns of the Basecamp founders, we are respecting the dichotomy that although on one hand supports strong goals, as in bold and ambitious goals that are purposeful, on the other hand people enter into their activities with initial state of support or agreement with these goals, but eventually find states of anxiety that brings them into lower performance, to be frustrated, to encounter a critic that punishes them - being from the inner self or peers, and to bring about the impossibility of making the goal happen which means the impossiblity of being engaged. 
+
+<!-- 
+@meta @outline 
+* Outline - Answer k1.1 - Question / answer - Destroying that old top-down was required, but it does not mean to be arbitrary, OKR deals with that. 
+--> 
+
+Through that we will briefly reflect on the historical construction of the top-down goals that so harshly come upon us, but acknowledge how OKR goes along with the changes by our times to open up the discussion that otherwise with doing nothing it just make us so mad, so anxious, and frustrated, under the inagility of the rigid situation. 
 
 <!-- 
 @meta @outline 
 * Outline - Answer k1.1 - How top-down matters? 
 --> 
 
-Let us consider if the notion of the longer plan can apply and what should be the degree of flexibility in which may align with the notions given by the Basecamp founders. If we hold the position that a longer plan is valid and meaningful, it may be so because goals are important. This view recognizes that people get to do things because of their connection with what has to be done. This also aligns with the startup situation where there is a prior movement exists before getting things ready, before action, such as the precursor movement from inspiration, from having a viewpoint about something that needs to be changed. In other words, it may be overlooked that a strong objective exists. 
 
-Now, if we consider OKR - a method and framework (check) for getting things done, the concern of Basecamp founders might be a guiding opportunity to actualy understand the nuances of it, which would even perhaps give us the opportunity for a nuanced interpretation about if top-down goals matters and how to deal with the necessity of change along the way. 
+
+
+
+<!-- 
+@meta @outline 
+* Outline - answer k1.1.1 - Origins of top-down, good and bad [feat. Peter Drucker, feat. Stepher Covey, feat. Kris Duggan] 
+--> 
+
+Why is it that in many work situations, like when a young employee enters an existing organization, the top-down impact is so impactful, or it appears to be? Is this a heritage of the hierarchical harshness and rigidness of the old days where the outcome was told by the masters and effort would be the main expectation? But then, when many of us become founders and are able to invite others, we seem in a way or another - although not in the ancient brutal ways - exercise a form or another of a top-down expectations which may minimally start with the very hiring moment. 
+
+If we hold the position that a longer plan is valid and meaningful, it may be so because goals are important. This view recognizes that people get to do things because of their connection with what has to be done. This also aligns with the startup situation where there is a prior movement exists before getting things ready, before action, such as the precursor movement from inspiration, from having a viewpoint about something that needs to be changed. In other words, it may be overlooked that a strong objective exists. 
+
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Not so Radical Focus - Should the points about Stephen Covey, from 7-habits book, about the historical development of goals and priorization theory; be brought in this article, such as within the "how top-down matters", along with the historical perspective given by from Kris Kris Duggan https://www.heavybit.com/library/video/using-okrs-to-drive-results-aka-secrets-to-crushing-your-goals @meta-refid 20489-429084-42084-40284
+* Prior context or connecting point? - In other words, startup teams are inevitably called to join conversation about goal-setting and progressing with goals happens; the conversation that is quite old and always evolving [^footnote_stephencovey_priorities] such as OKR - objectives and key results aka management by objectives - which is a framework that is popular and well-used among high-growth organizations. 
+[^footnote_stephencovey_priorities]: 
+--> 
+
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Not so Radical Focus - Peter Drucker wrote something about top-down in the Managing Oneself where he brings back the historical context. By the way this line of thinking where Peter starts with the old seems to be quite evident as also shown in "Tecnologia, Adminstração e Sociedade". - @meta-refid 20489-284784-927494-40284
+--> 
+
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Not so Radical Focus - Peter Drucker wrote something about top-down in the Managing Oneself where he brings back the historical context. A supporting point, so that the reader reflects on the full denial of the top-down under the impression that free is good may align with what Peter Drucker may have said in the "managing oneself" and also  I recall that Jonathan or Melissa said it too in some article in the HFIYM book. 
+ - @meta-refid 49284982-284784-927494-4204820
+--> 
+
+
+
+
+
+
+
+
+
+
+<!-- 
+@meta @outline 
+* Outline - answer k1.1.2 - Introduce OKR as the continuation to the discussion that adapts to our days, it was tested at google, and have good origins. 
+--> 
+
+And here we have a good reason to introduce ourselves to OKR - because OKR is the evolution of that conversation - as in the continuation - of goal setting in the work place that had to face changes, to be creatively reinvented. And, of course, all of that goes with the situation of work that changes with us. 
 
 <!--
 @meta @todo
 * @todo p2 ( ) - In Not So Radical Focus - Check if OKR is a method or framework / ref 49284-492849-492849-942894 
 --> 
 
-And if this is not yet of a reason for having the objective written down, we should also do so because the challenge for startups also involve changing the objective. The opportunities are in fact discovered through the learning and through the progress.
+* Now, if we consider OKR - a method and framework (check) for getting things done, the concern of Basecamp founders might be a guiding opportunity to actualy understand the nuances of it, which would even perhaps give us the opportunity for a nuanced interpretation about if top-down goals matters and how to deal with the necessity of change along the way. 
 
-But a point from there, a warning of caution, from writing it down these ambitious and meaningful goals, was indicated in the course, Coursera from Measure What Matters: They have stated the quote from John Doerr: "In Measure What Matters, John Doerr says, "The more ambitious the OKR, the greater the risk of overlooking a vital criterion. ""  
-
-<!--
-@meta @todo 
-
-* @todo p2 ( ) - In Not so Radical Focus - Check the quote from Measure What Matters coursera course, which is private, so we may need to go dig for the actual quote from the Measure What Matters book - Ref from Coursera is: "In Measure What Matters, John Doerr says, "The more ambitious the OKR, the greater the risk of overlooking a vital criterion. "". @refid-whatsapp 23479 @refid 3298-9484-8483-9943 
-
-* @todo p2 ( ) - In Not so Radical Focus - Check the high level point from the Measure What Matters folks, John and also Andy, in alignment with what was said in the Coursera course from What Matters which referenced Andy Grove on the importance of pairing indicators - "both effect and counter-effect." . Check the page from Andy's book which maybe have to do with the pages indicated by the course of Michael Dearing. @refid-whatsapp 23479 @refid 3298-9484-8483-9943
---> 
-
-One of the resources to this reflection comes from a key book that has championed the idea of aligning and engaging teams around measurable goals. In the book entitled *Measure What Matters*, John Doerr [^footnote_johndoerr_okr] continued his saga to popularize a framework - known as OKR - that has helped him and his teams to innovate with goals.
+* One of the resources to this reflection comes from a key book that has championed the idea of aligning and engaging teams around measurable goals. In the book entitled *Measure What Matters*, John Doerr [^footnote_johndoerr_okr] continued his saga to popularize a framework - known as OKR - that has helped him and his teams to innovate with goals.
 
 [^footnote_johndoerr_okr]: John Doerr, a renowned venture capitalist, has been a vocal advocate for the framework of Objectives and Key Results (OKRs) which he discusses in his book *Measure What Matters*. He learned much about this methodology directly from Andy Grove during his time at Intel. 
 
-OKR, which stands for objectives and key resources, is a framework that provoke us to question if goals are strict or not and if it should be defined as long-term goals. As we hear, as we listen, as we read the details, these things that sometimes sound different might show a lot of similarities and good intentions. Therefore, and to be clear on our way of inquiry and our reflective moment, consider that we will seek less the "or" and will stick with the "and" for all the good things they have to give us. 
+* OKR, which stands for objectives and key resources, is a framework that provoke us to question if goals are strict or not and if it should be defined as long-term goals. As we hear, as we listen, as we read the details, these things that sometimes sound different might show a lot of similarities and good intentions. Therefore, and to be clear on our way of inquiry and our reflective moment, consider that we will seek less the "or" and will stick with the "and" for all the good things they have to give us. 
 
-Let's consider Objectives and Key Results, from a general perspective. Does it require a main goal to exist? One such as a driving goal of 2 years? Yes, it is a way to go. It can and, according to the practitioners promoting it, it should. In terms having a defined goal ahead, John Doerr wrote it straight: 
+
+
+
+
+
+
+<!-- 
+@meta @outline 
+* Outline - answer k1.1.2.1 - OKR supports top-down how? 
+--> 
+
+
+
+* Let's consider Objectives and Key Results, from a general perspective. Does it require a main goal to exist? One such as a driving goal of 2 years? Yes, it is a way to go. It can and, according to the practitioners promoting it, it should. In terms having a defined goal ahead, John Doerr wrote it straight: 
 
 > *"An effective goal setting system starts with disciplined thinking at the top, with leaders who invest the time and energy to choose what counts."* (Doerr, J., 2018, p. 50)
 
-But a quick reading of that likely suggest an idea of a sort of visionary and disciplined being that knows. While when digging for the nuances, the leadership effort of goal-setting which they talk about has more to do with an initial effort of modelling goals with clarity: 
+* But a quick reading of that likely suggest an idea of a sort of visionary and disciplined being that knows. While when digging for the nuances, the leadership effort of goal-setting which they talk about has more to do with an initial effort of modelling goals with clarity: 
 
 > *"Leaders must get across the *why* as much as the *what*. Their people need more than milestones for motivation. They are thirsting for meaning, to understand how their goals relate to the mission."* (Doerr, J., 2018, p. 50)
 
-And it makes sense, doesn't it? For a solo founder, a team just starting, and for the big ones. Consider, for example, the life of one that feels motivated enough to do something, to put their hands, to work. It is natural that people enter to work in projects as they have goals, such as goals that are bold, such as goals that asks for people to work towards them. It also makes sense that people join goals to be part of something, such as for the cause of aiming for a different world when things come true.
+* And it makes sense, doesn't it? For a solo founder, a team just starting, and for the big ones. Consider, for example, the life of one that feels motivated enough to do something, to put their hands, to work. It is natural that people enter to work in projects as they have goals, such as goals that are bold, such as goals that asks for people to work towards them. It also makes sense that people join goals to be part of something, such as for the cause of aiming for a different world when things come true.
+
+
+
+<!-- 
+@meta @outline 
+* Outline - answer k1.1.2.2 - OKR reflects on risks? 
+--> 
+
+* But a point from there, a warning of caution, from writing it down these ambitious and meaningful goals, was indicated in the course, Coursera from Measure What Matters: They have stated the quote from John Doerr: "In Measure What Matters, John Doerr says, "The more ambitious the OKR, the greater the risk of overlooking a vital criterion. ""  
+
+<!--
+@meta @todo 
+* @todo p2 ( ) - In Not so Radical Focus - Check the quote from Measure What Matters coursera course, which is private, so we may need to go dig for the actual quote from the Measure What Matters book - Ref from Coursera is: "In Measure What Matters, John Doerr says, "The more ambitious the OKR, the greater the risk of overlooking a vital criterion. "". @refid-whatsapp 23479 @refid 3298-9484-8483-9943 
+--> 
+
+
+<!--
+@meta @todo 
+* @todo p2 ( ) - In Not so Radical Focus - Check the high level point from the Measure What Matters folks, John and also Andy, in alignment with what was said in the Coursera course from What Matters which referenced Andy Grove on the importance of pairing indicators - "both effect and counter-effect." . Check the page from Andy's book which maybe have to do with the pages indicated by the course of Michael Dearing. @refid-whatsapp 23479 @refid 3298-9484-8483-9943
+--> 
+
+
+
+
+
+
+
+
+
+
 
 <!-- 
 @meta @outline 
@@ -174,11 +286,35 @@ We should account here that John Doerr is known as the evangelist of OKR as a fr
 
 > *"What should my contribution be? To answer it, it must address three distinct elements. What does the situation require? Given my strenghts, my way of performing, and my values, how can I make the greatest contribution to what needs to be done? And finally, What results have to be achieved to make a difference."* (Drucker, Peter. 2008. pp. 35)
 
+<!-- 
+@meta @references 
+* reference - Drucker, P. (2008). Managing Oneself. Harvard Business School Press. pp. 53-54. 
+--> 
+
 Thus it is uncommon for people to join projects, with causes and goals, as they know that their strenghts can be used for the situation that needs to be changed. And, as they feel that they can do something. Likewise, the structure of a goal-setting project, such as one having a clear documentation and expected results to favor the goal, is likely used by founders as they have to communicate round and improve their chances towards success.
 
 Therefore, it is not unwise to notice how we gravitate towards having a plan, an outcome ahead, and even a 2-year plan, as a key element that may put us in a position to solve what is needed to be solved. Plus there seesm to exist an alignment with the too many stories, as told, that we have seen, and read, and watched, and continue to witness; the too many examples of people that told that they were doing something as in to change the world and they did. Plus, if one feels that goal-setting in the corporate is more like a storytelling that fails, with lots of traps (and it does have), and as they dig, they will find an entire field of research related to goal-setting. But if we dig, it is undeniable that out of goal-setting, and after goal-setting, we can find that the reason for the whole field has to do with how we react, how we fix ourselves, as we go. We can't deny that the environment created by a goal-setting system has the good intention to shape us towards progress, even when progress is yet to be discovered in the innovation space. 
 
 There is the minimal unit of work for a goal which means "working for a goal" and can and should be honored. This is about showing up. Of course, no one wants to show up in ways that we burn resources but the very showing up and considering the best way possible, should then set us to discover the how should I contribute that is better, which is a good opening to the next section. This openning, that avoids the arbitrary movement, starts with having more time such as time to reflect. If you use your scarce resources, if you split time, you are making things harder in a way. And if you use wisely this time crack which takes the time you are doing - such as in arbitrary ways - you are then reflecting. And if you are doing so and considering how to do better, then you are acknowleding the possible better use of time. Thus goals vs. how should I contribute is a good start, a frame of reference, such as to set us in the direction of the next section. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- 
 @meta @outline 
@@ -305,12 +441,28 @@ With a cadence for evaluating what is being done, with allowance for reviewing w
 
 The effort of redoing the OKR hundreds of times, is for the sake of being open. Now, in this regard, a question that comes is if OKR does not allow room for bottom-up contributions that affects the top-down. Part of it I have covered, the conversation is there. But the cycle for reviewing all the top down plan exists too and bottom-up contributions is recognized as key. In other words, the approach needs and depends on the confrontation of the what we want to do with the what is happening. Of course, the cadence for that sort of strategic planning work might have a cadence, needs a cadence applicable to the organization.
 
-## Outcome vs. Output War and Peace 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 @meta @outline
 * Outline - Answer k3 - Outcome vs. output battle - Intro - pitch 
 --> 
+
+## Outcome vs. Output War and Peace 
+
 
 There are situations that people enter the OKR train is valid, as it stops beautifully on time in the station. It’s a trip with a goal, such as to learn and use OKR in the best way possible. But then we enter in it, the wagon starts smooth and the scenery is beautiful, it’s unbelievable and the roadmap seem to make sense with scenes around. But then, give it some time and housing passing by. Suddenly the lights of the train blinks arbitrarily and we hear something craking as the speed of the train increases fast. A yellow light fades under the seat and people start to be worried. Next stop, unknown, the train enters a tunel, the heater stops working, and it goes on for another 2 hours with the speed increasing. What is next will blow your mind. You can't go back to revisit the trip. You are on it and it is going of the tracks. This is where you start to lose faith in your OKR trip and your training. 
 
