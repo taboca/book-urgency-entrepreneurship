@@ -11,10 +11,9 @@
 * --------------
 
 * Outline - Answer k1 - Can goal-setting survive? 
-* Outline - Answer k1.0 - Situation - The dichotomy is there, top-down goals can be hard, so hard. And some can be creative to come up and do, others don't. 
-
-* Outline - Answer k1.1 - Situation / complication - The dichotomy is there, and is a point to reflect. What OKR tells about that? 
-* Outline - Answer k1.1 - Question / answer - Destroying that old top-down was required, but it does not mean to be arbitrary, OKR deals with that. 
+* Outline - Answer k1.0.1 - Situation - Recognizes that strong and bold goals persists; Recognizes that people are trying to learn and growth. 
+* Outline - Answer k1.0.2 - Complication - Recognizes anxiety and managerial dismiss. 
+* Outline - Answer k1.0.3 - Question / answer - OKR helps us to keep the perspectives alive. 
 
 * Outline - answer k1.1 - Why top-down matters? 
 * Outline - answer k1.1.1 - Origins of top-down, good and bad [feat. Peter Drucker, feat. Stepher Covey, feat. Kris Duggan] 

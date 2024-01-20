@@ -128,7 +128,7 @@ We will begin by analyzing why OKRs starts with the premise that objectives shou
 @meta @outline 
 * Outline - Answer k1.0.1 - Situation - Recognizes that strong and bold goals persists; Recognizes that people are trying to learn and growth. 
 * Outline - Answer k1.0.2 - Complication - Recognizes anxiety and managerial dismiss. 
-* Outline - Answer k1.0.3 - Question / answer - OKR helps us to keep the perspectives alive. 
+* Outline - Answer k1.0.3 - Question / answer - Perspective one, perspective two, and OKR helps us to keep the perspectives alive. 
 --> 
 
 We shall then proceed to understand why it is that the idea of ambitious goals - such as strong and purposeful goals that are initially good - are so persisting, and as well without disconnecting from the concern from the Basecamp founders about that state of anxiety that not only harms the actual doers but also brings up the state of lower performance to the organization. 
@@ -142,7 +142,9 @@ To reflect on that, we will briefly look at the historical perspective about goa
 
 <!-- 
 @meta @outline 
-* Outline - answer k1.1.1 - Origins of top-down, good and bad [feat. Peter Drucker, feat. Stepher Covey, feat. Kris Duggan] 
+* Outline - answer k1.1.0 - Situation/Complication - Top-down appears harsh on us, anxiety; that has origins, of course, like master. Good or bad, brought us here, and some of that persists. Complication - Doers and the young is provoked to deny. 
+* Outline - answer k1.1.1 - Answer - Historical macro [feat. Stepher Covey, feat. Kris Duggan]. 
+* Outline - answer k1.1.2 - Answer - Potential denial [feat. Peter Drucker, feat. Nightingale] 
 --> 
 
 Why is it that when a young enters an existing organization they find a top-down impact that is so impactful to their lives as contributors? And I don't mean impactful as seen through the outcome-oriented pupils of them self-called executives that mostly deploy - their precious - top-down goals. But impactful to the this doer in ways that bring tears from her eyes and drains her creative potential if not her health as a whole. Is that a heritage of the harsh and rigid bad old days where outcome were all that matters - as told by them self called masters - and where people weren't much more than a effort-deploying units that happens to walk and talk? 
