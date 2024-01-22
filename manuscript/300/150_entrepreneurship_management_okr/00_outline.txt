@@ -17,10 +17,11 @@
 * Outline - answer k1.1 - Why top-down matters? 
 * Outline - answer k1.1.1 - Origins of top-down, good and bad [feat. Peter Drucker, feat. Stepher Covey, feat. Kris Duggan] 
 * Outline - answer k1.1.2 - Introduce OKR as the continuation to the discussion that adapts to our days, it was tested at google, and have good origins, like top-down that has to be smart to the new winds. 
+
 * Outline - answer k1.1.2.1 - OKR supports top-down how? 
 * Outline - answer k1.1.2.3 - OKR reflects on risks? 
 
-* Outline - answer k1.2 - What should me contribution be? 
+* Outline - Answer k1.2 - Goals might be inherently part of - the contribution   
 
 * --------------
 

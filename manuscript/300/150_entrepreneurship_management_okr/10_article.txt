@@ -156,7 +156,7 @@ Let us then briefly cover the historical perspective about goal-setting and mana
 
 
 
-
+#### The persistence and evolution of the top-down 
 
 <!-- 
 @meta @outline 
@@ -194,7 +194,7 @@ What appeas from the historical perspective, the flight from above, is that the 
 
 
 
-
+#### OKR is an ongoing conversation 
 
 
 <!-- 
@@ -232,7 +232,7 @@ With that said, the construction of OKR through the days of Andy Grove had to fa
 
 <!-- 
 @meta @outline 
-* Outline - answer k1.1.2.1 - OKR supports top-down how? 
+* Outline - answer k1.1.2.1 - Top-down of OKR is not ignorant to learning  
 --> 
 
 These ilustrations, of the hard days of these managers, are good for us to have a sense of the how OKR happened to be constructed. Can a company that is in high-growth, and strong, that needs to set goals and expectations to its workers, keep a system that enables them to not follow so blindly? In other words, OKR starts yes with the top-down goals and expectations, it wants it to be real and meangful - and it is okay with the driving goal of 2 years. But equaly balanced is the view that is bundle within - that without it one would read the following like a super strict and harsh reason to be disciplined with the goals as in written in stone; but not, the nuanced view there is more: 
@@ -254,6 +254,8 @@ Consider the concern of the OKR crew, pointed from the Coursera from Measure Wha
 --> 
 
 There is nothing in OKR, to summarize this notion and call to keep the top-down alive, that wants to set the whole ship to miss understanding of what is going on, and to ignore the vital force, the doers in the middle. 
+
+#### What should I contribute? 
 
 <!-- 
 @meta @outline 
@@ -318,8 +320,7 @@ There is the minimal unit of work for a goal which means "working for a goal" an
 
 
 
-
-
+#### Course-correcting or discovery of indicators? 
 
 <!-- 
 @meta @outline 
