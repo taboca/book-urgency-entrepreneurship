@@ -1,11 +1,6 @@
 # Todo # 
 
-* @todo - p2 ( ) - In Not so Radical Focus - Peter Drucker wrote something about top-down in the Managing Oneself where he brings back the historical context. A supporting point, so that the reader reflects on the full denial of the top-down under the impression that free is good may align with what Peter Drucker may have said in the "managing oneself" and also  I recall that Jonathan or Melissa said it too in some article in the HFIYM book. 
- - @meta-refid 49284982-284784-927494-4204820
-
 * @todo - p2 ( ) - In Not so Radical Focus - Peter Drucker wrote something about top-down in the Managing Oneself where he brings back the historical context. By the way this line of thinking where Peter starts with the old seems to be quite evident as also shown in "Tecnologia, Adminstração e Sociedade". - @meta-refid 20489-284784-927494-40284
-
-* @todo - p2 ( ) - In Not so Radical Focus - Should the points about Stephen Covey, from 7-habits book, about the historical development of goals and priorization theory; be brought in this article, such as within the "how top-down matters", along with the historical perspective given by from Kris Kris Duggan https://www.heavybit.com/library/video/using-okrs-to-drive-results-aka-secrets-to-crushing-your-goals @meta-refid 20489-429084-42084-40284
 
 * @todo - p2 ( ) - In Not So Radical Focus - * Personal, "what should my contribution be" vs goals - The point given by Peter is also a point given by Michael Dearing in his private GM2 course - he indicated that the Objective has to be meaningful and consistent with the person's values, principles, and also generates pride when accomplished - 'sense of accomplishment' / ref 8474-6573-7282-8383
 
@@ -229,6 +224,11 @@ https://chat.openai.com/share/b7eb16c5-4c18-4709-9220-bd2629f34a3d
 * Culture 
 
 ## Done
+
+* @todo - p2 (Done) - In Not so Radical Focus - Peter Drucker wrote something about top-down in the Managing Oneself where he brings back the historical context. A supporting point, so that the reader reflects on the full denial of the top-down under the impression that free is good may align with what Peter Drucker may have said in the "managing oneself" and also  I recall that Jonathan or Melissa said it too in some article in the HFIYM book. 
+ - @meta-refid 49284982-284784-927494-4204820
+
+* @todo - p2 (Done) - In Not so Radical Focus - Should the points about Stephen Covey, from 7-habits book, about the historical development of goals and priorization theory; be brought in this article, such as within the "how top-down matters" @meta-refid 20489-429084-42084-40284
 
 * p2 (Done, @Marcio), In Lean Attention Deficit, 630_lean_no_lean - Consider to quote Julia as she explains how a write internalizes the "editor" - what he would say. This also has a connection with the comment from Jordan Peterson on his willingness to maintain "roles" like characters representing point of views - you may find this in JP's tips about writing. 
 

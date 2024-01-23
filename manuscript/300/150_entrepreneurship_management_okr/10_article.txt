@@ -188,22 +188,8 @@ He concludes, since we moved on from that *time management" to the management of
 
 <!--
 @meta @todo 
-* @todo - p2 (stephen, ) - In Not so Radical Focus - Should the points about Stephen Covey, from 7-habits book, about the historical development of goals and priorization theory; be brought in this article, such as within the "how top-down matters", along with the historical perspective given by from Kris Kris Duggan https://www.heavybit.com/library/video/using-okrs-to-drive-results-aka-secrets-to-crushing-your-goals @meta-refid 20489-429084-42084-40284
-* Prior context or connecting point? - In other words, startup teams are inevitably called to join conversation about goal-setting and progressing with goals happens; the conversation that is quite old and always evolving [^footnote_stephencovey_priorities] such as OKR - objectives and key results aka management by objectives - which is a framework that is popular and well-used among high-growth organizations. 
-[^footnote_stephencovey_priorities]: 
---> 
-
-<!--
-@meta @todo 
-* @todo - p2 ( ) - In Not so Radical Focus - Peter Drucker wrote something about top-down in the Managing Oneself where he brings back the historical context. By the way this line of thinking where Peter starts with the old seems to be quite evident as also shown in "Tecnologia, Adminstração e Sociedade". - @meta-refid 20489-284784-927494-40284
---> 
-
-<!--
-@meta @todo 
-* @todo - p2 ( ) - In Not so Radical Focus - Peter Drucker wrote something about top-down in the Managing Oneself where he brings back the historical context. A supporting point, so that the reader reflects on the full denial of the top-down under the impression that free is good may align with what Peter Drucker may have said in the "managing oneself" and also  I recall that Jonathan or Melissa said it too in some article in the HFIYM book. 
- - @meta-refid 49284982-284784-927494-4204820
---> 
-
+* @todo - p2 (stephen) - In Not so Radical Focus - Should the points about Stephen Covey, from 7-habits book, about the historical development of goals and priorization theory; be brought in this article, such as within the "how top-down matters". @meta-refid 20489-429084-42084-40284
+-->
 
 
 
@@ -211,7 +197,6 @@ He concludes, since we moved on from that *time management" to the management of
 
 
 #### OKR is an ongoing conversation 
-
 
 <!-- 
 @meta @outline 
@@ -221,6 +206,11 @@ He concludes, since we moved on from that *time management" to the management of
 <!--
 @meta @todo
 * @todo p2 ( ) - In Not So Radical Focus - Check if OKR is a method or framework / ref 49284-492849-492849-942894 
+--> 
+
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Not so Radical Focus - Consider if the historical perspective given by from Kris Kris Duggan and likely Andy Grove about OKR  https://www.heavybit.com/library/video/using-okrs-to-drive-results-aka-secrets-to-crushing-your-goals @meta-refid 42424-244-424-5555
 --> 
 
 
@@ -299,6 +289,12 @@ There is nothing in OKR, to summarize this notion and call to keep the top-down 
 --> 
 
 Managers know that doers' real contribution rises from the doing - from the action - and it is influenced by how they do and why they do and therefore their state of well-being which supports their creative state. Or they get to know that over time as it is inescapable. Therefore, the perspective of the doers enters management, even if by fragments of what happens from the office of their psychologists, because it enters the workplace and because it impacts the organization's productivity. Peter Drucker, in Managing Oneself, portraits frames of the big movie and how the what is told is provoked with the what's happening: 
+
+<!--
+@meta @todo 
+* @todo - p2 (Done) - In Not so Radical Focus - Peter Drucker wrote something about top-down in the Managing Oneself where he brings back the historical context. A supporting point, so that the reader reflects on the full denial of the top-down under the impression that free is good may align with what Peter Drucker may have said in the "managing oneself" and also  I recall that Jonathan or Melissa said it too in some article in the HFIYM book. 
+ - @meta-refid 49284982-284784-927494-4204820
+--> 
 
 > *"Throughout history, the great majority of people never had to ask the question, What should I contribute? They were told what to contribute, and their tasks were dictated either by the work itself - as it was for the peasant or artisan - or by a master or a mistress - as it was for domestic servants. And until very recently, it was taken for granted that most people were subordinates who did as they were told. Even in the 1950s and 1960s, the new knowledge workers (the so-called organization men) looked to their company's personnel department to plan their careers. 
 > Then, in the late 1960s, no one wanted to be told what to do any longer. Young men and women began to ask, What do I want to do? And what they heard was that the way to contribute was "to do your own thing." But this solution was as wrong as the organization men's had been. Very few of the people who believed that doing one's own thing would lead to contribution, self-fulfillment, and success achieved any of the three."* (Drucker, Peter. 2008. pp. 35) 
