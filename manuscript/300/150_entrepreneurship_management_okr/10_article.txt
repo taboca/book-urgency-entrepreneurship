@@ -255,70 +255,63 @@ Consider the concern of the OKR crew, pointed from the Coursera from Measure Wha
 
 There is nothing in OKR, to summarize this notion and call to keep the top-down alive, that wants to set the whole ship to miss understanding of what is going on, and to ignore the vital force, the doers in the middle. 
 
-#### What should I contribute? 
-
 <!-- 
 @meta @outline 
 * Outline - Answer k1.2 - Goals might be inherently part of - the contribution   
 --> 
 
-But in a way or another sometimes, it appears a fight; as in on one side there is the one that tells and on the other side the doers; but our point is not that we need to see this fight as in from the perspective of the old harsh days and even historical situation of the master expecting is just a so alarming that confuses us. 
+#### What should I contribute? 
 
-The fight happens in the micro context, a small team even of friends working, and the fight also happens within the micro context of the individual. If we lock in the reality of the innevitable that goals are here to say, like it or not, and that achieving them goals will be hard, like it or not, we will only have to face the reality that we as managers have to nurture the environment for them to be achieved because the doer can only do one thing - to contribute. And if we are wearig this hat, we are into the need to comply with the understanding of what should my contribution be. 
+<!-- 
+@meta @todo 
+* @todo - p2 ( ) - In Not So Radical Focus - * Personal, "what should my contribution be" vs goals - The point given by Peter is also a point given by Michael Dearing in his private GM2 course - he indicated that the Objective has to be meaningful and consistent with the person's values, principles, and also generates pride when accomplished - 'sense of accomplishment' / ref 8474-6573-7282-8383
+--> 
+
+Managers know that doers' real contribution rises from the doing - from the action - and it is influenced by how they do and why they do and therefore their state of well-being which supports their creative state. Or they get to know that over time as it is inescapable. Therefore, the perspective of the doers enters management, even if by fragments of what happens from the office of their psychologists, because it enters the workplace and because it impacts the organization's productivity. Peter Drucker, in Managing Oneself, portraits frames of the big movie and how the what is told is provoked with the what's happening: 
+
+> *"Throughout history, the great majority of people never had to ask the question, What should I contribute? They were told what to contribute, and their tasks were dictated either by the work itself - as it was for the peasant or artisan - or by a master or a mistress - as it was for domestic servants. And until very recently, it was taken for granted that most people were subordinates who did as they were told. Even in the 1950s and 1960s, the new knowledge workers (the so-called organization men) looked to their company's personnel department to plan their careers. 
+> Then, in the late 1960s, no one wanted to be told what to do any longer. Young men and women began to ask, What do I want to do? And what they heard was that the way to contribute was "to do your own thing." But this solution was as wrong as the organization men's had been. Very few of the people who believed that doing one's own thing would lead to contribution, self-fulfillment, and success achieved any of the three."* (Drucker, Peter. 2008. pp. 35) 
+
+<!-- 
+@meta @references 
+* reference - Drucker, P. (2008). Managing Oneself. Harvard Business School Press.  
+--> 
+
+And goes on into a more enlightened view that the management of the self gains space, and consciousness, as the work place evolves. The modern doer is there, more aware of their development. They are alive and they react more. The following three elements of from the anyone working in an organization isn't a duty given by a manager but a way for the actual contributor to look at what they do there: 
+
+> *"What should my contribution be? To answer it, it must address three distinct elements. What does the situation require? Given my strenghts, my way of performing, and my values. How can I make the greatest contribution to what needs to be done? And finally, What results have to be achieved to make a difference."* (Drucker, Peter. 2008. pp. 35)
+
+<!-- 
+@meta @references 
+* reference - Drucker, P. (2008). Managing Oneself. Harvard Business School Press. 
+--> 
 
 <!-- 
 @meta @todo 
 
 * @todo - p2 ( ) - In Not So Radical Focus - On "What should my contribution be?" - The writing down, the specification, how how what they do vs. the larger purpose. According to Michael, from his GM2 Course [ ref https://www.harrisonmetal.com/classes/gm2-setting-goals-measuring-performance/lessons/magic-of-okrs ] which is private, "they are dying to know how what they do connects to a larger purpose." / @meta-refid 20129-201921-201920-201902 
 --> 
-<!-- 
-@meta @todo 
-* @todo - p2 ( ) - In Not So Radical Focus - * Personal, "what should my contribution be" vs goals - The point given by Peter is also a point given by Michael Dearing in his private GM2 course - he indicated that the Objective has to be meaningful and consistent with the person's values, principles, and also generates pride when accomplished - 'sense of accomplishment' / ref 8474-6573-7282-8383
---> 
 
-Thereore, we can't deny that the subject of goals connects with motivation and meaning. In other words, the reason that goals matters have also to do with our roles in it. We should note that people join causes to work on them for a while and the meaning might also break down in terms of expectations for what can be done (what we are doing) and how things can be done (how are doing). People evaluate themselves against their goals. 
+Now, if that role of the doer is alive and if OKR something to say about that is it so as a consequence of the very real frame of work that brought OKR. From the perspective of evangelism, John Doerr popularized it at Google and through the *Measure What Matters* but of course by checking its own usage and from its past experience by Andy Grove as he worked at Intel and learned about management by objectives directly from Andy. In addition, Andy has credited that he improved his views of management by objectives from Peter Drucker.
 
-Therefore, it is not unwise to consider that, for teams and as teams unfold, the existence of a goals create a condition for them not only to join, due to motivations and interest in the outcome, but to engage in a movement where they seek to identify how they can contribute. In the "What Should I Contribute?" section of Managing Oneself, Peter Drucker (2008) recognized an extreme situation of when one is being told what to do, one one hand which certainly is not appropriate in modern management, and, on the other hand, the response inclination of "do your own thing." However, he concludes that the inclination to doing one's own thing doesn't suffice when striving to contribute, achieve self-fulfillment, and find success (pp. 53-54).
+> *""* Andy Grove (Andy on Peter, from High Output Management)
 
-<!-- 
-@meta @references 
-* reference - Drucker, P. (2008). Managing Oneself. Harvard Business School Press. pp. 53-54. 
---> 
-
-We should account here that John Doerr is known as the evangelist of OKR as a framework, a work he started at Google. As he has recognized in *Measure What Matters*, the framework was given to him by Andy Grove while he worked at Intel. In addition, Andy has credited that he improved his Objectives and Key Results with learnings from Peter Drucker. Therefore, it is not unwise to consider that the willingness for one to contribute, in an organization, has ties with the effort to manage oneself. Peter has elaborated a contribution for the individual version of it: 
-
-> *"What should my contribution be? To answer it, it must address three distinct elements. What does the situation require? Given my strenghts, my way of performing, and my values, how can I make the greatest contribution to what needs to be done? And finally, What results have to be achieved to make a difference."* (Drucker, Peter. 2008. pp. 35)
-
-<!-- 
-@meta @references 
-* reference - Drucker, P. (2008). Managing Oneself. Harvard Business School Press. pp. 53-54. 
---> 
+All that to give us a view that OKR has strong points because of the interest if we want to make it real and strong and meaningful and if we are interested in improving it from the actual experience of doing it; and recognizing the changes that happens. Therefore, it is not unwise to consider that the willingness for one to contribute, in an organization, has ties with the effort to manage oneself. It's everywhere how OKR carries the viewpoint of the doer: 
 
 > *"Leaders must get across the *why* as much as the *what*. Their people need more than milestones for motivation. They are thirsting for meaning, to understand how their goals relate to the mission."* (Doerr, J., 2018, p. 50)
 
+Now if people to join projects, with causes and goals, they do because they know their strenghts can be used for the situation that needs to be changed. And, as they feel that they can do something. Likewise, the structure of a goal-setting project, such as one having a clarity for the expected results that favors the goal, is likely respected by the doers and needed by the organization viewpoint. In other words, the clarity - that OKR requires - for what has to be done and how the doers connect is just a needed minimum requirement for anyone to be involved. It is what makes them to show up not feeling completely lost. 
 
+<!-- 
+@meta @outline 
+* Outline - Answer k1.2.1 - The fight of top-down and bottom-up   
+--> 
 
+#### Appears to be a fight 
 
-Thus it is uncommon for people to join projects, with causes and goals, as they know that their strenghts can be used for the situation that needs to be changed. And, as they feel that they can do something. Likewise, the structure of a goal-setting project, such as one having a clear documentation and expected results to favor the goal, is likely used by founders as they have to communicate round and improve their chances towards success.
+Before we move into the next section - the aspects of course-correction - it is worth to go back to an illustration of a fight and into an extrapolation of the inherent fight that has less to do with the boss versus the subordinate fight. The top-down appears to provoke a fight, indeed, with the bottom-up role. As in on one side there is the one that tells and on the other side the one that does, the doer that suffers in many situations, such as anxiety or producing their tears as a by-product. But if these roles show a fight, and the human nature seem to be exposed in its worse if you go back in history taking photos capturing the fight of them; the more we evolve we seem to find a sort of inner fight, or challenge, that really gets this view of being fire and fight more because of the not humanized paths we came from, which confuses us. In other words, the essense may seem like a fight but it is really a learning process nad management process that is required for anything new to be brought and change the system. 
 
-
-
-
-
-
-
-Therefore, it is not unwise to notice how we gravitate towards having a plan, an outcome ahead, and even a 2-year plan, as a key element that may put us in a position to solve what is needed to be solved. Plus there seesm to exist an alignment with the too many stories, as told, that we have seen, and read, and watched, and continue to witness; the too many examples of people that told that they were doing something as in to change the world and they did. Plus, if one feels that goal-setting in the corporate is more like a storytelling that fails, with lots of traps (and it does have), and as they dig, they will find an entire field of research related to goal-setting. But if we dig, it is undeniable that out of goal-setting, and after goal-setting, we can find that the reason for the whole field has to do with how we react, how we fix ourselves, as we go. We can't deny that the environment created by a goal-setting system has the good intention to shape us towards progress, even when progress is yet to be discovered in the innovation space. 
-
-There is the minimal unit of work for a goal which means "working for a goal" and can and should be honored. This is about showing up. Of course, no one wants to show up in ways that we burn resources but the very showing up and considering the best way possible, should then set us to discover the how should I contribute that is better, which is a good opening to the next section. This openning, that avoids the arbitrary movement, starts with having more time such as time to reflect. If you use your scarce resources, if you split time, you are making things harder in a way. And if you use wisely this time crack which takes the time you are doing - such as in arbitrary ways - you are then reflecting. And if you are doing so and considering how to do better, then you are acknowleding the possible better use of time. Thus goals vs. how should I contribute is a good start, a frame of reference, such as to set us in the direction of the next section. 
-
-
-
-
-
-
-
-
-
+Or if we look for the fight that happens in the micro context, a small team even of friends working, a fight that also happens within the micro context of the individual. This is the fight that one deals with when they want to lose weight, or to learn to write, or to come up with an invention when the materials to do so are not fully in place, or seeking a freedom in a space where the rules yet don't allow. Achieving them goals will be hard, like it or not, we will only have to face the reality that we as managers have to nurture the environment for them to be achieved because the doer can only do one thing - to contribute - if they are onto it. That is yet another reason for the goals to be meaningful for them. And if we are wearig this hat, or when we are wearing this hat, we are into the need to comply with the understanding of what should our contribution be. This relationship between our personalities - one being the innocent doer or the sensitive doer that is learners; and the other being the critic or the editor that will demand results, is natural. Our goal, as managers and minimally at this point that we are really reflecting with all of this, is to continue to check what the conversaion - like the OKR one - is telling us for how we can do our best especailly that we may not know what to do and what generally the goal is not yet clear as well. 
 
 #### Course-correcting or discovery of indicators? 
 
