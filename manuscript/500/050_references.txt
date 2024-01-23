@@ -357,6 +357,13 @@ From 450_passing_on_stories.txt
 
 Dearing, M. (2013, July 16). Pricing [Video]. HeavyBit. https://www.heavybit.com/library/video/harrison-metals-michael-dearing-on-pricing
 
+
+<!--
+* 300 / 150_entrepreneurship_is_management
+--> 
+
+Covey, S. (1989). The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change. Fireside.
+
 <!-- 
 
 * 100/970_winning.txt

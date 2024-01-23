@@ -79,13 +79,21 @@ Furthermore they give us a good supporting point for how to be driven by an orie
 * Outline - Introduction - #SCqA - Question Answer - Introduction - #SCqA - Question Answer - Dilemma of alraey being involved with productivity and provooked to not dive as the methods for orientation to goals seem to not fit, too complex, can be deferred. @meta-refid 875-834-923-933
 --> 
 
-So, here we set ourselves in a dilemma where we are engaged and concerned with productivity, to do our best towards our objectives, but equally concerned  with the aspects when the whole system of measurement influences everything. A potential question is: Is it worth to get involved with learning about management by objectives or to get involved with communications about goal setting and goal progressing? And if so, when?
+So, here we set ourselves in a dilemma where we are engaged and concerned with productivity, to do our best towards our objectives, but equally concerned with the aspects when and why. In other words, is it worth to get involved with learning about management by objectives or to apply - such as OKR as a framework in place - to help yourself, or your startup and beyond with goal setting and goal progressing? And if so, when?
 
-Our answer is yes and the when can be dropped because if you are into anything that has objectives, you already started it and you are already using your time and energy. But a reframing to the question in alignment with the style of this book is: Is there a way to reflect on the subject of goal setting and goal progressing that is applicable in the beginning and can be lasting?
+Our answer is yes and the when can likely be dropped because you are alreary doing it if you are involved in anything that has objectives ahead. You already started it, you are using your time and energy and if you are alone that is a tremendous potential for impact and if you are not alone it's even more important. But a reframing to the question in alignment with the style of this book is: Is there a way to reflect on the subject of goal setting and goal progressing that is applicable in the beginning and that can be lasting?
 
-And through that viewpoint, we will move on not like a playbook, or a set of rules that you are required to follow up through with many iterations for stages, and required to become an expert for something that by the time you hit specific necessities you don't even know anymore the details or need to out of the sudden access that expert.
+As we move on, we will use OKR, which stands for Objectives and Key Resources. This framework, which became used by high-growth organizations starting from Silicon Valley, has gained popularity by its use at Google and the evangelism work of John Doeer. Our strategy to stick with OKR here has less to do with introducing the framework and more to do riding along with the ongoing conversations that OKR has given to us - the opportunity to reflect - about management by objectives. 
 
-But we will use OKR - one popular framework being used by high-growth organizations - as a guide to an actual conversation, a reflection. With that, we aren't pressured to keep thinking of matching the elements of the framework for the situations of our startup; but in fact reflecting on the actual fundamental challenges and checking if the framework recognizes them and if the ongoing conversations about the framework discusses them. Using OKR as a guide is here first because it is popular because it's being used effectively, because it's being misused, because like many of the modern "solutions in the hypermarket of entrepreneurship," people can sometimes pick it quickly and start to use it just like their organize their efforts, under pressure, under anxiety, which sets them to be quite frustrated.
+As you will see further, there are many reasons for considering OKR as a great collective conversation about goal-setting and management of goals, but for now I rather not put the carriage in front of our horses and enjoy that its evolution - as strategic management approach with origins in Silicon Valley at Intel and widespread usage at Google - has survived the test of time by the collective inteligence of Silicon Valley workers [^footnote_marciogalli_people] In other words, if OKR has moved from Intel to Google it has achieved widespread conversations by the dynamic nature of the management conversations taking place both internally and outside these organizations. An infromal survey from Kris Duggan [^footnote_krisduggan_surveyokr] during the talk entitled *Using OKRs to Drive Results aka “Secrets to Crushing Your Goals”* gives us the range of its applicability and popularity: 
+
+[^footnote_marciogalli_people]: Based on my experience at Netscape Communications in the early 2000s, our environment consisted of too many creative and intelligent individuals who happened to be developing the future of the Internet, to happened to be using the Internet tools to collaborate, and who happeneed to appear as chaotic by their involvement with the idea of break norms. 
+
+[^footnote_krisduggan_surveyokr]: It is important to acknowledge Kris Duggan's deep involvement with OKRs. His company, BetterWorks, provides a tool for setting, tracking, and managing goals via OKRs; and has received investment from John Doerr, a prominent Silicon Valley investor and renowned evangelist of OKRs. 
+
+> *"By the way, show of hands, who actually does OKRs right now? OK, about a third of you. And who's thinking about OKRs? OK, a third of you and then a third of you came for the free drinks and dinner, I guess. OKRs are simply a management methodology that helps companies focus their effort on what's important and to do that at scale across the organization. I don't think you can be too small to think about OKRs. One or two people in a team, or a group, or a division, or a department, or a company, or up to literally 60, 80, 100 thousand people could do this at scale."* 
+
+If we follow along using OKR as a conversation - and not like a playbook or a set of rules that you are required to follow up - we aren't pressured to keep busy with matching the elements of the framework for the situations that you be be at. Instead, our focus goes to use OKR as a guide exactly because of its widespread use and misuse plus the very inclination for many people to go shopping for solutions in the hypermarket of entrepreneurship - which can at times set us to pick things too quickly and start to use it just like we organize our efforts when we are in hurry, under pressure, under anxiety, which sets us to be quite frustrated as we encounter complex situations. 
 
 We will begin by analyzing why OKRs starts with the premise that objectives should be strong, ambitious, and possibly long-term. This includes recognizing the potential problems of this approach, questioning whether it makes sense to start there, and how discussions about OKRs deal with the probable lack of flexibility. Following this, we will examine whether OKRs offer elements that assist in course correction in a healthy manner, given that the nature of entrepreneurship involves uncertain paths and the pursuit of innovation that requires learning. Finally, we will consider complications and confusions that exist and are part of the broader discussion, such as problems where the measurement and judgment of progress end up influencing execution; and how to deal with a measurement and judgment approach that is not so radical, and that actually helps the team operate better.
 
@@ -156,7 +164,7 @@ Let us then briefly cover the historical perspective about goal-setting and mana
 
 
 
-#### The persistence and evolution of the top-down 
+#### The evolution of the top-down from time 
 
 <!-- 
 @meta @outline 
@@ -168,11 +176,19 @@ Let us then briefly cover the historical perspective about goal-setting and mana
 * Outline - answer k1.1.2.2 - OKR reflects on risks? 
 --> 
 
-What appeas from the historical perspective, the flight from above, is that the science of management of goals is evolving and acknowledges the hard reality and the flexible viewpoint that is necessary to support doers to achieve goals. According to Stephen Covey, from 7 Habits of Successful People, the historical development and of management of priorities exists. Peter Drucker, in Managing Oneself, also had acknowledged that the workers had to work in what was told to them but they had entered in a stage to consider that they could be arbitrary. 
+What appears from the historical perspective, the flight from above, is that the science of goal management is evolving; and that it had entered to face the hard reality that goal management has to stretch to enable doers to achieve their goals, especially that aspiring and ambitious goals are more frequent as opposed to the expected commitments where humans are expected to act as robots. The following passage from Stephen Covey, from *7 Habits of Highly Effective People*, we are moving from time management towards the managent of ourselves: 
+
+> *"In the area of time management, each generation builds on the one before it - each one moves us toward greater control of our lives. The first wave or generation could be characterized by notes and checklists, an effort to give some semblance of recognition and inclusiveness to the many demands placed on our time and energy.
+> The second generation could be characterized by calendars and appointment books. This wave reflects an attempt to look ahead, to schedule events and activities in the future.
+> The third generation reflects the current time management field. It adds to those preceding generations the important idea of prioritization, of clarifying values and of comparing the relative worth of activities based on their relationship to those values. In addition, it focuses on setting goals – specific long-, intermediate-, and short-term targets toward which time and energy would be directed in harmony with values. It also includes the concept of daily planning, of making a specific plan to accomplish those goals and activities determined to be of greatest worth. 
+> While the third generation has made a significant contribution, people have begun to realize that "efficient" scheduling and control of time are often counterproductive. The efficiency focus creates expectations that clash with the opportunities to develop rich relationships, to meet human needs and to enjoy spontaneous moments on a daily basis."* 
+> (Covey, Stephen., 1989, p.149-150)
+
+He concludes, since we moved on from that *time management" to the management of ourselves, that we shifted our expecting tasks to be done - the *things* in *time* - and entered the fourth generation where we expect to accomplish results and build relationships.  
 
 <!--
 @meta @todo 
-* @todo - p2 ( ) - In Not so Radical Focus - Should the points about Stephen Covey, from 7-habits book, about the historical development of goals and priorization theory; be brought in this article, such as within the "how top-down matters", along with the historical perspective given by from Kris Kris Duggan https://www.heavybit.com/library/video/using-okrs-to-drive-results-aka-secrets-to-crushing-your-goals @meta-refid 20489-429084-42084-40284
+* @todo - p2 (stephen, ) - In Not so Radical Focus - Should the points about Stephen Covey, from 7-habits book, about the historical development of goals and priorization theory; be brought in this article, such as within the "how top-down matters", along with the historical perspective given by from Kris Kris Duggan https://www.heavybit.com/library/video/using-okrs-to-drive-results-aka-secrets-to-crushing-your-goals @meta-refid 20489-429084-42084-40284
 * Prior context or connecting point? - In other words, startup teams are inevitably called to join conversation about goal-setting and progressing with goals happens; the conversation that is quite old and always evolving [^footnote_stephencovey_priorities] such as OKR - objectives and key results aka management by objectives - which is a framework that is popular and well-used among high-growth organizations. 
 [^footnote_stephencovey_priorities]: 
 --> 
@@ -232,14 +248,29 @@ With that said, the construction of OKR through the days of Andy Grove had to fa
 
 <!-- 
 @meta @outline 
-* Outline - answer k1.1.2.1 - Top-down of OKR is not ignorant to learning  
+* Outline - answer k1.1.2.1 - Top-down is not from the chart but inherent to the goal 
 --> 
+
+#### How OKR sees top-down 
 
 These ilustrations, of the hard days of these managers, are good for us to have a sense of the how OKR happened to be constructed. Can a company that is in high-growth, and strong, that needs to set goals and expectations to its workers, keep a system that enables them to not follow so blindly? In other words, OKR starts yes with the top-down goals and expectations, it wants it to be real and meangful - and it is okay with the driving goal of 2 years. But equaly balanced is the view that is bundle within - that without it one would read the following like a super strict and harsh reason to be disciplined with the goals as in written in stone; but not, the nuanced view there is more: 
 
 > *"An effective goal setting system starts with disciplined thinking at the top, with leaders who invest the time and energy to choose what counts."* (Doerr, J., 2018, p. 50)
 
-In other words, one will not need to dig much to see that the disciplined thinking is at the top, not a disciplined following that is blidnly by the doers - any subordinate being assigned to their duty. 
+The point from John is a great openning for us to consider how the element of 'disciplined thinking' connects with the element and the role of the 'leader' and how that has less to do with the an actual superior entity, like a boss that passes on words to subordinates ordering them to follow, suh as like movements the brutal controllers that only happens to confuse us. The point from John brings about the responsible role that appears when you are to make change - that otherwise can't be done - to come about. This element is the necessary element of an entity - an individual, a team, an unit, and the whole organization. In 7 Habits of Highly Effective People, Stephen Covey help us to see the top-down element that transcends any idea of hierarchies from organizations: 
+
+> *"Effective management is putting things first. While leadership decides what 'first things' are, it is management that puts them first, day-by-day, moment-by-moment. Management is discipline, carrying it out. "* (Covey, Stephen., 1989, p.148) 
+
+And digs even more: 
+
+> *"Discipline derives from disciple - disciple to a philosophy, disciple to a set of principles, disciple to a set of valyes, disciple to an overriding purpose, to a superordinate goal or a person who represents that goal. "* (Covey, Stephen., 1989, p.148) 
+
+<!-- 
+@meta @references
+* reference - Covey, S. (1989). The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change. Fireside.
+--> 
+
+In other words, if we happen to see the chart when we think of top-down, we happen just to see the by-product of a prior success of someone that likely had conquered stability and that is performing, expecting, under their assumptions that they are on the right path. But if when we come to terms with the essence, the top-down comes really from the goal, the objective, the thing that you or anyone, team or unit, is onto. 
 
 <!-- 
 @meta @outline 
@@ -260,7 +291,7 @@ There is nothing in OKR, to summarize this notion and call to keep the top-down 
 * Outline - Answer k1.2 - Goals might be inherently part of - the contribution   
 --> 
 
-#### What should I contribute? 
+#### How OKR sees bottom-Up
 
 <!-- 
 @meta @todo 
