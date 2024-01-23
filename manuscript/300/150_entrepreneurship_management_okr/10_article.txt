@@ -81,61 +81,23 @@ Furthermore they give us a good supporting point for how to be driven by an orie
 
 So, here we set ourselves in a dilemma where we are engaged and concerned with productivity, to do our best towards our objectives, but equally concerned with the aspects when and why. In other words, is it worth to get involved with learning about goal-setting and goal management and if so When is the right time to consider the applicability of any formal method or framework? 
 
-The short answer for getting involved is yes because you are already involved if you are have any objectives ahead even if you are alone and worse if you are in a team situation. In other words, you already started it, you are using your time and energy and it does not matter if you are alone or with others you are in charge of a tremendous potential for impact. 
+The short answer for getting involved is yes because you are already involved if you are have any objectives ahead even if you are alone and worse if you are in a team situation. In other words, you already started it, you are using your time and energy and it does not matter if you are alone or with others you are in charge of a tremendous potential for impact. As for the When question I would reframe in agreement with the terms of our journey: Can we appraoch the subject out of the pressure to implement for now? Thus to be free from the mapping pressures such as how I put this framework piece here on top of my team and set us free to look from far how is it that all of this connects with our lives and the complexities of goal-setting and the management of goals; thus so that we can take something with us that works for now, for our lives, and for the beginning of our teams and someting that can be lasting. 
 
-As for the When question I would reframe in agreement with the terms of our journey: Can we appraoch the subject out of the pressure to implement for now? Thus to be free from the mapping pressures such as how I put this framework piece here on top of my team and set us free to look from far how is it that all of this connects with our lives and the complexities of goal-setting and the management of goals; thus so that we can take something with us that works for now, for our lives, and for the beginning of our teams and someting that can be lasting?
+With that said, in our reflective journey we will ride along with OKR - Objectives and Key Resources - a management framework for goal-setting and progressing with goals. The point for "consulting with OKR" has less to do with introducing the framework and more with joining the ongoing conversations that OKR has given to us. You will see in following sections, there are many elements from OKR that sums up and makes the collective conversation to be interestingly rich. But let us not put the carriage in front of our horses and start honoring the aspect that makes OKR as a conversation, besides being a framework: 
 
-And we are going to do that using OKR, which stands for Objectives and Key Resources. This framework, which became used by high-growth organizations starting from Silicon Valley, has gained popularity by its use at Google and the evangelism work of John Doeer. Our strategy to stick with OKR here has less to do with introducing the framework and more to do riding along with the ongoing conversations that OKR has given to us - the opportunity to reflect - about management by objectives. 
+## OKR as a rich conversation 
 
-As you will see further, there are many reasons for considering OKR as a great collective conversation about goal-setting and management of goals, but for now I rather not put the carriage in front of our horses and enjoy that its evolution - as strategic management approach with origins in Silicon Valley at Intel and widespread usage at Google - has survived the test of time by the collective inteligence of Silicon Valley workers [^footnote_marciogalli_people] In other words, if OKR has moved from Intel to Google it has achieved widespread conversations by the dynamic nature of the management conversations taking place both internally and outside these organizations. An infromal survey from Kris Duggan [^footnote_krisduggan_surveyokr] during the talk entitled *Using OKRs to Drive Results aka “Secrets to Crushing Your Goals”* gives us the range of its applicability and popularity: 
+As an strategic management approach, OKR had origins in Silicon Valley at Intel Corporation and then it gained widespread usage from its adoption at Google. In other words, OKR has survived the test of time by the collective inteligence of many Silicon Valley workers [^footnote_marciogalli_people] and people from around the world. Given that OKR has evolved from Intel to Google, we should acknowledge the enourmous amount of conversations that took and take place both internally and outside these organizations. An infromal survey from Kris Duggan [^footnote_krisduggan_surveyokr] during the talk entitled *Using OKRs to Drive Results aka “Secrets to Crushing Your Goals”* gives us the range of its applicability and popularity: 
 
 [^footnote_marciogalli_people]: Based on my experience at Netscape Communications in the early 2000s, our environment consisted of too many creative and intelligent individuals who happened to be developing the future of the Internet, to happened to be using the Internet tools to collaborate, and who happeneed to appear as chaotic by their involvement with the idea of break norms. 
 
+> *"By the way, show of hands, who actually does OKRs right now? OK, about a third of you. And who's thinking about OKRs? OK, a third of you and then a third of you came for the free drinks and dinner, I guess. OKRs are simply a management methodology that helps companies focus their effort on what's important and to do that scales across the organization. I don't think you can be too small to think about OKRs. One or two people in a team, or a group, or a division, or a department, or a company, or up to literally 60, 80, 100 thousand people could do this at scale."* 
+
 [^footnote_krisduggan_surveyokr]: It is important to acknowledge Kris Duggan's deep involvement with OKRs. His company, BetterWorks, provides a tool for setting, tracking, and managing goals via OKRs; and has received investment from John Doerr, a prominent Silicon Valley investor and renowned evangelist of OKRs. 
 
-> *"By the way, show of hands, who actually does OKRs right now? OK, about a third of you. And who's thinking about OKRs? OK, a third of you and then a third of you came for the free drinks and dinner, I guess. OKRs are simply a management methodology that helps companies focus their effort on what's important and to do that at scale across the organization. I don't think you can be too small to think about OKRs. One or two people in a team, or a group, or a division, or a department, or a company, or up to literally 60, 80, 100 thousand people could do this at scale."* 
-
-If we follow along using OKR as a conversation - and not like a playbook or a set of rules that you are required to follow up - we aren't pressured to keep busy with matching the elements of the framework for the situations that you be be at. Instead, our focus goes to use OKR as a guide exactly because of its widespread use and misuse plus the very inclination for many people to go shopping for solutions in the hypermarket of entrepreneurship - which can at times set us to pick things too quickly and start to use it just like we organize our efforts when we are in hurry, under pressure, under anxiety, which sets us to be quite frustrated as we encounter complex situations. 
+As we move on with OKR, the good news is that we won't be riding on it trying to learn how to ride at the same time concerned with the roadmap challenges. I say that because OKR can be seen as a temperamental animal where people fall, get hurt, and even give up from not knowing its nature. The side next to it, consulting and reflecting on it, will give us a perspective of the subject within the subject - which is the human nature that is the actual temperamental animal before it achieves any virtuous cadence. With that, I expect us to reflect about the complexivities of this theme so that we and our colleagues can be supported when we are required to go shop for solutions - from the hypermarket of entrepreneurship - for goal-setting and the management of goals, such as OKR. 
 
 We will begin by analyzing why OKRs starts with the premise that objectives should be strong, ambitious, and possibly long-term. This includes recognizing the potential problems of this approach, questioning whether it makes sense to start there, and how discussions about OKRs deal with the probable lack of flexibility. Following this, we will examine whether OKRs offer elements that assist in course correction in a healthy manner, given that the nature of entrepreneurship involves uncertain paths and the pursuit of innovation that requires learning. Finally, we will consider complications and confusions that exist and are part of the broader discussion, such as problems where the measurement and judgment of progress end up influencing execution; and how to deal with a measurement and judgment approach that is not so radical, and that actually helps the team operate better.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Can goal-setting survive?  
 
