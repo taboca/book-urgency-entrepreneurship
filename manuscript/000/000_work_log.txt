@@ -1,5 +1,17 @@
 # Week of January 15-21, 2024 
 
+## Trabalho 1 Livro episódio 127  - 01 / 24 / 2024
+
+* 240 horas a 175/h = R$ 42080,00
+* 114 horas a 350/h = R$  39900,00
+* Editing work for the Not so Radical Focus, sub-sections: 
+
+* Polish to the introduction - [Fix · taboca/book-urgency-entrepreneurship@65de84e](https://github.com/taboca/book-urgency-entrepreneurship/commit/65de84e3ca566ffa098ca602f77d834eaac1d0ce)
+
+* Moved foonote ref from Michael next to survey word - [Fix to Michael footnote · taboca/book-urgency-entrepreneurship@a17c2a3](https://github.com/taboca/book-urgency-entrepreneurship/commit/a17c2a3d44288a3520f7e9ac458bb7cb748817cb)
+
+* Meta data, fixing Michael's footnote, fixing the complication to point to the note from Jonathan Nightingale, quote from JN, another quote from JN about the complexity of managing people - [Fix to Not so radical focus · taboca/book-urgency-entrepreneurship@757f3c7](https://github.com/taboca/book-urgency-entrepreneurship/commit/757f3c7747d6a3a1c629bfc7d9c92438d30ed3e2)
+
 ## Trabalho 1 Livro episódio 126  - 01 / 23 / 2024
 * 240 horas a 175/h = R$ 42080,00
 * 111 horas a 350/h = R$  38850,00
