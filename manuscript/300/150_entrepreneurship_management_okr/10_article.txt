@@ -49,6 +49,26 @@ Now, if looking to that horizon rings a bell for what is ahead it isn't entirely
 * reference - Harrison Metal. (2016, October 25). Objectives & Key Results [Video]. Vimeo. https://vimeo.com/188846225
 --> 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- 
 @meta @outline 
 * Outline - Introduction - #SCqA - Complication - We struggle with the thing in the middle, the execution; We may doubt that a method for progressing with goals helps for when the urgencies are real. 
@@ -74,6 +94,31 @@ Furthermore they give us a good supporting point for how to be driven by an orie
 * Reference - Fried, J., & Hansson, D. H. (2018). It doesn't have to be crazy at work. HarperCollins.
 --> 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- 
 @meta @outline 
 * Outline - Introduction - #SCqA - Question Answer - Introduction - #SCqA - Question Answer - Dilemma of alraey being involved with productivity and provooked to not dive as the methods for orientation to goals seem to not fit, too complex, can be deferred. @meta-refid 875-834-923-933
@@ -81,11 +126,40 @@ Furthermore they give us a good supporting point for how to be driven by an orie
 
 So, here we set ourselves in a dilemma where we are engaged and concerned with productivity, to do our best towards our objectives, but equally concerned with the aspects when and why. In other words, is it worth to get involved with learning about goal-setting and goal management and if so When is the right time to consider the applicability of any formal method or framework? 
 
-The short answer for getting involved is yes because you are already involved if you are have any objectives ahead even if you are alone and worse if you are in a team situation. In other words, you already started it, you are using your time and energy and it does not matter if you are alone or with others you are in charge of a tremendous potential for impact. As for the When question I would reframe in agreement with the terms of our journey: Can we appraoch the subject out of the pressure to implement for now? Thus to be free from the mapping pressures such as how I put this framework piece here on top of my team and set us free to look from far how is it that all of this connects with our lives and the complexities of goal-setting and the management of goals; thus so that we can take something with us that works for now, for our lives, and for the beginning of our teams and someting that can be lasting. 
+The short answer for getting involved is yes because you are already involved if you are have any objectives ahead even if you are alone and worse if you are in a team situation. In other words, you already started it, you are using your time and energy and it does not matter if you are alone or with others you are in charge of a tremendous potential for impact.
+
+As for the When question I would reframe in agreement with the terms of our journey: Can we appraoch the subject out of the pressure to implement for now? Thus to be free from the mapping pressures such as how I put this framework piece here on top of my team and set us free to look from far how is it that all of this connects with our lives and the complexities of goal-setting and the management of goals; thus so that we can take something with us that works for now, for our lives, and for the beginning of our teams and someting that can be lasting. 
 
 With that said, in our reflective journey we will ride along with OKR - Objectives and Key Resources - a management framework for goal-setting and progressing with goals. The point for "consulting with OKR" has less to do with introducing the framework and more with joining the ongoing conversations that OKR has given to us. You will see in following sections, there are many elements from OKR that sums up and makes the collective conversation to be interestingly rich. But let us not put the carriage in front of our horses and start honoring the aspect that makes OKR as a conversation, besides being a framework. 
 
-## OKR as a rich conversation 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 
+@meta @outline 
+* Outline - Introduction - #SCqA - Answer - We are going to use OKR but as a conversation, discussion goal-setting and management of goals, and to check what OKR has to say. Goal-setting deals with top-down and bottom-up? Can OKR course-correct? And what is the battle? 
+--> 
+
+#### OKR as a rich conversation 
 
 As a strategic management approach, OKR originated in Silicon Valley at Intel Corporation and then gained widespread usage through its adoption at Google. In other words, OKR has survived the test of time due to the collective intelligence of many Silicon Valley workers [^footnote_marciogalli_people] and people from around the world. Given that OKR evolved from Intel to Google, we should acknowledge the enormous amount of conversations that took and take place both internally and outside these organizations. An informal survey by Kris Duggan [^footnote_krisduggan_surveyokr] during the talk entitled "Using OKRs to Drive Results aka ‘Secrets to Crushing Your Goals’" provides insight into its range of applicability and popularity:
 

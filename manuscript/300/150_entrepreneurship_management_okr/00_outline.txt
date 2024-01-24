@@ -5,6 +5,7 @@
 * Outline - Introduction - #SCqA - Situation - We are concerned with productivity and even give management of objectives under the need of being productive. 
 * Outline - Introduction - #SCqA - Complication - We doubt, w defer, and when we check, it seems too much. 
 * Outline - Introduction - #SCqA - Question Answer - Introduction - #SCqA - Question Answer - Dilemma of alraey being involved with productivity and provooked to not dive as the methods for orientation to goals seem to not fit, too complex, can be deferred. @meta-refid 875-834-923-933
+* Outline - Introduction - #SCqA - Answer - We are going to use OKR but as a conversation, discusso goal-setting and management of goals, and to check what OKR has to say. 
 
 * --------------
 
@@ -26,7 +27,7 @@
 * --------------
 
 * Outline - Answer k2 - OKR analysis for Course-correction, failure, and opportunity 
-* Outline - Answer k2.0.2 - intro - complication - 
+* Outline - Answer k2.0.2 - intro - complication - In goal-setting there is a clash of expectations, when the critic gets on top of what is going on, where learning is needed, when innocent paralleization is needed. 
 * Outline - Answer k2.0.2 - intro - question - 
 * Outline - Answer k2.0.2 - intro - answer - 
 * Outline - Answer k2.1 - Collaboration aspect of OKR - transparency of key results 
