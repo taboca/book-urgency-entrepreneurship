@@ -143,7 +143,19 @@ Bouizegarene, N., Bourdeau, S., Leduc, C., Gousse-Lessard, A.-S., Houlfort, N., 
 
 Klein, Maury. (2009). The power makers : steam, electricity, and the men who invented modern America. Bloomsbury Press. First U.S. edition.
 
+<!-- 
+* 030_wanterpreneur
+* 150_entrepreneurship_is_management
+--> 
+
 Schumpeter, J. A. (2008). Capitalism, socialism, and democracy. Harper Perennial Modern Thought. (Original work published 1942)
+
+<!-- 
+* 150_entrepreneurship_is_management
+--> 
+
+Nightingale, J. (2017). How Fucked Up Is Your Management. Raw Signal Press. 
+
 
 <!-- 
  230_self_confirmation_bias_social_identity.txt

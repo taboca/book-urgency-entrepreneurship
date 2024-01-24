@@ -15,9 +15,23 @@ When the entrepreneurial function happens to creatively destroy the old and chan
 [^footnote_schumpeter_entrepreneur_gettingthingsdone]: Joseph Schumpeter (2008), the renowned  Austrian-American economist and political scientist known for his theories on economic development and business cycles, in "Capitalism, Socialism, and Democracy," emphasizes the characterization of "getting things done" (p. 132) as an essential element of the entrepreneurial function. He argues this aspect is even more crucial than others, such as the entrepreneur's ability to invent new things or create conditions for the enterprise to thrive. 
 
 <!-- 
+@meta @references
+* Reference - Schumpeter, J. A. (2008). Capitalism, socialism, and democracy. Harper Perennial Modern Thought. (Original work published 1942)
+-->
+
+
+
+
+
+<!-- 
 @meta @outline 
 * Outline - Introduction - #SCqA - Situation - We are concerned with productivity and even give management of objectives under the need of being productive. 
 --> 
+
+
+
+
+
 
 Now, if we focus in the startup situation, the theme of management by objectives is likely to appear not only to respond to these internal needs do things productively but because the growth needs adds complexity - more people and more viewpoints and more differences and therefore more necessary to get involved with figuring how each one can contribute. This notion was confirmed by a survey conducted by Michael Dearing - of Harrison Metal - where he asked about 250 top workers of high-growth organizations, and confirmed that they value the clarity of communications in terms of goals and for how to get there, in addition to their confirmation for how this reflects their perception about the quality of management [^foonote_michaeldearing_clearobjectives]. 
 
@@ -39,7 +53,7 @@ Now, if looking to that horizon rings a bell for what is ahead it isn't entirely
 * reference - Hoffman, R., & Casnocha, B. (2013, July 15). The Startup of You. CreativeLive. Retrieved January 18, 2024, from https://youtu.be/e2X54ALRkZg?si=OF_2-LTUk6KR17ip
 --> 
 
-[^footnote_michaeldearing_realdoing_postits]: Harrison Metal illustrates, in "Objectives & Key Results" [Harrison Metal, 2016], a case of a lemonade business owner that starts with an initial aspiration, that gets involved with the day-to-day activities, and then engages in an effort to improve its productivity which leads to management by objectives if done right.
+[^footnote_michaeldearing_realdoing_postits]: Harrison Metal illustrates - through the animation "Objectives & Key Results" [Harrison Metal, 2016] - brillantly how we generally deal with organization of goals with the situation of a business owner that starts with an initial aspiration, that gets involved with the day-to-day activities, and then engages in an effort to do the analysis in retrospect by generating ideas under the hope that sorting out post-its may improve its productivity which would innevitably leads to management by objectives, if done right.
 
 <!-- 
 @meta @todo 
@@ -50,33 +64,23 @@ Now, if looking to that horizon rings a bell for what is ahead it isn't entirely
 --> 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- 
 @meta @outline 
 * Outline - Introduction - #SCqA - Complication - We struggle with the thing in the middle, the execution; We may doubt that a method for progressing with goals helps for when the urgencies are real. 
 --> 
 
-But the complication remains - that given the ongoing conversation of management by objectives is alive, these managers of objectives can be uncomfortable with the theme - even to a point of doubting these ideas for managing goals and progress, or deferring to later as if it is something that can be used in the right time, such after more traction exists or the team is bigger. In other words, in our hurry to improve our "how should I contribute best?" and living the pressures of the current, they feel that the more formal involvement with the theme can be a distraction or the very waste of resources which is unproductive under the latent desire to achieve further goals. We might even get mad because solutions are told and promoted in coherent ways - promoting that it solves - but early involvement and consideration for its potential applicability does not suit the reality. 
 
-If these aren’t enough of a problem, a deeper involvement with the ongoing conversations - even from experienced and grown up entrepreneurs - won’t hide many challenges and implications. As an example, consider the view given by Fried and Hansson (2018, p. 32) in "Making it up as you go," and their testimonial of how they run Basecamp quite well by denying the ideas of strong goals such as the 2, 3, or even 5-year plans:
+
+
+
+
+
+
+But the complication remains - that given the ongoing conversation of management by objectives is alive - that us managers of our real and concrete objectives of now, get to be busy with the getting things done, under the flag theme "how should I contribute best?" and living the pressures of the current. That reality pushes us to avoid the more formal involvement with the theme - as it sounds like a distraction, or the very waste of resources which is unproductive, in front of our desire to achieve the very goals. 
+
+That set us to be uncomfortable with the theme - even to a point of doubting the applicability of any idea for managing goals and progress, or deferring to later as if it is something that can be used in the right time, such after more traction exists or the team is bigger. 
+
+But really and to be fair, our inclination is not out of laziness or just the pure drive for results that puts the cart before the horses. We may have a lot of reasons to be mad and frustrated with a lot going on when we are running in the hallways of the staartup hypermarket through the aisles checking the cover of all that seem so coherent - given that all promotes to be the holy grail to our problems. We do read the small letters, and quite get involved with checking things in responsible ways such as when we ask for our colleagues or views from the critic. Consider the view by Fried and Hansson (2018, p. 32) - the renowed founders of the successful Silicon Valley firm Basecamp - in *Making it up as you go* for how they run their company by not following strong goals such as the 2, 3, or even 5-year plans:
 
 > *"Every six weeks or so, we decide what we will be working on next. And that is the only plan we have. Anything further out is considered a 'maybe, we will see.'"* (Fried & Hansson, 2018, p. 32).
 
@@ -85,7 +89,7 @@ If these aren’t enough of a problem, a deeper involvement with the ongoing con
 * Reference - Fried, J., & Hansson, D. H. (2018). It doesn't have to be crazy at work. HarperCollins.
 --> 
 
-Furthermore they give us a good supporting point for how to be driven by an orientation of strict and strong goals can be detrimental to genuine progress: 
+Furthermore, they give us a good argument for the situation where strong goals can be detrimental to progress: 
 
 > *"Much corporate anxiety comes from the realization that the company has been doing the wrong thing, but it is too late to change the direction because of the 'Plan.'"* (Fried & Hansson, 2018, p. 33)
 
@@ -94,6 +98,14 @@ Furthermore they give us a good supporting point for how to be driven by an orie
 * Reference - Fried, J., & Hansson, D. H. (2018). It doesn't have to be crazy at work. HarperCollins.
 --> 
 
+There is truth in there - truth that will also guide us ahead - but for now I rather consider the complication of an inclination that based on these values builds up a positive logic that sums up - like an investment - where each day we may grow a principled view that this has to do with yet another management practice of the slow world of management which is simply not applicable to our situation. What we miss, in that the "no" we say to these themes are not only a "yes" to the things we want to get done. It is a yes to our own management solution since getting things done happens anyway. A note from Jonathan Nightingale from *How Fucked Up Is Your Management* help us to see the dangers of the positive inclination that sometimes support us to dismiss management:  
+
+> *"I don't need you to be the best in the world at management. But if you're not planning to be, if you're not going to be really studious and dedicated to it, then for God's sake stop messing with it. I promise you you can't build a better management system in your spare time."* (Nightingale, J., 2017, p. 23)
+
+<!-- 
+@meta @references
+* Reference - Nightingale, J. (2017). How Fucked Up Is Your Management. Raw Signal Press. 
+-->
 
 
 
@@ -169,9 +181,13 @@ As a strategic management approach, OKR originated in Silicon Valley at Intel Co
 
 [^footnote_krisduggan_surveyokr]: It is important to acknowledge Kris Duggan's deep involvement with OKRs. His company, BetterWorks, provides a tool for setting, tracking, and managing goals via OKRs; and has received investment from John Doerr, a prominent Silicon Valley investor and renowned evangelist of OKRs. 
 
-As we move on with OKR, the good news is that we won't be riding on it while trying to learn how to ride and at the same time being concerned with the roadmap challenges. I say that because OKR can be seen as a temperamental animal where people fall, get hurt, and even give up from not knowing its nature. By reflecting on the subject with OKR in perspective, we will set our focus on the actual underlying temperamental element - the human element - that makes goal-setting and the management of goals so hard. With that, I expect that our reflection to be more like talking the walk, which shall better help us and our colleagues when we are required to go walk the walk or walk the talk in the domain of management of goals. 
+As we move on with OKR, the good news is that we won't be riding on it while trying to learn how to ride and at the same time being concerned with the roadmap challenges. I say that because OKR can be seen as a temperamental animal where people try to control it, to tame it, and then they get confused, they fall, they get hurt; although this illustration isn't as sad as the possibility of them just being frustrated with OKR and giving up, even giving up the conversation about the challenges of goal-setting. By using OKR to the purposes of reflection, we will be considering things in perspective, we will set our focus on the actual underlying temperamental element - the human element - that makes goal-setting and the management of goals so hard. Jonathan Nightingale (2017) captures this sentiment well when he says that '[m]anaging people is exceptionally hard to do well. People are complex, and organizations are just full of them' (p. 23).
+<!-- 
+@meta @references
+* Reference - Nightingale, J. (2017). How Fucked Up Is Your Management. Raw Signal Press. 
+-->
 
-Let us start by checking why is it that top-down goals are important, and what OKR tells us about using  strong or ambitious or possibly long-term goals, and the considerations for dealing with goals when the road is uncertain. Moving on, we will check the how management of goals - and OKR along with it - deals with the need for course correction. As for the last section, we will consider the complexities for measuring and the judgment of progress and how the too radical perspective can influence the team's poor judgement. 
+With that, our reflection will be more like talking the walk, with the intention to help us and our colleagues when we are required to go walk the walk or walk the talk in the domain of management of goals. Let us start by checking why is it that top-down goals are important, and what OKR tells us about using  strong or ambitious or possibly long-term goals, and the considerations for dealing with goals when the road is uncertain. Moving on, we will check the how management of goals - and OKR along with it - deals with the need for course correction. As for the last section, we will consider the complexities for measuring and the judgment of progress and how the too radical perspective can influence the team's poor judgement. 
 
 ## Can goal-setting survive?  
 
