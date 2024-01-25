@@ -752,7 +752,7 @@ Andy elabores on the aspects of the strategic management that rises from the act
 
 
 
-#### Team dynamics for safety and creation 
+#### Team dynamics for high self-esteem and creation 
 
 
 <!-- 
@@ -788,7 +788,7 @@ Notice that in the illustration he created the idea of "funded" can be interpret
 
 
 
-
+##### Cases of healthy iteration of the contributor 
 
 
 <!-- 
@@ -805,18 +805,30 @@ The effort of redoing the OKR hundreds of times, is for the sake of being open. 
 
 
 
+The very process that Michael has suggested seems to go along well with the individual situation of a writer - so I this makes me comfortable to see a pattern and then to consider the situation of the individual being the same of the team; which may help us to achieve clarity of that the problem we have for achieving ambitious goals is always the problem of finding support and may also connects with high self-esteem. 
 
+Consider the ideas from Jordan Peterson from his *Essay Writing Guide* [^footnote_jordanpeterson_essaywritingguide]. When all starts in the lifecycle of an essay, after she had chosen a topic and wants to go writing, he suggests that our inclination to "write trite, repetitive and cliché introductions and conclusions" are real. And he even acknowledges - under the view of supporting the work to happen - that it is "often useful" to *write* a stock introduction, such as "What is the purpose of this essay?" as part of the process which is to say that these elements will be later be thrown away.  
 
+[^footnote_jordanpeterson_essaywritingguide]: 
 
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Not so Radical Focus - Complete footnote and review the point example from Jordan Peterson. @meta-refid 492849-429849-4890249-48248
+-->
 
+A similar situation happens in the end of the process when it is time to edit paragraphs through a process that he uses that consists of creating two screens and comparing article A with a variation of it on the side. He goes on and illustrates that through his process he will be editing and literally testing different paragraphs til he finds one that is good and does justice to what he expects of the paragraphs according to the outline. According to Jordan: 
+
+> *""* (Peterson, J., )
+
+When I read Jordan illustrating this process "of the self" it was inescapable for me to see the role of a doer, a contributor, that were able to innocently try different things - such as a competing paragraph - in the attempt to match the objective, the ouline. In way, this goes well with the idea of a highly supportive environment for a writer to get to the point of, as pointed by Jordan if one goes towards the publishing, to let it go and remove 80% of the thoughts behind, under the achievement of more clarity. In other words, by keeping up and accepting the momentary injustice, and keeping the innocence high and safety for healthy competition, we can advance and connect towards the objective, even to a point of transcending and understanding that the higher-order objective - such as an outline - has to change. By going through that, we go through change ourselves. 
 
 <!-- 
 @meta @outline 
-* Outline - Answer k2.3.3 - The confusions with measurement 
+* Outline - Answer k2.3.3 - The confusions with measurement, non-create
 --> 
 
 
-##### OKR on bad judgement and unsafety 
+#### OKR on the non-creative work space 
 
 
 
