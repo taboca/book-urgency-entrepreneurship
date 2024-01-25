@@ -20,7 +20,7 @@
 
 When the entrepreneurial function happens to creatively destroy the old and change  reality it does so more by getting things done [^footnote_schumpeter_entrepreneur_gettingthingsdone] and less because of theory, fiction, inventions, and other required arrangements to thrive. Focusing on the worker - call them doers, executors, entrepreneurs - right after they put their helmet on and set themselves in the trajectory, immediately they visualize that if they want to get things done back home they can't just be doing things, like getting arbitrary things done. In other words, the doers go far but they do so by calling ground control - by setting goals and incessantly fearing [^footnote_fears_drivers] of being drifters in the space of opportunities.
 
-[^footnote_fears_drivers]: We have discussed in the first part how fears play a significant role in driving entrepreneurs, or the actual entrepreneur of their lives. We fear to fail, we fear to be wasting time, we fear to run out of gas or oxigen, and that fear can also set us to run quite fast even entering a fearless movement into action. 
+[^footnote_fears_drivers]: We have discussed in the first part how fears play a significant role in driving entrepreneurs, or the actual entrepreneur of their lives. We fear to fail, we fear to be wasting time, we fear to run out of gas or oxygen, and that fear can also set us to run quite fast even entering a fearless movement into action. 
 
 [^footnote_schumpeter_entrepreneur_gettingthingsdone]: Joseph Schumpeter (2008), the renowned  Austrian-American economist and political scientist known for his theories on economic development and business cycles, in "Capitalism, Socialism, and Democracy," emphasizes the characterization of "getting things done" (p. 132) as an essential element of the entrepreneurial function. He argues this aspect is even more crucial than others, such as the entrepreneur's ability to invent new things or create conditions for the enterprise to thrive. 
 
@@ -213,8 +213,8 @@ With that, our reflection will be more like talking the walk, with the intention
 <!-- 
 @meta @outline 
 * Outline - Answer k1 - Can goal-setting survive? 
-* Outline - Answer k1.0.1 - Situation - Recognizes strong/bold goals as impactful; also in harsh ways - surely where the complication of anxiety - such as giving up - happens. 
-* Outline - Answer k1.0.2 - Complication - The confusion with this top-down vs. bottom-up prevents us to see how to manage better our teams and ourselves. 
+* Outline - Answer k1.0.1 - Situation    - Strong/bold seems impactful in harsh ways #anxiety. 
+* Outline - Answer k1.0.2 - Complication - Confusion with this top-down vs. bottom-up prevents us to see friendly. 
 --> 
 
 
@@ -233,7 +233,7 @@ With that, if a modern doer feels the toxic smoke coming from that managerial en
 
 <!-- 
 @meta @outline 
-* Outline - Answer k1.0.3 - Question-answer - Answer is collaboration that is top-down and bottom-up which unveils the unselfish top-down. 
+* Outline - Answer k1.0.3 - Question-answer - Top-down matters and is unselfish, well with bottom-up.  
 --> 
 
 
@@ -283,7 +283,7 @@ With these two perspectives, we will introduce OKR although in alignment with ou
 
 * Outline - Answer k1.1 - Management tried to optimize but found the innevitability, top-down goes non-selfish. 
 * Outline - answer k1.1.0 - Situation - Management in perspective recognizes more to it, collaboration.
-* Outline - answer k1.1.1 - Complication - What history shows, from the harsh days, was insecurity of the managerial position? We get confused as in attacking the top-down "master". 
+* Outline - answer k1.1.1 - Complication - history harsh days were insecurity of the managerial position. 
 * Outline - answer k1.1.2 - Answer - Priorities and management, top-down, is evolving. [feat. Stepher Covey, feat. Kris Duggan]. 
 --> 
 
@@ -367,7 +367,7 @@ With that said, the construction of OKR through the days of Andy Grove had to fa
 
 <!-- 
 @meta @outline 
-* Outline - answer k1.2.3 - Top-down is the goal of the team, not a representative that can at times be a bad critic 
+* Outline - answer k1.2.3 - Leadership in top-down has to do with team's goal and not a bad critic 
 --> 
 
 
@@ -604,7 +604,7 @@ The other component of it has to do with the Key Results which is how the team m
 
 <!-- 
 @meta @outline 
-* Outline - Answer k2.1.1 - complication - In goal-setting there is a clash of expectations, when the critic gets on top of what is going on, where learning is needed, when innocent paralleization is needed. 
+* Outline - Answer k2.1.1 - complication - Goal-setting fails to re-evaluate objectives under low self-esteem whole
 --> 
 
 The natural question, or complication with that idea, is exactly that it pulls the team towards being locked by the requirements of the goals and key results, which indeed could cause anxiety when the performer feels that things are not going well. Worse it is when, in the face of the feeling that things are not going well, the performer is pressured to work even more towards pre-defined key results, as if assuming that more effort would save the strategy. And, of course, when the matter involves the outcome not serving well, more anxiety certainly comes our way. 
