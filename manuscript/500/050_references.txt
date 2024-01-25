@@ -190,12 +190,15 @@ Minto, B. (1996). The Minto Pyramid Principle: Logic in Writing, Thinking, & Pro
 --> 
 
 <!-- 
-
 200 / 410_automatic_reaction_breaking 
-
+300 / 150_entrepreneurship_is_management 
 --> 
 
-Grove, Andrew. (1983). High Output Management. Vintage Books.
+Grove, A. (2015). High Output Management. Vintage Books.
+
+<!-- 
+200 / 410_automatic_reaction_breaking 
+--> 
 
 Terdiman, D. (2013, November 18). Tiny Speck releases entire Glitch art archives into public domain. CNET. Retrieved from https://www.cnet.com/tech/gaming/tiny-speck-releases-entire-glitch-art-archives-into-public-domain/
 
@@ -241,7 +244,16 @@ Brazil at Silicon Valley [Brasil no Vale do Silício]. (30 de Abril de 2019). Do
 
 Stanford Graduate School of Business. (7/11/2014). Sequoia Capital's Doug Leone on Luck & Taking Risks [Doug Leone da Sequoia Capital sobre Sorte e Riscos] [Arquivo de vídeo]. Obtido de [https://youtu.be/4cl8X02Xd1I?t=2724](https://youtu.be/4cl8X02Xd1I?t=2724)
 
+<!-- 
+ 300 / 150_entrepreneurship_is_management
+ 230_self_confirmation_bias_social_identity.txt
+--> 
+
 Maslow, Abraham H. (1998). Maslow on Management. Published by John Wiley & Sons, Inc.
+
+<!-- 
+ 230_self_confirmation_bias_social_identity.txt
+--> 
 
 Dalio, R. (2017). Principles: Life and work. Avid Reader Press/Simon & Schuster.
 

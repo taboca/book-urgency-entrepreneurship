@@ -5,10 +5,18 @@
 * status - manuscript-ready  
 -->
 
+
+
+
+
 <!-- 
 @meta @outline 
 * Outline - Introduction - Leading pitch - Gettings done exists, we know. But also we know it is not to do arbitrary. We get involved with that. 
 --> 
+
+
+
+
 
 When the entrepreneurial function happens to creatively destroy the old and change  reality it does so more by getting things done [^footnote_schumpeter_entrepreneur_gettingthingsdone] and less because of theory, fiction, inventions, and other required arrangements to thrive. Focusing on the worker - call them doers, executors, entrepreneurs - right after they put their helmet on and set themselves in the trajectory, immediately they visualize that if they want to get things done back home they can't just be doing things, like getting arbitrary things done. In other words, the doers go far but they do so by calling ground control - by setting goals and incessantly fearing [^footnote_fears_drivers] of being drifters in the space of opportunities.
 
@@ -66,13 +74,12 @@ Although looking to that horizon may ring a bell for what is ahead it isn't enti
 --> 
 
 
+
+
 <!-- 
 @meta @outline 
-* Outline - Introduction - #SCqA - Complication - We struggle with the thing in the middle, the execution; We may doubt that a method for progressing with goals helps for when the urgencies are real. 
+* Outline - Introduction - #SCqA - Complication - We struggle with the thing in the middle, the execution; We may doubt - a denial - that a method for progressing with goals helps for when the urgencies are real. 
 --> 
-
-
-
 
 
 
@@ -113,30 +120,15 @@ There is truth in there - truth that will also guide us ahead - but for now I ra
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- 
 @meta @outline 
-* Outline - Introduction - #SCqA - Question Answer - Introduction - #SCqA - Question Answer - Dilemma of alraey being involved with productivity and provooked to not dive as the methods for orientation to goals seem to not fit, too complex, can be deferred. @meta-refid 875-834-923-933
+* Outline - Introduction - #SCqA - Question Answer - Introduction - #SCqA - Question Answer - Dilemma of already being involved with productivity and provoked to not dive-  as the methods for orientation to goals seem to not fit, too complex - so that it can be deferred. @meta-refid 875-834-923-933
 --> 
+
+
+
+
+
 
 So, here we set ourselves in a dilemma where we are engaged and concerned with productivity, to do our best towards our objectives, but equally concerned with the aspects when and why. In other words, is it worth to get involved with learning about goal-setting and goal management and if so When is the right time to consider the applicability of any formal method or framework? 
 
@@ -152,26 +144,15 @@ With that said, we will ride along with OKR - Objectives and Key Resources - a m
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- 
 @meta @outline 
 * Outline - Introduction - #SCqA - Answer - We are going to use OKR but as a conversation, discussion goal-setting and management of goals, and to check what OKR has to say. Goal-setting deals with top-down and bottom-up? Can OKR course-correct? And what is the battle? 
 --> 
+
+
+
+
+
 
 #### OKR as a rich conversation 
 
@@ -191,23 +172,74 @@ As we move on with OKR, the good news is that we won't be riding on it while try
 
 With that, our reflection will be more like talking the walk, with the intention to help us and our colleagues when we are required to go walk the walk or walk the talk in the domain of management of goals. Let us start by checking why is it that top-down goals are important, and what OKR tells us about using  strong or ambitious or possibly long-term goals, and the considerations for dealing with goals when the road is uncertain. Moving on, we will check the how management of goals - and OKR along with it - deals with the need for course correction. As for the last section, we will consider the complexities for measuring and the judgment of progress and how the too radical perspective can influence the team's poor judgement. 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Can goal-setting survive?  
+
+
+
+
+
 
 <!-- 
 @meta @outline 
 * Outline - Answer k1     - Can goal-setting survive? 
-* Outline - Answer k1.0.1 -   Situation       - Recognizes strong/bold goals as impactful; and even harsh. 
-* Outline - Answer k1.0.2 -   Complication    - Recognizes anxiety, managerial dismiss, and the day they are in charge.  
+
+* Outline - Answer k1.0.1 -   Situation       - Recognizes strong/bold goals as impactful; also in harsh ways - surely where the complication of anxiety - such as giving up - happens. 
+* Outline - Answer k1.0.2 -   Complication    - The confusion with this top-down vs. bottom-up prevents us to see how to manage better our teams and ourselves. 
 --> 
+
+
+
+
+
 
 Why is it that when a young worker enters an organization they find top-down goals so impactful to their lives? And I don't mean impactful as seen by the eyes of the executives that deploy them expecting from them mostly outcomes; but impactful in ways that brings tears from their eyes, that drains their creative potential if not their health. Although that can be an extremme, yet it doesn't disconnect from point from the Basecamp founders - that state of anxiety - where the doers are harmed and with that the impact turns out to be the lower performance to the organization. But if tears can't be seen, still it drive us nuts when we feel the feedback of that need for speed where top-down goals only expects numbers, like outcomes, and doesn't care for what goes on in the cockpit. Much of that sounds like the harsh bad old days where self-called masters expected from people, their time and energy, and saw them as effort-deploying units that happens to walk and talk, and to be tired. 
 
 With that, if a modern doer feels the toxic smoke coming from that managerial engine and witness through the mirror as fixing it is not on her to-do list. Instead, and quite sadly, that affects her blood,  increases anxiety, and affects the joy of even driving it. Moreover, it has the power to impact her option - to not be so excited with - about the subject of managing progress with goals. Equaly sad is when some of us drivers are called to set the management framework - like when they become founders - and finally get to be in a position to hire and recruit others; and even if they don't do it in the most brutal old ways, they still can't figure much what to do except to set some breezy version of setting top-down expectation and expect outcomes in the hope that their subordinates can do it. 
 
+
+
+
+
+
 <!-- 
 @meta @outline 
-* Outline - Answer k1.0.3 -   Question-answer - Through OKR, we can reflect on the core aspects that brings anxiety and how achieving goal is challenging and needs a top-down vs bottom-up collaboration.  
+* Outline - Answer k1.0.3 -   Question-answer - Answer is collaboration that is top-down and bottom-up which unveils the unselfish top-down. 
 --> 
+
+
+
+
 
 If we hold the position that a longer plan is valid, or meaningful, and required. This view recognizes that people get to do things because of their connection with what has to be done. This also aligns with the startup situation where there is a prior movement exists before getting things ready, before action, such as the precursor movement from inspiration, from having a viewpoint about something that needs to be changed. In other words, it may be overlooked that a strong objective exists - especially when organizations are already running driven by so clear stronger objectives. Now, with that in sight, we are also seeking a way for our management of progress to recognize and reconciliate the top-down goals with the realities of the doers, which in the view of OKR this recogniztion happens through bottoms-up analysis. 
 
@@ -220,19 +252,51 @@ With these two perspectives, we will introduce OKR although in alignment with ou
 
 
 
-#### The evolution of the top-down from time 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- 
 @meta @outline 
-* Outline - Answer k1.1 - How top-down matters? 
-* Outline - answer k1.1.0 - Situation/Complication - The attack that a master does, in asking for the doer to do, is an attack that happens even in the self situation. 
+
+* Outline - Answer k1.1 - Management tried to optimize but found the innevitability, top-down goes non-selfish. 
+
+* Outline - answer k1.1.0 - Situation    - Management in perspective recognizes more to it, collaboration.
+* Outline - answer k1.1.0 - Complication - What history shows, from the harsh days, was insecurity of the managerial position? We get confused as in attacking the top-down "master". 
+
 * Outline - answer k1.1.1 - Answer - Priorities and management, top-down, is evolving. [feat. Stepher Covey, feat. Kris Duggan]. 
-* Outline - answer k1.1.2 - Answer - Potential denial [feat. Peter Drucker, feat. Nightingale] 
-* Outline - answer k1.1.2.1 - OKR supports top-down how? 
-* Outline - answer k1.1.2.2 - OKR reflects on risks? 
 --> 
 
-What appears from the historical perspective, the flight from above, is that the science of goal management is evolving; and that it had entered to face the hard reality that goal management has to stretch to enable doers to achieve their goals, especially that aspiring and ambitious goals are more frequent as opposed to the expected commitments where humans are expected to act as robots. The following passage from Stephen Covey, from *7 Habits of Highly Effective People*, we are moving from time management towards the managent of ourselves: 
+
+
+
+
+
+
+What appears from the historical perspective, the flight from above, is that the science of goal management is evolving to reduce that *fight from above*. What I mean is that management is adapting goal management, or stretching it, to enable more collaboration and by that more doers to become real constributors and so that they can achieve goals - especially that aspiring and ambitious goals are more frequent as opposed to the expected commitments where humans are expected to act as robots. The following passage from Stephen Covey, from *7 Habits of Highly Effective People*, we are moving from time management towards the managent of ourselves: 
 
 > *"In the area of time management, each generation builds on the one before it - each one moves us toward greater control of our lives. The first wave or generation could be characterized by notes and checklists, an effort to give some semblance of recognition and inclusiveness to the many demands placed on our time and energy.
 > The second generation could be characterized by calendars and appointment books. This wave reflects an attempt to look ahead, to schedule events and activities in the future.
@@ -240,7 +304,7 @@ What appears from the historical perspective, the flight from above, is that the
 > While the third generation has made a significant contribution, people have begun to realize that "efficient" scheduling and control of time are often counterproductive. The efficiency focus creates expectations that clash with the opportunities to develop rich relationships, to meet human needs and to enjoy spontaneous moments on a daily basis."* 
 > (Covey, Stephen., 1989, p.149-150)
 
-He concludes, since we moved on from that *time management* to the management of ourselves, that we shifted from expecting tasks to be done - the *things* in *time* - and as the fourth generation we became interested in accomplish results and building relationships.  
+He concludes, since we moved on from that *time management* to the management of ourselves, that we shifted from expecting tasks to be done - the *things* in *time*. And, as the fourth generation, we started an interest in accomplishing results and building relationships.  
 
 <!--
 @meta @todo 
@@ -252,12 +316,20 @@ He concludes, since we moved on from that *time management* to the management of
 
 
 
-#### OKR is an ongoing conversation 
+
+
 
 <!-- 
 @meta @outline 
-* Outline - answer k1.1.2 - Introduce OKR as the continuation to the discussion that adapts to our days, it was tested at google, and have good origins. 
+* Outline - answer k1.1.2 - Introduce OKR - What OKR tells us of that relationship? Origins of OKR shows?
+* Outline - answer k1.1.2.1 - OKR supports top-down how? 
+* Outline - answer k1.1.2.2 - OKR reflects on risks? 
 --> 
+
+
+
+
+
 
 <!--
 @meta @todo
@@ -270,7 +342,7 @@ He concludes, since we moved on from that *time management* to the management of
 --> 
 
 
-Thiis is where OKR can be more properly introduced in the context of that wider goal-setting and management of goals context. Before anything, and in alignment with this view from perspective, we should acknowledge that OKR was recently popularized by the championing work of John Doerr [^footnote_johndoerr_okr] , through the evangelism work where he pushed the movement further inside Google, and through the book entitled *Measure What Matters*, where the discussion continues to evolve. After the work, and through the WhatsMatters side [^foonote_whatmatters_site] and other resources such as the What Matters course [^footnote_whatmatters_course], one can see part of a wider movement which is occupied with testing, experimenting, learning, and evolving the conversation. 
+This is where OKR can be more properly introduced in the context of that wider goal-setting and management of goals context. Before anything, and in alignment with this view from perspective, we should acknowledge that OKR was recently popularized by the championing work of John Doerr [^footnote_johndoerr_okr] , through the evangelism work where he pushed the movement further inside Google, and through the book entitled *Measure What Matters*, where the discussion continues to evolve. After the work, and through the WhatsMatters side [^foonote_whatmatters_site] and other resources such as the What Matters course [^footnote_whatmatters_course], one can see part of a wider movement which is occupied with testing, experimenting, learning, and evolving the conversation. 
 
 [^footnote_johndoerr_okr]: John Doerr, a renowned venture capitalist, has been a vocal advocate for the framework of Objectives and Key Results (OKRs) which he discusses in his book *Measure What Matters*. He learned much about this methodology directly from Andy Grove during his time at Intel. 
 
@@ -292,12 +364,20 @@ With that said, the construction of OKR through the days of Andy Grove had to fa
 
 > *""* Andy Grove, Only the Paranoide Survive 
 
+
+
+
+
+
 <!-- 
 @meta @outline 
-* Outline - answer k1.1.2.1 - Top-down is not from the chart but inherent to the goal 
+* Outline - answer k1.1.2.1 - Top-down is the goal of the team, not a representative that can at times be a bad critic 
 --> 
 
-#### How OKR sees top-down 
+
+
+
+
 
 These ilustrations, of the hard days of these managers, are good for us to have a sense of the how OKR happened to be constructed. Can a company that is in high-growth, and strong, that needs to set goals and expectations to its workers, keep a system that enables them to not follow so blindly? In other words, OKR starts yes with the top-down goals and expectations, it wants it to be real and meangful - and it is okay with the driving goal of 2 years. But equaly balanced is the view that is bundle within - that without it one would read the following like a super strict and harsh reason to be disciplined with the goals as in written in stone; but not, the nuanced view there is more: 
 
@@ -318,10 +398,19 @@ And digs even more:
 
 In other words, if we happen to see the chart when we think of top-down, we happen just to see the by-product of a prior success of someone that likely had conquered stability and that is performing, expecting, under their assumptions that they are on the right path. But if when we come to terms with the essence, the top-down comes really from the goal, the objective, the thing that you or anyone, team or unit, is onto. 
 
+
+
+
+
 <!-- 
 @meta @outline 
 * Outline - answer k1.1.2.3 - OKR reflects on risks? 
 --> 
+
+
+
+
+
 
 Consider the concern of the OKR crew, pointed from the Coursera from Measure What Matters, where they have stated the quote from John Doerr: "In Measure What Matters, John Doerr says, "The more ambitious the OKR, the greater the risk of overlooking a vital criterion. "
 
@@ -332,12 +421,42 @@ Consider the concern of the OKR crew, pointed from the Coursera from Measure Wha
 
 There is nothing in OKR, to summarize this notion and call to keep the top-down alive, that wants to set the whole ship to miss understanding of what is going on, and to ignore the vital force, the doers in the middle. 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- 
 @meta @outline 
 * Outline - Answer k1.2 - Goals might be inherently part of - the contribution   
 --> 
 
-#### How OKR sees bottom-Up
+
+
+
 
 <!-- 
 @meta @todo 
@@ -375,6 +494,12 @@ And goes on into a more enlightened view that the management of the self gains s
 * @todo - p2 ( ) - In Not So Radical Focus - On "What should my contribution be?" - The writing down, the specification, how how what they do vs. the larger purpose. According to Michael, from his GM2 Course [ ref https://www.harrisonmetal.com/classes/gm2-setting-goals-measuring-performance/lessons/magic-of-okrs ] which is private, "they are dying to know how what they do connects to a larger purpose." / @meta-refid 20129-201921-201920-201902 
 --> 
 
+
+
+
+
+
+
 Now, if that role of the doer is alive and if OKR something to say about that is it so as a consequence of the very real frame of work that brought OKR. From the perspective of evangelism, John Doerr popularized it at Google and through the *Measure What Matters* but of course by checking its own usage and from its past experience by Andy Grove as he worked at Intel and learned about management by objectives directly from Andy. In addition, Andy has credited that he improved his views of management by objectives from Peter Drucker.
 
 > *""* Andy Grove (Andy on Peter, from High Output Management)
@@ -385,10 +510,40 @@ All that to give us a view that OKR has strong points because of the interest if
 
 Now if people to join projects, with causes and goals, they do because they know their strenghts can be used for the situation that needs to be changed. And, as they feel that they can do something. Likewise, the structure of a goal-setting project, such as one having a clarity for the expected results that favors the goal, is likely respected by the doers and needed by the organization viewpoint. In other words, the clarity - that OKR requires - for what has to be done and how the doers connect is just a needed minimum requirement for anyone to be involved. It is what makes them to show up not feeling completely lost. 
 
+
+
+
+
+
 <!-- 
 @meta @outline 
 * Outline - Answer k1.2.1 - The fight of top-down and bottom-up   
 --> 
+
+
+
+
+#### Maslow on selfish vs. non-selfish 
+
+Abraham Maslow speaks of the idea of the selfish that works along with the non-selfish. This, of course, requires or goes along with an enlighted condition where the challenges of work becomes the space for growth of work and the self, altogether: 
+
+> *"This is an easy medicine for self-esteem: Become part of something important. Be able to say, "We of the United Nations . . ." or "We physicians . . ." When you can say, "We psychologists have proven that . . ." you thereby participate in the glory, the pleasure, and the pride of all psychologists any place. 
+> This identification with important causes, or important jobs, this identifying with them and taking them into the self thereby enlarging the self and making it important, this is a way of overcoming also actual existential human shortcomings e.g., shortcomings in I.Q, in talent, in skill, etc. For instance, science is a social institution, with division of labor and colleaguehood *and* exploitation of characterological differences - this is a technique for making uncreative people creative, for making unintelligent men to be intelligent, for enabling small men to be big, for permitting limited men to be eternal and cosmic."* (Maslow, Abraham H., 1998, pp. 11-12)
+
+<!-- 
+@meta @references
+* reference - Maslow, Abraham H. (1998). Maslow on Management. Published by John Wiley & Sons, Inc.
+--> 
+
+
+
+
+#### Andy on selfish vs. non-selfish 
+
+> *"To make such a body work requires the *voluntary surrender of individual decision making to the group*. Being a member means you no longer have complete freedom of individual action, because you must go along with the decisions of your peers in most instances. By analogy, think of yourself as one of a couple who decides to take a vacation with another couple. You know that if you go together, you will not be free to do exactly what you want to do when you want to do it, but you go together anyway because you have more fun, even while you'll have less freedom. At work, surrendering individual decision-making depends on trusting the soundness of actions taken by your group of peers."* (Grove, A., 2015, pp. 134-135)
+
+
+
 
 #### Appears to be a fight 
 
@@ -396,23 +551,19 @@ Before we move into the next section - the aspects of course-correction - it is 
 
 Or if we look for the fight that happens in the micro context, a small team even of friends working, a fight that also happens within the micro context of the individual. This is the fight that one deals with when they want to lose weight, or to learn to write, or to come up with an invention when the materials to do so are not fully in place, or seeking a freedom in a space where the rules yet don't allow. Achieving them goals will be hard, like it or not, we will only have to face the reality that we as managers have to nurture the environment for them to be achieved because the doer can only do one thing - to contribute - if they are onto it. That is yet another reason for the goals to be meaningful for them. And if we are wearig this hat, or when we are wearing this hat, we are into the need to comply with the understanding of what should our contribution be. This relationship between our personalities - one being the innocent doer or the sensitive doer that is learners; and the other being the critic or the editor that will demand results, is natural. Our goal, as managers and minimally at this point that we are really reflecting with all of this, is to continue to check what the conversaion - like the OKR one - is telling us for how we can do our best especailly that we may not know what to do and what generally the goal is not yet clear as well. 
 
-#### Course-correcting or discovery of indicators? 
 
-<!-- 
-@meta @outline 
-* Outline - answer k1.2.1 - OKR is the managerial opportunity for the top-down learning and has to manage risks  
---> 
 
-BUt likewise with the concerns, these are there in ways that the doer is real, a contributor, and not following blindly. The opportunity is for understanding the best work possible and also reading from the data, the real information that is applicable to the context. In the view of Andy the meetings with the managers are the key aspect where the doer is the owner and the manager is there to help: 
 
-> *""* Andy Grove, High Output Management 
 
-Andy elabores on the aspects of the strategic management that rises from the actual involvement, the work. AS an example, the opportunity lies in the identification of the "both effect and counter-effect"
 
-<!--
-@meta @todo 
-* @todo p2 ( ) - In Not so Radical Focus - Check the high level point from the Measure What Matters folks, John and also Andy, in alignment with what was said in the Coursera course from What Matters which referenced Andy Grove on the importance of pairing indicators - "both effect and counter-effect." . Check the page from Andy's book which maybe have to do with the pages indicated by the course of Michael Dearing. @refid-whatsapp 23479 @refid 3298-9484-8483-9943
---> 
+
+
+
+
+
+
+
+Now, from the more peaceful space between the role of the one that wants the top-down, against the role of the one that tries to be a contributor, the health dynamics is not only the only thing to do - it's the necessary thing to do and the main thing to do. But also, when better explored or studier or under a calmer reflection, one will realize that this is the space for the actual opportunity - and we will come to recognize that in most of the situations we do not have clarity about how we phrased our top-down goals too where the actual work of doing it is the work that gives light to the path. Let's move on to see how that opportunity to course-correct goals happens and how OKR offers a great deal of support to that. 
 
 
 
@@ -427,12 +578,34 @@ Andy elabores on the aspects of the strategic management that rises from the act
 
 
 
-Now, from the more peaceful space between the role of the one that wants the top-down, against the role of the one that tries to be a contribor, the health dynamics is not only the only thing to do, and necessary but also when explored will be the space for the actual opportunity - and we will come to  recognize that in most of the situations we do not have clarity about how we phrased our top-down goals too - and that the actual work of doing it is the work that gives light to the path. Let's move on to see how that opportunity to course-correct goals happens and how OKR supports that too. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- 
 @meta @outline 
 * Outline - Answer k2 - OKR analysis for Course-correction, failure, and opportunity 
 --> 
+
+
+
+
+
 
 ## OKR on course-correction
 
@@ -478,19 +651,36 @@ Does OKR supports the possibility that objectives and the key results are not we
 
 With that problem ahead of us, let us continue to investigate if OKR has course-correction that supports learning and evalution of the goals. The short answer is yes, although we have to acknowlege how difficult it is to use a goal-setting system that seems to offer an escape hatch for escaping the ship such as change the plan on the go. 
 
+
+
+
+
+
+
 <!-- 
 @meta @outline 
-* Outline - Answer k2.1 - Collaboration aspect of OKR - transparency of key results 
+* Outline - Answer k2.1 - Collaboration aspect of OKR - transparency of key results as the hardest thing to do which calls for a confrontation and dilemma 
 --> 
+
+
+
+
 
 Consider an OKR that started with an initial objective, such as an objective that was created ahead of any work, such as one that comes from a mission or a vision. It does so with the purpose of pushing the design process of OKR into the modelling, or planning, for the steps that are thought to be steps that pulls the objective closer. 
 
 This part, the Key Results part of OKR, appears first as a mechanism to keep track, that adds transparency, and which reveals what is being done and what is ahead. In additin, it is also a mechanism that offers a window of opportunity to see what goes on and how what is being done connects with where we want to go. Here is where OKR starts to get complicated as, in essence, it's becomes a collaboration mechanism. What I mean by complicated is that much more simpler to simply use OKR for tracking, as in a stream that goes to one direction, than for enabling it as a collaborative communication tool that allows teams to evaluate what they do, to change what they are tracking, if not to chage what they are going after. 
 
+
+
+
+
 <!-- 
 @meta @outline 
 * Outline - Answer k2.1.1 - Collaboration aspect of OKR  - and case of a book writing 
 --> 
+
+
+
 
 Through a case of writing we can see how the mechanis of using key results can be powerful, and where we establish the minimal effort with a maximum impact, through honoring the collaborative process that take place, transparently, honestly. The upfront "daring" accomodation of key results with the open mindset to evaluate is the key. 
 
@@ -498,10 +688,85 @@ First looking at the simpler dimention of OKR, consider when one said that she i
 
 This collaborative aspect of OKR, used by organizations that reportedly does well, consider that some of them require individuals to post their OKRs, to share. This situation takes a great culture and great effort in the first place. They report benefits such as when an employee, by knowing what other employee is doing, can offer help indirectly such as to give hints, advices, and new ideas. Moreover, the essence of this is that the doer is okay in the doing of it, even in the early stages, even when mistakes are apparent. 
 
+
+
+
 <!-- 
 @meta @outline 
-* Outline - Answer k2.1.2 - Course correct - internal market starts with honesty and transparency
+* Outline - Answer k2.1.2 - Collaboration aspect of OKR  - and case of a book writing through the editor-critic 
 --> 
+
+
+
+
+
+
+
+
+
+<!-- 
+@meta @outline 
+* Outline - answer k2.2 - Teams and OKR as the managerial opportunity for the top-down learning and has to manage risks  
+--> 
+
+
+
+
+
+
+
+It is valid to assert that OKR, as a framework, promotes the effort of colloration that involves, checking, evaluating, and changing direction. Consider, for example, another aspect of OKR where Key Results - as promoted by the viewpoint of John Doerr - can be defined as aspirational or commitment based. These approaches exist to accommodate the situations where a lot of learning, such as discovery, is involved - commitment based key results offers an approach to check progress for the moments that we know exactly what needs to be done. Again, the applicability and value from it depends on the strategic planning. 
+
+But the evaluation of the what happens, according to the approach, is key and should be likely done at all times. Not only after the fact that when done properly communication and contributions happens indirectly as indicated. The natural execution of it requires constant evaluation that involves self review and peer review, such as a review with a manager. 
+
+
+
+
+
+
+#### Through the output emerges the opportunity
+
+> *"Thus, the true output of the planning process is the set of tasks that cause to be implemented. The output of Intel's annual plan, for instance, is the actions taken and the changes prompted as a result of the thinking process that took place throughout the organization. I, for one, hardly ever look at the bound volume finally called the Annual Plan. In other words, the output of the planning process is the *decisions* made and the *actions* taken as a result of the process."* (Grove, A., 2015, p. 109)
+
+<!-- 
+@meta @references 
+* reference - Grove, A. (2015). High Output Management. Vintage Books.
+-->
+
+
+
+
+#### The discovery of new indicators? 
+
+
+BUt likewise with the concerns, these are there in ways that the doer is real, a contributor, and not following blindly. The opportunity is for understanding the best work possible and also reading from the data, the real information that is applicable to the context. In the view of Andy the meetings with the managers are the key aspect where the doer is the owner and the manager is there to help: 
+
+> *""* Andy Grove, High Output Management 
+
+Andy elabores on the aspects of the strategic management that rises from the actual involvement, the work. AS an example, the opportunity lies in the identification of the "both effect and counter-effect"
+
+<!--
+@meta @todo 
+* @todo p2 ( ) - In Not so Radical Focus - Check the high level point from the Measure What Matters folks, John and also Andy, in alignment with what was said in the Coursera course from What Matters which referenced Andy Grove on the importance of pairing indicators - "both effect and counter-effect." . Check the page from Andy's book which maybe have to do with the pages indicated by the course of Michael Dearing. @refid-whatsapp 23479 @refid 3298-9484-8483-9943
+--> 
+
+
+
+
+
+
+
+
+
+<!-- 
+@meta @outline 
+* Outline - Answer k2.2 - Teams - The internal market starts with honesty and transparency and safety 
+--> 
+
+
+
+
+
 
 > ".................." 
 
@@ -525,27 +790,16 @@ Notice that in the illustration he created the idea of "funded" can be interpret
 
 
 
-<!-- 
-@meta @outline 
-* Outline - Answer k2.2. - Course correct - Allowing the editor-critic 
---> 
 
-It is valid to assert that OKR, as a framework, promotes the effort of colloration that involves, checking, evaluating, and changing direction. Consider, for example, another aspect of OKR where Key Results - as promoted by the viewpoint of John Doerr - can be defined as aspirational or commitment based. These approaches exist to accommodate the situations where a lot of learning, such as discovery, is involved - commitment based key results offers an approach to check progress for the moments that we know exactly what needs to be done. Again, the applicability and value from it depends on the strategic planning. 
 
-But the evaluation of the what happens, according to the approach, is key and should be likely done at all times. Not only after the fact that when done properly communication and contributions happens indirectly as indicated. The natural execution of it requires constant evaluation that involves self review and peer review, such as a review with a manager. 
 
-<!-- 
-@meta @outline 
-* Outline - Answer k2.2. - Course correct - Allowing the editor-critic - complication - 
---> 
 
-Of course, depending on the culture, toxic aspects can come the way to influence the process to offer no value. For example, depending on how the measurement of performance of an employee is done, such as when the compensation is associated with the Key Results and moving towards the Objective as written, then the results can be catrastrofic. Would one want to course correct its path, after having good reasons for so, after knowing that she or he could be evaluated as bad performer and even get fired? That kind of situation would certainly bring anxiety and a lot of distractions for a call that would not likely happen. 
 
-It is important to pause here and reflect that a lot of companies indeed enters that mode. They set goals in stone, they put prizes for the ones that follows the path as written, they punish the ones that didn't do well. Then it comes the question, do they course correct? Yes but they do that in macro terms, by facing a crisis, which likely involve getting people fired, managers fired, teams reorganized. From the point of view of an employee, under a whole team that got fired for moving in the bad direction claiming it was good, the employee generally tries to escape the spiral of death by reclaiming that he was told to do that job and was performing well. In a lot of situations like that, a lot of people can get away. But still, anxiety was present and a lot of effort to manage the crisis which can and should be considered a bad use of the time of people. 
 
-Therefore, it is ideal to think that a plan for progressing is not about a plan for evaluating people - as in to consider them in or out the boat. This is a key aspect of the OKR approach that when well considered can make OKR become a useful tool and one that also serves well for course-correcting and actually bringing everyone on board and focusing on what matters. 
 
-With a cadence for evaluating what is being done, with allowance for reviewing with transparency and strategic thinking too, the approach can help person to change the plan at the level of the Key Results and also Objectives. 
+
+
+
 
 <!-- 
 @meta @outline 
@@ -573,6 +827,34 @@ The effort of redoing the OKR hundreds of times, is for the sake of being open. 
 @meta @outline
 * Outline - Answer k3 - Outcome vs. output battle - Intro - pitch 
 --> 
+
+
+
+
+
+<!-- 
+@meta @outline 
+* Outline - Answer k3.1 - The confusions with measurement 
+--> 
+
+
+
+
+
+
+Of course, depending on the culture, toxic aspects can come the way to influence the process to offer no value. For example, depending on how the measurement of performance of an employee is done, such as when the compensation is associated with the Key Results and moving towards the Objective as written, then the results can be catrastrofic. Would one want to course correct its path, after having good reasons for so, after knowing that she or he could be evaluated as bad performer and even get fired? That kind of situation would certainly bring anxiety and a lot of distractions for a call that would not likely happen. 
+
+It is important to pause here and reflect that a lot of companies indeed enters that mode. They set goals in stone, they put prizes for the ones that follows the path as written, they punish the ones that didn't do well. Then it comes the question, do they course correct? Yes but they do that in macro terms, by facing a crisis, which likely involve getting people fired, managers fired, teams reorganized. From the point of view of an employee, under a whole team that got fired for moving in the bad direction claiming it was good, the employee generally tries to escape the spiral of death by reclaiming that he was told to do that job and was performing well. In a lot of situations like that, a lot of people can get away. But still, anxiety was present and a lot of effort to manage the crisis which can and should be considered a bad use of the time of people. 
+
+Therefore, it is ideal to think that a plan for progressing is not about a plan for evaluating people - as in to consider them in or out the boat. This is a key aspect of the OKR approach that when well considered can make OKR become a useful tool and one that also serves well for course-correcting and actually bringing everyone on board and focusing on what matters. 
+
+With a cadence for evaluating what is being done, with allowance for reviewing with transparency and strategic thinking too, the approach can help person to change the plan at the level of the Key Results and also Objectives. 
+
+
+
+
+
+
 
 ## The battle of Outcome vs. Output  
 
