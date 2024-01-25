@@ -1,4 +1,4 @@
-## Outline v0.8 
+## Outline v0.9 
 
 * Strategy - The getting things done, even done by chance, starts to show that doing things is not getting things done. 
 * Outline - Introduction - Leading pitch - Gettings done exists, we know. But also we know it is not to do arbitrary. We get involved with that anyway, concerned with. 
@@ -6,6 +6,72 @@
 * Outline - Introduction - #SCqA - Complication - We doubt, w defer, and when we check, it seems too much. 
 * Outline - Introduction - #SCqA - Question Answer - Introduction - #SCqA - Question Answer - Dilemma of alraey being involved with productivity and provooked to not dive as the methods for orientation to goals seem to not fit, too complex, can be deferred. @meta-refid 875-834-923-933
 * Outline - Introduction - #SCqA - Answer - We are going to use OKR but as a conversation, discusso goal-setting and management of goals, and to check what OKR has to say. 
+
+* --------------
+
+* Outline - Answer k1 - Can goal-setting survive? 
+
+* Outline - Answer k1.0.1 - Situation - Recognizes strong/bold goals as impactful; also in harsh ways - surely where the complication of anxiety - such as giving up - happens. 
+* Outline - Answer k1.0.2 - Complication - The confusion with this top-down vs. bottom-up prevents us to see how to manage better our teams and ourselves. 
+* Outline - Answer k1.0.3 - Question-answer - Answer is collaboration that is top-down and bottom-up which unveils the unselfish top-down. 
+
+* --------------
+
+* Outline - Answer k1.1 - Management tried to optimize but found the innevitability, top-down goes non-selfish. 
+* Outline - answer k1.1.0 - Situation - Management in perspective recognizes more to it, collaboration.
+* Outline - answer k1.1.1 - Complication - What history shows, from the harsh days, was insecurity of the managerial position? We get confused as in attacking the top-down "master". 
+* Outline - answer k1.1.2 - Answer - Priorities and management, top-down, is evolving. [feat. Stepher Covey, feat. Kris Duggan]. 
+
+* Outline - answer k1.2.1 - Introduce OKR - What OKR tells us of that relationship?
+* Outline - answer k1.2.2 - OKR supports top-down how? 
+* Outline - answer k1.2.3 - Top-down is the goal of the team, not a representative that can at times be a bad critic 
+* Outline - answer k1.2.4 - OKR reflects on risks? 
+
+* Outline - Answer k1.3.1 - Goals might be inherently part of - the contribution   
+* Outline - Answer k1.3.2 - The fight of top-down and bottom-up   
+
+* --------------
+
+* Outline - Answer k2 - OKR analysis for course-correction, failure, and opportunity.
+
+* Outline - Answer k2.1.1 - complication - In goal-setting there is a clash of expectations, when the critic gets on top of what is going on, where learning is needed, when innocent paralleization is needed. 
+* Outline - Answer k2.1.3  - question - 
+* Outline - Answer k2.1.4  - answer - 
+
+* Outline - Answer k2.2.0 - Collaboration - Transparency of key results, the hardest thing, and confusing dilemma 
+* Outline - Answer k2.2.1 - Collaboration -  \____ - Example of a book writing, the goal and the doing it. 
+* Outline - Answer k2.2.2 - Collaboration -  \____ - Example of a book writing, the editor-critic.
+
+* Outline - answer k2.3.0 - Teams - OKR as the managerial opportunity for top-down to learn the best doing it.  
+* Outline - Answer k2.3.1 - Teams - The internal market starts with honesty and transparency and safety. 
+*                                   \___ Requires non-selfish and safety.
+* Outline - Answer k2.3.2 - Teams - Reinventing recyling - hundreds of time, is example of support. 
+*                                   \___ Requires internal market.  
+
+* --------------
+
+* Outline - Answer k3 - Outcome vs. output battle - Intro - pitch 
+* Outline - Answer k3 - Outcome vs. output battle - Intro - Situation  
+* Outline - Answer k3 - Outcome vs. output battle - Intro - Complication - Being arbitrary in terms of key results doesn't add transparency level to what is going on, and can even lead to abuse. What to do? What is going on?  
+
+* Outline - Answer k3 - Outcome vs. output battle - Intro - Answer - 
+* Outline - Answer k3.1 - Outcome vs. output battle - answer - Underlying concept of project logic 
+* outline - Answer k3.2 - Outcome vs. output battle - answer - Thesis for output as the window - Andy Grove and also MWM coursera course. 
+* outline - Answer k3.3 - Outcome vs. output battle - answer - maturity models
+* outline - Answer k3.3 - Outcome vs. output battle - answer - maturity models - effort vs. outcome
+* outline - Answer k3.3.2 - Outcome vs. output battle - answer - maturity models - effort vs. outcome - resetting junior
+* outline - Answer k3.3.3 - Outcome vs. output battle - answer - maturity models - effort vs. outcome - rupture
+
+
+
+
+## Outline v0.8 
+
+* Strategy - The getting things done, even done by chance, starts to show that doing things is not getting things done. 
+* Outline - Introduction - Leading pitch - Gettings done exists, we know. But also we know it is not to do arbitrary. We get involved with that anyway, concerned with. 
+* Outline - Introduction - #SCqA - Situation - We are concerned with productivity and even give management of objectives under the need of being productive. 
+* Outline - Introduction - #SCqA - Complication - We doubt, w defer, and when we check, it seems too much. 
+* Outline - Introduction - #SCqA - Question Answer - Introduction - #SCqA - Question Answer - Dilemma of alraey being involved with productivity and provooked to not dive as the methods for orientation to goals seem to not fit, too complex, can be deferred. @meta-refid 875-834-923-933
 
 * --------------
 
@@ -19,15 +85,15 @@
 * Outline - answer k1.1.1 - Origins of top-down, good and bad [feat. Peter Drucker, feat. Stepher Covey, feat. Kris Duggan] 
 * Outline - answer k1.1.2 - Introduce OKR as the continuation to the discussion that adapts to our days, it was tested at google, and have good origins, like top-down that has to be smart to the new winds. 
 
-* Outline - answer k1.1.2.1 - Top-down is not from the chart but inherent to the goal 
+* Outline - answer k1.1.2.1 - OKR supports top-down how? 
 * Outline - answer k1.1.2.3 - OKR reflects on risks? 
 
-* Outline - Answer k1.2 - Goals might be inherently part of - the contribution   
+* Outline - answer k1.2 - What should me contribution be? 
 
 * --------------
 
 * Outline - Answer k2 - OKR analysis for Course-correction, failure, and opportunity 
-* Outline - Answer k2.0.2 - intro - complication - In goal-setting there is a clash of expectations, when the critic gets on top of what is going on, where learning is needed, when innocent paralleization is needed. 
+* Outline - Answer k2.0.2 - intro - complication - 
 * Outline - Answer k2.0.2 - intro - question - 
 * Outline - Answer k2.0.2 - intro - answer - 
 * Outline - Answer k2.1 - Collaboration aspect of OKR - transparency of key results 

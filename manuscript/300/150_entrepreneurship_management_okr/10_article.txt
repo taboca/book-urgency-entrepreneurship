@@ -212,10 +212,9 @@ With that, our reflection will be more like talking the walk, with the intention
 
 <!-- 
 @meta @outline 
-* Outline - Answer k1     - Can goal-setting survive? 
-
-* Outline - Answer k1.0.1 -   Situation       - Recognizes strong/bold goals as impactful; also in harsh ways - surely where the complication of anxiety - such as giving up - happens. 
-* Outline - Answer k1.0.2 -   Complication    - The confusion with this top-down vs. bottom-up prevents us to see how to manage better our teams and ourselves. 
+* Outline - Answer k1 - Can goal-setting survive? 
+* Outline - Answer k1.0.1 - Situation - Recognizes strong/bold goals as impactful; also in harsh ways - surely where the complication of anxiety - such as giving up - happens. 
+* Outline - Answer k1.0.2 - Complication - The confusion with this top-down vs. bottom-up prevents us to see how to manage better our teams and ourselves. 
 --> 
 
 
@@ -234,7 +233,7 @@ With that, if a modern doer feels the toxic smoke coming from that managerial en
 
 <!-- 
 @meta @outline 
-* Outline - Answer k1.0.3 -   Question-answer - Answer is collaboration that is top-down and bottom-up which unveils the unselfish top-down. 
+* Outline - Answer k1.0.3 - Question-answer - Answer is collaboration that is top-down and bottom-up which unveils the unselfish top-down. 
 --> 
 
 
@@ -283,11 +282,9 @@ With these two perspectives, we will introduce OKR although in alignment with ou
 @meta @outline 
 
 * Outline - Answer k1.1 - Management tried to optimize but found the innevitability, top-down goes non-selfish. 
-
-* Outline - answer k1.1.0 - Situation    - Management in perspective recognizes more to it, collaboration.
-* Outline - answer k1.1.0 - Complication - What history shows, from the harsh days, was insecurity of the managerial position? We get confused as in attacking the top-down "master". 
-
-* Outline - answer k1.1.1 - Answer - Priorities and management, top-down, is evolving. [feat. Stepher Covey, feat. Kris Duggan]. 
+* Outline - answer k1.1.0 - Situation - Management in perspective recognizes more to it, collaboration.
+* Outline - answer k1.1.1 - Complication - What history shows, from the harsh days, was insecurity of the managerial position? We get confused as in attacking the top-down "master". 
+* Outline - answer k1.1.2 - Answer - Priorities and management, top-down, is evolving. [feat. Stepher Covey, feat. Kris Duggan]. 
 --> 
 
 
@@ -321,9 +318,8 @@ He concludes, since we moved on from that *time management* to the management of
 
 <!-- 
 @meta @outline 
-* Outline - answer k1.1.2 - Introduce OKR - What OKR tells us of that relationship? Origins of OKR shows?
-* Outline - answer k1.1.2.1 - OKR supports top-down how? 
-* Outline - answer k1.1.2.2 - OKR reflects on risks? 
+* Outline - answer k1.2.1 - Introduce OKR - What OKR tells us of that relationship?
+* Outline - answer k1.2.2 - OKR supports top-down how? 
 --> 
 
 
@@ -371,7 +367,7 @@ With that said, the construction of OKR through the days of Andy Grove had to fa
 
 <!-- 
 @meta @outline 
-* Outline - answer k1.1.2.1 - Top-down is the goal of the team, not a representative that can at times be a bad critic 
+* Outline - answer k1.2.3 - Top-down is the goal of the team, not a representative that can at times be a bad critic 
 --> 
 
 
@@ -404,7 +400,7 @@ In other words, if we happen to see the chart when we think of top-down, we happ
 
 <!-- 
 @meta @outline 
-* Outline - answer k1.1.2.3 - OKR reflects on risks? 
+* Outline - answer k1.2.4 - OKR reflects on risks? 
 --> 
 
 
@@ -451,7 +447,7 @@ There is nothing in OKR, to summarize this notion and call to keep the top-down 
 
 <!-- 
 @meta @outline 
-* Outline - Answer k1.2 - Goals might be inherently part of - the contribution   
+* Outline - Answer k1.3.1 - Goals might be inherently part of - the contribution   
 --> 
 
 
@@ -517,7 +513,7 @@ Now if people to join projects, with causes and goals, they do because they know
 
 <!-- 
 @meta @outline 
-* Outline - Answer k1.2.1 - The fight of top-down and bottom-up   
+* Outline - Answer k1.3.2 - The fight of top-down and bottom-up   
 --> 
 
 
@@ -599,15 +595,14 @@ Now, from the more peaceful space between the role of the one that wants the top
 
 <!-- 
 @meta @outline 
-* Outline - Answer k2 - OKR analysis for Course-correction, failure, and opportunity 
+* Outline - Answer k2 - OKR analysis for course-correction, failure, and opportunity.
 --> 
 
-
-
-
-
-
 ## OKR on course-correction
+
+
+
+
 
 <!-- 
 @meta @value
@@ -619,10 +614,9 @@ When it comes to translating objectives into actions, taken that we start from t
 
 The other component of it has to do with the Key Results which is how the team moves to pull the goal closer. There is no doubt that OKR aims for achieving the objectives. In other words, the objective that is writen down is not to change. And that creates the condition for the performer to focus and work in the key results. 
 
-
 <!-- 
 @meta @outline 
-* Outline - Answer k2.0.2 - intro - complication - 
+* Outline - Answer k2.1.1 - complication - In goal-setting there is a clash of expectations, when the critic gets on top of what is going on, where learning is needed, when innocent paralleization is needed. 
 --> 
 
 The natural question, or complication with that idea, is exactly that it pulls the team towards being locked by the requirements of the goals and key results, which indeed could cause anxiety when the performer feels that things are not going well. Worse it is when, in the face of the feeling that things are not going well, the performer is pressured to work even more towards pre-defined key results, as if assuming that more effort would save the strategy. And, of course, when the matter involves the outcome not serving well, more anxiety certainly comes our way. 
@@ -633,18 +627,16 @@ But then, with that idea, it is time to consider if OKR passes the complication 
 
 Indeed, when working with innovative products, in a world that changes fast, that sounds about the situation that many founders live. It might come a situation of conflict when the findings pull the team to reconsider but in fact they feel that they cannot change direction, cannot be creative, or even when the team looses interest because things are too mechanical in the face of, as indicated, corporate anxiety. The situation becomes confusion as the required goal can create confusion in the face of other elements that are essential for the ones actually working, such as the things that comes after the question that Peter Drucker brought up: how can I make the greatest contribution to what needs to be done?
 
-
 <!-- 
 @meta @outline 
-* Outline - Answer k2.0.2 - intro - question - 
+* Outline - Answer k2.1.3  - question - 
 --> 
 
 Therefore, it is justifiable to question if OKR has mechanisms in place that supports teams to evaluate and course-correct what they do, as they go. In this direction, it is important to note that as much as OKR exists to help with pulling the objectives closer, OKR is also promoted as a framework that supports evaluation, which is primarily driven by the evaluation of the key results, as key results are executed, which consequently creates an opportunity for objectives to be evaluated, first against key results, but also in the face of the existing strategy or higher objectives. 
 
-
 <!-- 
 @meta @outline 
-* Outline - Answer k2.0.2 - intro - answer - 
+* Outline - Answer k2.1.4  - answer - 
 --> 
 
 Does OKR supports the possibility that objectives and the key results are not well designed - we working in a bad direction? Not only so, but it's necessary mechanism to support the growth, transcending, learning, moving on. 
@@ -656,10 +648,9 @@ With that problem ahead of us, let us continue to investigate if OKR has course-
 
 
 
-
 <!-- 
 @meta @outline 
-* Outline - Answer k2.1 - Collaboration aspect of OKR - transparency of key results as the hardest thing to do which calls for a confrontation and dilemma 
+* Outline - Answer k2.2.0 - Collaboration - Transparency of key results, the hardest thing, and confusing dilemma 
 --> 
 
 
@@ -676,7 +667,7 @@ This part, the Key Results part of OKR, appears first as a mechanism to keep tra
 
 <!-- 
 @meta @outline 
-* Outline - Answer k2.1.1 - Collaboration aspect of OKR  - and case of a book writing 
+* Outline - Answer k2.2.1 - Collaboration - Example - Case of a book writing, the goal and the doing it. 
 --> 
 
 
@@ -693,7 +684,7 @@ This collaborative aspect of OKR, used by organizations that reportedly does wel
 
 <!-- 
 @meta @outline 
-* Outline - Answer k2.1.2 - Collaboration aspect of OKR  - and case of a book writing through the editor-critic 
+* Outline - Answer k2.2.2 - Collaboration - Example - Case of a book writing, the editor-critic.
 --> 
 
 
@@ -706,7 +697,7 @@ This collaborative aspect of OKR, used by organizations that reportedly does wel
 
 <!-- 
 @meta @outline 
-* Outline - answer k2.2 - Teams and OKR as the managerial opportunity for the top-down learning and has to manage risks  
+* Outline - answer k2.3.0 - Teams - OKR as the managerial opportunity for top-down to learn the best doing it.  
 --> 
 
 
@@ -760,7 +751,8 @@ Andy elabores on the aspects of the strategic management that rises from the act
 
 <!-- 
 @meta @outline 
-* Outline - Answer k2.2 - Teams - The internal market starts with honesty and transparency and safety 
+* Outline - Answer k2.3.1 - Teams - The internal market starts with honesty and transparency and safety. 
+*                                   \___ requires non-selfish and safety 
 --> 
 
 
@@ -803,7 +795,8 @@ Notice that in the illustration he created the idea of "funded" can be interpret
 
 <!-- 
 @meta @outline 
-* Outline - Answer k2.3. - Course correct - Reinventing recyling - answer - allowance to review "hundreds of time" is the very test of support and alloance to talk about  
+* Outline - Answer k2.3.2 - Teams - Reinventing recyling - hundreds of time, is example of support. 
+*                                   \___ requires internal market.  
 --> 
 
 The effort of redoing the OKR hundreds of times, is for the sake of being open. Now, in this regard, a question that comes is if OKR does not allow room for bottom-up contributions that affects the top-down. Part of it I have covered, the conversation is there. But the cycle for reviewing all the top down plan exists too and bottom-up contributions is recognized as key. In other words, the approach needs and depends on the confrontation of the what we want to do with the what is happening. Of course, the cadence for that sort of strategic planning work might have a cadence, needs a cadence applicable to the organization.
