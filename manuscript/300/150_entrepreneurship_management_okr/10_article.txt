@@ -290,7 +290,7 @@ With these two perspectives, we will introduce OKR although in alignment with ou
 
 
 
-
+#### Historical evolution from management of time to the people
 
 
 What appears from the historical perspective, the flight from above, is that the science of goal management is evolving to reduce that *fight from above*. What I mean is that management is adapting goal management, or stretching it, to enable more collaboration and by that more doers to become real constributors and so that they can achieve goals - especially that aspiring and ambitious goals are more frequent as opposed to the expected commitments where humans are expected to act as robots. The following passage from Stephen Covey, from *7 Habits of Highly Effective People*, we are moving from time management towards the managent of ourselves: 
@@ -323,7 +323,7 @@ He concludes, since we moved on from that *time management* to the management of
 --> 
 
 
-
+#### OKR relationship and view of leadership 
 
 
 
@@ -451,7 +451,7 @@ There is nothing in OKR, to summarize this notion and call to keep the top-down 
 --> 
 
 
-
+#### The contributor from the individual 
 
 
 <!-- 
@@ -492,6 +492,9 @@ And goes on into a more enlightened view that the management of the self gains s
 
 
 
+
+
+#### OKR involvement with the "individual" 
 
 
 
@@ -591,7 +594,7 @@ Now, from the more peaceful space between the role of the one that wants the top
 * Outline - Answer k2 - OKR analysis for course-correction, failure, and opportunity.
 --> 
 
-## OKR on course-correction
+## Course-correction for ambitious goals 
 
 
 
@@ -604,7 +607,7 @@ The other component of it has to do with the Key Results which is how the team m
 
 <!-- 
 @meta @outline 
-* Outline - Answer k2.1.1 - complication - Goal-setting fails to re-evaluate objectives under low self-esteem whole
+* Outline - Answer k2.0.1 - complication - Goal-setting fails to re-evaluate objectives under low self-esteem whole
 --> 
 
 The natural question, or complication with that idea, is exactly that it pulls the team towards being locked by the requirements of the goals and key results, which indeed could cause anxiety when the performer feels that things are not going well. Worse it is when, in the face of the feeling that things are not going well, the performer is pressured to work even more towards pre-defined key results, as if assuming that more effort would save the strategy. And, of course, when the matter involves the outcome not serving well, more anxiety certainly comes our way. 
@@ -615,16 +618,18 @@ But then, with that idea, it is time to consider if OKR passes the complication 
 
 Indeed, when working with innovative products, in a world that changes fast, that sounds about the situation that many founders live. It might come a situation of conflict when the findings pull the team to reconsider but in fact they feel that they cannot change direction, cannot be creative, or even when the team looses interest because things are too mechanical in the face of, as indicated, corporate anxiety. The situation becomes confusion as the required goal can create confusion in the face of other elements that are essential for the ones actually working, such as the things that comes after the question that Peter Drucker brought up: how can I make the greatest contribution to what needs to be done?
 
+#### OKR on unclear major objectives
+
 <!-- 
 @meta @outline 
-* Outline - Answer k2.1.3  - question - 
+* Outline - Answer k2.0.3  - question - 
 --> 
 
 Therefore, it is justifiable to question if OKR has mechanisms in place that supports teams to evaluate and course-correct what they do, as they go. In this direction, it is important to note that as much as OKR exists to help with pulling the objectives closer, OKR is also promoted as a framework that supports evaluation, which is primarily driven by the evaluation of the key results, as key results are executed, which consequently creates an opportunity for objectives to be evaluated, first against key results, but also in the face of the existing strategy or higher objectives. 
 
 <!-- 
 @meta @outline 
-* Outline - Answer k2.1.4  - answer - 
+* Outline - Answer k2.0.4  - answer - 
 --> 
 
 Does OKR supports the possibility that objectives and the key results are not well designed - we working in a bad direction? Not only so, but it's necessary mechanism to support the growth, transcending, learning, moving on. 
@@ -638,11 +643,11 @@ With that problem ahead of us, let us continue to investigate if OKR has course-
 
 <!-- 
 @meta @outline 
-* Outline - Answer k2.2.0 - Collaboration - Transparency of key results, the hardest thing, and confusing dilemma 
+* Outline - Answer k2.1.0 - Collaboration - Transparency of key results, the hardest thing, and confusing dilemma 
 --> 
 
 
-
+#### OKR on needs for courage for transparency 
 
 
 Consider an OKR that started with an initial objective, such as an objective that was created ahead of any work, such as one that comes from a mission or a vision. It does so with the purpose of pushing the design process of OKR into the modelling, or planning, for the steps that are thought to be steps that pulls the objective closer. 
@@ -655,7 +660,7 @@ This part, the Key Results part of OKR, appears first as a mechanism to keep tra
 
 <!-- 
 @meta @outline 
-* Outline - Answer k2.2.1 - Collaboration - Example - Case of a book writing, the goal and the doing it. 
+* Outline - Answer k2.1.1 - Collaboration - Example - Case of a book writing, the goal and the doing it. 
 --> 
 
 
@@ -672,7 +677,7 @@ This collaborative aspect of OKR, used by organizations that reportedly does wel
 
 <!-- 
 @meta @outline 
-* Outline - Answer k2.2.2 - Collaboration - Example - Case of a book writing, the editor-critic.
+* Outline - Answer k2.1.2 - Collaboration - Example - Case of a book writing, the editor-critic.
 --> 
 
 
@@ -685,12 +690,12 @@ This collaborative aspect of OKR, used by organizations that reportedly does wel
 
 <!-- 
 @meta @outline 
-* Outline - answer k2.3.0 - Teams - OKR as the managerial opportunity for top-down to learn the best doing it.  
+* Outline - answer k2.2.0 - Teams - OKR as the managerial opportunity for top-down to learn the best doing it.  
 --> 
 
 
 
-
+#### OKR on needs to learn 
 
 
 
@@ -703,7 +708,7 @@ But the evaluation of the what happens, according to the approach, is key and sh
 
 
 
-#### Through the output emerges the opportunity
+##### Using Output as the window of opportunity
 
 > *"Thus, the true output of the planning process is the set of tasks that cause to be implemented. The output of Intel's annual plan, for instance, is the actions taken and the changes prompted as a result of the thinking process that took place throughout the organization. I, for one, hardly ever look at the bound volume finally called the Annual Plan. In other words, the output of the planning process is the *decisions* made and the *actions* taken as a result of the process."* (Grove, A., 2015, p. 109)
 
@@ -715,7 +720,7 @@ But the evaluation of the what happens, according to the approach, is key and sh
 
 
 
-#### The discovery of new indicators? 
+##### Pairing indicators as a creative response 
 
 
 BUt likewise with the concerns, these are there in ways that the doer is real, a contributor, and not following blindly. The opportunity is for understanding the best work possible and also reading from the data, the real information that is applicable to the context. In the view of Andy the meetings with the managers are the key aspect where the doer is the owner and the manager is there to help: 
@@ -734,7 +739,7 @@ Andy elabores on the aspects of the strategic management that rises from the act
 
 
 
-
+#### Team dynamics for safety and creation 
 
 
 <!-- 
@@ -773,6 +778,17 @@ Notice that in the illustration he created the idea of "funded" can be interpret
 
 
 
+<!-- 
+@meta @outline 
+* Outline - Answer k2.3.2 - Teams - Reinventing recyling - hundreds of time, is example of support. 
+*                                   \___ requires internal market.  
+--> 
+
+
+
+
+
+The effort of redoing the OKR hundreds of times, is for the sake of being open. Now, in this regard, a question that comes is if OKR does not allow room for bottom-up contributions that affects the top-down. Part of it I have covered, the conversation is there. But the cycle for reviewing all the top down plan exists too and bottom-up contributions is recognized as key. In other words, the approach needs and depends on the confrontation of the what we want to do with the what is happening. Of course, the cadence for that sort of strategic planning work might have a cadence, needs a cadence applicable to the organization.
 
 
 
@@ -783,11 +799,32 @@ Notice that in the illustration he created the idea of "funded" can be interpret
 
 <!-- 
 @meta @outline 
-* Outline - Answer k2.3.2 - Teams - Reinventing recyling - hundreds of time, is example of support. 
-*                                   \___ requires internal market.  
+* Outline - Answer k2.3.3 - The confusions with measurement 
 --> 
 
-The effort of redoing the OKR hundreds of times, is for the sake of being open. Now, in this regard, a question that comes is if OKR does not allow room for bottom-up contributions that affects the top-down. Part of it I have covered, the conversation is there. But the cycle for reviewing all the top down plan exists too and bottom-up contributions is recognized as key. In other words, the approach needs and depends on the confrontation of the what we want to do with the what is happening. Of course, the cadence for that sort of strategic planning work might have a cadence, needs a cadence applicable to the organization.
+
+##### OKR on bad judgement and unsafety 
+
+
+
+Of course, depending on the culture, toxic aspects can come the way to influence the process to offer no value. For example, depending on how the measurement of performance of an employee is done, such as when the compensation is associated with the Key Results and moving towards the Objective as written, then the results can be catrastrofic. Would one want to course correct its path, after having good reasons for so, after knowing that she or he could be evaluated as bad performer and even get fired? That kind of situation would certainly bring anxiety and a lot of distractions for a call that would not likely happen. 
+
+It is important to pause here and reflect that a lot of companies indeed enters that mode. They set goals in stone, they put prizes for the ones that follows the path as written, they punish the ones that didn't do well. Then it comes the question, do they course correct? Yes but they do that in macro terms, by facing a crisis, which likely involve getting people fired, managers fired, teams reorganized. From the point of view of an employee, under a whole team that got fired for moving in the bad direction claiming it was good, the employee generally tries to escape the spiral of death by reclaiming that he was told to do that job and was performing well. In a lot of situations like that, a lot of people can get away. But still, anxiety was present and a lot of effort to manage the crisis which can and should be considered a bad use of the time of people. 
+
+Therefore, it is ideal to think that a plan for progressing is not about a plan for evaluating people - as in to consider them in or out the boat. This is a key aspect of the OKR approach that when well considered can make OKR become a useful tool and one that also serves well for course-correcting and actually bringing everyone on board and focusing on what matters. 
+
+With a cadence for evaluating what is being done, with allowance for reviewing with transparency and strategic thinking too, the approach can help person to change the plan at the level of the Key Results and also Objectives. 
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -808,31 +845,6 @@ The effort of redoing the OKR hundreds of times, is for the sake of being open. 
 @meta @outline
 * Outline - Answer k3 - Outcome vs. output battle - Intro - pitch 
 --> 
-
-
-
-
-
-<!-- 
-@meta @outline 
-* Outline - Answer k3.1 - The confusions with measurement 
---> 
-
-
-
-
-
-
-Of course, depending on the culture, toxic aspects can come the way to influence the process to offer no value. For example, depending on how the measurement of performance of an employee is done, such as when the compensation is associated with the Key Results and moving towards the Objective as written, then the results can be catrastrofic. Would one want to course correct its path, after having good reasons for so, after knowing that she or he could be evaluated as bad performer and even get fired? That kind of situation would certainly bring anxiety and a lot of distractions for a call that would not likely happen. 
-
-It is important to pause here and reflect that a lot of companies indeed enters that mode. They set goals in stone, they put prizes for the ones that follows the path as written, they punish the ones that didn't do well. Then it comes the question, do they course correct? Yes but they do that in macro terms, by facing a crisis, which likely involve getting people fired, managers fired, teams reorganized. From the point of view of an employee, under a whole team that got fired for moving in the bad direction claiming it was good, the employee generally tries to escape the spiral of death by reclaiming that he was told to do that job and was performing well. In a lot of situations like that, a lot of people can get away. But still, anxiety was present and a lot of effort to manage the crisis which can and should be considered a bad use of the time of people. 
-
-Therefore, it is ideal to think that a plan for progressing is not about a plan for evaluating people - as in to consider them in or out the boat. This is a key aspect of the OKR approach that when well considered can make OKR become a useful tool and one that also serves well for course-correcting and actually bringing everyone on board and focusing on what matters. 
-
-With a cadence for evaluating what is being done, with allowance for reviewing with transparency and strategic thinking too, the approach can help person to change the plan at the level of the Key Results and also Objectives. 
-
-
-
 
 
 

@@ -32,19 +32,24 @@
 
 * Outline - Answer k2 - OKR analysis for course-correction, failure, and opportunity.
 
-* Outline - Answer k2.1.1 - complication - Goal-setting fails to re-evaluate objectives under low self-esteem whole
-* Outline - Answer k2.1.3  - question - 
-* Outline - Answer k2.1.4  - answer - 
+* Outline - Answer k2.0.1 - complication - Goal-setting fails to re-evaluate objectives under low self-esteem whole
+* Outline - Answer k2.0.3  - question - 
+* Outline - Answer k2.0.4  - answer - 
 * --------------
-* Outline - Answer k2.2.0 - Collaboration - Transparency of key results, the hardest thing, and confusing dilemma 
-* Outline - Answer k2.2.1 - Collaboration -  \____ - Example of a book writing, the goal and the doing it. 
-* Outline - Answer k2.2.2 - Collaboration -  \____ - Example of a book writing, the editor-critic.
+* Outline - Answer k2.1.0 - Collaboration - Transparency of key results, the hardest thing, and confusing dilemma 
+* Outline - Answer k2.1.1 - Collaboration -  \____ - Example of a book writing, the goal and the doing it. 
+* Outline - Answer k2.1.2 - Collaboration -  \____ - Example of a book writing, the editor-critic.
 * --------------
-* Outline - answer k2.3.0 - Teams - OKR as the managerial opportunity for top-down to learn the best doing it.  
+* Outline - answer k2.2.0 - Teams - OKR as the managerial opportunity for top-down to learn the best doing it.  
+*                                   \___ KR as output 
+*                                   \___ pairing indicators 
+* --------------
 * Outline - Answer k2.3.1 - Teams - The internal market starts with honesty and transparency and safety. 
 *                                   \___ Requires non-selfish and safety.
 * Outline - Answer k2.3.2 - Teams - Reinventing recyling - hundreds of time, is example of support. 
 *                                   \___ Requires internal market.  
+* Outline - Answer k2.3.3 - The confusions with measurement 
+
 * --------------
 
 * Outline - Answer k3 - Outcome vs. output battle - Intro - pitch 
