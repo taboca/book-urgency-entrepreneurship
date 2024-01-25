@@ -323,7 +323,7 @@ He concludes, since we moved on from that *time management* to the management of
 --> 
 
 
-#### OKR relationship and view of leadership 
+#### OKR on leadership for top-down goals 
 
 
 
@@ -447,11 +447,11 @@ There is nothing in OKR, to summarize this notion and call to keep the top-down 
 
 <!-- 
 @meta @outline 
-* Outline - Answer k1.3.1 - Goals are friendly with the contribution   
+* Outline - Answer k1.3.1 -  Goals are friendly with the contribution, and OKR 
 --> 
 
 
-#### The contributor from the individual 
+#### OKR on the role of the contributor 
 
 
 <!-- 
@@ -493,8 +493,10 @@ And goes on into a more enlightened view that the management of the self gains s
 
 
 
-
-#### OKR involvement with the "individual" 
+<!-- 
+@meta @outline 
+* Outline - Answer k1.3.1.1 - OKR involvement with the individual    
+--> 
 
 
 
@@ -527,6 +529,17 @@ Now if people to join projects, with causes and goals, they do because they know
 Before we move into the next section - the aspects of course-correction - it is worth to go back to an illustration of a fight and into an extrapolation of the inherent fight that has less to do with the boss versus the subordinate fight. The top-down appears to provoke a fight, indeed, with the bottom-up role. As in on one side there is the one that tells and on the other side the one that does, the doer that suffers in many situations, such as anxiety or producing their tears as a by-product. But if these roles show a fight, and the human nature seem to be exposed in its worse if you go back in history taking photos capturing the fight of them; the more we evolve we seem to find a sort of inner fight, or challenge, that really gets this view of being fire and fight more because of the not humanized paths we came from, which confuses us. In other words, the essense may seem like a fight but it is really a learning process nad management process that is required for anything new to be brought and change the system. 
 
 Or if we look for the fight that happens in the micro context, a small team even of friends working, a fight that also happens within the micro context of the individual. This is the fight that one deals with when they want to lose weight, or to learn to write, or to come up with an invention when the materials to do so are not fully in place, or seeking a freedom in a space where the rules yet don't allow. Achieving them goals will be hard, like it or not, we will only have to face the reality that we as managers have to nurture the environment for them to be achieved because the doer can only do one thing - to contribute - if they are onto it. That is yet another reason for the goals to be meaningful for them. And if we are wearig this hat, or when we are wearing this hat, we are into the need to comply with the understanding of what should our contribution be. This relationship between our personalities - one being the innocent doer or the sensitive doer that is learners; and the other being the critic or the editor that will demand results, is natural. Our goal, as managers and minimally at this point that we are really reflecting with all of this, is to continue to check what the conversaion - like the OKR one - is telling us for how we can do our best especailly that we may not know what to do and what generally the goal is not yet clear as well. 
+
+
+
+
+
+<!-- 
+@meta @outline 
+* Outline - Answer k1.3.2.1 - OKR on non-selfish   
+--> 
+
+
 
 
 
