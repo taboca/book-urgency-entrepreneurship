@@ -165,6 +165,7 @@ Under our strategy, I consider OKR to be a strategic management approach. It has
 [^footnote_krisduggan_surveyokr]: It is important to acknowledge Kris Duggan's deep involvement with OKRs. His company, BetterWorks, provides a tool for setting, tracking, and managing goals via OKRs; and has received investment from John Doerr, a prominent Silicon Valley investor and renowned evangelist of OKRs. 
 
 As we move on with OKR, the good news is that we won't be riding on it while trying to learn how to ride and at the same time being concerned with the roadmap challenges. I say that because OKR can be seen as a temperamental animal where people try to control it, to tame it, and then they get confused, they fall, they get hurt; although this illustration isn't as sad as the possibility of them just being frustrated with OKR and giving up, even giving up the conversation about the challenges of goal-setting. By using OKR to the purposes of reflection, we will be considering things in perspective, we will set our focus on the actual underlying temperamental element - the human element - that makes goal-setting and the management of goals so hard. Jonathan Nightingale (2017) captures this sentiment well when he says that '[m]anaging people is exceptionally hard to do well. People are complex, and organizations are just full of them' (p. 23).
+
 <!-- 
 @meta @references
 * Reference - Nightingale, J. (2017). How Fucked Up Is Your Management. Raw Signal Press. 
@@ -820,7 +821,9 @@ A similar situation happens in the end of the process when it is time to edit pa
 
 > *""* (Peterson, J., )
 
-When I read Jordan illustrating this process "of the self" it was inescapable for me to see the role of a doer, a contributor, that were able to innocently try different things - such as a competing paragraph - in the attempt to match the objective, the ouline. In way, this goes well with the idea of a highly supportive environment for a writer to get to the point of, as pointed by Jordan if one goes towards the publishing, to let it go and remove 80% of the thoughts behind, under the achievement of more clarity. In other words, by keeping up and accepting the momentary injustice, and keeping the innocence high and safety for healthy competition, we can advance and connect towards the objective, even to a point of transcending and understanding that the higher-order objective - such as an outline - has to change. By going through that, we go through change ourselves. 
+When I read Jordan illustrating this process "of the self" it was inescapable for me to see the role of a doer, a contributor, that were able to innocently try different things - such as a competing paragraph - in the attempt to match the objective, the ouline. In way, this goes well with the idea of a highly supportive environment for a writer to get to the point of, as pointed by Jordan if one goes towards the publishing, to let it go and remove 80% of the thoughts behind, under the achievement of more clarity. In other words, by keeping up and accepting the momentary injustice [^footnote_momentary_injustice], and keeping the innocence high and safety for healthy competition, we can advance and connect towards the objective, even to a point of transcending and understanding that the higher-order objective - such as an outline - has to change. By going through that, we go through change ourselves. 
+
+[^footnote_momentary_injustice]: The idea of the momentary injustice was brought by ... 
 
 <!-- 
 @meta @outline 
@@ -910,7 +913,7 @@ The complication that I had was that I have identified that OKR learning starts 
 * reference - Wodtke, C. (2022, February 4). Are You Sure You Want to Use OKRs? Retrieved from https://cwodtke.medium.com/you-cant-handle-okrs-5465cf161e81
 -->
 
-So I was stuck in my small world, preferring a bit towards Output/action, which gives me a way to judge/evaluate actual action strategy. But yet stuck anyway or unhappy with the complexity in the center of this fight, as I have figured. No articles seemed to address the Outcome vs. Output question in the context of management.
+So I was stuck in my small world, preferring a bit towards Output/action, which gives me a way to judge/evaluate actual action strategy. But yet stuck anyway or unhappy with the complexity in the center of this fight, as I have figured. No articles seemed to address the Outcome vs. Output question in the context of management. Most of what I have found - through the actual "live conversations" of the middle-range articles which in reality are the voices of the crowds struggling with it - seemed to address the theme under the view - and accordinly the pressure - of getting things done which fortunately under the viewpoint of our journey to focus back and keep with the management view is a better use of our time. 
 
 
 
@@ -974,22 +977,13 @@ really good insights so I recommend some pretty long brainstorming some of the k
 --> 
 
 
-The potential toxic by-product, especially if you don't have the maturity view; 
-
-> *"But then a week from now, I’ll see you somewhere and you’ll say something breathtakingly moronic. Something like, “They couldn’t have picked a better headshot, lol?” in a profile of a woman CEO. Or asking, on a panel, “Don’t you think that women founders just pitch differently and that’s why they don’t get funded as often?” Or giving an interview where you solemnly explain, “I don’t see colour when I look at candidates. We’re a meritocracy.” "* (Nightingale, 2017)
-
-<!-- 
-@meta @references
-* reference - Nightingale, J. (2017, February 8). Leadership is not about your good intentions: Managing junior vs senior staff, and why you might be an ass. The Co-pour. Retrieved from https://mfbt.ca/leadership-is-not-about-your-good-intentions-5e21666cb01b
---> 
-
 
 
 
 
 <!-- 
 @meta @outline
-* outline - Answer k3 - Outcome vs. output batle - answer - k3.2 - Thesis for output as the window - Andy Grove and also MWM coursera course. 
+* outline - Answer k3 - Outcome vs. output battle - answer - k3.2 - Thesis for output as the window - Andy Grove and also MWM coursera course. 
 --> 
 
 #### Recovering the reflective opportunity - The window 
@@ -998,9 +992,25 @@ Adjusting Christina's approach to make it work with the output-based, would be a
 
 >*"The best is the enemy of the good. If you are spending weeks refining the language of the objective and pinning down just the right metrics, your company is in the business of process management. That’s wasteful. Try to make good OKRs but remember there is a time when you have to say, good enough for now. You don’t want to spend three weeks setting your goals and lose the time you could be working toward them instead." (Wodtke, 2022)
 
-But moving forward, the output-based version that is friendly with that can be about the "refining the language of the objective" after the fact that the output is being generated. Or more precisely, the key results being executed, such as action and effort, generates the data, the information, and opportunity. It is the judgement of the effort, a clearly stated effort, that allows the team to do it again, to adjust things. In other words, the adjustment to the key results is the actual opportunity, as we can see, as we can talk about, what is going on. THis is circles back to the points about collaboration from the prior section. 
+And isn't it the case that sometimes, often or not so often when we have time, a saying says that "the angel lives in the details," or something like that. And there I felt in front of a quote which I have imagined the so many interpretations that were possible. To be fair, certainly the context matters. That is why I rather keep that quote anyway here and use it to serve to the purposes of a focus that I thin is quite important anyway - which is to explore the possibility of a story of a doer that keeps on refining the language of the objective in the best way possible: 
 
-The idea of using Key Results to quantity success can be dangerous because your objective should be your success. The key results, in the appraoch that is honest and collaborative shall then become the key elements that gives us the opportunity to re-evaluate. The danger of moving straight under the assumption of quantification of success using Key Results [^footnote_christinawodtke_key_results_quantity_success] is that you can miss keep traking of what you are doing, missing the window of opportunity for evaluation, and in the case of weak cultures, this may also become doing things outside the window of what is visible and accountable which is where a lot of people are able to get things done - but there is a price to pay. The price to pay is the inneviable disatisfaction with OKR in general, running with arbitrary investments, the discussions of the real effort and activities happening somewhere else - for example. 
+I believe that the OKR-friendly or the MBO-friendly for "refining the language of the objective" happens if the doer does this job after the fact that that output was done. Or more precisely, with key results achieved, after the action and effort put in place, the generated data, and the information, happens to support the doer to consider the reflection with the horizon in hindsight; thus aiming for the opportunity. This, in mathematical terms, would be about considering that the Refinement of the objective is a function of Key Results, RO = f ( KR ), where the achieved Key Results is a function of the Objective, KR = f ( O ). Therefore, New Key Results comes as a function of the work of refining the language of the objective, NKN = F ( RO ). With that, by the doing of it, there is then an alignment with Christina's idea of avoid the best and her intention to go straight to the good because indeed "the best is the enemy of the good." 
+
+In other words, the judgement of the effort can only happen after the fact of a clearly stated effort given by the clearly acomplished Key Results. The opportunity for a good refining starts with, first, the observationof that has happened, and from that it follows a reflection of what is going on - such as through interactions of the team talking about it - which takes them to come up with with new ideas and concepts which likely forms the new cycle [^footnote_kolb_learning].
+
+[^footnote_kolb_learning]: This viewpoint is given in alignment with *Kolb's Experiential Learning Model*, which emphasizes learning as a cyclical process of experiencing, reflecting, thinking, and acting. This model, according to the Wikipedia article (2024), consists of four stages: *Concrete Experience*, *Reflective Observation*, *Abstract Conceptualization*, and *Active Experimentation*. 
+
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Not so Radical Focus - #APA Check the reference to Kolb Model the APA citation in the above footnote, where it is indicated inline (2024). Notice that 2024 is retrieval date. @meta-refid 29849-429849-492849-428490
+--> 
+
+<!-- 
+@meta @references
+* reference - Wikipedia contributors. (2024, January 25). Kolb's experiential learning. In Wikipedia, The Free Encyclopedia. Retrieved January 25, 2024, from https://en.wikipedia.org/wiki/Kolb%27s_experiential_learning
+--> 
+
+The idea of using Key Results to quantity success can be dangerous because your objective - in the long run - is a better primary expected success. The Key Results, in an approach that is honestly collaborative shall then become the reference work that gives us the opportunity to re-evaluate. The danger of moving straight under the assumption of quantification of success is given by Key Results is that you can miss keep traking of what you are doing, missing the window of opportunity for evaluation, and in the case of weak cultures, this may also become doing things outside the window of what is visible and accountable which is where a lot of people are able to in a way or another get things done, however it is a bit inline with gambling or even to help build an organization where the things being done can't be discussed transparently. Plus, another price to pay but in alignment with our objective here is an inclination towards a disatisfaction with OKR in general; plus one would likely need other system (likely to be like OKR) to deal with the actual real actions and effort of the day. 
 
 
 
