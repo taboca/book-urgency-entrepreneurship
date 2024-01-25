@@ -447,7 +447,7 @@ There is nothing in OKR, to summarize this notion and call to keep the top-down 
 
 <!-- 
 @meta @outline 
-* Outline - Answer k1.3.1 - Goals might be inherently part of - the contribution   
+* Outline - Answer k1.3.1 - Goals are friendly with the contribution   
 --> 
 
 
@@ -513,13 +513,30 @@ Now if people to join projects, with causes and goals, they do because they know
 
 <!-- 
 @meta @outline 
-* Outline - Answer k1.3.2 - The fight of top-down and bottom-up   
+* Outline - Answer k1.3.2 - The fight of top-down and bottom-up, the selfish vs. non-selfish   
+--> 
+
+#### The fight between the selfish and the non-selfish 
+
+
+
+
+Before we move into the next section - the aspects of course-correction - it is worth to go back to an illustration of a fight and into an extrapolation of the inherent fight that has less to do with the boss versus the subordinate fight. The top-down appears to provoke a fight, indeed, with the bottom-up role. As in on one side there is the one that tells and on the other side the one that does, the doer that suffers in many situations, such as anxiety or producing their tears as a by-product. But if these roles show a fight, and the human nature seem to be exposed in its worse if you go back in history taking photos capturing the fight of them; the more we evolve we seem to find a sort of inner fight, or challenge, that really gets this view of being fire and fight more because of the not humanized paths we came from, which confuses us. In other words, the essense may seem like a fight but it is really a learning process nad management process that is required for anything new to be brought and change the system. 
+
+Or if we look for the fight that happens in the micro context, a small team even of friends working, a fight that also happens within the micro context of the individual. This is the fight that one deals with when they want to lose weight, or to learn to write, or to come up with an invention when the materials to do so are not fully in place, or seeking a freedom in a space where the rules yet don't allow. Achieving them goals will be hard, like it or not, we will only have to face the reality that we as managers have to nurture the environment for them to be achieved because the doer can only do one thing - to contribute - if they are onto it. That is yet another reason for the goals to be meaningful for them. And if we are wearig this hat, or when we are wearing this hat, we are into the need to comply with the understanding of what should our contribution be. This relationship between our personalities - one being the innocent doer or the sensitive doer that is learners; and the other being the critic or the editor that will demand results, is natural. Our goal, as managers and minimally at this point that we are really reflecting with all of this, is to continue to check what the conversaion - like the OKR one - is telling us for how we can do our best especailly that we may not know what to do and what generally the goal is not yet clear as well. 
+
+
+
+
+> *"To make such a body work requires the *voluntary surrender of individual decision making to the group*. Being a member means you no longer have complete freedom of individual action, because you must go along with the decisions of your peers in most instances. By analogy, think of yourself as one of a couple who decides to take a vacation with another couple. You know that if you go together, you will not be free to do exactly what you want to do when you want to do it, but you go together anyway because you have more fun, even while you'll have less freedom. At work, surrendering individual decision-making depends on trusting the soundness of actions taken by your group of peers."* (Grove, A., 2015, pp. 134-135)
+
+<!-- 
+@meta @references
+* reference - Grove, A. (2015). High Output Management. Vintage Books.
 --> 
 
 
 
-
-#### Maslow on selfish vs. non-selfish 
 
 Abraham Maslow speaks of the idea of the selfish that works along with the non-selfish. This, of course, requires or goes along with an enlighted condition where the challenges of work becomes the space for growth of work and the self, altogether: 
 
@@ -534,32 +551,8 @@ Abraham Maslow speaks of the idea of the selfish that works along with the non-s
 
 
 
-#### Andy on selfish vs. non-selfish 
 
-> *"To make such a body work requires the *voluntary surrender of individual decision making to the group*. Being a member means you no longer have complete freedom of individual action, because you must go along with the decisions of your peers in most instances. By analogy, think of yourself as one of a couple who decides to take a vacation with another couple. You know that if you go together, you will not be free to do exactly what you want to do when you want to do it, but you go together anyway because you have more fun, even while you'll have less freedom. At work, surrendering individual decision-making depends on trusting the soundness of actions taken by your group of peers."* (Grove, A., 2015, pp. 134-135)
-
-
-
-
-#### Appears to be a fight 
-
-Before we move into the next section - the aspects of course-correction - it is worth to go back to an illustration of a fight and into an extrapolation of the inherent fight that has less to do with the boss versus the subordinate fight. The top-down appears to provoke a fight, indeed, with the bottom-up role. As in on one side there is the one that tells and on the other side the one that does, the doer that suffers in many situations, such as anxiety or producing their tears as a by-product. But if these roles show a fight, and the human nature seem to be exposed in its worse if you go back in history taking photos capturing the fight of them; the more we evolve we seem to find a sort of inner fight, or challenge, that really gets this view of being fire and fight more because of the not humanized paths we came from, which confuses us. In other words, the essense may seem like a fight but it is really a learning process nad management process that is required for anything new to be brought and change the system. 
-
-Or if we look for the fight that happens in the micro context, a small team even of friends working, a fight that also happens within the micro context of the individual. This is the fight that one deals with when they want to lose weight, or to learn to write, or to come up with an invention when the materials to do so are not fully in place, or seeking a freedom in a space where the rules yet don't allow. Achieving them goals will be hard, like it or not, we will only have to face the reality that we as managers have to nurture the environment for them to be achieved because the doer can only do one thing - to contribute - if they are onto it. That is yet another reason for the goals to be meaningful for them. And if we are wearig this hat, or when we are wearing this hat, we are into the need to comply with the understanding of what should our contribution be. This relationship between our personalities - one being the innocent doer or the sensitive doer that is learners; and the other being the critic or the editor that will demand results, is natural. Our goal, as managers and minimally at this point that we are really reflecting with all of this, is to continue to check what the conversaion - like the OKR one - is telling us for how we can do our best especailly that we may not know what to do and what generally the goal is not yet clear as well. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-Now, from the more peaceful space between the role of the one that wants the top-down, against the role of the one that tries to be a contributor, the health dynamics is not only the only thing to do - it's the necessary thing to do and the main thing to do. But also, when better explored or studier or under a calmer reflection, one will realize that this is the space for the actual opportunity - and we will come to recognize that in most of the situations we do not have clarity about how we phrased our top-down goals too where the actual work of doing it is the work that gives light to the path. Let's move on to see how that opportunity to course-correct goals happens and how OKR offers a great deal of support to that. 
+Now, from the more peaceful space between the role of the one that wants the top-down, against the role of the one that tries to be a contributor, the health dynamics is not only the only thing to do - it's the necessary thing to do and the main thing to do. But also, when better explored or studied or under a calmer reflection, one will realize that this is the space for the actual opportunity - and we will come to recognize that in most of the situations we do not have clarity about how we phrased our top-down goals too where the actual work of doing it is the work that gives light to the path. Let's move on to see how that opportunity to course-correct goals happens and how OKR offers a great deal of support to that. 
 
 
 
@@ -604,11 +597,6 @@ Now, from the more peaceful space between the role of the one that wants the top
 
 
 
-<!-- 
-@meta @value
-* 3 stars - anxiety 
-* 3 stars - blocked and locked 
---> 
 
 When it comes to translating objectives into actions, taken that we start from the wishes, the target, the top top, a top-down modelling effort is put in place - indeed based on a big goal, whiten down as an objective. The modelling phase is part of the planning process intended to find things that we can do that can bring that objective closer. 
 
