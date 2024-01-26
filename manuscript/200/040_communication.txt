@@ -164,7 +164,7 @@ Another aspect, to not touch communication investment for the subordinate, is th
 * outline - introduction - scqa / K1.3.4    \_____ Managerial supported - Managers are translators
 --> 
 
-Another factor is that management plays a role in communication from a translation perspective. In other words, managers are in between the top-down concerns, representing or translating the higher-level interests under a solutions-oriented perspective, and the bottoms-up concerns where the systems-orientation are considered critical. 
+Another factor is that management plays a role in communication from a translation perspective. In other words, managers are in between the tops-down concerns, representing or translating the higher-level interests under a solutions-oriented perspective, and the bottoms-up concerns where the systems-orientation are considered critical. 
 
 <!--
 @meta @section @outline 
