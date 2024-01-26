@@ -393,9 +393,9 @@ And digs even more:
 * reference - Covey, S. (1989). The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change. Fireside.
 --> 
 
-In other words, if we happen to see the chart when we think of top-down, we happen just to see the by-product of a prior success of someone that likely had conquered stability and that is performing, expecting, under their assumptions that they are on the right path. But if when we come to terms with the essence, the top-down comes really from the goal, the objective, the thing that you or anyone, team or unit, is onto. 
+In other words, if we happen to see people through a chart when we think of top-down, we happen just to see complexities of humans as a by-product of a prior success where people or systems happened to keep some stability that happened to be performing, expecting, under their assumptions that they are on the right path on that they know how to get things done [^footnote_nightgale_outcomes]. But if when we come to terms with the essence, the top-down comes really from the goal, the objective, the thing that you or anyone, team or unit, is onto. 
 
-
+[^footnote_nightgale_outcomes]: This perspective from Nightingale's observation that "[..] outcomes still matter. [..] I've seen companies that score everyone on effort, but I have never seen great companies that do so." and that "every company needs a set of folks who do understand the context, who can be held accountable for the right things actually getting done." is the reference point brought by him that from the top-down approach and the drive for outcomes it comes also the risk of oversimplifying the complexities under the assumption that all appears effective which also may suggest a kind of 'blindness' in management. This blindness overlooks the evolving nature of people and their systems and their expectations, and the necessity for change and adaptation. It's an implicit critique of static management models in a dynamic world, where true understanding and effective leadership require a constant re-evaluation of assumptions. 
 
 
 
@@ -992,7 +992,7 @@ Adjusting Christina's approach to make it work with the output-based, would be a
 
 >*"The best is the enemy of the good. If you are spending weeks refining the language of the objective and pinning down just the right metrics, your company is in the business of process management. That’s wasteful. Try to make good OKRs but remember there is a time when you have to say, good enough for now. You don’t want to spend three weeks setting your goals and lose the time you could be working toward them instead." (Wodtke, 2022)
 
-And isn't it the case that sometimes, often or not so often when we have time, a saying says that "the angel lives in the details," or something like that. And there I felt in front of a quote which I have imagined the so many interpretations that were possible. To be fair, certainly the context matters. That is why I rather keep that quote anyway here and use it to serve to the purposes of a focus that I thin is quite important anyway - which is to explore the possibility of a story of a doer that keeps on refining the language of the objective in the best way possible: 
+And isn't it the case that sometimes, often or not so often when we have time, a saying says that "the angel lives in the details," or something like that. And there I felt in front of a quote which I have imagined the so many interpretations that were possible. To be fair, the context matters. But I feared anyway that an urgent reader-learner could miss the good in the details where she meant to say that we should not spend more time mostly refining our OKR and less time working. That is why I rather keep that quote outstanding but still to see how it could well be applicable to the situation - which I find quite important anyway - that involves the possibility of a doer that keeps on refining the language of the objective a lot in the best way possible:  
 
 I believe that the OKR-friendly or the MBO-friendly for "refining the language of the objective" happens if the doer does this job after the fact that that output was done. Or more precisely, with key results achieved, after the action and effort put in place, the generated data, and the information, happens to support the doer to consider the reflection with the horizon in hindsight; thus aiming for the opportunity. This, in mathematical terms, would be about considering that the Refinement of the objective is a function of Key Results, RO = f ( KR ), where the achieved Key Results is a function of the Objective, KR = f ( O ). Therefore, New Key Results comes as a function of the work of refining the language of the objective, NKN = F ( RO ). With that, by the doing of it, there is then an alignment with Christina's idea of avoid the best and her intention to go straight to the good because indeed "the best is the enemy of the good." 
 
@@ -1082,6 +1082,14 @@ I do not know if my awakening has a significant flaw, but something seems linear
 * outline - Answer k3 - Outcome vs. output batle - answer - k3.3.1.1 - maturity models - effort vs. outcome - resetting junior
 --> 
 
+
+> *"As you get more seasoned, your strategy is biased toward social and business problems instead of cognitive ones. You learn how to run a meeting and how to pre-flight the important decisions before that meeting even starts. . . "* (Nightingale, J., 2017, p.170)
+
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Not so Radical Focus - Review the whole quote of Jonathan from How Fucked Up Is Your Management, p. 170 - @meta-refid 29849-45345-492849-428490
+--> 
+
 ##### Who is the junior? 
 
 What matters, really, is that you can be just out of the sudden under a need to flip yourself, to embraced a personality, to model it, to consider the maturity level for that task. In other words, no matter how senior you are, you can be a junior at any time depending on your objectives ahead: 
@@ -1109,6 +1117,29 @@ An outcome of setting a mature expectation to your now-junior doer is that you c
 * reference - Nightingale, J. (2017, February 8). Leadership is not about your good intentions: Managing junior vs senior staff, and why you might be an ass. The Co-pour. Retrieved from https://mfbt.ca/leadership-is-not-about-your-good-intentions-5e21666cb01b
 --> 
 
+
+
+
+##### The quest for the Holy Grail and interference of numbers 
+
+We all know what we are after, it might even become a sacred as we get into the natural business of organizing ourselves, or to mobilize efforts and even rituals, when we are after that: The Holy Grail is an outcome in the end. That need is in all of us and it is the very reason that on many circumstances we will find our ways to cross that bridge since we shall not be afraid to answer any question if a gatekeeper requests it in the first place.
+
+The possibility for dealing with those legitimate moments of struggle - where literally one could be catapulted out of the team situation - is to bounce back the question in ways that we check the validity and the absurdity of the whole situation. Leaving the bridge the the holy grail in the past but sticking with the truths of our corporate tales, it may be appropriate to celebrate the view from Jeff Bezoz given by Jason Child when he said that Jeff Bezos is famous for optimizing for the truth-seeking culture: 
+
+> *"And he would get into business, and then we'd look at stuff, and then he would see things, and if looked really good or really bad, he turned to me and he says, 'Is this number right? And would you stake your career on it?'"* Jason Child (Greylock, 2017, 14:37)
+
+Jason went on and added that the whole point of Jeff was to make sure that the analytics were not lying because, "you can lie with numbers very easily. You know, is a subscriber a customer? Is it including reactivation? Is it including, .. you know, there are so many ways you can make it say what you want it to say." Jason Child (Greylock, 2017, 14:37)
+
+##### Outcomes matter 
+
+> *"But outcomes still matter. The buck has to stop. I've seen companies that score everyone on effort, but I have never seen great companies that do so. Every company needs a set of folks who do understand the context, who can be held accountable for the right things actually getting done."* (Nightingale, J., 2017, p. 171)
+
+<!-- 
+@meta @references
+* Reference - Nightingale, J. (2017). How Fucked Up Is Your Management. Raw Signal Press. 
+-->
+
+
 ##### Maturation models 
 
 The model which we aim, which especially is the case for startups, is that the roles are dynamic. The "mature" corporate situation has the light for the solution. If you are mature enough to do that, it is then that you are positioning and understand that there is a way to actually push the outcome you want:
@@ -1127,8 +1158,5 @@ This again aligns with the given "prep work" suggested by Christina, in my rewri
 The idea of not being so hard is exactly about allowing the doer to fail with the key results and reevaluate which key results bring the doer "back into" the promising direction. Now for thre sake of solving the complex question - should I go with outcome or output - and given the point given, we may use, for the sake of the reflection, the advice from the professor of the MWM Course: 
 
 > *"Contribution is not the same as “making your OKRs.” Did this person make smart choices and stay focused on moving the numbers? Did they gain traction? Did they learn what not to do? And not everyone can contribute to OKRs, so you will need something more than “making OKRs” to evaluate them on.*" (Wodtke, 2022)
-
-
-
 
 
