@@ -1,58 +1,188 @@
-# Foco Não Tão Radical
+# Not so radical focus
 
-Quando a função empreendedora acontece para destruir criativamente o antigo e mudar a realidade, ela faz isso mais por realizar coisas[^nota_de_rodapé_schumpeter_empreendedor_realizando_coisas] e menos por causa da teoria, ficção, invenções e outros arranjos necessários para prosperar. Focando no trabalhador - chamemo-los de realizadores, executores, empreendedores - logo após colocarem seu capacete e se posicionarem na trajetória, imediatamente visualizam que, se querem realizar coisas em casa, não podem apenas estar fazendo coisas, como realizar coisas arbitrariamente. Em outras palavras, os realizadores vão longe, mas fazem isso chamando o controle terrestre - estabelecendo metas e temendo incessantemente[^nota_de_rodapé_medos_impulsionadores] serem desviados no espaço das oportunidades.
+<!-- 
+@meta @status 
+* status - manuscript-ready  
+-->
 
-[^nota_de_rodapé_medos_impulsionadores]: Discutimos na primeira parte como os medos desempenham um papel significativo no impulso dos empreendedores, ou no verdadeiro empreendedor de suas vidas. Tememos falhar, tememos estar perdendo tempo, tememos ficar sem combustível ou oxigênio, e esse medo também pode nos fazer correr bastante rápido, entrando até mesmo em um movimento destemido de ação.
 
-[^nota_de_rodapé_schumpeter_empreendedor_realizando_coisas]: Joseph Schumpeter (2008), o renomado economista e cientista político austro-americano conhecido por suas teorias sobre desenvolvimento econômico e ciclos de negócios, em "Capitalismo, Socialismo e Democracia", enfatiza a caracterização de "realizar coisas" (p. 132) como um elemento essencial da função empreendedora. Ele argumenta que esse aspecto é ainda mais crucial do que outros, como a capacidade do empreendedor de inventar novas coisas ou criar condições para a empresa prosperar.
 
-Agora, ao considerarmos a situação de uma startup, o tema de gestão por objetivos aparece não apenas como uma resposta para ser produtivo (no sentido filosófico), mas por causa de necessidades externas (no sentido material) que crescem conforme a equipe cresce com mais pessoas, e mais diferenças, e, portanto, a pressão para descobrir como cada um pode contribuir. Além disso, isso vai junto com a necessidade de clareza sobre as principais prioridades pelos trabalhadores. Em uma pesquisa[^nota_de_rodapé_michaeldearing_objetivos_claros] com 250 pessoas trabalhando em empresas de alto crescimento, 70% delas confirmaram como extremamente importante ter clareza sobre as principais prioridades da empresa.
 
-[^nota_de_rodapé_michaeldearing_objetivos_claros]: Michael Dearing discute a importância de entender as principais prioridades em empresas de alto crescimento em seu curso 'Autoestudo GM2: Estabelecendo Objetivos & Medindo Desempenho'. Neste curso, Dearing pesquisou 250 pessoas trabalhando em empresas de alto crescimento sobre a clareza das principais prioridades e a qualidade da gestão de equipes. Ele descobriu que 70% dos respondentes confirmaram que entender as prioridades principais era extremamente importante; além disso, o estudo mostrou uma correlação entre a qualidade da gestão e a clareza sobre as principais prioridades. Fonte: Dearing, M. (s.d.). Autoestudo GM2: Estabelecendo Objetivos & Medindo Desempenho. Harrison Metal. Retirado em 18 de janeiro de 2024, de https://www.harrisonmetal.com/classes/gm2-setting-goals-measuring-performance/lessons/magic-of-okrs.
 
-Embora olhar para esse horizonte possa soar um alerta para o que está à frente, isso não é inteiramente suficiente para os primeiros realizadores - permita-me colocar desta forma - se distraírem dos desafios reais do dia, que podem parecer como "saltar de um penhasco tentando montar um avião durante a queda,"[^nota_de_rodapé_reidhoffman_aviao_penhasco] como vividamente descrito por Reid Hoffman. Em outras palavras, o verdadeiro chamado que fazemos ao controle terrestre nos coloca no que é mais importante - fazer primeiro o que precisa ser feito e, depois, voltar para organizar coisas como arrumar post-its como parte da reflexão[^nota_de_rodapé_michaeldearing_realizando_postits] e do trabalho organizacional.
+<!-- 
+@meta @outline 
+* Outline - Introduction - Leading pitch - Gettings done exists, we know. But also we know it is not to do arbitrary. We get involved with that. 
+--> 
 
-[^nota_de_rodapé_reidhoffman_aviao_penhasco]: Ao discutir a natureza das startups, Reid Hoffman celebra a metáfora na qual, na situação de uma startup, "você se joga de um penhasco e monta um avião durante a queda," (Hoffman & Casnocha, 2013) para notar vividamente sobre os desafios como a situação de mortalidade e de foco.
 
-[^nota_de_rodapé_michaeldearing_realizando_postits]: A Harrison Metal ilustra - através da animação "Objetivos & Resultados Chave" [Harrison Metal, 2016] - brilhantemente como geralmente lidamos com a organização de metas com a situação de um proprietário de negócios que começa com uma aspiração inicial, se envolve com as atividades do dia a dia e, em seguida, se empenha em fazer a análise em retrospectiva, gerando ideias na esperança de que arrumar post-its possa melhorar sua produtividade, o que inevitavelmente leva à gestão por objetivos, se feito corretamente.
 
-Mas a complicação permanece - dado que a conversa contínua sobre gestão por objetivos está viva - que nós, gerentes de nossos objetivos reais e concretos de agora, ficamos ocupados com a realização de coisas, sob o tema central "como devo contribuir da melhor forma?" e vivendo as pressões do momento. Essa realidade nos empurra a evitar o envolvimento mais formal com o tema - pois parece uma distração, ou o próprio desperdício de recursos que é improdutivo, diante do nosso desejo de alcançar os objetivos.
 
-Isso nos leva a ficar desconfortáveis com o tema - até o ponto de duvidar da aplicabilidade de qualquer ideia para gerenciar metas e progressos, ou adiar para mais tarde como se fosse algo que pode ser usado no momento certo, como depois de mais tração existir ou a equipe ser maior.
 
-Mas realmente, e para ser justo, nossa inclinação não é por preguiça ou apenas pelo puro impulso por resultados que coloca a carroça na frente dos bois. Podemos ter muitos motivos para estar irritados e frustrados com muita coisa acontecendo enquanto corremos pelos corredores do hipermercado da startup, olhando as capas de tudo que parece tão coerente - dado que tudo se promove como o Santo Graal para nossos problemas. Nós lemos as letras pequenas e nos envolvemos de forma responsável em verificar as coisas, como quando pedimos opiniões de colegas ou críticos. Considere a visão de Fried e Hansson (2018, p. 32) - os renomados fundadores da bem-sucedida empresa do Vale do Silício Basecamp - em *Making it up as you go* sobre como eles administram sua empresa sem seguir metas rígidas, como planos de 2, 3 ou até 5 anos:
+When the entrepreneurial function happens to creatively destroy the old and change reality it does so more by getting things done [^footnote_schumpeter_entrepreneur_gettingthingsdone] and less because of theory, fiction, inventions, and other required arrangements to thrive. Focusing on the worker - call them doers, executors, entrepreneurs - right after they put their helmet on and set themselves in the trajectory, immediately they visualize that if they want to get things done back home they can't just be doing things, like getting arbitrary things done. In other words, the doers go far but they do so by calling ground control - by setting goals and incessantly fearing [^footnote_fears_drivers] of being drifters in the space of opportunities.
 
-> *"A cada seis semanas ou mais, decidimos no que estaremos trabalhando a seguir. E esse é o único plano que temos. Qualquer coisa além disso é considerada um 'talvez, vamos ver.'"* (Fried & Hansson, 2018, p. 32).
+[^footnote_fears_drivers]: We have discussed in the first part how fears play a significant role in driving entrepreneurs, or the actual entrepreneur of their lives. We fear to fail, we fear to be wasting time, we fear to run out of gas or oxygen, and that fear can also set us to run quite fast even entering a fearless movement into action. 
 
-Além disso, eles nos dão um bom argumento para a situação onde metas rígidas podem ser prejudiciais ao progresso:
+[^footnote_schumpeter_entrepreneur_gettingthingsdone]: Joseph Schumpeter (2008), the renowned  Austrian-American economist and political scientist known for his theories on economic development and business cycles, in "Capitalism, Socialism, and Democracy," emphasizes the characterization of "getting things done" (p. 132) as an essential element of the entrepreneurial function. He argues this aspect is even more crucial than others, such as the entrepreneur's ability to invent new things or create conditions for the enterprise to thrive. 
 
-> *"Muita ansiedade corporativa vem da realização de que a empresa estava fazendo a coisa errada, mas é tarde demais para mudar a direção por causa do 'Plano.'"* (Fried & Hansson, 2018, p. 33)
+<!-- 
+@meta @references
+* Reference - Schumpeter, J. A. (2008). Capitalism, socialism, and democracy. Harper Perennial Modern Thought. (Original work published 1942)
+-->
 
-Há verdade nisso - verdade que também nos guiará adiante - mas por agora eu prefiro considerar a complicação de uma inclinação que, baseada nesses valores, constrói uma lógica positiva que se soma - como um investimento - onde cada dia podemos desenvolver uma visão fundamentada de que isso tem a ver com mais uma prática de gestão do mundo lento da administração, que simplesmente não é aplicável à nossa situação. O que perdemos é que o "não" que dizemos a esses temas não é apenas um "sim" às coisas que queremos realizar. É um sim para nossa própria solução de gestão, já que fazer as coisas acontece de qualquer forma. Uma nota de Jonathan Nightingale em *How Fucked Up Is Your Management* nos ajuda a ver os perigos da inclinação positiva que às vezes nos apoia a descartar a gestão:
 
-> *"Não preciso que você seja o melhor do mundo em gestão. Mas se você não planeja ser, se você não vai ser realmente estudioso e dedicado a isso, então pelo amor de Deus, pare de mexer com isso. Prometo que você não pode construir um sistema de gestão melhor no seu tempo livre."* (Nightingale, J., 2017, p. 23)
 
-Portanto, aqui nos colocamos em um dilema onde estamos engajados e preocupados com a produtividade, em fazer o nosso melhor em direção aos nossos objetivos, mas igualmente preocupados com os aspectos de quando e por que. Em outras palavras, vale a pena se envolver com o aprendizado sobre definição de metas e gestão de metas e, se sim, quando é o momento certo para considerar a aplicabilidade de qualquer método ou estrutura formal?
 
-A resposta curta para se envolver é *sim*, porque você está envolvido se tiver objetivos à frente - mesmo que esteja sozinho - e muito envolvido em uma situação de equipe. Em outras palavras, você começou, está usando tempo, energia, e então você está no comando de um tremendo impacto. Isso também resolve o Quando, para que possamos considerar o Como:
 
-Primeiro, nossa estratégia para avançar deve trazer uma oportunidade de refletir sobre o problema da definição de metas e a gestão de metas, mas mais como uma conversa. Assim, estando fora da pressão de ter que mapear o que fazer - e como as coisas se aplicam às nossas equipes - o que geralmente acontece em tempo real com a leitura e aprendizado dos métodos ou estruturas. Minha esperança é que possamos levar algo conosco que seja prático para agora, e para nossas vidas e para nossas equipes, de uma maneira que possa ser duradoura.
+<!-- 
+@meta @outline 
+* Outline - Introduction - #SCqA - Situation - We are concerned with productivity and even give management of objectives under the need of being productive. 
+--> 
 
-Dito isso, vamos avançar com OKR - Objetivos e Recursos-Chave - uma estrutura de gestão para definição de metas e progresso com metas. Alinhados a essa estratégia, nossa abordagem terá menos a ver com a introdução da estrutura - ou sugerindo-a como um manual - e mais com "consultar o OKR" ou "verificar com conversas sobre OKR". Essa abordagem deve nos colocar para participar das conversas contínuas e ricas que o OKR tem oferecido, como veremos nas próximas seções; mas não vamos colocar a carroça na frente dos bois e começar honrando o que faz o OKR ser ótimo como uma conversa, além de ser uma estrutura.
 
-#### OKR como uma Conversa Rica
 
-Sob nossa estratégia, considero o OKR como uma abordagem de gestão estratégica. Originado no Vale do Silício na Intel Corporation, ganhou uso generalizado após sua adoção pelos funcionários do Google. Em resumo, o OKR sobreviveu ao teste do tempo - e à potencial objeção - da inteligência coletiva dos trabalhadores de alta tecnologia[^nota_de_rodapé_marciogalli_pessoas] dessas empresas do Vale do Silício. Também é justo reconhecer a enorme quantidade de novas pessoas que, através do OKR, abraçaram as amplas conversas de gestão que acontecem internamente e fora dessas organizações. Uma pesquisa informal feita por Kris Duggan[^nota_de_rodapé_krisduggan_pesquisaokr] durante a palestra intitulada *Usando OKRs para Obter Resultados, também conhecida como ‘Segredos para Alcançar Seus Objetivos’*, oferece insights sobre sua gama de aplicabilidade e popularidade:
 
-[^nota_de_rodapé_marciogalli_pessoas]: Baseado em minha experiência na Netscape Communications no início dos anos 2000, nosso ambiente consistia em muitos indivíduos criativos e inteligentes que estavam desenvolvendo o futuro da Internet, usando ferramentas da Internet para colaborar e que pareciam caóticos em seu envolvimento com a ideia de quebrar normas.
 
-> *"A propósito, levantem a mão, quem realmente faz OKRs agora? OK, cerca de um terço de vocês. E quem está pensando em OKRs? OK, um terço de vocês e então um terço de vocês veio pelas bebidas e jantar grátis, eu acho. OKRs são simplesmente uma metodologia de gestão que ajuda as empresas a focar seus esforços no que é importante e a fazer isso em escala em toda a organização. Eu não acho que você possa ser pequeno demais para pensar em OKRs. Uma ou duas pessoas em uma equipe, grupo, divisão, departamento, empresa, ou até literalmente 60, 80, 100 mil pessoas poderiam fazer isso em escala."*
 
-[^nota_de_rodapé_krisduggan_pesquisaokr]: É importante reconhecer o profundo envolvimento de Kris Duggan com OKRs. Sua empresa, BetterWorks, fornece uma ferramenta para definir, acompanhar e gerenciar metas via OKRs; e recebeu investimento de John Doerr, um proeminente investidor do Vale do Silício e renomado evangelista dos OKRs.
+Now, as we consider the startup situation, the theme of management by objectives appears not only as an answer to be productive (in the philosophical sense) but because of external needs (in the material sense) that grows as the team grows with more people, and more differences, and therefore the pressure to figure how each one can contribute. In addition, these go along with the need from clarity about top priorities by workers. In a survey [^foonote_michaeldearing_clearobjectives] with 250 people working in high-growth companies, 70% of them confirmed as extremely important to have clarity about the company's top priorities. 
 
-À medida que avançamos com o OKR, a boa notícia é que não estaremos cavalgando nele enquanto tentamos aprender a cavalgar e, ao mesmo tempo, preocupados com os desafios do roteiro. Digo isso porque o OKR pode ser visto como um animal temperamental onde as pessoas tentam controlá-lo, domá-lo, e então elas ficam confusas, caem, se machucam; embora essa ilustração não seja tão triste quanto a possibilidade de ficarem frustradas com o OKR e desistirem, até mesmo desistindo da conversa sobre os desafios da definição de metas. Ao usar o OKR para fins de reflexão, estaremos considerando as coisas em perspectiva, focaremos no elemento temperamental subjacente real - o elemento humano - que torna a definição de metas e a gestão de metas tão difíceis. Jonathan Nightingale (2017) captura bem esse sentimento quando diz que '[g]erenciar pessoas é excepcionalmente difícil de fazer bem. As pessoas são complexas, e as organizações estão cheias delas' (p. 23).
+[^foonote_michaeldearing_clearobjectives]: Michael Dearing discusses the importance of understanding top priorities in high-growth companies in his course 'Self Study GM2: Setting Objectives & Measuring Performance.' In this course, Dearing surveyed 250 people working in high-growth companies about the clarity of top priorities and the quality of team management. He found that 70% of respondents confirmed that understanding top priorities was extremely important; plus the study showed a correlation between the quality of management and the clarity about top priorities. Source: Dearing, M. (n.d.). Self Study GM2: Setting Objectives & Measuring Performance. Harrison Metal. Retrieved January 18, 2024, from https://www.harrisonmetal.com/classes/gm2-setting-goals-measuring-performance/lessons/magic-of-okrs.
 
-Com isso, nossa reflexão será mais como conversar caminhando, com a intenção de nos ajudar e aos nossos colegas quando precisarmos realmente caminhar ou falar e agir no domínio da gestão de metas. Vamos começar verificando por que metas de cima para baixo são importantes, o que o OKR nos diz sobre o uso de metas fortes ou ambiciosas ou possivelmente de longo prazo, e as considerações para lidar com metas quando o caminho é incerto. Em seguida, verificaremos como a gestão de metas - e o OKR junto com ela - lida com a necessidade de correção de curso. Na última seção, consideraremos as complexidades de medir e julgar o progresso e como a perspectiva radical demais pode influenciar o julgamento pobre da equipe.
+<!--
+@meta @note @dup:030_wantrepreneur_article 
+> *"To undertake such new things is difficult and constitutes a distinct economic function, first, because they lie outside routine tasks which everybody understands, and secondly, because the environment resists in many ways that vary, according to social conditions, from simple refusal either to finance or to buy a new thing, to physical attack on the man who tries to produce it. To act with confidence beyond the range of familiar beacons and to overcome that resistance requires aptitudes that are present in only a small fraction of the population and that define the entrepreneurial type as well as the entrepreneurial function. This function does not essentially consist in either inventing anything or otherwise creating the conditions with the enterprise exploit. It consists in getting things done."* (Schumpeter, 2008, p. 132)
+@meta @references
+* Reference - Schumpeter, J. A. (2008). Capitalism, socialism, and democracy. Harper Perennial Modern Thought. (Original work published 1942)
+-->
+
+Although looking to that horizon may ring a bell for what is ahead it isn't entirely enough for early doers to - let me put it that way - be distracted from the actual challenges of the day which may feel like "jumping off a cliff trying to assemble an airplane on their way down," [^footnote_reidhoffman_airplane_cliff] as vividly said by Reid Hoffman. In other words, the actual call we make to ground control sets us in what is major - to do what needs to be done first and then, afterwards, come back to organize things such as sorting out post-its as part of the reflection [^footnote_michaeldearing_realdoing_postits] and organizational work. 
+
+[^footnote_reidhoffman_airplane_cliff]: In discussing the nature of startups, Reid Hoffman celebrates the metaphor where in the startup situation "you throw yourself off a cliff and you assemble an airplane on the way down," (Hoffman & Casnocha, 2013) to vividly note about the challenges such as the mortality situation and of focusing. 
+
+<!--
+@meta @references
+* reference - Hoffman, R., & Casnocha, B. (2013, July 15). The Startup of You. CreativeLive. Retrieved January 18, 2024, from https://youtu.be/e2X54ALRkZg?si=OF_2-LTUk6KR17ip
+--> 
+
+[^footnote_michaeldearing_realdoing_postits]: Harrison Metal illustrates - through the animation "Objectives & Key Results" [Harrison Metal, 2016] - brillantly how we generally deal with organization of goals with the situation of a business owner that starts with an initial aspiration, that gets involved with the day-to-day activities, and then engages in an effort to do the analysis in retrospect by generating ideas under the hope that sorting out post-its may improve its productivity which would innevitably leads to management by objectives, if done right.
+
+<!-- 
+@meta @todo 
+* @todo - p1 (x) - Consider the mini video of Michael - about post-its and bottom up - within the context of Not so radical focus - https://vimeo.com/188846225 . Ref [^footnote_michaeldearing_realdoing_postits] / Ref 482748-492849-409284-42084209
+
+@meta @references
+* reference - Harrison Metal. (2016, October 25). Objectives & Key Results [Video]. Vimeo. https://vimeo.com/188846225
+--> 
+
+
+
+
+<!-- 
+@meta @outline 
+* Outline - Introduction - #SCqA - Complication - We struggle with the thing in the middle, the execution; We may doubt - a denial - that a method for progressing with goals helps for when the urgencies are real. 
+--> 
+
+
+
+
+
+But the complication remains - that given the ongoing conversation of management by objectives is alive - that us managers of our real and concrete objectives of now, get to be busy with the getting things done, under the flag theme "how should I contribute best?" and living the pressures of the current. That reality pushes us to avoid the more formal involvement with the theme - as it sounds like a distraction, or the very waste of resources which is unproductive, in front of our desire to achieve the very goals. 
+
+That set us to be uncomfortable with the theme - even to a point of doubting the applicability of any idea for managing goals and progress, or deferring to later as if it is something that can be used in the right time, such after more traction exists or the team is bigger. 
+
+But really and to be fair, our inclination is not out of laziness or just the pure drive for results that puts the cart before the horses. We may have a lot of reasons to be mad and frustrated with a lot going on when we are running in the hallways of the staartup hypermarket through the aisles checking the cover of all that seem so coherent - given that all promotes to be the holy grail to our problems. We do read the small letters, and quite get involved with checking things in responsible ways such as when we ask for our colleagues or views from the critic. Consider the view by Fried and Hansson (2018, p. 32) - the renowed founders of the successful Silicon Valley firm Basecamp - in *Making it up as you go* for how they run their company by not following strong goals such as the 2, 3, or even 5-year plans:
+
+> *"Every six weeks or so, we decide what we will be working on next. And that is the only plan we have. Anything further out is considered a 'maybe, we will see.'"* (Fried & Hansson, 2018, p. 32).
+
+<!-- 
+@meta @references 
+* Reference - Fried, J., & Hansson, D. H. (2018). It doesn't have to be crazy at work. HarperCollins.
+--> 
+
+Furthermore, they give us a good argument for the situation where strong goals can be detrimental to progress: 
+
+> *"Much corporate anxiety comes from the realization that the company has been doing the wrong thing, but it is too late to change the direction because of the 'Plan.'"* (Fried & Hansson, 2018, p. 33)
+
+<!-- 
+@meta @references 
+* Reference - Fried, J., & Hansson, D. H. (2018). It doesn't have to be crazy at work. HarperCollins.
+--> 
+
+There is truth in there - truth that will also guide us ahead - but for now I rather consider the complication of an inclination that based on these values builds up a positive logic that sums up - like an investment - where each day we may grow a principled view that this has to do with yet another management practice of the slow world of management which is simply not applicable to our situation. What we miss, in that the "no" we say to these themes are not only a "yes" to the things we want to get done. It is a yes to our own management solution since doing things happens anyway. A note from Jonathan Nightingale from *How Fucked Up Is Your Management* help us to see the dangers of the positive inclination that sometimes support us to dismiss management:  
+
+> *"I don't need you to be the best in the world at management. But if you're not planning to be, if you're not going to be really studious and dedicated to it, then for God's sake stop messing with it. I promise you you can't build a better management system in your spare time."* (Nightingale, J., 2017, p. 23)
+
+<!-- 
+@meta @references
+* Reference - Nightingale, J. (2017). How Fucked Up Is Your Management. Raw Signal Press. 
+-->
+
+
+
+
+
+<!-- 
+@meta @outline 
+* Outline - Introduction - #SCqA - Question Answer - Introduction - #SCqA - Question Answer - Dilemma of already being involved with productivity and provoked to not dive-  as the methods for orientation to goals seem to not fit, too complex - so that it can be deferred. @meta-refid 875-834-923-933
+--> 
+
+
+
+
+
+
+So, here we set ourselves in a dilemma where we are engaged and concerned with productivity, to do our best towards our objectives, but equally concerned with the aspects when and why. In other words, is it worth to get involved with learning about goal-setting and goal management and if so When is the right time to consider the applicability of any formal method or framework? 
+
+The short answer for getting involved is *yes* because you are involved if you have objectives ahead - even if you are alone - and a lot involved in a team situation. In other words, you started it, you are using time, energy, and so you are in charge of a tremendous impact. This also solves the When so we can consider the How:
+
+First, our strategy to move on should bring an opportunity to reflect on the problem of goal-setting and the management of goals, but more like a conversation. Thus, being outside the pressure of having to map what to do - and how things apply to our teams - which generally happens in real-time with the reading and learning from the methods or frameworks. My hope is that we can take something with us that is practical for now, and for our lives and for our teams, in a way that can be lasting. 
+
+With that said, we will ride along with OKR - Objectives and Key Resources - a management framework for goal-setting and progressing with goals. In alignment with this strategy, our approach will have less to do with introducing the framework - or suggesting it like a playbook - and more with "consulting with OKR" or "checking with OKR conversations." This approach should set us to join the ongoing and rich conversations that OKR has given, as we will see in the following sections; but let us not put the carriage in front of the horses and start by honoring what makes OKR great as a conversation, besides being a framework. 
+
+
+
+
+
+
+
+<!-- 
+@meta @outline 
+* Outline - Introduction - #SCqA - Answer - We are going to use OKR but as a conversation, discussion goal-setting and management of goals, and to check what OKR has to say. Goal-setting deals with tops-down and bottom-up? Can OKR course-correct? And what is the battle? 
+--> 
+
+
+
+
+
+
+#### OKR as a rich conversation 
+
+Under our strategy, I consider OKR to be a strategic management approach. It has originated in Silicon Valley at Intel Corporation and then gained widespread usage after its adoption by Google employees. In short, OKR has survived the test of time - and potential objection - from the collective intelligence of the high-tech workers [^footnote_marciogalli_people] from these Silicon Valley companies. It is also fair to acknowledge the enormous amount of new people that have embraced through OKR the wider management conversations taking place internally and outside these organizations. An informal survey by Kris Duggan [^footnote_krisduggan_surveyokr] during the talk entitled *Using OKRs to Drive Results aka ‘Secrets to Crushing Your Goals’* provides insight into its range of applicability and popularity:
+
+[^footnote_marciogalli_people]: Based on my experience at Netscape Communications in the early 2000s, our environment consisted of too many creative and intelligent individuals who happened to be developing the future of the Internet, to happened to be using the Internet tools to collaborate, and who happeneed to appear as chaotic by their involvement with the idea of break norms. 
+
+> *"By the way, show of hands, who actually does OKRs right now? OK, about a third of you. And who's thinking about OKRs? OK, a third of you and then a third of you came for the free drinks and dinner, I guess. OKRs are simply a management methodology that helps companies focus their effort on what's important and to do that scales across the organization. I don't think you can be too small to think about OKRs. One or two people in a team, or a group, or a division, or a department, or a company, or up to literally 60, 80, 100 thousand people could do this at scale."* 
+
+[^footnote_krisduggan_surveyokr]: It is important to acknowledge Kris Duggan's deep involvement with OKRs. His company, BetterWorks, provides a tool for setting, tracking, and managing goals via OKRs; and has received investment from John Doerr, a prominent Silicon Valley investor and renowned evangelist of OKRs. 
+
+As we move on with OKR, the good news is that we won't be riding on it while trying to learn how to ride and at the same time being concerned with the roadmap challenges. I say that because OKR can be seen as a temperamental animal where people try to control it, to tame it, and then they get confused, they fall, they get hurt; although this illustration isn't as sad as the possibility of them just being frustrated with OKR and giving up, even giving up the conversation about the challenges of goal-setting. By using OKR to the purposes of reflection, we will be considering things in perspective, we will set our focus on the actual underlying temperamental element - the human element - that makes goal-setting and the management of goals so hard. Jonathan Nightingale (2017) captures this sentiment well when he says that '[m]anaging people is exceptionally hard to do well. People are complex, and organizations are just full of them' (p. 23).
+
+<!-- 
+@meta @references
+* Reference - Nightingale, J. (2017). How Fucked Up Is Your Management. Raw Signal Press. 
+-->
+
+With that, our reflection will be more like talking the walk, with the intention to help us and our colleagues when we are required to go walk the walk or walk the talk in the domain of management of goals. Let us start by checking why is it that tops-down goals are important, and what OKR tells us about using  strong or ambitious or possibly long-term goals, and the considerations for dealing with goals when the road is uncertain. Moving on, we will check the how management of goals - and OKR along with it - deals with the need for course correction. As for the last section, we will consider the complexities for measuring and the judgment of progress and how the too radical perspective can influence the team's poor judgement. 
+
+
+
+
+
+
+
+
+
+
+
 
 
 
