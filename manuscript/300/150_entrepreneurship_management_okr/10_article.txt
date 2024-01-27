@@ -341,11 +341,11 @@ Beyond that, or before that, OKR has origins with the teachings of Andy Grove wh
 * reference - Grove, A. (2015). High Output Management. Vintage Books.
 --> 
 
-In other words, Andy needed first a responsible system with a fundamental element that granted permission to work to happen, and to happen transparently, without a critical system to attack the work being done while being done. For example, as I am writing this paragraph I am going for a specific milestone: to complete an initial editing of the draft of this chapter by the end of this week. Such milestone is helping me to focus, to work. With that I am trying to not be too critical as if I get distracted with that I can put the actual milestone in danger. Naturally, my goals expect a future version of this chapter to be useful to the reader. But that has to be a different milestone in the future; granted that will expect an other more formal editing effort to take place. While it is my hope as this work of now survives or appears in the end, to be concerd with that it would be a waste of time as of now. In other words, I a working and I know that even if this goes away and gets removed, that should only be possible because of further clarity achieved because of this work too. Therefore, this milestone is necessary, therefore my work of now is valid.  
+In other words, Andy needed first a responsible system with a fundamental element that granted permission to work to happen, and to happen transparently, without a critical system to attack the work being done while being done. For example, as I am writing this paragraph I am going for a specific milestone: to complete an initial editing of the draft of this chapter by the end of this week. Such milestone is helping me to focus, to work. With that I am trying to not be too critical as if I get distracted with that I can put the actual milestone in danger. Naturally, my goals expect a future version of this chapter to be useful to the reader. But that has to be a different milestone in the future; granted that will expect an other more formal editing effort to take place. It is my hope that this work of now appears in the end - and while it remains to be seen - but to be concerned with that it would be a waste of time right now. In other words, I am working and I know that even if this goes away and gets removed that should be possible because of further clarity achieved because of this work; therefore, this milestone is necessary, therefore my work of now is valid, therefore I am necessary just like I am being myself now.   
 
-We will come back to the challenges of reviewing key results and objectives and the conversation about OKR from the perspective of learning and replanning. For now, I want to highlight that this component, that makes work possible and visible and concrete and measurable is what gives the doer the opportunity to, first, to get involved if they feel they can join the boat, and if so to know what they have to do, through these milestones or key results. 
+We will come back to the challenges of reviewing key results and objectives and the conversation about OKR from the perspective of learning and replanning. For now, I want to highlight that this component, that makes work possible and visible and concrete and measurable, is what gives the doer the opportunity to, first, to get involved if they feel they can join the boat, and if so to know what they have to do, through these milestones or key results. 
 
-There is certainly an humaninistic perspective in that component of MBO because it holds the allowance to work and also it allows the work to be seen. And naturally other humanistic perspectives will be equally necessary for the whole OKR system to work well which we will discuss ahead. But the point being is that Andy were concerned with enabling his colleagues to work and talk about what they were doing and that would not be possible if they didn't have a way to look into what is being done. This is also the right time to acknowledge the challenges that Intel went through when the company's leading position as a memory chip manufacturer were surprised by what Andy called "a 10x force" [^footnote_onlytheparanoidsurvive_intel] provided by the competition from Japanese memory chip manufacturers that had better technology which would likely sink Intel especially if Intel kept following strictly its long-term objectives. 
+I have no doubt of an optimistic and humaninistic perspective in that component of MBO because it holds the allowance to work and also it allows the work to be seen. And naturally other humanistic perspectives will be equally necessary for progress to happen - or the whole OKR system to work well - which we will discuss ahead. But the point being is that Andy were concerned with enabling his colleagues to work and talk about what they were doing and that would not be possible if they didn't have a way to look into what is being done. This is also the right time to acknowledge the challenges that Intel went through when the company's leading position as a memory chip manufacturer were surprised by what Andy called "a 10x force" [^footnote_onlytheparanoidsurvive_intel] provided by the competition from Japanese memory chip manufacturers that had better technology which would likely sink Intel especially if Intel kept following strictly its long-term objectives. 
 
 [^footnote_onlytheparanoidsurvive_intel]: Andy Grove's "Only the Paranoid Survive" discusses the concept of a 10x force as a significant change that it changes the fundamental dynamics of a business or industry. Grove elaborates on how Intel's need for adaptability in business. 
 
@@ -509,23 +509,24 @@ Now if people to join projects, with causes and goals, they do because they know
 
 
 
-Before we move into the next section - the aspects of course-correction - it is worth to go back to an illustration of a fight and into an extrapolation of the inherent fight that has less to do with the boss versus the subordinate fight. The tops-down appears to provoke a fight, indeed, with the bottom-up role. As in on one side there is the one that tells and on the other side the one that does, the doer that suffers in many situations, such as anxiety or producing their tears as a by-product. But if these roles show a fight, and the human nature seem to be exposed in its worse if you go back in history taking photos capturing the fight of them; the more we evolve we seem to find a sort of inner fight, or challenge, that really gets this view of being fire and fight more because of the not humanized paths we came from, which confuses us. In other words, the essense may seem like a fight but it is really a learning process nad management process that is required for anything new to be brought and change the system. 
+Before we move into the next section - the aspects of course-correction - it is worth to go back to an illustration of a fight and into an extrapolation of a generally assumed fight or source of anxiety between the tops-down things to do, protagonized through a historically a harsh bossy entity -  versus the bottoms-up effort of a doer that struggles under the relatinship and pressures of being a subordinate. Indeed, the tops-down, boss or manager or superior or an entity, appears to provoke a fight, indeed, with the bottoms-up role, the doer, the contributor, the effort maker. As if if one were the one that tells and on the other side the one that listen, and it is required to do and in the toxic condition is measured not by the effort but by the necessity to solve and achieve the outcome. This is then a source of anxiety where the doer suffers in many situations, such as anxiety or producing their tears as a by-product. 
 
-Or if we look for the fight that happens in the micro context, a small team even of friends working, a fight that also happens within the micro context of the individual. This is the fight that one deals with when they want to lose weight, or to learn to write, or to come up with an invention when the materials to do so are not fully in place, or seeking a freedom in a space where the rules yet don't allow. Achieving them goals will be hard, like it or not, we will only have to face the reality that we as managers have to nurture the environment for them to be achieved because the doer can only do one thing - to contribute - if they are onto it. That is yet another reason for the goals to be meaningful for them. And if we are wearig this hat, or when we are wearing this hat, we are into the need to comply with the understanding of what should our contribution be. This relationship between our personalities - one being the innocent doer or the sensitive doer that is learners; and the other being the critic or the editor that will demand results, is natural. Our goal, as managers and minimally at this point that we are really reflecting with all of this, is to continue to check what the conversaion - like the OKR one - is telling us for how we can do our best especailly that we may not know what to do and what generally the goal is not yet clear as well. 
+But if these sides show a fight - by the photos we have taken of the workplace especially if we go back through history taking notes from the toxic organizations - we should use our time to pass through that hard wall and access an inner fight, or challenge, that really gets to feed that fire of the corporations that had created a lot of confusion to us. What is ahead, or under all that fire reveals an essential and struggle of a learning process when the doer is required to change, and by that a management process is required for enabling the new, the outcome, to be brought and change the system.  
 
+Consider a micro context like a small team or even friends working, and even the micro context of an individual involved in the challenge to achieve an objective that is not easy. This is the fight that one deals with when they want to lose weight, or to learn to write, or to writer better, or to come up with an invention when the materials were not invented yet, or seeking some kind of freedom in the situation when the rules don't allow yet. When we lock in this situation - not by looking to any role of a bad person - we are required to recognize that achieving them goals will be hard, like it or not; and with that that we as managers have to face the reality for nurturing an environment for them to be achieved because the doer can only do one thing - to contribute - if they are onto it and involved and care. 
 
 
 
 
 <!-- 
 @meta @outline 
-* Outline - Answer k1.3.2.1 - OKR on non-selfish   
+* Outline - Answer k1.3.2.1 - Management and grove on nurturing and supporting the surrender of the self for the team 
 --> 
 
 
 
 
-
+To celebrate a few OKR inputs up to this point - we should remember that OKR had asked us to have goals that are meaningful. As for the contributor, that there is an assumed inclination from the whole system that sought help and this doer, an interest in seeking what should be my contribution - which does not give up his values but recognizes the doer's weaknesses and strenghts. This relationship reveals two sides, the tops-down and the bottoms-up, or two personalities if you will where one being the doer that can be hold aspects of an apprentice and of an experts in various degree plus this doer can be also sensitive and innocent and generally feels good or hurt. On the other side, it is configured the personality of a critic or a judge or an editor that expects results, as a representative of the goals, a stakeholder. Our goal, as managers in the situation, has to do with the ability to look at what happens and reflecting so that we can help with what matters. Thus, we shall continue to check and nurture the conversation - like the OKR one - so that it can tell us how we can do our best, especailly that we may not know what to do and that furthermore the actual goals and therefore the ideas for how to get there aren't fully clear. Andy Grove came up with a viewpoint that recognizes the whole body work and the implication of it being that a system should exist that asks the individuals to do for the team: 
 
 > *"To make such a body work requires the *voluntary surrender of individual decision making to the group*. Being a member means you no longer have complete freedom of individual action, because you must go along with the decisions of your peers in most instances. By analogy, think of yourself as one of a couple who decides to take a vacation with another couple. You know that if you go together, you will not be free to do exactly what you want to do when you want to do it, but you go together anyway because you have more fun, even while you'll have less freedom. At work, surrendering individual decision-making depends on trusting the soundness of actions taken by your group of peers."* (Grove, A., 2015, pp. 134-135)
 
@@ -534,10 +535,7 @@ Or if we look for the fight that happens in the micro context, a small team even
 * reference - Grove, A. (2015). High Output Management. Vintage Books.
 --> 
 
-
-
-
-Abraham Maslow speaks of the idea of the selfish that works along with the non-selfish. This, of course, requires or goes along with an enlighted condition where the challenges of work becomes the space for growth of work and the self, altogether: 
+In alignment with that, an enlightened view from Abraham Maslow gives us light into a a key aspect of "the fight" by considering that the doer is selfish and also the acknowledgement that her ability to perform, and to work, and to be embraced, shall lead her into accessing - if the environment is favorable - the non-selfish which is essentially to embrace adaptation: 
 
 > *"This is an easy medicine for self-esteem: Become part of something important. Be able to say, "We of the United Nations . . ." or "We physicians . . ." When you can say, "We psychologists have proven that . . ." you thereby participate in the glory, the pleasure, and the pride of all psychologists any place. 
 > This identification with important causes, or important jobs, this identifying with them and taking them into the self thereby enlarging the self and making it important, this is a way of overcoming also actual existential human shortcomings e.g., shortcomings in I.Q, in talent, in skill, etc. For instance, science is a social institution, with division of labor and colleaguehood *and* exploitation of characterological differences - this is a technique for making uncreative people creative, for making unintelligent men to be intelligent, for enabling small men to be big, for permitting limited men to be eternal and cosmic."* (Maslow, Abraham H., 1998, pp. 11-12)
@@ -547,11 +545,9 @@ Abraham Maslow speaks of the idea of the selfish that works along with the non-s
 * reference - Maslow, Abraham H. (1998). Maslow on Management. Published by John Wiley & Sons, Inc.
 --> 
 
+This, of course, requires or goes along with a degree of a healthy, or enlighted condition, where the challenges of work are not affecting the doer's healthy condition to work and then it becomes the space for growth self and with that the expected growth of the work. 
 
-
-
-
-Now, considering the possibility of a peaceful space between the role of the "one" that wants tops-down needs, now not being against the role of the contributor that is interested to contribute and willing to grow, the management of this health dynamics is not only the right thing to do - it's the necessary thing to do and the main thing to do. But also, when better explored or studied, such as under a calmer reflection, one will realize that this is the space where opportunity arises. In other words, we will come to recognize that in most situations we do not have clarity about how we phrased our tops-down goals - or for the matter where are we going - and it is through the actual work of the contributor role - individual or unit - that we achieve clarity to course-correct the path. Let's move on to see how that opportunity to course-correct goals happens and how OKR offers a great deal of support to that. 
+Now, considering the possibility of a peaceful space between the role of the "one" that holds and expects the tops-down needs, now not being against the role of the contributor - the one that wants to contribute - the management of this health dynamics is not only the right thing to do - it's the necessary thing to do and the main thing to do. But also, when better explored or studied, such as under a calmer reflection, one will realize that this is the space where opportunity arises. That idea also goes along not only with the necessity for supporting the role of the doer but to support the role of the tops-down role that didn't have a full clarity and likely had phrased the tops-down goals - or for the matter where are we going - with limitations; which reveals the opportunity to let the actual work of the contributor role - individual or unit - to help with the discovery of clarity which will then help to course-correct the path. Let's move on to see how that opportunity to course-correct goals happens and how OKR offers a great deal of support to that. 
 
 
 
@@ -590,47 +586,124 @@ Now, considering the possibility of a peaceful space between the role of the "on
 * Outline - Answer k2 - OKR analysis for course-correction, failure, and opportunity.
 --> 
 
-## Course-correction for ambitious goals 
+## Course-correcting decisions for ambitious goals 
 
 
 
 
 
 
-When it comes to translating objectives into actions, taken that we start from the wishes, the target, the top top, a tops-down modelling effort is put in place - indeed based on a big goal, whiten down as an objective. The modelling phase is part of the planning process intended to find things that we can do that can bring that objective closer. 
+When it comes to translating objectives into actions - thinking that we started from the wishes and having entered the tops-down modeling effort after the higher-order goals - there is a natural and optimistic expectation - and purpose - for this modeling phase as a planning process to find things we can do that brings the objectives closer. 
 
-The other component of it has to do with the Key Results which is how the team moves to pull the goal closer. There is no doubt that OKR aims for achieving the objectives. In other words, the objective that is writen down is not to change. And that creates the condition for the performer to focus and work in the key results. 
+With that said, you may remember what I have briefly introduced Andy Grove's intentions to put MBO in place as a practical system to help his colleagues in the planning by working although intended to help them to "*determine* the *decisions* to set the company in the direction of a better future," which goes inline with Andy's observation that "the true output of the planning process is the set of tasks that cause to be implemented." (Grove, A., 2015, p. 109)
+
+<!-- 
+@meta @references 
+* reference - Grove, A. (2015). High Output Management. Vintage Books.
+-->
+
+But keeping that in hindsight, it still remains a challenging situation for the doers to be practical. And this is where we should - again - celebrate the simplicity in Andy Grove's two questions (2015, pp.111) from the management by objectives where the first answer "provides the objective," and the second "gives us milestones or key results:
+
+* "Where do I want to go?" 
+* "How will I pace myself to see if I'm getting there?" 
+
+<!-- 
+@meta @references
+* reference - Grove, A. (2015). High Output Management. Vintage Books.
+--> 
+
+This second question is the birthplace of *Key Results*, or the milestones, which in alignment with great OKR thinkers [^footnote_okr_timebound] and set us to make them to be time-bound and to be clear - not ambiguous - for us and our colleagues. In other words, there is no doubt that OKR aims for achieving the objectives by having the objectives writen down and static and by having the key results written down and static. Yes, as I have said, that demands courage such as the courage to be wrong and to allow failure to happen - it's necessary. 
+
+[^footnote_okr_timebound]: From the conversations about Key Results, both 'High Output Management' by Andrew S. Grove (2015) and 'Measure What Matters' by John Doerr (2018) align with Michael Dearing's General Management 2 course - https://www.harrisonmetal.com/classes/gm2-setting-goals-measuring-performance/lessons/magic-of-okrs - where Key Results need to be measurable and time-bound.
+
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Not So Radical Focus - Consider to put the example of Andy of the car's gauge - @meta-refid 4349840-4803048-4398493-4384 
+--> 
+
+
+
 
 <!-- 
 @meta @outline 
 * Outline - Answer k2.0.1 - complication - Goal-setting fails to re-evaluate objectives under low self-esteem whole
 --> 
 
-The natural question, or complication with that idea, is exactly that it pulls the team towards being locked by the requirements of the goals and key results, which indeed could cause anxiety when the performer feels that things are not going well. Worse it is when, in the face of the feeling that things are not going well, the performer is pressured to work even more towards pre-defined key results, as if assuming that more effort would save the strategy. And, of course, when the matter involves the outcome not serving well, more anxiety certainly comes our way. 
 
-But then, with that idea, it is time to consider if OKR passes the complication pointed by David and Jason, who stated: 
+
+
+We shall then proceed to celebrate a natural question, or a complication with that idea, which is that it pulls the doer - the individual or the team working - towards being locked by the following the key results, which indeed could cause anxiety under circumstances when the performer feels that things are not going well in the future. Worse it is when, in the face of the feeling that things are not going well, the performer is pressured to work even more towards pre-defined key results, as if assuming that more effort would save the strategy. Along with that idea, we shall well celebrate a view of the horizon pointed out in the complication given to us by David and Jason, who stated: 
 
 > *"the sooner you admit you have no idea what the world will look like in five years, three years, or even one year, the sooner you will be able to move forward without the fear of making the wrong big decision years in advance."* (Fried & Hansson, 2018, p. 33).
 
-Indeed, when working with innovative products, in a world that changes fast, that sounds about the situation that many founders live. It might come a situation of conflict when the findings pull the team to reconsider but in fact they feel that they cannot change direction, cannot be creative, or even when the team looses interest because things are too mechanical in the face of, as indicated, corporate anxiety. The situation becomes confusion as the required goal can create confusion in the face of other elements that are essential for the ones actually working, such as the things that comes after the question that Peter Drucker brought up: how can I make the greatest contribution to what needs to be done?
+Indeed, when working in the path of uncertainty and seeking out to come up with innovative solutions - the situation of startups - in a world that changes fast, that sounds about right that it could be the situation that many founders live by. It might come a situation of conflict when the findings along the way pulls the team to reconsider what is going on while they they feel that they cannot change direction, that they cannot be creative. The situation if pushed further generates confusion such as the essential conflict with the question of Peter Drucker: how can I make the greatest contribution to what needs to be done?
 
-#### OKR on unclear major objectives
+That is why OKR sounds complex but it is the beauty of OKR too. OKR accepts things to be done, as written. OKR accepts that what was done may not pull the objective closer. OKR does not want the doer to be fired, or out of the loop, under these situations. OKR recognizes that these situations are just part of working and are the reasons why we work. In other words, OKR goes well with the view from Andy (2015, p. 102) that "planning is an ordinary everyday activity; it's something all of us do all the time with no fanfare, in both our personal and professional lives." 
+
+
+
+
+
 
 <!-- 
 @meta @outline 
 * Outline - Answer k2.0.3  - question - 
 --> 
+#### OKR on non-ambiguous and strategic flexibility of objectives  
 
-Therefore, it is justifiable to question if OKR has mechanisms in place that supports teams to evaluate and course-correct what they do, as they go. In this direction, it is important to note that as much as OKR exists to help with pulling the objectives closer, OKR is also promoted as a framework that supports evaluation, which is primarily driven by the evaluation of the key results, as key results are executed, which consequently creates an opportunity for objectives to be evaluated, first against key results, but also in the face of the existing strategy or higher objectives. 
+
+
+
+
+
+Therefore, it is justifiable to question if OKR has mechanisms in place that support teams to evaluate and course-correct what they do, as they go. The short answer to that is that that is why OKR is for. But as a longer one, OKR exists to help with pulling the objectives closer after the fact that the doing of it allow further reflection and evaluation. In other words, nothing can be improved if you don't know what you are doing - through the Key Results. But when you know it, it creates an opportunity for objectives to be evaluated, and then as a new iteration happens, new Objectives and Key Results to be designed. To give you an idea of cadence, it may be the case that the analysis of key results happens in terms of weeks; but keep in mind that the cadence of reviewing the KRs and the Os have a lot to do with the variability and learnings that the activity demands. As an example, if you set yourself to build a wall to your house, and you know that the challenge is pretty straight, it makes sense to not bother much with the reflecting and reconsidering the KRs since you can sense that the steps in to achieve the KR as expected are properly pulling your objective closer. But of course, with more ambitious key results, and the potential variability of internal movements - from the effort put in place - the analysis of Key Results can be benefited from a specific and strategic cadence. 
 
 <!-- 
 @meta @outline 
 * Outline - Answer k2.0.4  - answer - 
 --> 
 
-Does OKR supports the possibility that objectives and the key results are not well designed - we working in a bad direction? Not only so, but it's necessary mechanism to support the growth, transcending, learning, moving on. 
+But again, and back to the point of this section - the point being is that OKR has to supports the possibility that objectives and the key results were not well designed given the actual north that we are after. Just keep in mind that not knowing exactly the future can be interpreted as an opportunity which should not be confused with writing poorly the objectives and key results such as in ways like being unrealistic or ambiguous. The key to help doers from a potential bad direction - and under the optimistic view to achieving a great and promising future - lies in nurturing the work that allow them to essentially transcend from the actual execution being done.
 
-With that problem ahead of us, let us continue to investigate if OKR has course-correction that supports learning and evalution of the goals. The short answer is yes, although we have to acknowlege how difficult it is to use a goal-setting system that seems to offer an escape hatch for escaping the ship such as change the plan on the go. 
+Accordinng to What Matters, there are different kinds of objectives that in essence demand different attitudes. 
+
+* Committed - 
+* Aspirational - 
+* Learning - 
+
+<!-- 
+@meta @todo 
+* @todo - p2 ( ) - In Not So Radical Focus - Add more to the three kinds of OKR with the objective to explain about the range of possiblities and strategy attitudes. @meta-refid 424898-429489-428048-492049820
+--> 
+
+The complication with choosing the right kind of objective - defining the attitude - is essentially the opportunity to be strategic given the where we are and where we want to go. Consider the following illustration given by Billy Casey (2024) in Dear *Andy: "Lights On" OKRs* of a restaurant chef that struggling under the pressure of coming up with aspirational and motivational OKRs: 
+
+<!-- 
+@meta @references
+* reference - Casey, B. (2024, January 27). Dear Andy: "Lights On" OKRs. What Matters. Retrieved January 27, 2024, from https://www.whatmatters.com/faqs/okr-restaurant-examples
+--> 
+
+```
+Dear Andy,
+
+My partners and I are currently in the process of opening a new restaurant in NYC’s West Village (fingers crossed we’ll be able fully open by late summer), and I want to create OKRs for my team to keep us focused and motivated. We have our company-wide Objective: Be a second home for the people in our neighborhood. We’ve also recently figured out our mandatory financial benchmarks we need to meet to pay the bills (X amount in profit, keep labor under X%, etc.). I know OKRs are supposed to be aspirational and motivational, but is it a good idea to include the “keep the lights on” goals somewhere in there, too?
+
+Chef Claire
+```
+
+A great first point from Andy had recognized that the idea as valid under the assumption that it means what matters to the team; which is about celebrating that it moves the needle: 
+
+```
+Goals like “keep the lights on,” or, to be a little cheeky, “don’t run out of money,” would be considered committed OKRS (the things that must be achieved). You can absolutely include these types of revenue based goals in your OKRs — as long as you’ve decided that’s what matters most.
+```
+
+And Andy goes on to make the point that the accomplishment of that objective - in the situation of success - will likely bring them into the opportunity to move on, to keep moving the needle further: 
+
+```
+Once you’ve got your system locked into place and your restaurant is running like a well-oiled machine, you can file that OKR under “business as usual” and shift your focus on growth opportunities. 
+```
+
+This example shows how these attitudes go well together and that it can be harmonious. 
 
 
 
@@ -641,6 +714,11 @@ With that problem ahead of us, let us continue to investigate if OKR has course-
 @meta @outline 
 * Outline - Answer k2.1.0 - Collaboration - Transparency of key results, the hardest thing, and confusing dilemma 
 --> 
+
+
+
+
+
 
 
 #### OKR on needs for courage for transparency 
@@ -662,11 +740,19 @@ This part, the Key Results part of OKR, appears first as a mechanism to keep tra
 
 
 
-Through a case of writing we can see how the mechanis of using key results can be powerful, and where we establish the minimal effort with a maximum impact, through honoring the collaborative process that take place, transparently, honestly. The upfront "daring" accomodation of key results with the open mindset to evaluate is the key. 
+Through a case of a writer's situation - which may apparently look like a non-collaborative effort of a solo person - we can better see how the mechanics of using key results can be powerful a transparent and honest work effort of doing things, when supported by the right environment, can lead to greater impact - which in the case of the writer is to have the book published in order to help his audience. With that, we will be celebrating how the upfront writing is necessary, or daring if you will, and how the accomodation of key results sets the doer in the direction of progress.
 
-First looking at the simpler dimention of OKR, consider when one said that she is to write a book. She expects to deliver pages, or chapters, or to do a number of interviews, to come up with the articles, and to engage in several processes that would bring the objective closer. OKR asks her to pick a few key results that she believes will help. Although OKR doesn't go into strategy, what to pick, it proposes a system where the discussion happens, even for one working alone. If you write it down, and if you set your objectives, and if you set your key results, then you are writing it for the sake of letting collaboration to take place; so that you know, so that you can read, so that you can reflect. Therefore, it is less for the sake of presenting or keeping the score, or for serving as a personal grading for what was performed. It is, instead, for the sake of openning a window, a way to see, a way to talk, a discussin to happen, about the said, or written, key results; as as well the objective since it is all interconnected. With the communication going on, she can run the evaluation cycle and change her OKR for the next cycle. 
+From the following situation which I used as an example in the section about leadership:  
 
-This collaborative aspect of OKR, used by organizations that reportedly does well, consider that some of them require individuals to post their OKRs, to share. This situation takes a great culture and great effort in the first place. They report benefits such as when an employee, by knowing what other employee is doing, can offer help indirectly such as to give hints, advices, and new ideas. Moreover, the essence of this is that the doer is okay in the doing of it, even in the early stages, even when mistakes are apparent. 
+> *"For example, as I am writing this paragraph I am going for a specific milestone: to complete an initial editing of the draft of this chapter by the end of this week. Such milestone is helping me to focus, to work. With that I am trying to not be too critical as if I get distracted with that I can put the actual milestone in danger. Naturally, my goals expect a future version of this chapter to be useful to the reader."* Marcio Galli (2024)
+
+Consider an initial note where this writer pinned in wall with a top label "Have a great chapter about how to progress with goals" which is part of this higher order goal of having his book published to help the startup audience with a more conscious execution. From the general situation, he expected to deliver pages, and pages into chapters, and a lot of other processes to pull the ambitious goals closer. At any point in time, his OKR had to had key results that he believed could be helpful. A note here is that OKR as a framework can't give him or you or anyone the actual strategy such as to judge  [^footnote_michaeldearing_judging_examples] the key results. 
+
+He had then consider a prime key result as "To write down the whole sections to comply with the current chapter's outline," by the a given date with a reminder for him, necessary under the time-bound condition, that he would not be engaging in reviewing it or judging it and would even allow potential naive writing to happpen that would likely bring about elements of a poor writing.  Therefore, it could be seen that his KR had some nuances like of keeping the score but he knows that it has nothing to do with the grading or judging; and that has more to do with allowing the work to flow. As an example, the write had read a nuanced interpretation from Julia Cameron and allowed himself to not worry about grammar when doing initial draft works. With that, he had considered that the KR of delivering pages to be quite valid. With that, he had set himself into the window of opportunity which is to let the work to happen, and then from the key results accomplished, openning the opportunity for the later reflection. In other words, under the OKR expectations and with the communication going on, he would then be able to do the evaluation cycle and come up with a new OKR for a next cycle. 
+
+[^footnote_michaeldearing_judging_examples]: From GM2 course from Harrison Metal, a real OKR of a highly technical founder was shown with the objective as "Understand the business side of our company so I can be a better founder," and his top KR to "Analyze two customers product use per week and write notes." Michael had noted, in case we find ourselves trying to judging it, that "it is his list, not yours," point being that the judgement of what ambitious means has to do with what matters to the doers. Self Study GM2: Setting Objectives & Measuring Performance,' Source: Dearing, M. (n.d.). Self Study GM2: Setting Objectives & Measuring Performance. Harrison Metal. Retrieved January 18, 2024, from https://www.harrisonmetal.com/classes/gm2-setting-goals-measuring-performance/lessons/magic-of-okrs.
+ 
+Altough the example seem to be of a lonely writing, it reveals a collaborative aspect of OKR that is used by organizations that reportedly does well. Consider how individuals can take advantage of posting their OKRs, of sharing it. If we come to realize that this situation takes a great culture and effort, and by that that they enjoy the benefits of a virtuous collaborations such as colleagueship where people are helping each other, then, in essence, we're noticing and valuing that we need to see what's being done in the first place, and that's the primary movement that is necessary which deserves a lot of caring and nurturing.
 
 
 
@@ -679,7 +765,14 @@ This collaborative aspect of OKR, used by organizations that reportedly does wel
 
 
 
+Now the writer had done it and even noticed that his effort in allowing a time-bound and safe work, such as of pushing out words as fast as possible and letting thoughts to come about; had pushed him to achieve clarity in terms of what he wanted to think. As he had completed the work, he felt a need to modify things, to come up with new things to do, such as to review the outline. At this stage, he had then engaged in the new version of his OKR with specific KRs where one of them required him, under a time-bound situation, to "read the content and annotate keywords and interesting phrases," and another "to consider editing the outline," so that the whole chapter improved in terms of coherence. And after he did that he would then move towards other opportunities to version his OKRs. Notice that he had to assume a certain personality to keep the process safe, such as to hold on and supress his willingness to be critisizing his own writing in realtime. 
 
+Therefore, and I know that I asking you to be flexible here with me, a collaborative process rises from this apparently solo situation, especially if we consider that the human side of the doer - that judges it and that edits it and that were a holder of the tops-down things to do - wanted to be critically working on top of the human side that needed to write. The nuanced understanding of the whole situation of the doer that had to to align with the team's purpose - to complete the chapter - required the separation of the processes, and required the critic editor to step back. When the critic was on the side, and waiting, and the KR were about allowing pages to happen, the young writer spirit  of the doer was activated and he were able to write with the worse English if that was the case and to let all his ideas to flow and to let his innocence to happen through the writing. He were so happy doing that that he even started to like the critic editor. That OKR, in essence and under the view of a collaborative situation, became the contract that allowed the young writer to do his job. And then, ahead, the young writer happened to get the review from the critic editor, and so on. 
+
+<!--
+@meta @todo 
+* @todo p2 ( ) - In Not So Radical Focus - review the critic-editor to match with Michael's wordingn in the article from Medium about the internal marketplace - @meta-refid 438498-40384903-403849-483948
+--> 
 
 
 
@@ -691,13 +784,8 @@ This collaborative aspect of OKR, used by organizations that reportedly does wel
 
 
 
-#### OKR on needs to learn 
 
-
-
-It is valid to assert that OKR, as a framework, promotes the effort of colloration that involves, checking, evaluating, and changing direction. Consider, for example, another aspect of OKR where Key Results - as promoted by the viewpoint of John Doerr - can be defined as aspirational or commitment based. These approaches exist to accommodate the situations where a lot of learning, such as discovery, is involved - commitment based key results offers an approach to check progress for the moments that we know exactly what needs to be done. Again, the applicability and value from it depends on the strategic planning. 
-
-But the evaluation of the what happens, according to the approach, is key and should be likely done at all times. Not only after the fact that when done properly communication and contributions happens indirectly as indicated. The natural execution of it requires constant evaluation that involves self review and peer review, such as a review with a manager. 
+#### OKR on the source of learning from the Key results 
 
 
 
@@ -718,12 +806,28 @@ But the evaluation of the what happens, according to the approach, is key and sh
 
 ##### Pairing indicators as a creative response 
 
+<!--
+@meta @todo
+* @todo - p2 ( ) - In Not So Radical Focus - check with High Output Management and What Matters the relationship between pairing indicators and key results or objectives, OKR. @meta-refid 484840-420-42042-492849
+-->
 
 BUt likewise with the concerns, these are there in ways that the doer is real, a contributor, and not following blindly. The opportunity is for understanding the best work possible and also reading from the data, the real information that is applicable to the context. In the view of Andy the meetings with the managers are the key aspect where the doer is the owner and the manager is there to help: 
 
 > *""* Andy Grove, High Output Management 
 
-Andy elabores on the aspects of the strategic management that rises from the actual involvement, the work. AS an example, the opportunity lies in the identification of the "both effect and counter-effect"
+Andy Grove elaborates on the aspects of the strategic management that arises from the actual involvement, the actual work. As an example, the opportunity lies in the identification of "both effect and counter-effect." This in essence has to do with checking the impact or the cost of the impact or the like against the higher order objectives or the bolder and ambitious goals in the view of the transcendence, which does not disconnect from the considerations about the self versus the non-selfish we have seen. 
+As an example, a prior situation of an indicator could involve the doer to be attached and see the indicator as "my precious" in a given moment in time. 
+
+As an illustration, consider the case of Harriet Tubman which I will add some elements of fiction but of course to make a point following from the actual values and virtues of her historic and brave heroic life. From the history of Harriet, she were able to escape the enslaved condition and by that she had achieved practical freedom to a certain degree. And she had achieved that as she had used her skills and following her aspirations. But connected with that, she had other aspirations and ambitions for freeing the others. Naturally, she had the idea of starting with her friends and people that she loved which you can confirm that by watching Michael's talk (2018) or the movie [^footnote_harriet]. 
+
+[^footnote_harriet] Spoiler alert - The following content contains spoilers for the movie 'Harriet.' In the film, after successfully escaping, Harriet Tubman's story notably includes her profound desire to free her friends and family. For more information on the movie, see its IMDb page - https://www.imdb.com/title/tt4648786/.
+
+<!-- 
+@meta @references 
+* reference - Spero Ventures. (2018, February 13). Michael Dearing at the 2018 NYC Product Leader Summit: "Two Blasts from the Past" [Video]. YouTube. https://www.youtube.com/watch?v=oBOOcBgHxTU
+--> 
+
+And according to Michael Dearing, Harriet had to come up with new strategies, or to scale her operation or model; to make that work because she wouldn't be able to just free all the slaves all of the sudden using the same sort of key results, or methods that she were using in the beginning. She could, for example, dream about scaling if we were writing a private letter to herself; but even if she did it would not achieve results if not she would end up in more trouble by the existance of the letter. Therefore, and under the circumstances of the relative success that she had, which is actually too big as a relative because that was the prime movement for the opportunities for scaling; Harriet had to face the challenges and transcend and accept the non-selfish aspects involved in being rigorous or strict with the same approach of guiding small groups of people through the woods. In other words, and as she had achieved her milestones and new knowledge, she had to organize herself, to change herself, to adapt and to transcend from attachments with the prior attitudes; in order to get there and to free a lot more people later. In essence, she moved from helping herself to being a conductor and her key results reflected that too. 
 
 <!--
 @meta @todo 
@@ -819,12 +923,15 @@ When I read Jordan illustrating this process "of the self" it was inescapable fo
 
 Of course, depending on the culture, toxic aspects can come the way to influence the process to offer no value. For example, depending on how the measurement of performance of an employee is done, such as when the compensation is associated with the Key Results and moving towards the Objective as written, then the results can be catrastrofic. Would one want to course correct its path, after having good reasons for so, after knowing that she or he could be evaluated as bad performer and even get fired? That kind of situation would certainly bring anxiety and a lot of distractions for a call that would not likely happen. 
 
-It is important to pause here and reflect that a lot of companies indeed enters that mode. They set goals in stone, they put prizes for the ones that follows the path as written, they punish the ones that didn't do well. Then it comes the question, do they course correct? Yes but they do that in macro terms, by facing a crisis, which likely involve getting people fired, managers fired, teams reorganized. From the point of view of an employee, under a whole team that got fired for moving in the bad direction claiming it was good, the employee generally tries to escape the spiral of death by reclaiming that he was told to do that job and was performing well. In a lot of situations like that, a lot of people can get away. But still, anxiety was present and a lot of effort to manage the crisis which can and should be considered a bad use of the time of people. 
+It's important to pause here and reflect that a lot of companies indeed entered that mode. They set goals in stone, they put prizes for the people that follow the path as written, and they punished the ones that didn't do well, that in other words, couldn't achieve those numbers expected, such as outcomes. So by doing that, the company, the organization, engages in the very same process where the king used to kill the messenger, because the messenger brought bad news. That's the reason for why key results are milestones. They need to have an association with the actual effort, and not exactly an association with the outcome it the notion of outcome is connected with the very thing that evalutes people. 
+
+Then it comes the question, do they course correct? Yes but they do that in macro terms, by facing a crisis, which likely involve getting people fired, managers fired, teams reorganized. From the point of view of an employee, under a whole team that got fired for moving in the bad direction claiming it was good, the employee generally tries to escape the spiral of death by reclaiming that he was told to do that job and was performing well. In a lot of situations like that, a lot of people can get away. But still, anxiety was present and a lot of effort to manage the crisis which can and should be considered a bad use of the time of people. 
 
 Therefore, it is ideal to think that a plan for progressing is not about a plan for evaluating people - as in to consider them in or out the boat. This is a key aspect of the OKR approach that when well considered can make OKR become a useful tool and one that also serves well for course-correcting and actually bringing everyone on board and focusing on what matters. 
 
-With a cadence for evaluating what is being done, with allowance for reviewing with transparency and strategic thinking too, the approach can help person to change the plan at the level of the Key Results and also Objectives. 
+With cadence for evaluating what's being done, with allowance for reviewing, with transparency and strategic thinking too, and with the subjectiveness and the judgment of the things being done, and as we shall remember Andrew Grove saying that, "but the MBO system cannot be run mechanically by a computer. The system requires judgment and common sense to set a hierarchy of objectives and the key results that support them. Both judgment and common sense are also required when using MBO to guide you in your work from one day to the next." (2015, pp. 114)
 
+This approach that can help the people to change the plan at the level of key results and objectives is the very approach that recognizes that the effort is what matters in the first place, and along with the effort, the capacity to reflect on effort and actions, and by that of course, the true output of management by objectives rises, that is, to come up with decisions and actions.
 
 
 

@@ -189,6 +189,11 @@ Minto, B. (1996). The Minto Pyramid Principle: Logic in Writing, Thinking, & Pro
 
 --> 
 
+<!--
+300 / 150_entrepreneurship_is_management 
+--> 
+Casey, B. (2024, January 27). Dear Andy: "Lights On" OKRs. What Matters. Retrieved January 27, 2024, from https://www.whatmatters.com/faqs/okr-restaurant-examples
+
 <!-- 
 200 / 410_automatic_reaction_breaking 
 300 / 150_entrepreneurship_is_management 
@@ -396,6 +401,15 @@ Covey, S. (1989). The 7 Habits of Highly Effective People: Powerful Lessons in P
 --> 
 
 Drucker, P. (2008). Managing Oneself. Harvard Business School Press. 
+
+
+<!-- 
+* 300 / 150_entrepreneurship_is_management.txt 
+--> 
+
+Spero Ventures. (2018, February 13). Michael Dearing at the 2018 NYC Product Leader Summit: "Two Blasts from the Past" [Video]. YouTube. https://www.youtube.com/watch?v=oBOOcBgHxTU
+
+
 
 <!-- 
 * 300 / 150_entrepreneurship_is_management.txt 

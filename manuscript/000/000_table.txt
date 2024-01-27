@@ -1,5 +1,13 @@
 # Todo # 
 
+* @todo - p2 ( ) - In Not So Radical Focus - check with High Output Management and What Matters the relationship between pairing indicators and key results or objectives, OKR. @meta-refid 484840-420-42042-492849
+
+* @todo p2 ( ) - In Not So Radical Focus - review the critic-editor to match with Michael's wordingn in the article from Medium about the internal marketplace - @meta-refid 438498-40384903-403849-483948
+
+* @todo - p2 ( ) - In Not So Radical Focus - Add more to the three kinds of OKR with the objective to explain about the range of possiblities and strategy attitudes. @meta-refid 424898-429489-428048-492049820
+
+* @todo - p2 ( ) - In Not So Radical Focus - Consider to put the example of Andy of the car's gauge - @meta-refid 4349840-4803048-4398493-4384 
+
 * @todo p2 ( ) - In Not So Radical Focus - Fix or remove the part from Andy where we show a bit of the history of Intel going through the inflection point. @meta-refid 928494-02498-428-94284
 
 * @todo p2 ( ) - In Not So Radical Focus - Fix or remove the part from Andy where we show a bit of the history of Intel going through the inflection point. @meta-refid 928494-02498-428-94284
