@@ -43,7 +43,7 @@ When the entrepreneurial function happens to creatively destroy the old and chan
 
 
 
-Now, as we consider the startup situation, the theme of management by objectives appears not only as an answer to be productive (in the philosophical sense) but because of external needs (in the material sense) that grows as the team grows with more people, and more differences, and therefore the pressure to figure how each one can contribute. In addition, these go along with the need from clarity about top priorities by workers. In a survey [^foonote_michaeldearing_clearobjectives] with 250 people working in high-growth companies, 70% of them confirmed as extremely important to have clarity about the company's top priorities. 
+Now, for any startup trying to exit from the arbitrary movement, a subject known as Management by Objectives will likely appear in their orbit either as an answer to be productive from a the philosophical needs or due to external needs, or the more practical needs, that follows as the team grows - more people, more differences, and therefore the pressure to figure how each one can contribute. To support that, consider that there are needs for clarity about top priorities by the team: In a survey [^foonote_michaeldearing_clearobjectives] with 250 people working in high-growth companies, 70% of them confirmed that to be clear about the company's top priorities is extremely important.
 
 [^foonote_michaeldearing_clearobjectives]: Michael Dearing discusses the importance of understanding top priorities in high-growth companies in his course 'Self Study GM2: Setting Objectives & Measuring Performance.' In this course, Dearing surveyed 250 people working in high-growth companies about the clarity of top priorities and the quality of team management. He found that 70% of respondents confirmed that understanding top priorities was extremely important; plus the study showed a correlation between the quality of management and the clarity about top priorities. Source: Dearing, M. (n.d.). Self Study GM2: Setting Objectives & Measuring Performance. Harrison Metal. Retrieved January 18, 2024, from https://www.harrisonmetal.com/classes/gm2-setting-goals-measuring-performance/lessons/magic-of-okrs.
 
@@ -54,7 +54,7 @@ Now, as we consider the startup situation, the theme of management by objectives
 * Reference - Schumpeter, J. A. (2008). Capitalism, socialism, and democracy. Harper Perennial Modern Thought. (Original work published 1942)
 -->
 
-Although looking to that horizon may ring a bell for what is ahead it isn't entirely enough for early doers to - let me put it that way - be distracted from the actual challenges of the day which may feel like "jumping off a cliff trying to assemble an airplane on their way down," [^footnote_reidhoffman_airplane_cliff] as vividly said by Reid Hoffman. In other words, the actual call we make to ground control sets us in what is major - to do what needs to be done first and then, afterwards, come back to organize things such as sorting out post-its as part of the reflection [^footnote_michaeldearing_realdoing_postits] and organizational work. 
+If that horizon rings a bell, it may not be entirely sufficient for the early or inexperienced doers to - let me put it that way - get distracted from the challenges of their day which feels like "jumping off a cliff trying to assemble an airplane on their way down," [^footnote_reidhoffman_airplane_cliff] as Reid Hoffman vividly reminds us. In other words, they do call ground control but they may do so in ways which they think are major such as to keep doing what needs to be done, first, and afterwards they come back to organize things like sorting out post-its [^footnote_michaeldearing_realdoing_postits] which may more or less lead to the required organizational work. 
 
 [^footnote_reidhoffman_airplane_cliff]: In discussing the nature of startups, Reid Hoffman celebrates the metaphor where in the startup situation "you throw yourself off a cliff and you assemble an airplane on the way down," (Hoffman & Casnocha, 2013) to vividly note about the challenges such as the mortality situation and of focusing. 
 
@@ -85,7 +85,7 @@ Although looking to that horizon may ring a bell for what is ahead it isn't enti
 
 
 
-But the complication remains - that given the ongoing conversation of management by objectives is alive - that us managers of our real and concrete objectives of now, get to be busy with the getting things done, under the flag theme "how should I contribute best?" and living the pressures of the current. That reality pushes us to avoid the more formal involvement with the theme - as it sounds like a distraction, or the very waste of resources which is unproductive, in front of our desire to achieve the very goals. 
+Still, a complication remains that given the ongoing conversation of management by objectives is alive - that us managers of our real and concrete objectives of now, get to be busy with the getting things done, under the flag theme "how should I contribute best?" and living the pressures of the current. That reality pushes us to avoid the more formal involvement with the theme - as it sounds like a distraction, or the very waste of resources which is unproductive, in front of our desire to achieve the very goals. 
 
 That set us to be uncomfortable with the theme - even to a point of doubting the applicability of any idea for managing goals and progress, or deferring to later as if it is something that can be used in the right time, such after more traction exists or the team is bigger. 
 
@@ -683,18 +683,24 @@ The complication with choosing the right kind of objective - defining the attitu
 * reference - Casey, B. (2024, January 27). Dear Andy: "Lights On" OKRs. What Matters. Retrieved January 27, 2024, from https://www.whatmatters.com/faqs/okr-restaurant-examples
 --> 
 
-> "Dear Andy,
+> *"Dear Andy,
+> 
 > My partners and I are currently in the process of opening a new restaurant in NYC’s West Village (fingers crossed we’ll be able fully open by late summer), and I want to create OKRs for my team to keep us focused and motivated. We have our company-wide Objective: Be a second home for the people in our neighborhood. We’ve also recently figured out our mandatory financial benchmarks we need to meet to pay the bills (X amount in profit, keep labor under X%, etc.). I know OKRs are supposed to be aspirational and motivational, but is it a good idea to include the “keep the lights on” goals somewhere in there, too?
-> Chef Claire" (Casey, B., What Matters, 2024)
+> 
+> Chef Claire"* (Casey, B., What Matters, 2024)
 
 A great first point from Andy had recognized that the idea as valid under the assumption that it means what matters to the team; which is about celebrating that it moves the needle: 
 
-> "Goals like “keep the lights on,” or, to be a little cheeky, “don’t run out of money,” would be considered committed OKRS (the things that must be achieved). You can absolutely include these types of revenue based goals in your OKRs — as long as you’ve decided that’s what matters most.
-> Andy" (Casey, B., What Matters, 2024)
+> *"[..]
+> Goals like “keep the lights on,” or, to be a little cheeky, “don’t run out of money,” would be considered committed OKRS (the things that must be achieved). You can absolutely include these types of revenue based goals in your OKRs — as long as you’ve decided that’s what matters most.
+>
+> Andy"* (Casey, B., What Matters, 2024)
 
 And Andy goes on to make the point that the accomplishment of that objective - in the situation of success - will likely bring them into the opportunity to move on, to keep moving the needle further: 
 
-> *"Once you’ve got your system locked into place and your restaurant is running like a well-oiled machine, you can file that OKR under “business as usual” and shift your focus on growth opportunities.
+> *"[..]
+> Once you’ve got your system locked into place and your restaurant is running like a well-oiled machine, you can file that OKR under “business as usual” and shift your focus on growth opportunities.
+> 
 > Andy*" (Casey, B., What Matters, 2024)
 
 This example shows how these attitudes go well together and that it can be harmonious. 
