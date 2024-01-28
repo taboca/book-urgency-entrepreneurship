@@ -224,7 +224,7 @@ With that, our reflection will be more like talking the walk, with the intention
 
 
 
-Why is it that when a young worker enters an organization they find tops-down goals so impactful to their lives? And I don't mean impactful as seen by the eyes of the executives that deploy them expecting from them mostly outcomes; but impactful in ways that brings tears from their eyes, that drains their creative potential if not their health. Although that can be an extremme, yet it doesn't disconnect from point from the Basecamp founders - that state of anxiety - where the doers are harmed and with that the impact turns out to be the lower performance to the organization. But if tears can't be seen, still it drive us nuts when we feel the feedback of that need for speed where tops-down goals mostly expects the gauges to reach high limits - expectations that are careless to whoever is behind the wheel. Much of that sounds like the harsh bad old days where self-called masters expected from people, their time and energy, and saw them as effort-deploying units that happens to walk and talk, and to be tired. 
+Why is it that when a young worker enters an organization and finds tops-down goals to be so impactful? And I don't mean impactful as seen by the eyes of their bosses expecting mostly outcomes, but impactful in ways that brings tears from their eyes and that drains their creative potential if not their health. Although that can be an extremme, yet it doesn't disconnect from point from the Basecamp founders - that state of anxiety - where the doers are harmed and with that the impact turns out to be the lower performance to the organization. But if tears can't be seen, still it drive us nuts when we feel the feedback of that need for speed where tops-down goals mostly expects the gauges to reach high limits - expectations that are careless to whoever is behind the wheel. Much of that sounds like the harsh bad old days where self-called masters expected from people, their time and energy, and saw them as effort-deploying units that happens to walk and talk, and to be tired. 
 
 Moreover, and even if we set ourselves in the startup way and become in the positions to manage ourselves and our own organizations, all that unfolds can be a big confusion - that has the power to impact in terms of making us not excited with the subject of managing goals and progressing with them. We get confused to see what appears to be a conflict between that tops-down view and the reality of the doers, of doing it. Without figuring things out, and when it is time to recruit others, and and even if we do not do it in the most brutal old ways,we still can't figure much what to do except to set some breezy version of setting tops-down expectation and expect outcomes in the hope that their subordinates can do it. That seems to be an unsolvable battle anyways, on one side the thing to do and on the other an outstanding request that sets an outcome and expects - such as from the doer to find their way. 
 
@@ -971,7 +971,7 @@ This approach that can help the people to change the plan at the level of key re
 
 ## The output, the input, and the outcome 
 
-There are situations that people enter the OKR train as it stops beautifully on time in the station. It’s a trip with a goal, such as to learn and use OKR in the best way possible. But then we enter in it, the wagon starts smooth and the scenery is beautiful, it’s unbelievable and the roadmap seem to make sense with scenes around. But then, give it some time and housing passing by. Suddenly the lights of the train blinks arbitrarily and we hear something craking as the speed of the train increases fast. A yellow light fades under the seat and people start to be worried. Next stop, unknown, the train enters a tunel, the heater stops working, and it goes on for another 2 hours with the speed increasing. What is next will blow your mind. You can't go back to revisit the trip. You are on it and it is going of the tracks. This is where you start to lose faith in your OKR trip and your training. 
+There are situations that teams enter the OKR train as it stops beautifully on time in the station. It’s a trip with a goal, such as to learn and use OKR in the best way possible. But then we enter in it, the wagon starts smooth and the scenery is beautiful, it’s unbelievable and the roadmap seem to make sense with scenes around. But then, give it some time and housing passing by. Suddenly the lights of the train blinks arbitrarily and we hear something craking as the speed of the train increases fast. A yellow light fades under the seat and people start to be worried. Next stop, unknown, the train enters a tunel, the heater stops working, and it goes on for another 2 hours with the speed increasing. What is next will blow your mind. You can't go back to revisit the trip. You are on it and it is going of the tracks. This is where you start to lose faith in your OKR trip and your training. 
 
 
 
@@ -984,9 +984,9 @@ There are situations that people enter the OKR train as it stops beautifully on 
 
 
 
-But if any of this sounds unrealistic for the day of work and even a business book The truth is that There's no alarming or Crises or big crashes going on and much fanfares about it Because that would be like the distraction for the whole crew and everybody's off track And while some of the people are busy the sad and necessary Implication of the urgent fast-moving trend is that people need to keep working Through that the truth is that We are Just moving sometimes not using property sometimes not figuring what's really going on But we keep using frameworks and systems Even in arbitrary ways
+But if any of this sounds unrealistic in our work lives - or to a business book - the sad truth is that there is no alarm or crises or big crashes or fanfares. We generally can't even read what goes on withthe crew and get to become passangers of a fast-moving train and by that just working, and in many situations not noticing that we are drifting and losing purpose. Of course, until some crisis happens and will one day although it may be difficult to connect the dots. 
 
-The way that Christina Wodtke puts it in her article - entitled *"Are You Sure You Want to Use OKRs?"* I love it because the actual *Call to Action* calls for a reflection: 
+The way that Christina Wodtke puts the problem - from her article entitled *"Are You Sure You Want to Use OKRs?"* - can lift our spirits from the apparently safe seats we are and bring our focus to the purpose of the trips we do: 
 
 > *"There is a concept I call drift. Drift means that a process has drifted away from the original framing. It happened to Agile. What started as a simple idea that people should work collaboratively and iteratively became people policing each other on the True Agile Way: “this is how to write a user story” and “Stand up can’t be more than 15 minutes long.”"* (Wodtke, 2022)
 
@@ -995,11 +995,12 @@ The way that Christina Wodtke puts it in her article - entitled *"Are You Sure Y
 * reference - Wodtke, C. (2022, February 4). Are You Sure You Want to Use OKRs? Retrieved from https://cwodtke.medium.com/you-cant-handle-okrs-5465cf161e81
 -->
 
-This is a complication to many of the offerings that we founders live through - as we have discussed such as with the lean methods. Call them frameworks and methods and tools Christina's point of "the drift" goes straight to what I think is a phenomenon. But to be fair, the drift is also part of an ongoing conversation and the actual exploration - or the conversation in time that it needs to happen. Therfore if any real complication is here in front of us it may be so the problem of us not knowing that history is yet happening, that a lot is happening quite fast  and while we are here trying to discuss part of of what we think is a movie, new episodes are happening; by all the heated activities that take place, inside companies and outside of them. 
+This is a complication in the founders's way not disconnected from what we have discussed in the chapter entitled *Lean attention deficit*. Call them frameworks or methods or tools, Christina's point of "the drift" goes straight to what I think is a phenomenon. But to be fair, the drift is also part of an ongoing conversation and the actual exploration - or the conversation in time that it needs to happen. Therfore if any real complication is here in front of us it may be so the problem of us not knowing that history is yet happening, that a lot is happening quite fast  and while we are here trying to discuss part of of what we think is a movie, new episodes are happening; by all the heated activities that take place, inside companies and outside of them. 
 
-
-
-
+<!--
+@meta @cross
+* cross - "Lean attention deficit" - Chapter "Lean attention deficit" referred from "Not so radical focus" - refid 494329084902384903284908234908
+--> 
 
 <!--
 @meta @outline
