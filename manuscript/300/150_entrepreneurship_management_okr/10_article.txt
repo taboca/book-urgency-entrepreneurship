@@ -586,7 +586,7 @@ Now, considering the possibility of a peaceful space between the role of the "on
 * Outline - Answer k2 - OKR analysis for course-correction, failure, and opportunity.
 --> 
 
-## Course-correcting decisions for ambitious goals 
+## Course-correcting from goal-setting 
 
 
 
@@ -683,25 +683,19 @@ The complication with choosing the right kind of objective - defining the attitu
 * reference - Casey, B. (2024, January 27). Dear Andy: "Lights On" OKRs. What Matters. Retrieved January 27, 2024, from https://www.whatmatters.com/faqs/okr-restaurant-examples
 --> 
 
-```
-Dear Andy,
-
-My partners and I are currently in the process of opening a new restaurant in NYC’s West Village (fingers crossed we’ll be able fully open by late summer), and I want to create OKRs for my team to keep us focused and motivated. We have our company-wide Objective: Be a second home for the people in our neighborhood. We’ve also recently figured out our mandatory financial benchmarks we need to meet to pay the bills (X amount in profit, keep labor under X%, etc.). I know OKRs are supposed to be aspirational and motivational, but is it a good idea to include the “keep the lights on” goals somewhere in there, too?
-
-Chef Claire
-```
+> "Dear Andy,
+> My partners and I are currently in the process of opening a new restaurant in NYC’s West Village (fingers crossed we’ll be able fully open by late summer), and I want to create OKRs for my team to keep us focused and motivated. We have our company-wide Objective: Be a second home for the people in our neighborhood. We’ve also recently figured out our mandatory financial benchmarks we need to meet to pay the bills (X amount in profit, keep labor under X%, etc.). I know OKRs are supposed to be aspirational and motivational, but is it a good idea to include the “keep the lights on” goals somewhere in there, too?
+> Chef Claire" (Casey, B., What Matters, 2024)
 
 A great first point from Andy had recognized that the idea as valid under the assumption that it means what matters to the team; which is about celebrating that it moves the needle: 
 
-```
-Goals like “keep the lights on,” or, to be a little cheeky, “don’t run out of money,” would be considered committed OKRS (the things that must be achieved). You can absolutely include these types of revenue based goals in your OKRs — as long as you’ve decided that’s what matters most.
-```
+> "Goals like “keep the lights on,” or, to be a little cheeky, “don’t run out of money,” would be considered committed OKRS (the things that must be achieved). You can absolutely include these types of revenue based goals in your OKRs — as long as you’ve decided that’s what matters most.
+> Andy" (Casey, B., What Matters, 2024)
 
 And Andy goes on to make the point that the accomplishment of that objective - in the situation of success - will likely bring them into the opportunity to move on, to keep moving the needle further: 
 
-```
-Once you’ve got your system locked into place and your restaurant is running like a well-oiled machine, you can file that OKR under “business as usual” and shift your focus on growth opportunities. 
-```
+> *"Once you’ve got your system locked into place and your restaurant is running like a well-oiled machine, you can file that OKR under “business as usual” and shift your focus on growth opportunities.
+> Andy*" (Casey, B., What Matters, 2024)
 
 This example shows how these attitudes go well together and that it can be harmonious. 
 
@@ -785,12 +779,7 @@ Therefore, and I know that I asking you to be flexible here with me, a collabora
 
 
 
-#### OKR on the source of learning from the key results 
-
-
-
-
-
+#### OKR on learning from the key results 
 
 ##### The notion of output as a window of opportunity
 
@@ -800,9 +789,6 @@ Therefore, and I know that I asking you to be flexible here with me, a collabora
 @meta @references 
 * reference - Grove, A. (2015). High Output Management. Vintage Books.
 -->
-
-
-
 
 ##### Pairing indicators as a creative response 
 
@@ -839,14 +825,14 @@ And according to Michael Dearing, Harriet had to come up with new strategies, or
 
 
 
-#### Team dynamics for high self-esteem and creation 
-
-
 <!-- 
 @meta @outline 
 * Outline - Answer k2.3.1 - Teams - The internal market starts with honesty and transparency and safety. 
 *                                   \___ requires non-selfish and safety 
 --> 
+
+#### Team dynamics for high self-esteem and creation 
+
 
 
 
@@ -875,7 +861,6 @@ Notice that in the illustration he created the idea of "funded" can be interpret
 
 
 
-##### Cases of healthy iteration of the contributor 
 
 
 <!-- 
@@ -884,13 +869,14 @@ Notice that in the illustration he created the idea of "funded" can be interpret
 *                                   \___ requires internal market.  
 --> 
 
+##### The situation of a healthy iteration 
+
+
 
 
 
 
 The effort of redoing the OKR hundreds of times, is for the sake of being open. Now, in this regard, a question that comes is if OKR does not allow room for bottom-up contributions that affects the tops-down. Part of it I have covered, the conversation is there. But the cycle for reviewing all the top down plan exists too and bottom-up contributions is recognized as key. In other words, the approach needs and depends on the confrontation of the what we want to do with the what is happening. Of course, the cadence for that sort of strategic planning work might have a cadence, needs a cadence applicable to the organization.
-
-
 
 The very process that Michael has suggested seems to go along well with the individual situation of a writer - so I this makes me comfortable to see a pattern and then to consider the situation of the individual being the same of the team; which may help us to achieve clarity of that the problem we have for achieving ambitious goals is always the problem of finding support and may also connects with high self-esteem. 
 
@@ -911,13 +897,19 @@ When I read Jordan illustrating this process "of the self" it was inescapable fo
 
 [^footnote_momentary_injustice]: The idea of the momentary injustice was brought by ... 
 
+
+
+
+
 <!-- 
 @meta @outline 
 * Outline - Answer k2.3.3 - The confusions with measurement, non-create
 --> 
 
-
 #### OKR on the non-creative work space 
+
+
+
 
 
 
@@ -973,11 +965,7 @@ This approach that can help the people to change the plan at the level of key re
 
 ## The output, the input, and the outcome 
 
-
-
 There are situations that people enter the OKR train as it stops beautifully on time in the station. It’s a trip with a goal, such as to learn and use OKR in the best way possible. But then we enter in it, the wagon starts smooth and the scenery is beautiful, it’s unbelievable and the roadmap seem to make sense with scenes around. But then, give it some time and housing passing by. Suddenly the lights of the train blinks arbitrarily and we hear something craking as the speed of the train increases fast. A yellow light fades under the seat and people start to be worried. Next stop, unknown, the train enters a tunel, the heater stops working, and it goes on for another 2 hours with the speed increasing. What is next will blow your mind. You can't go back to revisit the trip. You are on it and it is going of the tracks. This is where you start to lose faith in your OKR trip and your training. 
-
-
 
 
 
@@ -1018,7 +1006,6 @@ This is a complication to many of the offerings that we founders live through - 
 
 One case that is source of confusion - not only from the doubts of a first time learner but an actual struggles of getting it right - which makes OKR difficult - is what appeared to me, initially, to be a battle in the field of key results, between Output vs. Outcome. 
 
-
 Through my learnings I had read that the best companies doing it right seemed to be figuring their right conduction of it, such as for years [^footnote_johndoer_yearsokr]. And indeed that are a lot of aspects that could set a team into that feeling that I said in the beginning - willing to give up - due to the so many abstractions and nuances for trying to tame and to conduct as a framework the thing that has a lot to do with the real temperamental underlying element as I also have said, the humans, and by that the complexities of conducting in the best way. 
 
 [^footnote_johndoer_yearsokr]: 
@@ -1050,8 +1037,6 @@ Next, we will get into the origins of such "battle" of outcomes vs. output; but 
 @meta @outline
 * Outline - Answer k3 - Outcome vs. output battle - Answer - k3.1 - The battle of outcome vs. output 
 --> 
-
-
 
 
 
@@ -1111,7 +1096,6 @@ The viewpoint given by Reforge is also mature to recognize not only the differen
 <!-- 
 @meta @references
 * reference - Rekhi, S. (n.d.). 6 Steps for setting high-leverage OKRs. Reforge. Retrieved January 12, 2024, from https://www.reforge.com/previews/growth/okr-guide
-
 --> 
 
 
@@ -1255,6 +1239,7 @@ An outcome of setting a mature expectation to your now-junior doer is that you g
 --> 
 
 
+#### The quest for the Holy Grail and interference of numbers 
 
 
 
