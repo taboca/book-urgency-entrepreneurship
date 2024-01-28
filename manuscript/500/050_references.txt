@@ -154,14 +154,25 @@ Schumpeter, J. A. (2008). Capitalism, socialism, and democracy. Harper Perennial
 * 150_entrepreneurship_is_management
 --> 
 
+Duggan, K. (2015, August 11). Using OKRs to Drive Results aka “Secrets to Crushing Your Goals” [Video]. HeavyBit. Retrieved from  https://www.heavybit.com/library/video/using-okrs-to-drive-results-aka-secrets-to-crushing-your-goals
+
+<!-- 
+* 150_entrepreneurship_is_management
+--> 
+
 Nightingale, J. (2017). How Fucked Up Is Your Management. Raw Signal Press. 
 
+<!-- 
+* 150_entrepreneurship_is_management
+--> 
+
+Dearing, M. (2019, July 2). Thank you, Daniel McCallum. Retrieved from https://medium.com/@mcgd/thank-you-daniel-mccallum-133d27e98468
 
 <!-- 
  230_self_confirmation_bias_social_identity.txt
 --> 
 
-MIT (Producer). (2015, May 19). User Innovation: A Path to Entrepreneurship [Video]. edX. https://www.youtube.com/watch?v=LpBSY9_RyCgl
+MIT (Producer). (2015, May 19). User Innovation: A Path to Entrepreneurship [Video]. edX. Retrieved from https://www.youtube.com/watch?v=LpBSY9_RyCgl
 
 <!-- 
  200/230_self_confirmation_bias_social_identity.txt
@@ -177,7 +188,7 @@ von Hippel, E. (2005). Democratizing Innovation. The MIT Press. DOI: https://doi
 
 Drucker, P. (2011). Technology, management, and society. Routledge.
 
-Heavybit. (2019, July 30). Executive communication w/ Harrison Metal [Video]. https://www.heavybit.com/library/video/executive-communication
+Heavybit. (2019, July 30). Executive communication w/ Harrison Metal [Video]. Retrieved from https://www.heavybit.com/library/video/executive-communication
 
 Minto, B. (1996). The Minto Pyramid Principle: Logic in Writing, Thinking, & Problem Solving. Minto International.
 

@@ -41,6 +41,19 @@
 * Chris -  https://mail.google.com/mail/u/0/#inbox/KtbxLwgZVwjDDccMZJKdWcPBwPDlzZFlzL
 
 
+
+## Letter - To MD in the McCallum article 
+
+* https://medium.com/@mcgd/thank-you-daniel-mccallum-133d27e98468
+
+```
+Inspired now and likely with some confusion but anyway ... When Reid Hoffman asked Michael if the approach of McCallum seemed to be micromanagement (this is inside Blitzscaling Lecture 03) which may be interpreted as such, I have remembered of the Mozilla team's invention known as Bugzilla which was BTW one of the most impactful product around that no one knew (why bother to tell others you are using a key open source component to get your things done) but anyways my point is:
+That management grows in maturity by establishing micro management systems so that management surrenders from the micromanagement towards accessing values of another order. The creation of bugzilla was the natural automation of what would be a saturated condition of management - unacceptable inside Netscape and Mozilla - but acceptable through a system where people would do by what can be considered even volunteering work or protactive work. The non-interference of management into that matter is the realization that the matter becomes business as usual.
+Now from that creation of the management, stepping away, they either accelerate the team into a whole failure or accelerate the tem into the opportunity; assuming that the new medium of interaction - where micro management is not anymore witnessed which was the case of Bugzilla - becomes a source for a friendly and heated activity where creation in the sense of a marketplace happens with no fights; and furthermore in ways that generates value to the major goal of the team.
+It may be so that the management situation deals with unbundling a bundled condition - such as how we know to get things done - by bundling a marketplace in it that elevates the growth and value generation.
+```
+
+
 ## Letter - Informing Jim Barksdale of Netscape 
 
 ```
