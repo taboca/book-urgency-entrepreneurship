@@ -1053,9 +1053,6 @@ Next, we will get into the origins of such "battle" of outcomes vs. output; but 
 
 
 
-
-
-
 > *"key results need to be outcomes, not outputs. If you make a key result 'launch this feature' and halfway through the quarter you discover it won’t move the number you hoped it would, you’re stuck. You committed to that feature and now you feel like you have to deliver it. But if you pick a number you want to move, you can try dozens of things to change it."* (Wodtke, 2022)
 
 <!--
@@ -1110,10 +1107,16 @@ To be clear, these folks - Christina and the folks from What Matters do care abo
 * reference - Head, K. (2024). Output vs. Outcome with OKRs. What Matters. Retrieved January 29, 2024, from https://www.whatmatters.com/faqs/outputs-vs-outcome-okr
 --> 
 
-Thus we can celebrate the nuanced and enlightened outcome set by Kandice that reminds us to keep our heads looking to the right thing and not to drift away in any way:  
+Thus we can celebrate the nuanced and enlightened reminder from What Matters asking us to keep our heads towards what is the purpose of all of this and not to drift away in any way. 
 
 > *"Outputs are not meaningful independent of describing the outcome. However, good outcome-focused Objectives help teams identify which outputs are most likely to lead to the desired outcomes."* (Head, Kandice., WhatMatters, 2024)
 
+In other words, the team should be responsible to strategically identify at what level should key results capture and even the possibility of mixing them (2020) so it they can see what is really going on and not lead the team into being arbitrary. If an outcome-based key result captures the movement within, then it might be fine. But if an outcome-based key result leads to arbitrariness, the point of OKR is then missed. 
+
+<!-- 
+@meta @references 
+* reference - Panchadsaram, R. [What Matters]. (2020, September 8). OKRs 101 - Lesson 3.2: Inputs, Outputs and Outcomes - Learn how to set and achieve audacious goals [Video]. YouTube. https://www.youtube.com/watch?v=Y6YuldODk3E
+--> 
 
 
 
@@ -1149,6 +1152,16 @@ Thus we can celebrate the nuanced and enlightened outcome set by Kandice that re
 
 
 
+#### Challenges with variability of maturity  
+
+
+But if all of this sounds simple, it isn't - not because OKR is complex but because, again, the beast within is complex not only due to the human nature where we are all learning but because the whole crew might be onto something that simply no one knows how to solve yet. 
+
+
+
+
+
+
 
 [3] An article that helped me to see the two sides of the spectrum was this one from this guy named Josh Seiden - https://medium.com/@jseiden/to-write-better-okrs-use-outcomes-e82be6e7b460 as he included the cartoon image (Resources -> Activities -> Output -> Outcome -> Impact) which he attributes to "The Project Logic Model, adapted from Kellogg Foundation"
 
@@ -1159,19 +1172,6 @@ So up to here, I had identified the complication in the learning journey of a fo
 
 
 
-The effect of the above writing (and similar thinking) has, IMHO, provoked What Matters folks to position a response:+ Output vs. outcome with OKRs -https://www.whatmatters.com/faqs/outputs-vs-outcome-okr
-
-
-
-
-
-
-
-
-
-
-
-#### Seeking maturity models 
 
 That shows a complex approach that some of the Mozilla managers had for measuring folks, where "junior people can be measured by effort" while "the outcome can measure senior people."The framing of this last article helped me see correlations with:+ junior/senior+ unknown/known+ divergence/convergence+ aspirational/commitment+ effort/outcomeAnd that helped me to see better that the adjustment of the needle (from action, to output, to outcome) could be done depending on the context of the objective.Therefore, if you don't know much about what you are doing, you can measure by effort and revisit faster (100 times). If you are confident, the measure could be oriented towards an outcome.That could also explain why composed OKR (team level) could be more oriented to outcomes and why an individual could be more oriented to effort. Not sure.
 
@@ -1282,17 +1282,6 @@ An outcome of setting a mature expectation to your now-junior doer is that you g
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 <!--
 @meta @outline
 * outline - Answer k3.3.1 - Reconcilliation with what matters - outcomes is growth 
@@ -1330,8 +1319,6 @@ This again aligns with the given "prep work" suggested by Christina, in my rewri
 
 
 
-
-##### The quest for the Holy Grail and interference of numbers 
 
 We all know what we are after, it might even become a sacred as we get into the natural business of organizing ourselves, or to mobilize efforts and even rituals, when we are after that: The Holy Grail is an outcome in the end. That need is in all of us and it is the very reason that on many circumstances we will find our ways to cross that bridge since we shall not be afraid to answer any question if a gatekeeper requests it in the first place.
 
