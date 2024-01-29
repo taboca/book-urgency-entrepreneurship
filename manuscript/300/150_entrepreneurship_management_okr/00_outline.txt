@@ -1,3 +1,82 @@
+
+## Outline v1.2 
+
+* General changes - edited the Answer k3 part. 
+
+* Strategy - The getting things done, even done by chance, starts to show that doing things is not getting things done. 
+
+* Outline - Introduction - Leading pitch           - Gettings done exists, we know that it can't be arbitrary. 
+* Outline - Introduction - #SCqA - Situation       - Productivity matters but when consider we confirm to be overwhelming.
+* Outline - Introduction - #SCqA - Complication    - We doubt, we defer, and if we consider seems not applicable.  
+* Outline - Introduction - #SCqA - Question Answer - Can we do something? Reflect from far, in perspective. 
+* Outline - Introduction - #SCqA - Answer and strategy - Can OKR help with this conversation?
+
+* --------------
+
+* Outline - Answer k1 - Can goal-setting survive? 
+
+* Outline - Answer k1.0.1 - Situation       - Strong/bold seems impactful in harsh ways #anxiety. 
+* Outline - Answer k1.0.2 - Complication    - Confusion with this tops-down vs. bottom-up prevents us to see friendly. 
+* Outline - Answer k1.0.3 - Question-answer - tops-down matters and is unselfish, well with bottom-up.  
+* --------------
+* Outline - Answer k1.1   - Management for goal-based progressing is evolging 
+
+* Outline - answer k1.1.0 - Situation    - Management in perspective recognizes more to it, collaboration.
+* Outline - answer k1.1.1 - Complication - history harsh days were insecurity of the managerial position. 
+* Outline - answer k1.1.2 - Answer       - Priorities and management, tops-down, is evolving. 
+* --------------
+* Outline - answer k1.2.1 - Introduce OKR - What OKR tells us of that relationship?
+
+* Outline - answer k1.2.1 - OKR aspect - Leadership and tops-down planning
+* Outline - answer k1.2.3 - The search for the team's goal and not a bad critic 
+* Outline - answer k1.2.4 - OKR reflects on risks? 
+* --------------
+* Outline - Answer k1.3.1 - Goals are friendly with the contribution, and OKR 
+* Outline - Answer k1.3.1.1 - OKR involvement with the individual    
+* Outline - Answer k1.3.2 - The fight of tops-down and bottom-up, the selfish vs. non-selfish   
+* Outline - Answer k1.3.2.1 - Grove on surrender of the self for the team 
+
+* --------------
+
+* Outline - Answer k2     - Course-correction, failure, and opportunities after goals
+
+* Outline - Answer k2.0.1 - Complication - Goal-setting fails to re-evaluate objectives under low self-esteem whole
+* Outline - Answer k2.0.3 - Question - 
+* Outline - Answer k2.0.4 - Answer - 
+* --------------
+* Outline - Answer k2.1.0 - Collaboration - Transparency of key results, the hardest thing, and confusing dilemma 
+* Outline - Answer k2.1.1 - Collaboration -  \____ - Example of a book writing, the goal and the doing it. 
+* Outline - Answer k2.1.2 - Collaboration -  \____ - Example of a book writing, the editor-critic.
+* --------------
+* Outline - answer k2.2.0 - Teams - OKR as the managerial opportunity for tops-down to learn the best doing it.  
+*                                   \___ KR as output 
+*                                   \___ pairing indicators 
+* --------------
+* Outline - Answer k2.3.1 - Teams - The internal market starts with honesty and transparency and safety. 
+*                                   \___ Requires non-selfish and safety.
+* Outline - Answer k2.3.2 - Teams - Reinventing recyling - hundreds of time, is example of support. 
+*                                   \___ Requires internal market.  
+* Outline - Answer k2.3.3 - The confusions with measurement 
+
+* --------------
+
+* Outline - Answer k3 - Outcome vs. output battle - Intro - Pitch 
+* Outline - Answer k3 - Outcome vs. output battle - Intro - Situation - connection from pitch to the situation of drift 
+* Outline - Answer k3 - Outcome vs. output battle - Intro - Complication - the battle, or heated, is a conversation going on which confuse us. 
+* Outline - Answer k3 - Outcome vs. output battle - Intro - Answer - 3 points
+* --------------
+* Outline - Answer k3.1 - Outcome vs. output battle - answer - The battle of outcome vs. output 
+* --------------
+* outline - Answer k3.2 - Outcome vs. output battle - answer - Logic in the management discovery for maturity   
+* outline - Answer k3.2.1 - Outcome vs. output battle - answer - When maturity is naive 
+* --------------
+* outline - Answer k3.3 - Reconcilliation with what matters
+* outline - Answer k3.3.1 - Reconcilliation with what matters - outcomes is growth 
+* outline - Answer k3.3.2 - Reconcilliation with what matters - interference models 
+* outline - Answer k3.3.3 - Reconcilliation with what matters - output, business as usual and transcendence 
+* outline - Answer k3.3.3.1 - Preserving output as a function of learning 
+* outline - Answer k3.3.3.1.1 - Kolb model preserved abstraction 
+
 ## Outline v1.1 
 
 * General changes - edited the Answer k3 part. 
@@ -33,7 +112,7 @@
 * Outline - Answer k1.3.2.1 - Grove on surrender of the self for the team 
 * --------------
 
-* Outline - Answer k2 - OKR analysis for course-correction, failure, and opportunity.
+* Outline - Answer k2 - Course-correction, failure, and opportunity.
 
 * Outline - Answer k2.0.1 - complication - Goal-setting fails to re-evaluate objectives under low self-esteem whole
 * Outline - Answer k2.0.3  - question - 

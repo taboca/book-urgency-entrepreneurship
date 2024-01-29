@@ -11,7 +11,7 @@
 
 <!-- 
 @meta @outline 
-* Outline - Introduction - Leading pitch - Gettings done exists, we know. But also we know it is not to do arbitrary. We get involved with that. 
+* Outline - Introduction - Leading pitch - Gettings done exists, we know that it can't be arbitrary. 
 --> 
 
 
@@ -35,7 +35,7 @@ When the entrepreneurial function happens to creatively destroy the old and chan
 
 <!-- 
 @meta @outline 
-* Outline - Introduction - #SCqA - Situation - We are concerned with productivity and even give management of objectives under the need of being productive. 
+* Outline - Introduction - #SCqA - Situation - Productivity matters but when consider we confirm to be overwhelming.
 --> 
 
 
@@ -78,7 +78,7 @@ If that horizon rings a bell, it may not be entirely sufficient for the early or
 
 <!-- 
 @meta @outline 
-* Outline - Introduction - #SCqA - Complication - We struggle with the thing in the middle, the execution; We may doubt - a denial - that a method for progressing with goals helps for when the urgencies are real. 
+* Outline - Introduction - #SCqA - Complication - We doubt, we defer, and if we consider seems not applicable.  
 --> 
 
 
@@ -122,7 +122,7 @@ There is truth in there - truth that will also guide us ahead - but for now I ra
 
 <!-- 
 @meta @outline 
-* Outline - Introduction - #SCqA - Question Answer - Introduction - #SCqA - Question Answer - Dilemma of already being involved with productivity and provoked to not dive-  as the methods for orientation to goals seem to not fit, too complex - so that it can be deferred. @meta-refid 875-834-923-933
+* Outline - Introduction - #SCqA - Question Answer - Can we do something? Reflect from far, in perspective. 
 --> 
 
 
@@ -138,21 +138,10 @@ What is ahead is an opportunity to reflect about the management of work given by
 
 With that said, we will ride along with OKR - Objectives and Key Resources - which is a popular management framework for goal-setting and progressing with goals. In alignment to our strategy, our approach will have less to do with introducing the framework - or suggesting it like a playbook - and more with "consulting with OKR" or "checking with OKR conversations." My intention is that we can explore the subject and to join the rich conversation that OKR has given as we will see in the following sections. Since we don't want to set the carriage in front of the horses, let us start by honoring why OKR will be great to support the conversation. 
 
-
-
-
-
-
-
 <!-- 
 @meta @outline 
-* Outline - Introduction - #SCqA - Answer - We are going to use OKR but as a conversation, discussion goal-setting and management of goals, and to check what OKR has to say. Goal-setting deals with tops-down and bottom-up? Can OKR course-correct? And what is the battle? 
+* Outline - Introduction - #SCqA - Answer and strategy - Can OKR help with this conversation?
 --> 
-
-
-
-
-
 
 #### OKR as a rich conversation 
 
@@ -302,12 +291,11 @@ He concludes, since we moved on from that *time management* to the management of
 
 <!-- 
 @meta @outline 
-* Outline - answer k1.2.1 - Introduce OKR - What OKR tells us of that relationship?
-* Outline - answer k1.2.2 - OKR supports tops-down how? 
+* Outline - answer k1.2.1 - OKR aspect - Leadership and tops-down planning
 --> 
 
 
-#### OKR on leadership starting from the top 
+#### OKR on leadership and the tops-down planning
 
 
 
@@ -359,7 +347,7 @@ I have no doubt of an optimistic and humaninistic perspective in that component 
 
 <!-- 
 @meta @outline 
-* Outline - answer k1.2.3 - Leadership in tops-down has to do with team's goal and not a bad critic 
+* Outline - answer k1.2.3 - The search for the team's goal and not a bad critic 
 --> 
 
 
@@ -787,9 +775,9 @@ Therefore, and I know that I asking you to be flexible here, a collaborative pro
 
 
 
-#### OKR on learning from the key results 
+#### OKR on learning with key results 
 
-##### The notion of output as a window of opportunity
+There is a strong idea of output which was brought by Andy Grove in High Output Management, that deserves a calmer reflection in front of the not so calm situation of work. What Andy were after with the propositions for Management by Objectives consisted in allowing people to work and then asking them to get involved in checking if what they did really sets them in the direction which they have specificed in their objectives. In other words, if the outcome sought were the objective accomplished, the output expected had to be the new decisions coming after work: 
 
 > *"Thus, the true output of the planning process is the set of tasks that cause to be implemented. The output of Intel's annual plan, for instance, is the actions taken and the changes prompted as a result of the thinking process that took place throughout the organization. I, for one, hardly ever look at the bound volume finally called the Annual Plan. In other words, the output of the planning process is the *decisions* made and the *actions* taken as a result of the process."* (Grove, A., 2015, p. 109)
 
@@ -797,6 +785,21 @@ Therefore, and I know that I asking you to be flexible here, a collaborative pro
 @meta @references 
 * reference - Grove, A. (2015). High Output Management. Vintage Books.
 -->
+
+
+
+
+
+> *"Output Key Results are the identified milestones that should be met in the process of reaching the Objective. Outputs communicate the time and effort of the team towards achieving the Objective." Kandice Head (What Matters, 2024)
+
+<!-- 
+@meta @references
+* reference - Head, K. (n.d.). Output vs. Outcome with OKRs. What Matters. Retrieved January 29, 2024, from https://www.whatmatters.com/faqs/outputs-vs-outcome-okr
+--> 
+
+
+
+
 
 ##### Pairing indicators as a creative response 
 
@@ -1067,18 +1070,6 @@ Next, we will get into the origins of such "battle" of outcomes vs. output; but 
 
 
 
-[1] When John Doerr (and team) launched Measure What Matters, I believe the fight was not there. However, with time, they published their positioning - What Matters: Output vs. outcome with OKRs. https://www.whatmatters.com/faqs/outputs-vs-outcome-okr
-
-[2] On the other hand, many product managers (which seems to be the case) are moving their troops using Outcome-oriented thinking. Christina Vodjke, the author of Radical Focus and Stanford Professor, has indicated that Outcome-oriented is better - https://cwodtke.medium.com/you-cant-handle-okrs-5465cf161e81
-
-
-
-
-
-
-
-
-
 
 To be fair with Christina, notice that the context may matter. In the above view, she had assummed what she referred as "prep work" which I would then relaltively agree with the idea of key results to have that inclination to outcomes, if you have indeed a crisp strategy, multidisciplinary team, bad managers fired, agile and lean happening in good share, effectiveness happening over efficiency: 
 
@@ -1097,15 +1088,48 @@ To be fair with Christina, notice that the context may matter. In the above view
 
 
 
+#### The lagging possibility  
 
-The viewpoint given by Reforge is also mature to recognize not only the different kinds of key results but strategic mixing of these kinds to actually improve the deepthness of connection with the purpose, the objectives: 
+Notice that a poor implementation of a key result could happen both ways with output-based key results or with outcome-based key results. Under the possiblity of the extremme cenario of towards the activity, Christina had expressed her call to make the point that the key results had to be "outcome, not outputs." That because she feared that the product of a work effort could not help with the outcome expected by the objectives. 
 
-> *"They come together to paint a picture of what needs to happen for your objective to be successful. .. There are output-metric key results — such as delivering an important feature — as well as outcome-oriented key results. It’s also important to note that outcome-oriented key results can come in two varieties based on the metric within the key result."* 
+On the other side of the spectrum, the too eager drive to set numbers - even the ones associated with outcomes - in the key results could actually result in making the team to engage in various efforts, such as to be creative within the box, which could them set them to run outside the radar of OKR, therefore outside the radar of learning - which goes inline with the consideration from What Matters professors [^footnote_coursera] that *"in reality, revenue rarely makes a good KR because it's often the outcome of many different actions over the course of the cycle." They go on to explore the lagging situation by the possibility that *"by the time the revenue has come in, it's too late to say if the actions leading to the revenue were working.*" 
+
+[^footnote_coursera]: This observation is part of "Refining your KRs" in the course "OKR Certification: Leadership and Goal Setting" by John Doerr, Ryan Panchadsaram, and Lisa Shufro. See Doerr, J., Panchadsaram, R., & Shufro, L. (2024). OKR Certification: Leadership and Goal Setting. Coursera. Retrieved January 29, 2024, from https://www.coursera.org/learn/okr
+
+<!--
+@meta @references
+* Reference - Doerr, J., Panchadsaram, R., & Shufro, L. (2024). OKR Certification: Leadership and Goal Setting. Coursera. Retrieved January 29, 2024, from https://www.coursera.org/learn/okr
+--> 
+
+To be clear, these folks - Christina and the folks from What Matters do care about the very same problem that the outcome is anyway the thing we are after - and the whole reason for OKR to exist anyway: 
+
+> *"Although an output in many cases can serve as measurement, outputs don’t necessarily lead to outcomes. And in the name of productivity, it is quite easy for teams and leaders to lose sight of their overall Objective and instead, shift focus to their outputs. However, outputs must clearly communicate what will change — in other words, they must make a difference."* (Head, Kandice., WhatMatters, 2024)
 
 <!-- 
 @meta @references
-* reference - Rekhi, S. (n.d.). 6 Steps for setting high-leverage OKRs. Reforge. Retrieved January 12, 2024, from https://www.reforge.com/previews/growth/okr-guide
+* reference - Head, K. (2024). Output vs. Outcome with OKRs. What Matters. Retrieved January 29, 2024, from https://www.whatmatters.com/faqs/outputs-vs-outcome-okr
 --> 
+
+Thus we can celebrate the nuanced and enlightened outcome set by Kandice that reminds us to keep our heads looking to the right thing and not to drift away in any way:  
+
+> *"Outputs are not meaningful independent of describing the outcome. However, good outcome-focused Objectives help teams identify which outputs are most likely to lead to the desired outcomes."* (Head, Kandice., WhatMatters, 2024)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -40,9 +40,39 @@
 * Ted - https://mail.google.com/mail/u/0/#inbox/QgrcJHsBtPszjcdSZGMtPVbJdtZbDRNjSrq 
 * Chris -  https://mail.google.com/mail/u/0/#inbox/KtbxLwgZVwjDDccMZJKdWcPBwPDlzZFlzL
 
+## ----------------------------------------------------
+## Letter - to Ryan Panchadsaram - On January 29th 2024 
+
+* Ref - https://www.linkedin.com/in/ryanpanchadsaram/
+* Ref - Conductor of What Matters - "Ryan Panchadsaram (@rypan) is the co-founder of WhatMatters.com and is the technical advisor to John Doerr at Kleiner Perkins. " - https://www.whatmatters.com/series_entries/s3-1-key-result-definition-okrs
 
 
-## Letter - To MD in the McCallum article 
+### Pre message from the Linkedin invitation 
+
+```
+Hi Ryan - thanks for being the professor and conducting the WhatMatters. I am Marcio Galli, and I have a chapter supporting OKR in my in-progress book entitled "Slow Down to Start Up". I wonder,  [+] 
+```
+
+### Full message left to WhatMatters 
+
+* Left via e-mail to whatmatters - https://mail.google.com/mail/u/0/#sent/KtbxLxGrVLXDmfpgBSKQwGkDSwBwBtLBdB?compose=new 
+
+```
+My name is Marcio Galli, I am now living in Brazil - as an entrepreneur and writer - but in the past had a relative involvement with some iconic Silicon Valley companies like Netscape, Yahoo! and Mozilla. Before I inform you about the contribution that I am giving to entrepreneurs - and one specific about OKR - the following opening should inform you of this book that I have started in 2016 in slow pace after watching the Blitzscaling lectures and it is by now quite active after I have passed the mark of 128 days of work since April of 2023.
+
+This book is entitled "Slow Down to Start Up," and it is intended to help entrepreneurs with a reflective approach as the abundance of data/models/frameworks/systems/platforms can be confusing to them. The motivation came from my struggles and then the observation that the people behind Blitzscaling (professors or the people interviewed) seemed to be good in terms of psychological characteristics like integrity, character, calmness, reflective thinkers, and the like. Therefore, I wanted to help others to engage in ideas like "Wait, hold on, before moving too fast with any frameworks or even advices," also because the startup hypermarket has now too many aisles and too many offerings. 
+
+With this context, and being specific to OKR, I have a chapter entitled "Not so radical focus," which aside from any poor development from my side, as a conductor-writer, it exists because of my honest intention to serve as a reflective opportunity before anyone jumps too fast into OKR; where a possible engagement like an urgent move could set them to be frustrated with OKR, or confused, and worse to give up not only OKR but the concerns and learning about management based on goals. Therefore, the chapter - by the viewpoint of the book - invites the reader-entrepreneur to engage in the subject while OKR is not pushed, or introduced, as a playbook or anything like that since we know that we have a lot of that which is well done as you know, but it is brought alongside the theme as if I am "asking the OKR view about certain challenges." 
+
+With this note I wanted to first let you know of this work but also to invite you to look at the draft-manuscript of this chapter. Or, if you look at it you may also pick or follow up by asking anyone that you know to get involved, if you feel that my work can be helpful to the world of founders. 
+
+Sincerely, 
+
+Marcio S Galli 
+```
+
+## -------------------------------------------------------------
+## Letter - To MD in the McCallum article - On January 28th 2024 
 
 * https://medium.com/@mcgd/thank-you-daniel-mccallum-133d27e98468
 

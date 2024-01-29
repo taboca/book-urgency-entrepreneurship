@@ -457,6 +457,29 @@ Wodtke, C. (2022, February 4). Are You Sure You Want to Use OKRs? Retrieved from
 
 Wodtke, C. (2023, March 16). The ultimate guide to OKRs | Christina Wodtke. Lenny's Podcast. Retrieved from https://www.youtube.com/watch?v=kvkL18Ue0dE&t=886s
 
+
+
+<!-- 
+@meta @from
+* 300/150_entrepreneurship_is_management.txt
+--> 
+
+Head, K. (2024). Output vs. Outcome with OKRs. What Matters. Retrieved January 29, 2024, from https://www.whatmatters.com/faqs/outputs-vs-outcome-okr
+
+
+<!-- 
+@meta @from
+* 300/150_entrepreneurship_is_management.txt
+--> 
+
+Doerr, J., Panchadsaram, R., & Shufro, L. (2024). OKR Certification: Leadership and Goal Setting. Coursera. Retrieved January 29, 2024, from https://www.coursera.org/learn/okr
+
+
+<!-- 
+@meta @from
+* 300/150_entrepreneurship_is_management.txt
+--> 
+
 Nightingale, J. (2017, February 8). Leadership is not about your good intentions: Managing junior vs senior staff, and why you might be an ass. The Co-pour. Retrieved from https://mfbt.ca/leadership-is-not-about-your-good-intentions-5e21666cb01b
 
 
