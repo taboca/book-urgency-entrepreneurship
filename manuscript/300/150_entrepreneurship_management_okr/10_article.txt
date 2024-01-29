@@ -204,8 +204,8 @@ With that, our reflection will be more like talking the walk, with the intention
 @meta @outline 
 * Outline - Answer k1 - Can goal-setting survive? 
 * Outline - Answer k1.0.1 - Situation    - Strong/bold seems impactful in harsh ways #anxiety. 
-* Outline - Answer k1.0.2 - Complication - Confusion with this tops-down vs. bottom-up prevents us to see friendly. 
-* Outline - Answer k1.0.3 - Question-answer - tops-down matters and is unselfish, well with bottom-up.  
+* Outline - Answer k1.0.2 - Complication - Confusion with this tops-down vs. bottoms-up prevents us to see friendly. 
+* Outline - Answer k1.0.3 - Question-answer - tops-down matters and is unselfish, well with bottoms-up.  
 --> 
 
 
@@ -288,6 +288,40 @@ He concludes, since we moved on from that *time management* to the management of
 
 
 
+By the evolution that we have considered, the notions from management becomes clearn that the work of the doers carry on the important of performance from their actions and likely had improved towards the relationships. It goes along with that the notion that the state of well-being which supports their creative state. Or they get to know that over time as it is inescapable. Therefore, the perspective of the doers enters management, even if by fragments of what happens from the office of their psychologists, because it enters the workplace and because it impacts the organization's productivity. Peter Drucker, in Managing Oneself, portraits frames of the big movie and how the what is told is provoked with the what's happening: 
+
+<!--
+@meta @todo 
+* @todo - p2 (Done) - In Not so Radical Focus - Peter Drucker wrote something about tops-down in the Managing Oneself where he brings back the historical context. A supporting point, so that the reader reflects on the full denial of the tops-down under the impression that free is good may align with what Peter Drucker may have said in the "managing oneself" and also  I recall that Jonathan or Melissa said it too in some article in the HFIYM book. 
+ - @meta-refid 49284982-284784-927494-4204820
+--> 
+
+> *"Throughout history, the great majority of people never had to ask the question, What should I contribute? They were told what to contribute, and their tasks were dictated either by the work itself - as it was for the peasant or artisan - or by a master or a mistress - as it was for domestic servants. And until very recently, it was taken for granted that most people were subordinates who did as they were told. Even in the 1950s and 1960s, the new knowledge workers (the so-called organization men) looked to their company's personnel department to plan their careers. 
+> Then, in the late 1960s, no one wanted to be told what to do any longer. Young men and women began to ask, What do I want to do? And what they heard was that the way to contribute was "to do your own thing." But this solution was as wrong as the organization men's had been. Very few of the people who believed that doing one's own thing would lead to contribution, self-fulfillment, and success achieved any of the three."* (Drucker, Peter. 2008. pp. 35) 
+
+<!-- 
+@meta @references 
+* reference - Drucker, P. (2008). Managing Oneself. Harvard Business School Press.  
+--> 
+
+And goes on into a more enlightened view that the management of the self gains space, and consciousness, as the work place evolves. The modern doer is there, more aware of their development. They are alive and they react more. The following three elements of from the anyone working in an organization isn't a duty given by a manager but a way for the actual contributor to look at what they do there: 
+
+> *"What should my contribution be? To answer it, it must address three distinct elements. What does the situation require? Given my strenghts, my way of performing, and my values. How can I make the greatest contribution to what needs to be done? And finally, What results have to be achieved to make a difference."* (Drucker, Peter. 2008. pp. 35)
+
+<!-- 
+@meta @references 
+* reference - Drucker, P. (2008). Managing Oneself. Harvard Business School Press. 
+--> 
+
+
+
+
+
+
+
+
+
+
 
 <!-- 
 @meta @outline 
@@ -333,6 +367,9 @@ In other words, Andy needed first a responsible system with a fundamental elemen
 
 We will come back to the challenges of reviewing key results and objectives and the conversation about OKR from the perspective of learning and replanning. For now, I want to highlight that this component, that makes work possible and visible and concrete and measurable, is what gives the doer the opportunity to, first, to get involved if they feel they can join the boat, and if so to know what they have to do, through these milestones or key results. 
 
+
+
+
 I have no doubt of an optimistic and humaninistic perspective in that component of MBO because it holds the allowance to work and also it allows the work to be seen. And naturally other humanistic perspectives will be equally necessary for progress to happen - or the whole OKR system to work well - which we will discuss ahead. But the point being is that Andy were concerned with enabling his colleagues to work and talk about what they were doing and that would not be possible if they didn't have a way to look into what is being done. This is also the right time to acknowledge the challenges that Intel went through when the company's leading position as a memory chip manufacturer were surprised by what Andy called "a 10x force" [^footnote_onlytheparanoidsurvive_intel] provided by the competition from Japanese memory chip manufacturers that had better technology which would likely sink Intel especially if Intel kept following strictly its long-term objectives. 
 
 [^footnote_onlytheparanoidsurvive_intel]: Andy Grove's "Only the Paranoid Survive" discusses the concept of a 10x force as a significant change that it changes the fundamental dynamics of a business or industry. Grove elaborates on how Intel's need for adaptability in business. 
@@ -343,12 +380,6 @@ I have no doubt of an optimistic and humaninistic perspective in that component 
 -->
 
 
-
-
-<!-- 
-@meta @outline 
-* Outline - answer k1.2.3 - The search for the team's goal and not a bad critic 
---> 
 
 
 
@@ -376,7 +407,24 @@ In other words, if we look at what to do and we happen to see people, and likewi
 * Reference - Nightingale, J. (2017). How Fucked Up Is Your Management. Raw Signal Press. 
 -->
 
+
+
+
+
+<!-- 
+@meta @outline 
+* Outline - answer k1.2.2 - OKR aspect - Upfront writing 
+--> 
+
+
 #### OKR on upfront goals and the mission or strategy
+
+
+
+
+
+
+
 
 One will wonder if OKR would be a kind of system that happen to only be applicable after a giant machine - that knows where it is going - is moving; because generally the idea of setting tops-down goals and knowing things upfront carry some pressure in terms of a strict need to follow and to honor that plan and investment. And that is likely valid, to a certain extent, otherwise it would be like writing it down arbitrary moves which would likely confuse the doers. Still, that is why it is challenging anyway - and this involves certainly excitement and stress to a certain extent. Therefore, whoever mobilizes any effort has a degree of power, even if this starts with the work of a solo person. Given that challenging situation, it is still the sort of work that takes things out of the head of the leader that decides to do something that later becomes a startup. It gotta be something big enough to mobilize the effort anyway. 
 
@@ -418,51 +466,11 @@ As you will see in the next section, these tops-down formalities will help with 
 
 <!-- 
 @meta @outline 
-* Outline - Answer k1.3.1 -  Goals are friendly with the contribution, and OKR 
+* Outline - Answer k1.3.1 - OKR aspect - The contributor's view  
 --> 
-
 
 #### OKR on the role of the contributor 
 
-
-<!-- 
-@meta @todo 
-* @todo - p2 ( ) - In Not So Radical Focus - * Personal, "what should my contribution be" vs goals - The point given by Peter is also a point given by Michael Dearing in his private GM2 course - he indicated that the Objective has to be meaningful and consistent with the person's values, principles, and also generates pride when accomplished - 'sense of accomplishment' / ref 8474-6573-7282-8383
---> 
-
-Managers know that doers' real contribution rises from the doing - from the action - and it is influenced by how they do and why they do and therefore their state of well-being which supports their creative state. Or they get to know that over time as it is inescapable. Therefore, the perspective of the doers enters management, even if by fragments of what happens from the office of their psychologists, because it enters the workplace and because it impacts the organization's productivity. Peter Drucker, in Managing Oneself, portraits frames of the big movie and how the what is told is provoked with the what's happening: 
-
-<!--
-@meta @todo 
-* @todo - p2 (Done) - In Not so Radical Focus - Peter Drucker wrote something about tops-down in the Managing Oneself where he brings back the historical context. A supporting point, so that the reader reflects on the full denial of the tops-down under the impression that free is good may align with what Peter Drucker may have said in the "managing oneself" and also  I recall that Jonathan or Melissa said it too in some article in the HFIYM book. 
- - @meta-refid 49284982-284784-927494-4204820
---> 
-
-> *"Throughout history, the great majority of people never had to ask the question, What should I contribute? They were told what to contribute, and their tasks were dictated either by the work itself - as it was for the peasant or artisan - or by a master or a mistress - as it was for domestic servants. And until very recently, it was taken for granted that most people were subordinates who did as they were told. Even in the 1950s and 1960s, the new knowledge workers (the so-called organization men) looked to their company's personnel department to plan their careers. 
-> Then, in the late 1960s, no one wanted to be told what to do any longer. Young men and women began to ask, What do I want to do? And what they heard was that the way to contribute was "to do your own thing." But this solution was as wrong as the organization men's had been. Very few of the people who believed that doing one's own thing would lead to contribution, self-fulfillment, and success achieved any of the three."* (Drucker, Peter. 2008. pp. 35) 
-
-<!-- 
-@meta @references 
-* reference - Drucker, P. (2008). Managing Oneself. Harvard Business School Press.  
---> 
-
-And goes on into a more enlightened view that the management of the self gains space, and consciousness, as the work place evolves. The modern doer is there, more aware of their development. They are alive and they react more. The following three elements of from the anyone working in an organization isn't a duty given by a manager but a way for the actual contributor to look at what they do there: 
-
-> *"What should my contribution be? To answer it, it must address three distinct elements. What does the situation require? Given my strenghts, my way of performing, and my values. How can I make the greatest contribution to what needs to be done? And finally, What results have to be achieved to make a difference."* (Drucker, Peter. 2008. pp. 35)
-
-<!-- 
-@meta @references 
-* reference - Drucker, P. (2008). Managing Oneself. Harvard Business School Press. 
---> 
-
-
-
-
-
-<!-- 
-@meta @outline 
-* Outline - Answer k1.3.1.1 - OKR involvement with the individual    
---> 
 
 
 
@@ -487,12 +495,28 @@ Now if people to join projects, with causes and goals, they do because they know
 
 
 
+
+
+<!-- 
+@meta @todo 
+* @todo - p2 ( ) - In Not So Radical Focus - * Personal, "what should my contribution be" vs goals - The point given by Peter is also a point given by Michael Dearing in his private GM2 course - he indicated that the Objective has to be meaningful and consistent with the person's values, principles, and also generates pride when accomplished - 'sense of accomplishment' / ref 8474-6573-7282-8383
+--> 
+
+
+
+
+
+
+
 <!-- 
 @meta @outline 
-* Outline - Answer k1.3.2 - The fight of tops-down and bottom-up, the selfish vs. non-selfish   
+* Outline - Answer k1.4   - Conclusion - Selfish vs. non-selfish   
 --> 
 
 #### The fight between the selfish and the non-selfish 
+
+
+
 
 
 
@@ -887,7 +911,7 @@ Notice that in the illustration he created the idea of "funded" can be interpret
 
 
 
-The effort of redoing the OKR hundreds of times, is for the sake of being open. Now, in this regard, a question that comes is if OKR does not allow room for bottom-up contributions that affects the tops-down. Part of it I have covered, the conversation is there. But the cycle for reviewing all the top down plan exists too and bottom-up contributions is recognized as key. In other words, the approach needs and depends on the confrontation of the what we want to do with the what is happening. Of course, the cadence for that sort of strategic planning work might have a cadence, needs a cadence applicable to the organization.
+The effort of redoing the OKR hundreds of times, is for the sake of being open. Now, in this regard, a question that comes is if OKR does not allow room for bottoms-up contributions that affects the tops-down. Part of it I have covered, the conversation is there. But the cycle for reviewing all the top down plan exists too and bottoms-up contributions is recognized as key. In other words, the approach needs and depends on the confrontation of the what we want to do with the what is happening. Of course, the cadence for that sort of strategic planning work might have a cadence, needs a cadence applicable to the organization.
 
 The very process that Michael has suggested seems to go along well with the individual situation of a writer - so I this makes me comfortable to see a pattern and then to consider the situation of the individual being the same of the team; which may help us to achieve clarity of that the problem we have for achieving ambitious goals is always the problem of finding support and may also connects with high self-esteem. 
 
