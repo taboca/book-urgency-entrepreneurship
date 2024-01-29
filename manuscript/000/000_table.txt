@@ -1,5 +1,7 @@
 # Todo # 
 
+* @todo - p1 ( ) - In Not so Radical Focus - We should do a better job in the context of bringing the notions from Michael Dearing about bottoms-up value. @meta-refid 483498-4398493-4839498-483984
+
 * @todo - p1 ( ) - In Not so Radical Focus - Need to study again *maturity* aspects from High Output Management. Need to study the case of McCallum from Michael Dearing and the potential misunderstanding of Reid on the micro management comment on top of the situation of Michael - @meta-refid 148498-9482984-4208849-4802489
 
 * @todo - p2 ( ) - In Not So Radical Focus - check with High Output Management and What Matters the relationship between pairing indicators and key results or objectives, OKR. @meta-refid 484840-420-42042-492849

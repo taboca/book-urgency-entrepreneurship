@@ -471,9 +471,13 @@ As you will see in the next section, these tops-down formalities will help with 
 
 
 
+<!-- 
+@meta @todo 
+* @todo - p1 ( ) - In Not so Radical Focus - We should do a better job in the context of bringing the notions from Michael Dearing about bottoms-up value. @meta-refid 483498-4398493-4839498-483984
+-->
 
 
-Now if people to join projects, with causes and goals, they do because they know their strenghts can be used for the situation that needs to be changed. This is the premise necessary such as when one accepts to join the boat and even if they don't know, still it is by knowing what is ahead that they organize themselves to learn. Therefore, from the perspective of the doers, it is expected of a leadership role (be that promoted by a person or anything written down) to develop from its position of responsibility something clear so that contributors may find their way. This is a premise so that the team feel energetic to engage - it is what the team is dying to know [^foonote_michaeldearing_clarityteam] and is also the proof of respect that is demanded for your team - even if you have a too bold strong vision this is how any professional conversation starts. 
+Now if people join projects, with causes and goals, they do so because they know their strenghts can be used for the situation that counts on them. This is the premise necessary for anyone to join the boat and even if they don't know what to do - still it is by knowing what is ahead that they organize themselves to learn. Therefore, from the perspective of the doers, it is expected of a leadership role (be that promoted by a person or anything written down) that is in the position of responsibility that has to set things clear. The other aspect is that what is told in advance may come with what makes the team to feel energetic to engage - it is what the team is dying to know [^foonote_michaeldearing_clarityteam].
 
 <!-- 
 @meta @todo 
