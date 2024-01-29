@@ -10,10 +10,6 @@
 
 * @todo - p2 ( ) - In Not So Radical Focus - Consider to put the example of Andy of the car's gauge - @meta-refid 4349840-4803048-4398493-4384 
 
-* @todo p2 ( ) - In Not So Radical Focus - Fix or remove the part from Andy where we show a bit of the history of Intel going through the inflection point. @meta-refid 928494-02498-428-94284
-
-* @todo p2 ( ) - In Not So Radical Focus - Fix or remove the part from Andy where we show a bit of the history of Intel going through the inflection point. @meta-refid 928494-02498-428-94284
-
 * @todo - p2 ( ) - In Not so Radical Focus - Review the whole quote of Jonathan from How Fucked Up Is Your Management, p. 170 - @meta-refid 29849-45345-492849-428490
 
 * @todo - p2 ( ) - In Not so Radical Focus - #APA Check the reference to Kolb Model the APA citation in the above footnote, where it is indicated inline (2024). Notice that 2024 is retrieval date. @meta-refid 29849-429849-492849-428490
@@ -21,8 +17,6 @@
 * @todo - p2 ( ) - In Not so Radical Focus - Complete footnote and review the point example from Jordan Peterson. @meta-refid 492849-429849-4890249-48248
 
 * @todo - p2 ( ) - In Not so Radical Focus - Peter Drucker wrote something about tops-down in the Managing Oneself where he brings back the historical context. By the way this line of thinking where Peter starts with the old seems to be quite evident as also shown in "Tecnologia, Adminstração e Sociedade". - @meta-refid 20489-284784-927494-40284
-
-* @todo - p2 ( ) - In Not So Radical Focus - * Personal, "what should my contribution be" vs goals - The point given by Peter is also a point given by Michael Dearing in his private GM2 course - he indicated that the Objective has to be meaningful and consistent with the person's values, principles, and also generates pride when accomplished - 'sense of accomplishment' / ref 8474-6573-7282-8383
 
 * @todo p2 ( ) - In Not So Radical Focus - Check if OKR is a method or framework / ref 49284-492849-492849-942894 
 
@@ -243,6 +237,10 @@ https://chat.openai.com/share/b7eb16c5-4c18-4709-9220-bd2629f34a3d
 
 ## Done
 
+* @todo - p2 (Done) - In Not So Radical Focus - * Personal, "what should my contribution be" vs goals - The point given by Peter is also a point given by Michael Dearing in his private GM2 course - he indicated that the Objective has to be meaningful and consistent with the person's values, principles, and also generates pride when accomplished - 'sense of accomplishment' / ref 8474-6573-7282-8383
+
+* @todo p2 (Done, kept) - In Not So Radical Focus - Fix or remove the part from Andy where we show a bit of the history of Intel going through the inflection point. @meta-refid 928494-02498-428-94284
+
 * @todo - p2 (Done) - In Not So Radical Focus - On "What should my contribution be?" - The writing down, the specification, how how what they do vs. the larger purpose. According to Michael, from his GM2 Course [ ref https://www.harrisonmetal.com/classes/gm2-setting-goals-measuring-performance/lessons/magic-of-okrs ] which is private, "they are doing to know how what they do connects to a larger purpose." / @meta-refid 20129-201921-201920-201902 
 
 * @todo - p2 (Done) - In Not so Radical Focus - Peter Drucker wrote something about tops-down in the Managing Oneself where he brings back the historical context. A supporting point, so that the reader reflects on the full denial of the tops-down under the impression that free is good may align with what Peter Drucker may have said in the "managing oneself" and also  I recall that Jonathan or Melissa said it too in some article in the HFIYM book. 
@@ -281,3 +279,5 @@ https://chat.openai.com/share/b7eb16c5-4c18-4709-9220-bd2629f34a3d
 ## Reviews external
 
 * ( ) Approval review - with John Lilly - if the story of UI firefox can be depicted as I did in 090_saying_thanks_reflections.txt. / f47ac10b-58cc-4372-a567-0e02b2c3d479
+
+

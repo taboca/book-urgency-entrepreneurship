@@ -258,7 +258,7 @@ Following up with the perspective of not reinventing the wheel and growing from 
 * Outline - Answer k1.1 - Management tried to optimize but found the innevitability, tops-down goes non-selfish. 
 * Outline - answer k1.1.0 - Situation - Management in perspective recognizes more to it, collaboration.
 * Outline - answer k1.1.1 - Complication - history harsh days were insecurity of the managerial position. 
-* Outline - answer k1.1.2 - Answer - Priorities and management, tops-down, is evolving. [feat. Stepher Covey, feat. Kris Duggan]. 
+* Outline - answer k1.1.2 - Answer - Priorities and management, tops-down, is evolving. 
 --> 
 
 
@@ -328,33 +328,29 @@ And goes on into a more enlightened view that the management of the self gains s
 * Outline - answer k1.2.1 - OKR aspect - Leadership and tops-down planning
 --> 
 
-
-#### OKR on leadership and the tops-down planning
-
-
-
 <!--
 @meta @todo
 * @todo p2 ( ) - In Not So Radical Focus - Check if OKR is a method or framework / ref 49284-492849-492849-942894 
 --> 
 
-<!--
-@meta @todo 
-* @todo - p2 ( ) - In Not so Radical Focus - Consider if the historical perspective given by from Kris Kris Duggan and likely Andy Grove about OKR  https://www.heavybit.com/library/video/using-okrs-to-drive-results-aka-secrets-to-crushing-your-goals @meta-refid 42424-244-424-5555
---> 
+#### OKR on leadership and the tops-down planning
 
 
-With the early justification for going along with OKR - in terms of popularity in the space of high-growth organizations - as a lively conversation about goal-setting and management of goals, this context calls for checking the historical development of OKR. OKR didn't happen overnight but going backwards, its popularity was championed by John Doerr [^footnote_johndoerr_okr] through the evangelism work where he pushed the movement further inside Google, and later engaged wider audiences with the initiative entitled *What Matters* [^foonote_whatmatters_site] starting with the book entitled *Measure What Matters*, where the discussion continues to evolve. Visiting these resources will give you a view of the size and reach of the movement which is occupied with evolving the framework and ideas about goals and management of goals through real experimentation. 
+
+
+
+
+Following up with riding along with OKR - after having recognized its lively conversation about goal-setting and management of goals - this calls for checking the historical development of OKR, which didn't happen overnight. Its popularity was championed by John Doerr [^footnote_johndoerr_okr] through the evangelism work inside Google and the initiative known as *What Matters* [^foonote_whatmatters_site] starting with the book entitled *Measure What Matters* where the conversations continue to evolve. 
 
 [^footnote_johndoerr_okr]: John Doerr, a renowned venture capitalist, has been an advocate for the framework of Objectives and key results (OKRs) which he discusses in his book *Measure What Matters*. He learned much about that directly from Andy Grove during his time at Intel. 
 
 [^foonote_whatmatters_site]: The "What Matters" web site, accessible through https://www.whatmatters.com/, is part of an initiative that gained popularity with the book from John Doerr "Measure What Matters," which promotes Objectives and key results (OKRs) as a goal-setting framework that helps organizations define and track objectives and outcomes. 
 
-As said by John Doerr in Measure What Matters, much before it was widely know, his early movement to push at Google started from his motivations that he saw smart engineers working in magical ideas but as the company started to grow they would need a system to organize how to get things done, or as John would say how to focus on what matters. Thus, the development of OKR inside Google added strenght to form OKR, to grow its principles in ways that smart engineers from top-tier Silicon Valley firms would not dismiss: 
+As said by John Doerr in Measure What Matters, much before it was widely know, his early movement to push at Google started from his motivations that he saw smart engineers working in magical ideas but as the company started to grow they would need a system to organize how to get things done and to focus on what matters. Thus, this movement added strenght to consolide OKR, to grow its principles: 
 
 > *""* John Doerr, Measure What Matters 
 
-Beyond that, or before that, OKR has origins with the teachings of Andy Grove while he was the CEO of intel and an educator championing the approach under the idea of MBO or Management by Objectives. John had the opportunity to learn directly from Andy Grove. I think that John fell in love with the vision and challenge where Andy - as an educator and manager - wanted MBO to be used inside of Intel to help his colleagues in planning after working; so that they could later *determine* the *decisions* to set the company in the direction of a better future. But to so that, of course, he needed a simple system to allow work to be done, the minimal unit for getting things done, to exist in the first place. Only after that celebration that any further analysis could happen. This is why Andy had to use a very simple set of questions about the work being done to start with:  
+Beyond that, or before that, John did a good job in linking the origins of OKR to the movement pushed by Andy Grove - the late CEO of Intel - that championed the approach under the idea of MBO or Management by Objectives. John had the opportunity to learn directly from Andy Grove. I think that John fell in love with the vision and challenge where Andy - as an educator and manager - wanted MBO to be used inside of Intel to help his colleagues in planning after working; so that they could later *determine* the *decisions* to set the company in the direction of a better future. But to so that, of course, he needed a simple system to allow work to be done, the minimal unit for getting things done, to exist in the first place. Only after that celebration that any further analysis could happen. This is why Andy had to use a very simple set of questions about the work being done to start with:  
 
 > *"A successful MBO system needs only to answer two questions. One, where do I want to go? The answer provides the objective. Two, how will I pace myself to see if I'm getting there? The answer gives us milestones or key results."* (Grove, A., 2015, pp. 111)
 
@@ -376,7 +372,7 @@ I have no doubt of an optimistic and humaninistic perspective in that component 
 
 <!-- 
 @meta @todo 
-* @meta-todo p2 ( ) - In Not So Radical Focus - Fix or remove the part from Andy where we show a bit of the history of Intel going through the inflection point. @meta-refid 928494-02498-428-94284
+* @meta-todo p2 (Done) - In Not So Radical Focus - Fix or remove the part from Andy where we show a bit of the history of Intel going through the inflection point. @meta-refid 928494-02498-428-94284
 -->
 
 
@@ -385,7 +381,7 @@ I have no doubt of an optimistic and humaninistic perspective in that component 
 
 
 
-By showing these aspects of the challenges of these managers, we can build a sense of values that were bundled and helped to shape the principles of OKR. Given what it was said, OKR starts - yes -  with the need for tops-down goals that can be accomplished and also can be quite ambitious: 
+By showing these aspects fro their challenges, we can build a sense for how formation of the principles in OKR. Given what it was said, OKR starts - yes -  with the need for tops-down goals that can be accomplished and also can be quite ambitious: 
 
 > *"An effective goal setting system starts with disciplined thinking at the top, with leaders who invest the time and energy to choose what counts."* (Doerr, J., 2018, p. 50)
 
@@ -426,9 +422,11 @@ In other words, if we look at what to do and we happen to see people, and likewi
 
 
 
-One will wonder if OKR would be a kind of system that happen to only be applicable after a giant machine - that knows where it is going - is moving; because generally the idea of setting tops-down goals and knowing things upfront carry some pressure in terms of a strict need to follow and to honor that plan and investment. And that is likely valid, to a certain extent, otherwise it would be like writing it down arbitrary moves which would likely confuse the doers. Still, that is why it is challenging anyway - and this involves certainly excitement and stress to a certain extent. Therefore, whoever mobilizes any effort has a degree of power, even if this starts with the work of a solo person. Given that challenging situation, it is still the sort of work that takes things out of the head of the leader that decides to do something that later becomes a startup. It gotta be something big enough to mobilize the effort anyway. 
+One will wonder if OKR would be a kind of system that happen to only be applicable after a giant machine - that knows where it is going - is moving; because generally the idea of setting tops-down goals and knowing things upfront carry some pressure in terms of a strict need to follow and to honor that plan and investment. And that is likely valid, to a certain extent, otherwise it would be like writing it down arbitrary moves which would likely confuse the doers. Still, that is why it is challenging anyway - and this involves certainly excitement and stress to a certain extent. 
 
-But in the light of OKR, and given the growth demands of the startup situation, these leaders are asked to write in down and that in itself is an act of courage. No one is asking to waste time, such as to keep writing too much in ways that makes no sense and causes the doer to be doing nothing. The idea is that what is upfront planned is the upfront written and that gets to be what is upfront said which helps with the actual developments, the doing it in the first place in alignment with some of the ideas we have considered by now. These organizational aspects in OKR resonates with some of the following elements: 
+Therefore, whoever mobilizes any effort is exercising to a certain extent a degree of power, even if this starts with the work of a solo person. Given that challenging situation, it is still the sort of work that takes things out of the head of the leader that decides to do something that later becomes a startup. It gotta be something big enough to mobilize the effort anyway. But in the light of OKR, and given the growth demands of the startup situation, these leaders are asked to write in down and that in itself is an act of courage - as it sets them into the vulnerable situation too. 
+
+No one is asking to waste time, such as to keep writing too much in ways that makes no sense and causes the actual doer personality of the tops-down writer to not have bandwidth to do anything else. The idea is that what is upfront planned is the upfront written and that gets to be what is upfront said so that it helps with the actual development that needs to happen. By that, and if the  doing it happens in the first place, this idea may bring about the following elements: 
 
 * Putting things upfront is less about surprises - the exercise of doing it upfront demands courage and permission, or allowance. You may not know where you are going yet but you have to deal with it and to put it out. This process is what will help you and your team to understand that it is okay say upfront. As you put it out you are then granting permission to change too and you are going to - over time - to get you know and you and your team will get better in abstracting and conceptualizing after prior upfront developments happened. This is the opposite of making yourself and your team comfortable with surprises and arbitrary movements. 
 
@@ -475,15 +473,7 @@ As you will see in the next section, these tops-down formalities will help with 
 
 
 
-Now, if that role of the doer is alive and if OKR something to say about that is it so as a consequence of the very real frame of work that brought OKR. From the perspective of evangelism, John Doerr popularized it at Google and through the *Measure What Matters* but of course by checking its own usage and from its past experience by Andy Grove as he worked at Intel and learned about management by objectives directly from Andy. In addition, Andy has credited that he improved his views of management by objectives from Peter Drucker.
-
-> *""* Andy Grove (Andy on Peter, from High Output Management)
-
-All that to give us a view that OKR has strong points because of the interest if we want to make it real and strong and meaningful and if we are interested in improving it from the actual experience of doing it; and recognizing the changes that happens. Therefore, it is not unwise to consider that the willingness for one to contribute, in an organization, has ties with the effort to manage oneself. It's everywhere how OKR carries the viewpoint of the doer: 
-
-> *"Leaders must get across the *why* as much as the *what*. Their people need more than milestones for motivation. They are thirsting for meaning, to understand how their goals relate to the mission."* (Doerr, J., 2018, p. 50)
-
-Now if people to join projects, with causes and goals, they do because they know their strenghts can be used for the situation that needs to be changed. This is the premise necessary such as when one accepts to join the boat and even if they don't know, still it is by knowing what is ahead that they organize themselves to learn. You as a leader holds the position of responsibility where you have to be clear to start first pulling out from your head. This is what your team is dying to know [^foonote_michaeldearing_clarityteam] and this is a great first show of respect for your team - even if you have a too bold strong vision this is how any professional conversation starts. 
+Now if people to join projects, with causes and goals, they do because they know their strenghts can be used for the situation that needs to be changed. This is the premise necessary such as when one accepts to join the boat and even if they don't know, still it is by knowing what is ahead that they organize themselves to learn. Therefore, from the perspective of the doers, it is expected of a leadership role (be that promoted by a person or anything written down) to develop from its position of responsibility something clear so that contributors may find their way. This is a premise so that the team feel energetic to engage - it is what the team is dying to know [^foonote_michaeldearing_clarityteam] and is also the proof of respect that is demanded for your team - even if you have a too bold strong vision this is how any professional conversation starts. 
 
 <!-- 
 @meta @todo 
@@ -494,12 +484,16 @@ Now if people to join projects, with causes and goals, they do because they know
 [^foonote_michaeldearing_clarityteam]: Michael Dearing enphasizes in 'Self Study GM2: Setting Objectives & Measuring Performance.' that *"Your team craves clarity on what's in your head. They're dying to know how what they do connects to a larger purpose. And typically you are the person who can explain that connection to them."* Source: Dearing, M. (n.d.). Self Study GM2: Setting Objectives & Measuring Performance. Harrison Metal. Retrieved January 18, 2024, from https://www.harrisonmetal.com/classes/gm2-setting-goals-measuring-performance/lessons/magic-of-okrs.
 
 
+That set us to understand the OKR principles that asks for tops-down planning that is real and strong and meaningful which is the necessary thing to enable the experience of working on it; and the prelude to any possible changes to happen - expected by outcomes set or unexpected. Therefore, it is not unwise to consider that the willingness for one to contribute, in an organization, has ties with the effort to manage oneself. It's everywhere how OKR carries the viewpoint of the doer: 
+
+> *"Leaders must get across the *why* as much as the *what*. Their people need more than milestones for motivation. They are thirsting for meaning, to understand how their goals relate to the mission."* (Doerr, J., 2018, p. 50)
+
 
 
 
 <!-- 
 @meta @todo 
-* @todo - p2 ( ) - In Not So Radical Focus - * Personal, "what should my contribution be" vs goals - The point given by Peter is also a point given by Michael Dearing in his private GM2 course - he indicated that the Objective has to be meaningful and consistent with the person's values, principles, and also generates pride when accomplished - 'sense of accomplishment' / ref 8474-6573-7282-8383
+* @todo - p2 (Done) - In Not So Radical Focus - * Personal, "what should my contribution be" vs goals - The point given by Peter is also a point given by Michael Dearing in his private GM2 course - he indicated that the Objective has to be meaningful and consistent with the person's values, principles, and also generates pride when accomplished - 'sense of accomplishment' / ref 8474-6573-7282-8383
 --> 
 
 
