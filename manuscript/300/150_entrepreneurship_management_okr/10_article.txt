@@ -1065,7 +1065,7 @@ Next, we will get to see the drivers that brings about opinions where this battl
 *   3.2.1 - Answer - a - How we experience - In the battle of Output and Outcomes 
 --> 
 
-### The experience with the outcome vs. output battle 
+### The battle of outcome vs. output
 
 
 
@@ -1175,6 +1175,7 @@ This again aligns with the given "prep work" suggested by Christina, in my rewri
 
 
 
+#### Assessing maturity 
 
 
 
@@ -1185,65 +1186,6 @@ This again aligns with the given "prep work" suggested by Christina, in my rewri
 * @todo - p2 ( ) - In Not so Radical Focus - Review the whole quote of Jonathan from How Fucked Up Is Your Management, p. 170 - @meta-refid 29849-45345-492849-428490
 --> 
 
-
-
-
-
-
-
-
-#### Who is the junior? 
-
-What matters, really, is that you can be just out of the sudden under a need to flip yourself, to embraced a personality, to model it, to consider the maturity level for that task. In other words, no matter how senior you are, you can be a junior at any time depending on your objectives ahead: 
-
-> *"Holding a junior employee accountable for the success of the organization isn’t realistic. Without those strategies, they don’t know how to make success happen. So we substitute in productivity goals, progress goals. Are you writing clean code? Are you collaborating well?"* (Nightingale, 2017)
-
-<!-- 
-@meta @references
-* reference - Nightingale, J. (2017, February 8). Leadership is not about your good intentions: Managing junior vs senior staff, and why you might be an ass. The Co-pour. Retrieved from https://mfbt.ca/leadership-is-not-about-your-good-intentions-5e21666cb01b
---> 
-
-
-
-
-
-#### Introducing variability through and outcome in the face of the low maturity 
-
-
-
-
-An outcome of setting a mature expectation to your now-junior doer is that you generate a potential for the doer to enter in manipulating and a state of anxiety that can even - in an extremme - push them to come up with manipulation - under the strict idea of "this is the way" you bring about rupture to your working team - and moreover misses the point which is using the effort phase to bring about and to discover maturity: 
-
-> *"When you’re new it’s hard to know the difference between a bad idea, a good idea with the wrong team, and a good team with a bad plan. It encourages people to be hair trigger and awful to each other as a way to seem smart. It encourages other people to leave."* (Nightingale, 2017)
-
-<!-- 
-@meta @references
-* reference - Nightingale, J. (2017, February 8). Leadership is not about your good intentions: Managing junior vs senior staff, and why you might be an ass. The Co-pour. Retrieved from https://mfbt.ca/leadership-is-not-about-your-good-intentions-5e21666cb01b
---> 
-
-
-
-
-
-
-
-
-#### Spectrum maturity  
-
-
-
-
-But if all of this sounds simple, it isn't - not because OKR is complex but because, again, the beast within is complex not only due to the human nature where we are all learning but because the whole crew might be onto something that simply no one knows how to solve yet. 
-
-
-[3] An article that helped me to see the two sides of the spectrum was this one from this guy named Josh Seiden - https://medium.com/@jseiden/to-write-better-okrs-use-outcomes-e82be6e7b460 as he included the cartoon image (Resources -> Activities -> Output -> Outcome -> Impact) which he attributes to "The Project Logic Model, adapted from Kellogg Foundation"
-
-So up to here, I had identified the complication in the learning journey of a founder.Moving towards the potential answer, the following author gave us a cartoon to help us understand Output vs. Outcome, although he promotes Outcome-based for OKR:+ Cartoon is [Resouces -> Activites -> Output -> Outcome -> Impact]https://medium.com/@jseiden/to-write-better-okrs-use-outcomes-e82be6e7b460
-
-
-
-
-#### John on Mozilla effort vs. outcome 
 
 
 
@@ -1276,6 +1218,56 @@ I do not know if my awakening has a significant flaw, but something seems linear
 
 
 
+##### Spectrum maturity  
+
+
+
+
+But if all of this sounds simple, it isn't - not because OKR is complex but because, again, the beast within is complex not only due to the human nature where we are all learning but because the whole crew might be onto something that simply no one knows how to solve yet. 
+
+
+[3] An article that helped me to see the two sides of the spectrum was this one from this guy named Josh Seiden - https://medium.com/@jseiden/to-write-better-okrs-use-outcomes-e82be6e7b460 as he included the cartoon image (Resources -> Activities -> Output -> Outcome -> Impact) which he attributes to "The Project Logic Model, adapted from Kellogg Foundation"
+
+So up to here, I had identified the complication in the learning journey of a founder.Moving towards the potential answer, the following author gave us a cartoon to help us understand Output vs. Outcome, although he promotes Outcome-based for OKR:+ Cartoon is [Resouces -> Activites -> Output -> Outcome -> Impact]https://medium.com/@jseiden/to-write-better-okrs-use-outcomes-e82be6e7b460
+
+
+
+
+
+
+##### Who is the junior? 
+
+
+
+
+What matters, really, is that you can be just out of the sudden under a need to flip yourself, to embraced a personality, to model it, to consider the maturity level for that task. In other words, no matter how senior you are, you can be a junior at any time depending on your objectives ahead: 
+
+> *"Holding a junior employee accountable for the success of the organization isn’t realistic. Without those strategies, they don’t know how to make success happen. So we substitute in productivity goals, progress goals. Are you writing clean code? Are you collaborating well?"* (Nightingale, 2017)
+
+<!-- 
+@meta @references
+* reference - Nightingale, J. (2017, February 8). Leadership is not about your good intentions: Managing junior vs senior staff, and why you might be an ass. The Co-pour. Retrieved from https://mfbt.ca/leadership-is-not-about-your-good-intentions-5e21666cb01b
+--> 
+
+
+
+
+##### Introducing variability through and outcome in the face of the low maturity 
+
+
+
+
+An outcome of setting a mature expectation to your now-junior doer is that you generate a potential for the doer to enter in manipulating and a state of anxiety that can even - in an extremme - push them to come up with manipulation - under the strict idea of "this is the way" you bring about rupture to your working team - and moreover misses the point which is using the effort phase to bring about and to discover maturity: 
+
+> *"When you’re new it’s hard to know the difference between a bad idea, a good idea with the wrong team, and a good team with a bad plan. It encourages people to be hair trigger and awful to each other as a way to seem smart. It encourages other people to leave."* (Nightingale, 2017)
+
+<!-- 
+@meta @references
+* reference - Nightingale, J. (2017, February 8). Leadership is not about your good intentions: Managing junior vs senior staff, and why you might be an ass. The Co-pour. Retrieved from https://mfbt.ca/leadership-is-not-about-your-good-intentions-5e21666cb01b
+--> 
+
+
+
 
 
 
@@ -1289,7 +1281,7 @@ I do not know if my awakening has a significant flaw, but something seems linear
 
 
 
-#### Trap of interference of numbers 
+##### Trap of interference of numbers 
 
 
 
@@ -1305,7 +1297,7 @@ Jason went on and added that the whole point of Jeff was to make sure that the a
 
 
 
-#### Trap of scoring of heroes 
+##### Trap of scoring of heroes 
 
 
 
@@ -1315,7 +1307,7 @@ The idea of not being so hard is exactly about allowing the doer to fail with th
 
 
 
-#### Trap of not learning 
+#### Meta-management learning 
 
 
 
@@ -1364,7 +1356,7 @@ Therefore, New key results comes as a function of the work of refining the langu
 
 
 
-#### Meta-management learning 
+
 
 
 Now, viewing from that angle might suggest the very idea of the of a more steady pace which is just about going or the good. In other words, the judgement of the effort can only happen after the fact of a clearly stated effort given by the clearly acomplished key results. The opportunity for a good refining starts with, first, the observationof that has happened, and from that it follows a reflection of what is going on - such as through interactions of the team talking about it - which takes them to come up with with new ideas and concepts which likely forms the new cycle [^footnote_kolb_learning].
