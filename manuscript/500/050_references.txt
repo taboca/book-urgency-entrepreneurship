@@ -482,6 +482,15 @@ Doerr, J., Panchadsaram, R., & Shufro, L. (2024). OKR Certification: Leadership 
 
 Panchadsaram, R. [What Matters]. (2020, September 8). OKRs 101 - Lesson 3.2: Inputs, Outputs and Outcomes - Learn how to set and achieve audacious goals [Video]. YouTube. https://www.youtube.com/watch?v=Y6YuldODk3E
 
+
+<!-- 
+@meta @from
+* 300/150_entrepreneurship_is_management.txt
+--> 
+
+Seiden, J. (2019, July 16). To write better OKRs, use outcomes. Medium. Retrieved from https://medium.com/@jseiden/to-write-better-okrs-use-outcomes-e82be6e7b460
+
+
 <!-- 
 @meta @from
 * 300/150_entrepreneurship_is_management.txt

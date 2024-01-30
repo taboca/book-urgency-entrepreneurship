@@ -1024,6 +1024,11 @@ If I carry on the blame for the fictional action scene, on the other hand the au
 
 This is a complication in the founders's way is not disconnected from what we have discussed in the chapter entitled *Lean attention deficit*. It happens to them frameworks or methods or tools; and Christina's point of "the drift" goes straight to what I think is a phenomenon. To know that the drift is happening in the workplace and that it can happen is good - it helps us how to set ourselves in the conversation, to pick the right spot to watch and reflect. 
 
+<!-- 
+@meta @todo 
+* @todo - p2 ( ) - In Not So Radical Focus - Consider to bring the quote from Seid "OKR, which stands for Objectives and Key Results, have become a popular planning tool for organizations. And, like any tool that becomes popular, it can be used well, or it can be used poorly." into the point above from Christina about the drift. @meta-refid 4284982-42948-29849-4298492
+--> 
+
 <!--
 @meta @cross
 * cross - "Lean attention deficit" - Chapter "Lean attention deficit" referred from "Not so radical focus" - refid 494329084902384903284908234908
@@ -1087,15 +1092,11 @@ To be fair with Christina, notice that the context may matter. In the above view
 * reference - Wodtke, C. (2022, February 4). Are You Sure You Want to Use OKRs? Retrieved from https://cwodtke.medium.com/you-cant-handle-okrs-5465cf161e81
 -->
 
+But in the context of our startup where the structure is not crisp and clear, let us allow this reflection to move on so that we can explore the ideas to save us from drifting from purpose. Let us first, lock our team in the general situation of a not so crisp strategy where they were not feeling safe, the team is not multidisciplinary, and were we might be the bad managers such as seeking efficiency and not effectiveness. 
 
+If we consider that they where lost with the translation of outcomes and alarmly warned of the dangers and called them to move towards "outcome, not outputs," they could then perhaps put in practice the poor version in the other side of the spectrum - to be lost with outcomes. 
 
-
-
-#### The lagging possibility  
-
-Notice that a poor implementation of a key result could happen both ways with output-based key results or with outcome-based key results. Under the possiblity of the extremme cenario of towards the activity, Christina had expressed her call to make the point that the key results had to be "outcome, not outputs." That because she feared that the product of a work effort could not help with the outcome expected by the objectives. 
-
-On the other side of the spectrum, the too eager drive to set numbers - even the ones associated with outcomes - in the key results could actually result in making the team to engage in various efforts, such as to be creative within the box, which could them set them to run outside the radar of OKR, therefore outside the radar of learning - which goes inline with the consideration from What Matters professors [^footnote_coursera] that *"in reality, revenue rarely makes a good KR because it's often the outcome of many different actions over the course of the cycle." They go on to explore the lagging situation by the possibility that *"by the time the revenue has come in, it's too late to say if the actions leading to the revenue were working.*" 
+From the ideal OKR point of view - not into the struggle - this situation would be like of a team that has drifted from the OKR radar anyway - that might be now executing in stealth mode under the simple celebration, or consideration, that their execution and movement is not pushing them towards the objective. For them, if they were caught by the What Matters professors [^footnote_coursera] they could get the advice that *"in reality, revenue rarely makes a good KR because it's often the outcome of many different actions over the course of the cycle." They go on and call our attention to the lagging aspect - the possibility that *"by the time the revenue has come in, it's too late to say if the actions leading to the revenue were working.*" 
 
 [^footnote_coursera]: This observation is part of "Refining your KRs" in the course "OKR Certification: Leadership and Goal Setting" by John Doerr, Ryan Panchadsaram, and Lisa Shufro. See Doerr, J., Panchadsaram, R., & Shufro, L. (2024). OKR Certification: Leadership and Goal Setting. Coursera. Retrieved January 29, 2024, from https://www.coursera.org/learn/okr
 
@@ -1104,7 +1105,7 @@ On the other side of the spectrum, the too eager drive to set numbers - even the
 * Reference - Doerr, J., Panchadsaram, R., & Shufro, L. (2024). OKR Certification: Leadership and Goal Setting. Coursera. Retrieved January 29, 2024, from https://www.coursera.org/learn/okr
 --> 
 
-To be clear, these folks - Christina and the folks from What Matters do care about the very same problem that the outcome is anyway the thing we are after - and the whole reason for OKR to exist anyway: 
+To be clear, these folks - Christina and the these other professors care about the same problem - they want that whatever the team is doing that it brings their objective closer: 
 
 > *"Although an output in many cases can serve as measurement, outputs don’t necessarily lead to outcomes. And in the name of productivity, it is quite easy for teams and leaders to lose sight of their overall Objective and instead, shift focus to their outputs. However, outputs must clearly communicate what will change — in other words, they must make a difference."* (Head, Kandice., WhatMatters, 2024)
 
@@ -1113,9 +1114,7 @@ To be clear, these folks - Christina and the folks from What Matters do care abo
 * reference - Head, K. (2024). Output vs. Outcome with OKRs. What Matters. Retrieved January 29, 2024, from https://www.whatmatters.com/faqs/outputs-vs-outcome-okr
 --> 
 
-Thus we can celebrate the nuanced and enlightened reminder from What Matters asking us to keep our heads towards what is the purpose of all of this and not to drift away in any way. 
-
-> *"Outputs are not meaningful independent of describing the outcome. However, good outcome-focused Objectives help teams identify which outputs are most likely to lead to the desired outcomes."* (Head, Kandice., WhatMatters, 2024)
+Thus we can celebrate the nuanced and enlightened reminder from What Matters asking us to keep our heads towards what is the purpose of all of this and not to drift away in alignment with the idea that oOutputs are not meaningful independent of describing the outcome," and along with that that "good outcome-focused objectives help teams identify which outputs are most likely to lead to the desired outcomes." according with Kandice Head (WhatMatters, 2024)
 
 In other words, the team should be responsible to strategically identify at what level should key results capture and even the possibility of mixing them (2020) so it they can see what is really going on and not lead the team into being arbitrary. If an outcome-based key result captures the movement within, then it might be fine. But if an outcome-based key result leads to arbitrariness, the point of OKR is then missed. 
 
@@ -1140,28 +1139,22 @@ In other words, the team should be responsible to strategically identify at what
 *   3.3.1 - Answer - b - Seeking maturity 
 --> 
 
-### Driving towards outcomes  
+### The path towards outcomes  
 
 
 
 
 
+With these OKR considerations, we can celebrate the nuanced view that outputs should be respected because we agreed that the outcome should be linked anyway, that it is the thing we are after and the whole reason for OKR to exist anyway. In other words, the management of the whole business wants the results in the end and the a mature sense of accountability for what matters:  
 
-
-
-
-
-
-
-
-> *"But outcomes still matter. The buck has to stop. I've seen companies that score everyone on effort, but I have never seen great companies that do so. Every company needs a set of folks who do understand the context, who can be held accountable for the right things actually getting done."* (Nightingale, J., 2017, p. 171)
+> *"But outcomes still matter. [...] I've seen companies that score everyone on effort, but I have never seen great companies that do so. Every company needs a set of folks who do understand the context, who can be held accountable for the right things actually getting done."* (Nightingale, J., 2017, p. 171)
 
 <!-- 
 @meta @references
 * Reference - Nightingale, J. (2017). How Fucked Up Is Your Management. Raw Signal Press. 
 -->
 
-The model which we aim, which especially is the case for startups, is that the roles are dynamic. The "mature" corporate situation has the light for the solution. If you are mature enough to do that, it is then that you are positioning and understand that there is a way to actually push the outcome you want:
+This notion set us back to the principles of leadership that we had discussed before where the leadership required a clear view of where we were going but of course all that takes - and also by the means of OKR - exists for the sake of growing the team into understanding the context which would likely align with the "prep work" suggested by Christina (Wodtke, 2022), the "crisp strategy, multidisciplinary team, bad managers fired, agile and lean happening in good share, effectiveness happening over efficiency." 
 
 > *"Every company needs a set of folks who do understand the context. Who can be held accountable for the right things actually getting done. That’s what executives are for. You are the people who turn strategy into execution. It’s a hard job. It’s why you get a fancy title and a high salary and a team of people. You need to prioritize, spot problems early, adapt and adjust. You need to empower your teams to be creative, but never step so far away that you lose the thread of how they’ll get it done. "* (Nightingale, 2017)
 
@@ -1170,14 +1163,11 @@ The model which we aim, which especially is the case for startups, is that the r
 * reference - Nightingale, J. (2017, February 8). Leadership is not about your good intentions: Managing junior vs senior staff, and why you might be an ass. The Co-pour. Retrieved from https://mfbt.ca/leadership-is-not-about-your-good-intentions-5e21666cb01b
 --> 
 
-This again aligns with the given "prep work" suggested by Christina, in my rewriting, the "crisp strategy, multidisciplinary team, bad managers fired, agile and lean happening in good share, effectiveness happening over efficiency." (Wodtke, 2022) 
-
-
 
 
 #### Assessing maturity 
 
-
+Now the move with our good intentions of progressing with goals - such as by using OKR to learn - we are likely to access a wider view of maturity where our understanding of the business improves: 
 
 > *"As you get more seasoned, your strategy is biased toward social and business problems instead of cognitive ones. You learn how to run a meeting and how to pre-flight the important decisions before that meeting even starts. . . "* (Nightingale, J., 2017, p.170)
 
@@ -1186,11 +1176,9 @@ This again aligns with the given "prep work" suggested by Christina, in my rewri
 * @todo - p2 ( ) - In Not so Radical Focus - Review the whole quote of Jonathan from How Fucked Up Is Your Management, p. 170 - @meta-refid 29849-45345-492849-428490
 --> 
 
+In essense, from the point of view of the whole organization if it were one unique body, a wiser context is expected to be developed over time through the managerial work of reconcilliation between the higher-order goals - up to the mission and vision - and the bottoms-up work that generates new decisions and actions that Andy Grove wished for us to get involved it. 
 
-
-
-
-That shows a complex approach that some of the Mozilla managers had for measuring folks, where "junior people can be measured by effort" while "the outcome can measure senior people."The framing of this last article helped me see correlations with:+ junior/senior+ unknown/known+ divergence/convergence+ aspirational/commitment+ effort/outcomeAnd that helped me to see better that the adjustment of the needle (from action, to output, to outcome) could be done depending on the context of the objective.Therefore, if you don't know much about what you are doing, you can measure by effort and revisit faster (100 times). If you are confident, the measure could be oriented towards an outcome.That could also explain why composed OKR (team level) could be more oriented to outcomes and why an individual could be more oriented to effort. Not sure.
+But if that is the goal - or the necessary outcome of management to bring about the team's goals - it is still the case that at any given point in time anyone involved may more or less understand the pre-flight aspects of what matters. By considering that there are roles that gets more the context and others that gets less, existing people in the position of managers do celebrate their innevitable - if not a comfortable position - to consider that "junior people can be measured by effort" while "the outcome can measure senior people."
 
 [4] Until today. When I was following the articles in order, you had your "/5" article referring to the "/29" article (Leadership is not about your good intentions / https://mfbt.ca/leadership-is-not-about-your-good-intentions-5e21666cb01b ) which has provoked my mind as I reached the following diagram:
 
@@ -1203,27 +1191,38 @@ That shows a complex approach that some of the Mozilla managers had for measurin
 * "Junior people we evaluate on effort."
 * "Senior people we evaluate on outcomes."
 
-The above blew my mind, my friends. A neuron in a galaxy far away was able to say hi to another neuron in another faraway galaxy.
-
-But it wasn't only that, you kept, in this article, provoking my mind with things such as "who is junior" or "what means junior" or "why?"
-
-Having had a light, I am here pondering one thing as I try to go back to Output vs. Outcome in the context of OKR. Besides the excellent spectrum provided by [3] Seid, this potential addition has to do with the visualization that effort might go along with design/divergent thinking on the one hand. In contrast, the outcome might go along with design/convergent.
-
-* As in - diverge vs. converge
-* As in - discover vs. execute
-* As in - aspirational vs. commitment
-
-I do not know if my awakening has a significant flaw, but something seems linear here or structured about the problem.
 
 
+But if we move away ourselves from thinking of the people living a static situation of a known context where a boss knows the context and a subordinate that does not now yet, we will then abstract that there are situations people may or may know or that one would need to exist to know. Or in the ideal terms we could know what impact means which is a thinking that minimally help us to see the logic of the movement - where the movement wants to go. I am thankful that Josh Seiden [^footnote_seidseiden_projectlogic] brought in he referred as "The Project Logic Model" which helps us to get the context for the purpose of work and how inputs or actions connects with outputs or results: 
+
+* Resources - 
+* Activities -
+* outputs -
+* Outcomes - 
+* Impact -
+
+[^footnote_seidseiden_projectlogic]: In his article, Josh Seiden discusses "The Project Logic Model," adapted from the Kellogg Foundation, highlighting its relevance in aligning organizational objectives and outcomes. Seiden's idea to being the model into the theme help us in understanding the extremes of leadership vision and executional details can provide a cohesive view of organizational maturity and goal alignment. 
+
+<!-- 
+@meta @references 
+* reference - Seiden, J. (2019, July 16). To write better OKRs, use outcomes. Medium. Retrieved from https://medium.com/@jseiden/to-write-better-okrs-use-outcomes-e82be6e7b460
+-->
 
 
-##### Spectrum maturity  
 
 
+
+
+
+
+
+But them who would know and judge "who is junior" or "what means junior"?
 
 
 But if all of this sounds simple, it isn't - not because OKR is complex but because, again, the beast within is complex not only due to the human nature where we are all learning but because the whole crew might be onto something that simply no one knows how to solve yet. 
+
+
+
 
 
 [3] An article that helped me to see the two sides of the spectrum was this one from this guy named Josh Seiden - https://medium.com/@jseiden/to-write-better-okrs-use-outcomes-e82be6e7b460 as he included the cartoon image (Resources -> Activities -> Output -> Outcome -> Impact) which he attributes to "The Project Logic Model, adapted from Kellogg Foundation"
