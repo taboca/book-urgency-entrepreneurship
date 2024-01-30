@@ -1006,7 +1006,7 @@ There are situations that teams enter the OKR train as it stops beautifully on t
 
 <!--
 @meta @outline
-* Outline - Answer k3 - Outcome vs. output battle - Intro - connection from pitch to the situation of drift 
+*   3.1.1 - Situation       - The drift  
 --> 
 
 
@@ -1029,9 +1029,14 @@ This is a complication in the founders's way not disconnected from what we have 
 * cross - "Lean attention deficit" - Chapter "Lean attention deficit" referred from "Not so radical focus" - refid 494329084902384903284908234908
 --> 
 
+
+
+
+
+
 <!--
 @meta @outline
-* Outline - Answer k3 - Outcome vs. output battle - Intro - Complication - the battle, or heated, is a conversation going on which confuse us. 
+*   3.1.2 - Complication - the battle, or heated, is a conversation going on which confuse us. 
 --> 
 
 
@@ -1050,9 +1055,12 @@ While a lot from the original readings seemed to make sense, as we have convered
 
 
 
+
+
+
 <!--
 @meta @outline
-* Outline - Answer k3 - Outcome vs. output battle - Intro - Answer - 3 points
+*   3.1.4 - Question/Answer - 
 --> 
 
 
@@ -1067,9 +1075,12 @@ Next, we will get into the origins of such "battle" of outcomes vs. output; but 
 
 
 
+
+
+
 <!--
 @meta @outline
-* Outline - Answer k3 - Outcome vs. output battle - Answer - k3.1 - The battle of outcome vs. output 
+*   3.2.1 - Answer - a - How we experience - In the battle of Output and Outcomes 
 --> 
 
 
@@ -1098,8 +1109,6 @@ To be fair with Christina, notice that the context may matter. In the above view
 @meta @references
 * reference - Wodtke, C. (2022, February 4). Are You Sure You Want to Use OKRs? Retrieved from https://cwodtke.medium.com/you-cant-handle-okrs-5465cf161e81
 -->
-
-
 
 
 
@@ -1166,18 +1175,10 @@ In other words, the team should be responsible to strategically identify at what
 
 <!--
 @meta @outline
-* outline - Answer k3.2 - Outcome vs. output battle - answer - Logic in the management discovery for maturity   
+*   3.3.1 - Answer - b - Seeking maturity 
 --> 
 
-
-
-
-
-
-#### Challenges with variability of maturity  
-
-
-But if all of this sounds simple, it isn't - not because OKR is complex but because, again, the beast within is complex not only due to the human nature where we are all learning but because the whole crew might be onto something that simply no one knows how to solve yet. 
+### Seeking maturity and what matters 
 
 
 
@@ -1185,51 +1186,27 @@ But if all of this sounds simple, it isn't - not because OKR is complex but beca
 
 
 
-[3] An article that helped me to see the two sides of the spectrum was this one from this guy named Josh Seiden - https://medium.com/@jseiden/to-write-better-okrs-use-outcomes-e82be6e7b460 as he included the cartoon image (Resources -> Activities -> Output -> Outcome -> Impact) which he attributes to "The Project Logic Model, adapted from Kellogg Foundation"
 
-So up to here, I had identified the complication in the learning journey of a founder.Moving towards the potential answer, the following author gave us a cartoon to help us understand Output vs. Outcome, although he promotes Outcome-based for OKR:+ Cartoon is [Resouces -> Activites -> Output -> Outcome -> Impact]https://medium.com/@jseiden/to-write-better-okrs-use-outcomes-e82be6e7b460
+> *"But outcomes still matter. The buck has to stop. I've seen companies that score everyone on effort, but I have never seen great companies that do so. Every company needs a set of folks who do understand the context, who can be held accountable for the right things actually getting done."* (Nightingale, J., 2017, p. 171)
 
+<!-- 
+@meta @references
+* Reference - Nightingale, J. (2017). How Fucked Up Is Your Management. Raw Signal Press. 
+-->
 
+The model which we aim, which especially is the case for startups, is that the roles are dynamic. The "mature" corporate situation has the light for the solution. If you are mature enough to do that, it is then that you are positioning and understand that there is a way to actually push the outcome you want:
 
-
-
-
-
-That shows a complex approach that some of the Mozilla managers had for measuring folks, where "junior people can be measured by effort" while "the outcome can measure senior people."The framing of this last article helped me see correlations with:+ junior/senior+ unknown/known+ divergence/convergence+ aspirational/commitment+ effort/outcomeAnd that helped me to see better that the adjustment of the needle (from action, to output, to outcome) could be done depending on the context of the objective.Therefore, if you don't know much about what you are doing, you can measure by effort and revisit faster (100 times). If you are confident, the measure could be oriented towards an outcome.That could also explain why composed OKR (team level) could be more oriented to outcomes and why an individual could be more oriented to effort. Not sure.
-
-[4] Until today. When I was following the articles in order, you had your "/5" article referring to the "/29" article (Leadership is not about your good intentions / https://mfbt.ca/leadership-is-not-about-your-good-intentions-5e21666cb01b ) which has provoked my mind as I reached the following diagram:
+> *"Every company needs a set of folks who do understand the context. Who can be held accountable for the right things actually getting done. That’s what executives are for. You are the people who turn strategy into execution. It’s a hard job. It’s why you get a fancy title and a high salary and a team of people. You need to prioritize, spot problems early, adapt and adjust. You need to empower your teams to be creative, but never step so far away that you lose the thread of how they’ll get it done. "* (Nightingale, 2017)
 
 <!-- 
 @meta @references
 * reference - Nightingale, J. (2017, February 8). Leadership is not about your good intentions: Managing junior vs senior staff, and why you might be an ass. The Co-pour. Retrieved from https://mfbt.ca/leadership-is-not-about-your-good-intentions-5e21666cb01b
 --> 
 
+This again aligns with the given "prep work" suggested by Christina, in my rewriting, the "crisp strategy, multidisciplinary team, bad managers fired, agile and lean happening in good share, effectiveness happening over efficiency." (Wodtke, 2022) 
 
 
 
-
-
-* "Junior people we evaluate on effort."
-* "Senior people we evaluate on outcomes."
-
-The above blew my mind, my friends. A neuron in a galaxy far away was able to say hi to another neuron in another faraway galaxy.
-
-But it wasn't only that, you kept, in this article, provoking my mind with things such as "who is junior" or "what means junior" or "why?"
-
-Having had a light, I am here pondering one thing as I try to go back to Output vs. Outcome in the context of OKR. Besides the excellent spectrum provided by [3] Seid, this potential addition has to do with the visualization that effort might go along with design/divergent thinking on the one hand. In contrast, the outcome might go along with design/convergent.
-
-* As in - diverge vs. converge
-* As in - discover vs. execute
-* As in - aspirational vs. commitment
-
-I do not know if my awakening has a significant flaw, but something seems linear here or structured about the problem.
-
-
-
-
-
-
-#### Driving towards seasoned 
 
 
 > *"As you get more seasoned, your strategy is biased toward social and business problems instead of cognitive ones. You learn how to run a meeting and how to pre-flight the important decisions before that meeting even starts. . . "* (Nightingale, J., 2017, p.170)
@@ -1238,6 +1215,18 @@ I do not know if my awakening has a significant flaw, but something seems linear
 @meta @todo 
 * @todo - p2 ( ) - In Not so Radical Focus - Review the whole quote of Jonathan from How Fucked Up Is Your Management, p. 170 - @meta-refid 29849-45345-492849-428490
 --> 
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1282,51 +1271,55 @@ An outcome of setting a mature expectation to your now-junior doer is that you g
 
 
 
+#### Spectrum maturity  
 
 
+But if all of this sounds simple, it isn't - not because OKR is complex but because, again, the beast within is complex not only due to the human nature where we are all learning but because the whole crew might be onto something that simply no one knows how to solve yet. 
 
 
+[3] An article that helped me to see the two sides of the spectrum was this one from this guy named Josh Seiden - https://medium.com/@jseiden/to-write-better-okrs-use-outcomes-e82be6e7b460 as he included the cartoon image (Resources -> Activities -> Output -> Outcome -> Impact) which he attributes to "The Project Logic Model, adapted from Kellogg Foundation"
+
+So up to here, I had identified the complication in the learning journey of a founder.Moving towards the potential answer, the following author gave us a cartoon to help us understand Output vs. Outcome, although he promotes Outcome-based for OKR:+ Cartoon is [Resouces -> Activites -> Output -> Outcome -> Impact]https://medium.com/@jseiden/to-write-better-okrs-use-outcomes-e82be6e7b460
 
 
-<!--
-@meta @outline
-* outline - Answer k3.3 - Reconcilliation with what matters
---> 
+That shows a complex approach that some of the Mozilla managers had for measuring folks, where "junior people can be measured by effort" while "the outcome can measure senior people."The framing of this last article helped me see correlations with:+ junior/senior+ unknown/known+ divergence/convergence+ aspirational/commitment+ effort/outcomeAnd that helped me to see better that the adjustment of the needle (from action, to output, to outcome) could be done depending on the context of the objective.Therefore, if you don't know much about what you are doing, you can measure by effort and revisit faster (100 times). If you are confident, the measure could be oriented towards an outcome.That could also explain why composed OKR (team level) could be more oriented to outcomes and why an individual could be more oriented to effort. Not sure.
 
-### Seeking what matters moves towards higher maturity 
-
-
-
-
-
-
-<!--
-@meta @outline
-* outline - Answer k3.3.1 - Reconcilliation with what matters - outcomes is growth, ahead
---> 
-
-
-
-
-
-
-> *"But outcomes still matter. The buck has to stop. I've seen companies that score everyone on effort, but I have never seen great companies that do so. Every company needs a set of folks who do understand the context, who can be held accountable for the right things actually getting done."* (Nightingale, J., 2017, p. 171)
-
-<!-- 
-@meta @references
-* Reference - Nightingale, J. (2017). How Fucked Up Is Your Management. Raw Signal Press. 
--->
-
-The model which we aim, which especially is the case for startups, is that the roles are dynamic. The "mature" corporate situation has the light for the solution. If you are mature enough to do that, it is then that you are positioning and understand that there is a way to actually push the outcome you want:
-
-> *"Every company needs a set of folks who do understand the context. Who can be held accountable for the right things actually getting done. That’s what executives are for. You are the people who turn strategy into execution. It’s a hard job. It’s why you get a fancy title and a high salary and a team of people. You need to prioritize, spot problems early, adapt and adjust. You need to empower your teams to be creative, but never step so far away that you lose the thread of how they’ll get it done. "* (Nightingale, 2017)
+[4] Until today. When I was following the articles in order, you had your "/5" article referring to the "/29" article (Leadership is not about your good intentions / https://mfbt.ca/leadership-is-not-about-your-good-intentions-5e21666cb01b ) which has provoked my mind as I reached the following diagram:
 
 <!-- 
 @meta @references
 * reference - Nightingale, J. (2017, February 8). Leadership is not about your good intentions: Managing junior vs senior staff, and why you might be an ass. The Co-pour. Retrieved from https://mfbt.ca/leadership-is-not-about-your-good-intentions-5e21666cb01b
 --> 
 
-This again aligns with the given "prep work" suggested by Christina, in my rewriting, the "crisp strategy, multidisciplinary team, bad managers fired, agile and lean happening in good share, effectiveness happening over efficiency." (Wodtke, 2022) 
+
+
+* "Junior people we evaluate on effort."
+* "Senior people we evaluate on outcomes."
+
+The above blew my mind, my friends. A neuron in a galaxy far away was able to say hi to another neuron in another faraway galaxy.
+
+But it wasn't only that, you kept, in this article, provoking my mind with things such as "who is junior" or "what means junior" or "why?"
+
+Having had a light, I am here pondering one thing as I try to go back to Output vs. Outcome in the context of OKR. Besides the excellent spectrum provided by [3] Seid, this potential addition has to do with the visualization that effort might go along with design/divergent thinking on the one hand. In contrast, the outcome might go along with design/convergent.
+
+* As in - diverge vs. converge
+* As in - discover vs. execute
+* As in - aspirational vs. commitment
+
+I do not know if my awakening has a significant flaw, but something seems linear here or structured about the problem.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1335,7 +1328,7 @@ This again aligns with the given "prep work" suggested by Christina, in my rewri
 
 <!--
 @meta @outline
-* outline - Answer k3.3.2 - Reconcilliation with what matters - interference happens  
+*   3.3.4 - Answer - b -    Experiencing traps 
 --> 
 
 
@@ -1343,7 +1336,10 @@ This again aligns with the given "prep work" suggested by Christina, in my rewri
 
 
 
-#### But seeking the holy grail may bring about the interference of numbers 
+#### Trap of interference of numbers 
+
+
+
 
 We all know what we are after, it might even become a sacred as we get into the natural business of organizing ourselves, or to mobilize efforts and even rituals, when we are after that: The Holy Grail is an outcome in the end. That need is in all of us and it is the very reason that on many circumstances we will find our ways to cross that bridge since we shall not be afraid to answer any question if a gatekeeper requests it in the first place.
 
@@ -1354,7 +1350,11 @@ The possibility for dealing with those legitimate moments of struggle - where li
 Jason went on and added that the whole point of Jeff was to make sure that the analytics were not lying because, "you can lie with numbers very easily. You know, is a subscriber a customer? Is it including reactivation? Is it including, .. you know, there are so many ways you can make it say what you want it to say." Jason Child (Greylock, 2017, 14:37)
 
 
-#### Scoring of heroes 
+
+
+#### Trap of scoring  of heroes 
+
+
 
 The idea of not being so hard is exactly about allowing the doer to fail with the key results and reevaluate which key results bring the doer "back into" the promising direction. Now for thre sake of solving the complex question - should I go with outcome or output - and given the point given, we may use, for the sake of the reflection, the advice from the professor of the MWM Course: 
 
@@ -1362,28 +1362,7 @@ The idea of not being so hard is exactly about allowing the doer to fail with th
 
 
 
-
-
-
-
-
-
-
-
-<!--
-@meta @outline
-* outline - Answer k3.3.3 - Reconcilliation with what matters - output, business as usual and transcendence 
---> 
-
-#### Watch out for disconnecting from the purpose of a work that yields learning 
-
-
-
-
-<!--
-@meta @outline
-* outline - Answer k3.3.3.1 - Preserving function of learning through output 
---> 
+#### Trap of not learning 
 
 
 
@@ -1434,13 +1413,6 @@ Therefore, New key results comes as a function of the work of refining the langu
 
 
 
-<!--
-@meta @outline
-* outline - Answer k3.3.3.1.1 - Kolb model preserved abstraction 
---> 
-
-
-
 
 Now, viewing from that angle might suggest the very idea of the of a more steady pace which is just about going or the good. In other words, the judgement of the effort can only happen after the fact of a clearly stated effort given by the clearly acomplished key results. The opportunity for a good refining starts with, first, the observationof that has happened, and from that it follows a reflection of what is going on - such as through interactions of the team talking about it - which takes them to come up with with new ideas and concepts which likely forms the new cycle [^footnote_kolb_learning].
 
@@ -1460,12 +1432,15 @@ Now, viewing from that angle might suggest the very idea of the of a more steady
 
 
 
+
+
+
 <!--
 @meta @outline
 * outline - Answer k3.3.3.2 - Transcending key results outside the time range 
 --> 
 
-### Consider when transcending is important 
+### Transcending 
 
 
 
@@ -1495,7 +1470,31 @@ The managerial response from him came about as a letter where he had outlined fi
 * How do you know how things are going along the way?
 * How do you do all this with respect for others?
 
-And as a manager he started to monitor these aspects by scoring: 
+As a manager, if he started to wonder these new aspects and got involved with scoring them, in a way it's not much different from establishing questions connecting with key results, however, these may be the general intention to solve the objective, and it transcends, this in a way, it's like accessing another higher order objective and transcending from the key results, and get involved with measuring other metrics that may access the underlying foundation or an investment that is necessary to bring about the specific objective, get back on track.
+
+<!-- 
+@meta @todo 
+* @todo - ( ) p2 - Check with Michael of McCallum's letter if the scorecard was an addition of Michael or a creation of McCallum himself. @meta-refid 428492849-4204204-4828492-48028492
+
+```
+Hi Michael or team,
+
+Regarding the following note, I wonder if the actual scoring next to McCallum's questions was an addition that you did yourself or if McCallum actually end up scoring himsel across team clusters: 
+
+> *"McCallum also accidentally gave us a beautiful scorecard for modern general managers. Take a look at the picture above. I put McCallum’s Five Challenges down one column. Group works together on common goals, people have the right amount of responsibility, team gets the job done, general manager knows how things are going along the way and people feel respected. In that second column, write a score for your own team."* (Dearing, 2019)
+
+Dearing, M. (2019, July 2). Thank you, Daniel McCallum. Retrieved from https://medium.com/@mcgd/thank-you-daniel-mccallum-133d27e98468
+
+I ask because I am trying to bring this challenge of McCallum within the context of a chapter of my book, the chapter specific about management based on goals, and where I bring a sub-section related to transcendence or creative destruction of KRs. In other words, I want to make sure to be more accurate. 
+
+Appreciate if you have a bit of time to give me that input. 
+
+Sincerely, 
+
+Marcio 
+```
+--> 
+
 
 > *"McCallum also accidentally gave us a beautiful scorecard for modern general managers. Take a look at the picture above. I put McCallum’s Five Challenges down one column. Group works together on common goals, people have the right amount of responsibility, team gets the job done, general manager knows how things are going along the way and people feel respected. In that second column, write a score for your own team."* (Dearing, 2019)
 
@@ -1503,6 +1502,13 @@ And as a manager he started to monitor these aspects by scoring:
 @meta @references
 Dearing, M. (2019, July 2). Thank you, Daniel McCallum. Retrieved from https://medium.com/@mcgd/thank-you-daniel-mccallum-133d27e98468
 --> 
+
+
+
+With that, I don't think that the situation that McCallum brought himself into is disconnected from what Andy Grove as said in High Output Management brought under the theme of *pairing indicators* when he asked us to think about ways to measure "effect and counter-effect". Essentially, the manager that is concerned with the insolvency for the given path has to get involved with considerations to achieve the objective, or the higher-order objective, approaching the problem from other angles - not to say other dimensions. Essentially one might be escaping the situation for a good cause - such as to escape towards values of a higher-order, which involves the surrender of certain rules for how things are being done as assumed. 
+
+
+
 
 For me, the situation of McCallum as illustrated by Michael Dearing, helped me to think of the many situations when we think that we know how to get things done but in the end we might be into a situation that we will need new management and models; to break many of our assumptions. The situation of McCallum - of having no management books - is not different from the modern situation when the management playbooks as seen just don't work anymore: 
 
