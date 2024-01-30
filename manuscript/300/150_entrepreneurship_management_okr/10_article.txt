@@ -266,7 +266,11 @@ Following up with the perspective of not reinventing the wheel and growing from 
 
 #### Historical perspective - from management of time to the management of people
 
-What appears from the historical perspective, the flight from above, is that the science of goal management is evolving to reduce that *fight from above*. What I mean is that management is adapting goal management, or stretching it, to enable more collaboration and by that more doers to become real constributors and so that they can achieve goals - especially that aspiring and ambitious goals are more frequent as opposed to the expected commitments where humans are expected to act as robots. The following passage from Stephen Covey, from *7 Habits of Highly Effective People*, we are moving from time management towards the managent of ourselves: 
+What appears from the historical perspective, the flight from above, is that the science of goal management is evolving to reduce that "fight" from above. What I mean is that management is adapting goal management, or stretching it, to enable collaboration and by that our doers to become real constributors so to really make great goals possible. Andy Grove's observation given in 1983 give us confirmation that the world we came from isn't far: 
+
+> *"At the turn of the century, ideas about work were simple. People were told what to do, and if they did it, they were paid; if they did not, they were fired. The corresponding leadership style was crisp and hierarchical. There were those who gave orders and those who took orders and executed them without question."*  (Grove, A., 2015, pp. 172)
+
+In other words managing seems to be catching up. The following passage from Stephen Covey, from *7 Habits of Highly Effective People*, we are moving from time management towards the managent of ourselves: 
 
 > *"In the area of time management, each generation builds on the one before it - each one moves us toward greater control of our lives. The first wave or generation could be characterized by notes and checklists, an effort to give some semblance of recognition and inclusiveness to the many demands placed on our time and energy.
 > The second generation could be characterized by calendars and appointment books. This wave reflects an attempt to look ahead, to schedule events and activities in the future.
@@ -274,7 +278,7 @@ What appears from the historical perspective, the flight from above, is that the
 > While the third generation has made a significant contribution, people have begun to realize that "efficient" scheduling and control of time are often counterproductive. The efficiency focus creates expectations that clash with the opportunities to develop rich relationships, to meet human needs and to enjoy spontaneous moments on a daily basis."* 
 > (Covey, Stephen., 1989, p.149-150)
 
-He concludes, since we moved on from that *time management* to the management of ourselves, that we shifted from expecting tasks to be done - the *things* in *time*. And, as the fourth generation, we started an interest in accomplishing results and building relationships.  
+He concludes that we re moving from *time management* to the management of ourselves, that we shifted from expecting tasks to be done - the *things* in *time* - to embracing the fourth generation where we are interested in accomplishing results and building relationships.  
 
 <!--
 @meta @todo 
@@ -1212,29 +1216,7 @@ But if we move away ourselves from thinking of the people living a static situat
 
 
 
-
-
-
-
-But them who would know and judge "who is junior" or "what means junior"?
-
-
-But if all of this sounds simple, it isn't - not because OKR is complex but because, again, the beast within is complex not only due to the human nature where we are all learning but because the whole crew might be onto something that simply no one knows how to solve yet. 
-
-
-
-
-
-[3] An article that helped me to see the two sides of the spectrum was this one from this guy named Josh Seiden - https://medium.com/@jseiden/to-write-better-okrs-use-outcomes-e82be6e7b460 as he included the cartoon image (Resources -> Activities -> Output -> Outcome -> Impact) which he attributes to "The Project Logic Model, adapted from Kellogg Foundation"
-
-So up to here, I had identified the complication in the learning journey of a founder.Moving towards the potential answer, the following author gave us a cartoon to help us understand Output vs. Outcome, although he promotes Outcome-based for OKR:+ Cartoon is [Resouces -> Activites -> Output -> Outcome -> Impact]https://medium.com/@jseiden/to-write-better-okrs-use-outcomes-e82be6e7b460
-
-
-
-
-
-
-##### Who is the junior? 
+##### Who is senior or junior now?
 
 
 
@@ -1460,5 +1442,5 @@ For me, the situation of McCallum as illustrated by Michael Dearing, helped me t
 
 So it is inescabable that there are situations where the certainty for how to do things leads to insolvency which is the impossibility for the milestones to happen as the team advances. This situation happens with a great deal of connection with the matter, the challenge, the subject, the theme, or the domain of the problem - callinng whatever you want and asks for the re-evaluation and even in a way the creative destruction of the means of management that had defined the expected key results in the first place as the way to do things are not applicable anymore.  
 
-Another way to look at this situation is to consider the other side of this coin where teams have things to do and the objective as stated by their mission it too ambitious and can't be done in linear (or commited) ways. Imagine that their OKR shows an ambitous goal with the probability of achieving as 60%. It is not uncommon for teams to get away and even to come up with something totally new, to come up with new systems or ideas such as they saw something new, in ways that they not only hit their objectives but break the linear expected logic for getting things done which they thought to be the case. Now, it is not alarming that we generally do not worry about this situation - such as involved in a post-mortem for their now-outdated management approach  - as the team gets quite excited by celebrating and busy by taking advantage from their new approach. But it still concerning anyway from a managerial situation that many teams just move on with an approach for getting things done that seems to be like gambling. 
+Another way to look at this situation is to consider the other side of a coin where teams have things to do and the objective as stated by their mission it too ambitious and can't be done in linear (or commited) ways. Imagine that their OKR shows an ambitous goal with the probability of achieving as 60%. It is not uncommon for teams to get away and even to come up with something totally new, to come up with new systems or ideas such as they saw something new, in ways that they not only hit their objectives but break the linear expected logic for getting things done which they thought to be the case. Now, it is not alarming that we generally do not worry about this situation - such as involved in a post-mortem for their now-outdated management approach  - as the team gets quite excited by celebrating and busy by taking advantage from their new approach. But it still concerning anyway from a managerial situation that many teams just move on with an approach for getting things done that seems to be like gambling. 
 
