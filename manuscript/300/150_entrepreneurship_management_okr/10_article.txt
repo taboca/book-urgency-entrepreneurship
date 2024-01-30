@@ -1011,9 +1011,9 @@ There are situations that teams enter the OKR train as it stops beautifully on t
 
 
 
-But if any of this sounds unrealistic in our work lives - or to a business book - the sad truth is that there is no alarm or crises or big crashes or fanfares. We generally can't even read what goes on withthe crew and get to become passangers of a fast-moving train and by that just working, and in many situations not noticing that we are drifting and losing purpose. Of course, until some crisis happens and will one day although it may be difficult to connect the dots. 
+All right, I accept; that much of this may not be good for the daily scenes we live - or even to a business book. The truth, which might even be worse, is that we have no alarms, or crisis. We have no big crashes or a fanfare. We generally - as passengers in the train of work - we can't even get really what are the real fears and concerns of the crew. In our fast-moving train where everything seems to be working but aren't really, what we have is more like a drifting, a drift from our purpose. 
 
-The way that Christina Wodtke puts the problem - from her article entitled *"Are You Sure You Want to Use OKRs?"* - can lift our spirits from the apparently safe seats we are and bring our focus to the purpose of the trips we do: 
+If I carry on the blame for the fictional action scene, on the other hand the author and professor Christina Wodtke - through her article *"Are You Sure You Want to Use OKRs?"* - can lift our spirits from our comfortable seat of work to the serious situation of the drift: 
 
 > *"There is a concept I call drift. Drift means that a process has drifted away from the original framing. It happened to Agile. What started as a simple idea that people should work collaboratively and iteratively became people policing each other on the True Agile Way: “this is how to write a user story” and “Stand up can’t be more than 15 minutes long.”"* (Wodtke, 2022)
 
@@ -1022,38 +1022,21 @@ The way that Christina Wodtke puts the problem - from her article entitled *"Are
 * reference - Wodtke, C. (2022, February 4). Are You Sure You Want to Use OKRs? Retrieved from https://cwodtke.medium.com/you-cant-handle-okrs-5465cf161e81
 -->
 
-This is a complication in the founders's way not disconnected from what we have discussed in the chapter entitled *Lean attention deficit*. Call them frameworks or methods or tools, Christina's point of "the drift" goes straight to what I think is a phenomenon. But to be fair, the drift is also part of an ongoing conversation and the actual exploration - or the conversation in time that it needs to happen. Therfore if any real complication is here in front of us it may be so the problem of us not knowing that history is yet happening, that a lot is happening quite fast  and while we are here trying to discuss part of of what we think is a movie, new episodes are happening; by all the heated activities that take place, inside companies and outside of them. 
+This is a complication in the founders's way is not disconnected from what we have discussed in the chapter entitled *Lean attention deficit*. It happens to them frameworks or methods or tools; and Christina's point of "the drift" goes straight to what I think is a phenomenon. To know that the drift is happening in the workplace and that it can happen is good - it helps us how to set ourselves in the conversation, to pick the right spot to watch and reflect. 
 
 <!--
 @meta @cross
 * cross - "Lean attention deficit" - Chapter "Lean attention deficit" referred from "Not so radical focus" - refid 494329084902384903284908234908
 --> 
 
+In this context I have identified - since I struggled with - a source of confusion which made OKR seem complex or difficult and at some point I felt that I was witnessing a battle in the field of key results - the battle between output and outcome. And I think that I were prepared to this one which goes along with the general and properly informed disclaimer from John in Measure What Matters when he did mention that to get OKR right was difficult by referring to cases of companies that took years [^footnote_johndoer_yearsokr] to get it right. 
 
-
-
-
-
-<!--
-@meta @outline
-*   3.1.2 - Complication - the battle, or heated, is a conversation going on which confuse us. 
---> 
-
-
-
-
-
-One case that is source of confusion - not only from the doubts of a first time learner but an actual struggles of getting it right - which makes OKR difficult - is what appeared to me, initially, to be a battle in the field of key results, between Output vs. Outcome. 
-
-Through my learnings I had read that the best companies doing it right seemed to be figuring their right conduction of it, such as for years [^footnote_johndoer_yearsokr]. And indeed that are a lot of aspects that could set a team into that feeling that I said in the beginning - willing to give up - due to the so many abstractions and nuances for trying to tame and to conduct as a framework the thing that has a lot to do with the real temperamental underlying element as I also have said, the humans, and by that the complexities of conducting in the best way. 
+<!-- 
+@meta @todo 
+* @todo - p2 ( ) - In Not so Radical Focus - Check Measure What Matters book for the actual notes on the situation of companies that took years to get it right. @meta-refid 7475-8474-8474-8284
+-->
 
 [^footnote_johndoer_yearsokr]: 
-
-While a lot from the original readings seemed to make sense, as we have convered with the idea of output as the thing we are interested; then the words from the real world of experience in the various kinds of companies seemed to indicate that teams were using it their way. But it was sad anyway to see a battle, and the heated discussion, coming from the fields of the doing, and not in the actual classic materials. 
-
-
-
-
 
 
 
@@ -1066,8 +1049,7 @@ While a lot from the original readings seemed to make sense, as we have convered
 
 
 
-
-Next, we will get into the origins of such "battle" of outcomes vs. output; but with the intention of recognizing that a lot is going on with context and conditions assumed by authors and practitioners and of the startups they are looking it. As we break down some aspects of it we will dive in the essential elements that influences us to have different opinions for how to measure; which shall help us to be in peace and to bring the context back to the essence of measuring, which connects with the need for judgement as Andy had suggested to us. We will finally close with a reflection that considers outcome, output and input as illusions in the hope to set us free from the details and bring our focus back to what matters.  
+Next, we will get to see the drivers that brings about opinions where this battle seemed to be configured but then all of what we will go is to set ourselves back to respect the context, and conditions, assumed by authors and practitioners; and of the startups they are looking it. With that, and as we set ourselves back to the purpose we not only acknowledge that there is no battle and that many of them are mainly worried about situations that can happen in various settings, especially as the startup moves towards growth and seeks maturity or in other words outcomes. To close, we will consider some challenges that transcends OKR and which are natural from the situation where teams are seeking aspiring and ambitious objectives. 
 
 
 
@@ -1083,6 +1065,9 @@ Next, we will get into the origins of such "battle" of outcomes vs. output; but 
 *   3.2.1 - Answer - a - How we experience - In the battle of Output and Outcomes 
 --> 
 
+### The experience with the outcome vs. output battle 
+
+
 
 
 
@@ -1093,14 +1078,6 @@ Next, we will get into the origins of such "battle" of outcomes vs. output; but 
 * reference - Wodtke, C. (2022, February 4). Are You Sure You Want to Use OKRs? Retrieved from https://cwodtke.medium.com/you-cant-handle-okrs-5465cf161e81
 -->
 
-
-
-
-
-
-
-
-
 To be fair with Christina, notice that the context may matter. In the above view, she had assummed what she referred as "prep work" which I would then relaltively agree with the idea of key results to have that inclination to outcomes, if you have indeed a crisp strategy, multidisciplinary team, bad managers fired, agile and lean happening in good share, effectiveness happening over efficiency: 
 
 > *"Do the prework. Make sure you have a crisp strategy. Make sure your teams have psychological safety. Make sure your product teams are multidisciplinary (Product, Design and Engineering.) Fire bad managers. Adopt Agile and Lean practices. Create as many self-sufficient teams as possible. Value effectiveness over efficiency."* (Wodtke, 2022)
@@ -1109,8 +1086,6 @@ To be fair with Christina, notice that the context may matter. In the above view
 @meta @references
 * reference - Wodtke, C. (2022, February 4). Are You Sure You Want to Use OKRs? Retrieved from https://cwodtke.medium.com/you-cant-handle-okrs-5465cf161e81
 -->
-
-
 
 
 
@@ -1160,25 +1135,17 @@ In other words, the team should be responsible to strategically identify at what
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!--
 @meta @outline
 *   3.3.1 - Answer - b - Seeking maturity 
 --> 
 
-### Seeking maturity and what matters 
+### Driving towards outcomes  
+
+
+
+
+
 
 
 
@@ -1209,6 +1176,8 @@ This again aligns with the given "prep work" suggested by Christina, in my rewri
 
 
 
+
+
 > *"As you get more seasoned, your strategy is biased toward social and business problems instead of cognitive ones. You learn how to run a meeting and how to pre-flight the important decisions before that meeting even starts. . . "* (Nightingale, J., 2017, p.170)
 
 <!--
@@ -1223,22 +1192,7 @@ This again aligns with the given "prep work" suggested by Christina, in my rewri
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-##### Who is the junior? 
+#### Who is the junior? 
 
 What matters, really, is that you can be just out of the sudden under a need to flip yourself, to embraced a personality, to model it, to consider the maturity level for that task. In other words, no matter how senior you are, you can be a junior at any time depending on your objectives ahead: 
 
@@ -1253,7 +1207,10 @@ What matters, really, is that you can be just out of the sudden under a need to 
 
 
 
-##### Introducing variability through and outcome in the face of the low maturity 
+#### Introducing variability through and outcome in the face of the low maturity 
+
+
+
 
 An outcome of setting a mature expectation to your now-junior doer is that you generate a potential for the doer to enter in manipulating and a state of anxiety that can even - in an extremme - push them to come up with manipulation - under the strict idea of "this is the way" you bring about rupture to your working team - and moreover misses the point which is using the effort phase to bring about and to discover maturity: 
 
@@ -1274,12 +1231,21 @@ An outcome of setting a mature expectation to your now-junior doer is that you g
 #### Spectrum maturity  
 
 
+
+
 But if all of this sounds simple, it isn't - not because OKR is complex but because, again, the beast within is complex not only due to the human nature where we are all learning but because the whole crew might be onto something that simply no one knows how to solve yet. 
 
 
 [3] An article that helped me to see the two sides of the spectrum was this one from this guy named Josh Seiden - https://medium.com/@jseiden/to-write-better-okrs-use-outcomes-e82be6e7b460 as he included the cartoon image (Resources -> Activities -> Output -> Outcome -> Impact) which he attributes to "The Project Logic Model, adapted from Kellogg Foundation"
 
 So up to here, I had identified the complication in the learning journey of a founder.Moving towards the potential answer, the following author gave us a cartoon to help us understand Output vs. Outcome, although he promotes Outcome-based for OKR:+ Cartoon is [Resouces -> Activites -> Output -> Outcome -> Impact]https://medium.com/@jseiden/to-write-better-okrs-use-outcomes-e82be6e7b460
+
+
+
+
+#### John on Mozilla effort vs. outcome 
+
+
 
 
 That shows a complex approach that some of the Mozilla managers had for measuring folks, where "junior people can be measured by effort" while "the outcome can measure senior people."The framing of this last article helped me see correlations with:+ junior/senior+ unknown/known+ divergence/convergence+ aspirational/commitment+ effort/outcomeAnd that helped me to see better that the adjustment of the needle (from action, to output, to outcome) could be done depending on the context of the objective.Therefore, if you don't know much about what you are doing, you can measure by effort and revisit faster (100 times). If you are confident, the measure could be oriented towards an outcome.That could also explain why composed OKR (team level) could be more oriented to outcomes and why an individual could be more oriented to effort. Not sure.
@@ -1290,7 +1256,6 @@ That shows a complex approach that some of the Mozilla managers had for measurin
 @meta @references
 * reference - Nightingale, J. (2017, February 8). Leadership is not about your good intentions: Managing junior vs senior staff, and why you might be an ass. The Co-pour. Retrieved from https://mfbt.ca/leadership-is-not-about-your-good-intentions-5e21666cb01b
 --> 
-
 
 
 * "Junior people we evaluate on effort."
@@ -1307,18 +1272,6 @@ Having had a light, I am here pondering one thing as I try to go back to Output 
 * As in - aspirational vs. commitment
 
 I do not know if my awakening has a significant flaw, but something seems linear here or structured about the problem.
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1352,7 +1305,7 @@ Jason went on and added that the whole point of Jeff was to make sure that the a
 
 
 
-#### Trap of scoring  of heroes 
+#### Trap of scoring of heroes 
 
 
 
@@ -1411,7 +1364,7 @@ Therefore, New key results comes as a function of the work of refining the langu
 
 
 
-
+#### Meta-management learning 
 
 
 Now, viewing from that angle might suggest the very idea of the of a more steady pace which is just about going or the good. In other words, the judgement of the effort can only happen after the fact of a clearly stated effort given by the clearly acomplished key results. The opportunity for a good refining starts with, first, the observationof that has happened, and from that it follows a reflection of what is going on - such as through interactions of the team talking about it - which takes them to come up with with new ideas and concepts which likely forms the new cycle [^footnote_kolb_learning].
