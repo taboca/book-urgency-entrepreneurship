@@ -72,7 +72,7 @@
 
 ### Part 2, transactional communication 
 
-200/040_communication.txt
+200/040_communications/100_article.txt
 
 ## Part 3 
 
