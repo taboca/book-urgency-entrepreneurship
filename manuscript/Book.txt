@@ -51,7 +51,7 @@
 ### Part 2, impressing, pleasing, and transcending feedback of urgency 
 
 200/250_stop_impressing.txt
-200/410_5_article_urgency_550e8400-e29b-41d4-a716-446655440000.txt
+200/030_urgency/100_article.txt
 200/090_saying_thanks_reflections.txt
 
 200/630_lean_no_lean.txt
