@@ -15,7 +15,7 @@
 
 100/010_time_startup_you/10_article.txt 
 
-100/030_wantrepreneur_article.txt
+100/030_entrepreneur/100_article.txt
 
 100/060_words.txt 
 100/100_operating_systems.txt
