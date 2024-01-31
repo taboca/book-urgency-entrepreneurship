@@ -1,10 +1,10 @@
 # Todo # 
 
+* @todo - p2 ( ) - In Not So Radical Focus - Outcome vs. Output battle - Consider if the situation of McCallum and the questions would have any connection with "counter-effect" from Andy's idea of pairing indicators. @meta-refid 2948294-4298492-428042908-24894829
+
 * @todo - p2 ( ) - In Not So Radical Focus - Consider to bring the quote from Seid "OKR, which stands for Objectives and Key Results, have become a popular planning tool for organizations. And, like any tool that becomes popular, it can be used well, or it can be used poorly." into the point above from Christina about the drift. @meta-refid 4284982-42948-29849-4298492
 
 * @todo - p2 ( ) - In Not so Radical Focus - Check Measure What Matters book for the actual notes on the situation of companies that took years to get it right. @meta-refid 7475-8474-8474-8284
-
-* @todo - p2 ( ) - Check with Michael of McCallum's letter if the scorecard was an addition of Michael or a creation of McCallum himself. @meta-refid 428492849-4204204-4828492-48028492
 
 * @todo - p1 ( ) - In Not so Radical Focus - We should do a better job in the context of bringing the notions from Michael Dearing about bottoms-up value. @meta-refid 483498-4398493-4839498-483984
 
@@ -244,6 +244,8 @@ https://chat.openai.com/share/b7eb16c5-4c18-4709-9220-bd2629f34a3d
 * Culture 
 
 ## Done
+
+* @todo - p2 (Done) - Check with Michael of McCallum's letter if the scorecard was an addition of Michael or a creation of McCallum himself. @meta-refid 428492849-4204204-4828492-48028492
 
 * @todo - p2 (Done) - In Not So Radical Focus - * Personal, "what should my contribution be" vs goals - The point given by Peter is also a point given by Michael Dearing in his private GM2 course - he indicated that the Objective has to be meaningful and consistent with the person's values, principles, and also generates pride when accomplished - 'sense of accomplishment' / ref 8474-6573-7282-8383
 

@@ -1142,9 +1142,7 @@ In other words, the team should be responsible to strategically identify at what
 
 
 
-
-
-With these OKR considerations, we can celebrate the nuanced view that outputs should be respected because we agreed that the outcome should be linked anyway, that it is the thing we are after and the whole reason for OKR to exist anyway. In other words, the management of the whole business wants the results in the end and the a mature sense of accountability for what matters:  
+With these considerations, through the OKR conversation, I think it's fair to celebrate that output should be respected after we have agreed that outcome is ahead, is linked, and it is expected. That it is the thing we are after and the whole reason for OKR to exist anyway. In other words, the management of the whole business wants the results in the end and the a mature sense of accountability for what matters:  
 
 > *"But outcomes still matter. [...] I've seen companies that score everyone on effort, but I have never seen great companies that do so. Every company needs a set of folks who do understand the context, who can be held accountable for the right things actually getting done."* (Nightingale, J., 2017, p. 171)
 
@@ -1314,7 +1312,7 @@ really good insights so I recommend some pretty long brainstorming some of the k
 
 Adjusting Christina's approach to make it work with the output-based, would be about acknowledging first the good intentions in the good not the best: 
 
->*"The best is the enemy of the good. If you are spending weeks refining the language of the objective and pinning down just the right metrics, your company is in the business of process management. That’s wasteful. Try to make good OKRs but remember there is a time when you have to say, good enough for now. You don’t want to spend three weeks setting your goals and lose the time you could be working toward them instead." (Wodtke, 2022)
+>*"The best is the enemy of the good. If you are spending weeks refining the language of the objective and pinning down just the right metrics, your company is in the business of process management. That’s wasteful. Try to make good OKRs but remember there is a time when you have to say, good enough for now. You don’t want to spend three weeks setting your goals and lose the time you could be working toward them instead."* (Wodtke, 2022)
 
 And isn't it the case that some times, often or not so often when we have time, a saying says that "the angel lives in the details," or something like that. And there I felt in front of a quote which I have imagined the so many interpretations that were possible. To be fair, the context matters. But I feared anyway that an urgent reader-learner could miss the good in the details where she meant to say that we should not spend more time mostly refining our OKR and less time working. That is why I rather keep that quote outstanding but still to see how it could well be applicable to the situation - which I find quite important anyway - that involves the possibility of a doer that keeps on refining the language of the objective a lot in the best way possible:  
 
@@ -1370,7 +1368,8 @@ Now, viewing from that angle might suggest the very idea of the of a more steady
 
 Now, if learning is key it is still something expected. Now, from the perspective of goal-setting and the managerial activity  of progressing with goals, we should finally be concerned with the situation when the learning is not happening by the situation of doing it; where the team feels that something is wrong, which can happen anyway. 
 
-This situation could be a case when the expected key results - inputs, outputs or outcomes - seem to be right direction but can't be reached. This situation could be compared with what Michael (2019) has described as "When the gears of general management grind, companies and founding teams burn through their spiritual and financial runway faster than necessary;" and illustrated with the situation of McCallum from the mid 1800s:
+
+This situation could be a case when the expected key results - inputs, outputs or outcomes - seem to be in the right direction, but can't be reached. The situation could unfold in what Michael Dearing (2019) has described as "when the gears of general management grind, companies and founding teams burn through their spiritual and financial runway faster than necessary." Let us go through one of the earliest management examples of rethinking organizational structures and priorities to improve operations and decision-making; riding along with Michael and reflecting on the history of Daniel McCallum in the mid-1800s:
 
 > *"McCallum’s biggest problem at the railroad was cost per mile. As fast as the railroad grew in size, operating costs somehow grew faster. Communication, coordination, operations and sales all became way more difficult, not less so, as the railroad grew. For McCallum, this productivity problem was really a general management problem."* (Dearing, 2019)
 
@@ -1391,18 +1390,19 @@ The managerial response from him came about as a letter where he had outlined fi
 * How do you know how things are going along the way?
 * How do you do all this with respect for others?
 
-As a manager, if he started to wonder these new aspects and got involved with scoring them, in a way it's not much different from establishing questions connecting with key results, however, these may be the general intention to solve the objective, and it transcends, this in a way, it's like accessing another higher order objective and transcending from the key results, and get involved with measuring other metrics that may access the underlying foundation or an investment that is necessary to bring about the specific objective, get back on track.
+
+By recognizing the value in the challenge questions from McCallum, Michael went further under the modern management view and noted the opportunity to score them which is, in essence evaluating and reflecting on the whole set of variables in contrast with the objective. 
 
 <!-- 
 @meta @todo 
-* @todo - ( ) p2 - Check with Michael of McCallum's letter if the scorecard was an addition of Michael or a creation of McCallum himself. @meta-refid 428492849-4204204-4828492-48028492
+* @todo - (DOne) p2 - Check with Michael of McCallum's letter if the scorecard was an addition of Michael or a creation of McCallum himself. @meta-refid 428492849-4204204-4828492-48028492
 
 ```
 Hi Michael or team,
 
 Regarding the following note, I wonder if the actual scoring next to McCallum's questions was an addition that you did yourself or if McCallum actually end up scoring himsel across team clusters: 
 
-> *"McCallum also accidentally gave us a beautiful scorecard for modern general managers. Take a look at the picture above. I put McCallum’s Five Challenges down one column. Group works together on common goals, people have the right amount of responsibility, team gets the job done, general manager knows how things are going along the way and people feel respected. In that second column, write a score for your own team."* (Dearing, 2019)
+> *"McCallum also accidentally gave us a beautiful scorecard for modern general managers. [...] I put McCallum’s Five Challenges down one column. Group works together on common goals, people have the right amount of responsibility, team gets the job done, general manager knows how things are going along the way and people feel respected. In that second column, write a score for your own team."* (Dearing, 2019)
 
 Dearing, M. (2019, July 2). Thank you, Daniel McCallum. Retrieved from https://medium.com/@mcgd/thank-you-daniel-mccallum-133d27e98468
 
@@ -1417,7 +1417,7 @@ Marcio
 --> 
 
 
-> *"McCallum also accidentally gave us a beautiful scorecard for modern general managers. Take a look at the picture above. I put McCallum’s Five Challenges down one column. Group works together on common goals, people have the right amount of responsibility, team gets the job done, general manager knows how things are going along the way and people feel respected. In that second column, write a score for your own team."* (Dearing, 2019)
+> *"McCallum also accidentally gave us a beautiful scorecard for modern general managers. [...] ]I put McCallum’s Five Challenges down one column. Group works together on common goals, people have the right amount of responsibility, team gets the job done, general manager knows how things are going along the way and people feel respected. In that second column, write a score for your own team."* (Dearing, 2019)
 
 <!--
 @meta @references
@@ -1425,17 +1425,30 @@ Dearing, M. (2019, July 2). Thank you, Daniel McCallum. Retrieved from https://m
 --> 
 
 
+<!-- 
+@meta @todo 
+* @todo - p2 ( ) - In Not So Radical Focus - Outcome vs. Output battle - Consider if the situation of McCallum and the questions would have any connection with "counter-effect" from Andy's idea of pairing indicators. @meta-refid 2948294-4298492-428042908-24894829
 
 With that, I don't think that the situation that McCallum brought himself into is disconnected from what Andy Grove as said in High Output Management brought under the theme of *pairing indicators* when he asked us to think about ways to measure "effect and counter-effect". Essentially, the manager that is concerned with the insolvency for the given path has to get involved with considerations to achieve the objective, or the higher-order objective, approaching the problem from other angles - not to say other dimensions. Essentially one might be escaping the situation for a good cause - such as to escape towards values of a higher-order, which involves the surrender of certain rules for how things are being done as assumed. 
+-->
 
 
-
-
-For me, the situation of McCallum as illustrated by Michael Dearing, helped me to think of the many situations when we think that we know how to get things done but in the end we might be into a situation that we will need new management and models; to break many of our assumptions. The situation of McCallum - of having no management books - is not different from the modern situation when the management playbooks as seen just don't work anymore: 
+For me, the situation and management lessons in the illustration from Michael Dearing applies well in the high-growth situations where people are excited and navigating a new domain where they do not see everything yet while they might be in a position of power; but essentially is not different from the situation of McCallum of having no management books as the modern version is basically about going through the bushes of innovation with no playbook:
 
 > *"Many talented people in Silicon Valley are in McCallum’s shoes. They’ve risen rapidly in their career because they were great at their jobs, because the company was growing like crazy, or most likely, both. They’re getting shoved into leadership and management roles and they’re struggling."* (Dearing, 2019)
 
 So it is inescabable that there are situations where the certainty for how to do things leads to insolvency which is the impossibility for the milestones to happen as the team advances. This situation happens with a great deal of connection with the matter, the challenge, the subject, the theme, or the domain of the problem - callinng whatever you want and asks for the re-evaluation and even in a way the creative destruction of the means of management that had defined the expected key results in the first place as the way to do things are not applicable anymore.  
 
-Another way to look at this situation is to consider the other side of a coin where teams have things to do and the objective as stated by their mission it too ambitious and can't be done in linear (or commited) ways. Imagine that their OKR shows an ambitous goal with the probability of achieving as 60%. It is not uncommon for teams to get away and even to come up with something totally new, to come up with new systems or ideas such as they saw something new, in ways that they not only hit their objectives but break the linear expected logic for getting things done which they thought to be the case. Now, it is not alarming that we generally do not worry about this situation - such as involved in a post-mortem for their now-outdated management approach  - as the team gets quite excited by celebrating and busy by taking advantage from their new approach. But it still concerning anyway from a managerial situation that many teams just move on with an approach for getting things done that seems to be like gambling. 
+> *"We recently moved an extremely productive sales manager from the field into the plant, where he was placed in charge of a factory unit. The size and scope of the two jobs were comparable, yet the performance of the seasoned manager deteriorated, and he started to show the signs of someone overwhelmed by his work. What happened was that while the personal maturity of the manager obviously didn't change, his task-relevant maturity in the new job was extremely low, since its environment, content, and tasks were all new to him. In time he learned to cope and his TRM [task-relevant maturity] gradually increased. With that, his performance began to approach the outstanding levels that he had exhibited earlier, which was why we promoted him in the first place. What happened here should have been totally predictable, yet we were surprised: we confused the manager's general competence and maturity with his task-relevant maturity.*" (Grove, A., 2015, pp. 173-174) 
+
+<!-- 
+@meta @references
+* reference - Grove, A. (2015). High Output Management. Vintage Books.
+--> 
+
+Therefore, what seems to be the insight from all of these situations in the illustration from McCallum, and also the points given by Andy Grove on task-relevant maturity, is that the task at hand matters and it matters so much that we achieve that maturity which is the "seasoned condition" where we know how to do it. But when the milestone we have is not going to happen, we will have to set ourselves free from those ties with these methods and tools, and then recognize and engage with the surrender of a lot that we know. In looking ahead and essentially accessing values, we're telling ourselves, we're setting ourselves free. This may come in real workspace like the act of the leap of faith, the release of the controller, the acceptance for losing the battle, you name it. Those illustrations are ideas to help our imagination to feel how to transcend, which may lead us in accessing the creator side, the creative side, and achieving by that the exercise of creative destruction at the team level. In other words, managers can and should get involved with doing that. 
+
+As a final note, going back to aspects of OKR, we shall also consider the other side of a coin where teams have things to do and the objective as stated by their mission it too ambitious and can't be done in linear (or commited) ways, such as when they set the probability of achieiving an objective as 60%. It is not uncommon for teams to get away well, and even to come up with something totally new, to come up with new systems or ideas such as they saw something new, in ways that they not only hit their objectives but break the linear expected logic for getting things done which they thought to be the case. Now, it is not alarming that we generally do not worry about this situation - such as involved in a post-mortem for their now-outdated management approach  - as the team gets quite excited by celebrating and busy by taking advantage from their new approach. But it still concerning anyway from a managerial situation that many teams just move on with an approach for getting things done that seems to be like gambling. 
+
+
 
