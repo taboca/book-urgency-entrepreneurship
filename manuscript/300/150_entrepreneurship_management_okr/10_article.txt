@@ -749,6 +749,8 @@ This part, the key results part of OKR, appears first as a mechanism to keep tra
 
 
 
+
+
 Through a case of a writer's situation - which may apparently look like a non-collaborative effort of a solo person - we can better see how the mechanics of using key results can be powerful a transparent and honest work effort of doing things, when supported by the right environment, can lead to greater impact - which in the case of the writer is to have the book published in order to help his audience. With that, we will be celebrating how the upfront writing is necessary, or daring if you will, and how the accomodation of key results sets the doer in the direction of progress.
 
 From the following situation which I used as an example in the section about leadership:  
@@ -790,13 +792,12 @@ Therefore, and I know that I asking you to be flexible here, a collaborative pro
 
 <!-- 
 @meta @outline 
-* Outline - answer k2.2.0 - Teams - OKR as the managerial opportunity for tops-down to learn the best doing it.  
+* Outline - answer k2.2.0 - OKR on tops-down vs. bottoms-up remixing 
 --> 
 
 
+#### OKR on tops-down vs. bottoms-up remixing 
 
-
-#### OKR on learning with key results 
 
 There is a strong idea of output which was brought by Andy Grove in High Output Management, that deserves a calmer reflection in front of the not so calm situation of work. What Andy were after with the propositions for Management by Objectives consisted in allowing people to work and then asking them to get involved in checking if what they did really sets them in the direction which they have specificed in their objectives. In other words, if the outcome sought were the objective accomplished, the output expected had to be the new decisions coming after work: 
 
@@ -822,7 +823,90 @@ There is a strong idea of output which was brought by Andy Grove in High Output 
 
 
 
-##### Pairing indicators as a creative response 
+
+<!-- 
+@meta @outline 
+* Outline - answer k2.2.1 - OKR on  brainstormings 
+--> 
+
+
+
+##### Brainstormings 
+
+
+
+The likely core of the worriness of Christina has to do with the struggle if you are interested in being open about the actual efforts you make. The point of her intention - in my view - has to do with "giving up" a potential challenging part of OKR - to see the output and discuss - and to allow the team to get away, to deal with it. And by the way, the point given in the following interview, she recomments a good brainstorming for the key results design: 
+
+<!--
+@meta @todo
+* p2 ( ) - In Not So Radical Focus - Check the quote from Christina where she provides an example of brainstorming, like long brainstorming for key results crafting. Ref - https://www.youtube.com/watch?v=kvkL18Ue0dE&t=886s - Ref 392849-4298492-492849-4298492
+--> 
+
+> *"28:52
+more about it okay now we have some more KRS with key results I always recommend
+28:58
+spending like 10 minutes brainstorming every single way you could possibly measure that outcome because
+29:04
+it with brainstorms you always think of all the obvious stuff first and then you have no ideas and you're just sitting there with your post notes going
+29:11
+how long is 10 minutes out anyway and then you start getting the weird ideas and often out of those weird ideas are
+29:16
+really good insights so I recommend some pretty long brainstorming some of the key results"* Christina Wodtke 
+
+<!-- 
+@meta @references 
+* Reference - Wodtke, C. (2023, March 16). The ultimate guide to OKRs | Christina Wodtke. Lenny's Podcast. Retrieved from https://www.youtube.com/watch?v=kvkL18Ue0dE&t=886s
+--> 
+
+
+
+Adjusting Christina's approach to make it work with the output-based, would be about acknowledging first the good intentions in the good not the best: 
+
+>*"The best is the enemy of the good. If you are spending weeks refining the language of the objective and pinning down just the right metrics, your company is in the business of process management. That’s wasteful. Try to make good OKRs but remember there is a time when you have to say, good enough for now. You don’t want to spend three weeks setting your goals and lose the time you could be working toward them instead."* (Wodtke, 2022)
+
+And isn't it the case that some times, often or not so often when we have time, a saying says that "the angel lives in the details," or something like that. And there I felt in front of a quote which I have imagined the so many interpretations that were possible. To be fair, the context matters. But I feared anyway that an urgent reader-learner could miss the good in the details where she meant to say that we should not spend more time mostly refining our OKR and less time working. That is why I rather keep that quote outstanding but still to see how it could well be applicable to the situation - which I find quite important anyway - that involves the possibility of a doer that keeps on refining the language of the objective a lot in the best way possible:  
+
+I believe that the OKR-friendly, or the MBO-friendly for "refining the language of the objective," happens if the doer does this job after the fact that that output was done. Or more precisely, with key results achieved, after the action and effort put in place, the generated data, and the information, happens to support the doer to consider the reflection with the horizon in hindsight; thus aiming for the opportunity. This, in mathematical terms, would be about considering that the refinement of the objective is a function of key results:
+
+> RO = f ( KR )
+
+Where the achieved key results is a function of the Objective:
+
+> KR = f ( O )
+
+Therefore, New key results comes as a function of the work of refining the language of the objective:
+
+> NKN = F ( RO )
+
+
+
+Now, viewing from that angle might suggest the very idea of the of a more steady pace which is just about going or the good. In other words, the judgement of the effort can only happen after the fact of a clearly stated effort given by the clearly acomplished key results. The opportunity for a good refining starts with, first, the observationof that has happened, and from that it follows a reflection of what is going on - such as through interactions of the team talking about it - which takes them to come up with with new ideas and concepts which likely forms the new cycle [^footnote_kolb_learning].
+
+[^footnote_kolb_learning]: This viewpoint is given in alignment with *Kolb's Experiential Learning Model*, which emphasizes learning as a cyclical process of experiencing, reflecting, thinking, and acting. This model, according to the Wikipedia article (2024), consists of four stages: *Concrete Experience*, *Reflective Observation*, *Abstract Conceptualization*, and *Active Experimentation*. 
+
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Not so Radical Focus - #APA Check the reference to Kolb Model the APA citation in the above footnote, where it is indicated inline (2024). Notice that 2024 is retrieval date. @meta-refid 29849-429849-492849-428490
+--> 
+
+<!-- 
+@meta @references
+* reference - Wikipedia contributors. (2024, January 25). Kolb's experiential learning. In Wikipedia, The Free Encyclopedia. Retrieved January 25, 2024, from https://en.wikipedia.org/wiki/Kolb%27s_experiential_learning
+--> 
+
+
+
+
+
+<!-- 
+@meta @outline 
+* Outline - Answer k2.2.2 - OKR on effect vs. counter-effect, e.g. pairing indicators
+--> 
+
+##### Effect vs. counter-effect, e.g. pairing indicators
+
+
+
 
 <!--
 @meta @todo
@@ -856,52 +940,12 @@ And according to Michael Dearing, Harriet had to come up with new strategies, or
 
 
 
-
 <!-- 
 @meta @outline 
-* Outline - Answer k2.3.1 - Teams - The internal market starts with honesty and transparency and safety. 
-*                                   \___ requires non-selfish and safety 
+* Outline - Answer k2.3.1 - OKR on the health of team iterations 
 --> 
 
-#### Team dynamics for high self-esteem and creation 
-
-
-
-
-
-
-
-> ".................." 
-
-When exposing what we do, the things we are doing, and letting others chime in to help, even people that are not connected directly, it is natural to consider that the mechanism promotes communication and open ideas to flow in which would result in an opportunity to reduce self bias and improve not only effectiveness, in the sense of performance for what is being done and in the sense of the simpler nature of accounting and tracking, but also taken that this simpler factor is present, the more complex collaborative communication which is the opportunity to evaluate all that is being done. 
-
-Consider that the point about transparency and collaboration has to do not with the benefits like gambling, of one helping with the other, as if people have the clicks, that is a by-product of doing in a collaborative and transparency way. But in addition to that, it is important to recognize that transparency, having things written down, also reveals failure in the eyes of everyone, which could be complicated depending on the effects from the exposure of failure, such as if the protagonists of the failed propositions aren't to be valued. Therefore, in other words, the exposure goes along with the necessity of the right attitude, a system of protection which when exists gains a strategic meaning, as indicated by Michael Dearing, gains a tone of competition, a healthy competition: 
-
-> *"It seems to me that the best product roadmaps come from vigorous internal competition for time and talent from engineering, design, marketing."* Michael Dearing (2016)
-
-The point suggested by Micheal was isnpired from the general point about competition in macro markets (2016) - the situation and acknowledgement that competition drives better results with the rise of the winning competitor. But then, deriving from that, it comes the natural question if any of that is the actual mechanism we use when we come up with a better thing to do in the face of our goals. Perhaps Michael saw the whole world as a one big company which is the analogy for the intercal micro market and the notion of competition. In this model, consider that there is the input of doing, from doing, from vision, from brainstorming, first in the beginning of a process like a funnel. And then, a quantitative and qualitative judgement chimes in which separates the gold from the things that we can separate, as in the data to support recyling it. 
-
-But a quite important aspect of it has to do with the need for transparency and exposure. "Put the roadmap where everyone can see it is one of the most powerful actions a founder can take." (2016) which goes along with " It is to be expected that people who care about what they work on are disappointed when something doesn’t work out the way they wanted. The approach above arms them with the information they need to make sense of the disappointment and to improve the probability that their next ideas will get funded." (2016)
-
-Notice that in the illustration he created the idea of "funded" can be interpreted as approved or the general idea of buy-in. 
-
-<!--
-@meta @references 
-* @reference - Dearing, M. (2016, September 10). Competitive micro-markets for product development. Medium. https://medium.com/@mcgd/competitive-micro-markets-for-product-development-e74fe56b1c02
---> 
-
-
-
-
-
-
-<!-- 
-@meta @outline 
-* Outline - Answer k2.3.2 - Teams - Reinventing recyling - hundreds of time, is example of support. 
-*                                   \___ requires internal market.  
---> 
-
-##### The situation of a healthy iteration 
+#### OKR on the health of team iterations 
 
 
 
@@ -933,12 +977,59 @@ When I read Jordan illustrating this process "of the self" it was inescapable fo
 
 
 
+
+
+
+
+
+
+
+
 <!-- 
 @meta @outline 
-* Outline - Answer k2.3.3 - The confusions with measurement, non-create
+* Outline - Answer k2.3.2 - Teams - The internal market 
 --> 
 
-#### OKR on the non-creative work space 
+##### The healthy market 
+
+
+
+
+
+
+
+> ".................." 
+
+When exposing what we do, the things we are doing, and letting others chime in to help, even people that are not connected directly, it is natural to consider that the mechanism promotes communication and open ideas to flow in which would result in an opportunity to reduce self bias and improve not only effectiveness, in the sense of performance for what is being done and in the sense of the simpler nature of accounting and tracking, but also taken that this simpler factor is present, the more complex collaborative communication which is the opportunity to evaluate all that is being done. 
+
+Consider that the point about transparency and collaboration has to do not with the benefits like gambling, of one helping with the other, as if people have the clicks, that is a by-product of doing in a collaborative and transparency way. But in addition to that, it is important to recognize that transparency, having things written down, also reveals failure in the eyes of everyone, which could be complicated depending on the effects from the exposure of failure, such as if the protagonists of the failed propositions aren't to be valued. Therefore, in other words, the exposure goes along with the necessity of the right attitude, a system of protection which when exists gains a strategic meaning, as indicated by Michael Dearing, gains a tone of competition, a healthy competition: 
+
+> *"It seems to me that the best product roadmaps come from vigorous internal competition for time and talent from engineering, design, marketing."* Michael Dearing (2016)
+
+The point suggested by Micheal was isnpired from the general point about competition in macro markets (2016) - the situation and acknowledgement that competition drives better results with the rise of the winning competitor. But then, deriving from that, it comes the natural question if any of that is the actual mechanism we use when we come up with a better thing to do in the face of our goals. Perhaps Michael saw the whole world as a one big company which is the analogy for the intercal micro market and the notion of competition. In this model, consider that there is the input of doing, from doing, from vision, from brainstorming, first in the beginning of a process like a funnel. And then, a quantitative and qualitative judgement chimes in which separates the gold from the things that we can separate, as in the data to support recyling it. 
+
+But a quite important aspect of it has to do with the need for transparency and exposure. "Put the roadmap where everyone can see it is one of the most powerful actions a founder can take." (2016) which goes along with " It is to be expected that people who care about what they work on are disappointed when something doesn’t work out the way they wanted. The approach above arms them with the information they need to make sense of the disappointment and to improve the probability that their next ideas will get funded." (2016)
+
+Notice that in the illustration he created the idea of "funded" can be interpreted as approved or the general idea of buy-in. 
+
+<!--
+@meta @references 
+* @reference - Dearing, M. (2016, September 10). Competitive micro-markets for product development. Medium. https://medium.com/@mcgd/competitive-micro-markets-for-product-development-e74fe56b1c02
+--> 
+
+
+
+
+
+
+
+
+<!-- 
+@meta @outline 
+* Outline - Answer k2.3.3 - The non-creative workspace, toxic evaluation 
+--> 
+
+#### The non-creative work space 
 
 
 
@@ -1138,22 +1229,26 @@ In other words, the team should be responsible to strategically identify at what
 *   3.3.1 - Answer - b - Seeking maturity 
 --> 
 
-### The path towards outcomes  
+### The beautiful and dangerous path of outcomes 
 
 
 
-With these considerations, through the OKR conversation, I think it's fair to celebrate that output should be respected after we have agreed that outcome is ahead, is linked, and it is expected. That it is the thing we are after and the whole reason for OKR to exist anyway. In other words, the management of the whole business wants the results in the end and the a mature sense of accountability for what matters:  
 
-> *"But outcomes still matter. [...] I've seen companies that score everyone on effort, but I have never seen great companies that do so. Every company needs a set of folks who do understand the context, who can be held accountable for the right things actually getting done."* (Nightingale, J., 2017, p. 171)
+
+
+With these considerations, through the OKR conversation, I think it's fair to celebrate that output should be respected after we have agreed that outcome is ahead, is linked, and it is expected. That it is the thing we are after and the whole reason for OKR to exist anyway. In other words, the management of the whole business wants the results - we all agree that moving towards the impact is what matters. In that direction, the expectation algo goes along with nuanced view of the "prep work" situation expected by Christina (Wodtke, 2022), the "crisp strategy, multidisciplinary team, bad managers fired, agile and lean happening in good share, effectiveness happening over efficiency." 
+
+<!-- 
+@meta @todo 
+* @todo - p2 ( ) - In Not So Radical Focus - Fix the page of the quote from Jonathan Nightingale. @meta-refid 49285928-5298592-52895892-5983589 
+--> 
+
+> *"Every company needs a set of folks who do understand the context. Who can be held accountable for the right things actually getting done. That’s what executives are for. You are the people who turn strategy into execution. It’s a hard job. It’s why you get a fancy title and a high salary and a team of people. You need to prioritize, spot problems early, adapt and adjust. You need to empower your teams to be creative, but never step so far away that you lose the thread of how they’ll get it done. "* (Nightingale, J., 2017, p. xxx)
 
 <!-- 
 @meta @references
 * Reference - Nightingale, J. (2017). How Fucked Up Is Your Management. Raw Signal Press. 
 -->
-
-This notion set us back to the principles of leadership that we had discussed before where the leadership required a clear view of where we were going but of course all that takes - and also by the means of OKR - exists for the sake of growing the team into understanding the context which would likely align with the "prep work" suggested by Christina (Wodtke, 2022), the "crisp strategy, multidisciplinary team, bad managers fired, agile and lean happening in good share, effectiveness happening over efficiency." 
-
-> *"Every company needs a set of folks who do understand the context. Who can be held accountable for the right things actually getting done. That’s what executives are for. You are the people who turn strategy into execution. It’s a hard job. It’s why you get a fancy title and a high salary and a team of people. You need to prioritize, spot problems early, adapt and adjust. You need to empower your teams to be creative, but never step so far away that you lose the thread of how they’ll get it done. "* (Nightingale, 2017)
 
 <!-- 
 @meta @references
@@ -1162,9 +1257,19 @@ This notion set us back to the principles of leadership that we had discussed be
 
 
 
-#### Assessing maturity 
 
-Now the move with our good intentions of progressing with goals - such as by using OKR to learn - we are likely to access a wider view of maturity where our understanding of the business improves: 
+
+<!--
+@meta @outline
+*   3.3.1.1 - Answer - b - Acessing and assessing maturity 
+--> 
+
+
+
+
+
+
+In essense, from the point of view of the whole organization if it were one unique body, a wiser context is expected to be developed over time through the managerial work of reconcilliation between the higher-order goals - up to the mission and vision - and the bottoms-up work that generates new decisions and actions that Andy Grove wished for us to get involved it: 
 
 > *"As you get more seasoned, your strategy is biased toward social and business problems instead of cognitive ones. You learn how to run a meeting and how to pre-flight the important decisions before that meeting even starts. . . "* (Nightingale, J., 2017, p.170)
 
@@ -1173,11 +1278,33 @@ Now the move with our good intentions of progressing with goals - such as by usi
 * @todo - p2 ( ) - In Not so Radical Focus - Review the whole quote of Jonathan from How Fucked Up Is Your Management, p. 170 - @meta-refid 29849-45345-492849-428490
 --> 
 
-In essense, from the point of view of the whole organization if it were one unique body, a wiser context is expected to be developed over time through the managerial work of reconcilliation between the higher-order goals - up to the mission and vision - and the bottoms-up work that generates new decisions and actions that Andy Grove wished for us to get involved it. 
 
-But if that is the goal - or the necessary outcome of management to bring about the team's goals - it is still the case that at any given point in time anyone involved may more or less understand the pre-flight aspects of what matters. By considering that there are roles that gets more the context and others that gets less, existing people in the position of managers do celebrate their innevitable - if not a comfortable position - to consider that "junior people can be measured by effort" while "the outcome can measure senior people."
 
-[4] Until today. When I was following the articles in order, you had your "/5" article referring to the "/29" article (Leadership is not about your good intentions / https://mfbt.ca/leadership-is-not-about-your-good-intentions-5e21666cb01b ) which has provoked my mind as I reached the following diagram:
+
+
+
+<!--
+@meta @outline
+*   3.3.1.2 - Answer - b - General notion of assessing by effort vs. outcomes - situation
+--> 
+
+
+
+
+
+
+But if that is a goal - or the necessary outcome of management to bring about the team's goals - it is still the case that at any given point in time anyone involved may more or less understand these "pre-flight" aspects of what matters. By considering that there are roles - people - that gets more the context and others that gets less, existing people in the position of managers do celebrate their innevitable - if not a comfortable position - to consider that "junior people can be measured by effort" while "the outcome can measure senior people," as suggested by Nightingale ((2017, February 8) as a general notion about managing new people.
+
+<!-- 
+@meta @references
+* reference - Nightingale, J. (2017, February 8). Leadership is not about your good intentions: Managing junior vs senior staff, and why you might be an ass. The Co-pour. Retrieved from https://mfbt.ca/leadership-is-not-about-your-good-intentions-5e21666cb01b
+--> 
+
+* "Junior people we evaluate on effort."
+* "Senior people we evaluate on outcomes."
+
+
+> *"Holding a junior employee accountable for the success of the organization isn’t realistic. Without those strategies, they don’t know how to make success happen. So we substitute in productivity goals, progress goals. Are you writing clean code? Are you collaborating well?"* (Nightingale, 2017)
 
 <!-- 
 @meta @references
@@ -1185,12 +1312,19 @@ But if that is the goal - or the necessary outcome of management to bring about 
 --> 
 
 
-* "Junior people we evaluate on effort."
-* "Senior people we evaluate on outcomes."
 
 
 
-But if we move away ourselves from thinking of the people living a static situation of a known context where a boss knows the context and a subordinate that does not now yet, we will then abstract that there are situations people may or may know or that one would need to exist to know. Or in the ideal terms we could know what impact means which is a thinking that minimally help us to see the logic of the movement - where the movement wants to go. I am thankful that Josh Seiden [^footnote_seidseiden_projectlogic] brought in he referred as "The Project Logic Model" which helps us to get the context for the purpose of work and how inputs or actions connects with outputs or results: 
+
+<!--
+@meta @outline
+*   3.3.1.3 - Answer - b - The line from resources to impact 
+--> 
+
+
+
+
+But if we move away ourselves from thinking of the people living a static situation of a known context where a boss knows the context and a subordinate that does not now yet, we will then abstract that there are situations people may or may not know or that one seasoned or knowledgeable needs to exist, that the chicken has to exist before the egg. In this context, and for the sake of straigtening things out, I am thankful that Josh Seiden [^footnote_seidseiden_projectlogic] brought "The Project Logic Model" in the context of this the OKR conversation too, which helps us to get the context for the purpose of work and how inputs or actions connects with outputs or results: 
 
 * Resources - 
 * Activities -
@@ -1209,29 +1343,17 @@ But if we move away ourselves from thinking of the people living a static situat
 
 
 
-##### Who is senior or junior now?
-
-
-
-
-What matters, really, is that you can be just out of the sudden under a need to flip yourself, to embraced a personality, to model it, to consider the maturity level for that task. In other words, no matter how senior you are, you can be a junior at any time depending on your objectives ahead: 
-
-> *"Holding a junior employee accountable for the success of the organization isn’t realistic. Without those strategies, they don’t know how to make success happen. So we substitute in productivity goals, progress goals. Are you writing clean code? Are you collaborating well?"* (Nightingale, 2017)
-
-<!-- 
-@meta @references
-* reference - Nightingale, J. (2017, February 8). Leadership is not about your good intentions: Managing junior vs senior staff, and why you might be an ass. The Co-pour. Retrieved from https://mfbt.ca/leadership-is-not-about-your-good-intentions-5e21666cb01b
+<!--
+@meta @outline
+*   3.3.1.4 - Answer - b - Who is junir and senior works of you have seasoned confirmed senior
 --> 
 
 
 
 
-##### Introducing variability through and outcome in the face of the low maturity 
+With our interest in the affairs for what matters, no matter how senior one is, anyone can find themselves as junior at any time depending on your objectives that they set themselves into.
 
-
-
-
-An outcome of setting a mature expectation to your now-junior doer is that you generate a potential for the doer to enter in manipulating and a state of anxiety that can even - in an extremme - push them to come up with manipulation - under the strict idea of "this is the way" you bring about rupture to your working team - and moreover misses the point which is using the effort phase to bring about and to discover maturity: 
+An outcome of setting a more mature expectation, such as an outcome, to a role that can be considered as junior doer, likely sets the situation to be struggling and to live a potential state of anxiety that can even - in an extremme - push them to come up with manipulation, or an excessive level of control, such as moving on with the strict idea that "this is the way" which can also lead to a future rupture due to the potentalization of the anxiety - linked to other concerns and dissonance from values - which moreover leads them to miss the point of enabling the discovery of maturity and pulling outcomes:
 
 > *"When you’re new it’s hard to know the difference between a bad idea, a good idea with the wrong team, and a good team with a bad plan. It encourages people to be hair trigger and awful to each other as a way to seem smart. It encourages other people to leave."* (Nightingale, 2017)
 
@@ -1278,74 +1400,6 @@ Jason went on and added that the whole point of Jeff was to make sure that the a
 The idea of not being so hard is exactly about allowing the doer to fail with the key results and reevaluate which key results bring the doer "back into" the promising direction. Now for thre sake of solving the complex question - should I go with outcome or output - and given the point given, we may use, for the sake of the reflection, the advice from the professor of the MWM Course: 
 
 > *"Contribution is not the same as “making your OKRs.” Did this person make smart choices and stay focused on moving the numbers? Did they gain traction? Did they learn what not to do? And not everyone can contribute to OKRs, so you will need something more than “making OKRs” to evaluate them on.*" (Wodtke, 2022)
-
-
-
-#### Meta-management learning 
-
-
-
-The likely core of the worriness of Christina has to do with the struggle if you are interested in being open about the actual efforts you make. The point of her intention - in my view - has to do with "giving up" a potential challenging part of OKR - to see the output and discuss - and to allow the team to get away, to deal with it. And by the way, the point given in the following interview, she recomments a good brainstorming for the key results design: 
-
-<!--
-@meta @todo
-* p2 ( ) - In Not So Radical Focus - Check the quote from Christina where she provides an example of brainstorming, like long brainstorming for key results crafting. Ref - https://www.youtube.com/watch?v=kvkL18Ue0dE&t=886s - Ref 392849-4298492-492849-4298492
---> 
-
-> *"28:52
-more about it okay now we have some more KRS with key results I always recommend
-28:58
-spending like 10 minutes brainstorming every single way you could possibly measure that outcome because
-29:04
-it with brainstorms you always think of all the obvious stuff first and then you have no ideas and you're just sitting there with your post notes going
-29:11
-how long is 10 minutes out anyway and then you start getting the weird ideas and often out of those weird ideas are
-29:16
-really good insights so I recommend some pretty long brainstorming some of the key results"* Christina Wodtke 
-
-<!-- 
-@meta @references 
-* Reference - Wodtke, C. (2023, March 16). The ultimate guide to OKRs | Christina Wodtke. Lenny's Podcast. Retrieved from https://www.youtube.com/watch?v=kvkL18Ue0dE&t=886s
---> 
-
-
-
-Adjusting Christina's approach to make it work with the output-based, would be about acknowledging first the good intentions in the good not the best: 
-
->*"The best is the enemy of the good. If you are spending weeks refining the language of the objective and pinning down just the right metrics, your company is in the business of process management. That’s wasteful. Try to make good OKRs but remember there is a time when you have to say, good enough for now. You don’t want to spend three weeks setting your goals and lose the time you could be working toward them instead."* (Wodtke, 2022)
-
-And isn't it the case that some times, often or not so often when we have time, a saying says that "the angel lives in the details," or something like that. And there I felt in front of a quote which I have imagined the so many interpretations that were possible. To be fair, the context matters. But I feared anyway that an urgent reader-learner could miss the good in the details where she meant to say that we should not spend more time mostly refining our OKR and less time working. That is why I rather keep that quote outstanding but still to see how it could well be applicable to the situation - which I find quite important anyway - that involves the possibility of a doer that keeps on refining the language of the objective a lot in the best way possible:  
-
-I believe that the OKR-friendly, or the MBO-friendly for "refining the language of the objective," happens if the doer does this job after the fact that that output was done. Or more precisely, with key results achieved, after the action and effort put in place, the generated data, and the information, happens to support the doer to consider the reflection with the horizon in hindsight; thus aiming for the opportunity. This, in mathematical terms, would be about considering that the refinement of the objective is a function of key results:
-
-> RO = f ( KR )
-
-Where the achieved key results is a function of the Objective:
-
-> KR = f ( O )
-
-Therefore, New key results comes as a function of the work of refining the language of the objective:
-
-> NKN = F ( RO )
-
-
-
-
-
-
-Now, viewing from that angle might suggest the very idea of the of a more steady pace which is just about going or the good. In other words, the judgement of the effort can only happen after the fact of a clearly stated effort given by the clearly acomplished key results. The opportunity for a good refining starts with, first, the observationof that has happened, and from that it follows a reflection of what is going on - such as through interactions of the team talking about it - which takes them to come up with with new ideas and concepts which likely forms the new cycle [^footnote_kolb_learning].
-
-[^footnote_kolb_learning]: This viewpoint is given in alignment with *Kolb's Experiential Learning Model*, which emphasizes learning as a cyclical process of experiencing, reflecting, thinking, and acting. This model, according to the Wikipedia article (2024), consists of four stages: *Concrete Experience*, *Reflective Observation*, *Abstract Conceptualization*, and *Active Experimentation*. 
-
-<!--
-@meta @todo 
-* @todo - p2 ( ) - In Not so Radical Focus - #APA Check the reference to Kolb Model the APA citation in the above footnote, where it is indicated inline (2024). Notice that 2024 is retrieval date. @meta-refid 29849-429849-492849-428490
---> 
-
-<!-- 
-@meta @references
-* reference - Wikipedia contributors. (2024, January 25). Kolb's experiential learning. In Wikipedia, The Free Encyclopedia. Retrieved January 25, 2024, from https://en.wikipedia.org/wiki/Kolb%27s_experiential_learning
---> 
 
 
 

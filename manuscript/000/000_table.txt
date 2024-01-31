@@ -1,5 +1,7 @@
 # Todo # 
 
+* @todo - p2 ( ) - In Not So Radical Focus - Fix the page of the quote from Jonathan Nightingale. @meta-refid 49285928-5298592-52895892-5983589 
+
 * @todo - p2 ( ) - In Not So Radical Focus - Outcome vs. Output battle - Consider if the situation of McCallum and the questions would have any connection with "counter-effect" from Andy's idea of pairing indicators. @meta-refid 2948294-4298492-428042908-24894829
 
 * @todo - p2 ( ) - In Not So Radical Focus - Consider to bring the quote from Seid "OKR, which stands for Objectives and Key Results, have become a popular planning tool for organizations. And, like any tool that becomes popular, it can be used well, or it can be used poorly." into the point above from Christina about the drift. @meta-refid 4284982-42948-29849-4298492
