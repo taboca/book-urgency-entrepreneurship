@@ -1,11 +1,8 @@
 # The feedback of urgency
 
 <!-- 
-
-## todo 
-
-* p2 ( ) - In Part 1, Searching Impact, there is a whole section entitled "The guardian" which seems as a good introduction to the chapter "The feedback of urgency". Ref 9884-8944-9492-9044 #duplicated #crossreference 
-
+@meta @todo
+* @todo - p2 ( ) - In The Feedback of Urgency - In Part 1, Searching Impact, there is a whole section entitled "The guardian" which seems as a good introduction to the chapter "The feedback of urgency". Ref 9884-8944-9492-9044 #duplicated #crossreference 
 --> 
 
 At any time, a sense of urgency can take the attention of the startup team; which is generally not too bad, as to work in what is urgent comes with a direction, even if it is so to maintain some equilibrium, to sustain a value. But it is also the case that teams - under the consideration of their future - can be concerned that focusing on what is urgent could can put the future at risk. Let us reflect about the things that changes, as the startup advances, and how feedback interferes with how the team prioritizes their activities, such as to get stuck with urgent and non-important activites. 
@@ -57,7 +54,7 @@ Another exercise of reflection, which also follows we will be recognizing succes
 
 And even more complicated is that this feedback isn't as simple as "that customer isn't/is happy." In reality, it may go all the way into the hidden parts that keeps the system standing. As an illustration, if an electronic system happens to be used to monitor the satisfaction of customers, and if by a chance a customer tried to indicate an interaction through that system and happened to find a problem dealing with the interface, it is not uncommon a reactive work to take place, thus to bring back what is assumed to be the only way where customers can interact. 
 
-But none of that would be a reason to consider urgent vs. important if the seeds of what they planted didn't start to produce fruits or to attract bugs. As a consequence - and a reason to honor this complicated intrusion of feedback systems - we likely will see teams taking care of killing bugs, or managing the fruits given, or an irrigation system, or new processes that rises to solve the urgencies that keeps the equilibrium of some system which they have bundled which seems to represent meaningful results. In other words, we not only work to keep stability for the things we value but also to mitigate the potential explosion of problems from the maintenance of that stability that would otherwise jeopardize the work. As an aside, this accounting and management around rising problems, or a management of maintenance, can be so well-done by teams that they happen to come up with innovations such as to maintain systems up, solutions for killing bugs, among other communication processes. In other words, we should keep our minds open to the beauty and the dangers of solutions [^editornote_glitch_story] that rises from our needs to keep an equilibrium in any given process. 
+But none of that would be a reason to consider urgent vs. important if the seeds of what they planted didn't start to produce fruits or to attract bugs. As a consequence - and a reason to honor this complicated intrusion of the urgent needs - we likely be ourselves or witness teams taking care of killing bugs, or managing the fruits given, or an irrigation system, or new processes that rises to solve the urgencies that keeps the equilibrium of some system which they have bundled which seems to represent meaningful results. In other words, we not only work to keep stability for the things we value but also to mitigate the potential explosion of problems from the maintenance of that stability that would otherwise jeopardize the work. As an aside, this accounting and management around rising problems, or a management of maintenance, can be so well-done by teams that they happen to come up with innovations such as to maintain systems up, solutions for killing bugs, among other communication processes. In other words, we should keep our minds open to the beauty and the dangers of solutions [^editornote_glitch_story] that rises from our needs to keep an equilibrium in any given process. 
 
 [^editornote_glitch_story]: Solutions to manage the management problem is not necessarily a problem as it has to do with that teams actually do. As an example, the death of a game company called Glitch became the formation of one of the world's most popular digital communication tool for teams, Slack. According to Cnet (2013), the communication tool was created to support the development of the game. 
 
@@ -136,11 +133,14 @@ Now if the troublemaker is in troube in the face of the team for trying to point
 
 Now if a light exists in this discussion of parallel realities, that can take us to reconsider the new present that could help with a better future - the present that now suffers with the unexpected new conditions that keeps the team busy where no one seem to be frustrated with except the troublemarkers - it comes from the very mechanisms that we are born with, our capacity to plan by forecasting, the very mechanisms that set us to make the tough questions such as "Where are the assurances? The plan? And the coherent pitch?" 
 
-In this direction, we as troublemakers willing to crack the land of confunsion, should ride along with Andy Grove given by "Planning: Today's Actions for Tomorrow's Output" (1983, p.102), where he starts by recognizing that we our natural inclination to do forecasting is the path for planning. The reflection that follows will help us to set the reflection we want by honoring the values of forecasting that are now demands for any new ideas; but asking these questions for the current and present situation. Well, after all, let us honor the methods of thinking we are using to beat new ideas by applying them to the present we have, by forecasting the present we have in the future - by following a logic that sets that anything being done is likely a plan that will certainly cause a new future. 
+In this direction and wearing the shoes of the troublemaker in the hope that we can fix course-correct our future for the urgencies of the present, let us ride with Andy Grove and consider how to plan around the past, present, and the future, can help our organizations. In "Planning: Today's Actions for Tomorrow's Output" (1983, p.102), Andy invite us to consider our own natural ability of forecasting we do when we are in the cockpit and considering where we are going:
 
-The illustration from Andy reminds us of our natural born-with inclination to the business of forecasting: 
+<!-- 
+@meta @todo 
+* @todo - p2 ( ) - In The Feedback of Urgency - Fix the quote from Andy as Marcio had found "weather" typed instead of whether. @meta-refid 7675-8383-0844-9333
+--> 
 
-> *"For instance, as you're driving to work in the morning, you are likely to decide weather or not you need gasoline. You look at the gauge to see how much gas you have in the tank, you estimate how far it is you need to go, and you then make a rough guess as to how much gas you need to get to and from your office. By comparing in your mind the gas you need with the gas you have, you decice whether you should stop for gas or not."* (Grove, 1983, p.102)
+> *"For instance, as you're driving to work in the morning, you are likely to decide whether or not you need gasoline. You look at the gauge to see how much gas you have in the tank, you estimate how far it is you need to go, and you then make a rough guess as to how much gas you need to get to and from your office. By comparing in your mind the gas you need with the gas you have, you decice whether you should stop for gas or not."* (Grove, 1983, p.102)
 
 <!-- 
 @meta @references 

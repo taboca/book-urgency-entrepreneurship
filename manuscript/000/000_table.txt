@@ -1,5 +1,7 @@
 # Todo # 
 
+* @todo - p2 ( ) - In The Feedback of Urgency - Fix the quote from Andy as Marcio had found "weather" typed instead of whether. @meta-refid 7675-8383-0844-9333
+
 * @todo - p2 ( ) - In The Feedback of Urgency - Fix quote of Reid Hoffman to case from Start up of You and likely link to Conscious Business. 4892489-4928948-48284-483984. 
 
 * @todo - p2 ( ) - In The Feedback of Urgency - Consider to bring back the image from Adam - agreeable and disagreeable - perhaps not to the text but to reflect on it and to explain it better - ![](images/adam/agreeable-disagreeable.png) - @meta-refid 8585-5567-9294-4848 
