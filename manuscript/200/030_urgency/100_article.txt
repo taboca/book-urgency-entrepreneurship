@@ -16,23 +16,44 @@ It comes a day when the team is concerned that some important work is not being 
 
 The discussion shows that something has changed and that new planning is in order because something might be wrong. To illustrate, consider the team that has started with stratetic work, such as the work of discovery of their initial customers. As they found a couple of potential customers, a new reality emerged as they started valuing their customers. In a way, they understood themselves as having achieved maturity, that they had to be responsible to these new customers, such as to keep them happy even if the work to keep that is not too fun. But the new activities also started to affect their time and impacted other discussions such as new strategies that could set team in a new direction, or a better future, such as to consider if these current customers should be left behind so that they could focus on other customers. 
 
-When this discussion happens, it might do so after the team notices a saturation point. A wise team would indeed respect that it was the prior move - such as their success in executing important non-urgent activities - that brought them customers. Conversely, the need to attend those customers, and fears such as of losing these customers, makes initiatives, such as customer support, to become urgent. To note, that losing those customers does has double weight - as these customers are yet considered important and leaving them behind would mean being careless for the investment of non-urgent and important work that brought these customers in the first place. In other words, if a team member raises a hand to point that problems will rise with these customers, a "strategic manager" could well reply "that is a problem we want to have." This line of reply, by the very fact that it welcomes good new problems, not only revelas the measurement system but the size of the extra effort - even if it is unknown - to support the equilibrium and which justifies work which gets to be titled as urgent work. 
+When this discussion happens, it might do so after the team notices a saturation point. A wise team would indeed respect that it was the prior move - such as their success in executing important non-urgent activities - that brought them customers. Conversely, the need to attend those customers, and fears such as of losing these customers, makes initiatives, such as customer support, to become urgent. 
 
-What is complicated is the perception that almost take place by the rise of that lonely hand which was silenced. In other words, while the team had started with strategic activities, the new *numbers* showing (e.g. the count of customers) pulls them to supporting what sustain these numbers - generally seen as good new problems - which comes to maintain an equilibrium that apparently protects their growth. In perspective, as the urgent activities are supported by values, these comparison with some other important consideration sounds too arbitrary or subjective; which justify the team to stick with the urgent and even to take focus away from any consideration that could jeopardize the equilibrium as secured. This could set the team to deny the analysis of the whole system, the strategic planning, the check against vision and the future, and the priorization of the actual matrix of work to support a potential change. 
+To note, that losing those customers does has double weight - as these customers are yet considered important and leaving them behind would mean being careless for the investment of non-urgent and important work that brought these customers in the first place. In other words, if a team member raises a hand to point that problems will rise with these customers, a "strategic manager" could well reply "that is a problem we want to have." This line of reply, by the very fact that it welcomes good new problems, not only revelas the measurement system but the size of the extra effort - even if it is unknown - to support the equilibrium and which justifies work which gets to be titled as urgent work. What is complicated is the perception that almost take place by the rise of a lonely hand which is generally silenced. In other words, there's someone that notices that the team had indeed started with a kind of work where strategic activities took place first but by the new numbers, e.g. the count of customers, she is now frustrated that the team is busy in with that is seen as good news which for her sounds like to engage in the effort of means to justify the end of sustaining the numbers. She sees the team as a victim of its present reality. This person might be in a way contrarian to what the team is doing - perhaps not so excited anyway - and sees their focus on what is urgent as a problem. 
 
-Now the reflection that follows rests in two aspects. The first is a temporal analysis that accounts that a movement of the past, such as important non-urgent, after an intent to create a future, does the job of setting up a new present reality such as urgent and important or not important, and by that new challenges that affects the system to come up with a new future, which would likely require those important non-urgent activities. One concern revealed by this perspective is a natural question of why is it that we can't work anymore in stratetic and important things that could save us from being too busy with these urgent things? Which naturally sets the team to look at the present and compare possible future timelines in an attempt to identify strategic things that can be done, evaluate risks and rewards, and hopefully set some of the new strategies in the agenda. 
+
+<!--
+@meta @outline
+* outline - question - what can we do to see ways to break urgency and be safe into strategic thinking again?
+--> 
+
+In perspective, as one or many urgent activities sets in, they are indeed supported by values. And now, any new input with ideas to change the course is now to be compared with the new equilibrium that now needs to be maintained. In other words, the team justifies to stick with what's urgent. Of course, and naturally, as otherwise, they'll be busy trying to go back to the beginnings again. And for them, that means jeopardizing the equilibrium that they have secured in the first place. Nothing can be done unless one really moves beyond frustration and proves the new effort - with data - or if they prove themselves they have failed. Unfortunatelly, in the real world, none of these extremmes happens so fast; which brings us to the question, and the openning to the reflection that follows, which is as natural as why is it that we can't work anymore in the strategic and important things that could save us from being too busy with these urgent things? And can we do to help us get out from the urgencies that can kill strategic thinking and reflection? 
+
+The first analysis that follows the temporal analysis that naturally rises, the story of a reality that started with the initial movement in the past, consisting of high-risk movements of investment, and recognizes that as work started the team naturally gravitated from important not urgent to what they thought as important and urgent but in addition from their success and involvement of the team, a new future was created, bringing up more urgent things to be real, such as unexpected ones, and with that new challenges, such as to the point of mobilizing the team into work within them and also to into the affairs to challenge the new ideas that can be perceived as of a high-risk nature. 
 
 The second aspect looks at the elements of feedback that the team takes in consideration - consciously or not - that happens to set the role of a critic that generally has the power to put the label of urgent to activities, at the rise of the monitoring for these urgent activities, at the valuation of this feedback which go much as to make a team set the bar too high for new proposals such as if one says "it gotta be very important!"  
 
-<!-- 
 
-#compassion #aspect2
+<!-- 
+@meta @note - #compassion #aspect2
 
 Another exercise of reflection, which also follows we will be recognizing success as an allocation of resources which is urgent, thus the means that we make urgent to be urgent, the reflection that feedback systems are present, and the critic or measurment system that makes things appears as critical. As much as attempting to talk about the future seems arbitrary, or a risky idea, even more risky is the actual fact that pushes many to do the things as urgent completely driven by a critic that sets them in the actual not have perspectives, such as driven by values, by principles, and undeniably deniying important things, and raising the bar too much for what is impotarnt, as in lacking compassion. 
-
 --> 
 
-## Making it work 
+
+
+
+
+<!--
+@meta @outline
+* outline - Answer - k1 - How urgency comes into our present 
+--> 
+
+## The rise of the urgent 
+
+
+
+
+
 
 And even more complicated is that this feedback isn't as simple as "that customer isn't/is happy." In reality, it may go all the way into the hidden parts that keeps the system standing. As an illustration, if an electronic system happens to be used to monitor the satisfaction of customers, and if by a chance a customer tried to indicate an interaction through that system and happened to find a problem dealing with the interface, it is not uncommon a reactive work to take place, thus to bring back what is assumed to be the only way where customers can interact. 
 
@@ -40,42 +61,99 @@ But none of that would be a reason to consider urgent vs. important if the seeds
 
 [^editornote_glitch_story]: Solutions to manage the management problem is not necessarily a problem as it has to do with that teams actually do. As an example, the death of a game company called Glitch became the formation of one of the world's most popular digital communication tool for teams, Slack. According to Cnet (2013), the communication tool was created to support the development of the game. 
 
+
+<!--
+@meta @todo
+* @todo - p2 ( ) - In The Feedback of Urgency - Consider to expand the story of Glitch that became Slack. @meta-refid 7565-9876-4563-8765
+--> 
+
 <!-- 
-
-## Reference 
-
-Terdiman, D. (2013, November 18). Tiny Speck releases entire Glitch art archives into public domain. CNET. Retrieved from https://www.cnet.com/tech/gaming/tiny-speck-releases-entire-glitch-art-archives-into-public-domain/
-
+@meta @references 
+* Reference - Terdiman, D. (2013, November 18). Tiny Speck releases entire Glitch art archives into public domain. CNET. Retrieved from https://www.cnet.com/tech/gaming/tiny-speck-releases-entire-glitch-art-archives-into-public-domain/
 --> 
 
 
-## Spliting storylines  
+
+
+<!--
+@meta @outline
+* outline - Answer - k1.1 - New present is formed? Parallel reality from the past expectation. 
+--> 
+
+### The formation of a parallel reality 
+
+
+
+
+
 
 As we first consider part doer job of an entrepreneur, and as we recognize the growth nature of startups, we recognize that projecting a startup in the future goes inline with what an entrepreneurial role may have done in the first place to move from nothing to an action before it took them into bringing the discussion about urgent vs. important. In other words, an uncertain ideal took a doer to do, and they did, which brought saturation, to the point of the need of perspective again, to change, to project a new future. 
 
-A basic illustration is in order, for how urgent needs emerge. If we set our time machine to the old west and find the day where the hourseshoe of a horse was damaged, and that the worker brought to the willsmith was a so natural response, such as following instincts, a drive to fix and being equilibrium, eliminate that loss, perhaps driven by fear of not able to work. That is an automatic response which might be rooted in the principle of loss aversion [^footnote_loss_aversion], a concept that even behavioral economics had brought to the life of managers to state that the pain of loss is felt more deeply than the joy of an equivalent gain. In other words, our knowledge of the knowledge economy has already recognized that our propensity to react swiftly to mitigate disruptions to our 'known normal' is easily used as a model for the situations that we depend on or that we think will affect our future. It is needless to point that no one monitors anything except when they start to see a pattern of a recurring problem. Therefore, bringing back the equilibrium - such as to fix the horseshoe - consists of clearning the way to keep the focus on the job to be done. 
+A basic illustration is in order, showing how urgent situations arise naturally. If we set our time machine to the old American West around the end of the 1800s and observe a scientist who wanted to become a blacksmith and sell horseshoes, he set up his shop and advertised locally. Soon, he started to have customers. They came in with horses, and he sold horseshoes. Everything was working as expected. Then, one day, a customer came back walking and frustated and claiming that he had lost his horse because of the hourseshoe that got broken. Instinctively, the blacksmith felt compelled to restore the equilibrium because he feared that the situation could affect his customers' perception and wanted to bring back that balance. This came as an almost automatic response, possibly rooted in the principle of loss aversion [^footnote_loss_aversion], a concept that behavioral economics later developed to help many of us to get better the idea that the pain of loss is felt more acutely than the pleasure of equivalent gains. That part of the equation was something the blacksmith understood intuitively and from his ancestors and his present reality without the need to see the future and read any scientific paper. 
+
+Thus, it is fair to think that restoring equilibrium is merely a normal business reaction, clearing the way to keep things running smoothly and focusing on the tasks at hand.
+
+<!--
+@meta @todo
+* @todo - p2 ( ) - In The Feedback or Urgency - Check reference to loss aversion, which might also be referenced by Michael Dearing in Pricing #heavybit and consider to bring into footnote_loss_aversion. @meta-refid 7675-8764-7654-2637
+-->
 
 [^footnote_loss_aversion]: Check reference to loss aversion in the context of economic systems and general human behavior. Or point to the works from economy. 
 
-Now, leaving the illustration in the past but keeping the essentials, we then recognize that a new equilibrium is a need of a new present, in contrast with a past, which now makes a call to maintain something which is outstanding. More than the specific problem of a team, the arrival of the theme - of important vs. urgent - shows that the new present changed the condition of the past, such as that these urgent actitivies of now are demanding resources to the point that strategic no-urgent activities can't happen. 
 
-Now if one brings the idea to give more time for seeking important activities, a response of objection naturally rises as a demand for a plan, as in a proof. The need of a proof, or assurances, might be a toxic by-product of the success as perceived in this situation of saturation. Mainly toxic when it becomes arbitrary, just to kill the reflection for projecting a new future. Now, from a mature managerial pespective, although it matters that the seek important needs new assurances as in the team does not want to destroy it's engine running - it matters more that the growth situation brought a new reference point, like a new start, a new problem. 
 
-In other words, the fact that a role of a critic is interested in assurances, reveals that the nature of assurances have changed, and that a new comparison mechanism is configured, like a balance where on one hand there is present value where the value can't be taken away, and, on the other hand, a question that seeks value to be greater by the logic of loss aversion. It is then logical that the modern management then responds by demanding better-planned alternatives as if the work situation has now matured. But taken to an extremme, the necessity of such formallities of demands can be as naive the romantic instinct which asks the team to use a time machine to see the future and bring back proof that the new investment has worked. 
 
-That is to say that the need for formalities, such as a plan that indicates assurances, does less of a good service under the pressures in which makes the conclusion to become of the order or denial to anything in the future, while at the same time the very necessity comparison of a present versus future holds the path to the better management as it recognizes that planning alternate routes may involve the our ability to deal with forecasting. In this direction, we shall consider to ride along with ideas by Andy Grove given by "Planning: Today's Actions for Tomorrow's Output" (1983, p.102), where he starts by recognizing that we our natural inclination to do forecasting is the path for planning: 
+
+<!--
+@meta @outline
+* outline - Answer - k1.2 - We are already into the affairs with different realities, but now comparing them  
+--> 
+
+
+
+
+
+Now, and leaving the illustration in the past but keeping the essentials, we can then recognize that this new equilibrium that is needed to be maintained is a different present from what he originally expected. Thus, it is a parallel reality. If one had the time to reflect, to ask questions, one would arrive at the conflusion that he or she had indeed imagined a different outcome - such as of happy customers coming in and out with no frustrated or drunk or mad customers for example. But this is now - good or bad - the real present for the doer, the entrepreneur, the team. 
+
+Now and as introduced before, it may be so that one brings up an idea for changing things of this present. It may be so with an specific idea but all of us living the pressure of the present would react accordingly to that and to a provocation that goes along with that, as if that one had in first place asked more time of everyone - the time to consider important activities. It maybe so then that a response of objection naturally rises. It may go as simple as "we don't have time for that" but also it may come with additional sayings such as "can you prove that if we do that it will take us out of this situation which you claim to be bad?" 
+
+This need for proofs, or assurances, is not generallty seen as a bad thing from the viewpoint of the folks that protect the values given in the first place - such as the customers. There is logic in there. But what confuses the frustrated lonely troublemaker is how simple the objections from the team sets in - that the objections land so smooth and it seems even arbitrary; while his attempt to take off his plans are scrutinized with new demands, and proofs, or needs not only a whole blueprint but a coherent proof that is short, like an elevator pitch first. Thus the troublemaker becomes frustrated for the team has such a power to kill the beginning of new plans and moreover the chances for reflections to exist. 
+
+Now, from a mature managerial pespective, all of this makes sense, doesn't it? The troublemaker could be generally a troublemaker. And the team could go all the way to investigate their style, their character, their identity, such as to prove that he or she didn't want really to help the team and wants to be against everything. But that can be an inacurate reading of a real work situation. It is likely to assume that these gatekeepers of value and traction now demand proofs because, in other words, the nature of the situation has changed. Because the new nature brought clarity.  
+
+Now if the troublemaker is in troube in the face of the team for trying to point his finger to their bad use of time with urgencies, his main frustration is really due with the comparison mechanism that appears smoothly brutal - the comparison mechanism that is intuitively used by the team when they balance things out where on one hand they put present value - where the value can't be taken away - and on the other they don't even bother to put the idea but to leave there many questions in the place, asking for a good pitch, good reasons, a good plan, and also assurances. Of course, That logic is well supported by the principled logic of loss aversion. This is part of the defense of the troublemaker but in his privacy he feels that furthermore his team seem quite naive, or romantic, as if they wanted him to take the time machine, to visit the future, and come back with an almanac full of calendars, weather forecasts, statistical data.  
+
+
+
+
+<!--
+@meta @outline
+* outline - Answer - k1.3 - The business of forecasting indeed solves the puzzle 
+--> 
+
+
+
+
+Now if a light exists in this discussion of parallel realities, that can take us to reconsider the new present that could help with a better future - the present that now suffers with the unexpected new conditions that keeps the team busy where no one seem to be frustrated with except the troublemarkers - it comes from the very mechanisms that we are born with, our capacity to plan by forecasting, the very mechanisms that set us to make the tough questions such as "Where are the assurances? The plan? And the coherent pitch?" 
+
+In this direction, we as troublemakers willing to crack the land of confunsion, should ride along with Andy Grove given by "Planning: Today's Actions for Tomorrow's Output" (1983, p.102), where he starts by recognizing that we our natural inclination to do forecasting is the path for planning. The reflection that follows will help us to set the reflection we want by honoring the values of forecasting that are now demands for any new ideas; but asking these questions for the current and present situation. Well, after all, let us honor the methods of thinking we are using to beat new ideas by applying them to the present we have, by forecasting the present we have in the future - by following a logic that sets that anything being done is likely a plan that will certainly cause a new future. 
+
+The illustration from Andy reminds us of our natural born-with inclination to the business of forecasting: 
 
 > *"For instance, as you're driving to work in the morning, you are likely to decide weather or not you need gasoline. You look at the gauge to see how much gas you have in the tank, you estimate how far it is you need to go, and you then make a rough guess as to how much gas you need to get to and from your office. By comparing in your mind the gas you need with the gas you have, you decice whether you should stop for gas or not."* (Grove, 1983, p.102)
 
 <!-- 
-
-## References 
-
-Grove, Andrew. (1983). High Output Management. Vintage Books.
-
+@meta @references 
+* Reference - Grove, Andrew. (1983). High Output Management. Vintage Books.
 --> 
 
-Andy's illustration not only supports us to recognize our natural inclination into planning based on forecasting, but it is an invitation to what management actually does which is essencially a planning that deals with an expected future by changing our situation of our present. This is where he asks us to consider two time frames, the present versus sometime in the future (1983, p.104). But in order to compare anything, analogy of a factory, which is essentially a way to provoke us to visualize that the efforts made by workers can be framed, or packaged, like a functional unit that has inputs and outputs. A simple but meaningful example would be the breakfast factory where inputs can be things like eggs, and other resources, tools, and the processes; while output is what is aimed, sich as the eggs served to attend customer needs. But in essence, the intent to frame a process as a factory represents an opportunity to freeze the situation in time so that analysis of the different timeframes can be done. 
+It is also his reminder that this is what management actually does. So first honoring Andy's managerial viewpoint ... 
+
+
+
+
+
+This is where he asks us to consider two time frames, the present versus sometime in the future (1983, p.104). But in order to compare anything, analogy of a factory, which is essentially a way to provoke us to visualize that the efforts made by workers can be framed, or packaged, like a functional unit that has inputs and outputs. A simple but meaningful example would be the breakfast factory where inputs can be things like eggs, and other resources, tools, and the processes; while output is what is aimed, such as the eggs served to attend customer needs. But in essence, the intent to frame a process as a factory represents an opportunity to freeze the situation in time so that analysis of the different timeframes can be done. 
 
 By isolating your process, the first step of planning starts with the examination of the aspects which you are interested in improving for your "factory". As an example, imagine that attending custom needs of all the customers while being considered urgent it is costing a lot and preventing time that could be used in other strategic activities. The second step is to consider the situation of now, the status of your "factory" in the sense of the accountability of what happens, the efforts that take place, which transforms the inputs in outputs. In the example, imagine that there is a help desk service which is kept running, 24x7 as your customers may appear at any time. And that you have costs associated with that. Finally the third step involves projecting a new future where you can consider the growth situation and the goals in long term, such as customer satisfaction, and with that you make projections of how the current factory would produce as results if, say in one year, your customers had grown to 100 - assuming such goal is acceptabel to the situation of a future. The result of the exercise may show that the help desk service would not be able to attend; which would create a gap considering the new demands in growth, which would provoke the team to consider solutions to fill the gap, which normally could start with just growing the help desk, although such basic notion of productivity would also prompt the team to consider ways to improve the efficacy of the customer service in new ways, under the recognition that customers happy were the ultimate goal. 
 
@@ -87,7 +165,21 @@ To give an example of improved perspectives, consider the situation of the floor
 
 In other words, it becomes clear that new aspects of evaluation and judgment are applicable on top of what is initially a single feedback that is outsanding; that this new evaluation enters the system of evaluation in ways that support goals. This situation also shows that some of the numbers we monitor might lead us to take them as supportive of other values, this leading us to allow the intrusion or editing of the feedback with a new perspective, and new meaning. And needless to say that under pressure, we might assume that data pouring in means value captured or the conditions towards value being supported. But we shouldn't miss the point of wisdom from Andy which is given by the identification of the pairing indicator - which makes evident the origin of the case which starts with the idea that a single indicator is not enough - as it supports the forward movement. 
 
-## Feedback valuation 
+
+
+
+
+
+<!--
+@meta @outline
+* outline - Answer - k2 - How feedback enters 
+--> 
+
+## The valuation of feedback 
+
+
+
+
 
 Now, the very approach of spliting time frames and the reflection about the indicators, such as when they are paired with strategic new indicators, bring us to the complication that we do engage in valuation of feedback because feedback supports value which are taken securities for us to reach that expected future. Thus essentially, the split exercise has to do with considering alternatives, in other words it is about establishing a window into the process, about evaluating the feedback being received. But also essentially revels the other fight, or management job, which is to reason through what happens in the space of feedback, more specificially how teams measure and value what they do. 
 

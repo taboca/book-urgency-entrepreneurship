@@ -1,5 +1,9 @@
 # Todo # 
 
+* @todo - p2 ( ) - In The Feedback or Urgency - Check reference to loss aversion, which might also be referenced by Michael Dearing in Pricing #heavybit and consider to bring into footnote_loss_aversion. @meta-refid 7675-8764-7654-2637
+
+* @todo - p2 ( ) - In The Feedback of Urgency - Consider to expand the story of Glitch that became Slack. @meta-refid 7565-9876-4563-8765
+
 * @todo - p2 ( ) - In Not So Radical Focus - Fix the page of the quote from Jonathan Nightingale. @meta-refid 49285928-5298592-52895892-5983589 
 
 * @todo - p2 ( ) - In Not So Radical Focus - Outcome vs. Output battle - Consider if the situation of McCallum and the questions would have any connection with "counter-effect" from Andy's idea of pairing indicators. @meta-refid 2948294-4298492-428042908-24894829
