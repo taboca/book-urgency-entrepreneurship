@@ -189,7 +189,15 @@ Now, and before we move on to into how we use and misuse feedback systems, it mu
 
 Thus, if we were programmed to value valuable things, we do so that we can continue to invest. Like good friends, we value, we keep them around, and with them around, we hope to feel in better condition to move on and improve our lives. Therefore, an exploration of navigating feedback with family is friends is first given for the sake of our reflection on how feedback shows strong ties with values. Then, we move on advancing with other situations of growth of teams, establishing a perspective for how the presence of vibrant feeback, in the sense of steady or present, becomes valuated by teams in the face of perceived present values that are assumed to be values that enables further growth. All these reflections are here so that we can gain a point of view, in perspective, about how strong we give value to feedback and possible misinterpretations that either lies or are strong enough to not even allow us to seek to see through, to transcend, to reflect and interpret the real values we seen, then to life potential activities that can be more strategic. 
 
+
+
+
+
 ### The amateur feedback 
+
+
+
+
 
 Starging with feedback from family and friends, although it may not directly explain how teams use feedback to define what is urgent, it is a good starting point for the reflection about how feedback ties with values. 
 
@@ -203,7 +211,10 @@ Therefore, talking about family and friends is acceptable, as these folks happen
 
 The same happens with family, depending on the family culture, as the received feedback might not be honest because the person wants to motivate, or in other extremme demotivate. In other words, these folks are not free from the dilemma - where opportunity and risks are compared with the a path that is taken as of certaintly. In other words, through what appears to be an exercise of feedback, it happens to be discussions about investments that takes towards positive or negative values. Entrepreneur Adora Cheung went all the way to explore the topic through a viewpoint referred as "The Honesty Curve" (How to Start a Startup, 2014, 21:18), indicating that there are people who will lie. Let's look her example of a possible curve. On the vertical axis, she shows honesty level while on the horizontal axis, different kinds of relationships starting with the mother, then friends, then people.
 
-![Curva da honestidade](images/adora/honesty.png)
+<!--
+@meta @todo
+* @todo - p2 ( ) - In The Feedback of Urgency - Consider to bring back the image from Adora - honesty curve - perhaps not to the text but to reflect on it and to explain it better - ![Curva da honestidade](images/adora/honesty.png) - @meta-refid 8585-9393-9294-4848 
+--> 
 
 Adora presents two curves showing the level of honesty in the feedback given by different types of people. First, let's look at an offering that is not free showed by the red curve, for example, a paid product. In this case, according to Adora, a mother is likely to be less honest. As she move towards friends, she considers that honesty improves. She concludes that, for paid products, the further you go towards anonymous people, the more honesty you will see.
 
@@ -217,13 +228,24 @@ Yet within the realm of friends, professor and psychologist Adam Grant, in the b
 
 [^editornote_adamgrant_give_or_take]: In the book Give or Take Adam grant explores the behaviors of people giving feedback and how feedback changes depending on characteristics of who gives feedback. 
 
-![](images/adam/agreeable-disagreeable.png)
+<!--
+@meta @todo
+* @todo - p2 ( ) - In The Feedback of Urgency - Consider to bring back the image from Adam - agreeable and disagreeable - perhaps not to the text but to reflect on it and to explain it better - ![](images/adam/agreeable-disagreeable.png) - @meta-refid 8585-5567-9294-4848 
+--> 
 
 Adam suggests that the best profile to seek feedback from is someone who likes to help but does so in a disagreeable or honest manner. That is, someone who doesn't necessarily agree with everything you say but still remains on your side — someone who keeps saying, “look, I think this won’t work because of such and such.” For Adam, a mother is usually in the quadrant of those who want to help but agree with everything because she is influenced by the relationship.
 
 The main point is about the degree of honesty offered by people is that honest appears to fail feedback based on values are honestly shown as perceived by the giver in a given context. In other words, a mother is programmed to care, and to deal with an emotional being that may or may not survive, and so she adjusts her honesty level accordingly, such as 90%. Moreover, it becomes relevant to know who these people are, what they care, what are the values that they are considering, and the like. In the case of a Meat Skewer business, it may not be good to get feedback from vegans. Or looking at it another way, one could consider to get feedback from the contrarian group in order to discover other values. Thus, in the end, what matters is being aware that data appears as feedback to support certain values given by the perception given - a task more important than getting the feedback itself.
 
+
+
+
+
 ### Protected by values 
+
+
+
+
 
 To contextualize, we are driving to the right side of growth, towards accessing what is honest feedback, which reveals the complication of higher risk, as data are expected to be stronger in terms of representation of signal; still our analysis moves slightly away of the higher degree of subjectiveness given by the prior section but yet explores the strong intent to shortcut feedback with values which drives behavior, such as to the point of preventing different views.  
 
@@ -238,12 +260,11 @@ So, even though it may indeed be a problem, one could well be inclined to rather
 With this, it becomes difficult to transcend, interpret, and try to create ways for a new future to pave the way for improvements, considering that it is assumed that certain potentially important things are actually hindered by principles, like: at this moment, I can't do this to these people. Consider the complex situation, according to Reid Hoffman in The Startup of You, where a relationship of friendship creates a difficult situation for honest feedback, and this explains how difficult it is to fire a friend in the company. 
 
 <!-- 
-
-* ( ) p2, The Feedback of Urgency, Fix quote of Reid Hoffman to case from Start up of You and likely link to Conscious Business. 4892489-4928948-48284-483984. 
-
+@meta @todo 
+* @todo - p2 ( ) - In The Feedback of Urgency - Fix quote of Reid Hoffman to case from Start up of You and likely link to Conscious Business. 4892489-4928948-48284-483984. 
 --> 
 
-> "" Reid Hoffman, Startup of You. 
+> *""* Reid Hoffman, Startup of You. 
 
 To note, the very point of Reid - honest feedback - actually in fact stamps the complication, as an young professional having issues with a friend, is likely unable to transcend the friendship to a point of achieving clarity that, as an example, to see firing a friend as doing good. With that, the possibility of supporting the friend - the needs of the present - gets in the way. Therefore, and not unlike the mom situation, honesty for the younger relationship would perhaps boil down to saving a friend in front of present needs, even if the future business is compromised. While honesty from the viewpoint of a mature relationship in a business environment, would certainly acknowledge a consciousness about the business as an entity [^footnote_conscious_business_fred_kofmann], or mature perspective, where firing the friend is the best thing to do as opposed to keep the person in the business and harming their own future and the future of the business. 
 
@@ -254,11 +275,8 @@ The introduction of new models of behavior, although might be recognized as impo
 Furthermore, the attachment to numbers, which are captured and perceived as representation of value, may show a version of the urgent entrepreneur-executor that does exercise a basic need to close the gap in the sense of closing the gap towards the final product, reflecting a reaction from an obsession, or pressure, or lack of external viewpoints, which may lead to the a temptation that end is getting closer by a virtue of a movement which disregard the means. This idea aligns with William Zinsser's perspective in "The Tyranny of The Final Product." Zinsser (2006) elaborated on the fixation of a culture oriented toward winning results, noting that professional authors are frequently asked, "How can I sell my writing?" He insists that "if the process is sound, the product will take care of itself, and sales are likely to follow" (p. 254).
 
 <!-- 
-
-References
-
-Zinsser, W. (2006). On Writing Well: The Classic Guide to Writing Nonfiction (7th ed.). Harper Perennial.
-
+@meta @references 
+* reference - Zinsser, W. (2006). On Writing Well: The Classic Guide to Writing Nonfiction (7th ed.). Harper Perennial.
 --> 
 
 But worse than a general inclination, it is equally critical the rise of a characteristic of a kind of criticism that is not "as benevolent" which goes along with the modern version of criticism which is framed by the urges to select, in the sense of filter-first think-later, by using elimination methods which in essence consists of looking at quantitative aspects from data that seems representatives, like measures such as high or low points, thus typical of what a professional judge would do under thepressure of the judgement due date that is outstanding. 
@@ -271,7 +289,16 @@ Plus, the change, when it is time to apply, will be tough which will need either
 
 It implies that you can create solutions and many of them can even become simple solutions, such as phrases. For example, indicating to participants where the bathroom is or presenting certain points that govern good relationship health. These solutions are implemented in proportion to the transparency of these "regulation" systems, whether in contracts, in hallways, in communications, by other participants, and collaborators. Thus, it might have to do with culture, a culture that regulates the constituents to establish conditions of growth and equilibrium for success, which requires placing the customer in certain categories and under certain behaviors too.
 
+
+
+
+
 #### The facets of pleasing 
+
+
+
+
+
 
 In the prior chapter, we have considered a reflection about the trap of pleasing, or over-pleasing, where we have focused in the case where pleasing offered a wall which prevented entrepreneurs to see through, to access value ahead. Now, in the context of the priorization of activities, it is worth first to recognize the essence of pleasing which may have roots in the needs for approval, endorsement, support. Therefore, and differentiating from the openning given by the prior chapter, although pleasing might have honorable beginnings, the dynamics of these relationships such as customer relationship, relationships through product and offering, may lead to the complex situation which is illustrated by the extremme, over-pleasing, which is when who offers the offering essencially engages in a behavior alike to the situation of a mom as depicted, which conversely may be seen as lack of honesty, although by the self usually recognized as - I am offering another level of value such as "I care about you" or "I love you," which essencially reveals what can be for some perceived as a fraud, or a corruption, but nevertheless shows that time and resources might be wasted.   
 
@@ -295,7 +322,16 @@ In essence, you make a commitment where, in a way, you tactically "deceive" your
 
 In conclusion, we know that our innate reaction can compel us to fix problems quickly - which is good. However, our quick and automatic reaction can also be paused and call for a moment of reflection - about our possible actions. Furthermore, we can justify activating strategic thinking that can pave the way for long-term solutions. By reflecting on our natural tendencies, we can initiate positive changes, leading us more quickly to a better future.
 
+
+
+
+
 ### Proteced by local-global representativeness 
+
+
+
+
+
 
 For every venture, there's a outstanding necessity of groth, which is the idea that the product needs to be launched to a market, although the market may start like a prototype of what is the market, and then, if traction through the interacion with the market is shown, then a larger market is innevitable. But nevertheless these confrontations with the market ahead happen throught what some entrepreneurs call it a launch - others may call it an inauguration. But essentially, it's a projection, where these elements are in a way or another offered to elements, like customers, which gives feedbacks after a consumption of the offering. The feedback may happen in different ways, like actual qualitative feedback given, ratings, by the very premium paid, and more. 
 
@@ -337,7 +373,15 @@ In other words, Airbnb weren't jumping from conference to conference acquiring u
 
 To close, for every local tests you do, your team will likely deal with the tension which rises from the consideration that, on one extremme what was leaned from a prior interaction, values given by feedback, might become apparent in the product to be tested in another locality. And the other extremme, if one could run the world with no regards to the use of resources or reputation, where the re-run of interaction experiments could be done again and again with totally different propositions up to the point of discovering value.  
 
+
+
+
+
 ### Protecting by leadership
+
+
+
+
 
 Requires respect to the fact that things won't go so well as I am doing manually. 
 
@@ -351,62 +395,28 @@ When she really faces the fact that the release of herself is likely necessary, 
 
 Therefore, it seems that part of what management does is really about automation which aims for producing change in the organization. Or, change that serves growth. 
 
+
+
+
+
 #### Story of the dishwasher solution
+
+
+
+
 
 I have written the following letter to editors of a publication
 
-```
-Hi editors, 
+> *"Hi editors,  A draft for an article for your consideration - The Dishwasher Machine Management Problem. When I say consideration, I am not forcing anything. Just sharing. I know that this is simple, it might be more like an outline.  A lot of people in Brazil refuse to invest in a dishwasher. The reasoning is this: When I wash the dishes, I reflect; it's not that hard. If I get a machine, I have to buy new dishes, change my habit, accept that I have to organize everything perfectly inside, and even pre-clean the dishes. I get mad because it feels like I am working for the machine. And all this to gain, in total, 10 minutes instead of doing it by hand. Such reasoning makes lots of sense: The machine will do a job very poorly. That machine comes with a mediocre process that costs a lot - a dishwashing machine in Brazil costs 2-3 minimum wage salaries. Now the dishwasher machine problem is a problem of management. A team manager is tied to the routine, managing the system, accelerating, or pausing its components. Not much consideration is given to upgrading the process with " a new machine" such as a human resource. At this moment, many excuses will show up, just like the excuses that justify not incorporating that mediocre machine in the process. But that 10min gain, which received lots of no-go reasons, can be the opportunity for major gains. Consider when a manager adds an intern, for example: Yes, the dishes will need to be adapted, and it might offer a 10-minute, like that mediocre machine. But similarly to the opportunity of using that extra 10 minutes to do something useful in the kitchen, the manager - and its team - will be able to support that new working piece to improve its maturity. The difference between the dishwashing machine and your human resource is that the human resource wants to grow if you give her a chance. PS: Could connect with Andy Grove on Task Relevant Maturity "* (Marcio Galli, Letter to Raw Signal)
 
-A draft for an article for your consideration - The Dishwasher Machine Management Problem. When I say consideration, I am not forcing anything. Just sharing. I know that this is simple, it might be more like an outline. 
 
-A lot of people in Brazil refuse to invest in a dishwasher. The reasoning is this: When I wash the dishes, I reflect; it's not that hard. If I get a machine, I have to buy new dishes, change my habit, accept that I have to organize everything perfectly inside, and even pre-clean the dishes. I get mad because it feels like I am working for the machine. And all this to gain, in total, 10 minutes instead of doing it by hand.
-
-Such reasoning makes lots of sense: The machine will do a job very poorly. That machine comes with a mediocre process that costs a lot - a dishwashing machine in Brazil costs 2-3 minimum wage salaries.
-
-Now the dishwasher machine problem is a problem of management. A team manager is tied to the routine, managing the system, accelerating, or pausing its components.
-
-Not much consideration is given to upgrading the process with " a new machine" such as a human resource. At this moment, many excuses will show up, just like the excuses that justify not incorporating that mediocre machine in the process.
-
-But that 10min gain, which received lots of no-go reasons, can be the opportunity for major gains. Consider when a manager adds an intern, for example: Yes, the dishes will need to be adapted, and it might offer a 10-minute, like that mediocre machine.
-
-But similarly to the opportunity of using that extra 10 minutes to do something useful in the kitchen, the manager - and its team - will be able to support that new working piece to improve its maturity.
-
-The difference between the dishwashing machine and your human resource is that the human resource wants to grow if you give her a chance.
-
-PS: Could connect with Andy Grove on Task Relevant Maturity 
-
-```
-
-<!--
-
-ChatGPT comparisons with the case pointed by Melissa of managers hiring senior 
-
-```
-Misunderstanding the Integration Process:
-
-[1] People resist investing in a dishwasher thinking it's simpler to continue doing things manually. But even when they buy one, they realize there's a learning curve to using it efficiently.
-[2] Managers often feel it's arduous to onboard new team members, so they opt for hiring more senior personnel thinking it'd be easier. However, even the senior individuals require a period of adjustment.
-Underestimating the Onboarding Process:
-
-[1] Dishwashers might save only 10 minutes of manual washing time, but they come with their own set of instructions and requirements (e.g., organizing dishes, pre-cleaning).
-[2] Hiring senior personnel doesn't eliminate the need for onboarding. Every new team member, regardless of their seniority, requires time to understand the organization and its processes.
-Cost vs. Value:
-
-[1] Dishwashers in Brazil are expensive, costing 2-3 minimum wage salaries. People weigh this high cost against the perceived marginal gain in efficiency.
-[2] Hiring senior personnel might be costly in terms of salary, but managers expect an immediate return in terms of productivity and efficiency, which might not be realistic.
-Potential for Growth and Improvement:
-
-[1] The analogy hints at the idea that if one properly utilizes the saved 10 minutes, it can be put to other productive uses in the kitchen.
-[2] By properly onboarding and training a new hire, even if they are an intern or junior member, there's potential for significant growth and contribution to the team.
-Resistance to Change vs. The Need for Thoughtful Integration:
-
-[1] People resist changing their dishwashing habits, even if a machine could potentially make the task more efficient.
-[2] Managers sometimes resist the idea of onboarding new team members, hoping to bypass the process by hiring senior personnel. However, thoughtful onboarding is essential for everyone.
-```
--->
 
 ### Protected by readiness
+
+
+
+
+
 
 <!--
 
@@ -464,7 +474,16 @@ Indeed, we naturally gravitate towards tasks where we feel we have a firm grip o
 
 With this openning, it is not that we entirely give up doing things that requires redesign. It is just that we want to be in a good position, to be in the right mood, to be prepared, ready, and having things sorted out. This situation plagues all sorts of professionals, but especially the roles that involves leadership such as of entrepreneurs. 
 
+
+
+
+
 ### Search for reasons for timeless 
+
+
+
+
+
 
 Furthermore, the notion of "analysis paralysis" frequently resonates in our minds, embodying the fear that we may become so wrapped up in overthinking and overanalyzing that we end up immobilized, incapable of making decisions or taking action. This fear can amplify our anxiety and the perceived necessity to be 'in the right mood' to tackle these demanding tasks. While the real situation of analysis paralysis can indeed be debilitating, the prevalence of this concept in discussions and self-reflections often heightens the apprehension about engaging with tasks that seem to be complex. It's essential to distinguish between the phenomenon that gave rise to the concept - of analysis paralysis - and the rhetorical device it has become, often used to accentuate the fears and which challenges the execution of important tasks. 
 
@@ -483,7 +502,18 @@ Connection: Investigate how Maslow's work supports the concept of needing to be 
 
 Not unlike, it also happens in the life of writers, as illustrated by Julia Cameron (1998) in 'The Right to Write'. It is a phenomenon that plagues all sorts of professionals, especially those in leadership or entrepreneurial roles.
 
-## Conclusion 
+
+
+
+
+<!--
+@meta @outline
+* outline - conclusion?
+-->
+
+
+
+
 
 As interpersonal relationship arises, feedback systems chimes in. We gotta be driven by and free of. And going back to values of higher-order goals, going back to values of a system that gives people opportunity to grow, are important aspects to nurture time for. Thus, it is the responsibility of the entrepreneur and the executive team to deal with this, to use time for this, mapping, unbundling, being a critic and being a growth mentor, giving permission too, openning protective spaces of bets and separating risk analysis. 
 

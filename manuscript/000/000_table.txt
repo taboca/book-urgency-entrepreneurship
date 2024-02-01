@@ -1,5 +1,11 @@
 # Todo # 
 
+* @todo - p2 ( ) - In The Feedback of Urgency - Fix quote of Reid Hoffman to case from Start up of You and likely link to Conscious Business. 4892489-4928948-48284-483984. 
+
+* @todo - p2 ( ) - In The Feedback of Urgency - Consider to bring back the image from Adam - agreeable and disagreeable - perhaps not to the text but to reflect on it and to explain it better - ![](images/adam/agreeable-disagreeable.png) - @meta-refid 8585-5567-9294-4848 
+
+* @todo - p2 ( ) - In The Feedback of Urgency - Consider to bring back the image from Adora - honesty curve - perhaps not to the text but to reflect on it and to explain it better - ![Curva da honestidade](images/adora/honesty.png) - @meta-refid 8585-9393-9294-4848 
+
 * @todo - p2 ( ) - In The Feedback or Urgency - Check reference to loss aversion, which might also be referenced by Michael Dearing in Pricing #heavybit and consider to bring into footnote_loss_aversion. @meta-refid 7675-8764-7654-2637
 
 * @todo - p2 ( ) - In The Feedback of Urgency - Consider to expand the story of Glitch that became Slack. @meta-refid 7565-9876-4563-8765
@@ -159,8 +165,6 @@
 * p1, ( ) Check "The Flow of Pressure" #Melissa #Maslow #Jacqueline 
 
 * p2 ( ), #outcome #output #okr, Andy Grove in p.17 of High Output Management uses output in the sense of outcome in his example: "Obviously, you measure a salesman by the orders he gets (output), not by the calls he makes (activity)." Of course, his use of output seems in the way of a further more strategic output which could be understood as outcome, in the sense of objectives. But nevertheless, the right breakdown, in Marcio's opinion is about not hiding the activity and the output in the face of an outstanding objective or outcome, thus enabling the window of opportunity to learn. 
-
-* ( ) p2, The Feedback of Urgency - Fix quote of Reid Hoffman to case from Start up of You and likely link to Conscious Business. 4892489-4928948-48284-483984. 
 
 * p2, ( ) Check the footnote, Adam Grant and the map of giver and taker, which is the book, and which was the talk - [^editornote_adamgrant_give_or_take] within 410_automatic_reaction_breaking.. 
 
