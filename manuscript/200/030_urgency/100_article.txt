@@ -149,10 +149,6 @@ In this direction and wearing the shoes of the troublemaker in the hope that we 
 
 It is also his reminder that this is what management actually does. So first honoring Andy's managerial viewpoint ... 
 
-
-
-
-
 This is where he asks us to consider two time frames, the present versus sometime in the future (1983, p.104). But in order to compare anything, analogy of a factory, which is essentially a way to provoke us to visualize that the efforts made by workers can be framed, or packaged, like a functional unit that has inputs and outputs. A simple but meaningful example would be the breakfast factory where inputs can be things like eggs, and other resources, tools, and the processes; while output is what is aimed, such as the eggs served to attend customer needs. But in essence, the intent to frame a process as a factory represents an opportunity to freeze the situation in time so that analysis of the different timeframes can be done. 
 
 By isolating your process, the first step of planning starts with the examination of the aspects which you are interested in improving for your "factory". As an example, imagine that attending custom needs of all the customers while being considered urgent it is costing a lot and preventing time that could be used in other strategic activities. The second step is to consider the situation of now, the status of your "factory" in the sense of the accountability of what happens, the efforts that take place, which transforms the inputs in outputs. In the example, imagine that there is a help desk service which is kept running, 24x7 as your customers may appear at any time. And that you have costs associated with that. Finally the third step involves projecting a new future where you can consider the growth situation and the goals in long term, such as customer satisfaction, and with that you make projections of how the current factory would produce as results if, say in one year, your customers had grown to 100 - assuming such goal is acceptabel to the situation of a future. The result of the exercise may show that the help desk service would not be able to attend; which would create a gap considering the new demands in growth, which would provoke the team to consider solutions to fill the gap, which normally could start with just growing the help desk, although such basic notion of productivity would also prompt the team to consider ways to improve the efficacy of the customer service in new ways, under the recognition that customers happy were the ultimate goal. 
@@ -164,6 +160,21 @@ To give an example of improved perspectives Andy suggested how key indicators ca
 To give an example of improved perspectives, consider the situation of the floor cleaned in a small space, as measured by a key indicator as the number of square feet cleaned. In this scenario, generally monitoring quality might be just about measuring the numbers. While the situation of a grown-up space, with thousands of square feet to be cleaned, would justify the need for a new indicator that "should be paired with a partially objective/partially subjective rating of the quality of work as assessed by a senior manager with an office in that building" (Grove, 1983, p. 17).
 
 In other words, it becomes clear that new aspects of evaluation and judgment are applicable on top of what is initially a single feedback that is outsanding; that this new evaluation enters the system of evaluation in ways that support goals. This situation also shows that some of the numbers we monitor might lead us to take them as supportive of other values, this leading us to allow the intrusion or editing of the feedback with a new perspective, and new meaning. And needless to say that under pressure, we might assume that data pouring in means value captured or the conditions towards value being supported. But we shouldn't miss the point of wisdom from Andy which is given by the identification of the pairing indicator - which makes evident the origin of the case which starts with the idea that a single indicator is not enough - as it supports the forward movement. 
+
+
+
+
+<!--
+@meta @outline
+* outline - Answer - k1.4 - The forensic quest, escavating into the political affairs  
+--> 
+
+
+
+
+Now if one wanted to get involved with such forecasting, such as to provoke the team to give up some urgent activities, that should involve the effort of getting buy-in, and the agreement, from the team; to get involved with the matter, which is quite complicated because they are quite involved in the present matters by the logic that we had considered before.
+
+Therefore, the troublemarker shall then embrave the leadership position in order to move on and that involves to have the buy-in from the team, at a minimal level to support the planning exercise. To to that, some ideas for an objective approach to do that is first to have a clear communication and to understand what everyone is doing in the present, and that involves the aspects of transparency. The other component is to get to understand the goals of everyone and teams and everyone involved because then you know what they are actually doing. But since you cannot know exactly what they're gonna find out in the future and the consequences like the urgent consequences for everyone's job, you may try to access and asses that by looking to the values that justifies their goals which can be associated with their objectives or other high-order goals or aspirations or values that keeps them doing what they do and makes them to justify the positions they take. In other words, the work of forecasting in the realm of the political affairs, the things with the future, shows in part a sort of forensic work because you're sort of excavating starting with what is real and trying to reach out to the values aiming to forecast the ties with urgencies. With that said, let us explore a bit about the values that affect the entrepreneurial work space and a lot the startup growth path, from the beginning and their future, and within how the feedback that grows with the growth is valued and supports the values. 
 
 
 
