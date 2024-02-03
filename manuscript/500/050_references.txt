@@ -61,7 +61,9 @@ http://www.paulgraham.com/before.html
 
 <!--  
  100/050_wantrepreneur_learner.txt
+ 200 / 030_urgency 
 --> 
+
 Greylock. (2015, November 30). Blitzscaling 18: Brian Chesky on Launching Airbnb and the Challenges of Scale [Video]. YouTube. https://www.youtube.com/watch?v=W608u6sBFpo
 
 
@@ -517,6 +519,19 @@ Ries, E. [Talks at Google]. (2011). The Lean Startup [Video]. YouTube. https://w
 --> 
 
 Zinsser, W. (2006). On Writing Well: The Classic Guide to Writing Nonfiction (7th ed.). Harper Perennial.
+
+
+<!-- 
+* 200 / 030_urgency 
+--> 
+
+Gendler, T. (2012, April 5). Weakness of the Will and Procrastination. YaleCourses. Retrieved February 2, 2024, from https://www.youtube.com/watch?v=xp3m7e9T72k
+
+
+<!-- 
+* 200/250_stop_impressing.txt ? Check 
+* 200/040_communications.txt ? Check 
+--> 
 
 Greylock. (2017, June 20). The Job of a CFO at a Scaling Company with Sarah Friar and Jason Child | The Scaleup Offsite 2017 [Video]. YouTube. https://www.youtube.com/watch?v=[VideoID]
 
