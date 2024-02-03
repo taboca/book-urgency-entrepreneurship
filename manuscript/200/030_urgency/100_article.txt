@@ -369,6 +369,10 @@ And in that regard, matters too the need to improve the awareness about the form
 --> 
 
 
+
+
+
+
 In the following illustration, consider the insights provided by Brian Chesky, the co-founder of Airbnb, in the interview by Reid Hoffman, as he sets the context and explores the beginning and initial conversation with his family, where it is clear that the entrepreneurial team is struggling by the conversation with the families and trying to transcend and to face the challenging situation where they have to identify basically the conflict with the values that they have, how they were brought into, in contrast with the different values of a potential vision. Therefore, they are trying to break their assumptions.
 
 > *"My parents are both social workers. My mom used to have a joke. She said, 'I chose a job for the love, and I made no money, so you should choose a job for the money.' And I said, 'Well, I'm going to art school.' And she said, 'Oh my God. You chose the only path in life that's gonna pay less than a social worker because you're gonna be an artist and get paid nothing.' And so she said, 'If you do that, make sure you don't move back home, live in my basement. Make sure that you get a job one day and that if you get that job, make sure that job has health insurance.' And this was like a grand ambition for my parents. So, it wasn't about starting any kind of big company, or scaling up a company. And so I wasn't going to be able to call my parents, 'Oh my God, what do I do? I have 100 employees, how do I scale?' That wasn't going to happen in my family."* (Chesky, 2015, 1:54)
@@ -396,7 +400,7 @@ These kinds of conversations are not uncommon in the lives of many entrepreneurs
 * outline - Answer - k2.1.2        \____ Feedback and values first customers and juvenily    
 --> 
 
-#### Struggle to access conscious values 
+
 
 
 
@@ -415,41 +419,6 @@ Moving forward after looking back, she wonders if she wanted to look nice, as in
 The passage might shows the complex situations that professionals face. As they advance in maturity through the entrepreneurial path of growth, their value systems also shifts such as from the values they held to - as trained as specialists such as the case of a psychologist - now embracing entrepreneurial values or generalist values to hold the organization standing. In other words, the psychologist of the past had strong beliefs that the core element of her practice, to which the possibility of growth would happen, heavily lied in the doing good, to be compassionate. This idea could even push further the professional to take longer to see the growth problems of the same behaviors or to - as indicated in the introduction - to move on with these values and then face eventually the sum of problems and to see them as "good problems to have." 
 
 As a side note, in this area, it seems to me that many doctors actually do not face the struggle in first person as they hire others to do the "dirty work" such as to ask customers to pay on time. ANother side now is the recognition that if one wanted to wait to deal with the problem - such as to wait for something like like 25-50 clients - they are in a way or another entering that exercise of forecasting although not embracing it as true managers. 
-
-
-
-
-
-
-
-
-
-Consider the complex situation, according to Reid Hoffman in The Startup of You, where a relationship of friendship creates a difficult situation for honest feedback, and this explains how difficult it is to fire a friend in the company:
-
-<!-- 
-@meta @todo 
-* @todo - p2 ( ) - In The Feedback of Urgency - Fix quote of Reid Hoffman to case from Start up of You and likely link to Conscious Business. 4892489-4928948-48284-483984. 
---> 
-
-> *""* Reid Hoffman, Startup of You. 
-
-To note, the very point of Reid - honest feedback - actually in fact stamps the complication, of an young situation or of a young professional that after having issues with a friend is likely unable to transcend the friendship to a point of achieving clarity such as that there is a case that firing a friend actually means doing good - for all of them and the business and the clients or users of that business. In other words, the possibility of supporting the friend - the needs of the present - gets in the way as it has ties with views and values, undelying, strong and yet outstanding. 
-
-Therefore, and not unlike the young entrepreneur dealing with the mom - where the honesty level of the mom had to transcend accross and lie as Adora has put - the slightly more developed, or juvenile business situation, might be about essentially trying to break the value-based assumptions, such as arguments, in the face of openning up and developing the conscious business [^footnote_conscious_business_fred_kofmann] where other layers can be acessed, where impact of the whole system can be checked by checking the views from the many constituents involved. 
-
-<!--
-@meta @todo
-* @todo - p2 ( ) - In The Feedback of Urgency - Check Fred Koffman foonote and APA reference for book COnscious Business - @meta-refid 7686-8475-6464-8383 
---> 
-
-[^footnote_conscious_business_fred_kofmann]: Fred Kofman, a renowned thought leader in the fields of leadership and organizational development, advocates in Conscious Business (2006), for the approach that involves moving beyond the confines of self-interest and immediate team objectives, and values, to access higher layers of awareness and collective purpose. 
-
-<!-- 
-@meta @references 
-* reference - Kofman, F. (2006). Conscious business: How to build value through values. Boulder, CO.
---> 
-
-With this, it becomes difficult to transcend, interpret, and try to create ways for a new future to pave the way for improvements; that to break the current assumptions involves breaking through the wall of protection - where the bricks appears to be arguments, data and where the foundation is supported by values. When that psychologist faced the challenge of "at this moment, I can't do that to my patients," she essentially could not break the wall as her level of compassion with saving the patients were stronger to a point she didn't see that she would not save the whole clinic. 
 
 
 
@@ -492,12 +461,10 @@ Julia Cameron, in The Right to Write, uncovers a complication from the life of t
 
 <!--
 @meta @outline
-* outline - Answer - k2.1.2.045 -       \___ Transcending values with conscious values and vision 
+* outline - Answer - k2.1.2.030 -     \___ Trying to be conscious for the business ahead
 --> 
 
 #### Transcending values with conscious values and vision 
-
-
 
 
 In this direction, the exercise of consciousness can evaluate the values that are assumed to be vital to keep things as they are. In other words, when we connect values with the things we think are feeding this values, we may better achieve clarity about other things we can do that in fact may feed the same values of other underlying values which are even more important. As an illustration tied to the given example, the professional had understood, through a conscious exercise, that accepting patients late in a consistent matter seemed to be about making them happy, about embracing them with compassion, but the consciousness evaluation and reflective exercise had enabled the professional to not only see that such allowance was doing harm more than good, but a whole well-written justificative that had turned out to be a great explanation for the patient on why to try to be on time. After the psychologist had implemented the explanation, she had even confirmed that patients were happier and improving in healthier ways. In other words, the change of behavior had in fact produced a better good which turned out to be perceived as better good for the pacient and the professional and the whole business entity. In other words, the value of having patients happier were slight improved with an idea of healthier which helped to form a healthier relationship which helped the professinal to achieve clarity about what to say and how to train herself. 
@@ -505,6 +472,59 @@ In this direction, the exercise of consciousness can evaluate the values that ar
 Plus, the change, when it is time to apply, will be tough which will need either transparency, explanations, education - thus there is effort, and it pulls into a zone of uncomfort. Just like the professional has to take care of her customers, abstracting beyond the each served event, in a holistic way which in the case of the psychologist professional has to do with the "prontuário"; there is the same in-perfective reflective writing for the entity or group of customers versus the value for the business growth whch relates to what is better for them? What conditions or conditioning of my customers can put me in a good position to help them even more? What customers I will eventually have to educate them or say no. 
 
 It implies that you can create solutions and many of them can even become simple solutions, such as phrases. For example, indicating to participants where the bathroom is or presenting certain points that govern good relationship health. These solutions are implemented in proportion to the transparency of these "regulation" systems, whether in contracts, in hallways, in communications, by other participants, and collaborators. Thus, it might have to do with culture, a culture that regulates the constituents to establish conditions of growth and equilibrium for success, which requires placing the customer in certain categories and under certain behaviors too.
+
+
+
+
+
+
+
+
+
+
+<!--
+@meta @outline
+* outline - Answer - k2.1.2.045 -       \___ Transcending values with conscious values and vision 
+--> 
+
+#### Struggle to access conscious values 
+
+
+
+
+
+
+
+
+
+Consider the complex situation, according to Reid Hoffman in The Startup of You, where a relationship of friendship creates a difficult situation for honest feedback, and this explains how difficult it is to fire a friend in the company:
+
+<!-- 
+@meta @todo 
+* @todo - p2 ( ) - In The Feedback of Urgency - Fix quote of Reid Hoffman to case from Start up of You and likely link to Conscious Business. 4892489-4928948-48284-483984. 
+--> 
+
+> *""* Reid Hoffman, Startup of You. 
+
+To note, the very point of Reid - honest feedback - actually in fact stamps the complication, of an young situation or of a young professional that after having issues with a friend is likely unable to transcend the friendship to a point of achieving clarity such as that there is a case that firing a friend actually means doing good - for all of them and the business and the clients or users of that business. In other words, the possibility of supporting the friend - the needs of the present - gets in the way as it has ties with views and values, undelying, strong and yet outstanding. 
+
+Therefore, and not unlike the young entrepreneur dealing with the mom - where the honesty level of the mom had to transcend accross and lie as Adora has put - the slightly more developed, or juvenile business situation, might be about essentially trying to break the value-based assumptions, such as arguments, in the face of openning up and developing the conscious business [^footnote_conscious_business_fred_kofmann] where other layers can be acessed, where impact of the whole system can be checked by checking the views from the many constituents involved. 
+
+<!--
+@meta @todo
+* @todo - p2 ( ) - In The Feedback of Urgency - Check Fred Koffman foonote and APA reference for book COnscious Business - @meta-refid 7686-8475-6464-8383 
+--> 
+
+[^footnote_conscious_business_fred_kofmann]: Fred Kofman, a renowned thought leader in the fields of leadership and organizational development, advocates in Conscious Business (2006), for the approach that involves moving beyond the confines of self-interest and immediate team objectives, and values, to access higher layers of awareness and collective purpose. 
+
+<!-- 
+@meta @references 
+* reference - Kofman, F. (2006). Conscious business: How to build value through values. Boulder, CO.
+--> 
+
+With this, it becomes difficult to transcend, interpret, and try to create ways for a new future to pave the way for improvements; that to break the current assumptions involves breaking through the wall of protection - where the bricks appears to be arguments, data and where the foundation is supported by values. When that psychologist faced the challenge of "at this moment, I can't do that to my patients," she essentially could not break the wall as her level of compassion with saving the patients were stronger to a point she didn't see that she would not save the whole clinic. 
+
+
 
 
 
