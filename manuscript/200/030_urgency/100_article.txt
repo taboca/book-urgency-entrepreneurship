@@ -150,19 +150,23 @@ Now, from a mature managerial pespective, all of this makes sense, doesn't it? T
 
 
 
+<!-- 
+@meta @todo 
+* @todo - p1 (Done) - In The Feedback of Urgency - Read again Andy Grove chapters on Past, Present and Future, the sections where he talks about indicators, and the new indicators, and the effect and counter-effect, and also some of the sections where he considers the pre-mortem exercise. @meta-refid 7575-9876-2342-4884
+-->
 
 
-Now if the troublemaker is in troube in the face of the team for trying to point his finger to their bad use of time with urgencies, his main frustration is really due with the comparison mechanism that appears smoothly brutal - the comparison mechanism that is intuitively used by the team when they balance things out where on one hand they put present value - where the value can't be taken away - and on the other they don't even bother to put the idea but to leave there many questions in the place, asking for a good pitch, good reasons, a good plan, and also assurances. Of course, That logic is well supported by the principled logic of loss aversion. This is part of the defense of the troublemaker but in his privacy he feels that furthermore his team seem quite naive, or romantic, as if they wanted him to take the time machine, to visit the future, and come back with an almanac full of calendars, weather forecasts, statistical data.  
+Now if the troublemaker is in troube in the face of the team for trying to point his finger to their bad use of time with urgencies, his main frustration is really due with the comparison mechanism that appears smoothly brutal - the comparison mechanism that is intuitively used by the team when they balance things out where on one hand they put present value - where the value can't be taken away - and on the other they don't even bother to put the idea but to leave there many questions in the place, asking for a good pitch, good reasons, a good plan, and also assurances. 
 
-Now, such imaginative fears can be the lighting strike needed for him to fix the future. In other words, the solution lies in the discussion of parallel realities too, where it takes us to reconsider under the expectations of a new future what could be the things to decide and act for a new present so that we can break the current present that now suffers with the unexpected new conditions that keeps the team busy where no one seem to be frustrated with except these troublemarkers.
+Of course, the troublemaker understands that her team's logic is supported by the principled logic of loss aversion and that her case at this point appears as a motivation, or even a provocation, as a potential objection, an intuition. With that said, the troublemaker has partial case to move forward exactly because the team's objection appear to like simple demands that can be considered as well naive, or even romantic, as if they wanted her to take a time machine to visit the future and come back with an almanac full of calendars, weather forecasts, statistical data, the whole proof.
 
-The approach of planning to be considered comes from the very mechanisms that we are born with, our capacity to plan by forecasting, the very mechanisms that set us to make the tough questions such as "Where are the assurances? The plan? And the coherent pitch?" 
+The solution, or the lighting strike, that can turn this trouble maker into the one that can fix the future, lies the recognition of the fragility of the present as given by the situation. If the team makes demands for forecasting, forecasting the future is indeed a point to be taken seriously. And if the team is suddenly in a present that wasn't planned by them - the good problem that everyone wants to have as they claim - it is so because of unseen planning or poor forecasting that they got involved with. So if all that is seen in the present is a a quite vulnerable situation, it is then a permission for this concerned citizen to embrace the the parallel realities of the future. 
 
-In this direction and wearing the shoes of the troublemaker in the hope that we can fix course-correct our future for the urgencies of the present, let us ride with Andy Grove and consider how to plan around the past, present, and the future, can help our organizations. In "Planning: Today's Actions for Tomorrow's Output" (1983, p.102), Andy invite us to consider our own natural ability of forecasting we do when we are in the cockpit and considering where we are going:
+In this direction, in wearing the shoes of the troublemaker, and in the hope that we can fix the future from the urgencies of the present, let us ride with Andy Grove (1983) and follow along with a planning work that is far from a controller work and more inline with an ordinary activity that "it's something all of us do all the time with no fanfare, in both our personal and professional lives." Andy also gave us a window into our ability to do that: 
 
 <!-- 
 @meta @todo 
-* @todo - p2 ( ) - In The Feedback of Urgency - Fix the quote from Andy as Marcio had found "weather" typed instead of whether. @meta-refid 7675-8383-0844-9333
+* @todo - p2 (Done) - In The Feedback of Urgency - Fix the quote from Andy as Marcio had found "weather" typed instead of whether. @meta-refid 7675-8383-0844-9333
 --> 
 
 > *"For instance, as you're driving to work in the morning, you are likely to decide whether or not you need gasoline. You look at the gauge to see how much gas you have in the tank, you estimate how far it is you need to go, and you then make a rough guess as to how much gas you need to get to and from your office. By comparing in your mind the gas you need with the gas you have, you decice whether you should stop for gas or not."* (Grove, 1983, p.102)
@@ -178,27 +182,58 @@ In this direction and wearing the shoes of the troublemaker in the hope that we 
 
 <!--
 @meta @outline
-* outline - Answer - k1.4 - Case of Andy Forecasting to Find Indicators and the counter-effect  
+* outline - Answer - k1.3.1- Basics of Andy's forecasting and planning - with future, present and gap.  
 --> 
 
 
 
-<!-- 
+That simple illustration from Andy Grove reveals key elements that he's concerned with in *High Output Management* (1983), such as that one that is driving or concerned with a unit of work, has to look at the situation as if it is a box, with inputs and outputs  In the case of the car, the output would be the goal, the destination, and the input the various elements that makes that destination possible, such as the gas, the car itself, the driver, the driver's state of wellness, among other elements. Conversely, any working unit where there is a team, is likely aimed at a destination - to bring about results - and that is the output of the "black box;" and on the other hand, the input involves people, their well-being, the methods and tools being used, financial resources, among other elements. 
+
+Lookinf from that perspective becomes the reference work to for us to consider potential future realities, the impact, and possible new decisions. According to "Planning: Today's Actions for Tomorrow's Output" (1983, p.102), the forecasting framework can start first with the where we want to go in the future, then our present status, our conditions of our team's working box such as what it takes for us to drive and get there, and then we consider the things being done, the analysis of the outputs and results produced, given by the inputs being used, such as resources, and this essentially becomes a gap analysis, or how to close the gap, which can help teams to come up with solutions to get there. 
+
+
+
+
+<!--
+@meta @outline
+* outline - Answer - k1.3.2 - 3 realities 
+--> 
+
+
+
+
+
+Now and returning to the specific context, we know that the work here is not that the doer is interested in new planning for that working unit or factory, nor the worker was called to fix and find important things to do. The base of this work is this worker's concern with some new work that is now assumed to be urgent. With that said, the essence is the same and the managerial work consists of the same that anyone can do for improving any future. 
+
+But since the team currrent beliefs are solid that the urgent is urgent, the forecasting work can consider three realitie: One is the ideal future or forecasted future that the team expects. The second is the actual future reality where this concerned citizen is concerned with, which is basically forecasting potential trouble from the current present situation with urgencies. And then  third would be the actual strategic propositions to reconciliate one future that is better. 
+
+
+
+
+
+
+<!--
+@meta @outline
+* outline - Answer - k1.4 - Forecasting depends on identification of indicators, to measure effect and counter-effect, to do the quantitative and qualitative work, the partially objective partially subjective analysis
+--> 
+
+
+
+
+
+Moreover, this concerned citizens now involved with a set of activities that are less to do with the actual roadmap and alignment with the idea of where we're going with the meat roads. It's basically to navigate the working unit, looking for the signals and information and trying to understand the quantitative and qualitative work that goes on before any suggestions.
+
+A key insight from Andy Grove is the perspective where this concerned citizen is basically looking using partially objective and partially subjective means and it's interesting rating the quality of work that will help to make the projections and she can do that by looking for these indicators they are essentially the feedback points and the information are the essential factors but are the pieces of information from what happens where from that reference point the alternate realities will and can be developed furthermore can be extended such as to include other indicators they're not yet such as the counter effects they're happening or costs that people couldn't see and again all of that will make sense when projected in the future because the present people really believe that's all okay
+
+<!--
 @meta @todo 
-* @todo - p1 ( ) - In The Feedback of Urgency - Read again Andy Grove chapters on Past, Present and Future, the sections where he talks about indicators, and the new indicators, and the effect and counter-effect, and also some of the sections where he considers the pre-mortem exercise. @meta-refid 7575-9876-2342-4884
--->
-
-It is also his reminder that this is what management actually does. So first honoring Andy's managerial viewpoint ... 
-
-This is where he asks us to consider two time frames, the present versus sometime in the future (1983, p.104). But in order to compare anything, analogy of a factory, which is essentially a way to provoke us to visualize that the efforts made by workers can be framed, or packaged, like a functional unit that has inputs and outputs. A simple but meaningful example would be the breakfast factory where inputs can be things like eggs, and other resources, tools, and the processes; while output is what is aimed, such as the eggs served to attend customer needs. But in essence, the intent to frame a process as a factory represents an opportunity to freeze the situation in time so that analysis of the different timeframes can be done. 
-
-By isolating your process, the first step of planning starts with the examination of the aspects which you are interested in improving for your "factory". As an example, imagine that attending custom needs of all the customers while being considered urgent it is costing a lot and preventing time that could be used in other strategic activities. The second step is to consider the situation of now, the status of your "factory" in the sense of the accountability of what happens, the efforts that take place, which transforms the inputs in outputs. In the example, imagine that there is a help desk service which is kept running, 24x7 as your customers may appear at any time. And that you have costs associated with that. Finally the third step involves projecting a new future where you can consider the growth situation and the goals in long term, such as customer satisfaction, and with that you make projections of how the current factory would produce as results if, say in one year, your customers had grown to 100 - assuming such goal is acceptabel to the situation of a future. The result of the exercise may show that the help desk service would not be able to attend; which would create a gap considering the new demands in growth, which would provoke the team to consider solutions to fill the gap, which normally could start with just growing the help desk, although such basic notion of productivity would also prompt the team to consider ways to improve the efficacy of the customer service in new ways, under the recognition that customers happy were the ultimate goal. 
-
-Therefore, by creating different time frames, and by recognizing growth areas, and by recognizing the ultimate goals, the team gains perspectives about new activities to be considered as important in contrast with known and current urgent activities. Conversely, the maturity is revealed by the understanding that "the factory" is the place where activities happening exist to add value towards the expected better future, which undeniably requires the courage to bring about the conversations, or projections such as different outcomes, which accounts the reexamination of goals, the conditions of now, and the various activities in place in order to get there. And back to the case or urgency, or how to break the feedback of urgency, new perspectives are gained - in terms of strategic reasoning - as we are able to new valuation for a current feedback by the frames of a projected future reality, or grown up reality. 
-
-To give an example of improved perspectives Andy suggested how key indicators can gain new dimensions. A simplest dimension of a key indicator for the situation of the floor cleaned is the numer of square feet cleaned and is likely that the small experiment would not need to account the need to monitor quality. While the situation of a grown-up space, with thousands of square feet to be cleaned, would justify new indicators that, according to Andy, "should be paired with a partially objective/partially subjective rating of the quality of work as assessed by a senior manager with an office in that building." (1983, p.17) 
+* @todo - p2 ( ) - In The Feedback of Urgency - Should we bring a illustration of floor clearning and counter-effect? / @meta-refid 7565-9586-2233-4432
 
 To give an example of improved perspectives, consider the situation of the floor cleaned in a small space, as measured by a key indicator as the number of square feet cleaned. In this scenario, generally monitoring quality might be just about measuring the numbers. While the situation of a grown-up space, with thousands of square feet to be cleaned, would justify the need for a new indicator that "should be paired with a partially objective/partially subjective rating of the quality of work as assessed by a senior manager with an office in that building" (Grove, 1983, p. 17).
+--> 
+
+
+
 
 
 
@@ -212,9 +247,11 @@ To give an example of improved perspectives, consider the situation of the floor
 
 
 
-The point of wisdom from Andy Grove, which is given by the identification of new pairing indicators, not only help us to build a clear notion that single indicator is not enough; as it supports the forward movement with the idea that the planning effort depends on the subjective and objective analysis that consists of a qualitative reflection which can be indeed projected based in the forecasting based on quantitative aspects. In other words, it becomes clear that situation of urgency is then formed with the intrusion of unexpected work - that rises from scaling and the growing condition - but that gets justified by a lagging indicators as in by existing values of a prior situation. This happens because the new work wasn't yet analysed under the more rigorous analysis of impact. Thus, the team maintains the new work by short circuiting in a fashion as in when the end justifies the means; which as we know is generallty a good thing, except when real trouble is evident. 
 
-With that said, what is configured can be both the source of the problem and the hint for the solution as we can be honest to face the fact that some of the numbers we monitor, such as indicators, are holders of new work while new unexpected elements, and their indicators, are operating under the radar. This lead us to not be aware of the intrusion of new work impact; but is also tips us for the editing work and seeking new the feedback with a new perspective, and new meaning, which can only be acquired nby investigating througnh the value system; which is where we are going next. 
+
+The point of wisdom from Andy Grove, which is given by the identification of new pairing indicators, not only help us to build a clear notion that single indicator is not enough; as it supports the forward movement with the idea that the planning effort depends on the subjective and objective analysis that consists of a qualitative reflection which can be indeed projected based in the forecasting based on quantitative aspects. In other words, it becomes clear that situation of urgency is then formed with the intrusion of unexpected work - that rises from scaling and the growing condition - but that gets justified by a indicators that are too strong that obfuscates and confuses the team, under the sight of the values and objectives as desired. This happens because the new work wasn't yet analysed under the more rigorous analysis of impact. Or in other words, the team might be short circuiting as in to moving on whatever the means with an end in mind, which as we know may generallty be a idea that is accepted althought by its easy acceptance it is also the door that invites more trouble. 
+
+With that said, what is configured now is a setting that a team yet sticks with a number of indications, through specific and other indirect feedback systems, but yet they hold on to the new work while new unexpected elements, and their indicators, are operating under the radar. This awareness is key for any analysis of impact but is also is an opportunity for us to reflect about the power of feedback systems and how a lot of feedback that sustains what we do is tied to value systems; which is where we are going next. 
 
 
 
@@ -273,7 +310,7 @@ Thus, if we were programmed to value valuable things, we do so that we can conti
 
 <!--
 @meta @outline
-* outline - Answer - k2.1.1 - The values through amateur feedback   
+* outline - Answer - k2.1.1        \____ Feedback and values in the friends and family situation.   
 --> 
 
 #### The values through amateur feedback 
@@ -300,7 +337,7 @@ Therefore, talking about family and friends is acceptable, as these folks happen
 
 <!--
 @meta @outline
-* outline - Answer - k2.1.2 - Illustration of family interaction - f. Adora, f. Brian,    
+* outline - Answer - k2.1.1.1         \___ Illustration of family interaction - f. Adora    
 --> 
 
 
@@ -328,7 +365,7 @@ And in that regard, matters too the need to improve the awareness about the form
 
 <!--
 @meta @outline
-* outline - Answer - k2.1.3 - Illustration of family interaction - Brian 
+* outline - Answer - k2.1.1.2         \___ Illustration of family interaction - Brian 
 --> 
 
 
@@ -353,56 +390,14 @@ These kinds of conversations are not uncommon in the lives of many entrepreneurs
 
 
 
-<!--
-@meta @outline
-* outline - Answer - k2.25 - Styles matter 
---> 
-
-
-
-
-Yet within the realm of friends, professor and psychologist Adam Grant, in the book "Give or Take" [^editornote_adamgrant_give_or_take], had given another chart with four types of people in the quadrants generated by two axis. On the vertical axis, at the top, he has set a person referred to as a giver, and at the bottom a taker, a person who wants everything for themselves. On the horizontal axis, on the right side is the negative-disagreeable type, and on the left side is the positive-agreeable type:
-
-[^editornote_adamgrant_give_or_take]: In the book Give or Take Adam grant explores the behaviors of people giving feedback and how feedback changes depending on characteristics of who gives feedback. 
-
-<!--
-@meta @todo
-* @todo - p2 ( ) - In The Feedback of Urgency - Consider to bring back the image from Adam - agreeable and disagreeable - perhaps not to the text but to reflect on it and to explain it better - ![](images/adam/agreeable-disagreeable.png) - @meta-refid 8585-5567-9294-4848 
---> 
-
-Adam suggests that the best profile to seek feedback from is someone who likes to help but does so in a disagreeable or honest manner. That is, someone who doesn't necessarily agree with everything you say but still remains on your side — someone who keeps saying, “look, I think this won’t work because of such and such.” For Adam, a mother is usually in the quadrant of those who want to help but agree with everything because she is influenced by the relationship.
-
-
-
-
-
 
 <!--
 @meta @outline
-* outline - Answer - k2.70 - Conclusion about the nuanced conversations  
+* outline - Answer - k2.1.2        \____ Feedback and values first customers and juvenily    
 --> 
 
+#### Struggle to access conscious values 
 
-
-
-
-The main point is that there actually other aspects to the notion of the degree of honesty offered by people such as people in our circies. When honesty appears to fail it may be also be that feedback in inherently biased by other underlying values which are quite honest assumptions and ties in the nature of the network. In other words, a mother is programmed to care, and to deal with an emotional being that may or may not survive, and so she adjusts her honesty level accordingly, such as 90%, and she does that because she knows that love is a thing that transcends time and space. 
-
-Naturally, here and moreover, we are celebrating the two sides of this coin, that it is relevant to know who these people are, what they care, what are the values that they are considering, and the like. In other words, and in the end, or actually in fact in the beginning, what matters is us to be aware that the feedback has ties. 
-
-
-
-
-
-
-
-
-<!--
-@meta @outline
-* outline - Answer - k2.2 - Mature valuation of feedback 
---> 
-
-### Mature valuation of feedback 
 
 
 
@@ -423,15 +418,6 @@ As a side note, in this area, it seems to me that many doctors actually do not f
 
 
 
-
-
-
-<!--
-@meta @outline
-* outline - Answer - k2.2.1 - Trying to be conscious for the business ahead
---> 
-
-#### Struggle to access conscious values 
 
 
 
@@ -474,10 +460,10 @@ With this, it becomes difficult to transcend, interpret, and try to create ways 
 
 <!--
 @meta @outline
-* outline - Answer - k2.2.2 - The feeback traps in mature values
+* outline - Answer - k2.1.2.040 -     \___ The feeback traps with experts representativeness 
 --> 
 
-#### The feeback traps in mature values 
+#### The feeback traps with experts representativeness 
 
 
 
@@ -506,10 +492,10 @@ Julia Cameron, in The Right to Write, uncovers a complication from the life of t
 
 <!--
 @meta @outline
-* outline - Answer - k2.2.3 - The enlightened and reflective exercise through writing 
+* outline - Answer - k2.1.2.045 -       \___ Transcending values with conscious values and vision 
 --> 
 
-#### The enlightened and reflective exercise through writing 
+#### Transcending values with conscious values and vision 
 
 
 
@@ -524,9 +510,45 @@ It implies that you can create solutions and many of them can even become simple
 
 
 
+
+
+
 <!--
 @meta @outline
-* outline - Answer - k2.2.4 - Seeking to please reflection  
+* outline - Answer - k2.1.3        \____ Conclusion about the nuanced conversations  
+--> 
+
+
+
+
+
+The main point is that there actually other aspects to the notion of the degree of honesty offered by people such as people in our circies. When honesty appears to fail it may be also be that feedback in inherently biased by other underlying values which are quite honest assumptions and ties in the nature of the network. In other words, a mother is programmed to care, and to deal with an emotional being that may or may not survive, and so she adjusts her honesty level accordingly, such as 90%, and she does that because she knows that love is a thing that transcends time and space. 
+
+Naturally, here and moreover, we are celebrating the two sides of this coin, that it is relevant to know who these people are, what they care, what are the values that they are considering, and the like. In other words, and in the end, or actually in fact in the beginning, what matters is us to be aware that the feedback has ties. 
+
+
+
+
+
+
+
+
+<!--
+@meta @outline
+* outline - Answer - k2.2 - Valuation of feedback - maturity challenges  
+--> 
+
+### Mature valuation of feedback 
+
+
+
+
+
+
+
+<!--
+@meta @outline
+* outline - Answer - k2.2.010 - Seeking to please reflection  
 --> 
 
 #### The facets of pleasing 
@@ -563,7 +585,7 @@ Sometimes, entrepreneurs resort to radical adaptations to stand out. A case in p
 
 <!--
 @meta @outline
-* outline - Answer - k2.2.5 - Seeking into principles   
+* outline - Answer - k2.2.040 - Seeking to please reflection  
 --> 
 
 ### Exercising from principles 
@@ -600,7 +622,7 @@ In conclusion, we know that our innate reaction can compel us to fix problems qu
 
 <!--
 @meta @outline
-* outline - Answer - k2.3 - Proteced by local-global representativeness 
+* outline - Answer - k2.2.060 - Proteced by local-global representativeness 
 --> 
 
 ### Proteced by local-global representativeness 
