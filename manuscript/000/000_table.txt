@@ -2,10 +2,6 @@
 
 * @todo - p2 ( ) - In The Feedback of Urgency - Should we bring a illustration of floor clearning and counter-effect? / @meta-refid 7565-9586-2233-4432
 
-* @todo - p2 ( ) - In The Feedback of Urgency - Check Fred Koffman foonote and APA reference for book COnscious Business - @meta-refid 7686-8475-6464-8383 
-
-* @todo - p2 ( ) - In The Feedback of Urgency - Fix quote of Reid Hoffman to case from Start up of You and likely link to Conscious Business. 4892489-4928948-48284-483984. 
-
 * @todo - p2 ( ) - In The Feedback of Urgency - Consider to bring back the image from Adam - agreeable and disagreeable - perhaps not to the text but to reflect on it and to explain it better - ![](images/adam/agreeable-disagreeable.png) - @meta-refid 8585-5567-9294-4848 
 
 * @todo - p2 ( ) - In The Feedback of Urgency - Consider to bring back the image from Adora - honesty curve - perhaps not to the text but to reflect on it and to explain it better - ![Curva da honestidade](images/adora/honesty.png) - @meta-refid 8585-9393-9294-4848 
@@ -259,8 +255,11 @@ https://chat.openai.com/share/b7eb16c5-4c18-4709-9220-bd2629f34a3d
 
 ## Done
 
-* @todo - p1 (Done) - In The Feedback of Urgency - Read again Andy Grove chapters on Past, Present and Future, the sections where he talks about indicators, and the new indicators, and the effect and counter-effect, and also some of the sections where he considers the pre-mortem exercise. @meta-refid 7575-9876-2342-4884
+* @todo - p2 (Done) - In The Feedback of Urgency - Check Fred Koffman foonote and APA reference for book COnscious Business - @meta-refid 7686-8475-6464-8383 
 
+* @todo - p2 (Done) - In The Feedback of Urgency - Fix quote of Reid Hoffman to case from Start up of You and likely link to Conscious Business. 4892489-4928948-48284-483984. 
+
+* @todo - p1 (Done) - In The Feedback of Urgency - Read again Andy Grove chapters on Past, Present and Future, the sections where he talks about indicators, and the new indicators, and the effect and counter-effect, and also some of the sections where he considers the pre-mortem exercise. @meta-refid 7575-9876-2342-4884
 
 * @todo - p2 (Done) - In The Feedback of Urgency - Fix the quote from Andy as Marcio had found "weather" typed instead of whether. @meta-refid 7675-8383-0844-9333
 
