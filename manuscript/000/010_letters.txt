@@ -45,7 +45,7 @@
 * (i, ) #OKR Andre Figueiredo @ 4390784908324098 / January 31th, 2024 
 * (i, ) #OKR Thiago Christoph @ 45390254902385908 / January 31th, 2024 
 * (i, ) #OKR Muriel Garrido @ 8484-3332-2221-9393 / January 31th, 2024 
-* (i, ) #OKR Edilson @ 3490874038927489237489 / January 31th, 2024 
+* (i, s0, ) #OKR Edilson @ 3490874038927489237489 / January 31th, 2024 
 
 
 
@@ -142,6 +142,17 @@ PS: Está em Inglês, mas eu posso usar o chat gpt para traduzir para Pt-br e te
 * (x) Sent via Linkedin on January 30th 2024  
 * (x) Reviewed by Vanessa January 30th 2024 @ meta-refid 4290840982409829408940
 * (x) Via linkedin https://www.linkedin.com/in/edilson-botto-6234b023/ 
+
+
+### S1 
+
+```
+Edilson Botto  3:49 PM
+Boa tarde Márcio!
+Lerei com atenção para tecer meus comentários. Essa é uma grande responsabilidade.
+Obrigado pela oportunidade```
+
+### S0 
 
 ```
 Opa Edilson tudo bem?
