@@ -41,35 +41,32 @@ In the sections below we will consider, first, how this identity develops from p
 
 
 
-O renomado Steve Blank, pioneiro do movimento lean [^steveblanklean] e criador do processo intitulado Customer Discovery (2005), quando entrevistado sobre uma única ideia de conselho para fundadores, reveleu na entrevista em vídeo: 
-<!-- 
+The renowned Steve Blank, pioneer of the lean movement [^steveblanklean] and creator of the process titled Customer Discovery (2005), when interviewed about a single piece of advice for founders, revealed in the video interview:
 
-> "Founders is not a job, is a calling… this is not some job. The odds of you making money, in here; versus working at McDonalds, it’s a much better bet that you will be making more money in your career working at McDonalds. You need to do what you are doing because you love it, because you can’t think of anything better to do with your life. And if that is not the case, don’t do this because it’s going to be a miserable 10 or 20 years. If you are looking at getting rich like the Facebook boys, or the Google boys, or whatever the hot startup is now, that is the wrong reason to do it. If you are chasing the money, I will guarantee you, the more you chase it, the further away is goes." 
+> *"Founders is not a job, is a calling… this is not some job. The odds of you making money, in here; versus working at McDonalds, it’s a much better bet that you will be making more money in your career working at McDonalds. You need to do what you are doing because you love it, because you can’t think of anything better to do with your life. And if that is not the case, don’t do this because it’s going to be a miserable 10 or 20 years. If you are looking at getting rich like the Facebook boys, or the Google boys, or whatever the hot startup is now, that is the wrong reason to do it. If you are chasing the money, I will guarantee you, the more you chase it, the further away is goes."*
 > 
 > (Steve Blank at MAP14, Mar 13, 2014, 34m33s)
 
-Steve Blank at MAP14. (Published on Mar 13, 2014.) MAP14 Public Forum: Steve Blank [video]. Retrieved from https://www.youtube.com/watch?v=UFx2CQUTpYo
-
+<!-- 
+@meta @references 
+* Reference - Steve Blank at MAP14. (Published on Mar 13, 2014.) MAP14 Public Forum: Steve Blank [video]. Retrieved from https://www.youtube.com/watch?v=UFx2CQUTpYo
 --> 
 
-[^steveblanklean]: Steve Blank é um renomado empresário e acadêmico reconhecido por ser um dos pioneiros do movimento Lean Startup. Blank, juntamente com Eric Ries, ajudou a definir e propagar a filosofia Lean Startup, que propõe a criação de empresas e produtos sob condições de extrema incerteza. Seu trabalho, caracterizado pelo "desenvolvimento de clientes" e pela ideia de "saia do prédio", é um pilar fundamental desta metodologia. Blank enfatiza a importância da aprendizagem validada, o desenvolvimento iterativo de produtos e a resposta rápida às necessidades dos clientes como princípios chave para a inovação em startups.
+[^steveblanklean]: Steve Blank is a renowned entrepreneur and academic recognized for being one of the pioneers of the Lean Startup movement. Blank, along with Eric Ries, helped define and propagate the Lean Startup philosophy, which proposes the creation of companies and products under conditions of extreme uncertainty. His work, characterized by "customer development" and the idea of "get out of the building," is a fundamental pillar of this methodology. Blank emphasizes the importance of validated learning, iterative product development, and rapid response to customer needs as key principles for innovation in startups.
 
-Assim, podemos reconhecer que entre casos de sucesso e ideias grandiosas, há muitas invenções e inovações atribuídas a fundadores que se viram envolvidos em uma luta por uma causa. No entanto, também existem muitos empreendedores que, mesmo sem uma causa tão forte, ainda se sentem em uma missão ou estão em processo de formação de suas identidades. Embutida na premissa de Steve Blank - de que o chamado é necessário - está também a ideia de que neste chamado, o fundador se torna vítima das projeções de futuro que faz em relação ao que faz, bem como vítima da identidade projetada. Isso pode parecer exagerado, mas as ações atreladas à pressão da identidade ocorrem no dia a dia e podem se manifestar em coisas simples, que passariam despercebidas.
+Thus, we can recognize that among cases of success and grand ideas, there are many inventions and innovations attributed to founders who found themselves involved in a struggle for a cause. However, there are also many entrepreneurs who, even without such a strong cause, still feel on a mission or are in the process of forming their identities. Embedded in Steve Blank's premise - that the call is necessary - is also the idea that in this call, the founder becomes a victim of the future projections they make regarding what they do, as well as a victim of the projected identity. This may seem exaggerated, but the actions tied to identity pressure occur daily and can manifest in simple things that would go unnoticed.
 
 <!-- case of user innovation? --> 
 
-Empreender é uma atividade que envolve não apenas uma motivação comercial, mas também a paixão por uma causa que se quer ver mudada. Essa motivação é central no fenômeno da "Inovação do Usuário" (User Innovation), onde o empreendedor se vê intrinsecamente ligado à causa que defende. Tanto o trabalho de Eric von Hippel em "Democratizando a Inovação" (2005) quanto o curso "User Innovation: A Path to Entrepreneurship" no MITx no edX ressaltam essa premissa, enfatizando que "a inovação frequentemente começa com pessoas reais resolvendo seus próprios problemas" (MIT, 2015). Este conceito incentiva os empreendedores a se envolverem profundamente com as causas que defendem, alimentando tanto sua paixão como sua motivação para criar soluções inovadoras e disruptivas.
+Entrepreneurship is an activity that involves not only a commercial motivation but also a passion for a cause that one wishes to see changed. This motivation is central in the phenomenon of "User Innovation," where the entrepreneur finds themselves intrinsically linked to the cause they advocate. Both the work of Eric von Hippel in "Democratizing Innovation" (2005) and the course "User Innovation: A Path to Entrepreneurship" on MITx on edX emphasize this premise, highlighting that "innovation often starts with real people solving their own problems" (MIT, 2015). This concept encourages entrepreneurs to deeply engage with the causes they support, fueling both their passion and their motivation to create innovative and disruptive solutions.
 
 <!--
-
-User Innovation: A Path to Entrepreneurship. Massachusetts Institute of Technology (MIT) on edX. Recuperado de https://www.youtube.com/watch?v=LpBSY9_RyCg
-
-von Hippel, E. (2005). Democratizing Innovation. The MIT Press. DOI: https://doi.org/10.7551/mitpress/2333.001.0001
-
+@meta @references 
+* Reference - User Innovation: A Path to Entrepreneurship. Massachusetts Institute of Technology (MIT) on edX. Recuperado de https://www.youtube.com/watch?v=LpBSY9_RyCg
+* Reference - von Hippel, E. (2005). Democratizing Innovation. The MIT Press. DOI: https://doi.org/10.7551/mitpress/2333.001.0001
 --> 
 
-Como indicado nesta vídeo introdução do curso, invenções como basquete, braille, dentre outras e até soluções tecnológicas como Dropbox, foram invenções que surgiram a partir de necessidade real, ou das dores. Em outras palavras, causas próprias. Essa premissa, na visão de Eric von Hippel, está por todo lado e é um fenômeno. 
-
+As indicated in this video introduction to the course, inventions like basketball, braille, among others, and even technological solutions like Dropbox, were inventions that emerged from real need, or from pain points. In other words, personal causes. This premise, in the view of Eric von Hippel, is everywhere and is a phenomenon.
 
 
 
@@ -286,23 +283,20 @@ It becomes clearer the view that entrepreneurship is science and art, which is b
 
 
 
-Pior é que muitas vezes a encruzilhada não tem placas — sem aviso. Steve Blank relata a ilustração do empreendedor que está enamorado com sua ideia e não ouve o feedback do mundo exterior:
+Worse is that often the crossroads has no signs — no warning. Steve Blank recounts the illustration of the entrepreneur who is enamored with their idea and does not listen to feedback from the outside world:
 
-[Colocar aqui a tradução da história do Steve Blank que está dentro do vídeo do map14 Melbourne]
+> [Colocar aqui a tradução da história do Steve Blank que está dentro do vídeo do map14 Melbourne]
 
-Então torna-se aparente, nem sempre na hora H, a rejeição da mudança da arte, ou mudança do seu papel e identidade — seu papel, seu propósito (ou como ele se vê,  ou como ele avalia suas chances, sua auto estima e auto eficácia). A situação apresentada por Steve onde "no one wants to hear that your baby is ugly" (????) simplesmente decorre da identidade previamente formada; como se a descoberta do artista, mesmo própria (ainda não revelada) colocasse ele em um estado de euforia, de ansiedade, com um potencial energético incrível, criativo e ao mesmo tempo devastador.
-
-Em outra exploração, o empreendedor mantém o status da sua descoberta anterior, da linha pré-planejada, mesmo quando vai para as ruas com o objetivo de descobrir mais sobre o problema/solução, por exemplo quando vai para as ruas para fazer uma pesquisa, por exemplo ouvir seus potenciais clientes. A situação é — o empreendedor volta do “trabalho na rua”, abre a porta e diz para seus colegas "vamos pivotar!' alegando que ouviu o “feedback das galáxias” porque alguém que confirmou sua teoria, ou mesmo ele foi influenciado pelo prazer da confirmação de alguma hipótese, ou a confirmação que a linha traçada do trabalho deu resultados positivos.
-
-Vale a reflexão, sobre as diversas formas que esse fenômeno se apresenta, pois pode ser tóxica, ainda mais em se tratando do empreendedor. Por exemplo, um funcionário subordinado poderia facilmente observar essa cena e imaginar que o empreendedor está de fato sendo responsável — oras, o presidente  foi para as ruas, foi buscar dados, está honrando a relação do usuário, do consumidor, do cliente, com o mundo externo. Ele não criou isso só na mente dele. Passa uma ideia, forte mas perigosa.
-
-Mas provavelmente essa velocidade, essa ansiedade, ou urgência, caracteriza o empreendedor que está manipulando os dados, ou a leitura dos dados, está ainda se reafirmando e pior acreditando de tal forma na sua própria narrativa ao ponto de tentar contaminar os seus colaboradores - ah, os clientes disseram que a comida precisa de mais sal.
-
-Para poder melhor articular esse fenômeno, ou síndrome, Steve Blank formulou a Regra das 72 Horas: o fundador está proibido de voltar das ruas e dizer "vamos pivotar" por um período de 72 horas. Depois de 72 horas, eles reconsideram o que ouviram.
+Then it becomes apparent, not always at the critical moment, the rejection of the change of art, or change of one's role and identity — their role, their purpose (or how they see themselves, or how they assess their chances, their self-esteem and self-efficacy). The situation presented by Steve where "no one wants to hear that your baby is ugly" simply stems from the previously formed identity; as if the artist's discovery, even their own (still not revealed) put them in a state of euphoria, of anxiety, with an incredible, creative, and at the same time devastating energy potential.
 
 
+In another exploration, the entrepreneur maintains the status of their previous discovery, the pre-planned line, even when they go to the streets with the goal of discovering more about the problem/solution, for example, when they go out to conduct research, like listening to their potential customers. The situation is — the entrepreneur returns from "fieldwork," opens the door, and says to their colleagues, "let's pivot!" claiming they heard the "feedback of the galaxies" because someone confirmed their theory, or maybe they were influenced by the pleasure of confirming some hypothesis, or the confirmation that the outlined work yielded positive results.
 
+It's worth reflecting on the various ways this phenomenon presents itself, as it can be toxic, especially in the case of the entrepreneur. For example, a subordinate employee could easily observe this scene and imagine that the entrepreneur is indeed being responsible — after all, the president went to the streets, sought out data, is honoring the relationship with the user, the consumer, the client, with the outside world. He didn’t just create this in his mind. It conveys a strong but dangerous idea.
 
+But probably this speed, this anxiety, or urgency characterizes the entrepreneur who is manipulating the data, or the interpretation of the data, is still reaffirming themselves and worse, believing so much in their own narrative to the point of trying to contaminate their collaborators - ah, the customers said the food needs more salt.
+
+To better articulate this phenomenon, or syndrome, Steve Blank formulated the 72-Hour Rule: the founder is forbidden from returning from the streets and saying "let's pivot" for a period of 72 hours. After 72 hours, they reconsider what they heard.
 
 
 
@@ -325,7 +319,8 @@ Para poder melhor articular esse fenômeno, ou síndrome, Steve Blank formulou a
 
 
 
-(Consider to move this to later down) Talvez para esses a identidade que lhes guia está mais adiante, em construção, no futuro; e não se jogam, não se abraçam tão fortemente ao estado da arte atual, não se ancoram; o barco está livre. Quando permitem essa liberdade, eles podem olhar para suas artes com um olhar mais suave — sabem que estão apaixonados pelo estado atual mas sabem que a arte consiste em trabalhar a arte, às vezes deixar para trás, ou talvez deixar a arte ser medíocrizada pelo mundo - acontece e em casos pode ser bom.
+Perhaps for these individuals, the identity guiding them is further ahead, under construction, in the future; they do not throw themselves into, do not embrace so strongly the current state of the art, they are not anchored; the boat is free. When they allow this freedom, they can look at their crafts with a gentler gaze — they know they are in love with the current state but understand that the art consists of working on the art, sometimes leaving it behind, or perhaps letting the art be mediocritized by the world - it happens, and in cases, it can be good.
+
 
 The subject to be considered is then that it is implied that they are in also in a quest to make the vision a reality, to bring to the world. But we still have to face the the problem of passion, and love, and how our leadership identity can affect our values and make us to make decisions such as decisions that take us in a bad direction. 
 
@@ -350,9 +345,8 @@ Steve really touches the point of transcendence that embraces possibility, that 
 What if, the thought could be turned into as "We are just starting" again. Perhaps that is a way to escape the negative side of the calling. This escape hatch opens the way for growth, for the full realization, and towards leadership. But it isn't easy to see from outside what we do. For that, we need to first acknowledge that it is important - first step - and then with spirit of a true entrepreneur - volunteering to learn - we step up into to find our answers. In a way, the entrepreneur is a generator of an art, it becomes the art in progress in itself, thus she needs to become the curator of its arts. 
 
 <!-- 
-
-Blank, S. (2011, March 31). Entrepreneurship is an Art not a Job. Steve Blank. https://steveblank.com/2011/03/31/entrepreneurship-is-an-art-not-a-job/
-
+@meta @references 
+* reference - Blank, S. (2011, March 31). Entrepreneurship is an Art not a Job. Steve Blank. https://steveblank.com/2011/03/31/entrepreneurship-is-an-art-not-a-job/
 --> 
 
 
@@ -575,13 +569,13 @@ Key point - see from far? Cold? Should this be here?
 
 According to Reid Hoffman and Ben Casnocha (2012), the real estate agent does not know when their next payment will come in because their job is based on highs and lows. So the agent works to sell but also on building their client network which is compatible with constant changes in daily life. It can be said that salespeople and brokers are resilient or even opportunistic. But we can look at the discipline that defines the survival conditions of brokers: they need to create a space to work on ideas isolated from the arrows of emotion, from the adversities of daily life. When the broker sells a big house, they are aware that they cannot be shaken for a longer time. What explains this resilience of sellers, in part, is a preconception inherent in the profession itself: sellers fly over, observe the environment, work in networks, and eventually dive to conquer their prizes. They do not categorize the work of the sale (the conquest of the prize) as being the greater work. For them, what is work is working on the network, flying over, navigating, observing, looking for new directions.
 
-Mas o dia a dia do empreendedor é diferente, pois infelizmente emoções não surgem com uma faixa que diz “cuidado você está sendo encantado por emoções!” A realidade é que não separamos emoções de ideias justamente porque somos humanos e porque aprendemos a sentir em primeiro lugar. A verdade é que nossa versão humanizada é prova que fomos programados para estarmos ocasionalmente perdidos.
+But the day-to-day life of an entrepreneur is different, for unfortunately, emotions do not come with a label that says “beware you are being charmed by emotions!” The reality is that we do not separate emotions from ideas precisely because we are human and because we learn to feel first. The truth is that our humanized version is proof that we were programmed to be occasionally lost.
 
-A questão que surge é o dilema do ser empreendedor versus ser humano. Seria o empreendedor de sucesso menos humano já que consegue melhor sobrevoar a batalha do dia a dia? Muitos tornam-se mais experientes na medida que sintetizam pensamentos com base no aprendizado e diante das adversidades do dia a dia. E muitos aparentam ser mais sistemáticos ou até mais frios depois de tantas falhas e acertos. Mas essas são percepções que levam em consideração o caminho já percorrido de quem chegou lá.
+The question that arises is the dilemma of being an entrepreneur versus being human. Is the successful entrepreneur less human since they manage to better navigate the day-to-day battle? Many become more experienced as they synthesize thoughts based on learning and in the face of daily adversities. And many seem to be more systematic or even colder after so many failures and successes. But these are perceptions that take into account the journey already traveled by those who have made it.
 
-Agora, no campo das batalhas e das incertezas, precisamos de uma abordagem humanizada para trilharmos um caminho que não seja desmotivante como “deixar de ser humano”.
+Now, in the field of battles and uncertainties, we need a humanized approach to tread a path that is not as demotivating as “ceasing to be human.”
 
-Esse caminho existe graças também a outro fator humano, assim como o sentir. Decorre da nossa capacidade humana de sentir pelo outro. Quando olhamos para fora, para o problema alheio, nós sentimos, mas sentimos de uma forma diferente com empatia e compaixão; bem diferente de estar vivendo como o protagonista. A versão humanizada para o empreendedor é direta: podemos ajudar outros empreendedores, principalmente aqueles que estão vivendo adversidades. Mesmo partindo da posição de ouvinte, estamos exercitando nossas capacidades de observar, ouvir, refletir e opinar. Ainda, engajamos de forma “junto com eles” com empatia e compaixão pelo problema mas ao mesmo tempo sabemos que estamos fora do olho do furacão. Essa abordagem nos ajuda a sintetizar as ideias sem a confusão das emoções que só o protagonista sente. Torna-se um exercício que nos deixa mais arrojados, que cria um modelo mental mais flexível, um olhar; sem contar a ajuda que estaremos fazendo ao próximo.
+This path exists thanks also to another human factor, just like feeling. It stems from our human capacity to feel for others. When we look outward, at someone else's problem, we feel, but we feel in a different way with empathy and compassion; very different from living as the protagonist. The humanized version for the entrepreneur is straightforward: we can help other entrepreneurs, especially those who are facing adversities. Even starting from the position of a listener, we are exercising our abilities to observe, listen, reflect, and opine. Moreover, we engage in a “together with them” manner with empathy and compassion for the problem but at the same time know that we are outside the eye of the storm. This approach helps us synthesize ideas without the confusion of emotions that only the protagonist feels. It becomes an exercise that makes us bolder, that creates a more flexible mental model, a perspective; not to mention the help we will be providing to others.
 
 
 
@@ -629,13 +623,15 @@ von Hippel, E. (2005). Democratizing Innovation. The MIT Press. DOI: https://doi
 
 -->
 
-Todo empreendedor irá fazer algo com um objetivo ou causa. Chegamos neste estágio porque queremos mudar algo no mundo ou uma vida melhor. Existem motivações e sonhos, já sabemos. Mas também, no momento que colocamos uma semente nesse terreno, estamos não só esperando mas estamos modelando nossas identidades como empreendedores. Até aí tudo bem. O problema, complicação, é que estamos na busca de suporte. 
+Every entrepreneur will undertake something with a goal or cause. We reach this stage because we want to change something in the world or achieve a better life. There are motivations and dreams, we already know that. But also, the moment we plant a seed in this terrain, we are not just waiting, but we are shaping our identities as entrepreneurs. So far, so good. The problem, the complication, is that we are in search of support.
 
-Vamos refletir sobre a necessidade de regular auto-estima que é natural das pessoas; mas como a ideia de regular auto-estima está também atrelada a uma identidade que pode ser inventada e está projetada como sendo identidade no futuro baseada na expectativa de sucesso. E como que se envolver com essa identidade pode fazer o empreendedor cair em pegadinhas, que lhe custarão tempo; e pode ajudar a de fato destruir aidentidade real da pessoa, a experiência, criando frustrações e falta de energia.
+Let's reflect on the need to regulate self-esteem, which is natural for people; but how the idea of regulating self-esteem is also tied to an identity that can be invented and is projected as being an identity in the future based on the expectation of success. And how engaging with this identity can lead the entrepreneur to fall into traps that will cost them time; and can actually help to destroy the real identity of the person, the experience, creating frustrations and lack of energy.
 
-Neste estudo, abordaremos primeiramente o caso de Mianmar, no qual um protagonista, após sair da prisão, conquista fama que desencadeia o caos na nação. Esse exemplo ilustra vividamente como nosso meio pode atuar como um catalisador na aceleração da nossa identidade. Em um mundo cada vez mais digital, esses fenômenos ocorrem com mais frequência e rapidez, revelando uma realidade alternativa moldada pelas conexões que estabelecemos e as narrativas que criamos.
+In this study, we will first address the case of Myanmar, in which a protagonist, after leaving prison, gains fame that triggers chaos in the nation. This example vividly illustrates how our environment can act as a catalyst in accelerating our identity. In an increasingly digital world, these phenomena occur more frequently and quickly, revealing an alternative reality shaped by the connections we establish and the narratives we create.
 
-Em seguida, aprofundaremos na questão implícita de identidade no empreendedorismo. Através de uma reflexão sobre essa ideia de identidade empreendedora, buscamos evidências de que a identidade é não apenas um fenômeno, mas também uma premissa essencial para a ação de empreender. Vamos também explorar as experiências de personalidades da indústria, considerando os riscos inerentes a esse processo, que exigem uma consciência e uma atenção maiores à medida que moldamos nossa identidade e trajetória.
+
+Next, we will delve into the implicit issue of identity in entrepreneurship. Through a reflection on this idea of entrepreneurial identity, we seek evidence that identity is not just a phenomenon, but also an essential premise for the act of undertaking. We will also explore the experiences of personalities in the industry, considering inherent risks to this process; that demands a higher degree of consciousness the more we move towards the entrepreneurial trajectory and develop a potential identity. 
+
 
 
 
@@ -652,20 +648,23 @@ Em seguida, aprofundaremos na questão implícita de identidade no empreendedori
 
 #### A superhero
 
-Como exemplo, podemos considerar a experiência de Melissa Nightingale, que compartilhou em seu artigo, "Why it’s a Mistake to be a Startup Superhero" (2016), o perigo de tentar ser um "super-herói" em uma startup. Durante sua jornada, Melissa viu-se tão comprometida com seu trabalho que, em uma noite em particular, permaneceu no escritório até tarde da noite, esperando por colegas que haviam sido presos em um protesto. Ela estava disponível para qualquer eventualidade, seja uma chamada, a necessidade de uma fiança ou a recuperação de equipamentos. Tão cansada, ela improvisou uma cama com camisetas grandes e dormiu no chão do escritório.
+As an example, we can consider the experience of Melissa Nightingale, who shared in her article, "Why it’s a Mistake to be a Startup Superhero" (2016), the danger of trying to be a "superhero" in a startup. During her journey, Melissa found herself so committed to her work that, on one particular night, she stayed in the office late into the night, waiting for colleagues who had been caught in a protest. She was available for any eventuality, whether a call, the need for bail, or the retrieval of equipment. So tired, she improvised a bed with large t-shirts and slept on the office floor.
 
-No entanto, ela reconhece que muitas das ações e sacrifícios que fez, vistas como heroicas no momento, não eram necessárias. Ela estava, de certa forma, vítima de sua identidade projetada e das projeções de futuro que tinha para a empresa. E mesmo que ela acreditasse estar ajudando seus amigos, muitas de suas ações contribuíam mais para a manutenção de uma identidade de "super-heroína" do que para o crescimento sustentável da empresa.
+However, she acknowledges that many of the actions and sacrifices she made, seen as heroic at the time, were not necessary. She was, in a way, a victim of her projected identity. Even if she had a valid belief that she were helping her friends, her colleagues, yet by focusing in that heroic identity she couldn't see that the were using herself as a resource, spending energy, which in the view from above were doing harm to her very colleagues and the whole organization. 
 
-Melissa também destaca em seu artigo como a cultura das startups incentiva essa confusão entre trabalho e vida social. Ela escreve: "A tecnologia é particularmente boa em criar condições que normalizam essa linha tênue. Entre álcool no escritório, bebidas depois do trabalho, saídas externas, passeios e eventos, pode parecer que uma série de suas necessidades sociais são bem atendidas durante o horário de trabalho" (Nightingale, 2016, tradução nossa).
+Melissa also highlights in her article how the startup space - she was inspired by the "high tech" space of startusp, encourages a blurring between work and social life. She wrote:  
 
-Isso reforça que além da questão da identidade dos empreendedores, há também o elemento da pressão social. A necessidade de ser aceito, a dedicação ao trabalho, o sentimento de pertencimento - todos esses fatores podem levar a um comprometimento excessivo que vai além da identidade profissional. É um desafio identificar quando o investimento no trabalho passa a ser prejudicial, não só para o indivíduo, mas também para o coletivo. É bastante provável que a Melissa do futuro tivesse dificuldade em convencer a Melissa do passado de que dormir no escritório e gastar energia desnecessariamente poderiam de fato prejudicar seus colegas, pois ela não estava descansando adequadamente.
+> *"Tech is particularly good at creating the conditions that normalize this blurry line. Between booze in the office, drinks after work, offsites, outings, and all hands it can feel like a bunch of your social needs are well covered during working hours." (Nightingale, M., 2016) 
+
+This reinforces that beyond the issue of entrepreneurs' identity, there is also the element of social pressure. The need to be accepted, dedication to work, the feeling of belonging - all these factors can become inducers for one to engage in developing a professional identity, under the needs to perform too. Or it could be said that it goes beyond the necessary and ideal professional identity; but the sad reality is when we are trapped thinking it's a professional identity. It's a challenge to identify when investment in work becomes harmful, not only to us as individuals but also to our collective space, therefore harming collaboration. It is even possible that Melissa from the future would have a hard time to convince Melissa from the past in a call from the future as her past self were not sleeping much, resting as needed, reflecting as needed. 
 
 <!-- 
-
-Referência:
-Nightingale, M. (2016). Why it’s a Mistake to be a Startup Superhero. Medium. Recuperado de https://medium.com/the-copour/why-its-a-mistake-to-be-a-startup-superhero-e221b0969ec9
-
+@meta @references 
+* reference - Nightingale, M. (2016). Why it’s a Mistake to be a Startup Superhero. Medium. Recuperado de https://medium.com/the-copour/why-its-a-mistake-to-be-a-startup-superhero-e221b0969ec9
 -->
+
+
+
 
 
 
@@ -683,23 +682,32 @@ Nightingale, M. (2016). Why it’s a Mistake to be a Startup Superhero. Medium. 
 
 --> 
 
-Em livro "A Máquina do Caos: Como as Redes Sociais Reprogramaram Nossa Mente e Nosso Mundo", Max Fisher (2023) relata a história de um monge chamado Wirathu, que foi catapultado para a fama em Mianmar após o país emergir de um longo período de isolamento e abraçar a Internet e as redes sociais. A ascensão de Wirathu e sua habilidade de influenciar uma nação recém-conectada ilustram a relação intrincada entre conectividade, identidade e o poder potencialmente destrutivo de uma realidade alternativa não contestada.
+In the book "The Chaos Machine: How Social Networks Reprogrammed Our Mind and Our World," Max Fisher (2023) recounts the story of a monk named Wirathu, who was catapulted to fame in Myanmar after the country emerged from a long period of isolation and embraced the Internet and social media. Wirathu's rise and his ability to influence a newly connected nation illustrate the intricate relationship between connectivity, identity, and the potentially destructive power of an unchallenged alternate reality.
 
 <!-- 
-Fisher, M. (2023). A Máquina do Caos: Como as Redes Sociais Reprogramaram Nossa Mente e Nosso Mundo. Todavia.
+@meta @references 
+* Reference - Fisher, M. (2023). A Máquina do Caos: Como as Redes Sociais Reprogramaram Nossa Mente e Nosso Mundo. Todavia.
 --> 
 
-A história de Wirathu começa com um passado sombrio, confinado a um ambiente de ódio durante sua prisão. Contudo, seu país natal, Mianmar, passou por transformações significativas durante sua detenção, incluindo a adoção generalizada da Internet e das redes sociais, em grande parte graças a uma parceria com os Estados Unidos. Inspirado por líderes do Vale do Silício e pelo ex-presidente Barack Obama, Mianmar fez uma rápida transição para a era digital.
+Wirathu's story begins with a dark past, confined to an environment of hate during his imprisonment. However, his homeland, Myanmar, underwent significant transformations during his detention, including the widespread adoption of the Internet and social media, largely thanks to a partnership with the United States. Inspired by Silicon Valley leaders and former President Barack Obama, Myanmar made a rapid transition to the digital age.
 
-Como resultado, a Internet - particularmente plataformas como Facebook e YouTube - tornou-se um palco para Wirathu se comunicar com seguidores e aumentar sua influência. Segundo Fisher, Wirathu desfrutou de uma popularidade que impulsionou sua comunicação com o mundo de maneira inimaginável antes da era da Internet. Antes, ele teria tido que viajar pelo país para espalhar suas palavras e ganhar adeptos.
+As a result, the Internet - particularly platforms like Facebook and YouTube - became a stage for Wirathu to communicate with followers and increase his influence. According to Fisher, Wirathu enjoyed a popularity that propelled his communication with the world in a way that was unimaginable before the Internet era. Previously, he would have had to travel across the country to spread his words and gain followers.
 
-Nas redes sociais, no entanto, as palavras de Wirathu eram amplificadas pelos próprios usuários, propulsoras de uma narrativa enviesada. Ele "acusava a minoria muçulmana mianmarense de crimes horrendos, misturando boatos com invencionices" (Fisher, p.55), gerando uma realidade alternativa que se tornou preocupantemente mainstream graças ao seu status de celebridade.
+On social media, however, Wirathu's words were amplified by the users themselves, driving a biased narrative. He "accused the Muslim minority in Myanmar of horrendous crimes, mixing rumors with fabrications" (Fisher, p.55, our translation), generating an alternate reality that became alarmingly mainstream thanks to his celebrity status.
 
-Fisher destaca que as pessoas de Mianmar foram apresentadas ao Facebook em um estado já desenvolvido, criando uma espécie de explosão digital. Consequentemente, à medida que os usuários se engajavam nas redes sociais, construíam ou reforçavam suas identidades. A popularidade e o eco dentro do grupo de suporte tornaram-se evidências da verdade, alimentando um viés de confirmação que ignorava qualquer contra-argumento.
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Identity - Check the english quote - Marcio has the pt-br book - @meta-refid 7676-9898-7364-8764
+--> 
 
-Os usuários, portanto, passaram a interpretar a popularidade de uma postagem ou figura como Wirathu como uma validação de suas crenças e percepções, fortalecendo sua identidade e, ao mesmo tempo, criando um ciclo de confirmação de viés que amplificava a narrativa alternativa. Em um episódio notável, essa dinâmica culminou em ataques violentos à minoria muçulmana, motivados por informações disseminadas através das redes sociais.
+Fisher highlights that the people of Myanmar were introduced to Facebook in an already developed state, creating a kind of digital explosion. Consequently, as users engaged with social media, they built or reinforced their identities. The popularity and echo within the support group became evidence of truth, fueling a confirmation bias that overlooked any counter-argument.
 
-O caso de Wirathu e Mianmar, como descrito por Fisher, destaca o poder e o perigo das redes sociais em uma sociedade recém-conectada. O que antes eram fragmentos de crenças sem confirmação passou a ser, na era digital, validação em massa de uma identidade e narrativa alternativa, proporcionando aos usuários um sentido distorcido de realidade e moralidade. Isso ilustra a urgência de se abordar a disseminação de desinformação e ódio nas redes sociais para garantir um futuro digital mais seguro e inclusivo.
+Therefore, users came to interpret the popularity of a post or figure like Wirathu as a validation of their beliefs and perceptions, strengthening their identity while simultaneously creating a cycle of bias confirmation that amplified the alternative narrative. In a notable episode, this dynamic culminated in violent attacks on the Muslim minority, motivated by information spread through social media.
+
+Wirathu and Myanmar's case, as described by Fisher, highlights the power and danger of social media in a newly connected society. What were once unconfirmed fragments of beliefs became, in the digital age, mass validation of an alternative identity and narrative, providing users with a distorted sense of reality and morality. This illustrates the urgency of addressing the spread of misinformation and hatred on social media to ensure a safer and more inclusive digital future.
+
+
+
 
 
 
@@ -714,15 +722,24 @@ O caso de Wirathu e Mianmar, como descrito por Fisher, destaca o poder e o perig
 #### Grown up ship 
 
 
-Muitos empreendedores de sucesso criaram empresas que tomaram novos rumos e de fato encontraram felicidade nesse estado da evolução. Disso não precisa muito ser dito pois todo mundo se dá direito a viver novas paixões. Ainda, não é incomum a arte se tornar medíocre mas o artista estar contente com a nova arte uma vez que ela encontra o mundo. Talvez isso explique autores, como cantores, que descobrem ou esbarram em mercados e se encantam com seus trabalhos medíocres, vivem momentos de fama, vivem felizes e com isso propagam suas artes.
+Many successful entrepreneurs have created companies that have taken new directions and have indeed found happiness in this state of evolution. Not much needs to be said about this because everyone is entitled to live new passions. Moreover, it is not uncommon for art to become mediocre, but the artist is content with the new art once it meets the world. Perhaps this explains authors, like singers, who discover or stumble upon markets and are enchanted with their mediocre works, live moments of fame, live happily, and thus propagate their arts.
 
-Mas nessa interação com o mundo, no confronto com mudanças, a identidade criada pelo empreendedor também encontra o descontentamento, quando não evolui, podendo até morrer; assim é percebida, sentida, porque o criador é o corresponsável por sua identidade formada, seu trabalho anterior.
+However, in this interaction with the world, in the confrontation with changes, the identity created by the entrepreneur also encounters discontentment when it does not evolve and may even die; thus it is perceived, felt, because the creator is co-responsible for their formed identity, their previous work.
 
-Andy Grove, em Only the Paranoid Survive (p.xxx) explica uma situação crítica que vivida por times de liderança de grandes empresas que passam por uma situação intitulada de ponto de inflexão. O ponto de inflexão é quando uma empresa estabilizada, que tem um produto ou serviço bem relacionado no mercado, encontra uma força desestrutura o equilíbrio do produto ou serviço. A maioria das empresas que vivem os pontos de inflexão simplesmente não sobrevivem pois as forças atuantes as impactam de forma brutal. Pode-se imaginar a entidade-empresa, na praia ensolarada, quando as ondas começam a mudar mas não se percebe o tsunami que vem para levar tudo. Nesses momentos, às vezes décadas que antecipam o tsunami, os times de gestão sentem sensações tão difíceis comparáveis com as sensações que as pessoas sentem quando perdem uma pessoa querida — com efeitos comportamentais típicos como autodefesa, negação, escapismo, dentre outras.
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Identity - Check the following referred page in the book of Andy Only the Paranoid Survive - @meta-refid 7676-4354-7333-8764
+--> 
 
-Tanto na jornada do ponto de inflexão das grandes corporações, quando na jornada do empreendimento mais jovem, cabe ao empreendedor ou ao time de liderança trabalhar na busca da verdade e não na reafirmação do estado da arte atual. Nesse sentido, é importante coragem porque líderes bons são aqueles que se colocam também a prova, se deixam na posição de vulnerabilidade que é libertadora.
+Andy Grove, in Only the Paranoid Survive (p.xxx), explains a critical situation experienced by leadership teams of large companies undergoing what is called an inflection point. The inflection point is when a stabilized company, which has a product or service well established in the market, encounters a force that disrupts the equilibrium of the product or service. Most companies experiencing inflection points simply do not survive because the acting forces impact them brutally. One can imagine the entity-company, on the sunny beach, when the waves start to change but the tsunami that is coming to take everything away is not perceived. In these moments, sometimes decades before the tsunami, management teams experience sensations as difficult as those people feel when they lose a loved one — with typical behavioral effects such as self-defense, denial, escapism, among others.
 
-Ninguém quer, no final das contas, ser pego de surpresa por um tsunami seja devido a insatisfação de clientes ou forças atuantes externas como competição, regras do mercado que mudaram, etc.
+
+
+
+
+Both in the journey of the inflection point of large corporations and in the journey of the younger venture, it is up to the entrepreneur or the leadership team to work in the pursuit of truth and not in the reaffirmation of the current state of the art. In this sense, courage is important because good leaders are those who also put themselves to the test, allowing themselves to be in a position of vulnerability that is liberating.
+
+After all, no one wants to be caught off guard by a tsunami, whether due to customer dissatisfaction or external forces such as competition, changes in market rules, etc.
 
 
 

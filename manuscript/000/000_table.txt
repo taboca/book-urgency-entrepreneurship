@@ -1,5 +1,9 @@
 # Todo # 
 
+* @todo - p2 ( ) - In Identity - Check the following referred page in the book of Andy Only the Paranoid Survive - @meta-refid 7676-4354-7333-8764
+
+* @todo - p2 ( ) - In Identity - Check the english quote - Marcio has the pt-br book - @meta-refid 7676-9898-7364-8764
+
 * @todo - p2 ( ) - In The Feedback of Urgency - Should we bring a illustration of floor clearning and counter-effect? / @meta-refid 7565-9586-2233-4432
 
 * @todo - p2 ( ) - In The Feedback of Urgency - Consider to bring back the image from Adam - agreeable and disagreeable - perhaps not to the text but to reflect on it and to explain it better - ![](images/adam/agreeable-disagreeable.png) - @meta-refid 8585-5567-9294-4848 
