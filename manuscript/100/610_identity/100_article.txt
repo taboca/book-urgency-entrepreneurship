@@ -6,13 +6,88 @@ The identity of an entrepreneur, and in this sense that extends to the team, and
 
 In the sections below we will consider, first, how this identity develops from passion as associated with a greater vision, values, or even passions on top of effort or performance, but not independent of this external environment that contributes to the identity by being centered in the effort in these interactions and need for support with entities, tools, groups, associations. With this, we reflect first on how growing also grows identity, where identity is born and how it can become rooted. From there, we will look at some reflections on how teams are influenced, from simple situations to in companies and large corporations, where in fact, as in the day to day these issues are felt or lived with great emotions experienced in the challenges of everyday entrepreneurial, or corporate life, where the issue seems like responsibility but which in fact can be a reflection on identities. And finally, we end our reflection, our moment, with considerations on how entrepreneurs try to escape, see from the outside, get out of the bubble where they feel and where they represent these roles.
 
-## Fusion from vision 
+
+
+
+
+<!--
+@meta @outline 
+* Outline - Answer - Fusion and vision 
+--> 
+
+## Driven by vision 
+
+
+
+
+
 
 <!-- 
 
 * Key - How we experience - Our aspirations, in the beginning, counts more. Entrepreneurs depend on it - as this is where more value counts, such as motivations and vision & value system. We create value-anchors for who we are, for our causes, for who we ought to be so that we can have success. Thus we can be tied with the vision, or mission, or aspired state of founders. Then we fail, actually in fact after passing successes, thus we count on prior decisions, such as bets that yielded good advancements supporting our roles. 
 
 --> 
+
+
+
+
+
+
+<!--
+@meta @outline 
+* Outline - Situation of start - Calling, user innovation
+--> 
+
+
+
+
+O renomado Steve Blank, pioneiro do movimento lean [^steveblanklean] e criador do processo intitulado Customer Discovery (2005), quando entrevistado sobre uma única ideia de conselho para fundadores, reveleu na entrevista em vídeo: 
+<!-- 
+
+> "Founders is not a job, is a calling… this is not some job. The odds of you making money, in here; versus working at McDonalds, it’s a much better bet that you will be making more money in your career working at McDonalds. You need to do what you are doing because you love it, because you can’t think of anything better to do with your life. And if that is not the case, don’t do this because it’s going to be a miserable 10 or 20 years. If you are looking at getting rich like the Facebook boys, or the Google boys, or whatever the hot startup is now, that is the wrong reason to do it. If you are chasing the money, I will guarantee you, the more you chase it, the further away is goes." 
+> 
+> (Steve Blank at MAP14, Mar 13, 2014, 34m33s)
+
+Steve Blank at MAP14. (Published on Mar 13, 2014.) MAP14 Public Forum: Steve Blank [video]. Retrieved from https://www.youtube.com/watch?v=UFx2CQUTpYo
+
+--> 
+
+[^steveblanklean]: Steve Blank é um renomado empresário e acadêmico reconhecido por ser um dos pioneiros do movimento Lean Startup. Blank, juntamente com Eric Ries, ajudou a definir e propagar a filosofia Lean Startup, que propõe a criação de empresas e produtos sob condições de extrema incerteza. Seu trabalho, caracterizado pelo "desenvolvimento de clientes" e pela ideia de "saia do prédio", é um pilar fundamental desta metodologia. Blank enfatiza a importância da aprendizagem validada, o desenvolvimento iterativo de produtos e a resposta rápida às necessidades dos clientes como princípios chave para a inovação em startups.
+
+Assim, podemos reconhecer que entre casos de sucesso e ideias grandiosas, há muitas invenções e inovações atribuídas a fundadores que se viram envolvidos em uma luta por uma causa. No entanto, também existem muitos empreendedores que, mesmo sem uma causa tão forte, ainda se sentem em uma missão ou estão em processo de formação de suas identidades. Embutida na premissa de Steve Blank - de que o chamado é necessário - está também a ideia de que neste chamado, o fundador se torna vítima das projeções de futuro que faz em relação ao que faz, bem como vítima da identidade projetada. Isso pode parecer exagerado, mas as ações atreladas à pressão da identidade ocorrem no dia a dia e podem se manifestar em coisas simples, que passariam despercebidas.
+
+<!-- case of user innovation? --> 
+
+Empreender é uma atividade que envolve não apenas uma motivação comercial, mas também a paixão por uma causa que se quer ver mudada. Essa motivação é central no fenômeno da "Inovação do Usuário" (User Innovation), onde o empreendedor se vê intrinsecamente ligado à causa que defende. Tanto o trabalho de Eric von Hippel em "Democratizando a Inovação" (2005) quanto o curso "User Innovation: A Path to Entrepreneurship" no MITx no edX ressaltam essa premissa, enfatizando que "a inovação frequentemente começa com pessoas reais resolvendo seus próprios problemas" (MIT, 2015). Este conceito incentiva os empreendedores a se envolverem profundamente com as causas que defendem, alimentando tanto sua paixão como sua motivação para criar soluções inovadoras e disruptivas.
+
+<!--
+
+User Innovation: A Path to Entrepreneurship. Massachusetts Institute of Technology (MIT) on edX. Recuperado de https://www.youtube.com/watch?v=LpBSY9_RyCg
+
+von Hippel, E. (2005). Democratizing Innovation. The MIT Press. DOI: https://doi.org/10.7551/mitpress/2333.001.0001
+
+--> 
+
+Como indicado nesta vídeo introdução do curso, invenções como basquete, braille, dentre outras e até soluções tecnológicas como Dropbox, foram invenções que surgiram a partir de necessidade real, ou das dores. Em outras palavras, causas próprias. Essa premissa, na visão de Eric von Hippel, está por todo lado e é um fenômeno. 
+
+
+
+
+
+
+
+
+
+
+<!--
+@meta @outline 
+* Outline - Complication - Maslow good also shows the ties -  identity becomes same, fusion, maslow. Connects, embraces, collaborate.  
+* Outline - Complication - Good - improved awarenness - Bad - obsessive, controller, uncreative, lost, fail and even to a point of no lessons, given that fail fast and learn is a possible light.  
+--> 
+
+
+
+
 
 We can consider that the true entrepreneur - or the true manager, or true worker - feels good about what they do as they live a relationship with what they do. The relationship with work through activities, not only connects with identity, as they see themselves, but also extends further that identity. This idea goes well with being human because work connects us with the world, through work we survive, through work we feel as somebody, through work we learn and grow; thus through work we can see ourselves acting in the world and as well we are seen by the world. This situation goes along with what is needed - not entirely due to work but likely supported by work - in terms of individual's self-realization which resonates with the humanized version of the relationship between work and the individual presented by Maslow [^maslow] (Maslow, 1998, p.1) which states that highly evolved individuals assimilate their work with their identities. In other words, work becomes part of the being that defines the individual.
 
@@ -28,6 +103,12 @@ Key - How passion is recognized by practitioners and supporters in the ecosystem
 
 --> 
 
+
+
+
+
+
+
 Let us first celebrate the intensity of passion that can take over the founding team. Entrepreneur, investor, and professor Steve Blank reported not believing that he was working in Silicon Valley and being paid to do what he would do for free (Blank, 2014) or that he might even pay to have the opportunity. This is not uncommon at some stage for entrepreneurs who find passions during their journeys. It happens when they stumble upon opportunities along the way — events that resonate with the entrepreneur's identity or that form a new identity. As the entrepreneur progresses on the journey of discovery and refinement, they better see the art being carved out of the stone and their identity — feeling like a deserving or rightful owner, or protagonist of the discovery, of what they saw, vision. That is, proud but also responsible, or the one carrying that flag.
 
 <!-- 
@@ -42,6 +123,22 @@ https://steveblank.com/2011/03/31/entrepreneurship-is-an-art-not-a-job/
 https://steveblank.com/2011/04/09/entrepreneurs-are-artists/
 
 -->
+
+
+
+
+
+
+
+<!--
+@meta @outline 
+* Outline - Situation of From passion to success feedback, seed to oak tree.  
+--> 
+
+
+
+
+
 
 Another point of view of Bill Draper, one of the early venture capitalists recognized as a founding fathers of Silicon Valley, supports us to see how entrepreneurs are likely to be involved with that they do in a holistic way: 
 
@@ -61,6 +158,24 @@ key - The price to move with passion
 
 --> 
 
+
+
+
+
+
+
+
+<!--
+@meta @outline 
+* Outline - Complication of performance leading to harmonious or obsessive (consider self efficacy?)
+--> 
+
+
+
+
+
+
+
 Thus, if the founder is a car and identity their road then passion might be the fuel that seems to appear to support the drive, or what drives us to accelerate. But while founders can put it in metaphorical terms, which can be quite innacurate or confusing, and while practitioners recognize that they can't do it without loving it, the concerns about passions and identity are greatly appreciated by the minds of others who happen to be there when behavior needs to be assessed, such as researchers and even investors, because the very same potential that fuel adds pressure, as well adds risk as one does act in front of the external world and under pressures, such as pressures of growth of a startup, which may force the result of a drive that can either go in harmony and bring opportunity or may on the other extremme  and driven by obsession cause destruction to the business needs of growth but also to the well-being of the entrepreneurs.  
 
 Through the research by Bouizegarene et al. (2018), we might respect their intentions to explore how identity processes [^footnote_research_identity_processes] - the things we do that shape our identities - can have an effect in shaping on passions such as to become harmonious and obsessive, and if how that connects with the optimal functioning in society. 
@@ -70,18 +185,28 @@ Through the research by Bouizegarene et al. (2018), we might respect their inten
 In other words, even if researchers go dig into the specifics and extremmes of driving with passion, their concern sets us to reflect on how we see ourselves, our roles, and how our sense of being in love with what we do  have an effect in our performance, which may sound good, but also on potential narrow views and perspectives.
 
 <!-- 
-
-Reference
-
-Bouizegarene, N., Bourdeau, S., Leduc, C., Gousse-Lessard, A.-S., Houlfort, N., & Vallerand, R. J. (2018). We are our passions: The role of identity processes in harmonious and obsessive passion and links to optimal functioning in society. Self and Identity, 17(1), 56–74. https://doi.org/10.1080/15298868.2017.1321038
+@meta @references 
+* reference - Bouizegarene, N., Bourdeau, S., Leduc, C., Gousse-Lessard, A.-S., Houlfort, N., & Vallerand, R. J. (2018). We are our passions: The role of identity processes in harmonious and obsessive passion and links to optimal functioning in society. Self and Identity, 17(1), 56–74. https://doi.org/10.1080/15298868.2017.1321038
 
 --> 
 
-<!-- 
 
-key - the investor's concern 
 
+
+
+
+
+
+<!--
+@meta @outline 
+* Outline - Investors can be careless vs. concerned with growth Risks. 
 --> 
+
+
+
+
+
+
 
 <!-- 
 
@@ -106,9 +231,35 @@ Stanford. (2013). Entrepreneurship Through the Lens of Venture Capital [Video]. 
 
 --> 
 
+
+
+
+
+
+<!--
+@meta @outline 
+* Outline - Research explores passion for product vs. passion for entrepreneurship 
+* Outline - (suggestion) Should MD note on stages apply here?
+--> 
+
+
+
 In this sense, the passions of entrepreneurs as seen by investors is also a subject of research, although it is certainly a challenge for researchers to understand the aspects of passions, or to find ways to assess the types of passions that determine more or less success in entrepreneurship. Yet, a window into this space is offered through the quantitative analysis by the research paper by Warnick, Murnieks, McMullen, and Brooks (Warnick, 2018,) which involved asking investors about the types of passions that capture the best investments. The approach in the research had considered the passion for entrepreneurship vs. passion for the product  [^footnote_research_passion_entrepreneurship_product], and its relevancy to investors, which are known traits assumed to be important if a team is interested in materializing innovation in the market. 
 
 [^footnote_research_passion_entrepreneurship_product]: Passion for entrepreneurship have to do with when the founder is aware, interested, engaged, and feels good, with the various aspects involved in the execution the entrepreneurial activities. While passion for the product is oriented to the drive that is motivated by the vision of a product or service. 
+
+
+
+
+
+<!--
+@meta @outline 
+* Outline - Can passion also support transcending? Such as passion with entrepreneurship?
+-->
+
+
+
+
 
 An interesting finding in the study - which exactly explains the growth-oriented and risk-aware nature of how investors operate - reveals how the founder's ability to read feedback has ties with passion. In other words, an interest in the flipside of passion, which is articulated as openness to feedback was revealed as important for entrepreneurs to be able to obtain investment from investors, such as angel investors and venture capital investors. Therefore, and we if we had to jump to conclusions, one could consider that investors filter first by how passionate entrepreneurs are and then, secondly and more qualitatively how much they are open to feedback.
 
@@ -117,32 +268,23 @@ In other words, openness to feedback is a crucial element for investors to be ab
 It becomes clearer the view that entrepreneurship is science and art, which is born protagonized by entrepreneurs, passionate about art but equally passionate about science, who seek the balance of passions taking into account the connection with the environment where they produce and deliver their creations. Perhaps this formulation helps to explain the tendency of investors to trust more in teams of co-founders than in entrepreneurs who are alone, as probably, except for exceptions, solitary entrepreneurs are more intractable.
 
 
-### The price of social capital 
-
-But then, all of this is great but we as entrepreneurs in our drive to deliver such development, we are driven to get into affairs with other groups, or entities, or even systems perceived as required to advance our journey. In reality, a solo founder may go seek to find a cofounder within a larger entrepreneurial or incubation entity that she had joined. Or an accelerator might be an opportunity. And there are all sorts of other entities that are dynamic, interactive, full of energy and showing alignment with the need of these founders. In other words, the possibility of affairs with external entities is not only evident of modern, networked, and rich ecosystem of entrepreneurship - where they will get from books to all sorts of supporting entities up to venture capital or other crowd supports -  but in fact realidily innevitable, as in difficult to avoid, as entrepreneurs understand they do seek, find, and acquire social capital. 
-
-In other words, the formation of the founder's identity is not an outcome that is shown alltogether, along with the launch of the service or product - althought it is certainly visible through the launches as of course through launches and the limelight people can look and reflect about the identity - but in fact goes along with the modern approach of entrepreneurship where interactions with these entities happen along the way, which also goes well with the lean way of doing entrepreneurship. 
-
-It comes from this growth with social capital that not only their identities are formed but are assumed as vital. When they find into it, they perceive as a value, and of course the implied challenge that values can't be taken. Thus, it may be so that they use time to not only seek and join these affairs but also nurture their identities and associations after all it is what protects them. 
-
-And it does so, even so and so that they can also get into trouble. 
-
-> *"Our focus on particular identities can enrich our bonds and make us do many things for each other and can help to take us beyond our self-centered lives. The recent literature on 'social capital,' powerfully explored by Robert Putnam and others, has brought out clearly enough how an identity with others in the same social community can make the lives of all go much better in that community; a sense of belonging to a community is thus seen as a resource - like capital." (Sen, 2006, p.2) 
-
-<!-- 
-
-## Reference 
-
-Identity and Violence: The Illusion of Destiny. W. W. Norton & Company, Inc.
-
---> 
-
-It may be important, therefore, to recognize that the formation, or support for an an identity, hasn't ties with product identity, such as ties associated with the vision. These ties also lies in self-efficacy, self performance, self-esteem, that they develop through the execution. 
 
 
 
 
-### (Consider these cases of Steve to be out of here as they are brought into lean no lean)
+
+
+
+
+<!--
+@meta @outline 
+* Outline - Through lean early interactions, baby ugly and team support or team elightened #moved #steve #lean #babyugly
+-->
+
+
+
+
+
 
 Pior é que muitas vezes a encruzilhada não tem placas — sem aviso. Steve Blank relata a ilustração do empreendedor que está enamorado com sua ideia e não ouve o feedback do mundo exterior:
 
@@ -160,51 +302,131 @@ Para poder melhor articular esse fenômeno, ou síndrome, Steve Blank formulou a
 
 
 
-### Considerations about the atraction to identifications with representative identities 
 
-It should, then, be considered, that the attachment with certain groups, or entities, and even frameworks and tools - which are by the way not only connected but also empowered by communities, therefore supported by social element which values social capital where the sense of identity is alive - can and will provide concrete values but along also the value of identity formation for the participant, and with that the implication of identity attachment, which in itself acts as value, therefore it becomes valued as the things we take that we cannot lose or that when under attack we may react to preserve which may become strongly than the general things perceived as necessary. And by that, as discussed, the attachment with such identity, or identities, may be assumed to be a source of greater value although which may not be true, just like a human may enjoy the perceived benefits of an inclusion in a given group but that does not give the final answer of who that person is, or better, who they are ought to become, and in fact may even harm that person's path as they represent, they act, they are directed in their reasoning, and directed in their decision, which may harm their self development path, their true aspirations, the formation of who they are to become. A supporting line to this general idea can be guided by the enlighted line of thinking of Amarthya Sen in Identity and Violence: 
 
-> *"In our normal lives, we see ourselves as members of a variety of groups - we belong to all of them. A person's citizenship, residence, geographic origin, gender, class, politics, profession, employment, food habits, sports interestsm taste in music, social commitments, etc., make us members of a variety of groups. Each of these collectivities, to all of which this person simultaneously belongs, gives her a particular identity. None of them can be taken to be the person's only identity or singular membership category." (Sen, 2006, p.2) 
 
-## Driven by emotions 
 
-But if looking from above suggests the development of an identity, such as one that gets in the way a wider view, a stronger focus then must go for the actuall challenges of the day, as entrepreneurs do execute from the early stage and do not recognize that they deal with their identities. The reality of the day deals with the struggle where emotions happen and affect reasoning and decisions and even if it shapes entrepreneurial character it does so more silently without an alarm. 
 
-We make calls, we make mistakes - in the context of urgencies, pressures of judgments. We make trouble such as ends. And after post-mortem, we wished we could call us back in time. Or to put in another way, when what we thought were right happen to become a trainwreck, and when all dies, and when we move onn. Suddenly it may be the case that light comes our way, as if the natural post-mortem, now not needed, happens within the space of total freedom, which is indeed enlightening and provokes one to think that "now that I solved all, I can't go back in time" and reason that "my belief was confusing me." They can only then achieve such new insights when they see what they did from a perspective such as a protected space where they can't anymore be in the control of the outcomes, such as when they lost the battle, they are now free from the psychological control. 
 
-The complication is then, in the heat of all that happens, with no clear vision of any identities influencing, they can't separate these emotions, emotions that counts and chimes in, especially in front of projections of judges, and the pressure of time. So the question remains: can the successful entrepreneur separate emotions from ideas like someone who is inside and at the same time outside the hurricane? The answer is yes although it involes the recognition of tolerance for ambiguous situations such as abilities to live inside and outside the reality of what happens. 
+
+
+
+
 
 <!--
+@meta @outline 
+* Outline - Infinite learner? Situation is of New Sport. Complication is Transition needs. Solution is humble. More than infinite learner, infinite apprentice. (p. 169)
+-->
 
-scqa: key - experience emotions seem not tied with identity?
+### Humble identity
 
---> 
 
-In the battles of the learning and doing, the subject of the identities can be used so that we can reflect about these emotions that in the day drives but with no alarm given; supporting a must reflection as we are generally unable to pause to reflect on what we fell, why we feel, how we are reacting, and if our reaction can be driven by values, such as if emotions driving decisions are triggered from value-systems associated with who they are and their roles. 
 
-According to Robert McKee [1], "In life, if you see a dead body in the street, you are hit by a wave of adrenaline: 'My God, he's dead!' Maybe you run away in fear. Later, when the emotions settle down, you may reflect on the meaning of the death of this stranger, your own mortality, and life under the shadow of death." The truth is that in the face of ups and downs we are emotionally affected because we are human, because we feel. For example, saying no, even to an unwanted type of client, is not so easy if the entrepreneur feels empathy and compassion. In other words, it is not just a simple question of suitability for the business.
 
-When we feel emotions such as insecurity or fear in the situations we experience, we feel them because our brain is defending us: sometimes we even perceive risk situations as if we were being attacked — like trying to flee from a tiger. The idea of losing a client, or even a client meeting that didn't happen (the client needed to cancel), are day-to-day events for the entrepreneur that come in any form, as they are part of the adversities on the battlefield. Thus, our perception determines our emotions and reactions. If we are conditioned with the perception that losing a client is a threat, our brain can trigger an emergency routine and the emotions tallied may be too strong to the point of impacting our performance and our ability to, for example, reflect with the creativity that could eliminate problems.
 
-For McKee, in life, idea and emotion come separately. This view can help us explain the liberating reflection that arises when a former entrepreneur gives up but as soon as they start a new job they can organize their ideas — oh, if they could make a call to their former self or go back in time.
+
+(Consider to move this to later down) Talvez para esses a identidade que lhes guia está mais adiante, em construção, no futuro; e não se jogam, não se abraçam tão fortemente ao estado da arte atual, não se ancoram; o barco está livre. Quando permitem essa liberdade, eles podem olhar para suas artes com um olhar mais suave — sabem que estão apaixonados pelo estado atual mas sabem que a arte consiste em trabalhar a arte, às vezes deixar para trás, ou talvez deixar a arte ser medíocrizada pelo mundo - acontece e em casos pode ser bom.
+
+The subject to be considered is then that it is implied that they are in also in a quest to make the vision a reality, to bring to the world. But we still have to face the the problem of passion, and love, and how our leadership identity can affect our values and make us to make decisions such as decisions that take us in a bad direction. 
+
+Thus, the situation that we now start involves the recognition of the problem, or complexity, of fusion, and deviations of the truth for a solution, or even being able to engage the performers, assuming the case makes sense, the escape hatch might exist in the very suggestion of the composer whose the job has to do with transcendence from the original artist that had discover to a a new artist that helps the early team to see the vision and support the growth, or the evolution of the vision. 
+
+Is this the complication? - Thus, with that in mind we can find first a peaceful space that we must acknowledge that a lot from that "fusion reaction" is a heat that can also create confusion - there might be chaos in the growth which deserves the recognion that things might be shaky and which will affect the identity of the visionary as in might also create moments of "that is it, this is who I am," which is the very symption of a success but that can turn out to be condition that deserves a reflection as it might provoke the person into the situation of being a know-it-all or where the humble characterization ceases to exist in the face of what is next which is the actual necessity to grow. 
+
+In a previous chapter, especifically in the section Infinite Apprentice, we have considered the advice from Brian Chesky and Reid Hoffman, the idea of the infinite learner, which brought up the challenges of a leader accross the growth stages. Brian reminded us that is not like one becoming more skilled in an art; and instead it has more to do with having to learn a new sport. Brian might be a good example that the infinite apprentice is connected with the an inner and humble spirit that enables transformation. For us, is a reminder to keep that fire on, the fire of being humble which opens the opportunity through the discovery phase, which they don't know fully yet how things are going to grow and how the realization will unfold. 
+
+But what comes from the this space for transcendence is really about the vision for how the discovery can find its place, how it can growth, with a system in place, with the performers to support, and that idea necessarily involves the growth of the individual, the transcendence of the identity, towards the identity of the leader, or in the words of Steve Blank, the role of a composer. Steve Blank recognized that founders find a vision on their paths, they are carriers of a call as much as they are onto a call: 
 
 <!-- 
 
-Key point - see from far? Cold? Should this be here?
+( ) On Identity - Check cross use of composer case around the book which had referred to Steve Blank. 3290849824-49284928-4290849284901-4988234982394
+
 --> 
 
-According to Reid Hoffman and Ben Casnocha (2012), the real estate agent does not know when their next payment will come in because their job is based on highs and lows. So the agent works to sell but also on building their client network which is compatible with constant changes in daily life. It can be said that salespeople and brokers are resilient or even opportunistic. But we can look at the discipline that defines the survival conditions of brokers: they need to create a space to work on ideas isolated from the arrows of emotion, from the adversities of daily life. When the broker sells a big house, they are aware that they cannot be shaken for a longer time. What explains this resilience of sellers, in part, is a preconception inherent in the profession itself: sellers fly over, observe the environment, work in networks, and eventually dive to conquer their prizes. They do not categorize the work of the sale (the conquest of the prize) as being the greater work. For them, what is work is working on the network, flying over, navigating, observing, looking for new directions.
+> *"Founders fit the definition of a composer: they see something no one else does. And to help them create it from nothing, they surround themselves with world-class performers. This concept of creating something that few others see – and the reality distortion field necessary to recruit the team to build it – is at the heart of what startup founders do. It is a very different skill than science, engineering, or management. Entrepreneurial employees are the talented performers who hear the siren song of a founder’s vision. Joining a startup while it is still searching for a business model, they too see the promise of what can be and join the founder to bring the vision to life. Founders then put in play every skill which makes them unique – tenacity, passion, agility, rapid pivots, curiosity, learning and discovery, improvisation, ability to bring order out of chaos, resilience, leadership, a reality distortion field, and a relentless focus on execution – to lead the relentless process of refining their vision and making it a reality."* Blank, S. (2011, March 31).
 
-Mas o dia a dia do empreendedor é diferente, pois infelizmente emoções não surgem com uma faixa que diz “cuidado você está sendo encantado por emoções!” A realidade é que não separamos emoções de ideias justamente porque somos humanos e porque aprendemos a sentir em primeiro lugar. A verdade é que nossa versão humanizada é prova que fomos programados para estarmos ocasionalmente perdidos.
+Steve really touches the point of transcendence that embraces possibility, that unlocks the opportunity ahead, and supports the founders to not be trapped by any identity in a given moment, such as to be enamorated with an idea. 
 
-A questão que surge é o dilema do ser empreendedor versus ser humano. Seria o empreendedor de sucesso menos humano já que consegue melhor sobrevoar a batalha do dia a dia? Muitos tornam-se mais experientes na medida que sintetizam pensamentos com base no aprendizado e diante das adversidades do dia a dia. E muitos aparentam ser mais sistemáticos ou até mais frios depois de tantas falhas e acertos. Mas essas são percepções que levam em consideração o caminho já percorrido de quem chegou lá.
+What if, the thought could be turned into as "We are just starting" again. Perhaps that is a way to escape the negative side of the calling. This escape hatch opens the way for growth, for the full realization, and towards leadership. But it isn't easy to see from outside what we do. For that, we need to first acknowledge that it is important - first step - and then with spirit of a true entrepreneur - volunteering to learn - we step up into to find our answers. In a way, the entrepreneur is a generator of an art, it becomes the art in progress in itself, thus she needs to become the curator of its arts. 
 
-Agora, no campo das batalhas e das incertezas, precisamos de uma abordagem humanizada para trilharmos um caminho que não seja desmotivante como “deixar de ser humano”.
+<!-- 
 
-Esse caminho existe graças também a outro fator humano, assim como o sentir. Decorre da nossa capacidade humana de sentir pelo outro. Quando olhamos para fora, para o problema alheio, nós sentimos, mas sentimos de uma forma diferente com empatia e compaixão; bem diferente de estar vivendo como o protagonista. A versão humanizada para o empreendedor é direta: podemos ajudar outros empreendedores, principalmente aqueles que estão vivendo adversidades. Mesmo partindo da posição de ouvinte, estamos exercitando nossas capacidades de observar, ouvir, refletir e opinar. Ainda, engajamos de forma “junto com eles” com empatia e compaixão pelo problema mas ao mesmo tempo sabemos que estamos fora do olho do furacão. Essa abordagem nos ajuda a sintetizar as ideias sem a confusão das emoções que só o protagonista sente. Torna-se um exercício que nos deixa mais arrojados, que cria um modelo mental mais flexível, um olhar; sem contar a ajuda que estaremos fazendo ao próximo.
+Blank, S. (2011, March 31). Entrepreneurship is an Art not a Job. Steve Blank. https://steveblank.com/2011/03/31/entrepreneurship-is-an-art-not-a-job/
 
+--> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+@meta @outline 
+* Outline - Affairs with groups of representants, social capital as resource. #senamartya #identityviolence
+-->
+
+## Driven by social capital 
+
+
+
+
+
+
+
+
+But then, all of this is great but we as entrepreneurs in our drive to deliver such development, we are driven to get into affairs with other groups, or entities, or even systems perceived as required to advance our journey. In reality, a solo founder may go seek to find a cofounder within a larger entrepreneurial or incubation entity that she had joined. Or an accelerator might be an opportunity. And there are all sorts of other entities that are dynamic, interactive, full of energy and showing alignment with the need of these founders. In other words, the possibility of affairs with external entities is not only evident of modern, networked, and rich ecosystem of entrepreneurship - where they will get from books to all sorts of supporting entities up to venture capital or other crowd supports -  but in fact realidily innevitable, as in difficult to avoid, as entrepreneurs understand they do seek, find, and acquire social capital. 
+
+In other words, the formation of the founder's identity is not an outcome that is shown alltogether, along with the launch of the service or product - althought it is certainly visible through the launches as of course through launches and the limelight people can look and reflect about the identity - but in fact goes along with the modern approach of entrepreneurship where interactions with these entities happen along the way, which also goes well with the lean way of doing entrepreneurship. 
+
+It comes from this growth with social capital that not only their identities are formed but are assumed as vital. When they find into it, they perceive as a value, and of course the implied challenge that values can't be taken. Thus, it may be so that they use time to not only seek and join these affairs but also nurture their identities and associations after all it is what protects them. 
+
+And it does so, even so and so that they can also get into trouble. 
+
+> *"Our focus on particular identities can enrich our bonds and make us do many things for each other and can help to take us beyond our self-centered lives. The recent literature on 'social capital,' powerfully explored by Robert Putnam and others, has brought out clearly enough how an identity with others in the same social community can make the lives of all go much better in that community; a sense of belonging to a community is thus seen as a resource - like capital." (Sen, 2006, p.2) 
+
+<!-- 
+@meta @references 
+* reference - Sen, A. (2006). Identity and Violence: The Illusion of Destiny. W. W. Norton & Company, Inc.
+--> 
+
+It may be important, therefore, to recognize that the formation, or support for an an identity, hasn't ties with product identity, such as ties associated with the vision. These ties also lies in self-efficacy, self performance, self-esteem, that they develop through the execution. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+@meta @outline 
+* Emotions - judges - Identification of tests and judges vs. narratives 
+* Emotions - judges - Poor judgment could happen 
+* Emotions - judges - Case of judge to step aside - Julia and Ayn   
+-->
 
 ### Being tested by the judges of growth 
+
+
+
+
+
 
 I wanted to write, the theme, about the emotions and judgements that can get into the way of the execution of projects. Start-ups, teams, and their constituents are people - they feel, they have emotions. We are also storytellers, and we make sense of what we do with narratives. And, we judge what we do, when we do it in realtime. It`s our natural ability. 
 
@@ -256,6 +478,124 @@ Therefore, it comes the point for us to reflect, to consider, that we will need 
 
 
 
+
+<!--
+@meta @outline 
+* Outline - Attachment and identifications with specific identities - converging into  #senamartya #identityviolence
+-->
+
+### Considerations about the atraction to identifications with representative identities 
+
+
+
+
+
+
+It should, then, be considered, that the attachment with certain groups, or entities, and even frameworks and tools - which are by the way not only connected but also empowered by communities, therefore supported by social element which values social capital where the sense of identity is alive - can and will provide concrete values but along also the value of identity formation for the participant, and with that the implication of identity attachment, which in itself acts as value, therefore it becomes valued as the things we take that we cannot lose or that when under attack we may react to preserve which may become strongly than the general things perceived as necessary. And by that, as discussed, the attachment with such identity, or identities, may be assumed to be a source of greater value although which may not be true, just like a human may enjoy the perceived benefits of an inclusion in a given group but that does not give the final answer of who that person is, or better, who they are ought to become, and in fact may even harm that person's path as they represent, they act, they are directed in their reasoning, and directed in their decision, which may harm their self development path, their true aspirations, the formation of who they are to become. A supporting line to this general idea can be guided by the enlighted line of thinking of Amarthya Sen in Identity and Violence: 
+
+> *"In our normal lives, we see ourselves as members of a variety of groups - we belong to all of them. A person's citizenship, residence, geographic origin, gender, class, politics, profession, employment, food habits, sports interestsm taste in music, social commitments, etc., make us members of a variety of groups. Each of these collectivities, to all of which this person simultaneously belongs, gives her a particular identity. None of them can be taken to be the person's only identity or singular membership category." (Sen, 2006, p.2) 
+
+
+
+<!-- 
+@meta @references 
+* reference - Sen, A. (2006). Identity and Violence: The Illusion of Destiny. W. W. Norton & Company, Inc.
+--> 
+
+
+
+
+
+
+
+
+<!--
+@meta @outline 
+* Outline - Emotions - Situation of lived heat, couldn't see. Can't go back in time. 
+-->
+
+## Driven by emotion
+
+
+
+
+
+
+But if looking from above suggests the development of an identity, such as one that gets in the way a wider view, a stronger focus then must go for the actuall challenges of the day, as entrepreneurs do execute from the early stage and do not recognize that they deal with their identities. The reality of the day deals with the struggle where emotions happen and affect reasoning and decisions and even if it shapes entrepreneurial character it does so more silently without an alarm. 
+
+We make calls, we make mistakes - in the context of urgencies, pressures of judgments. We make trouble such as ends. And after post-mortem, we wished we could call us back in time. Or to put in another way, when what we thought were right happen to become a trainwreck, and when all dies, and when we move onn. Suddenly it may be the case that light comes our way, as if the natural post-mortem, now not needed, happens within the space of total freedom, which is indeed enlightening and provokes one to think that "now that I solved all, I can't go back in time" and reason that "my belief was confusing me." They can only then achieve such new insights when they see what they did from a perspective such as a protected space where they can't anymore be in the control of the outcomes, such as when they lost the battle, they are now free from the psychological control. 
+
+The complication is then, in the heat of all that happens, with no clear vision of any identities influencing, they can't separate these emotions, emotions that counts and chimes in, especially in front of projections of judges, and the pressure of time. So the question remains: can the successful entrepreneur separate emotions from ideas like someone who is inside and at the same time outside the hurricane? The answer is yes although it involes the recognition of tolerance for ambiguous situations such as abilities to live inside and outside the reality of what happens. 
+
+<!--
+
+scqa: key - experience emotions seem not tied with identity?
+
+--> 
+
+
+
+
+<!--
+@meta @outline 
+* Outline - Emotions - Robert McKee explains, real life action.
+* Emotions - Complication, from that, is that by living we are conditioning anyway identity for more time. 
+-->
+
+
+
+
+In the battles of the learning and doing, the subject of the identities can be used so that we can reflect about these emotions that in the day drives but with no alarm given; supporting a must reflection as we are generally unable to pause to reflect on what we fell, why we feel, how we are reacting, and if our reaction can be driven by values, such as if emotions driving decisions are triggered from value-systems associated with who they are and their roles. 
+
+According to Robert McKee [1], "In life, if you see a dead body in the street, you are hit by a wave of adrenaline: 'My God, he's dead!' Maybe you run away in fear. Later, when the emotions settle down, you may reflect on the meaning of the death of this stranger, your own mortality, and life under the shadow of death." The truth is that in the face of ups and downs we are emotionally affected because we are human, because we feel. For example, saying no, even to an unwanted type of client, is not so easy if the entrepreneur feels empathy and compassion. In other words, it is not just a simple question of suitability for the business.
+
+When we feel emotions such as insecurity or fear in the situations we experience, we feel them because our brain is defending us: sometimes we even perceive risk situations as if we were being attacked — like trying to flee from a tiger. The idea of losing a client, or even a client meeting that didn't happen (the client needed to cancel), are day-to-day events for the entrepreneur that come in any form, as they are part of the adversities on the battlefield. Thus, our perception determines our emotions and reactions. If we are conditioned with the perception that losing a client is a threat, our brain can trigger an emergency routine and the emotions tallied may be too strong to the point of impacting our performance and our ability to, for example, reflect with the creativity that could eliminate problems.
+
+For McKee, in life, idea and emotion come separately. This view can help us explain the liberating reflection that arises when a former entrepreneur gives up but as soon as they start a new job they can organize their ideas — oh, if they could make a call to their former self or go back in time.
+
+<!-- 
+
+Key point - see from far? Cold? Should this be here?
+--> 
+
+
+
+
+
+<!--
+@meta @outline 
+* Outline - Emotions - Reid Ben case of salesman and fly from above 
+* Outline - Emotions - Marcio wants to add the lemon case of Bill Draper. 
+* Emotions - Question - Complication - Reflection and solution if we can be colder?
+* Emotions - Answer - Can develop that through empathy 
+-->
+
+
+
+
+According to Reid Hoffman and Ben Casnocha (2012), the real estate agent does not know when their next payment will come in because their job is based on highs and lows. So the agent works to sell but also on building their client network which is compatible with constant changes in daily life. It can be said that salespeople and brokers are resilient or even opportunistic. But we can look at the discipline that defines the survival conditions of brokers: they need to create a space to work on ideas isolated from the arrows of emotion, from the adversities of daily life. When the broker sells a big house, they are aware that they cannot be shaken for a longer time. What explains this resilience of sellers, in part, is a preconception inherent in the profession itself: sellers fly over, observe the environment, work in networks, and eventually dive to conquer their prizes. They do not categorize the work of the sale (the conquest of the prize) as being the greater work. For them, what is work is working on the network, flying over, navigating, observing, looking for new directions.
+
+Mas o dia a dia do empreendedor é diferente, pois infelizmente emoções não surgem com uma faixa que diz “cuidado você está sendo encantado por emoções!” A realidade é que não separamos emoções de ideias justamente porque somos humanos e porque aprendemos a sentir em primeiro lugar. A verdade é que nossa versão humanizada é prova que fomos programados para estarmos ocasionalmente perdidos.
+
+A questão que surge é o dilema do ser empreendedor versus ser humano. Seria o empreendedor de sucesso menos humano já que consegue melhor sobrevoar a batalha do dia a dia? Muitos tornam-se mais experientes na medida que sintetizam pensamentos com base no aprendizado e diante das adversidades do dia a dia. E muitos aparentam ser mais sistemáticos ou até mais frios depois de tantas falhas e acertos. Mas essas são percepções que levam em consideração o caminho já percorrido de quem chegou lá.
+
+Agora, no campo das batalhas e das incertezas, precisamos de uma abordagem humanizada para trilharmos um caminho que não seja desmotivante como “deixar de ser humano”.
+
+Esse caminho existe graças também a outro fator humano, assim como o sentir. Decorre da nossa capacidade humana de sentir pelo outro. Quando olhamos para fora, para o problema alheio, nós sentimos, mas sentimos de uma forma diferente com empatia e compaixão; bem diferente de estar vivendo como o protagonista. A versão humanizada para o empreendedor é direta: podemos ajudar outros empreendedores, principalmente aqueles que estão vivendo adversidades. Mesmo partindo da posição de ouvinte, estamos exercitando nossas capacidades de observar, ouvir, refletir e opinar. Ainda, engajamos de forma “junto com eles” com empatia e compaixão pelo problema mas ao mesmo tempo sabemos que estamos fora do olho do furacão. Essa abordagem nos ajuda a sintetizar as ideias sem a confusão das emoções que só o protagonista sente. Torna-se um exercício que nos deixa mais arrojados, que cria um modelo mental mais flexível, um olhar; sem contar a ajuda que estaremos fazendo ao próximo.
+
+
+
+
+
+
+
+
+<!--
+@meta @outline 
+* Outline - Emotions - Cases of roles an identity may be about build self-esteem 
+-->
+
+
 ### Cases of roles of an identity 
 
 
@@ -297,6 +637,44 @@ Neste estudo, abordaremos primeiramente o caso de Mianmar, no qual um protagonis
 
 Em seguida, aprofundaremos na questão implícita de identidade no empreendedorismo. Através de uma reflexão sobre essa ideia de identidade empreendedora, buscamos evidências de que a identidade é não apenas um fenômeno, mas também uma premissa essencial para a ação de empreender. Vamos também explorar as experiências de personalidades da indústria, considerando os riscos inerentes a esse processo, que exigem uma consciência e uma atenção maiores à medida que moldamos nossa identidade e trajetória.
 
+
+
+
+
+
+
+
+
+<!--
+@meta @outline 
+* Outline - Emotions - Affected by narrative of heroism for the colleagues 
+-->
+
+#### A superhero
+
+Como exemplo, podemos considerar a experiência de Melissa Nightingale, que compartilhou em seu artigo, "Why it’s a Mistake to be a Startup Superhero" (2016), o perigo de tentar ser um "super-herói" em uma startup. Durante sua jornada, Melissa viu-se tão comprometida com seu trabalho que, em uma noite em particular, permaneceu no escritório até tarde da noite, esperando por colegas que haviam sido presos em um protesto. Ela estava disponível para qualquer eventualidade, seja uma chamada, a necessidade de uma fiança ou a recuperação de equipamentos. Tão cansada, ela improvisou uma cama com camisetas grandes e dormiu no chão do escritório.
+
+No entanto, ela reconhece que muitas das ações e sacrifícios que fez, vistas como heroicas no momento, não eram necessárias. Ela estava, de certa forma, vítima de sua identidade projetada e das projeções de futuro que tinha para a empresa. E mesmo que ela acreditasse estar ajudando seus amigos, muitas de suas ações contribuíam mais para a manutenção de uma identidade de "super-heroína" do que para o crescimento sustentável da empresa.
+
+Melissa também destaca em seu artigo como a cultura das startups incentiva essa confusão entre trabalho e vida social. Ela escreve: "A tecnologia é particularmente boa em criar condições que normalizam essa linha tênue. Entre álcool no escritório, bebidas depois do trabalho, saídas externas, passeios e eventos, pode parecer que uma série de suas necessidades sociais são bem atendidas durante o horário de trabalho" (Nightingale, 2016, tradução nossa).
+
+Isso reforça que além da questão da identidade dos empreendedores, há também o elemento da pressão social. A necessidade de ser aceito, a dedicação ao trabalho, o sentimento de pertencimento - todos esses fatores podem levar a um comprometimento excessivo que vai além da identidade profissional. É um desafio identificar quando o investimento no trabalho passa a ser prejudicial, não só para o indivíduo, mas também para o coletivo. É bastante provável que a Melissa do futuro tivesse dificuldade em convencer a Melissa do passado de que dormir no escritório e gastar energia desnecessariamente poderiam de fato prejudicar seus colegas, pois ela não estava descansando adequadamente.
+
+<!-- 
+
+Referência:
+Nightingale, M. (2016). Why it’s a Mistake to be a Startup Superhero. Medium. Recuperado de https://medium.com/the-copour/why-its-a-mistake-to-be-a-startup-superhero-e221b0969ec9
+
+-->
+
+
+
+
+<!--
+@meta @outline 
+* Outline - Emotions - Affected by poor network - Fame - Network poor 
+-->
+
 #### Fame  
 
 <!-- 
@@ -323,58 +701,17 @@ Os usuários, portanto, passaram a interpretar a popularidade de uma postagem ou
 
 O caso de Wirathu e Mianmar, como descrito por Fisher, destaca o poder e o perigo das redes sociais em uma sociedade recém-conectada. O que antes eram fragmentos de crenças sem confirmação passou a ser, na era digital, validação em massa de uma identidade e narrativa alternativa, proporcionando aos usuários um sentido distorcido de realidade e moralidade. Isso ilustra a urgência de se abordar a disseminação de desinformação e ódio nas redes sociais para garantir um futuro digital mais seguro e inclusivo.
 
-### A calling 
 
-O renomado Steve Blank, pioneiro do movimento lean [^steveblanklean] e criador do processo intitulado Customer Discovery (2005), quando entrevistado sobre uma única ideia de conselho para fundadores, reveleu na entrevista em vídeo: 
-<!-- 
 
-> "Founders is not a job, is a calling… this is not some job. The odds of you making money, in here; versus working at McDonalds, it’s a much better bet that you will be making more money in your career working at McDonalds. You need to do what you are doing because you love it, because you can’t think of anything better to do with your life. And if that is not the case, don’t do this because it’s going to be a miserable 10 or 20 years. If you are looking at getting rich like the Facebook boys, or the Google boys, or whatever the hot startup is now, that is the wrong reason to do it. If you are chasing the money, I will guarantee you, the more you chase it, the further away is goes." 
-> 
-> (Steve Blank at MAP14, Mar 13, 2014, 34m33s)
 
-Steve Blank at MAP14. (Published on Mar 13, 2014.) MAP14 Public Forum: Steve Blank [video]. Retrieved from https://www.youtube.com/watch?v=UFx2CQUTpYo
 
---> 
-
-[^steveblanklean]: Steve Blank é um renomado empresário e acadêmico reconhecido por ser um dos pioneiros do movimento Lean Startup. Blank, juntamente com Eric Ries, ajudou a definir e propagar a filosofia Lean Startup, que propõe a criação de empresas e produtos sob condições de extrema incerteza. Seu trabalho, caracterizado pelo "desenvolvimento de clientes" e pela ideia de "saia do prédio", é um pilar fundamental desta metodologia. Blank enfatiza a importância da aprendizagem validada, o desenvolvimento iterativo de produtos e a resposta rápida às necessidades dos clientes como princípios chave para a inovação em startups.
-
-Assim, podemos reconhecer que entre casos de sucesso e ideias grandiosas, há muitas invenções e inovações atribuídas a fundadores que se viram envolvidos em uma luta por uma causa. No entanto, também existem muitos empreendedores que, mesmo sem uma causa tão forte, ainda se sentem em uma missão ou estão em processo de formação de suas identidades. Embutida na premissa de Steve Blank - de que o chamado é necessário - está também a ideia de que neste chamado, o fundador se torna vítima das projeções de futuro que faz em relação ao que faz, bem como vítima da identidade projetada. Isso pode parecer exagerado, mas as ações atreladas à pressão da identidade ocorrem no dia a dia e podem se manifestar em coisas simples, que passariam despercebidas.
-
-<!-- case of user innovation? --> 
-
-Empreender é uma atividade que envolve não apenas uma motivação comercial, mas também a paixão por uma causa que se quer ver mudada. Essa motivação é central no fenômeno da "Inovação do Usuário" (User Innovation), onde o empreendedor se vê intrinsecamente ligado à causa que defende. Tanto o trabalho de Eric von Hippel em "Democratizando a Inovação" (2005) quanto o curso "User Innovation: A Path to Entrepreneurship" no MITx no edX ressaltam essa premissa, enfatizando que "a inovação frequentemente começa com pessoas reais resolvendo seus próprios problemas" (MIT, 2015). Este conceito incentiva os empreendedores a se envolverem profundamente com as causas que defendem, alimentando tanto sua paixão como sua motivação para criar soluções inovadoras e disruptivas.
 
 <!--
-
-User Innovation: A Path to Entrepreneurship. Massachusetts Institute of Technology (MIT) on edX. Recuperado de https://www.youtube.com/watch?v=LpBSY9_RyCg
-
-von Hippel, E. (2005). Democratizing Innovation. The MIT Press. DOI: https://doi.org/10.7551/mitpress/2333.001.0001
-
---> 
-
-Como indicado nesta vídeo introdução do curso, invenções como basquete, braille, dentre outras e até soluções tecnológicas como Dropbox, foram invenções que surgiram a partir de necessidade real, ou das dores. Em outras palavras, causas próprias. Essa premissa, na visão de Eric von Hippel, está por todo lado e é um fenômeno. 
-
-
-
-### A superhero
-
-Como exemplo, podemos considerar a experiência de Melissa Nightingale, que compartilhou em seu artigo, "Why it’s a Mistake to be a Startup Superhero" (2016), o perigo de tentar ser um "super-herói" em uma startup. Durante sua jornada, Melissa viu-se tão comprometida com seu trabalho que, em uma noite em particular, permaneceu no escritório até tarde da noite, esperando por colegas que haviam sido presos em um protesto. Ela estava disponível para qualquer eventualidade, seja uma chamada, a necessidade de uma fiança ou a recuperação de equipamentos. Tão cansada, ela improvisou uma cama com camisetas grandes e dormiu no chão do escritório.
-
-No entanto, ela reconhece que muitas das ações e sacrifícios que fez, vistas como heroicas no momento, não eram necessárias. Ela estava, de certa forma, vítima de sua identidade projetada e das projeções de futuro que tinha para a empresa. E mesmo que ela acreditasse estar ajudando seus amigos, muitas de suas ações contribuíam mais para a manutenção de uma identidade de "super-heroína" do que para o crescimento sustentável da empresa.
-
-Melissa também destaca em seu artigo como a cultura das startups incentiva essa confusão entre trabalho e vida social. Ela escreve: "A tecnologia é particularmente boa em criar condições que normalizam essa linha tênue. Entre álcool no escritório, bebidas depois do trabalho, saídas externas, passeios e eventos, pode parecer que uma série de suas necessidades sociais são bem atendidas durante o horário de trabalho" (Nightingale, 2016, tradução nossa).
-
-Isso reforça que além da questão da identidade dos empreendedores, há também o elemento da pressão social. A necessidade de ser aceito, a dedicação ao trabalho, o sentimento de pertencimento - todos esses fatores podem levar a um comprometimento excessivo que vai além da identidade profissional. É um desafio identificar quando o investimento no trabalho passa a ser prejudicial, não só para o indivíduo, mas também para o coletivo. É bastante provável que a Melissa do futuro tivesse dificuldade em convencer a Melissa do passado de que dormir no escritório e gastar energia desnecessariamente poderiam de fato prejudicar seus colegas, pois ela não estava descansando adequadamente.
-
-<!-- 
-
-Referência:
-Nightingale, M. (2016). Why it’s a Mistake to be a Startup Superhero. Medium. Recuperado de https://medium.com/the-copour/why-its-a-mistake-to-be-a-startup-superhero-e221b0969ec9
-
+@meta @outline 
+* Outline - Emotions - Affected by leadership maturity 
 -->
 
-
-### Identities in the mature grown up scenario 
+#### Grown up ship 
 
 
 Muitos empreendedores de sucesso criaram empresas que tomaram novos rumos e de fato encontraram felicidade nesse estado da evolução. Disso não precisa muito ser dito pois todo mundo se dá direito a viver novas paixões. Ainda, não é incomum a arte se tornar medíocre mas o artista estar contente com a nova arte uma vez que ela encontra o mundo. Talvez isso explique autores, como cantores, que descobrem ou esbarram em mercados e se encantam com seus trabalhos medíocres, vivem momentos de fama, vivem felizes e com isso propagam suas artes.
@@ -397,39 +734,27 @@ In this section we will bring the reflection by Andy Grove, the late CEO of Inte
 
 
 
-## Transcending the identity 
 
-(Consider to move this to later down) Talvez para esses a identidade que lhes guia está mais adiante, em construção, no futuro; e não se jogam, não se abraçam tão fortemente ao estado da arte atual, não se ancoram; o barco está livre. Quando permitem essa liberdade, eles podem olhar para suas artes com um olhar mais suave — sabem que estão apaixonados pelo estado atual mas sabem que a arte consiste em trabalhar a arte, às vezes deixar para trás, ou talvez deixar a arte ser medíocrizada pelo mundo - acontece e em casos pode ser bom.
 
-The subject to be considered is then that it is implied that they are in also in a quest to make the vision a reality, to bring to the world. But we still have to face the the problem of passion, and love, and how our leadership identity can affect our values and make us to make decisions such as decisions that take us in a bad direction. 
 
-Thus, the situation that we now start involves the recognition of the problem, or complexity, of fusion, and deviations of the truth for a solution, or even being able to engage the performers, assuming the case makes sense, the escape hatch might exist in the very suggestion of the composer whose the job has to do with transcendence from the original artist that had discover to a a new artist that helps the early team to see the vision and support the growth, or the evolution of the vision. 
 
-Is this the complication? - Thus, with that in mind we can find first a peaceful space that we must acknowledge that a lot from that "fusion reaction" is a heat that can also create confusion - there might be chaos in the growth which deserves the recognion that things might be shaky and which will affect the identity of the visionary as in might also create moments of "that is it, this is who I am," which is the very symption of a success but that can turn out to be condition that deserves a reflection as it might provoke the person into the situation of being a know-it-all or where the humble characterization ceases to exist in the face of what is next which is the actual necessity to grow. 
 
-In a previous chapter, especifically in the section Infinite Apprentice, we have considered the advice from Brian Chesky and Reid Hoffman, the idea of the infinite learner, which brought up the challenges of a leader accross the growth stages. Brian reminded us that is not like one becoming more skilled in an art; and instead it has more to do with having to learn a new sport. Brian might be a good example that the infinite apprentice is connected with the an inner and humble spirit that enables transformation. For us, is a reminder to keep that fire on, the fire of being humble which opens the opportunity through the discovery phase, which they don't know fully yet how things are going to grow and how the realization will unfold. 
 
-But what comes from the this space for transcendence is really about the vision for how the discovery can find its place, how it can growth, with a system in place, with the performers to support, and that idea necessarily involves the growth of the individual, the transcendence of the identity, towards the identity of the leader, or in the words of Steve Blank, the role of a composer. Steve Blank recognized that founders find a vision on their paths, they are carriers of a call as much as they are onto a call: 
 
-<!-- 
 
-( ) On Identity - Check cross use of composer case around the book which had referred to Steve Blank. 3290849824-49284928-4290849284901-4988234982394
 
---> 
+<!--
+@meta @outline 
+* Outline - Transcending - Biographic flights 
+-->
 
-> *"Founders fit the definition of a composer: they see something no one else does. And to help them create it from nothing, they surround themselves with world-class performers. This concept of creating something that few others see – and the reality distortion field necessary to recruit the team to build it – is at the heart of what startup founders do. It is a very different skill than science, engineering, or management. Entrepreneurial employees are the talented performers who hear the siren song of a founder’s vision. Joining a startup while it is still searching for a business model, they too see the promise of what can be and join the founder to bring the vision to life. Founders then put in play every skill which makes them unique – tenacity, passion, agility, rapid pivots, curiosity, learning and discovery, improvisation, ability to bring order out of chaos, resilience, leadership, a reality distortion field, and a relentless focus on execution – to lead the relentless process of refining their vision and making it a reality."* Blank, S. (2011, March 31).
+### Transcending with historical flights 
 
-Steve really touches the point of transcendence that embraces possibility, that unlocks the opportunity ahead, and supports the founders to not be trapped by any identity in a given moment, such as to be enamorated with an idea. 
 
-What if, the thought could be turned into as "We are just starting" again. Perhaps that is a way to escape the negative side of the calling. This escape hatch opens the way for growth, for the full realization, and towards leadership. But it isn't easy to see from outside what we do. For that, we need to first acknowledge that it is important - first step - and then with spirit of a true entrepreneur - volunteering to learn - we step up into to find our answers. In a way, the entrepreneur is a generator of an art, it becomes the art in progress in itself, thus she needs to become the curator of its arts. 
 
-<!-- 
 
-Blank, S. (2011, March 31). Entrepreneurship is an Art not a Job. Steve Blank. https://steveblank.com/2011/03/31/entrepreneurship-is-an-art-not-a-job/
 
---> 
 
-### Biographic flights 
 
 <!-- 
 
@@ -457,13 +782,14 @@ Consider the situation of John Fitch which is credited as one of the inventors o
  
 > *“Fitch advertised the service heavily and the boat performed admirably — going five hundred miles before suffering mechanical problems — but the passengers did not come. In desperation, the partners offered free food and drinks on board, but every voyage continued to lose money. What had proven to be technological triumph turned out to be a commercial failure, and the service was abandoned after that first summer. His investors backed away, and Fitch eventually found himself nearly penniless once again.”* (Klein, 2009, p. 46)
 
+
+
 <!-- 
-
-## References
-
-Klein, Maury. (2009). The power makers : steam, electricity, and the men who invented modern America. Bloomsbury Press. First U.S. edition.
-
+@meta @references 
+* Reference - Klein, Maury. (2009). The power makers: steam, electricity, and the men who invented modern America. Bloomsbury Press. First U.S. edition.
 --> 
+
+
 
 <!-- ref 
 
@@ -474,17 +800,32 @@ Reading how amazing inventions were born helps us soften our minds and better re
 
 After such discovery Oersted published a paper. While Ampere priorly did not believe in such relationship, this was a real experiment, therefore easy to replicate. From that moment, Ampere not only accepted but he immediately started contributing to this new field in a matter of two months.
 
-<!-- reference 
-
-Klein, Maury. (2009). The power makers : steam, electricity, and the men who invented modern America. Bloomsbury Press. First U.S. edition.
-
+<!-- 
+@meta @references 
+* Reference - Klein, Maury. (2009). The power makers: steam, electricity, and the men who invented modern America. Bloomsbury Press. First U.S. edition.
 --> 
 
 In the above passage, new opportunities appeared after that irrefutable observation of effects of the physical world, enabling the status-quo of scientists to be dropped quickly. They other words, they had to accept change as their environment was changing. 
 
 Productizing an idea depends on many factors such as vision and engineering capacity. But it won’t necessarily mean your target customer is ready to accept the proposed and envisioned product. And even if they are, it does not mean that all the forces in the future will favor your product to enter and sustain itself in the market.
 
+
+
+
+
+
+
+<!--
+@meta @outline 
+* Outline - Transcending - Considerations on changing goggles
+* (suggestion - add case of cognitive distortions)
+-->
+
 ### Considerations on changing goggles 
+
+
+
+
 
 For closing, we shall consider the very situation of growth for the business, or the need for growth, that can be used as a way to shock-aborb any potential interpretations and characterization of how founders are conducting. The experimentation, or exercise, of transcending and doing analysis of the business for the future, which will likely set the theme of tops-down needs, taken from vision and higher-order goals, objectives, which will embrace the development of the business, may be a good exercise to put the present execution under a degree of scrutinity.
 
@@ -493,9 +834,6 @@ For Michael Dearing, lecturer and investor at Harrison Metal, founders should ev
 > *"First you have to have an insight, a technical insight. Second you have to turn that insight into a product, and third you have to, hopefully God willing, turn that product into a business. Those are about as different sets of pursuits with very little in common with each other. And so if you energized by the idea of coming up with a technical insight and then moving to productization and then moving to the business building phase, that journey will be satisfying and exciting to you. If you find yourself totally in love with the technical insight manufacturing process, that is a real problem. And then you end up having science projects, not companies. If you find yourself endlessly prototyping and tinkering with the product without regard to the business economics, then that’s a warning flag as well."* (Michael Dearing, Greylock Partners, October 2015, 47:47)
 
 <!-- 
-
-Reference
-
-Michael Dearing. Greylock. (2015, October 8). Blitzscaling 03: Michael Dearing on Capitalism, Creativity, and Creative Destruction [video]. Retrieved from https://www.youtube.com/watch?v=3vCdfa_aeI8
-
+@meta @references 
+* reference - Michael Dearing. Greylock. (2015, October 8). Blitzscaling 03: Michael Dearing on Capitalism, Creativity, and Creative Destruction [video]. Retrieved from https://www.youtube.com/watch?v=3vCdfa_aeI8
 --> 
