@@ -26,8 +26,8 @@
 100/050_rainbow_grayscale.txt
 
 100/410_impact_f47ac10b-58cc-4372-a567-0e02b2c3d479.txt
-100/600_driven_by_fear.txt
-100/610_driven_by_love.txt
+100/610_identity/200_article_fear.txt
+100/610_identity/100_article.txt
 
 100/630_running_readiness.txt
 
