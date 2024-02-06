@@ -1,15 +1,42 @@
+## Outstanding 
 
-## Matrix initial reviews 
+* (WAITING) #OKR - Thiago Christoph - IamFounder. Refs 423098490238490-2/6/24, 45390254902385908-1/31/24 
+* (WAITING) #pitch - Chris Hoffman - of Mozilla. Refs 6464-7565-7676-8888, prior 7747-7575-9898-9399
+
+## Chapter review phase - Not So Radical Focus 02-2024
+
+* (WAITING, Accepted, received, invited, helped)  #OKR Thiago Christoph @ 423098490238490-2/6/24, 45390254902385908-1/31/24 
+
+## Chapter - Letter of introduction 
+
+* (WAITING, Accepted, invited, supported, ) Chris Hoffman - of Mozilla. Had accepted to help.  6464-7565-7676-8888, prior 7747-7575-9898-9399
+
+## Chapter other - introduction 
+
+* (Accepted, invited, supported) Gabrielly @ Panini - Asked if she can read some part of it. / 748-849-874-885
+
+## Chapter invitations 
+
+* ( , i, ) #OKR Muriel Garrido @ 8484-3332-2221-9393 / January 31th, 2024 
+* ( , i, ) #OKR Andre Figueiredo @ 4390784908324098 / January 31th, 2024 
+* ( , s0, i, ) #OKR Edilson @ 3490874038927489237489 / January 31th, 2024 
+
+## Book manuscript invitations 
 
 * (p, l, a, r ) Chris Hoffman - of Mozilla. Had accepted to help.  
 * (p, l, a, r ) Marcelo Muniz, had accepted to help. 
-
 * (p, a) Chris Yeh - chat invited, may look at intro presentation document and manuscript. 
 * (p, l, a) Steve Blank, invited with introduction letter [l], accepted to receive manuscript. 
 * (p, l, a, ) Ted Thayer - of JTBD, accepted to receive the manuscript. 
+* (p, ) Doug Leone - @meta-refid 6575-8787-9898-5463
+
+## Permissions 
+
 * (p, l, quote, a, ) - David Smooke of HN had accepted the situation of the annedocte in the story of the "Never send a canvas to your investors" vs. "oops I just did" / 42849289-42984982-92484928-20849284
 
-* (p, ?, a) Gabrielly @ Panini - Asked if she can read some part of it. / 748-849-874-885
+## Other 
+
+* (p, invited, ) Barbara Minto, and Adrian @meta-refid 6575-8787-0987-7584
 
 * (p, l, ) Eric Ries - / 42849284928-42984984-49284984-4928498294
 * (p, l, c) Jason Fried, through linked in. 
@@ -22,8 +49,6 @@
 * (p, ) Rohan Workman, which interviewed Steve Blank 
 * (p, l, ) Brendan Eich 
 * (p, l, ) Chris Hoffman 
-* (p, l, ) Adrian of Barbara 
-
 * (p, l, ) Chase Jarvis #Cover 
 
 ## Matrix subscribers 
@@ -36,18 +61,87 @@
 [a] accepted to receive the manuscript
 [w] Wants a copy when done 
 
-
 ## Follow ups 
 
 * Ted - https://mail.google.com/mail/u/0/#inbox/QgrcJHsBtPszjcdSZGMtPVbJdtZbDRNjSrq 
+
+## -----------------------------------------------------------------------------
+## Follow up with Chris Hoffman - follow up 12/12/2023 @meta-refid 6464-7565-7676-8888, prior 7747-7575-9898-9399
+
+* Status - accepted 
+* Status - reviewed intro business letter 
+* Link - https://mail.google.com/mail/u/0/#search/chofmann%40gmail.com/KtbxLwgZVwjDDccMZJKdWcPBwPDlzZFlzL?compose=CllgCKCFTZBmqMtKMtRghMxHqHCmVqMMVzxbdtwwXxncFcHNXWjcbslnHbFjWSTzndtpVvhhMJq
 * Chris -  https://mail.google.com/mail/u/0/#inbox/KtbxLwgZVwjDDccMZJKdWcPBwPDlzZFlzL
 
-* (i, ) #OKR Andre Figueiredo @ 4390784908324098 / January 31th, 2024 
-* (i, ) #OKR Thiago Christoph @ 45390254902385908 / January 31th, 2024 
-* (i, ) #OKR Muriel Garrido @ 8484-3332-2221-9393 / January 31th, 2024 
-* (i, s0, ) #OKR Edilson @ 3490874038927489237489 / January 31th, 2024 
+## -----------------------------------------------------------------------------
+## Letter - To Doug Leone @meta-refid 6575-8787-9898-5463
+
+* Linkedin https://www.linkedin.com/in/douglas-leone-a2714/
+* Status - sent partial note via linkedin 
+
+```
+Hi Doug, how are you? I am Marcio that worked for Netscape/Mozilla/Yahoo while in the bay area. Thanks for your thoughts and style of communication. I am working in a book "Slow Down to Start Up" to help founders with conscious thinking in the fast-paced networked age. I wonder if I could send a [+]
+```
+
+## -----------------------------------------------------------------------------
+## Letter - Follow up with Thiago Christoph, do IAM Founder, asking for review contributor OKR @meta-refid 423098490238490, prior 45390254902385908
+
+* Status - Accepted to receive pre manuscript of chapter "Not so radical focus"  
+* Follow up - https://mail.google.com/mail/u/0/#sent/FMfcgzGxRdtjQkkqCVcCvvbKpMrrpTTm 
 
 
+## -----------------------------------------------------------------------------
+## Letter - On Communications - to Barbara Minto and Adrian - Asking for reading  - @meta-refid 6575-8787-0987-7584
+
+* ref - https://mail.google.com/mail/u/0/#sent/KtbxLwgxFdxLChnnkKBVbHHrKdWZmwXDXq
+
+```
+Marcio Galli <taboca@gmail.com>	6 de fevereiro de 2024 às 16:19
+Para: barminto@aol.com
+Cc: Adrian H Davies <adrianhdavies@yahoo.com>
+Hi Barbara,
+
+Since around the time that I had received a note from you - the note
+is shown in the picture attached in a t-shirt I made as a reminder - I
+was able to write consistently. By now, it's been 134 day episodes of
+work, as a writer, or 402 hours.
+
+This book is for entrepreneurs interested in more conscious
+entrepreneurial behavior - especially under the complicated and modern
+world with so many tools and systems and methods where a lot is urgent
+or hyper accelerated and networked. The book was born because I was
+trapped in this world and perhaps saw the light.
+
+Among other chapters, I have two that connect with communications. One
+of them is the one that makes references to you and your work. On the
+personal side, I consider this chapter a thank you note to Barbara
+Minto and Michael Dearing.
+
+I wonder if I can send the copy of that chapter to you or you/Adrian
+when the manuscript of that chapter is ready. I did my best to
+approach the subject in ways to motivate the reader and not to pass on
+the teachings or details which they are asked to read in your book;
+but to offer them a strategic viewpoint for rethinking communications
+and to see it as a way to actually grow themselves as better founders,
+and better teams, as opposed to *using* communications such as to
+polish things, like post-production, like the urgent world does it,
+like what makes them lose opportunities in business and life and among
+their colleagues.
+
+If this idea sounds good, I can ship a printed copy to you when I
+complete the "manuscript version". Or, I can send a PDF or I can share
+an online document using Google Docs, or engage in other ways you may
+suggest. Of course, if this is the case, you can engage in any way
+that you feel to be appropriate: to just receive, to try to start
+reading ig, to read the whole thing, to read and do nothing, or to
+engage more. I say that because I understand that my presence in the
+middle of great thoughts from great thinkers could well be a reason to
+turn gold in garbage.
+
+Abraços,
+Cheers,
+Marcio
+```
 
 ## -------------------------------------------------------------------
 ## Letter - On Cover of Book - Chase Jarvis - 
@@ -530,7 +624,8 @@ ready, in case the topic interests you in any way, please let me know.
 MG
 ```
 
-## Letter to Chris Hoffman on November 29th 2023 
+## -----------------------------------------------------------------------------
+## Letter to Chris Hoffman on November 29th 2023 @meta-refid 7747-7575-9898-9399
 
 * Ref - review 1 of Chris - https://mail.google.com/mail/u/0/#inbox/KtbxLwgZVwjDDccMZJKdWcPBwPDlzZFlzL
 
