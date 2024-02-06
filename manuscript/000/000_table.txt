@@ -1,6 +1,10 @@
 # Todo # 
 
-* @todo - p2 ( ) - In Identity - Check the following referred page in the book of Andy Only the Paranoid Survive - @meta-refid 7676-4354-7333-8764
+* @todo - p2 ( ) - In Identity - Bring the case of Great America, is the main point needed - @meta-refid 3332-7866-3232-1222
+
+* @todo - p2 ( ) - In Identity - Consider some ideas from the Design of Your Life book by Stanford professors which used design thinking for career / @meta-refid 3234-5546-3333-8474
+
+* @todo - p2 ( ) - In Identity - Consider the thought from Andy Grove about performance of people tied to motivation - which is a management concern as indicated - which connects with Maslow / @meta-refid 6464-8373-9873-8474
 
 * @todo - p2 ( ) - In Identity - Check the english quote - Marcio has the pt-br book - @meta-refid 7676-9898-7364-8764
 
@@ -258,6 +262,8 @@ https://chat.openai.com/share/b7eb16c5-4c18-4709-9220-bd2629f34a3d
 * Culture 
 
 ## Done
+
+* @todo - p2 (Done) - In Identity - Check the following referred page in the book of Andy Only the Paranoid Survive - @meta-refid 7676-4354-7333-8764
 
 * @todo - p2 (Done) - In The Feedback of Urgency - Check Fred Koffman foonote and APA reference for book COnscious Business - @meta-refid 7686-8475-6464-8383 
 

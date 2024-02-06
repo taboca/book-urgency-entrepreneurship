@@ -1,8 +1,62 @@
 # Identity 
 
-A successful entrepreneur can be likened to an artist, in the sense of being successful in bringing a vision, a creation, to the world. However, the opposite is not true because not every artist reveals art to the world. This is because art remains art even when it is contained, incubated, when it is not flying - the artist does not cease to be an artist while learning. On the other hand, the artist-in-the-eyes-of-the-world works on refining their idea, so that their art makes sense to them and at the same time to their audience. Even though they often go through chaotic navigation, the good artist ceases to be chaotic as they build their identity and their work, their work; an identity that embraces and is embraced by the audience, perhaps not directly but as an audience confirms the production, then it is believed that that identity gives rise to the embraced product, that is, the identity is validated.
+It seems to be that successful entrepreneurs are like professional artists, in the sense that they bring a vision to the world, that they have found an audience, being those users or a market or a group of people with the same needs, that they all feel in the same boat and share the same vision. In this situation, looking at their personalities or their character or their identities, they seem to respond accordingly, in other words, they do not fail to follow through, to continue to be professional, to please the audiences in  way, but not for the sake of pleasing, but in a way they comply with the audience expects, they are integral, and in doing that they seem quite well doing what is right under the higher-order goals they have, their vision, and what appears to be also a destiny even if they crafted their own - or in a way or another have gottin into it. 
+
+
+
+
+
+
+
+
+
+<!--
+@meta @outline 
+* Outline - Introduction Situation - Maslow confirms development of identity with work
+* Outline - Introduction Situation - (Suggestion) Check Andy Grove performance and motivation in High Output Management, end of it.
+--> 
+
+
+
+Some comparison with artists is an attempt to suggest that they navigate with the begginnings where a lot appears to be chaotic but as good artists they leave chaos, transcend, find something they are more tuned to, and which also goes along with the validation from audiences. Of course, all that connected with aspirations as they seek freedom and to access a change. 
+
+We can consider that the true entrepreneur - or the true manager, or true worker - feels good about what they do as they live a relationship with what they do. The relationship with work through activities, not only connects with identity, as they see themselves, but also extends further that identity. This idea goes well with being human because work connects us with the world, through work we survive, through work we feel as somebody, through work we learn and grow; thus through work we can see ourselves acting in the world and as well we are seen by the world. This situation goes along with what is needed - not entirely due to work but likely supported by work - in terms of individual's self-realization which resonates with the humanized version of the relationship between work and the individual presented by Maslow [^maslow] (Maslow, 1998, p.1) which states that highly evolved individuals assimilate their work with their identities. In other words, work becomes part of the being that defines the individual.
+
+[^maslow]: "These highly evolved individuals assimilate their work into their identity into their self, i.e., work actually becomes part of the self part of the individual's definition of himself."  Maslow (Maslow, 1998. p.1)
+
+
+
+
+
+
+<!--
+@meta @outline 
+* Outline - Check - Preparation to answer?
+* Consider - Forces of belonging and motivations can blurr 
+* COnsider - Contextualize properly the business, why we should be concerned with this? Because we can fail, and fail big, and fail to a point we fail with ourselves too.
+
+* Prompt - What would be a complication that leads to the 3 points given? Vision-love-caling-source, identity growth, esaping. 
+
+--> 
+
+
+
+
 
 The identity of an entrepreneur, and in this sense that extends to the team, and spreads in a company, is created or developed by their own journey. In this sense, the formed identity is more than just something that by chance an entrepreneur, or team, develops as in the sense of discovering in such a way that it is validated, as a validated learning, which becomes stable at the moment of success. No, in fact the bigger issue about identity is that it is not found but created and even created by the very interactions with the external environment, obviously influenced by the founding entrepreneurs, obviously influenced by the vision. This is because entrepreneurship, especially in the case of startups seeking growth, depends on the environment for growth and in this sense the search for social capital is a large part of the process. And indeed, the dependence on the use of this social capital implies affiliations or agreements or affairs with groups that are understood as support entities but which become definers of the identity. In other words, the entrepreneur-founder or team depends on this support which more than perception is dependence in the sense of identity, that is, arises the complication of the entrepreneur or team that finds itself trapped in biased thoughts, in models that embraced them. As they think it is necessary, social capital, they cannot lose, or let go.
+
+
+
+
+
+<!--
+@meta @outline 
+* Outline - Introduction - Answer QKA 
+--> 
+
+
+
+
 
 In the sections below we will consider, first, how this identity develops from passion as associated with a greater vision, values, or even passions on top of effort or performance, but not independent of this external environment that contributes to the identity by being centered in the effort in these interactions and need for support with entities, tools, groups, associations. With this, we reflect first on how growing also grows identity, where identity is born and how it can become rooted. From there, we will look at some reflections on how teams are influenced, from simple situations to in companies and large corporations, where in fact, as in the day to day these issues are felt or lived with great emotions experienced in the challenges of everyday entrepreneurial, or corporate life, where the issue seems like responsibility but which in fact can be a reflection on identities. And finally, we end our reflection, our moment, with considerations on how entrepreneurs try to escape, see from the outside, get out of the bubble where they feel and where they represent these roles.
 
@@ -56,21 +110,6 @@ The renowned Steve Blank, pioneer of the lean movement [^steveblanklean] and cre
 
 Thus, we can recognize that among cases of success and grand ideas, there are many inventions and innovations attributed to founders who found themselves involved in a struggle for a cause. However, there are also many entrepreneurs who, even without such a strong cause, still feel on a mission or are in the process of forming their identities. Embedded in Steve Blank's premise - that the call is necessary - is also the idea that in this call, the founder becomes a victim of the future projections they make regarding what they do, as well as a victim of the projected identity. This may seem exaggerated, but the actions tied to identity pressure occur daily and can manifest in simple things that would go unnoticed.
 
-<!-- case of user innovation? --> 
-
-Entrepreneurship is an activity that involves not only a commercial motivation but also a passion for a cause that one wishes to see changed. This motivation is central in the phenomenon of "User Innovation," where the entrepreneur finds themselves intrinsically linked to the cause they advocate. Both the work of Eric von Hippel in "Democratizing Innovation" (2005) and the course "User Innovation: A Path to Entrepreneurship" on MITx on edX emphasize this premise, highlighting that "innovation often starts with real people solving their own problems" (MIT, 2015). This concept encourages entrepreneurs to deeply engage with the causes they support, fueling both their passion and their motivation to create innovative and disruptive solutions.
-
-<!--
-@meta @references 
-* Reference - User Innovation: A Path to Entrepreneurship. Massachusetts Institute of Technology (MIT) on edX. Recuperado de https://www.youtube.com/watch?v=LpBSY9_RyCg
-* Reference - von Hippel, E. (2005). Democratizing Innovation. The MIT Press. DOI: https://doi.org/10.7551/mitpress/2333.001.0001
---> 
-
-As indicated in this video introduction to the course, inventions like basketball, braille, among others, and even technological solutions like Dropbox, were inventions that emerged from real need, or from pain points. In other words, personal causes. This premise, in the view of Eric von Hippel, is everywhere and is a phenomenon.
-
-
-
-
 
 
 
@@ -78,49 +117,18 @@ As indicated in this video introduction to the course, inventions like basketbal
 
 <!--
 @meta @outline 
-* Outline - Complication - Maslow good also shows the ties -  identity becomes same, fusion, maslow. Connects, embraces, collaborate.  
-* Outline - Complication - Good - improved awarenness - Bad - obsessive, controller, uncreative, lost, fail and even to a point of no lessons, given that fail fast and learn is a possible light.  
+* Outline - Fusion and vision - Complication of two sides growing 
 --> 
 
 
 
 
 
-We can consider that the true entrepreneur - or the true manager, or true worker - feels good about what they do as they live a relationship with what they do. The relationship with work through activities, not only connects with identity, as they see themselves, but also extends further that identity. This idea goes well with being human because work connects us with the world, through work we survive, through work we feel as somebody, through work we learn and grow; thus through work we can see ourselves acting in the world and as well we are seen by the world. This situation goes along with what is needed - not entirely due to work but likely supported by work - in terms of individual's self-realization which resonates with the humanized version of the relationship between work and the individual presented by Maslow [^maslow] (Maslow, 1998, p.1) which states that highly evolved individuals assimilate their work with their identities. In other words, work becomes part of the being that defines the individual.
-
-[^maslow]: "These highly evolved individuals assimilate their work into their identity into their self, i.e., work actually becomes part of the self part of the individual's definition of himself."  Maslow (Maslow, 1998. p.1)
 
 <!-- scqa: complication --> 
 
 If any of this essence appears in the life of a worker, such as a worker that feels good about what they do, it may be even more apparent in the life of the entrepreneur as they are known to be more passionated, or more in love, with their activities. On the good side, we may recognize the kind of passion that - when taken by the stories of success - supports the execution of the successful entrepreneur to execute from visions, to engage teams, and to face challenging situations which depends on improved awareness, or conscious execution. On the bad side, although more effort has to be put in place as these stories are less shiny, the extremme reveals a passion that harms, that is of an obsessive nature, which can control the entrepreneur, which can prevent awareness, which can destroy teams, harms growth for the business, and important to say harms the well-being. 
 
-<!--
-
-Key - How passion is recognized by practitioners and supporters in the ecosystem 
-
---> 
-
-
-
-
-
-
-
-Let us first celebrate the intensity of passion that can take over the founding team. Entrepreneur, investor, and professor Steve Blank reported not believing that he was working in Silicon Valley and being paid to do what he would do for free (Blank, 2014) or that he might even pay to have the opportunity. This is not uncommon at some stage for entrepreneurs who find passions during their journeys. It happens when they stumble upon opportunities along the way — events that resonate with the entrepreneur's identity or that form a new identity. As the entrepreneur progresses on the journey of discovery and refinement, they better see the art being carved out of the stone and their identity — feeling like a deserving or rightful owner, or protagonist of the discovery, of what they saw, vision. That is, proud but also responsible, or the one carrying that flag.
-
-<!-- 
-
-reference
-
-Steve Blank at MAP14. (Published on Mar 13, 2014.) MAP14 Public Forum: Steve Blank [video]. Retrieved from https://www.youtube.com/watch?v=UFx2CQUTpYo
-
-Reference artists and entrepreneurs 
-
-https://steveblank.com/2011/03/31/entrepreneurship-is-an-art-not-a-job/
-https://steveblank.com/2011/04/09/entrepreneurs-are-artists/
-
--->
-
 
 
 
@@ -129,45 +137,8 @@ https://steveblank.com/2011/04/09/entrepreneurs-are-artists/
 
 <!--
 @meta @outline 
-* Outline - Situation of From passion to success feedback, seed to oak tree.  
+* Outline - Fusion and vision - Answer - Complication of performance leading to harmonious or obsessive (consider self efficacy?)
 --> 
-
-
-
-
-
-
-Another point of view of Bill Draper, one of the early venture capitalists recognized as a founding fathers of Silicon Valley, supports us to see how entrepreneurs are likely to be involved with that they do in a holistic way: 
-
-> *"Being an entrepreneur is very exciting and, as you know, just reading the papers, entrepreneurs around Silicon Valley here are buying the big houses and they're having a lot of fun. It's a lot of work, it's much harder work. I know, it's really hard work to be an entrepreneur, and it's the highest divorce rate in the country, and so you're taking some risks. But if you love what you're doing, and you will because it's your idea and you're pushing it, and for a while nobody's listening, but then eventually you get people to listen. The thing begins to grow, you begin to get proud, and like a little seed that the oak tree grows, and pretty soon you're taking a lot of the credit for what has been built [..] with your ideas and the people you selected in the beginning, but all of a sudden it's much bigger than you ever expected."* (Draper, 2017, 14:27-15:34)
-
-<!-- reference
-
-Draper, B. (2017, November 9). Bill Draper: The Origins of Venture Capital in Silicon Valley. [Video]. YouTube. https://www.youtube.com/watch?v=QqwKuKKWiJ4
-
---> 
-
-This situation may likely appear as positive, as it seems to be fuel, which certainly is, especially in the beginning when resources are mainly about the team's time and where perseverance and ability to navigate the ambiguous space is a must. They need to be believers in the first place, and certainly if no passion or connection with the vision, if a lack of sense of place with the vision or current known mission, certainly would put the person to just sit there, like in a boring job but worse as they don't even get a compensation, like a payment. But if something drive us, on the positive side, when we see ourselves as in when we say "I would do this even for free," then the I, or this identity that feels compelled to do so, might be more or less passionated by the doing, which is about being able to detect that the activities being done produce a feeling of productivity, or safety, or of an alignment with a better future, and of a well-being. 
-
-<!-- 
-
-key - The price to move with passion 
-
---> 
-
-
-
-
-
-
-
-
-<!--
-@meta @outline 
-* Outline - Complication of performance leading to harmonious or obsessive (consider self efficacy?)
---> 
-
-
 
 
 
@@ -184,8 +155,9 @@ In other words, even if researchers go dig into the specifics and extremmes of d
 <!-- 
 @meta @references 
 * reference - Bouizegarene, N., Bourdeau, S., Leduc, C., Gousse-Lessard, A.-S., Houlfort, N., & Vallerand, R. J. (2018). We are our passions: The role of identity processes in harmonious and obsessive passion and links to optimal functioning in society. Self and Identity, 17(1), 56–74. https://doi.org/10.1080/15298868.2017.1321038
-
 --> 
+
+
 
 
 
@@ -196,7 +168,87 @@ In other words, even if researchers go dig into the specifics and extremmes of d
 
 <!--
 @meta @outline 
-* Outline - Investors can be careless vs. concerned with growth Risks. 
+* Outline - Fusion and vision - Answer - Vision and needs - Calling relationship passion for what? #MIT #EricHippel
+--> 
+
+
+
+
+
+
+Entrepreneurship is an activity that involves not only a commercial motivation but also a passion for a cause that one wishes to see changed. This motivation is central in the phenomenon of "User Innovation," where the entrepreneur finds themselves intrinsically linked to the cause they advocate. Both the work of Eric von Hippel in "Democratizing Innovation" (2005) and the course "User Innovation: A Path to Entrepreneurship" on MITx on edX emphasize this premise, highlighting that "innovation often starts with real people solving their own problems" (MIT, 2015). This concept encourages entrepreneurs to deeply engage with the causes they support, fueling both their passion and their motivation to create innovative and disruptive solutions.
+
+<!--
+@meta @references 
+* Reference - User Innovation: A Path to Entrepreneurship. Massachusetts Institute of Technology (MIT) on edX. Recuperado de https://www.youtube.com/watch?v=LpBSY9_RyCg
+* Reference - von Hippel, E. (2005). Democratizing Innovation. The MIT Press. DOI: https://doi.org/10.7551/mitpress/2333.001.0001
+--> 
+
+As indicated in this video introduction to the course, inventions like basketball, braille, among others, and even technological solutions like Dropbox, were inventions that emerged from real need, or from pain points. In other words, personal causes. This premise, in the view of Eric von Hippel, is everywhere and is a phenomenon.
+
+
+
+
+
+
+<!--
+@meta @outline 
+* Outline - Fusion and vision - Answer - Not listening to listening, seed to growth #BillDrapper
+--> 
+
+
+
+
+
+
+
+Let us first celebrate the intensity of passion that can take over the founding team. Entrepreneur, investor, and professor Steve Blank reported not believing that he was working in Silicon Valley and being paid to do what he would do for free (Blank, 2014) or that he might even pay to have the opportunity. This is not uncommon at some stage for entrepreneurs who find passions during their journeys. It happens when they stumble upon opportunities along the way — events that resonate with the entrepreneur's identity or that form a new identity. As the entrepreneur progresses on the journey of discovery and refinement, they better see the art being carved out of the stone and their identity — feeling like a deserving or rightful owner, or protagonist of the discovery, of what they saw, vision. That is, proud but also responsible, or the one carrying that flag.
+
+<!-- 
+@meta @references 
+* Reference - Steve Blank at MAP14. (Published on Mar 13, 2014.) MAP14 Public Forum: Steve Blank [video]. Retrieved from https://www.youtube.com/watch?v=UFx2CQUTpYo
+
+Reference artists and entrepreneurs 
+
+https://steveblank.com/2011/03/31/entrepreneurship-is-an-art-not-a-job/
+https://steveblank.com/2011/04/09/entrepreneurs-are-artists/
+-->
+
+
+
+
+
+
+Another point of view of Bill Draper, one of the early venture capitalists recognized as a founding fathers of Silicon Valley, supports us to see how entrepreneurs are likely to be involved with that they do in a holistic way: 
+
+> *"Being an entrepreneur is very exciting and, as you know, just reading the papers, entrepreneurs around Silicon Valley here are buying the big houses and they're having a lot of fun. It's a lot of work, it's much harder work. I know, it's really hard work to be an entrepreneur, and it's the highest divorce rate in the country, and so you're taking some risks. But if you love what you're doing, and you will because it's your idea and you're pushing it, and for a while nobody's listening, but then eventually you get people to listen. The thing begins to grow, you begin to get proud, and like a little seed that the oak tree grows, and pretty soon you're taking a lot of the credit for what has been built [..] with your ideas and the people you selected in the beginning, but all of a sudden it's much bigger than you ever expected."* (Draper, 2017, 14:27-15:34)
+
+<!-- 
+@meta @references 
+* reference - Draper, B. (2017, November 9). Bill Draper: The Origins of Venture Capital in Silicon Valley. [Video]. YouTube. https://www.youtube.com/watch?v=QqwKuKKWiJ4
+--> 
+
+This situation may likely appear as positive, as it seems to be fuel, which certainly is, especially in the beginning when resources are mainly about the team's time and where perseverance and ability to navigate the ambiguous space is a must. They need to be believers in the first place, and certainly if no passion or connection with the vision, if a lack of sense of place with the vision or current known mission, certainly would put the person to just sit there, like in a boring job but worse as they don't even get a compensation, like a payment. But if something drive us, on the positive side, when we see ourselves as in when we say "I would do this even for free," then the I, or this identity that feels compelled to do so, might be more or less passionated by the doing, which is about being able to detect that the activities being done produce a feeling of productivity, or safety, or of an alignment with a better future, and of a well-being. 
+
+
+
+
+<!--
+@todo @meta
+* @todo - p2 ( ) - In Identity - Consider the thought from Andy Grove about performance of people tied to motivation - which is a management concern as indicated - which connects with Maslow / @meta-refid 6464-8373-9873-8474
+-->
+
+
+
+
+
+
+
+
+
+<!--
+@meta @outline 
+* Outline - Fusion and vision - Answer - Investors can be careless vs. concerned with growth Risks. 
 --> 
 
 
@@ -235,7 +287,7 @@ Stanford. (2013). Entrepreneurship Through the Lens of Venture Capital [Video]. 
 
 <!--
 @meta @outline 
-* Outline - Research explores passion for product vs. passion for entrepreneurship 
+* Outline - Fusion and vision - Answer - Research explores passion for product vs. passion for entrepreneurship 
 * Outline - (suggestion) Should MD note on stages apply here?
 --> 
 
@@ -310,6 +362,11 @@ To better articulate this phenomenon, or syndrome, Steve Blank formulated the 72
 <!--
 @meta @outline 
 * Outline - Infinite learner? Situation is of New Sport. Complication is Transition needs. Solution is humble. More than infinite learner, infinite apprentice. (p. 169)
+-->
+
+<!--
+@meta @todo
+* @todo - p2 ( ) - In Identity - Consider some ideas from the Design of Your Life book by Stanford professors which used design thinking for career / @meta-refid 3234-5546-3333-8474
 -->
 
 ### Humble identity
@@ -724,22 +781,7 @@ Wirathu and Myanmar's case, as described by Fisher, highlights the power and dan
 
 Many successful entrepreneurs have created companies that have taken new directions and have indeed found happiness in this state of evolution. Not much needs to be said about this because everyone is entitled to live new passions. Moreover, it is not uncommon for art to become mediocre, but the artist is content with the new art once it meets the world. Perhaps this explains authors, like singers, who discover or stumble upon markets and are enchanted with their mediocre works, live moments of fame, live happily, and thus propagate their arts.
 
-However, in this interaction with the world, in the confrontation with changes, the identity created by the entrepreneur also encounters discontentment when it does not evolve and may even die; thus it is perceived, felt, because the creator is co-responsible for their formed identity, their previous work.
-
-<!--
-@meta @todo 
-* @todo - p2 ( ) - In Identity - Check the following referred page in the book of Andy Only the Paranoid Survive - @meta-refid 7676-4354-7333-8764
---> 
-
-Andy Grove, in Only the Paranoid Survive (p.xxx), explains a critical situation experienced by leadership teams of large companies undergoing what is called an inflection point. The inflection point is when a stabilized company, which has a product or service well established in the market, encounters a force that disrupts the equilibrium of the product or service. Most companies experiencing inflection points simply do not survive because the acting forces impact them brutally. One can imagine the entity-company, on the sunny beach, when the waves start to change but the tsunami that is coming to take everything away is not perceived. In these moments, sometimes decades before the tsunami, management teams experience sensations as difficult as those people feel when they lose a loved one — with typical behavioral effects such as self-defense, denial, escapism, among others.
-
-
-
-
-
-Both in the journey of the inflection point of large corporations and in the journey of the younger venture, it is up to the entrepreneur or the leadership team to work in the pursuit of truth and not in the reaffirmation of the current state of the art. In this sense, courage is important because good leaders are those who also put themselves to the test, allowing themselves to be in a position of vulnerability that is liberating.
-
-After all, no one wants to be caught off guard by a tsunami, whether due to customer dissatisfaction or external forces such as competition, changes in market rules, etc.
+However, in this interaction with the world, in the confrontation with changes, the identity created by the entrepreneur also encounters discontentment when it does not evolve and may even die; thus it is perceived, felt, because the creator is co-responsible for their formed identity, their previous work. However, the situation of a major ship - such as of now a grown up startup living its corporate life - the movement or the encourter with what disrupts will provoke the positioning from the executive team and therefore the whole organization. They either embrace or lock the company as an event in time for a reflection. 
 
 
 
@@ -747,6 +789,85 @@ After all, no one wants to be caught off guard by a tsunami, whether due to cust
 
 
 In this section we will bring the reflection by Andy Grove, the late CEO of Intel, that made an elaboration about the states of emotion of executives driving large organizations in a comparisong with the phases of grief. The recognition of the case of Andy about INtel's challenge to rehink the identity of the executive team, their position, and the theme that Andy brought where they were able to challenge themselves, himself and Gordon, the conversation in the office when they looked at the Great America ferriswheel. 
+
+
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Identity - Bring the case of Great America, is the main point needed - @meta-refid 3332-7866-3232-1222
+--> 
+
+
+
+
+
+
+
+<!--
+@meta @outline 
+* Outline - Emotions - Andy on escape, and being busy. 
+-->
+
+
+
+
+
+> *"Escape, or diversion, refers to the personal actions of the senior manager. When companies are facing major changes in their core business, they seem to plunge into what seem to be totally unrelated acquisitions and mergers. In my view, a lot of these activities are motivated by the need of senior management to occupy themselves respectably with something that clearly and legitimately requires their attention day in and day out, something that they can justify spending their time on and make progress in instead of figuring out how to cope with an impeding, strategic, destructive force."*  (Grove, A., 1999, pp. 124-125)
+
+> *"At such times, senior managers often involve themselves in feverish charitable fundraising, a lot of outside board activities  or pet projects. Take a look at a representative calendar of the CEO of a major corporation that was in the middle of a strategic inflection point (page 126). Does his allocation of time, his most precious resource, reflect the strategic crisis? I don't think so."*  (Grove, A., 1999, p. 125)
+
+> *"He is by no means unique. Frankly, as I look back, I have to wonder if it was an accident that I devoted a significant amount of my time in the years preceding our memory episode, years during which the storm clouds were already very evident, to writing a book. As I write this, I wonder what storm clouds I might be ducking now. I will probably know in a few years."*  (Grove, A., 1999, p. 125)
+
+
+
+
+
+
+
+
+<!--
+@meta @outline 
+* Outline - Emotions - Andy on count to 100 like a kid, denial. 
+-->
+
+
+
+> *"Senior managers got to where they are by having been good at what they do. And over time they have learned to lead with their strengths. So it's not surprising that they will keep implementing the same strategic and tactical moves that worked for them during the course of their careers, especially during their 'championship season.'"* (Grove, A., 1999, p. 125)
+
+> *"I will call this phenomenon the inertia of success. It is extremely dangerous and it can reinforce denial. "* (Grove, A., 1999, p. 125)
+
+> *"When the environment changees in such a way as to render the old skills and strenghts less relevant, we almost instinctively cling to our past. We refuse to acknowledge changes around us, almost like a child who doesn't like what he's seeing so he closes his eyes and counts to 100 and figures that what bothered him will go away. We too close our eyes and are willing to work harder, to dedicate ourselves to our traditional tasks or skills, in the hope that they and hard work will get us there by the count of 100. "* (Grove, A., 1999, p. 125)
+
+
+
+
+
+
+<!--
+@meta @todo 
+* @todo - p2 (Done) - In Identity - Check the following referred page in the book of Andy Only the Paranoid Survive - @meta-refid 7676-4354-7333-8764
+--> 
+
+Andy Grove, in Only the Paranoid Survive (1999), explains a critical situation - he had referred as an strategic inflection point - that can be experienced by leadership teams of large companies. This inflection point is when a stabilized company, which has a product or service well established in the market, encounters a force that disrupts the equilibrium of the product or service. Most companies experiencing inflection points simply do not survive because the acting forces impacts them brutally. One can imagine the entity-company, on the sunny beach, when the waves start to change but the tsunami that is coming is not perceived. In these moments, sometimes decades before the tsunami, management teams experience sensations as difficult as those people feel when they loss a loved one — such as to defend their positions, to deny the early signs. 
+
+> *"If you are a senior manager, you probably got to where you are because you have devoted a large portion of your life to your trade, to your industry and to your company. In many instances, your personal identity is inseparable from your lifework. So, when your business gets into serious difficulties, in spite of the best attempts of business schools and management training courses to make you a rational analyzer of data, objective analysis will take second seat to personal and emotional reactions almost every time."* (Grove, A., 1999, pp. 123-124)
+
+<!-- 
+@meta @references 
+* reference - Grove, Andrew. (1999). Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company. [Só os Paranóicos Sobrevivem]. Crown Publishing.
+--> 
+
+> *"A manager in a business that's undergoing a strategic inflection point is likely to experience a variation of the well-known stages of what individuals go through when dealing with a serious loss. This is not surprising, because the early stages of a strategic inflection point are fraught with loss - loss of your company's preeminence in the industry, of its identity, of a sense of control of your company's destiny, of job security and, perhaps the most wrenching, the loss of being affiliated with a winner. However, unlike the accepted model of the sequence of emotions associated with grief (i.e., denial, anger, bargaining, depression and, ultimately, acceptance), in the case of a strategic inflection point, the sequence goes more as follows: denial, escape or diversion and, finally, acceptance and pertinent action."* (Grove, A., 1999, pp. 123-124)
+
+<!-- 
+@meta @references 
+* reference - Grove, Andrew. (1999). Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company. [Só os Paranóicos Sobrevivem]. Crown Publishing.
+--> 
+
+Both in the journey of the inflection point of large corporations and in the journey of the younger venture, it is up to the entrepreneur or the leadership team to work in the pursuit of truth and not in the reaffirmation of the current state of the art. In this sense, courage is important because good leaders are those who also put themselves to the test, allowing themselves to be in a position of vulnerability that is liberating.
+
+After all, no one wants to be caught off guard by a tsunami, whether due to customer dissatisfaction or external forces such as competition, changes in market rules, etc.
+
+
 
 
 
