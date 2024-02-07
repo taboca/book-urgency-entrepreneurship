@@ -58,7 +58,7 @@ The identity of an entrepreneur, and in this sense that extends to the team, and
 
 
 
-In the sections below we will consider, first, how this identity develops from passion as associated with a greater vision, values, or even passions on top of effort or performance, but not independent of this external environment that contributes to the identity by being centered in the effort in these interactions and need for support with entities, tools, groups, associations. With this, we reflect first on how growing also grows identity, where identity is born and how it can become rooted. From there, we will look at some reflections on how teams are influenced, from simple situations to in companies and large corporations, where in fact, as in the day to day these issues are felt or lived with great emotions experienced in the challenges of everyday entrepreneurial, or corporate life, where the issue seems like responsibility but which in fact can be a reflection on identities. And finally, we end our reflection, our moment, with considerations on how entrepreneurs try to escape, see from the outside, get out of the bubble where they feel and where they represent these roles.
+In the sections below we will start with the beginning where entrepreneurs, or the early team, are lonely but not lacking passion. We will recognize the initial movement of passion - that may come from a greater vision, or values sought, or even passions on top of effort or performance - that takes them to the forward movement of growth; and how their passions and motivations feeds their identity that sets them into what appears to be a destiny - that becomes their fuel that generally skyrockets - also shapes their behaviors to the point of being a risk to the growth situation and a source of concern for the gatekeepers of growth such as investors. Within the bubble of growth, we will look how these protagonists struggle through the interactions as they feel in realtime, as they climb through a ladder of affairs and associations with others, with the envinoment, that embraces them, supports them and may be also a source to feed their stronger identity as protagonists for good and bad things ahead. And finally, we end this reflection by lifting up us to the idea that we are not one identity and that we can try to transcend and embrace the work challenge situation as an opportunity to shift towards wider and challenging viewpoints, that transcending is recovering the humble spirit and that it is the source to change of our identities. 
 
 
 
@@ -76,12 +76,22 @@ In the sections below we will consider, first, how this identity develops from p
 
 
 
+
+Our aspirations, in the beginning, counts more. It's not really like a vision or the vision actually may have to do more with the clearing the way. But still, entrepreneurs depend on that thing. It is a value that counts, a motivation to act on a vision, a calling, the realization of a job to be done, you name it. We create value-anchors for who we are, for our causes, for who we ought to be so that we can have success. Thus we can be tied with the vision, or mission, or aspired state of founders. Then we fail, actually in fact after passing successes, thus we count on prior decisions, such as bets that yielded good advancements supporting our roles. This is where the mess starts. We are essentially babysiting ourselves. 
+
+Andy Grove, in *Only the Paranoid Survive*, having considered the work situation - after all the entrepreneurial path moves towards work - had shifted from the vision idea towards the motivations: 
+
+> *""* (Grove, A., 1999, p. xxx)
+
 <!-- 
-
-* Key - How we experience - Our aspirations, in the beginning, counts more. Entrepreneurs depend on it - as this is where more value counts, such as motivations and vision & value system. We create value-anchors for who we are, for our causes, for who we ought to be so that we can have success. Thus we can be tied with the vision, or mission, or aspired state of founders. Then we fail, actually in fact after passing successes, thus we count on prior decisions, such as bets that yielded good advancements supporting our roles. 
-
+@meta @references 
+* reference - Grove, Andrew. (1999). Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company. Crown Publishing.
 --> 
 
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Identity - Check the passage from Andy Grove from Only The Paranoid Survive, where he says that vision is a lofly word. @meta-refid 7575-9092-1233-9344
+-->
 
 
 

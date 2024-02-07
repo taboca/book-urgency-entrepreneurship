@@ -1,5 +1,7 @@
 # Todo # 
 
+* @todo - p2 ( ) - In Identity - Check the passage from Andy Grove from Only The Paranoid Survive, where he says that vision is a lofly word. @meta-refid 7575-9092-1233-9344
+
 * @todo - p2 ( ) - In Identity - Bring the case of Great America, is the main point needed - @meta-refid 3332-7866-3232-1222
 
 * @todo - p2 ( ) - In Identity - Consider some ideas from the Design of Your Life book by Stanford professors which used design thinking for career / @meta-refid 3234-5546-3333-8474
