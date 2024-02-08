@@ -1,8 +1,8 @@
 # Todo # 
 
-* @todo - p2 ( ) - In Identity - Check the passage from Andy Grove from Only The Paranoid Survive, where he says that vision is a lofly word. @meta-refid 7575-9092-1233-9344
+* @todo - p2 ( ) - In Identity - Bring the story from Brad Feld from Scale-ups about the situation where the CEO from the east company of online cabs, yellow cabs, had refused to close a deal with Sequoia. @meta-refid 6565-9898-9385-1233
 
-* @todo - p2 ( ) - In Identity - Bring the case of Great America, is the main point needed - @meta-refid 3332-7866-3232-1222
+* @todo - p2 ( ) - In Identity - Check the passage from Andy Grove from Only The Paranoid Survive, where he says that vision is a lofly word. @meta-refid 7575-9092-1233-9344
 
 * @todo - p2 ( ) - In Identity - Consider some ideas from the Design of Your Life book by Stanford professors which used design thinking for career / @meta-refid 3234-5546-3333-8474
 
@@ -264,6 +264,8 @@ https://chat.openai.com/share/b7eb16c5-4c18-4709-9220-bd2629f34a3d
 * Culture 
 
 ## Done
+
+* @todo - p2 (Done) - In Identity - Bring the case of Great America, is the main point needed - @meta-refid 3332-7866-3232-1222
 
 * @todo - p2 (Done) - In Identity - Check the following referred page in the book of Andy Only the Paranoid Survive - @meta-refid 7676-4354-7333-8764
 

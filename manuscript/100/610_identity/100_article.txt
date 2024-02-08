@@ -261,8 +261,7 @@ This situation may likely appear as positive, as it seems to be fuel, which cert
 * Outline - Fusion and vision - Answer - Investors can be careless vs. concerned with growth Risks. 
 --> 
 
-
-
+### Investor's interest in passion 
 
 
 
@@ -320,7 +319,7 @@ In this sense, the passions of entrepreneurs as seen by investors is also a subj
 
 
 
-An interesting finding in the study - which exactly explains the growth-oriented and risk-aware nature of how investors operate - reveals how the founder's ability to read feedback has ties with passion. In other words, an interest in the flipside of passion, which is articulated as openness to feedback was revealed as important for entrepreneurs to be able to obtain investment from investors, such as angel investors and venture capital investors. Therefore, and we if we had to jump to conclusions, one could consider that investors filter first by how passionate entrepreneurs are and then, secondly and more qualitatively how much they are open to feedback.
+An interesting finding in the study help us to understand how investors operate with the growth orientation and using a risk analysis mindset, especially being interested in how founders are driven by passion and interested in knowing when passion is too much to the point of the expected growth. In other words, and because of the flipside of being driven passion can be a risk, they interest may related to the theme of openness to feedback. In other words, without such level of awareness a top-tier investor - such as a top-tier angel investor or a top-tier VC partner involved- might be concerned. Therefore, and if we were in the mood of  jumping to conclusions, one can consider that investors check first how passionate entrepreneurs are, and then, secondly or more qualitatively, how much they are open to feedback in ways that they give up their strict views or behaviors driven by passion, which would be an openness to release themselves from what they know. 
 
 In other words, openness to feedback is a crucial element for investors to be able to help entrepreneurs to conquer their next steps. It follows from the research that blind passion, or unrestrained, can manifest as egocentrism, rigidity, or resistance; impacting the non-participation of investors. It is worth remembering that the role of the investor is the risk analyst of the business relationship with the external environment. In other words, a good investor is concerned about whether the entrepreneur is capable of listening to external feedback, as they know that the final word is from the market. Thus, the role of investors is also a test, a validation, which is compatible with the various other validations such as the market/customers, competition, etc.
 
@@ -713,7 +712,7 @@ Next, we will delve into the implicit issue of identity in entrepreneurship. Thr
 * Outline - Emotions - Affected by narrative of heroism for the colleagues 
 -->
 
-#### A superhero
+#### Challenging the superhero
 
 As an example, we can consider the experience of Melissa Nightingale, who shared in her article, "Why it’s a Mistake to be a Startup Superhero" (2016), the danger of trying to be a "superhero" in a startup. During her journey, Melissa found herself so committed to her work that, on one particular night, she stayed in the office late into the night, waiting for colleagues who had been caught in a protest. She was available for any eventuality, whether a call, the need for bail, or the retrieval of equipment. So tired, she improvised a bed with large t-shirts and slept on the office floor.
 
@@ -721,7 +720,7 @@ However, she acknowledges that many of the actions and sacrifices she made, seen
 
 Melissa also highlights in her article how the startup space - she was inspired by the "high tech" space of startusp, encourages a blurring between work and social life. She wrote:  
 
-> *"Tech is particularly good at creating the conditions that normalize this blurry line. Between booze in the office, drinks after work, offsites, outings, and all hands it can feel like a bunch of your social needs are well covered during working hours." (Nightingale, M., 2016) 
+> *"Tech is particularly good at creating the conditions that normalize this blurry line. Between booze in the office, drinks after work, offsites, outings, and all hands it can feel like a bunch of your social needs are well covered during working hours."* (Nightingale, M., 2016) 
 
 This reinforces that beyond the issue of entrepreneurs' identity, there is also the element of social pressure. The need to be accepted, dedication to work, the feeling of belonging - all these factors can become inducers for one to engage in developing a professional identity, under the needs to perform too. Or it could be said that it goes beyond the necessary and ideal professional identity; but the sad reality is when we are trapped thinking it's a professional identity. It's a challenge to identify when investment in work becomes harmful, not only to us as individuals but also to our collective space, therefore harming collaboration. It is even possible that Melissa from the future would have a hard time to convince Melissa from the past in a call from the future as her past self were not sleeping much, resting as needed, reflecting as needed. 
 
@@ -734,6 +733,21 @@ This reinforces that beyond the issue of entrepreneurs' identity, there is also 
 
 
 
+<!--
+@meta @outline 
+* Outline - Emotions - Affected by rich network - Challenging the superpowers  
+-->
+
+#### Challenging the superpowers 
+
+
+<!-- 
+@meta @todo
+* @todo - p2 ( ) - In Identity - Bring the story from Brad Feld from Scale-ups about the situation where the CEO from the east company of online cabs, yellow cabs, had refused to close a deal with Sequoia. @meta-refid 6565-9898-9385-1233
+--> 
+
+
+
 
 
 <!--
@@ -741,7 +755,7 @@ This reinforces that beyond the issue of entrepreneurs' identity, there is also 
 * Outline - Emotions - Affected by poor network - Fame - Network poor 
 -->
 
-#### Fame  
+#### Challenging fame   
 
 <!-- 
 
@@ -779,14 +793,16 @@ Wirathu and Myanmar's case, as described by Fisher, highlights the power and dan
 
 
 
+<!-- 
+@meta @outline
+* Outline - Transcending 
+--> 
+
+## Transcending 
 
 
-<!--
-@meta @outline 
-* Outline - Emotions - Affected by leadership maturity 
--->
 
-#### Grown up ship 
+
 
 
 Many successful entrepreneurs have created companies that have taken new directions and have indeed found happiness in this state of evolution. Not much needs to be said about this because everyone is entitled to live new passions. Moreover, it is not uncommon for art to become mediocre, but the artist is content with the new art once it meets the world. Perhaps this explains authors, like singers, who discover or stumble upon markets and are enchanted with their mediocre works, live moments of fame, live happily, and thus propagate their arts.
@@ -798,12 +814,42 @@ However, in this interaction with the world, in the confrontation with changes, 
 
 
 
-In this section we will bring the reflection by Andy Grove, the late CEO of Intel, that made an elaboration about the states of emotion of executives driving large organizations in a comparisong with the phases of grief. The recognition of the case of Andy about INtel's challenge to rehink the identity of the executive team, their position, and the theme that Andy brought where they were able to challenge themselves, himself and Gordon, the conversation in the office when they looked at the Great America ferriswheel. 
+
+
 
 
 <!--
+@meta @outline 
+* Outline - Emotions - Affected by leadership maturity 
+-->
+
+#### Grown up ship 
+
+
+
+
+As much as I hope that you are reading this book in the paper format, you may be reading it in a e-book device, or in your mobile device, or perhaps your e-dog is reading it to you (Dog: Start laughing joyfully and intensely, then gradually slow down your laughter until it fades away, mimicking the transition from being highly amused to becoming bored or slow.) 
+
+It goes with that whatever electronic device you are using it now that you are using it directly or indirectly because of the evolution and work that Intel did - Intel the iconic Silicon Valley company worldwide known as a microprocessor manufacturer. 
+
+Andy Grove, when going through his evolution as a CEO, had given to us great good reflections about the challenges of running a major ship when the waters start to change, when the winds start to change, the winds of competition. 
+
+In this section we will bring the reflection by Andy Grove, the late CEO of Intel, that made an elaboration about the states of emotion of executives driving large organizations in a comparisong with the phases of grief. The recognition of the case of Andy about INtel's challenge to rehink the identity of the executive team, their position, and the theme that Andy brought where they were able to challenge themselves, himself and Gordon, the conversation in the office when they looked at the Great America ferriswheel. 
+
+If we set our time machine to 1985, and land ourselves in the Ferris wheel of the Great America park in Santa Clara California, we would be able to point our binoculars to Intel's headquarters and witness that special conversation between Andy Grove and Gordon Moore, as documented in *Only The Paranoid Survive*, the conversation that marks a moment of transcendence from Intel management that took them to "The bold decision to commit Intel’s future to microprocessors," [^foonote_hbr_intel_1996] which brought Intel a major transformation to the world, that consumers get that Intel meant the computer's brains: 
+
+[^foonote_hbr_intel_1996]: The article from HBR titled "Inside Intel" by Adam Brandenburger and Barry Nalebuff (1996), underscores the importance of adaptability in the face of industry crises and technological shifts. In essence, the article considers Intel's journey through significant challenges, including the competitive pressure from Japanese semiconductor manufacturers in the mid-1980 which led to a strategic pivot from memory chips to microprocessors, and how the success from transformation brings new challenges, like a totally new game or sport where the organization has to transcend in order to survive.  
+
+> *"I remember a time in the middle of 1985, after this aimless wandering had been going on for almost a year. I was in my office with Intel's chairman and CEO, Gordon Moore, and we were discussing our quandary. Our mood was downbeat. I looked out the window at the Ferris wheel of the Great America amusement park revolving in the distance, then I turned back to Gordon and asked, 'If we got kicked out and the board brought in a new CEO, what do you think he would do?' Gordon answered without hesitation, 'He would get us out of memories.' I stared at him, numb, then said, "Why shouldn't you and I walk out the door, come back and do it ourselves?'"* (Grove, A., 1999, p. 89)  
+
+<!-- 
+@meta @references 
+* reference - Grove, Andrew. (1999). Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company. [Só os Paranóicos Sobrevivem]. Crown Publishing.
+--> 
+
+<!--
 @meta @todo 
-* @todo - p2 ( ) - In Identity - Bring the case of Great America, is the main point needed - @meta-refid 3332-7866-3232-1222
+* @todo - p2 (Done) - In Identity - Bring the case of Great America, is the main point needed - @meta-refid 3332-7866-3232-1222
 --> 
 
 
@@ -825,7 +871,17 @@ In this section we will bring the reflection by Andy Grove, the late CEO of Inte
 
 > *"At such times, senior managers often involve themselves in feverish charitable fundraising, a lot of outside board activities  or pet projects. Take a look at a representative calendar of the CEO of a major corporation that was in the middle of a strategic inflection point (page 126). Does his allocation of time, his most precious resource, reflect the strategic crisis? I don't think so."*  (Grove, A., 1999, p. 125)
 
+<!-- 
+@meta @references 
+* reference - Grove, Andrew. (1999). Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company. [Só os Paranóicos Sobrevivem]. Crown Publishing.
+--> 
+
 > *"He is by no means unique. Frankly, as I look back, I have to wonder if it was an accident that I devoted a significant amount of my time in the years preceding our memory episode, years during which the storm clouds were already very evident, to writing a book. As I write this, I wonder what storm clouds I might be ducking now. I will probably know in a few years."*  (Grove, A., 1999, p. 125)
+
+<!-- 
+@meta @references 
+* reference - Grove, Andrew. (1999). Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company. [Só os Paranóicos Sobrevivem]. Crown Publishing.
+--> 
 
 
 
@@ -843,10 +899,24 @@ In this section we will bring the reflection by Andy Grove, the late CEO of Inte
 
 > *"Senior managers got to where they are by having been good at what they do. And over time they have learned to lead with their strengths. So it's not surprising that they will keep implementing the same strategic and tactical moves that worked for them during the course of their careers, especially during their 'championship season.'"* (Grove, A., 1999, p. 125)
 
+<!-- 
+@meta @references 
+* reference - Grove, Andrew. (1999). Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company. [Só os Paranóicos Sobrevivem]. Crown Publishing.
+--> 
+
 > *"I will call this phenomenon the inertia of success. It is extremely dangerous and it can reinforce denial. "* (Grove, A., 1999, p. 125)
+
+<!-- 
+@meta @references 
+* reference - Grove, Andrew. (1999). Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company. [Só os Paranóicos Sobrevivem]. Crown Publishing.
+--> 
 
 > *"When the environment changees in such a way as to render the old skills and strenghts less relevant, we almost instinctively cling to our past. We refuse to acknowledge changes around us, almost like a child who doesn't like what he's seeing so he closes his eyes and counts to 100 and figures that what bothered him will go away. We too close our eyes and are willing to work harder, to dedicate ourselves to our traditional tasks or skills, in the hope that they and hard work will get us there by the count of 100. "* (Grove, A., 1999, p. 125)
 
+<!-- 
+@meta @references 
+* reference - Grove, Andrew. (1999). Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company. [Só os Paranóicos Sobrevivem]. Crown Publishing.
+--> 
 
 
 
@@ -876,12 +946,6 @@ Andy Grove, in Only the Paranoid Survive (1999), explains a critical situation -
 Both in the journey of the inflection point of large corporations and in the journey of the younger venture, it is up to the entrepreneur or the leadership team to work in the pursuit of truth and not in the reaffirmation of the current state of the art. In this sense, courage is important because good leaders are those who also put themselves to the test, allowing themselves to be in a position of vulnerability that is liberating.
 
 After all, no one wants to be caught off guard by a tsunami, whether due to customer dissatisfaction or external forces such as competition, changes in market rules, etc.
-
-
-
-
-
-
 
 
 
