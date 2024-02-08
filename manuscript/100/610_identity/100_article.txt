@@ -115,9 +115,7 @@ Andy Grove, in *Only the Paranoid Survive*, having considered the work situation
 
 The renowned Steve Blank, pioneer of the lean movement [^steveblanklean] and creator of the process titled Customer Discovery (2005), when interviewed about a single piece of advice for founders, revealed in the video interview:
 
-> *"Founders is not a job, is a calling… this is not some job. The odds of you making money, in here; versus working at McDonalds, it’s a much better bet that you will be making more money in your career working at McDonalds. You need to do what you are doing because you love it, because you can’t think of anything better to do with your life. And if that is not the case, don’t do this because it’s going to be a miserable 10 or 20 years. If you are looking at getting rich like the Facebook boys, or the Google boys, or whatever the hot startup is now, that is the wrong reason to do it. If you are chasing the money, I will guarantee you, the more you chase it, the further away is goes."*
-> 
-> (Steve Blank at MAP14, Mar 13, 2014, 34m33s)
+> *"Founders is not a job, is a calling... This is not some job. The odds of you making money... versus working at McDonalds, it’s a much better bet that you will be making more money in your career working at McDonalds. You need to do what you are doing because you love it, because you can’t think of anything better to do with your life. And if that is not the case, don’t do this because it’s going to be a miserable 10 or 20 years. If you are looking at getting rich like the Facebook boys, or the Google boys, or whatever the hot startup is now, that is the wrong reason to do it. If you are chasing the money, I will guarantee you, the more you chase it, the further away is goes."* (Blank, 2014, 34:33)
 
 <!-- 
 @meta @references 
@@ -840,7 +838,7 @@ However, in this interaction with the world, in the confrontation with changes, 
 
 As much as I hope that you are reading this book in the paper format, you may be reading it in a e-book device, or in your mobile device, or perhaps your e-dog is reading it to you (Dog: Start laughing joyfully and intensely, then gradually slow down your laughter until it fades away, mimicking the transition from being highly amused to becoming bored or slow.) 
 
-It goes with that whatever electronic device you are using it now that you are using it directly or indirectly because of the evolution and work that Intel did - Intel the iconic Silicon Valley company worldwide known as a microprocessor manufacturer. 
+It goes with that whatever electronic device that you are using it that directly or indirectly exists because the evolution and work done by Intel - Intel the iconic Silicon Valley that reigned as a kind of the category known as microprocessor, or the personal computer microprocessor, or the computer's brain when personal computers started to spread around the world. 
 
 Andy Grove, when going through his evolution as a CEO, had given to us great good reflections about the challenges of running a major ship when the waters start to change, when the winds start to change, the winds of competition. 
 
