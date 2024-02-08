@@ -32,7 +32,10 @@ We can consider that the true entrepreneur - or the true manager, or true worker
 
 [^maslow]: "These highly evolved individuals assimilate their work into their identity into their self, i.e., work actually becomes part of the self part of the individual's definition of himself."  Maslow (Maslow, 1998. p.1)
 
-
+<!-- 
+@meta @todo
+* @todo - p2 ( ) - In Identity - Check and review the article from Andy Grove when he brought the subject of compensation and the pyramid of MAslow too - and motivations. @meta-refid 6565-8373-9383-1233
+-->
 
 
 
