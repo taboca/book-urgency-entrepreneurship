@@ -204,7 +204,10 @@ Entrepreneurship is an activity that involves not only a commercial motivation b
 * Reference - von Hippel, E. (2005). Democratizing Innovation. The MIT Press. DOI: https://doi.org/10.7551/mitpress/2333.001.0001
 --> 
 
-As indicated in this video introduction to the course, inventions like basketball, braille, among others, and even technological solutions like Dropbox, were inventions that emerged from real need, or from pain points. In other words, personal causes. This premise, in the view of Eric von Hippel, is everywhere and is a phenomenon.
+As indicated in this video introduction to the course, inventions like basketball, braille, among others, and even technological solutions like Dropbox, were inventions generally emerged from the real people who lives through their challenges first hand [^footnote_edx_userinnovation]. In other words, personal causes. This premise, in the view of Eric von Hippel, is everywhere and is a phenomenon.
+
+[^footnote_edx_userinnovation]: The short introductory video for the MIT course entitled *User Innovation: A Path to Entrepreneurship* (2015, May 19), https://www.youtube.com/watch?v=LpBSY9_RyCg, contextualizes the phenomenon of User Innovation that is explored in the work of MIT professor Eric von Hippel. 
+
 
 
 
