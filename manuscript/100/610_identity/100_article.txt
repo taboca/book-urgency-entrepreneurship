@@ -399,12 +399,11 @@ In a previous chapter, especifically in the section Infinite Apprentice, we have
 But what comes from the this space for transcendence is really about the vision for how the discovery can find its place, how it can growth, with a system in place, with the performers to support, and that idea necessarily involves the growth of the individual, the transcendence of the identity, towards the identity of the leader, or in the words of Steve Blank, the role of a composer. Steve Blank recognized that founders find a vision on their paths, they are carriers of a call as much as they are onto a call: 
 
 <!-- 
-
-( ) On Identity - Check cross use of composer case around the book which had referred to Steve Blank. 3290849824-49284928-4290849284901-4988234982394
-
+@meta @todo
+* @todo - p2 ( ) - On Identity - Check cross use of composer case around the book which had referred to Steve Blank. 3290849824-49284928-4290849284901-4988234982394
 --> 
 
-> *"Founders fit the definition of a composer: they see something no one else does. And to help them create it from nothing, they surround themselves with world-class performers. This concept of creating something that few others see – and the reality distortion field necessary to recruit the team to build it – is at the heart of what startup founders do. It is a very different skill than science, engineering, or management. Entrepreneurial employees are the talented performers who hear the siren song of a founder’s vision. Joining a startup while it is still searching for a business model, they too see the promise of what can be and join the founder to bring the vision to life. Founders then put in play every skill which makes them unique – tenacity, passion, agility, rapid pivots, curiosity, learning and discovery, improvisation, ability to bring order out of chaos, resilience, leadership, a reality distortion field, and a relentless focus on execution – to lead the relentless process of refining their vision and making it a reality."* Blank, S. (2011, March 31).
+> *"Founders fit the definition of a composer: they see something no one else does. And to help them create it from nothing, they surround themselves with world-class performers. This concept of creating something that few others see – and the reality distortion field necessary to recruit the team to build it – is at the heart of what startup founders do. It is a very different skill than science, engineering, or management. Entrepreneurial employees are the talented performers who hear the siren song of a founder’s vision. Joining a startup while it is still searching for a business model, they too see the promise of what can be and join the founder to bring the vision to life. Founders then put in play every skill which makes them unique – tenacity, passion, agility, rapid pivots, curiosity, learning and discovery, improvisation, ability to bring order out of chaos, resilience, leadership, a reality distortion field, and a relentless focus on execution – to lead the relentless process of refining their vision and making it a reality."* (Blank, 2011)
 
 Steve really touches the point of transcendence that embraces possibility, that unlocks the opportunity ahead, and supports the founders to not be trapped by any identity in a given moment, such as to be enamorated with an idea. 
 
@@ -448,6 +447,11 @@ But then, after the considerations about the holistic journey from passion, the 
 In reality, a solo founder may go seek to find a cofounder within a larger entrepreneurial or incubation entity that she had joined. Or an accelerator might be an opportunity. And there are all sorts of other entities that are dynamic, interactive, full of energy and showing alignment with the need of these founders. In other words, the possibility of affairs with external entities is not only evident of modern, networked, and rich ecosystem of entrepreneurship - where they will get from books to all sorts of supporting entities up to venture capital or other crowd supports -  but in fact realidily innevitable, as in difficult to avoid, as entrepreneurs understand they do seek, find, and acquire social capital. 
 
 In other words, the formation of the founder's identity is slow - as it is not launched out of the sudden as if it is a super hero's identity launched with the product launch - althought it is generally visible through the launches as of course successfyl launches attrach the limelight where all sorts of people are interested in looking at their situation from various perspectives such as to reflect about founder's identity. But in fact the identity formation goes along with the modern approach of entrepreneurship where interactions with entities happen along the way, which also goes well with the lean way of doing entrepreneurship where a lot more happens and where a potential growth ladder exists.  
+
+<!--
+@meta @outline 
+* Outline - In Identity - Case of growing with social capital of Marcio being part of an accelerator
+--> 
 
 I will give you an example. An local accelerator system is a partner that is there to challenge, to motivate, to educate to a certain degree, to leverage the founding team's potential. Some of the accelerator programs, such as early stages, can start with the situation which they recognize as the aspiring founder. They might set the doer in the direction of coming up with 3 ideas in the beginning and then they will have to participate in an event to pitch - in front of judges that in a way represent investor's or the gatekeepers of growth - their best option. This might be just an exercise in the beginning of the program. Thus, they sort of create an artificial acceleration situation with a pressure that is seen as positive. Now, the founding team might well get feedback. In one of the situations that I had participated, I recall from the feedback I had collected before the pitch that my second idea had produced increased level of growth in the pupils of some of the local mentors. The idea had to do with a way for Brazilians to split the bill of the restaurant table more easily. But then, I had decided to move on with a slides platform. Or yet another slides platform. My pitch could not convince the local judges so I got a bad grade and even a punishment exercise for having failed the pitch. 
 
@@ -504,13 +508,12 @@ The complication, in the ocean of many complications, has ties with on one end, 
 
 Consider the science and art of pitching, for example. When many say that knowing how to pitch matters, and many say, yes it matters. Marc Andreessen, 
 
-```
-I think the formal presentation is another test . . . As a founder, if you are not good enough at your job as a CEO, to get up and present, to institutional investors, for 60 minutes, and sell them on your thing . . .
+> *"I think the formal presentation is another test... As a Founder, if you're not good enough at your job as a CEO to get up and present to an institutional investor, for 60 minutes, and sell them on your thing [, then you are not passing the test]... We love when somebody walks in and has a compelling pitch, and we can give them a check. That's a successful day for us. In contrast, every other pitch you're ever going to make is going to be to somebody who's going to be much worse than us... So customers... are going to be... 'No, I'm not going to give you any money.' Is their default position, right? You know, engineers, you're going to try to recruit... [but] they've got 20 other job offers, right? And so, why is your pitch going to be so much better than the other 20 startups?"* (Andreessen, 2016, 11:49)
 
-We love when somebody walks in and has a compelling pitch so we can give them a check . . . that is a successful day for us.
-
-In contrast, every other pitch you ever gonna make is going to somebody that is going to be much worse than us … Customers, they are going to be like — no, I am not going to give you any money — like their default position right? Engineers — you going to try to recruit engineers, and they got 20 other job offers, so why does your pitch is going to be much better than the other 20 startups? (Marc Andreessen at Startup School SV 2016, Y Combinator, 2016, 11:49)
-```
+<!--
+@meta @references 
+* reference - Y Combinator. (2016, October 25). Marc Andreessen at Startup School SV 2016 [Video]. Retrieved from https://www.youtube.com/watch?v=NEOR0AJsziE
+--> 
 
 The point here is that we are being judged by say "another point of view". In other words, judging ourselves all the time - all that we will do. When we craft a pitch, even before it is not shown to other, we do not even show and we read it as if we are a judge, an investors. Poor judgement right? It does not even have anything to do with the real outside world that, in the end of the day, it is going to read, to judge. 
 
@@ -522,51 +525,31 @@ The focus here I am looking at is activities that be broken, generate poor resul
 
 "Aiming for that, I learned to write setting judgment aside and save a polish for later. I canned this new, freer writing "laying track." For the first time I gave myself emotional permission to do rough drafts and for those rough drafts to be, well, rough. " - (Cameron, 1998, p. 19)
 
-Now, another point of view for writing, from the Art of Non-fiction, is from Ayn Rand, the philosopher known for objectivism. She pointed that when writing, the act of engaging with editing when doing the first draft is a writing approach that leads to major complications, such as the conscious editor process that messes up with the subconscious that needs to write, to run smooth. 
+Now, another point of view for writing, from the *Art of Non-fiction*, is from Ayn Rand, the philosopher known for objectivism. She pointed that when writing, the act of engaging with editing when doing the first draft is a writing approach that leads to major complications, such as the conscious editor process that messes up with the subconscious that needs to write, to run smooth. 
 
-Looking at the writing moment of a writer, and stages, seems to give us a view of how we manage our activities, micro management where a judge comes into our way before. Both, Julia and Ayn Rand, recommend using the judgement, of course. But the real point is when to call it. 
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Identity - Add reference to The Art of Non-Fiction by Ayn Rand. @meta-refid 1233-6654-3333-1212 
+--> 
 
-Julia Cameron added that for the situations that she was able to put her judge aside - "When I went back to polish, I found there wasn't that much to fix or change. A remarkable amount of my first-draft material withstood the test of later scrutinity. " (Cameron, 1998, p. 19)
+Looking at the writing moment of a writer, and stages, seems to give us a view of how we manage our activities, micro management where a judge comes into our way before. Both, Julia and Ayn Rand, as professional writers, acknowledges the necessity of the critic and editor that does the judgement job, of course. But the real point is when to call it. Julia Cameron added that for the situations that she was able to put her judge aside - "When I went back to polish, I found there wasn't that much to fix or change. A remarkable amount of my first-draft material withstood the test of later scrutinity. " (Cameron, 1998, p. 19)
 
-Therefore, it comes the point for us to reflect, to consider, that we will need to separate progressing from judgement to avoid the drama in the point of view of Julia Cameron. Judgement in the way is never a good judgement and can be, indeed, a drama. 
+Therefore, it comes the point for us to reflect, to consider, that we will need to separate progressing from judgement to avoid the drama or confusion to when the actual development is happening. 
 
-### References 
-
-* Cameron, J. (1998). The right to write. TarcherPerigee.
-
-* Y Combinator. (2016, October 25). Marc Andreessen at Startup School SV 2016[video]. Retrieved from https://www.youtube.com/watch?v=NEOR0AJsziE
-
-
-
-
-
-
-
-
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Identity - Consider to check if the ideas from Michael Dearing referred as "editor-in-chief" could be applicable here. @meta-refid 7676-8795-9192-1233 
+--> 
 
 
 <!--
-@meta @outline 
-* Outline - Attachment and identifications with specific identities - converging into  #senamartya #identityviolence
+@meta @references 
+* Reference - Cameron, J. (1998). The right to write. TarcherPerigee.
 -->
 
-### Considerations about the atraction to identifications with representative identities 
 
 
 
-
-
-
-It should, then, be considered, that the attachment with certain groups, or entities, and even frameworks and tools - which are by the way not only connected but also empowered by communities, therefore supported by social element which values social capital where the sense of identity is alive - can and will provide concrete values but along also the value of identity formation for the participant, and with that the implication of identity attachment, which in itself acts as value, therefore it becomes valued as the things we take that we cannot lose or that when under attack we may react to preserve which may become strongly than the general things perceived as necessary. And by that, as discussed, the attachment with such identity, or identities, may be assumed to be a source of greater value although which may not be true, just like a human may enjoy the perceived benefits of an inclusion in a given group but that does not give the final answer of who that person is, or better, who they are ought to become, and in fact may even harm that person's path as they represent, they act, they are directed in their reasoning, and directed in their decision, which may harm their self development path, their true aspirations, the formation of who they are to become. A supporting line to this general idea can be guided by the enlighted line of thinking of Amarthya Sen in Identity and Violence: 
-
-> *"In our normal lives, we see ourselves as members of a variety of groups - we belong to all of them. A person's citizenship, residence, geographic origin, gender, class, politics, profession, employment, food habits, sports interestsm taste in music, social commitments, etc., make us members of a variety of groups. Each of these collectivities, to all of which this person simultaneously belongs, gives her a particular identity. None of them can be taken to be the person's only identity or singular membership category." (Sen, 2006, p.2) 
-
-
-
-<!-- 
-@meta @references 
-* reference - Sen, A. (2006). Identity and Violence: The Illusion of Destiny. W. W. Norton & Company, Inc.
---> 
 
 
 
@@ -580,7 +563,7 @@ It should, then, be considered, that the attachment with certain groups, or enti
 * Outline - Emotions - Situation of lived heat, couldn't see. Can't go back in time. 
 -->
 
-## Driven by emotion
+### Driven by emotion
 
 
 
@@ -720,6 +703,10 @@ Next, we will delve into the implicit issue of identity in entrepreneurship. Thr
 
 #### Challenging the superhero
 
+
+
+
+
 As an example, we can consider the experience of Melissa Nightingale, who shared in her article, "Why it’s a Mistake to be a Startup Superhero" (2016), the danger of trying to be a "superhero" in a startup. During her journey, Melissa found herself so committed to her work that, on one particular night, she stayed in the office late into the night, waiting for colleagues who had been caught in a protest. She was available for any eventuality, whether a call, the need for bail, or the retrieval of equipment. So tired, she improvised a bed with large t-shirts and slept on the office floor.
 
 However, she acknowledges that many of the actions and sacrifices she made, seen as heroic at the time, were not necessary. She was, in a way, a victim of her projected identity. Even if she had a valid belief that she were helping her friends, her colleagues, yet by focusing in that heroic identity she couldn't see that the were using herself as a resource, spending energy, which in the view from above were doing harm to her very colleagues and the whole organization. 
@@ -747,6 +734,10 @@ This reinforces that beyond the issue of entrepreneurs' identity, there is also 
 #### Challenging the superpowers 
 
 
+
+
+
+
 <!-- 
 @meta @todo
 * @todo - p2 ( ) - In Identity - Bring the story from Brad Feld from Scale-ups about the situation where the CEO from the east company of online cabs, yellow cabs, had refused to close a deal with Sequoia. @meta-refid 6565-9898-9385-1233
@@ -762,6 +753,11 @@ This reinforces that beyond the issue of entrepreneurs' identity, there is also 
 -->
 
 #### Challenging fame   
+
+
+
+
+
 
 <!-- 
 
@@ -804,7 +800,7 @@ Wirathu and Myanmar's case, as described by Fisher, highlights the power and dan
 * Outline - Transcending 
 --> 
 
-## Transcending 
+## Escape hatch  
 
 
 
@@ -829,7 +825,7 @@ However, in this interaction with the world, in the confrontation with changes, 
 * Outline - Emotions - Affected by leadership maturity 
 -->
 
-#### Grown up ship 
+### Grown up ship 
 
 
 
@@ -966,7 +962,7 @@ After all, no one wants to be caught off guard by a tsunami, whether due to cust
 * Outline - Transcending - Biographic flights 
 -->
 
-### Transcending with historical flights 
+### Viewpoints from the historical flights 
 
 
 
@@ -1039,7 +1035,7 @@ Productizing an idea depends on many factors such as vision and engineering capa
 * (suggestion - add case of cognitive distortions)
 -->
 
-### Considerations on changing goggles 
+### Changing goggles 
 
 
 
@@ -1055,3 +1051,38 @@ For Michael Dearing, lecturer and investor at Harrison Metal, founders should ev
 @meta @references 
 * reference - Michael Dearing. Greylock. (2015, October 8). Blitzscaling 03: Michael Dearing on Capitalism, Creativity, and Creative Destruction [video]. Retrieved from https://www.youtube.com/watch?v=3vCdfa_aeI8
 --> 
+
+
+
+
+
+
+
+<!--
+@meta @outline 
+* Outline - Attachment and identifications with specific identities - converging into  #senamartya #identityviolence
+-->
+
+### Revisiting our identities 
+
+
+
+
+
+
+It should, then, be considered, that the attachment with certain groups, or entities, and even frameworks and tools - which are by the way not only connected but also empowered by communities, can be the very things that set us to then be supported by social representations which may support us to understanding that feeding that current identity is alive or doing well or that it can be promising. So this might be simply our operating system running its normal and efficient process which under the checked concrete values we found which may be associated with behavior we then feed our own profecies but if that is too far then at least a sign that we are in right direction. From the sake of the actual behaviours - which is what counts for us - it might be then the materialization of a characterization of identity, or a formation of it, for the doer that engages with that practice, and with that the implication of identity attachment, which in itself acts as value, therefore it becomes valued as the things we take that we cannot lose or that when under attack we may react to preserve which may become strongly than the general things perceived as necessary. 
+
+When I explore the case of tools and systems - it might be confusing - so it deserves some elaboration. I mean that one that is skilled with a tool and by the using it had achieved success - by the eyes of whoever are the eyes that supports his motivations and developments - will then see herself as an skilled in that tool. When I was going through the struggle phase in my career as a writer (which I believe might be one of my identities now) it happened that ChatGPT was launched by OpenAI. I found fascinating that I could ask the tool - or system - with a degree of innocence and put up some bits and pieces of logic and asked it to produce an article and even pointed a logic of storytelling to the points of the article. I happened to publish a couple of these articles in an online publication and even gotten promoted - achieved a higher-rank as a writer. To defend myself I wasn't cheating and actually developed quite well an interaction with the tool that led me to a much better article. But then, at the same time I found another trouble from that. I was out of the sudden, given that raise or promotion, passionated or feeling movitated of myself as someone like a composer being able to tell the robot to engage in many specific activities. I was feeling like an expert in the science and art of taming the robot to come up with better articles. Then, the move I evolved into the movement I also caught myself struggling, and being a bit confused, or to working for the robot too or being influenced by its words too. Through my interactions when I was yet promoting the robot's amazing work - and with that my abilty to control it - I happened to share thoughts about my discoveries with a great writer. At some point, she told me to "not make a dance or song about a simple activity." She has told me to "think it through.". And she reminded me that my brain is the tool. That, along with a permission from Julia Cameron - from The Right to Write - a permission to write with errors and setting my critic-editor aside (as we have covered) I started to do what writers do and the rest is history, I wrote for one year almost every day and was able to complete the book. Lessons taken: I have left the position of thinking that I was a master of that tool. The tool had helped me in the book too. For example, I have asked the tool to check citations, to write some of the footnotes, and many other creative usages that really editors do, even to make abstracts of my chapters so that I could check if the tool was able to understand my points - like a reader. But I didn't fall in the trap of thinking I were the champion or a master of the tool, a master like any master that becomes the slave by living the position of a master which is essentially a trap of being a controller. 
+
+And by that, as discussed, the attachment with such identity, or identities, may be assumed to be a source of greater value although which may not be true, just like a human may enjoy the perceived benefits of an inclusion in a given group but that does not give the final answer of who that person is, or better, who they are ought to become, and in fact may even harm that person's path as they represent, they act, they are directed in their reasoning, and directed in their decision, which may harm their self development path, their true aspirations, the formation of who they are to become. A supporting line to this general idea can be guided by the enlighted line of thinking of Amarthya Sen in Identity and Violence: 
+
+> *"In our normal lives, we see ourselves as members of a variety of groups - we belong to all of them. A person's citizenship, residence, geographic origin, gender, class, politics, profession, employment, food habits, sports interestsm taste in music, social commitments, etc., make us members of a variety of groups. Each of these collectivities, to all of which this person simultaneously belongs, gives her a particular identity. None of them can be taken to be the person's only identity or singular membership category." (Sen, 2006, p.2) 
+
+
+
+<!-- 
+@meta @references 
+* reference - Sen, A. (2006). Identity and Violence: The Illusion of Destiny. W. W. Norton & Company, Inc.
+--> 
+
+

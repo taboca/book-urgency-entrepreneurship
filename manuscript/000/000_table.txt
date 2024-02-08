@@ -1,5 +1,13 @@
 # Todo # 
 
+* @todo - p2 ( ) - In Identity - Add reference to The Art of Non-Fiction by Ayn Rand. @meta-refid 1233-6654-3333-1212 
+
+* @todo - p2 ( ) - In Identity - Consider to check if the ideas from Michael Dearing referred as "editor-in-chief" could be applicable here. @meta-refid 7676-8795-9192-1233 
+
+* @todo - p2 ( ) - In Not So Radical Focus - Also check listen and reflect on the "The Basic Hygiene of Management Michael Dearing, Harrison Metal" for the elaborated view about the notion of "editor-in-chief" - @meta-refid 7676-9898-0934-1234
+
+* @todo - p2 ( ) - On Identity - Check cross use of composer case around the book which had referred to Steve Blank. 3290849824-49284928-4290849284901-4988234982394
+
 * @todo - p2 ( ) - In Identity - Bring the story from Brad Feld from Scale-ups about the situation where the CEO from the east company of online cabs, yellow cabs, had refused to close a deal with Sequoia. @meta-refid 6565-9898-9385-1233
 
 * @todo - p2 ( ) - In Identity - Check the passage from Andy Grove from Only The Paranoid Survive, where he says that vision is a lofly word. @meta-refid 7575-9092-1233-9344
@@ -156,8 +164,6 @@
 * p2, ( ) Part 2 / Lean no Lean - Add footnote, validated, learning, [^footnote_leanstartup_validated_learning]. 
 
 * p2, ( ) Part 2 / Lean no lean - Add reference to Steve Blank's article that recognizes Job To be Done. ref 938498254-98353985-5983958375-57457357
-
-* p3, ( ) Part 1 / Identity - Check cross use of composer case around the book which had referred to Steve Blank. 3290849824-49284928-4290849284901-4988234982394
 
 * p3, ( ) Part 1 / Identity / #research #editor #review - passions of entrepreneurs vs. VC - seek 9248984-34902849284-348928428-4829849 within 610_driven_by_love and review this section against the research. 
 

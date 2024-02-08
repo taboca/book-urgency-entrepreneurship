@@ -314,7 +314,13 @@ Google for Startups. (2014, July 17). Lean Startup Meets Design Thinking [Video]
 
 Cameron, J. (1998). The Right to Write. TarcherPerigee.
 
-Y Combinator. (2016, 25 de outubro). Marc Andreessen na Startup School SV 2016[vídeo]. Recuperado de https://www.youtube.com/watch?v=NEOR0AJsziE
+<!--
+100 / 610_identity
+--> 
+
+Y Combinator. (2016, October 25). Marc Andreessen at Startup School SV 2016 [Video]. Retrieved from https://www.youtube.com/watch?v=NEOR0AJsziE
+
+
 
 Stanford. (2013, February 20). Entrepreneurship through the lens of venture capital | Team [Video]. YouTube. https://www.youtube.com/watch?v=zRIPiISZucY
 
