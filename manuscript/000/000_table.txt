@@ -1,10 +1,12 @@
 # Todo # 
 
-* @todo - p1 ( ) - In Identity - Check a twit X from Paul Graham where he talked about the two sides of believing in an idea, or something like that. He wrote that in January of February of 2024 - @meta-refid 6657-5432-4567-0987
+* @todo - p2 ( ) - In Identity - Review Marcio's footnote (footnote_maslow_needs_hierarchy) about Grove and Maslow - which he believes may also have links with Peter Drucker and Maslow - and check in High Output Management the part where Andy brings about Maslow ideas. Andy makes a point with a degree of objectiveness to make the point that observations from the work seem to resonate with Maslow. Andy wasn't extending anything of Maslow, of course. @meta-refid 7676-8383-0988-1233 
 
 * @todo - p2 ( ) - In Identity - Check and review the article from Andy Grove when he brought the subject of compensation and the pyramid of MAslow too - and motivations. @meta-refid 6565-8373-9383-1233
 
-* @todo - p1 ( ) - In Identity - Maslow and identity developed by work -  It might be worth it to point that Maslow indicator for the development of an identity in the work place could be challenged with the simple idea that people live a life beyond work. I think that Maslow's point has to be seen under the context in time that people used to be a lot in the same work space and under the isolated observation that there are situations which is likely to be the case, due to the points given such as when the work or team embraces the person. @meta-refid 1233-1234-4567-0987
+* @todo - p1 ( ) - In Identity - Consider to read the paper that gives a bit of criticism to the situation of Non Linear Systems - https://www.jstor.org/stable/pdf/2352408.pdf - @meta-refid 1122-3322-3232-0909 
+
+* @todo - p1 ( ) - In Identity - Check a twit X from Paul Graham where he talked about the two sides of believing in an idea, or something like that. He wrote that in January of February of 2024 - @meta-refid 6657-5432-4567-0987
 
 * @todo - p2 ( ) - In Identity - Add reference to The Art of Non-Fiction by Ayn Rand. @meta-refid 1233-6654-3333-1212 
 
@@ -276,6 +278,8 @@ https://chat.openai.com/share/b7eb16c5-4c18-4709-9220-bd2629f34a3d
 * Culture 
 
 ## Done
+
+* @todo - p1 (Done) - In Identity - Maslow and identity developed by work -  It might be worth it to point that Maslow indicator for the development of an identity in the work place could be challenged with the simple idea that people live a life beyond work. I think that Maslow's point has to be seen under the context in time that people used to be a lot in the same work space and under the isolated observation that there are situations which is likely to be the case, due to the points given such as when the work or team embraces the person. @meta-refid 1233-1234-4567-0987
 
 * @todo - p2 (Done) - In Identity - Bring the case of Great America, is the main point needed - @meta-refid 3332-7866-3232-1222
 

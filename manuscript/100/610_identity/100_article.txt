@@ -3,20 +3,14 @@
 
 
 
+
+
 <!--
 @meta @todo 
-* @todo - p1 ( ) - In Identity - Maslow and identity developed by work -  It might be worth it to point that Maslow indicator for the development of an identity in the work place could be challenged with the simple idea that people live a life beyond work. I think that Maslow's point has to be seen under the context in time that people used to be a lot in the same work space and under the isolated observation that there are situations which is likely to be the case, due to the points given such as when the work or team embraces the person. @meta-refid 1233-1234-4567-0987
+* @todo - p1 (Done) - In Identity - Maslow and identity developed by work -  It might be worth it to point that Maslow indicator for the development of an identity in the work place could be challenged with the simple idea that people live a life beyond work. I think that Maslow's point has to be seen under the context in time that people used to be a lot in the same work space and under the isolated observation that there are situations which is likely to be the case, due to the points given such as when the work or team embraces the person. @meta-refid 1233-1234-4567-0987
 -->
 
 It seems that successful entrepreneurs share a thing with professional artists, in the sense that they bring a vision to the world, that they have found an audience - users or a market or just a group of people that share the same views. The point is that they feel in the same boat or share the vision. Looking at their personalities, or their character, one could even think that the work they do reveals who they are, their identity. Minimally, the audience observes that they respond accordingly. In other words, they do not fail to follow through, to continue respond as expected which in a way happens to please their audiences. But as they see, they aren't doing for the sake of pleasing. They do comply with their audience expects. So they are integral. They might even think that what they do - under that successful condition - appears to be a their destiny. 
-
-
-
-
-
-
-
-
 
 <!--
 @meta @outline 
@@ -24,18 +18,28 @@ It seems that successful entrepreneurs share a thing with professional artists, 
 * Outline - Introduction Situation - (Suggestion) Check Andy Grove performance and motivation in High Output Management, end of it.
 --> 
 
-
-
 By using the comparison with artists I am invite us to consider the journey - starting from the begining where a lot appears to be chaotic, or unclear. Like artists, they are driven with their foot on the ground or their hands in the stone as executor. But also with their eyes in a horizon that appears to be gray or bright or tormented. But it is a chaos in the middle - not in the horizon. They then carve, they grow, and they transcend. And then they signal. And then the positive feedback. And then they are welcomed by what appears to be that audience. Like artists they look back and know that they were onto something. Or seeking freedom, in a way or another, or seeking clarity, in a way or another, or seeking change in a way or another. But along with whatever they sought, they found change to themselves. 
 
 Now considering this same successful entrepreneur - or a successful manager or successful worker - or in essence one that feels good with what they do, with the execution. It might be observable a certain relationship with what they do, with why they do, with how they do. Through this relationship with work or through activities we may get an idea of who they are, their identity. They happen to see themselves by that act of working. With that, assuming a relatively long journey of work, it is expected that the journey with the work have shaped who they are and their identities. Some of this may resonate with the reflections from Abraham Maslow from when he was invited to spent a summer at Non-linear Systems in California as he had seen that "These highly evolved individuals assimilate their work into their identity into their self, i.e., work actually becomes part of the self part of the individual's definition of himself." (1998. p.1)
 
-Now a natural objection must be stated right there - although it shakens my body to say that even near to anything stated by Maslow. But in face it is a point of support to the context and avoid misunderstandings. The consideration that there is a kind of work that supports the self to become the self comes from his observations that there are, or in the ideal world could exist, a situation of work that allows one to grow up in the ladder of the hierarchy of needs. That given the phisiological needs satisfied - for example that the work pays health insurance that the work is safe and that a compensation enables the person to sustain a health life, and given a work that also brings psychological safety, where people are welcome to be themselves, where their creativivity can flowrish, where they are not pressured to be who they aren't, and given that the environment of colleagueship exists to support the all to move harmonious ways, then it is likely that a self development may happen and by that happening is it likely that the identity of self was pushed further by the work situation. It could happen if one had multiple jobs, or to be into multiple communities too. 
-
 <!-- 
-@meta @todo
+@meta @todo 
+* @todo - p1 ( ) - In Identity - Consider to read the paper that gives a bit of criticism to the situation of Non Linear Systems - https://www.jstor.org/stable/pdf/2352408.pdf - @meta-refid 1122-3322-3232-0909 
+--> 
+
+Now a natural objection must be stated right there - although it shakens my body to state that near to anything referring Maslow. But in fact, it is to bring the context for the note from Maslow. The consideration that there is a kind of work that supports the self - to become the self - comes from observations that there are, or in the ideal world it could exist, a situation of work that allows one to grow up in the ladder of the hierarchy of needs [^footnote_maslow_needs_hierarchy]. That given the phisiological needs satisfied - for example that the work pays health insurance that the work is safe and that a compensation enables the person to sustain a health life, and given a work that also brings psychological safety, where people are welcome to be themselves, where their creativivity can flowrish, where they are not pressured to be who they aren't, and given that the environment of colleagueship exists to support the all to move harmonious ways, then it is likely that a self development may happen and by that happening is it likely that the identity of self was pushed further by the work situation. It could happen if one had multiple jobs, or to be into multiple communities too. 
+
+<!--
+@meta @todo 
+
+* @todo - p2 ( ) - In Identity - Review Marcio's footnote (footnote_maslow_needs_hierarchy) about Grove and Maslow - which he believes may also have links with Peter Drucker and Maslow - and check in High Output Management the part where Andy brings about Maslow ideas. Andy makes a point with a degree of objectiveness to make the point that observations from the work seem to resonate with Maslow. Andy wasn't extending anything of Maslow, of course. @meta-refid 7676-8383-0988-1233 
+
 * @todo - p2 ( ) - In Identity - Check and review the article from Andy Grove when he brought the subject of compensation and the pyramid of MAslow too - and motivations. @meta-refid 6565-8373-9383-1233
--->
+
+--> 
+
+[^footnote_maslow_needs_hierarchy]: The concept of human needs for motivation and development has been explored from both psychological and business perspectives. Abraham Maslow first introduced the hierarchy of needs in his 1943 paper "A Theory of Human Motivation" published in the Psychological Review, proposing a pyramid structure of human needs from physiological to self-actualization. Andy Grove, in his book "High Output Management," recognized the employees' basic needs as a foundation for higher productivity and self-actualization within the workplace. 
+
 
 
 
