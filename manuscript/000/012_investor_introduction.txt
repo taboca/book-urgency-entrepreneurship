@@ -4,6 +4,22 @@
 * By Marcio S Galli 
 * Title: Slow Down Start Up
 
+# Short descriptions
+
+* Ref - Used for Web Summit. 
+
+* Talk - While the fast-paced, networked world values speed, the leaders of the most iconic, rapidly evolving companies demonstrate something different. They are calmer, avid readers, mindful, and prioritize the well-being of their team.
+
+* Bio - A fast-paced technologist with experience at iconic Silicon Valley companies (Netscape, Yahoo!, and Mozilla) became an entrepreneur. However, he experienced a transformative slowdown, leading to an awakening. This journey inspired his book "Slow Down to Start-Up," aimed at helping founders.
+
+* Slide - teaser - My story would pass by, dismissed, like many of us. But when the struggling situation of transforming a life came about, it also came the light to a lot of dots. I wasn't in it, for me. It was mainly a reflective and journey of curiosity, into Blitzscaling. 
+
+* Slide - The Start-up attempt 10 - 
+* Slide - Blitzscaling - 
+* Slide - The call to think - Michael. 
+* Slide - Time travel - Marcio's fastest typing machine. 
+* Slide - Time travel - Marcio's quest to delete the del key. 
+
 ## Audience
 
 * Entrepreneurs, managers, practitioners, investors. Note: the initial target audience - while applicable to practitioners, managers, advisors, mentors, and investors - is entrepreneur who wants to, or is already in the midst of the startup process as defined by viewpoints such as of Paul Graham where startup equals to growth. This is the niche context of the book. This context, or audience, represents a relatively small segment globally. But as the pain can be high for this group, such as if they follow instincts, the material of the book might be worth it to exist and it is a reason that the language reaches out to anyone concerned with these doers who are in the field.
