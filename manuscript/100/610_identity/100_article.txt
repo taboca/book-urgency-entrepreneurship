@@ -18,7 +18,7 @@ It seems that successful entrepreneurs share a thing with professional artists, 
 * Outline - Introduction Situation - (Suggestion) Check Andy Grove performance and motivation in High Output Management, end of it.
 --> 
 
-By using the comparison with artists I invite us to consider the journey from the begining where things appear to be chaotic or unclear. Like artists with their foot on the ground or their hands in the stone, they move as executors but with their eyes in a horizon that appears to be gray or bright or tormented sometimes. But if there seems to be chaos in that it may not be how they see an horizon. They then carve or they fail but they then eventually grow - they transcend. This is when signal comes from the noise, when feedback is listened and where an audience emerges. Like artists, now they can look back and feel that they were onto something. They can now connect the dots [^footnote_stevejobs_connectingdots] and they now can better see that they seemed to be seeking freedom or seeking clarity or seeking change. But through that path of seeking for the answers they sought, what they really found was the innevitable need for change for themselves. 
+By using the comparison with artists I invite us into the journey that starts with the things that appears to be chaotic. Like artists, they set their foot on the ground or their hands grab the stone. Some of them say "no one can stop me from looking from the answers I seek." Even if the horizon is gray or tormented, that chaotic view is not what they are after. So then they carve, and they fail, and again and again, til they succeed and then if works - when it works - they transcend. This is when signal comes from the noise, when feedback is listened and their audience emerges. Like artists, now they look back and feel they were onto something. They can now connect the dots [^footnote_stevejobs_connectingdots] and they now can see that they were seeking freedom or seeking clarity or change. But through that path of seeking for the answers they sought, what they really find is the innevitable need for changing themselves. All of that sounds great. So great that it helps us to see ourselves differently. 
 
 <!-- 
 @meta @todo 
@@ -26,7 +26,6 @@ By using the comparison with artists I invite us to consider the journey from th
 --> 
 
 [^footnote_stevejobs_connectingdots]: In his 2005 Stanford University commencement speech, Steve Jobs talks about "connecting the dots" to illustrate that it is impossible to figure what is our life path by looking forward; but possible to do so looking backward. Jobs highlighted that passions might lead to developments that leads to understanding - that dots from his life, like dropping out of college and studying calligraphy, later played a crucial role in the design of Apple computers (Jobs, 2005).
-
 
 
 <!-- 
