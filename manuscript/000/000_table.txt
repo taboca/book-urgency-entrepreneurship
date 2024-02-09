@@ -1,5 +1,7 @@
 # Todo # 
 
+* @todo - p2 ( ) - In Identity - Consider to remove the whole following because it does not connect with the actual point for this introduction which is to make a point about the calling - @meta-refid 7676-7474-9822-1200 
+
 * @todo - p2 ( ) - In Identity - Review Marcio's footnote (footnote_maslow_needs_hierarchy) about Grove and Maslow - which he believes may also have links with Peter Drucker and Maslow - and check in High Output Management the part where Andy brings about Maslow ideas. Andy makes a point with a degree of objectiveness to make the point that observations from the work seem to resonate with Maslow. Andy wasn't extending anything of Maslow, of course. @meta-refid 7676-8383-0988-1233 
 
 * @todo - p2 ( ) - In Identity - Check and review the article from Andy Grove when he brought the subject of compensation and the pyramid of MAslow too - and motivations. @meta-refid 6565-8373-9383-1233
