@@ -1,5 +1,25 @@
 # Todo # 
 
+* @todo - p1 ( ) - Wantrepreneur vs. In Identity - Check the https://steveblank.com/2011/03/31/entrepreneurship-is-an-art-not-a-job/ against the two chapters to see if we can say something about the learner vs. performer. 
+
+* @todo - p2 ( ) - In Identity - Consider the Moral Drive and Romantic Art - of Ayn Rand - @meta-refid 2343-6574-3243-5544
+
+* @todo - p2 ( ) - In Identity - Entrepreneurship can be taught too, Steve agreed later, and Scott (check letter from Marcio to Scott @letter @meta-refid 6565-0202-9383-1233) had provided a prompt too. @meta-refid 6565-7575-0988-1234
+
+* @todo - p2 ( ) - In Identity - Check if Barbara's message can be inserted, if this needs Barbara's approval. @meta-refid 1222-2233-3232-7373 
+
+* @todo - p2 ( ) - In Identity - Check the quote from about vision being a lofty word from Andy from High Output Management or Only the Paranoid Survive. @meta-refid 6565-8686-1233-2234 
+
+* @todo - p2 ( ) - In Identity - Check the quote about Andy from Carmine in the context, motivation for tops-down. @meta-refid 1232-2233-4343-6768
+
+* todo - p2 ( ) - In Identity - Intro Complication - Check map14 material of steve question if entrepreneurship can be taught? / @meta-refid 8877-1233-8474-4444
+
+* todo - p2 ( ) - In Identity - Check the split that Steve Blank made between Composers and Performers of an Orchestra from "Entrepreneurship is an Art not a Job" which from the inspiring and metaphorical aspect connects with that Benjamin Zander had said in his "The Transformative Power of Classical Music" TED talk. and  https://steveblank.com/2011/03/31/entrepreneurship-is-an-art-not-a-job/ https://steveblank.com/2011/04/09/entrepreneurs-are-artists/ and the comments from his commentators / @meta-refid 1222-3332-1212-3234
+
+* @todo - p2 ( ) - In Identity - Fix the reference to "A Máquina do Caos" to use the english one. @meta-refid 5544-3434-1212-2345
+
+* @todo - p3 ( ) - In Identity - research editor review - passions of entrepreneurs vs. VC - seek 9248984-34902849284-348928428-4829849 within 610_driven_by_love and review this section against the research. 
+
 * @todo - p2 ( ) - In Identity - Consider to remove the whole following because it does not connect with the actual point for this introduction which is to make a point about the calling - @meta-refid 7676-7474-9822-1200 
 
 * @todo - p2 ( ) - In Identity - Review Marcio's footnote (footnote_maslow_needs_hierarchy) about Grove and Maslow - which he believes may also have links with Peter Drucker and Maslow - and check in High Output Management the part where Andy brings about Maslow ideas. Andy makes a point with a degree of objectiveness to make the point that observations from the work seem to resonate with Maslow. Andy wasn't extending anything of Maslow, of course. @meta-refid 7676-8383-0988-1233 
@@ -174,8 +194,6 @@
 * p2, ( ) Part 2 / Lean no Lean - Add footnote, validated, learning, [^footnote_leanstartup_validated_learning]. 
 
 * p2, ( ) Part 2 / Lean no lean - Add reference to Steve Blank's article that recognizes Job To be Done. ref 938498254-98353985-5983958375-57457357
-
-* p3, ( ) Part 1 / Identity / #research #editor #review - passions of entrepreneurs vs. VC - seek 9248984-34902849284-348928428-4829849 within 610_driven_by_love and review this section against the research. 
 
 * p1, ( ) Other / #research - #StephenCovey The Urgency Addiction - "The way this works out for me is that because I hate failure I often get crazy focused (and drop everything else) when I have something big I need to achieve. Steven Covey wrote best about it when he talked about “The Urgency Addiction” where people like me prioritize things that are urgent & important. (Of course you’re supposed to prioritize things that are important but not yet urgent!)." https://bothsidesofthetable.com/developing-an-action-plan-for-high-performance-with-add-80e33126840c
 

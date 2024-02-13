@@ -1,6 +1,10 @@
 # Identity 
 
 
+<!-- 
+@meta @outstanding 
+* Note - Situation - not a vision. A calling. The path supports calling. Passion double side. Different game. 
+--> 
 
 
 
@@ -10,7 +14,7 @@
 * @todo - p1 (Done) - In Identity - Maslow and identity developed by work -  It might be worth it to point that Maslow indicator for the development of an identity in the work place could be challenged with the simple idea that people live a life beyond work. I think that Maslow's point has to be seen under the context in time that people used to be a lot in the same work space and under the isolated observation that there are situations which is likely to be the case, due to the points given such as when the work or team embraces the person. @meta-refid 1233-1234-4567-0987
 -->
 
-It seems that successful entrepreneurs share a thing with professional artists, in the sense that they bring a vision to the world, that they have found an audience - users or a market or just a group of people that share the same views. The point is that they feel in the same boat or share the vision. Looking at their personalities, or their character, one could even think that the work they do reveals who they are, their identity. Minimally, the audience observes that they respond accordingly. In other words, they do not fail to follow through, to continue respond as expected which in a way happens to please their audiences. But as they see, they aren't doing for the sake of pleasing. They do comply with their audience expects. So they are integral. They might even think that what they do - under that successful condition - appears to be a their destiny. 
+It seems that successful entrepreneurs share a thing with professional artists, in the sense that they bring a vision to the world, that they have found an audience - users or a market or just a group of people that share the same views. The point is that they feel in the same boat or share the vision. Looking at their personalities, or their character, one could even think that the work they do reveals who they are, as in a discovery of their identity. Minimally, the audience observes that they respond accordingly, that they do not fail to follow through, in what appears to be like pleasing their audiences. But as they see, they aren't doing for the sake of pleasing - although they do comply with their audience expects. They seem to be integral, they repond accordinly, and they might even think that what they do - under that successful condition or condition of traction - appears to be a their destiny - such as beautiful state of motivation and such a powerful thing and even so powerful that can put their role path at risk, their startup, their teams, themselves too. 
 
 <!--
 @meta @outline 
@@ -48,9 +52,11 @@ Now a natural objection must be stated right there - although it shakens my body
 
 * @todo - p2 ( ) - In Identity - Review Marcio's footnote (footnote_maslow_needs_hierarchy) about Grove and Maslow - which he believes may also have links with Peter Drucker and Maslow - and check in High Output Management the part where Andy brings about Maslow ideas. Andy makes a point with a degree of objectiveness to make the point that observations from the work seem to resonate with Maslow. Andy wasn't extending anything of Maslow, of course. @meta-refid 7676-8383-0988-1233 
 
-* @todo - p2 ( ) - In Identity - Check and review the article from Andy Grove when he brought the subject of compensation and the pyramid of MAslow too - and motivations. @meta-refid 6565-8373-9383-1233
-
 --> 
+
+
+
+
 
 [^footnote_maslow_needs_hierarchy]: The concept of human needs for motivation and development has been explored from both psychological and business perspectives. Abraham Maslow first introduced the hierarchy of needs in his 1943 paper "A Theory of Human Motivation" published in the Psychological Review, proposing a pyramid structure of human needs from physiological to self-actualization. Andy Grove, in his book "High Output Management," recognized the employees' basic needs as a foundation for higher productivity and self-actualization within the workplace. 
 
@@ -90,12 +96,16 @@ With the sections below, we will start our reflection by looking at the journey 
 
 
 
+
+
+
+
 <!--
 @meta @outline 
-* Outline - Answer - Fusion and vision 
+* Situation - Pitch to Driven by Vision? - Something appears to be what moves, sometime called a vision, or a calling. But it asks to move and it may be so that resources are not of financial order. It asks the team to move. 
 --> 
 
-## Driven by vision 
+## Driven by vision
 
 
 
@@ -103,28 +113,28 @@ With the sections below, we will start our reflection by looking at the journey 
 
 
 
-Our aspirations, in the beginning, counts a lot. All that it takes to start might not be really a vision. Or if a vision exists, if might be one that set us to clear the way ahead. Still, entrepreneurs start there. There seems to be a value that counts, a motivation to act, or a calling that set us to do the job that has to be done. Thus it is not uncommon that we create a sort of value-anchor - for who we are and what we can do for these our causes and for who we ought to be so that we can have success. Thus we can be tied with a vision, or mission, or as an aspiring founder, it is a state that founders can find themselves into.
+When I joined an accelerator program in 2016 I had a name - An "empresário" as we say in Brazil, the thing we put the form to describe our position if we run a business and pay taxes. In addition, I was an entrepreneur, as sort of artist, and a software developer. But then, right there in that new domain, a new name was coming my way. I have noticed it the day that they invited me to join a panel in front of their audience. As they needed a description to introduce me - what they call bio - I had given the standard one and it went along with the name of my company. But in the limelight and out of the suddeen I was surprised to see my name  highlighted as "an aspiring founder." I confesss I was sad and silently asked myself "where is *my* bio? But like the others I were there to develop a startup, driven by something else and not any title although the thing about how we see ourselves, and the impact of that, will go on for the duration of this chapter. 
 
-<!-- 
-@meta @todo
-* @todo - p2 ( ) - In Identity - Consider to remove the whole following because it does not connect with the actual point for this introduction which is to make a point about the calling - @meta-refid 7676-7474-9822-1200 
---> 
-
-And from that a lot happens, such as the reported situation that they have failed and learned from their failures. Or even the situation, which confuses me, that sometimes all that happens appears to be like the hero's journey too. It also confuses me when I hear that reflective question - if you could call yourself back in time what would you tell to your younger self? For me, there is something messy about all of this from this situation that looks like we are essentially babysiting ourselves through the path of entrepreneurship and asking any other grown ups around that apparenty took care of babies too. 
-
-Andy Grove, in *Only the Paranoid Survive*, having considered the work situation - after all the entrepreneurial path moves towards work - had shifted from the vision idea towards the motivations: 
+I will call that thing that drive us to be a vision, although here and for us in different way, far from that general idea of a vision where one is seeking after, like an idea like an outcome. I rather think of a vision of themselves, the thing that explains why someone that starts with a vision later can changed the vision and yet find herself thrilled. This may also go along with the note from Andy Grove, said in High Output Managemer, that vision is a lofty word: 
 
 > *""* (Grove, A., 1999, p. xxx)
 
-<!-- 
-@meta @references 
-* reference - Grove, Andrew. (1999). Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company. Crown Publishing.
---> 
-
 <!--
 @meta @todo 
-* @todo - p2 ( ) - In Identity - Check the passage from Andy Grove from Only The Paranoid Survive, where he says that vision is a lofly word. @meta-refid 7575-9092-1233-9344
--->
+* @todo - p2 ( ) - In Identity - Check the quote from about vision being a lofty word from Andy from High Output Management or Only the Paranoid Survive. @meta-refid 6565-8686-1233-2234 
+--> 
+
+Still, entrepreneurs start there, the movement not still. Our aspirations, in the beginning, counts a lot, that "aspiring founder" idea might be true. There seems to be a value that counts, a motivation to act, or a calling that set us to do the job that has to be done. And since the one that does feels that they they can, it gotta in a way become a sort of value-anchor. I mean, we know the position that we are, and we know that there is something we can do, and we know that we are in it for something to happen, something to grow, some form of success is expected. Thus the thing we can be tied with a vision, or a mission, or as an aspiring founder, it is a state that founders can find themselves into.
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -132,11 +142,47 @@ Andy Grove, in *Only the Paranoid Survive*, having considered the work situation
 
 <!--
 @meta @outline 
-* Outline - Situation of start - Calling, user innovation
+* Situation - Calling of Steve Blank, illustration. (Note that user innovation was here)
 --> 
 
 
 
+
+But as we shift with a vision for that drives them we shall then celebrate the element of passion that can take over the founding team. Entrepreneur, investor, and professor Steve Blank reported not believing that he was working in Silicon Valley and being paid to do what he would do for free (Blank, 2014) or that he might even pay to have the opportunity. Something like or not so far from that is not uncommon in the life of entrepreneurs. It is that they are driven by passions and also get to develop passions as they move through their journeys, as they climb the pyramid or the ladder or the growth path. 
+
+
+
+
+It happens when they stumble upon opportunities along the way — events that resonate with the entrepreneur's identity or that form a new identity. As the entrepreneur progresses on the journey of discovery and refinement, they better see the art being carved out of the stone and their identity — feeling like a deserving or rightful owner, or protagonist of the discovery, of what they saw, vision. That is, proud but also responsible, or the one carrying that flag.
+
+
+
+
+
+
+
+<!--
+@meta @outline 
+* outline - Vision or calling by Steve Blank - consider option x
+--> 
+
+
+> *"Both founders and entrepreneurial employees prefer to build something from the ground up rather than join an existing company. Like jazz musicians or improv actors, they prefer to operate in a chaotic environment with multiple unknowns. They sense the general direction they’re headed in, OK with uncertainty and surprises, using the tools at hand, along with their instinct to achieve their vision. These types of people are rare, unique and crazy. They’re artists."* (Blank, Steve., 2011)
+
+<!-- 
+@meta @references 
+* reference - Blank, S. (2011, March 31). Entrepreneurship is an Art not a Job. Steve Blank. https://steveblank.com/2011/03/31/entrepreneurship-is-an-art-not-a-job/
+--> 
+
+
+
+
+
+
+<!--
+@meta @outline 
+* outline - Vision or calling by Steve Blank - consider option x
+--> 
 
 The renowned Steve Blank, pioneer of the lean movement [^steveblanklean] and creator of the process titled Customer Discovery (2005), when interviewed about a single piece of advice for founders, revealed in the video interview:
 
@@ -149,7 +195,20 @@ The renowned Steve Blank, pioneer of the lean movement [^steveblanklean] and cre
 
 [^steveblanklean]: Steve Blank is a renowned entrepreneur and academic recognized for being one of the pioneers of the Lean Startup movement. Blank, along with Eric Ries, helped define and propagate the Lean Startup philosophy, which proposes the creation of companies and products under conditions of extreme uncertainty. His work, characterized by "customer development" and the idea of "get out of the building," is a fundamental pillar of this methodology. Blank emphasizes the importance of validated learning, iterative product development, and rapid response to customer needs as key principles for innovation in startups.
 
+
+
+
+
+
+
+
 Thus, we can recognize that among cases of success and grand ideas, there are many inventions and innovations attributed to founders who found themselves involved in a struggle for a cause. However, there are also many entrepreneurs who, even without such a strong cause, still feel on a mission or are in the process of forming their identities. Embedded in Steve Blank's premise - that the call is necessary - is also the idea that in this call, the founder becomes a victim of the future projections they make regarding what they do, as well as a victim of the projected identity. This may seem exaggerated, but the actions tied to identity pressure occur daily and can manifest in simple things that would go unnoticed.
+
+
+
+
+
+
 
 
 
@@ -158,10 +217,44 @@ Thus, we can recognize that among cases of success and grand ideas, there are ma
 
 <!--
 @meta @outline 
-* Outline - Fusion and vision - Complication of two sides growing 
+* Complication - Thesis - That things are messy with what appears to be motivations, and passion and vision; and appears that we are also babysitting ourselves. 
 --> 
 
 
+
+
+
+
+<!-- 
+@meta @todo
+* @todo - p2 (Done, moved temporarily to the complication) - In Identity - Consider to remove the whole following because it does not connect with the actual point for this introduction which is to make a point about the calling - @meta-refid 7676-7474-9822-1200 
+--> 
+
+And from that a lot happens, such as the reported situation that they have failed and learned from their failures. Or even the situation, which confuses me, that sometimes all that happens appears to be like the hero's journey too. It also confuses me when I hear that reflective question - if you could call yourself back in time what would you tell to your younger self? For me, there is something messy about all of this from this situation that looks like we are essentially babysitting ourselves through the path of entrepreneurship and asking any other grown ups around that apparenty took care of babies too. 
+
+
+
+<!-- 
+@meta @todo
+* todo - p2 ( ) - In Identity - Intro Complication - Check map14 material of steve question if entrepreneurship can be taught? / @meta-refid 8877-1233-8474-4444
+--> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+@meta @outline 
+* Complication - Thesis 1 - Complication of passion good and passion bad. 
+--> 
 
 
 
@@ -178,7 +271,7 @@ If any of this essence appears in the life of a worker, such as a worker that fe
 
 <!--
 @meta @outline 
-* Outline - Fusion and vision - Answer - Complication of performance leading to harmonious or obsessive (consider self efficacy?)
+* Complication - Thesis 2 - Complication that passion is key but also that passion can be a concern, from the growth view such as of inverstors. Can be harmonious or obsessive. (Self-efficacy?)
 --> 
 
 
@@ -209,12 +302,64 @@ In other words, even if researchers go dig into the specifics and extremmes of d
 
 <!--
 @meta @outline 
-* Outline - Fusion and vision - Answer - Vision and needs - Calling relationship passion for what? #MIT #EricHippel
+* Complication - Thesis 4 - Complication of a thinking of climbing with affilitations 
+--> 
+
+
+> *"Many communitarian thinkers tend to argue that a dominant communal identity is only a matter of self-realization, not of choice. It is, however, hard to believe that a person really has no choice in deciding what relative importance to attach to the various groups to which he or she belongs, and that she must just 'discover' her identities, as if it were a purely natural phenomenon ( like determining whether it is day or night). In fact, we are all constantly making choices, if only implicitly, about the priorities to be attached to our different affiliations and associations. "* (Sen, 2006, p. 5)  
+
+<!-- 
+@meta @references 
+* reference - Sen, A. (2006). Identity and Violence: The Illusion of Destiny. W. W. Norton & Company, Inc.
 --> 
 
 
 
 
+
+<!--
+@meta @outline 
+* Complication - Thesis 5 - Complication of being right and then having to die, and release [feat. Steve Jobs]
+--> 
+
+
+
+> "Steve: I agree wholeheartedly with your thought that entrepreneurship is an art. However, it can also be a discipline. Many great artists are neither crazy nor chaotic nor addicted to the unknown. They accept the potential of failure and realize that creating newness (a sculpture or a new category of product) will require great effort and great patience. They are also aware of the micro and macro processes at work. Not a highly detailed, granular process, but a big blocks of quantum progress process. They understand and believe, more than most people that: 1) Failure = a chance to learn (10x the learnings from success) 2) The failure & learning must stop for success to occur. Great artists and entrepreneurs share the ability to see what should be and, either immediately or over time, being right. Early on, they make practical mistakes and then they gain the tools to consistently make their vision reality (‘Hi, my name is Steve Jobs.’). The chaotic ones are just immature: either as people or in their craft. The crazy ones (and I have worked with more than one) leave more potential on the table (as a group) than they capture: avoid them is my advice. "James - https://steveblank.com/2011/03/31/entrepreneurship-is-an-art-not-a-job/#comment-9588 
+
+
+<!-- 
+@meta @references 
+* Reference - Jobs, S. (2005, March 7). Steve Jobs' 2005 Stanford Commencement Address [Video]. Stanford University. https://www.youtube.com/watch?v=UF8uR6Z6KLc
+--> 
+
+
+
+
+
+
+
+<!--
+@meta @outline 
+* Answer - Situation - Art or science? [feat. Steve Blank, conductor performers]
+--> 
+
+### Art's calling to science's growth confusion 
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+@meta @outline 
+* Answer - Situation - User innovation what? #MIT #EricHippel
+--> 
 
 
 Entrepreneurship is an activity that involves not only a commercial motivation but also a passion for a cause that one wishes to see changed. This motivation is central in the phenomenon of "User Innovation," where the entrepreneur finds themselves intrinsically linked to the cause they advocate. Both the work of Eric von Hippel in "Democratizing Innovation" (2005) and the course "User Innovation: A Path to Entrepreneurship" on MITx on edX emphasize this premise, highlighting that "innovation often starts with real people solving their own problems" (MIT, 2015). This concept encourages entrepreneurs to deeply engage with the causes they support, fueling both their passion and their motivation to create innovative and disruptive solutions.
@@ -235,28 +380,19 @@ As indicated in this video introduction to the course, inventions like basketbal
 
 
 
+
+
+
+
+
+
+
+
 <!--
 @meta @outline 
-* Outline - Fusion and vision - Answer - Not listening to listening, seed to growth #BillDrapper
+* Outline - Not listening to listening, seed to growth #BillDrapper
 --> 
 
-
-
-
-
-
-
-Let us first celebrate the intensity of passion that can take over the founding team. Entrepreneur, investor, and professor Steve Blank reported not believing that he was working in Silicon Valley and being paid to do what he would do for free (Blank, 2014) or that he might even pay to have the opportunity. This is not uncommon at some stage for entrepreneurs who find passions during their journeys. It happens when they stumble upon opportunities along the way — events that resonate with the entrepreneur's identity or that form a new identity. As the entrepreneur progresses on the journey of discovery and refinement, they better see the art being carved out of the stone and their identity — feeling like a deserving or rightful owner, or protagonist of the discovery, of what they saw, vision. That is, proud but also responsible, or the one carrying that flag.
-
-<!-- 
-@meta @references 
-* Reference - Steve Blank at MAP14. (Published on Mar 13, 2014.) MAP14 Public Forum: Steve Blank [video]. Retrieved from https://www.youtube.com/watch?v=UFx2CQUTpYo
-
-Reference artists and entrepreneurs 
-
-https://steveblank.com/2011/03/31/entrepreneurship-is-an-art-not-a-job/
-https://steveblank.com/2011/04/09/entrepreneurs-are-artists/
--->
 
 
 
@@ -284,10 +420,6 @@ But when the situation - as indicated by the "I would do this even for free"  - 
 
 
 
-<!--
-@todo @meta
-* @todo - p2 ( ) - In Identity - Consider the thought from Andy Grove about performance of people tied to motivation - which is a management concern as indicated - which connects with Maslow / @meta-refid 6464-8373-9873-8474
--->
 
 
 
@@ -299,7 +431,72 @@ But when the situation - as indicated by the "I would do this even for free"  - 
 
 <!--
 @meta @outline 
-* Outline - Fusion and vision - Answer - Investors can be careless vs. concerned with growth Risks. 
+* Outline - Artists composers and performers 
+--> 
+
+
+
+
+
+
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Identity - Entrepreneurship can be taught too, Steve agreed later, and Scott (check letter from Marcio to Scott @letter @meta-refid 6565-0202-9383-1233) had provided a prompt too. @meta-refid 6565-7575-0988-1234
+-->
+
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Identity - Consider the Moral Drive and Romantic Art - of Ayn Rand - @meta-refid 2343-6574-3243-5544
+-->
+
+
+
+
+
+<!--
+@meta @todo 
+* todo - p2 ( ) - In Identity - Check the split that Steve Blank made between Composers and Performers of an Orchestra from "Entrepreneurship is an Art not a Job" which from the inspiring and metaphorical aspect connects with that Benjamin Zander had said in his "The Transformative Power of Classical Music" TED talk. and  https://steveblank.com/2011/03/31/entrepreneurship-is-an-art-not-a-job/ https://steveblank.com/2011/04/09/entrepreneurs-are-artists/ and the comments from his commentators / @meta-refid 1222-3332-1212-3234
+* @todo - p2 ( ) - On Identity - Check cross use of composer case around the book which had referred to Steve Blank. 3290849824-49284928-4290849284901-4988234982394
+--> 
+
+> *"We still don't know what makes composers. We understand the category of better performers. But founders it is still kind of misterious."* Steve Blank 
+
+
+> *"Founders fit the definition of a composer: they see something no one else does. And to help them create it from nothing, they surround themselves with world-class performers. This concept of creating something that few others see – and the reality distortion field necessary to recruit the team to build it – is at the heart of what startup founders do. It is a very different skill than science, engineering, or management. Entrepreneurial employees are the talented performers who hear the siren song of a founder’s vision. Joining a startup while it is still searching for a business model, they too see the promise of what can be and join the founder to bring the vision to life. Founders then put in play every skill which makes them unique – tenacity, passion, agility, rapid pivots, curiosity, learning and discovery, improvisation, ability to bring order out of chaos, resilience, leadership, a reality distortion field, and a relentless focus on execution – to lead the relentless process of refining their vision and making it a reality."* (Blank, 2011)
+
+Steve really touches the point of transcendence that embraces possibility, that unlocks the opportunity ahead, and supports the founders to not be trapped by any identity in a given moment, such as to be enamorated with an idea. 
+
+What if, the thought could be turned into as "We are just starting" again. Perhaps that is a way to escape the negative side of the calling. This escape hatch opens the way for growth, for the full realization, and towards leadership. But it isn't easy to see from outside what we do. For that, we need to first acknowledge that it is important - first step - and then with spirit of a true entrepreneur - volunteering to learn - we step up into to find our answers. In a way, the entrepreneur is a generator of an art, it becomes the art in progress in itself, thus she needs to become the curator of its arts. 
+
+<!-- 
+@meta @references 
+* reference - Blank, S. (2011, March 31). Entrepreneurship is an Art not a Job. Steve Blank. https://steveblank.com/2011/03/31/entrepreneurship-is-an-art-not-a-job/
+--> 
+
+
+
+
+
+> *"The argument goes, “Well if it’s not tools then it must be…” But examples from teaching other creative arts are not promising. Music composition has been around since the dawn of civilization yet even today the argument of what “makes” a great composer is still unsettled. Is it the process (the compositional strategies used in the compositional process?) Is it the person (achievement, musical aptitude, informal musical experiences, formal musical experiences, music self-esteem, academic grades, IQ, and gender?)  Is it the environment (parents, teachers, friends, siblings, school, society, or cultural values?) Or is it constant practice (apprenticeship, 10,000 hours of practice?)*" (Blank, 2011)
+
+<!-- 
+@meta @references 
+* reference - Blank, S. (2011, March 31). Entrepreneurship is an Art not a Job. Steve Blank. https://steveblank.com/2011/03/31/entrepreneurship-is-an-art-not-a-job/
+--> 
+
+
+
+
+
+
+
+
+
+
+
+<!--
+@meta @outline 
+* Answer - Growth - Investors can be careless vs. concerned with growth Risks. 
 --> 
 
 ### Investor's interest in passion 
@@ -307,11 +504,12 @@ But when the situation - as indicated by the "I would do this even for free"  - 
 
 
 
+
+
+
 <!-- 
-
-* Ref 9248984-34902849284-348928428-4829849
-* On TODO / p3, ( ) research editor review - passions of entrepreneurs vs. VC - seek 9248984-34902849284-348928428-4829849 within 610_driven_by_love and review this section against the research. 
-
+@meta @todo 
+* @todo - p3 ( ) - research editor review - passions of entrepreneurs vs. VC - seek 9248984-34902849284-348928428-4829849 within 610_driven_by_love and review this section against the research. 
 --> 
 
 Now the concerns with passions influencing the drive is also recognized by the roles that are known as representatives of growth support in the startup growth situation - investors interested in growth. There are likely investors that may bet in passionated teams in a careless way, in a way, such as to a point of allowing them to move fast, with the knowing that potential flaws of passionated drivers will fall apart, as the growth process may take care of itself. In other words, the board can fire the driver later. And that view is not only real because many venture capitalist firms are pressured to grow fast, such as to conquer a given market aside from the means, where acceptable losses fits well the situation such as a founder that moves from a well-being state to a state of not being good to themselves and to the team, or the society. 
@@ -323,11 +521,8 @@ In Entrepreneurship Through the Lens of Venture Capital (Stanford, 2013), Howard
 > *"They didn't grasp the fatal flaw in their business model. This is a perfect example of 'they are gonna go into a space where they lack expertise other than finding it attractive,' they should have gone and found somebody who understood what are the challenges with that specific business, technically, market-wise, customer acquisition, LTV [life time value], all. For most businesses, there are enough similar or identical companies out there that you can learn from when starting a business."* - Howard Hartenbaum (Stanford, 2013, 17:21)
 
 <!-- 
-
-Reference
-
-Stanford. (2013). Entrepreneurship Through the Lens of Venture Capital [Video]. Interview with Howard Hartenbaum. Available at: https://www.youtube.com/watch?v=zRIPiISZucY
-
+@meta @references 
+* Reference - Stanford. (2013). Entrepreneurship Through the Lens of Venture Capital [Video]. Interview with Howard Hartenbaum. Available at: https://www.youtube.com/watch?v=zRIPiISZucY
 --> 
 
 
@@ -351,10 +546,15 @@ In this sense, the passions of entrepreneurs as seen by investors is also a subj
 
 
 
+
+
+
 <!--
 @meta @outline 
 * Outline - Can passion also support transcending? Such as passion with entrepreneurship?
 -->
+
+
 
 
 
@@ -445,21 +645,15 @@ In a previous chapter, especifically in the section Infinite Apprentice, we have
 
 But what comes from the this space for transcendence is really about the vision for how the discovery can find its place, how it can growth, with a system in place, with the performers to support, and that idea necessarily involves the growth of the individual, the transcendence of the identity, towards the identity of the leader, or in the words of Steve Blank, the role of a composer. Steve Blank recognized that founders find a vision on their paths, they are carriers of a call as much as they are onto a call: 
 
-<!-- 
-@meta @todo
-* @todo - p2 ( ) - On Identity - Check cross use of composer case around the book which had referred to Steve Blank. 3290849824-49284928-4290849284901-4988234982394
---> 
 
-> *"Founders fit the definition of a composer: they see something no one else does. And to help them create it from nothing, they surround themselves with world-class performers. This concept of creating something that few others see – and the reality distortion field necessary to recruit the team to build it – is at the heart of what startup founders do. It is a very different skill than science, engineering, or management. Entrepreneurial employees are the talented performers who hear the siren song of a founder’s vision. Joining a startup while it is still searching for a business model, they too see the promise of what can be and join the founder to bring the vision to life. Founders then put in play every skill which makes them unique – tenacity, passion, agility, rapid pivots, curiosity, learning and discovery, improvisation, ability to bring order out of chaos, resilience, leadership, a reality distortion field, and a relentless focus on execution – to lead the relentless process of refining their vision and making it a reality."* (Blank, 2011)
 
-Steve really touches the point of transcendence that embraces possibility, that unlocks the opportunity ahead, and supports the founders to not be trapped by any identity in a given moment, such as to be enamorated with an idea. 
 
-What if, the thought could be turned into as "We are just starting" again. Perhaps that is a way to escape the negative side of the calling. This escape hatch opens the way for growth, for the full realization, and towards leadership. But it isn't easy to see from outside what we do. For that, we need to first acknowledge that it is important - first step - and then with spirit of a true entrepreneur - volunteering to learn - we step up into to find our answers. In a way, the entrepreneur is a generator of an art, it becomes the art in progress in itself, thus she needs to become the curator of its arts. 
 
-<!-- 
-@meta @references 
-* reference - Blank, S. (2011, March 31). Entrepreneurship is an Art not a Job. Steve Blank. https://steveblank.com/2011/03/31/entrepreneurship-is-an-art-not-a-job/
---> 
+
+
+
+
+
 
 
 
@@ -488,17 +682,50 @@ What if, the thought could be turned into as "We are just starting" again. Perha
 
 
 
-
 But then, after the considerations about the holistic journey from passion, the reflection from above where the identity needs to be free from the current passing passions, thus transcending motivations, we yet should then be concerned with the challenges that rises as move on into the path for growth - where we are set to do so by affiliations with groups or entities - where we can be equally motivated by the ties or affairs with colleagues, customers, mentors, advisors, and other voices even from systems but that nevertheless impact our behavior and shape to a certain degree who we are. 
 
 In reality, a solo founder may go seek to find a cofounder within a larger entrepreneurial or incubation entity that she had joined. Or an accelerator might be an opportunity. And there are all sorts of other entities that are dynamic, interactive, full of energy and showing alignment with the need of these founders. In other words, the possibility of affairs with external entities is not only evident of modern, networked, and rich ecosystem of entrepreneurship - where they will get from books to all sorts of supporting entities up to venture capital or other crowd supports -  but in fact realidily innevitable, as in difficult to avoid, as entrepreneurs understand they do seek, find, and acquire social capital. 
 
 In other words, the formation of the founder's identity is slow - as it is not launched out of the sudden as if it is a super hero's identity launched with the product launch - althought it is generally visible through the launches as of course successfyl launches attrach the limelight where all sorts of people are interested in looking at their situation from various perspectives such as to reflect about founder's identity. But in fact the identity formation goes along with the modern approach of entrepreneurship where interactions with entities happen along the way, which also goes well with the lean way of doing entrepreneurship where a lot more happens and where a potential growth ladder exists.  
 
+
+
+
+
+
+<!--
+@meta @outline 
+* Outline - In Identity - In Social Capital - Pmarca on career advice as validation gathering - matches with Steve Blank's lean no lead. @meta-refid 7676-0909-8977-6553
+
+https://pmarchive.com/guide_to_career_planning_part0.html
+
+https://pmarchive.com/guide_to_career_planning_part1.html
+
+https://pmarchive.com/guide_to_career_planning_part2.html
+
+https://pmarchive.com/guide_to_career_planning_part3.html
+
+--> 
+
+
+
+
+
+
+> *"In real life — as opposed to blogging — one of my least favorite things to do is give career planning advice. Most people who say they want career planning advice aren’t actually looking for advice — they just want validation of the path they have already chosen. Because of that, giving someone career planning advice is one of the surest ways to end up feeling like an a******"* 
+
+
+
+
+
 <!--
 @meta @outline 
 * Outline - In Identity - Case of growing with social capital of Marcio being part of an accelerator
 --> 
+
+
+
+
 
 I will give you an example. An local accelerator system is a partner that is there to challenge, to motivate, to educate to a certain degree, to leverage the founding team's potential. Some of the accelerator programs, such as early stages, can start with the situation which they recognize as the aspiring founder. They might set the doer in the direction of coming up with 3 ideas in the beginning and then they will have to participate in an event to pitch - in front of judges that in a way represent investor's or the gatekeepers of growth - their best option. This might be just an exercise in the beginning of the program. Thus, they sort of create an artificial acceleration situation with a pressure that is seen as positive. Now, the founding team might well get feedback. In one of the situations that I had participated, I recall from the feedback I had collected before the pitch that my second idea had produced increased level of growth in the pupils of some of the local mentors. The idea had to do with a way for Brazilians to split the bill of the restaurant table more easily. But then, I had decided to move on with a slides platform. Or yet another slides platform. My pitch could not convince the local judges so I got a bad grade and even a punishment exercise for having failed the pitch. 
 
@@ -530,6 +757,43 @@ It may be important, therefore, to recognize that the formation, or support for 
 
 
 
+<!--
+@meta @outline 
+* Situation - Andy when considering the work environment, see a connection with money, but a different kind of attachment with money and a call to connect with motivations. 
+--> 
+
+
+
+
+
+
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Identity - Check the passage from Andy Grove from Only The Paranoid Survive, where he says that vision is a lofly word. @meta-refid 7575-9092-1233-9344
+* @todo - p2 ( ) - In Identity - Check and review the article from Andy Grove when he brought the subject of compensation and the pyramid of MAslow too - and motivations. @meta-refid 6565-8373-9383-1233
+* @todo - p2 ( ) - In Identity - Consider the thought from Andy Grove about performance of people tied to motivation - which is a management concern as indicated - which connects with Maslow / @meta-refid 6464-8373-9873-8474
+-->
+
+Andy Grove, in *High Output Management*, having considered the work situation that might be in it because might be trying to maintain its motivation hierarchy pyramid intact. The work situation appears to be a place to get that going: 
+
+> *"Money has significance at all levels of Maslow's motivation hierarchy. As noted earlier, a person needs money to buy food, housing, and insurance policies, which are part of his physiological and safety/security needs. As one moves up the need hierarchy, money begins to mean something else - a measure of one's worth in a competitive environment. Earlier I have described a simple test that can be applied to determine the role money plays for someone. If the *absolute* amount of raise in salary is important, that person is probably motivated by physiological or safety security needs. If the *relative* amount of a raise - what he got compared to others - is the important issue, that person is likely to be motivated by self-actualization, because money here is a measure, not a necessity."* (Grove, A., 1999, p. 213)
+
+<!-- 
+@meta @references 
+* reference - Grove, Andrew. (1999). Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company. Crown Publishing.
+--> 
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 @meta @outline 
@@ -538,7 +802,7 @@ It may be important, therefore, to recognize that the formation, or support for 
 * Emotions - judges - Case of judge to step aside - Julia and Ayn   
 -->
 
-### Being tested by the judges of growth 
+### The self in the eyes of the beholder 
 
 
 
@@ -691,39 +955,12 @@ This path exists thanks also to another human factor, just like feeling. It stem
 * Outline - Emotions - Cases of roles an identity may be about build self-esteem 
 -->
 
-
 ### Cases of roles of an identity 
 
 
-<!--
-
-* Version - v2.1 
-
-* link to - 430_self_staging.txt
-
-* Situation - You can enter places that can take you there. 
-* Complication - You can join the crowd with positivisn, energy. 
-
-* Tag - power dynamics
-* tag - communication 
-* tag - 
-
-* Chatgpt - https://chat.openai.com/share/2cca3573-5c8a-4526-8afe-1498acabdd7d
-
-* [ Add citation ] Melissa Nightingale, super hero cape. 
-
-## References
-
-Steve Blank at MAP14. (Published on Mar 13, 2014.) MAP14 Public Forum: Steve Blank [video]. Retrieved from https://www.youtube.com/watch?v=UFx2CQUTpYo
-
-Nightingale, M. (2016). Why it’s a Mistake to be a Startup Superhero. Medium. Recuperado de https://medium.com/the-copour/why-its-a-mistake-to-be-a-startup-superhero-e221b0969ec9
-
-User Innovation: A Path to Entrepreneurship. Massachusetts Institute of Technology (MIT) on edX. Recuperado de https://www.youtube.com/watch?v=LpBSY9_RyCg
-
-von Hippel, E. (2005). Democratizing Innovation. The MIT Press. DOI: https://doi.org/10.7551/mitpress/2333.001.0001
 
 
--->
+
 
 Every entrepreneur will undertake something with a goal or cause. We reach this stage because we want to change something in the world or achieve a better life. There are motivations and dreams, we already know that. But also, the moment we plant a seed in this terrain, we are not just waiting, but we are shaping our identities as entrepreneurs. So far, so good. The problem, the complication, is that we are in search of support.
 
@@ -733,6 +970,10 @@ In this study, we will first address the case of Myanmar, in which a protagonist
 
 
 Next, we will delve into the implicit issue of identity in entrepreneurship. Through a reflection on this idea of entrepreneurial identity, we seek evidence that identity is not just a phenomenon, but also an essential premise for the act of undertaking. We will also explore the experiences of personalities in the industry, considering inherent risks to this process; that demands a higher degree of consciousness the more we move towards the entrepreneurial trajectory and develop a potential identity. 
+
+
+
+
 
 
 
@@ -773,6 +1014,41 @@ This reinforces that beyond the issue of entrepreneurs' identity, there is also 
 
 
 
+
+
+
+
+<!--
+@meta @outline 
+* Outline - Emotions - Affected by tools
+-->
+
+#### Challenging the superhero's tools 
+
+
+<!-- 
+@meta @todo
+* @todo - p2 ( ) - In Identity - Check if Barbara's message can be inserted, if this needs Barbara's approval. @meta-refid 1222-2233-3232-7373 
+--> 
+
+> *"Marcio, do not make a song or dance about what is a simple activity. And do not go looking for tools. Your brain is the tool. Think it through."* Barbara's message to Marcio. 
+
+
+> *"When page-layout programs came out with the Macintosh in 1984, everyone thought it was going to be the end of graphic artists and designers. “Now everyone can do design,” was the mantra. Users quickly learned how hard it was do design well (yes. it is an art) and again hired professionals. The same thing happened with the first bit-mapped word processors. We didn’t get more or better authors. Instead we ended up with poorly written documents that looked like ransom notes. Today’s equivalent is Apple’s “Garageband”. Not everyone who uses composition tools can actually write music that anyone wants to listen to. "* (Blank, Steve., 2011)
+
+
+<!--
+@meta @references 
+* reference - Blank, S. (2011, March 31). Entrepreneurship is an art not a job. Steve Blank. https://steveblank.com/2011/03/31/entrepreneurship-is-an-art-not-a-job/
+--> 
+
+
+
+
+
+
+
+
 <!--
 @meta @outline 
 * Outline - Emotions - Affected by rich network - Challenging the superpowers  
@@ -794,6 +1070,9 @@ This reinforces that beyond the issue of entrepreneurs' identity, there is also 
 
 
 
+
+
+
 <!--
 @meta @outline 
 * Outline - Emotions - Affected by poor network - Fame - Network poor 
@@ -807,16 +1086,20 @@ This reinforces that beyond the issue of entrepreneurs' identity, there is also 
 
 
 <!-- 
-
+@meta @note @original 
 * Chatgpt - https://chat.openai.com/share/2cca3573-5c8a-4526-8afe-1498acabdd7d
-
 --> 
 
-In the book "The Chaos Machine: How Social Networks Reprogrammed Our Mind and Our World," Max Fisher (2023) recounts the story of a monk named Wirathu, who was catapulted to fame in Myanmar after the country emerged from a long period of isolation and embraced the Internet and social media. Wirathu's rise and his ability to influence a newly connected nation illustrate the intricate relationship between connectivity, identity, and the potentially destructive power of an unchallenged alternate reality.
+In the book *The Chaos Machine: How Social Networks Reprogrammed Our Mind and Our World*, Max Fisher (2023) recounts the story of a monk named Wirathu, who was catapulted to fame in Myanmar after the country emerged from a long period of isolation and embraced the Internet and social media. Wirathu's rise and his ability to influence a newly connected nation illustrate the intricate relationship between connectivity, identity, and the potentially destructive power of an unchallenged alternate reality.
 
 <!-- 
 @meta @references 
 * Reference - Fisher, M. (2023). A Máquina do Caos: Como as Redes Sociais Reprogramaram Nossa Mente e Nosso Mundo. Todavia.
+--> 
+
+<!--
+@meta @todo
+* @todo - p2 ( ) - In Identity - Fix the reference to "A Máquina do Caos" to use the english one. @meta-refid 5544-3434-1212-2345
 --> 
 
 Wirathu's story begins with a dark past, confined to an environment of hate during his imprisonment. However, his homeland, Myanmar, underwent significant transformations during his detention, including the widespread adoption of the Internet and social media, largely thanks to a partnership with the United States. Inspired by Silicon Valley leaders and former President Barack Obama, Myanmar made a rapid transition to the digital age.

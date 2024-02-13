@@ -380,7 +380,22 @@ I have no doubt of an optimistic and humaninistic perspective in that component 
 
 
 
-By showing these aspects fro their challenges, we can build a sense for how formation of the principles in OKR. Given what it was said, OKR starts - yes -  with the need for tops-down goals that can be accomplished and also can be quite ambitious: 
+> *"Grove believed in the power of a concise, compelling vision to motivate employees and to give a company direction during "strategic inflection points," a time where a business’ fundamentals are about to change."* Carmine Gallo (Forbes, 2016)
+
+<!--
+@meta @references 
+* reference - Gallo, C. (2016, March 21). Andy Grove's Fundamental Rule Of Communication. Forbes. https://www.forbes.com/sites/carminegallo/2016/03/21/andy-groves-fundamental-rule-of-communication/
+-->
+
+<!-- 
+@meta @todo 
+* @todo - p2 ( ) - In Identity - Check the quote about Andy from Carmine in the context, motivation for tops-down. @meta-refid 1232-2233-4343-6768
+--> 
+
+
+
+
+By showing these aspects from their challenges, we can build a sense for how formation of the principles in OKR. Given what it was said, OKR starts - yes -  with the need for tops-down goals that can be accomplished and also can be quite ambitious: 
 
 > *"An effective goal setting system starts with disciplined thinking at the top, with leaders who invest the time and energy to choose what counts."* (Doerr, J., 2018, p. 50)
 

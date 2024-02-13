@@ -110,19 +110,32 @@ Cameron, J. (1992). The artist's way: A spiritual path to higher creativity. Jer
 McKee, R., & Gerace, T. (2018). Storynomics: story-driven marketing in the post-advertising world. New York, Twelve.
 
 <!-- 
-
-* 100 / Identity / 610_driven_by_love
-
+* 100 / 610_identity 
 --> 
 
 Greylock Partners. (2015, November 30th), Blitzscaling 18: Brian Chesky on Launching Airbnb and the Challenges of Scale. Retrieved from https://www.youtube.com/watch?v=W608u6sBFpo / @ 020_rainbow_grayscale 
 
+<!-- 
+* 100 / 610_identity 
+--> 
+
 Blank, S. (2010, November 1st). No Business Plan Survives First Contact With A Customer – The 5.2 billion dollar mistake. Retrieved from https://steveblank.com/2010/11/01/no-business-plan-survives-first-contact-with-a-customer-%E2%80%93-the-5-2-billion-dollar-mistake/
 
-Steve Blank at MAP14. (Published on Mar 13, 2014.) MAP14 Public Forum: Steve Blank [video]. Retrieved from https://www.youtube.com/watch?v=UFx2CQUTpYo
+<!-- 
+* 100 / 610_identity 
+--> 
+
+Blank, S. (2014, March 13). MAP14 Public Forum: Steve Blank [Video]. YouTube. https://www.youtube.com/watch?v=UFx2CQUTpYo
+
+<!-- 
+* 100 / 610_identity 
+--> 
 
 Draper, B. (2017, November 9). Bill Draper: The Origins of Venture Capital in Silicon Valley. [Video]. YouTube. https://www.youtube.com/watch?v=QqwKuKKWiJ4
 
+<!-- 
+* 100 / 610_identity 
+--> 
 
 Blank, S. (2011, March 31). Entrepreneurship is an Art not a Job. Steve Blank. https://steveblank.com/2011/03/31/entrepreneurship-is-an-art-not-a-job/
 
@@ -152,25 +165,32 @@ Klein, Maury. (2009). The power makers: steam, electricity, and the men who inve
 
 <!-- 
 * 030_wanterpreneur
-* 150_entrepreneurship_is_management
+* 150_entrepreneurship_is_management_okr
 --> 
 
 Schumpeter, J. A. (2008). Capitalism, socialism, and democracy. Harper Perennial Modern Thought. (Original work published 1942)
 
 <!-- 
-* 150_entrepreneurship_is_management
+* 150_entrepreneurship_is_management_okr
 --> 
 
 Duggan, K. (2015, August 11). Using OKRs to Drive Results aka “Secrets to Crushing Your Goals” [Video]. HeavyBit. Retrieved from  https://www.heavybit.com/library/video/using-okrs-to-drive-results-aka-secrets-to-crushing-your-goals
 
 <!-- 
-* 150_entrepreneurship_is_management
+* 100 / 610_identity 
+--> 
+
+Gallo, C. (2016, March 21). Andy Grove's Fundamental Rule Of Communication. Forbes. https://www.forbes.com/sites/carminegallo/2016/03/21/andy-groves-fundamental-rule-of-communication/
+
+<!-- 
+* 150_entrepreneurship_is_management_okr
+* 100 / 610_identity 
 --> 
 
 Nightingale, J. (2017). How Fucked Up Is Your Management. Raw Signal Press. 
 
 <!-- 
-* 150_entrepreneurship_is_management
+* 150_entrepreneurship_is_management_okr
 --> 
 
 Dearing, M. (2019, July 2). Thank you, Daniel McCallum. Retrieved from https://medium.com/@mcgd/thank-you-daniel-mccallum-133d27e98468
@@ -187,7 +207,7 @@ MIT (Producer). (2015, May 19). User Innovation: A Path to Entrepreneurship [Vid
 
 <!-- 
  200/230_self_confirmation_bias_social_identity.txt
- 300/150_entrepreneurship_is_management.txt
+ 300/150_entrepreneurship_is_management_okr.txt
 --> 
 
 von Hippel, E. (2005). Democratizing Innovation. The MIT Press. DOI: https://doi.org/10.7551/mitpress/2333.001.0001
@@ -212,13 +232,13 @@ Minto, B. (1996). The Minto Pyramid Principle: Logic in Writing, Thinking, & Pro
 --> 
 
 <!--
-300 / 150_entrepreneurship_is_management 
+300 / 150_entrepreneurship_is_management_okr 
 --> 
 Casey, B. (2024, January 27). Dear Andy: "Lights On" OKRs. What Matters. Retrieved January 27, 2024, from https://www.whatmatters.com/faqs/okr-restaurant-examples
 
 <!-- 
 200 / 410_automatic_reaction_breaking 
-300 / 150_entrepreneurship_is_management 
+300 / 150_entrepreneurship_is_management_okr 
 --> 
 
 Grove, A. (2015). High Output Management. Vintage Books.
@@ -272,7 +292,7 @@ Brazil at Silicon Valley [Brasil no Vale do Silício]. (30 de Abril de 2019). Do
 Stanford Graduate School of Business. (7/11/2014). Sequoia Capital's Doug Leone on Luck & Taking Risks [Doug Leone da Sequoia Capital sobre Sorte e Riscos] [Arquivo de vídeo]. Obtido de [https://youtu.be/4cl8X02Xd1I?t=2724](https://youtu.be/4cl8X02Xd1I?t=2724)
 
 <!-- 
- 300 / 150_entrepreneurship_is_management
+ 300 / 150_entrepreneurship_is_management_okr
  230_self_confirmation_bias_social_identity.txt
 --> 
 
@@ -383,19 +403,19 @@ Ulwick, T. (2017). Outcome-Driven Innovation: JTBD Theory in Practice. Medium. h
 
 
 <!-- 
-From 150_entrepreneurship_is_management.txt / intro 
+From 150_entrepreneurship_is_management_okr.txt / intro 
 --> 
 
 Hoffman, R., & Casnocha, B. (2013, July 15). The Startup of You. CreativeLive. Retrieved January 18, 2024, from https://youtu.be/e2X54ALRkZg?si=OF_2-LTUk6KR17ip
 
 <!-- 
-From 150_entrepreneurship_is_management.txt / intro 
+From 150_entrepreneurship_is_management_okr.txt / intro 
 --> 
 
 Harrison Metal. (2016, October 25). Objectives & Key Results [Video]. Vimeo. https://vimeo.com/188846225
 
 <!-- 
-From 150_entrepreneurship_is_management.txt / intro 
+From 150_entrepreneurship_is_management_okr.txt / intro 
 --> 
 
 Fried, J., & Hansson, D. H. (2018). It doesn't have to be crazy at work. HarperCollins.
@@ -427,7 +447,7 @@ Dearing, M. (2013, July 16). Pricing [Video]. HeavyBit. https://www.heavybit.com
 
 
 <!--
-* 300 / 150_entrepreneurship_is_management
+* 300 / 150_entrepreneurship_is_management_okr
 --> 
 
 Covey, S. (1989). The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change. Fireside.
@@ -435,7 +455,7 @@ Covey, S. (1989). The 7 Habits of Highly Effective People: Powerful Lessons in P
 <!-- 
 
 * 100/970_winning.txt
-* 300/150_entrepreneurship_is_management.txt 
+* 300/150_entrepreneurship_is_management_okr.txt 
 
 --> 
 
@@ -443,7 +463,7 @@ Drucker, P. (2008). Managing Oneself. Harvard Business School Press.
 
 
 <!-- 
-* 300 / 150_entrepreneurship_is_management.txt 
+* 300 / 150_entrepreneurship_is_management_okr.txt 
 --> 
 
 Spero Ventures. (2018, February 13). Michael Dearing at the 2018 NYC Product Leader Summit: "Two Blasts from the Past" [Video]. YouTube. https://www.youtube.com/watch?v=oBOOcBgHxTU
@@ -451,7 +471,7 @@ Spero Ventures. (2018, February 13). Michael Dearing at the 2018 NYC Product Lea
 
 
 <!-- 
-* 300 / 150_entrepreneurship_is_management.txt 
+* 300 / 150_entrepreneurship_is_management_okr.txt 
 --> 
 
 Dearing, M. (2016, September 10). Competitive micro-markets for product development. Medium. https://medium.com/@mcgd/competitive-micro-markets-for-product-development-e74fe56b1c02
@@ -469,14 +489,14 @@ Dearing, M. (2018, February 13). Michael Dearing at the 2018 NYC Product Leader 
 
 <!-- 
 @meta @from
-* 300/150_entrepreneurship_is_management.txt
+* 300/150_entrepreneurship_is_management_okr.txt
 --> 
 
 Doerr, J. (2018). Measure What Matters. Portfolio/Penguin, p. 46.
 
 <!-- 
 @meta @from
-* 300/150_entrepreneurship_is_management.txt
+* 300/150_entrepreneurship_is_management_okr.txt
 --> 
 
 Rekhi, S. (n.d.). 6 Steps for setting high-leverage OKRs. Reforge. Retrieved January 12, 2024, from https://www.reforge.com/previews/growth/okr-guide
@@ -489,7 +509,7 @@ Wodtke, C. (2023, March 16). The ultimate guide to OKRs | Christina Wodtke. Lenn
 
 <!-- 
 @meta @from
-* 300/150_entrepreneurship_is_management.txt
+* 300/150_entrepreneurship_is_management_okr.txt
 --> 
 
 Head, K. (2024). Output vs. Outcome with OKRs. What Matters. Retrieved January 29, 2024, from https://www.whatmatters.com/faqs/outputs-vs-outcome-okr
@@ -497,7 +517,7 @@ Head, K. (2024). Output vs. Outcome with OKRs. What Matters. Retrieved January 2
 
 <!-- 
 @meta @from
-* 300/150_entrepreneurship_is_management.txt
+* 300/150_entrepreneurship_is_management_okr.txt
 --> 
 
 Doerr, J., Panchadsaram, R., & Shufro, L. (2024). OKR Certification: Leadership and Goal Setting. Coursera. Retrieved January 29, 2024, from https://www.coursera.org/learn/okr
@@ -505,7 +525,7 @@ Doerr, J., Panchadsaram, R., & Shufro, L. (2024). OKR Certification: Leadership 
 
 <!-- 
 @meta @from
-* 300/150_entrepreneurship_is_management.txt
+* 300/150_entrepreneurship_is_management_okr.txt
 --> 
 
 Panchadsaram, R. [What Matters]. (2020, September 8). OKRs 101 - Lesson 3.2: Inputs, Outputs and Outcomes - Learn how to set and achieve audacious goals [Video]. YouTube. https://www.youtube.com/watch?v=Y6YuldODk3E
@@ -513,7 +533,7 @@ Panchadsaram, R. [What Matters]. (2020, September 8). OKRs 101 - Lesson 3.2: Inp
 
 <!-- 
 @meta @from
-* 300/150_entrepreneurship_is_management.txt
+* 300/150_entrepreneurship_is_management_okr.txt
 --> 
 
 Seiden, J. (2019, July 16). To write better OKRs, use outcomes. Medium. Retrieved from https://medium.com/@jseiden/to-write-better-okrs-use-outcomes-e82be6e7b460
@@ -521,7 +541,7 @@ Seiden, J. (2019, July 16). To write better OKRs, use outcomes. Medium. Retrieve
 
 <!-- 
 @meta @from
-* 300/150_entrepreneurship_is_management.txt
+* 300/150_entrepreneurship_is_management_okr.txt
 --> 
 
 Nightingale, J. (2017, February 8). Leadership is not about your good intentions: Managing junior vs senior staff, and why you might be an ass. The Co-pour. Retrieved from https://mfbt.ca/leadership-is-not-about-your-good-intentions-5e21666cb01b
@@ -530,7 +550,7 @@ Nightingale, J. (2017, February 8). Leadership is not about your good intentions
 
 <!-- 
 
-* 300/150_entrepreneurship_is_management.txt
+* 300/150_entrepreneurship_is_management_okr.txt
 
 --> 
 
