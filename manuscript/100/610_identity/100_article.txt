@@ -114,7 +114,7 @@ With the sections below, we will start our reflection by looking at the journey 
 
 
 
-When I joined an accelerator program in 2016 I were wearing a badge or a title - "empresário" - the thing a Brazilian would put in a form to describe herself as a company owner that runs a tax-paying business. In addition, I was also an entrepreneur. And secretly I saw myself as a sort of artist. And not secretly although trying to hide those days, I was a software developer. But I also had other titles like Web Master from back in the days when the movie Jurrassic Park came out. And I discovered myself as a Web Developer too [^footnote_marciogalli_webdevelopers].
+When I joined an accelerator program in 2016 I had a badge labeled "empresário." That is the thing that a Brazilian would fill in a form to describe their title - as the one responsible that runs a tax-paying business entity. In addition, I was also an entrepreneur. And secretly I saw myself as a sort of artist. And not secretly although trying to hide at that time I was a software developer. And out of curiosity I had other titles such as Web Master from back in the good old days when the movie Jurrassic Park came out. That also makes me remember when I brought myself to be known as a Web Developer  [^footnote_marciogalli_webdevelopers].
 
 [^footnote_marciogalli_webdevelopers]: In *The History of Web Developers Tied to Browser Development* (2023), I had had the opportunity to reflect about the emergence of the role known as the "web developer." That the environment, the emergence of browsers, have helped to shape the role. It seems to be, as we see people working, that the craft shapes them, to a certain degree. This may be the be observable in some corporate situations, like the corporations from the west from the late 1900s to and early 2000s. And it is likely what makes the perception of performance - assuming that their colleagues understand them, that their colleagues trust them, that they predict what they do and how they do - as much it makes them to create impactful outcomes - good or bad. 
 
@@ -123,11 +123,11 @@ When I joined an accelerator program in 2016 I were wearing a badge or a title -
 * reference - Galli, M. (2023, March 13). The History of Web Developers Tied to Browser Development. Hackernoon. https://hackernoon.com/the-history-of-web-developers-tied-to-browser-development
 --> 
 
-But then, in that new domain and being accelerated as one would put it, a new name was coming my way. I noticed it the day they invited me to speak. Before the event, I gave them what they would call "the speaker's bio." Basically my name, that current title, and the name of my company. But as the limelight turned on I was surprised by the host's introduction - Marcio, an aspiring founder. I can't say I loved it. The first thing that went through my head was - Where is my bio thing? 
+But then, in that new domain of being accelerated as they would say, a new title was coming my way. I noticed it the day they invited me to speak. Before the event, I gave them what they needed - "the speaker's bio" - which is basically a short story of the speaker so that they can use to introduce the speaker. I sent them along with my name, my current title, and the name of my company. But as the limelight turned on I was surprised by the introduction - Marcio, an aspiring founder. I can't say I loved it. The first thing that went through my head was - Where is my bio thing? 
 
-But like the others being *accelerated*, I were there to focus on my startup and not to be worried about myself. The startup ahead needed me. The startup ahead needed me not to be driven by something else, like a title. So there it is, a reality seemed to be ahead and seemed to need me, to get the job done, to grow it. But then, and again, I were there, and we were there, feeling as we do, or conscious or aware about what we do, how we do, why we do, and who we are. 
+But like the others being *accelerated*, I were there to focus on my startup and not to be worried about myself. The startup ahead needed me. The startup ahead needed me not to be driven by a title. But then, and again, we were there, and we were feeling while doing it, and we were conscious or aware about what we do, how we do, why we do, and who we are. In other words, while I knew I had to focus on the startup I seemlessly knew I were focusing on myself too. 
 
-I will call that thing that drive us to be a vision, although here and for us in different way, far from that general idea of a vision where one is seeking after, like an idea like an outcome. I rather think of a vision of themselves, the thing that explains why someone that starts with a vision later can changed the vision and yet find herself thrilled. This may also go along with the note from Andy Grove, said in High Output Managemer, that vision is a lofty word: 
+Let me call the thing that drive us a vision. Although here and for us far from the limelights a vision different from that general idea that one that is seeking something or pursuing something that was envisioned. Let's think of a vision for the startup being executed by the self or the self executing a startup. At least I find comfort using that viewpoint because there are many that start with a vision, in the original sense, and then they are caught doing it and doing it happily while their original vision changed, or evolved, or was killed. Another reason for me to put that typical vision idea behind is that Andy Grove in *High Output Management* said that vision is a lofty word: 
 
 > *""* (Grove, A., 1999, p. xxx)
 
@@ -136,7 +136,7 @@ I will call that thing that drive us to be a vision, although here and for us in
 * @todo - p2 ( ) - In Identity - Check the quote from about vision being a lofty word from Andy from High Output Management or Only the Paranoid Survive. @meta-refid 6565-8686-1233-2234 
 --> 
 
-Still, an entrepreneur loves to get involved in the steps [^footnote_jtbd_jobsteps] of their startup's job to be done: She may love to "Determine their goals and plan resources," or loves to "Gather items and information needed to do the job," or loves to "Set up the environment to do the job," or loves to "Verify that they’re ready to perform the job," or loves to "Carry out the job,", or loves to "Assess whether the job is being successfully executed", or loves to "Make alterations to improve execution," or loves to "Finish the job or prepare to repeat it." Or she loves all of that too in a way or another. Whoever that is into that might be, indeed and as said, "an aspiring founder."
+Still, an entrepreneur moves. Or they seem to be passioned when they get involved with the steps [^footnote_jtbd_jobsteps] of their startup's job to be done journey. They may love to "Determine their goals and plan resources," or they enjoy to "Gather items and information needed to do the job," or like to "Set up the environment to do the job," or appreciate to "Verify that they’re ready to perform the job," or smile that they can "Carry out the job,", or have fun when they "Assess whether the job is being successfully executed", or are proud to "Make alterations to improve execution," or they worship when they "Finish the job or prepare to repeat it." Perhaps that "aspiring founder" thing really explains better what happens with their bio. 
 
 [^footnote_jtbd_jobsteps]: The Job Map by Strategyn (2024) says that all kinds of jobs have 8 steps. From that fundamental thinking I got inspired to think about the job of making a startup, or the job of a team seeking to innovate by making a company. 
 
@@ -144,6 +144,9 @@ Still, an entrepreneur loves to get involved in the steps [^footnote_jtbd_jobste
 @meta @references 
 * Reference - Strategyn. (2024). The JTBD Framework. Retrieved February 15, 2024, from https://strategyn.com/jobs-to-be-done/customer-centered-innovation-map/
 --> 
+
+
+
 
 
 And since the one that does feels that they they can, it gotta in a way become a sort of value-anchor. I mean, we know the position that we are, and we know that there is something we can do, and we know that we are in it for something to happen, something to grow, some form of success is expected. Thus the thing we can be tied with a vision, or a mission, or as an aspiring founder, it is a state that founders can find themselves into.
