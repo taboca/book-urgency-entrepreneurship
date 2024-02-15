@@ -103,7 +103,6 @@ With the sections below, we will start our reflection by looking at the journey 
 <!--
 @meta @outline 
 * Pitch and theme - Something drive us. It seems to be related with our identity, or self. [Feat. MG]  
-* Pitch and theme - Something drive us. It may not be vision as we normally see. [Feat. AG]
 --> 
 
 ## Driven by vision
@@ -127,7 +126,20 @@ But then, in that new domain of being accelerated as they would say, a new title
 
 But like my colleagues being *accelerated*, I weren't there to be worried about my title. The startup in the future needed the founder in the present. But then, and again, we right there, and living the feeling of what happens, I was quite into what I considered to be conscious of what I do, how I do, why I do, and who I am. In other words, while I knew I had to focus on the startup I seemlessly knew I were focusing on myself too. 
 
-Let me call the thing that drive us a vision. Although here and for us far from the limelights a vision different from that general idea that one that is seeking something or pursuing something that was envisioned. Let's think of a vision for the startup being executed by the self or the self executing a startup. At least I find comfort using that viewpoint because there are many that start with a vision, in the original sense, and then they are caught doing it and doing it happily while their original vision changed, or evolved, or was killed. Another reason for me to put that typical vision idea behind is that Andy Grove in *High Output Management* said that vision is a lofty word: 
+
+
+
+
+<!--
+@meta @outline 
+* Situation  - Start not with a traditional vision but drives. We feel good about a job to be done. [Feat. AG] [Feat. TU]
+--> 
+
+
+
+
+
+Let me call the thing that drive us a visiIf it is a vision that drive us on. Although here and for us far from the limelights a vision different from that general idea that one that is seeking something or pursuing something that was envisioned. Let's think of a vision for the startup being executed by the self or the self executing a startup. At least I find comfort using that viewpoint because there are many that start with a vision, in the original sense, and then they are caught doing it and doing it happily while their original vision changed, or evolved, or was killed. Another reason for me to put that typical vision idea behind is that Andy Grove in *High Output Management* said that vision is a lofty word: 
 
 > *""* (Grove, A., 1999, p. xxx)
 
@@ -149,54 +161,11 @@ Still, an entrepreneur moves. Or they seem to be passioned when they get involve
 
 
 
-And since the one that does feels that they they can, it gotta in a way become a sort of value-anchor. I mean, we know the position that we are, and we know that there is something we can do, and we know that we are in it for something to happen, something to grow, some form of success is expected. Thus the thing we can be tied with a vision, or a mission, or as an aspiring founder, it is a state that founders can find themselves into.
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <!--
 @meta @outline 
-* Situation - Calling of Steve Blank, illustration. (Note that user innovation was here)
---> 
-
-
-
-
-But as we shift with a vision for that drives them we shall then celebrate the element of passion that can take over the founding team. Entrepreneur, investor, and professor Steve Blank reported not believing that he was working in Silicon Valley and being paid to do what he would do for free (Blank, 2014) or that he might even pay to have the opportunity. Something like or not so far from that is not uncommon in the life of entrepreneurs. It is that they are driven by passions and also get to develop passions as they move through their journeys, as they climb the pyramid or the ladder or the growth path. 
-
-
-
-
-It happens when they stumble upon opportunities along the way — events that resonate with the entrepreneur's identity or that form a new identity. As the entrepreneur progresses on the journey of discovery and refinement, they better see the art being carved out of the stone and their identity — feeling like a deserving or rightful owner, or protagonist of the discovery, of what they saw, vision. That is, proud but also responsible, or the one carrying that flag.
-
-
-
-
-
-
-
-<!--
-@meta @outline 
-* outline - Vision or calling by Steve Blank - consider option x
---> 
-
-
-> *"Both founders and entrepreneurial employees prefer to build something from the ground up rather than join an existing company. Like jazz musicians or improv actors, they prefer to operate in a chaotic environment with multiple unknowns. They sense the general direction they’re headed in, OK with uncertainty and surprises, using the tools at hand, along with their instinct to achieve their vision. These types of people are rare, unique and crazy. They’re artists."* (Blank, Steve., 2011)
-
-<!-- 
-@meta @references 
-* reference - Blank, S. (2011, March 31). Entrepreneurship is an Art not a Job. Steve Blank. https://steveblank.com/2011/03/31/entrepreneurship-is-an-art-not-a-job/
+* Situation - Calling of Steve Blank, illustration. [Feat. SB]
 --> 
 
 
@@ -204,12 +173,11 @@ It happens when they stumble upon opportunities along the way — events that re
 
 
 
-<!--
-@meta @outline 
-* outline - Vision or calling by Steve Blank - consider option x
---> 
+But as we shift with the notion of a single vision to one that explores what drives them, we shall then celebrate the element of passion, or motivations, or aspirations, that can take over the founding team. This is about the right moment to invite the viewpoint from an entrepreneur, an investor, a professor of innovaton and entrepreneurship, a praticioner in the field of startups and known for having originated the the lean startup movement - Steve Blank [^steveblanklean]. 
 
-The renowned Steve Blank, pioneer of the lean movement [^steveblanklean] and creator of the process titled Customer Discovery (2005), when interviewed about a single piece of advice for founders, revealed in the video interview:
+[^steveblanklean]: Steve Blank is a renowned entrepreneur and academic recognized for being one of the pioneers of the Lean Startup movement. Blank, along with Eric Ries, helped define and propagate the Lean Startup philosophy, which proposes the creation of companies and products under conditions of extreme uncertainty. His work, characterized by "customer development" and the idea of "get out of the building," is a fundamental pillar of this methodology. Blank emphasizes the importance of validated learning, iterative product development, and rapid response to customer needs as key principles for innovation in startups.
+
+When asked to give a single piece of advice for founders, he had given first his perspective with the notion that being a founder is not a job as we know it. He had reported not believing that he was working in Silicon Valley and being paid to do what he would do for free (Blank, 2014) or that he might even pay to have the opportunity. If that notion is a bit not so normal to many people, we still have to agree that it gotta have something - as in to be driven by passions - to that that initial thing going, what keeps the gas tank full for the the journey where the odds are against, to climb the pyramid or the ladder, to go towards the expected situation of growth, or success, or one, but starting from zero: 
 
 > *"Founders is not a job, is a calling... This is not some job. The odds of you making money... versus working at McDonalds, it’s a much better bet that you will be making more money in your career working at McDonalds. You need to do what you are doing because you love it, because you can’t think of anything better to do with your life. And if that is not the case, don’t do this because it’s going to be a miserable 10 or 20 years. If you are looking at getting rich like the Facebook boys, or the Google boys, or whatever the hot startup is now, that is the wrong reason to do it. If you are chasing the money, I will guarantee you, the more you chase it, the further away is goes."* (Blank, 2014, 34:33)
 
@@ -218,7 +186,6 @@ The renowned Steve Blank, pioneer of the lean movement [^steveblanklean] and cre
 * Reference - Steve Blank at MAP14. (Published on Mar 13, 2014.) MAP14 Public Forum: Steve Blank [video]. Retrieved from https://www.youtube.com/watch?v=UFx2CQUTpYo
 --> 
 
-[^steveblanklean]: Steve Blank is a renowned entrepreneur and academic recognized for being one of the pioneers of the Lean Startup movement. Blank, along with Eric Ries, helped define and propagate the Lean Startup philosophy, which proposes the creation of companies and products under conditions of extreme uncertainty. His work, characterized by "customer development" and the idea of "get out of the building," is a fundamental pillar of this methodology. Blank emphasizes the importance of validated learning, iterative product development, and rapid response to customer needs as key principles for innovation in startups.
 
 
 
@@ -227,7 +194,28 @@ The renowned Steve Blank, pioneer of the lean movement [^steveblanklean] and cre
 
 
 
-Thus, we can recognize that among cases of success and grand ideas, there are many inventions and innovations attributed to founders who found themselves involved in a struggle for a cause. However, there are also many entrepreneurs who, even without such a strong cause, still feel on a mission or are in the process of forming their identities. Embedded in Steve Blank's premise - that the call is necessary - is also the idea that in this call, the founder becomes a victim of the future projections they make regarding what they do, as well as a victim of the projected identity. This may seem exaggerated, but the actions tied to identity pressure occur daily and can manifest in simple things that would go unnoticed.
+
+
+
+
+
+
+
+<!--
+@meta @outline 
+* Complication - Thesis 1 - Complication 
+--> 
+
+
+
+Thus, we can recognize that among cases of success and grand ideas, there are many inventions and innovations attributed to founders who found themselves involved in a struggle for a cause - or what some can say of being a vision. 
+
+However, there are also many entrepreneurs who, even without such a strong cause, still feel on a mission. Embedded in Steve Blank's idea - that the call is necessary. 
+
+Along with that, there is then the idea that in this call, or being driven or you name it, as much as these doers seem proactive, they might be in part reactive to their calling. 
+
+And in doing do, by the doing, the outcome of what they do, by the nature of what they do being a complex system of relationships with the external world, is both affected by who they are and shapes who they are. This may seem exaggerated, but the actions tied to identity pressure occur daily and can manifest in simple things that would go unnoticed.
+
 
 
 
@@ -250,10 +238,13 @@ Thus, we can recognize that among cases of success and grand ideas, there are ma
 
 
 
+
 <!-- 
 @meta @todo
 * @todo - p2 (Done, moved temporarily to the complication) - In Identity - Consider to remove the whole following because it does not connect with the actual point for this introduction which is to make a point about the calling - @meta-refid 7676-7474-9822-1200 
 --> 
+
+
 
 And from that a lot happens, such as the reported situation that they have failed and learned from their failures. Or even the situation, which confuses me, that sometimes all that happens appears to be like the hero's journey too. It also confuses me when I hear that reflective question - if you could call yourself back in time what would you tell to your younger self? For me, there is something messy about all of this from this situation that looks like we are essentially babysitting ourselves through the path of entrepreneurship and asking any other grown ups around that apparenty took care of babies too. 
 
