@@ -109,43 +109,28 @@ Cameron, J. (1992). The artist's way: A spiritual path to higher creativity. Jer
 
 McKee, R., & Gerace, T. (2018). Storynomics: story-driven marketing in the post-advertising world. New York, Twelve.
 
-<!-- 
-* 100 / 610_identity 
---> 
-
-Greylock Partners. (2015, November 30th), Blitzscaling 18: Brian Chesky on Launching Airbnb and the Challenges of Scale. Retrieved from https://www.youtube.com/watch?v=W608u6sBFpo / @ 020_rainbow_grayscale 
 
 <!-- 
 * 100 / 610_identity 
 --> 
 
-Blank, S. (2010, November 1st). No Business Plan Survives First Contact With A Customer – The 5.2 billion dollar mistake. Retrieved from https://steveblank.com/2010/11/01/no-business-plan-survives-first-contact-with-a-customer-%E2%80%93-the-5-2-billion-dollar-mistake/
+Galli, M. (2023, March 13). The History of Web Developers Tied to Browser Development. Hackernoon. https://hackernoon.com/the-history-of-web-developers-tied-to-browser-development 
 
-<!-- 
-* 100 / 610_identity 
---> 
-
-Blank, S. (2014, March 13). MAP14 Public Forum: Steve Blank [Video]. YouTube. https://www.youtube.com/watch?v=UFx2CQUTpYo
-
-<!-- 
-* 100 / 610_identity 
---> 
-
-Draper, B. (2017, November 9). Bill Draper: The Origins of Venture Capital in Silicon Valley. [Video]. YouTube. https://www.youtube.com/watch?v=QqwKuKKWiJ4
-
-<!-- 
-* 100 / 610_identity 
---> 
+Strategyn. (2024). The JTBD Framework. Retrieved February 15, 2024, from https://strategyn.com/jobs-to-be-done/customer-centered-innovation-map/
 
 Blank, S. (2011, March 31). Entrepreneurship is an Art not a Job. Steve Blank. https://steveblank.com/2011/03/31/entrepreneurship-is-an-art-not-a-job/
 
+Greylock Partners. (2015, November 30th), Blitzscaling 18: Brian Chesky on Launching Airbnb and the Challenges of Scale. Retrieved from https://www.youtube.com/watch?v=W608u6sBFpo / @ 020_rainbow_grayscale 
+
+Blank, S. (2010, November 1st). No Business Plan Survives First Contact With A Customer – The 5.2 billion dollar mistake. Retrieved from https://steveblank.com/2010/11/01/no-business-plan-survives-first-contact-with-a-customer-%E2%80%93-the-5-2-billion-dollar-mistake/
+
+Blank, S. (2014, March 13). MAP14 Public Forum: Steve Blank [Video]. YouTube. https://www.youtube.com/watch?v=UFx2CQUTpYo
+
+Draper, B. (2017, November 9). Bill Draper: The Origins of Venture Capital in Silicon Valley. [Video]. YouTube. https://www.youtube.com/watch?v=QqwKuKKWiJ4
+
 Michael Dearing. Greylock. (2015, October 8). Blitzscaling 03: Michael Dearing on Capitalism, Creativity, and Creative Destruction [video]. Retrieved from https://www.youtube.com/watch?v=3vCdfa_aeI8
 
-<!-- 
-100 / 610_identity
---> 
 Sen, A. (2006). Identity and Violence: The Illusion of Destiny. W. W. Norton & Company, Inc.
-
 
 Benjamin J. Warnicka, Charles Y. Murnieks, Jeffery S. McMullen, Wade T. Brooks. (2018). Passion for entrepreneurship or passion for the product? A conjoint analysis of angel and VC decision-making. Journal of Business Venturing Volume 33, Issue 3, May 2018, Pages 315-332. Retrieved from https://doi.org/10.1016/j.jbusvent.2018.01.002
 

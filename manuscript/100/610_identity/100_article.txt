@@ -102,7 +102,8 @@ With the sections below, we will start our reflection by looking at the journey 
 
 <!--
 @meta @outline 
-* Situation - Pitch to Driven by Vision? - Something appears to be what moves, sometime called a vision, or a calling. But it asks to move and it may be so that resources are not of financial order. It asks the team to move. 
+* Pitch and theme - Something drive us. It seems to be related with our identity, or self. [Feat. MG]  
+* Pitch and theme - Something drive us. It may not be vision as we normally see. [Feat. AG]
 --> 
 
 ## Driven by vision
@@ -113,7 +114,18 @@ With the sections below, we will start our reflection by looking at the journey 
 
 
 
-When I joined an accelerator program in 2016 I had a name - An "empresário" as we say in Brazil, the thing we put the form to describe our position if we run a business and pay taxes. In addition, I was an entrepreneur, as sort of artist, and a software developer. But then, right there in that new domain, a new name was coming my way. I have noticed it the day that they invited me to join a panel in front of their audience. As they needed a description to introduce me - what they call bio - I had given the standard one and it went along with the name of my company. But in the limelight and out of the suddeen I was surprised to see my name  highlighted as "an aspiring founder." I confesss I was sad and silently asked myself "where is *my* bio? But like the others I were there to develop a startup, driven by something else and not any title although the thing about how we see ourselves, and the impact of that, will go on for the duration of this chapter. 
+When I joined an accelerator program in 2016 I were wearing a badge or a title - "empresário" - the thing a Brazilian would put in a form to describe herself as a company owner that runs a tax-paying business. In addition, I was also an entrepreneur. And secretly I saw myself as a sort of artist. And not secretly although trying to hide those days, I was a software developer. But I also had other titles like Web Master from back in the days when the movie Jurrassic Park came out. And I discovered myself as a Web Developer too [^footnote_marciogalli_webdevelopers].
+
+[^footnote_marciogalli_webdevelopers]: In *The History of Web Developers Tied to Browser Development* (2023), I had had the opportunity to reflect about the emergence of the role known as the "web developer." That the environment, the emergence of browsers, have helped to shape the role. It seems to be, as we see people working, that the craft shapes them, to a certain degree. This may be the be observable in some corporate situations, like the corporations from the west from the late 1900s to and early 2000s. And it is likely what makes the perception of performance - assuming that their colleagues understand them, that their colleagues trust them, that they predict what they do and how they do - as much it makes them to create impactful outcomes - good or bad. 
+
+<!--
+@meta @references 
+* reference - Galli, M. (2023, March 13). The History of Web Developers Tied to Browser Development. Hackernoon. https://hackernoon.com/the-history-of-web-developers-tied-to-browser-development
+--> 
+
+But then, in that new domain and being accelerated as one would put it, a new name was coming my way. I noticed it the day they invited me to speak. Before the event, I gave them what they would call "the speaker's bio." Basically my name, that current title, and the name of my company. But as the limelight turned on I was surprised by the host's introduction - Marcio, an aspiring founder. I can't say I loved it. The first thing that went through my head was - Where is my bio thing? 
+
+But like the others being *accelerated*, I were there to focus on my startup and not to be worried about myself. The startup ahead needed me. The startup ahead needed me not to be driven by something else, like a title. So there it is, a reality seemed to be ahead and seemed to need me, to get the job done, to grow it. But then, and again, I were there, and we were there, feeling as we do, or conscious or aware about what we do, how we do, why we do, and who we are. 
 
 I will call that thing that drive us to be a vision, although here and for us in different way, far from that general idea of a vision where one is seeking after, like an idea like an outcome. I rather think of a vision of themselves, the thing that explains why someone that starts with a vision later can changed the vision and yet find herself thrilled. This may also go along with the note from Andy Grove, said in High Output Managemer, that vision is a lofty word: 
 
@@ -124,7 +136,17 @@ I will call that thing that drive us to be a vision, although here and for us in
 * @todo - p2 ( ) - In Identity - Check the quote from about vision being a lofty word from Andy from High Output Management or Only the Paranoid Survive. @meta-refid 6565-8686-1233-2234 
 --> 
 
-Still, entrepreneurs start there, the movement not still. Our aspirations, in the beginning, counts a lot, that "aspiring founder" idea might be true. There seems to be a value that counts, a motivation to act, or a calling that set us to do the job that has to be done. And since the one that does feels that they they can, it gotta in a way become a sort of value-anchor. I mean, we know the position that we are, and we know that there is something we can do, and we know that we are in it for something to happen, something to grow, some form of success is expected. Thus the thing we can be tied with a vision, or a mission, or as an aspiring founder, it is a state that founders can find themselves into.
+Still, an entrepreneur loves to get involved in the steps [^footnote_jtbd_jobsteps] of their startup's job to be done: She may love to "Determine their goals and plan resources," or loves to "Gather items and information needed to do the job," or loves to "Set up the environment to do the job," or loves to "Verify that they’re ready to perform the job," or loves to "Carry out the job,", or loves to "Assess whether the job is being successfully executed", or loves to "Make alterations to improve execution," or loves to "Finish the job or prepare to repeat it." Or she loves all of that too in a way or another. Whoever that is into that might be, indeed and as said, "an aspiring founder."
+
+[^footnote_jtbd_jobsteps]: The Job Map by Strategyn (2024) says that all kinds of jobs have 8 steps. From that fundamental thinking I got inspired to think about the job of making a startup, or the job of a team seeking to innovate by making a company. 
+
+<!--
+@meta @references 
+* Reference - Strategyn. (2024). The JTBD Framework. Retrieved February 15, 2024, from https://strategyn.com/jobs-to-be-done/customer-centered-innovation-map/
+--> 
+
+
+And since the one that does feels that they they can, it gotta in a way become a sort of value-anchor. I mean, we know the position that we are, and we know that there is something we can do, and we know that we are in it for something to happen, something to grow, some form of success is expected. Thus the thing we can be tied with a vision, or a mission, or as an aspiring founder, it is a state that founders can find themselves into.
 
 
 
