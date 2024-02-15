@@ -671,7 +671,7 @@ But what comes from the this space for transcendence is really about the vision 
 
 <!--
 @meta @outline 
-* Outline - Affairs with groups of representants, social capital as resource. #senamartya #identityviolence
+* Outline - On Social Capital - In the startup growth path, we do with affairs with entities, we reinforce passions and motivations, we find passions and motivations, from the performant worker. 
 -->
 
 ## Driven by social capital 
@@ -682,11 +682,9 @@ But what comes from the this space for transcendence is really about the vision 
 
 
 
-But then, after the considerations about the holistic journey from passion, the reflection from above where the identity needs to be free from the current passing passions, thus transcending motivations, we yet should then be concerned with the challenges that rises as move on into the path for growth - where we are set to do so by affiliations with groups or entities - where we can be equally motivated by the ties or affairs with colleagues, customers, mentors, advisors, and other voices even from systems but that nevertheless impact our behavior and shape to a certain degree who we are. 
+From the holistic journey that is defined and defines who we think we are - and the considerations that we are driven by passions and motivations - we know that it can take us into success if we we happend to be hyper aware about our passions and motivations, which otherwise we can be trapped up to the point of sinking the startup boat, the team, and even ourselves. 
 
-In reality, a solo founder may go seek to find a cofounder within a larger entrepreneurial or incubation entity that she had joined. Or an accelerator might be an opportunity. And there are all sorts of other entities that are dynamic, interactive, full of energy and showing alignment with the need of these founders. In other words, the possibility of affairs with external entities is not only evident of modern, networked, and rich ecosystem of entrepreneurship - where they will get from books to all sorts of supporting entities up to venture capital or other crowd supports -  but in fact realidily innevitable, as in difficult to avoid, as entrepreneurs understand they do seek, find, and acquire social capital. 
-
-In other words, the formation of the founder's identity is slow - as it is not launched out of the sudden as if it is a super hero's identity launched with the product launch - althought it is generally visible through the launches as of course successfyl launches attrach the limelight where all sorts of people are interested in looking at their situation from various perspectives such as to reflect about founder's identity. But in fact the identity formation goes along with the modern approach of entrepreneurship where interactions with entities happen along the way, which also goes well with the lean way of doing entrepreneurship where a lot more happens and where a potential growth ladder exists.  
+Now, and assuming that the boat is yet navigating and interested in growing it without pausing in a port of reflection, we shall then be concerned with how the environment will challenge our identities, which may sometimes look like it's a journey of self discovery but in fact we will maintain the consideration that it shapes our identities as entrepreneurs. Especially in this section, by the movement of affairs with affiliations or groups or entities, we will reflect on the development of ourselves is driven by motivations that have ties with these groups such as colleagues, customers, mentors, advisors, and other voices even from systems that now look like what validates our motivations. And in that context, we are interested in how those ties - and with that the motivations and passions - impact our behavior. How that shapes what we do, how we do, even to the point of shaping who we are.  
 
 
 
@@ -695,32 +693,7 @@ In other words, the formation of the founder's identity is slow - as it is not l
 
 <!--
 @meta @outline 
-* Outline - In Identity - In Social Capital - Pmarca on career advice as validation gathering - matches with Steve Blank's lean no lead. @meta-refid 7676-0909-8977-6553
-
-https://pmarchive.com/guide_to_career_planning_part0.html
-
-https://pmarchive.com/guide_to_career_planning_part1.html
-
-https://pmarchive.com/guide_to_career_planning_part2.html
-
-https://pmarchive.com/guide_to_career_planning_part3.html
-
---> 
-
-
-
-
-
-
-> *"In real life — as opposed to blogging — one of my least favorite things to do is give career planning advice. Most people who say they want career planning advice aren’t actually looking for advice — they just want validation of the path they have already chosen. Because of that, giving someone career planning advice is one of the surest ways to end up feeling like an a******"* 
-
-
-
-
-
-<!--
-@meta @outline 
-* Outline - In Identity - Case of growing with social capital of Marcio being part of an accelerator
+* Outline - On Social Capital - Situation - Case - Introducing Social Capital. Marcio being part of an accelerator and driven by the clapps. 
 --> 
 
 
@@ -751,37 +724,31 @@ It may be important, therefore, to recognize that the formation, or support for 
 
 
 
-
-
-
-
-
-
 <!--
 @meta @outline 
-* Situation - Andy when considering the work environment, see a connection with money, but a different kind of attachment with money and a call to connect with motivations. 
---> 
+* Outline - On Social Capital - Complication - Pmarca on career advice as validation may match with Steve's thoughts on attention disorder.
+-->
 
 
 
 
 
+> *"In real life — as opposed to blogging — one of my least favorite things to do is give career planning advice. Most people who say they want career planning advice aren’t actually looking for advice — they just want validation of the path they have already chosen. Because of that, giving someone career planning advice is one of the surest ways to end up feeling like an a******"* 
 
 <!--
 @meta @todo 
-* @todo - p2 ( ) - In Identity - Check the passage from Andy Grove from Only The Paranoid Survive, where he says that vision is a lofly word. @meta-refid 7575-9092-1233-9344
-* @todo - p2 ( ) - In Identity - Check and review the article from Andy Grove when he brought the subject of compensation and the pyramid of MAslow too - and motivations. @meta-refid 6565-8373-9383-1233
-* @todo - p2 ( ) - In Identity - Consider the thought from Andy Grove about performance of people tied to motivation - which is a management concern as indicated - which connects with Maslow / @meta-refid 6464-8373-9873-8474
--->
+* @todo - p2 ( ) - In Identity In Social Capital - Review Pmarca on career advice as validation gathering - matches with Steve Blank's lean no lead. @meta-refid 7676-0909-8977-6553
 
-Andy Grove, in *High Output Management*, having considered the work situation that might be in it because might be trying to maintain its motivation hierarchy pyramid intact. The work situation appears to be a place to get that going: 
+https://pmarchive.com/guide_to_career_planning_part0.html
 
-> *"Money has significance at all levels of Maslow's motivation hierarchy. As noted earlier, a person needs money to buy food, housing, and insurance policies, which are part of his physiological and safety/security needs. As one moves up the need hierarchy, money begins to mean something else - a measure of one's worth in a competitive environment. Earlier I have described a simple test that can be applied to determine the role money plays for someone. If the *absolute* amount of raise in salary is important, that person is probably motivated by physiological or safety security needs. If the *relative* amount of a raise - what he got compared to others - is the important issue, that person is likely to be motivated by self-actualization, because money here is a measure, not a necessity."* (Grove, A., 1999, p. 213)
+https://pmarchive.com/guide_to_career_planning_part1.html
 
-<!-- 
-@meta @references 
-* reference - Grove, Andrew. (1999). Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company. Crown Publishing.
+https://pmarchive.com/guide_to_career_planning_part2.html
+
+https://pmarchive.com/guide_to_career_planning_part3.html
+
 --> 
+
 
 
 
@@ -797,12 +764,41 @@ Andy Grove, in *High Output Management*, having considered the work situation th
 
 <!--
 @meta @outline 
-* Emotions - judges - Identification of tests and judges vs. narratives 
-* Emotions - judges - Poor judgment could happen 
-* Emotions - judges - Case of judge to step aside - Julia and Ayn   
+* Outline - On Social Capital - Key Answer - Rich ecosystem of validation, some real support, like money or customers or indicators and other investment supports creating illusions of motivation. 
+--> 
+
+
+
+
+
+
+
+The reality of this modern path for startups can well develop with a certain degree of structure such as the situation of a solo founder that seeks a cofounder in the larger entrepreneurial ecosystem. Or it maybe other kind of resource is is valued and offered by an incubation program. Or to join an accelerator program can be the opportunity. It appears to be the path to the truth when they develop affairs with various kinds of entities of the larger entrepreneurial ecoysystem - spaces that are dynamic, interactive, full of energy and that shows alignment with the need of these founders. In other words, the possibility of affairs with thse external entities becomes the work environment for moving into growth for the startup goals; but also a powerful and rich as it is networked, full of support, full or knowledge, rich in elements that can indeed catapult them up the ladder of growth. With that it comes the implication that as entrepreneurs seek, find, and acquire social capital; they get equally into it, driven by, affected by, which also validates not if they are going in the right direction but materializing who they are. 
+
+In other words, the formation of the founder's identity is slow - as it is not launched out of the sudden as if it is a super hero's identity launched with the product launch - althought it is generally visible through the launches as of course successfyl launches attrach the limelight where all sorts of people are interested in looking at their situation from various perspectives such as to reflect about founder's identity. But in fact the identity formation goes along with the modern approach of entrepreneurship where interactions with entities happen along the way, which also goes well with the lean way of doing entrepreneurship where a lot more happens and where a potential growth ladder exists.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+@meta @outline 
+* Outline - On Social Capital - Identification of tests and judges vs. narratives, Poor judgment could happen, Case of judge to step aside - Julia and Ayn. #investors #judgment #marcandreessen. 
 -->
 
 ### The self in the eyes of the beholder 
+
+
+
 
 
 
@@ -826,11 +822,26 @@ Consider the science and art of pitching, for example. When many say that knowin
 * reference - Y Combinator. (2016, October 25). Marc Andreessen at Startup School SV 2016 [Video]. Retrieved from https://www.youtube.com/watch?v=NEOR0AJsziE
 --> 
 
+
+
+
+
+
+
+
+
 The point here is that we are being judged by say "another point of view". In other words, judging ourselves all the time - all that we will do. When we craft a pitch, even before it is not shown to other, we do not even show and we read it as if we are a judge, an investors. Poor judgement right? It does not even have anything to do with the real outside world that, in the end of the day, it is going to read, to judge. 
 
 Thus, it is up to us to keep track with methods that can support us to advance, to judge and judge it right, and judge in the right time. One theme in this theme is when to judge for execution of projects. Since a startup acts supposedly faster, things that really complicated as we are moving with specific tasks, when we are acting doing it. 
 
 The focus here I am looking at is activities that be broken, generate poor results, as we judge in realtime. Knowing when to judge is a reflection that I invite you to engage here. And in this regard, we can get help from one of the area that is one of the most complicated fields that involves creativity and execution - an area that when judgement comes into the act of doing, writing. Two ideas, that explores the same point where our conscious judge gets in our way. The goal of these lessons is to spark in us a light, the light of control. 
+
+
+
+
+
+
+
 
 <!-- taming the judge --> 
 
@@ -860,6 +871,38 @@ Therefore, it comes the point for us to reflect, to consider, that we will need 
 
 
 
+
+
+
+
+
+
+
+<!--
+@meta @outline 
+* Outline - On Social Capital - Support - Andy considers motivations and how money can bring basic needs or representation of needs at higher levels. 
+--> 
+
+
+
+
+
+
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Identity - Check the passage from Andy Grove from Only The Paranoid Survive, where he says that vision is a lofly word. @meta-refid 7575-9092-1233-9344
+* @todo - p2 ( ) - In Identity - Check and review the article from Andy Grove when he brought the subject of compensation and the pyramid of MAslow too - and motivations. @meta-refid 6565-8373-9383-1233
+* @todo - p2 ( ) - In Identity - Consider the thought from Andy Grove about performance of people tied to motivation - which is a management concern as indicated - which connects with Maslow / @meta-refid 6464-8373-9873-8474
+-->
+
+Andy Grove, in *High Output Management*, having considered the work situation that might be in it because might be trying to maintain its motivation hierarchy pyramid intact. The work situation appears to be a place to get that going: 
+
+> *"Money has significance at all levels of Maslow's motivation hierarchy. As noted earlier, a person needs money to buy food, housing, and insurance policies, which are part of his physiological and safety/security needs. As one moves up the need hierarchy, money begins to mean something else - a measure of one's worth in a competitive environment. Earlier I have described a simple test that can be applied to determine the role money plays for someone. If the *absolute* amount of raise in salary is important, that person is probably motivated by physiological or safety security needs. If the *relative* amount of a raise - what he got compared to others - is the important issue, that person is likely to be motivated by self-actualization, because money here is a measure, not a necessity."* (Grove, A., 1999, p. 213)
+
+<!-- 
+@meta @references 
+* reference - Grove, Andrew. (1999). Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company. Crown Publishing.
+--> 
 
 
 
@@ -986,7 +1029,7 @@ Next, we will delve into the implicit issue of identity in entrepreneurship. Thr
 
 <!--
 @meta @outline 
-* Outline - Emotions - Affected by narrative of heroism for the colleagues 
+Outline - On Social Capital - A.2 - Emotions - Challenging the superhero - Affected by narrative of heroism for the colleagues 
 -->
 
 #### Challenging the superhero
