@@ -11,7 +11,16 @@
 
 Am I an artist? That kind of question seems to be unlikely thought by entrepreneurs, especially if they're generally too busy in their craft. But there's something about artists and entrepreneurs that seems intriguing, because their worlds seem to be so close and so far from each other. I have wondered what would Steve Jobs do in 1475 if we were born in Caprese, Italy, and if Michelangelo and Bonarotti were born in Jobs Place, San Francisco, California, in 1955. As much as I want to think of Michelangelo being an entrepreneur, then I get a slap in the face by the consideration that Bonarotti could be a software engineer working at Google or that Steve of 1475 would have died too soon thus imortalized and known mostly for his first Apple scupture. 
 
-But there's still something between artists and entrepreneurs that can help us to understand better their behaviors, their personalities and their identities. I think the comparison with artists shows a pattern. And that's an invitation for us to consider the journey, because they start not being artists as they know of themselves, or not being entrepreneurs.
+But there's still something between artists and entrepreneurs that can help us to understand better their behaviors, their personalities and their identities. By considering the comparison with artists, I invite you to consider their journey, as they start may not be so clear that they are in fact artists or entrepreneurs. 
+
+<!--
+@meta @note 
+Brian Chesky of Airbnb [^footnote_brianchesky] said that entrepreneur wasn't a common word [^footnote_brianchesky_bob] for him in the beginning and that the only one he knew was Bob from Bob's pizza. 
+[^footnote_brianchesky]: Co-founder and CEO of Airbnb, Brian Chesky has become a leading figure in the tech industry, particularly within the sharing economy. Under his leadership, Airbnb has transformed from a simple idea of renting out air mattresses in a living room to a global platform offering unique accommodations and experiences. 
+[^footnote_brianchesky_bob]: In his talk on Blitzscaling, Brian Chesky mentioned Bob from Bob's Pizza as an example of an entrepreneur. https://youtu.be/W608u6sBFpo?si=MHVkBijl9I5DpAfC&t=99
+@meta @references
+* Reference - Greylock Partners. (Nov 30, 2015). Blitzscaling 18: Brian Chesky on Launching Airbnb and the Challenges of Scale [Blitzscaling 18: Brian Chesky fala do lançamento do Airbnb e os desafios de escalar] [Arquivo de vídeo]. Retrieved from https://www.youtube.com/watch?v=W608u6sBFpo
+-->
 
 There's no guarantee that they would get money, or acceptance or recognition to start with,  from that craft, but they do it in a way. In the beginning, the environment is chaotic but they have the foot on the ground, and they're interested in learning the craft as well. They also seem to have some eager spirit, as in, that no one can stop me from looking for the answers I seek. And if the horizon is gray, they see a rainbow, and they carve and they fail, and they do it again and again until they succeed. And then, that's when things seem to work, and the signal comes from what seemed to be noise before. Now, the other component that seems to exist has to do with the outcomes. I like to think about growth and not in terms of money, because that better explains the case of successful entrepreneurs and great artists as they achieve growth in the sense of connecting with their audiences, and some of them get lots of money as well, or recognition, you name it. They seem to be consistent in a way, to be validated, that what they have brought to the world is accepted by an audience, is embraced by the audience, call them consumers or users, it really doesn't matter. But now they have support in many aspects, that can be financcial, psychological, and even new sparks for enlightened new journeys. 
 
@@ -158,7 +167,7 @@ When asked to give a single piece of advice for founders, he had given first his
 
 Now if the above saying of Steve sounds as an extremme case, I insist in calling our attention to the essence for the phenomenon that sets in, where a notion of calling explains us driving our movement, and for that we gotta have passions and motivations, that are purely driven by the outcomes expected but it is the thing that keeps us going on as we do it, as we put our hands, as we carve, as we fail. It is even the thing that makes them to be happy with the idea of failing and failing til you succeed. 
 
-In other words, entrepreneurs might be productive or happy or good about with the things they do through the journey, the job steps [^footnote_jtbd_jobsteps] of their startup's journey. They may love to "Determine their goals and plan resources," or they enjoy to "Gather items and information needed to do the job," or like to "Set up the environment to do the job," or appreciate to "Verify that they’re ready to perform the job," or smile that they can "Carry out the job,", or have fun when they "Assess whether the job is being successfully executed", or are proud to "Make alterations to improve execution," or they worship when they "Finish the job or prepare to repeat it." Perhaps that "aspiring founder" thing really explains better what happens with their bio. 
+In other words, entrepreneurs might be productive or happy or good about with the things they do through the journey, the job steps [^footnote_jtbd_jobsteps] of their startup's journey. They may love to "Determine their goals and plan resources," or they enjoy to "Gather items and information needed to do the job," or like to "Set up the environment to do the job," or appreciate to "Verify that they’re ready to perform the job," or smile that they can "Carry out the job,", or have fun when they "Assess whether the job is being successfully executed", or are proud to "Make alterations to improve execution," or they worship when they "Finish the job or prepare to repeat it."
 
 [^footnote_jtbd_jobsteps]: The Job Map by Strategyn (2024) says that all kinds of jobs have 8 steps. From that fundamental thinking I got inspired to think about the job of making a startup, or the job of a team seeking to innovate by making a company. 
 
@@ -177,21 +186,15 @@ In other words, entrepreneurs might be productive or happy or good about with th
 
 
 
-Furthermore, as this journey of interaction happens, they reinforce their calling too. The calling is a realization that they are inclined to, that have gas to put, that they are willing to press the pedal too. Now the gas might be a mix of motivations, passions, aspirations, needs, pains, dreams, moral values, and more. You name your mix. 
+Now, if you consider the journey of interaction that happens from the calling and the interactions that reinforces the calling, you realize a number of factors that makes it possible. Elements such as passions and aspirations and needs, pains, dreams and moral values and motivations, those can be the mix that makes the calling possible.
 
-On the good side, we may recognize the kind of passion that - when taken by the stories of success - supports the execution of the successful entrepreneur to execute from visions, to engage teams, and to face challenging situations which depends on improved awareness, or conscious execution. On the bad side, although more effort has to be put in place as these stories are less shiny, the extremme reveals a passion that harms, that is of an obsessive nature, which can control the entrepreneur and bring toxicity to the team culture, and moreover can prevent awareness, which can destroy teams, and harm growth for the business, and important to say harms the well-being. 
+Moreover, and looking from the optimistic perspective, it is generally accepted that these elements are major in making the calling possible, especially under the circumstances that in the beginning there is nothing there, there's no guarantee, it's not a job, there's no paycheck. And mainly there is this idea of this sort of what I have called the vision, that it's the thing that engages teams, helping them to go through the challenging situations and the paths of uncertainties and towards growth, and eventually towards more conscious execution.
 
+On the negative side, these elements may also take and set such a kind of calling that takes entrepreneurs and their teams into challenging situations because of their own behaviors. Under those circumstances, it could be the passion that harms, such as of an obsessive nature, or the behaviors where the entrepreneur are in control, or situations where toxicity is brought to the team culture, such as to prevent awareness and destroy teams and harm growth for the business, and even for themselves, their well-beings.
 
-
-
-If any of this essence appears in the life of a worker, such as a worker that feels good about what they do, it may be even more apparent in the life of the entrepreneur as they are known to passionated, or in love, or too involved, or enamorated with their idea, some of them with the process.
-
+In the next sessions, we're going to consider two viewpoints. The first from the entrepreneur side, considering that they can be in passion with these aspects that can set them to be too involved in the process or enamorated with the idea or focusing too much on the product side, the passions that can set them in a specific direction miss the whole growth curve. And then the other viewpoint from the vision of the investors or the gatekeepers of growth, which are equally concerned about the behaviors of founders and teams, their identities. And as much as they appreciate their passion, they know that can be a fuel to bring them harm, can prevent the whole business into the growth situation due to obsessions, such as that can cause destruction to the business and the growth situations, if not the well-being of entrepreneurs.
 
 
-Plus, as indicated by the view from Steve which also has a wider view from the above - from the support systems from the ecosystem like investors - it is necessary for the growth, it is the basic unit that set them to action, it is necessary, it is expected. 
-
-
-Thus, if the founder is a car and identity their road then passion might be the fuel that seems to appear to support the drive, or what drives us to accelerate. But while founders can put it in metaphorical terms, which can be quite innacurate or confusing, and while practitioners recognize that they can't do it without loving it, the concerns about passions and identity are greatly appreciated by the minds who happen to be the gatekeepers of growth - the real stakeholders like investor's role - because the very same potential that fuel adds pressure, as well adds risk as one does act in front of the external world and under pressures, such as pressures of growth of a startup, which may force the result of a drive that can either go in harmony and bring opportunity or may on the other extremme  and driven by obsession cause destruction to the business needs of growth but also to the well-being of the entrepreneurs.  
 
 
 
@@ -467,158 +470,6 @@ In Entrepreneurship Through the Lens of Venture Capital (Stanford, 2013), Howard
 
 
 
-
-<!--
-@meta @outline 
-* Holistic concern - Reflection on growth performants 
---> 
-
-### Reflection on growth performants 
-
-
-
-
-
-<!--
-@meta @outline 
-* Holistic concern - The work forms an identity [feat. Maslow]
---> 
-
-
-
-
-
-
-Now consider a successful entrepreneur - or a successful manager or successful worker - or in essence one that feels good with what they do, with the execution. It might be observable a certain relationship with what they do, with why they do, with how they do. Through this relationship with work or through activities we may get an idea of who they are, their identity. They happen to see themselves by that act of working. With that, assuming a stable journey of work - a good weekly cadence such as 6 hours per day - it can be fairly considered that ther work journey shapes who they are, their identities. Some of this may resonate with the reflections from Abraham Maslow from when he was invited to reflect about the work situation during a summer at Non-linear Systems in California, when he said that "These highly evolved individuals assimilate their work into their identity into their self, i.e., work actually becomes part of the self part of the individual's definition of himself." (1998. p.1)
-
-<!--
-@meta @todo 
-* @todo - p1 (Done) - In Identity - Maslow and identity developed by work -  It might be worth it to point that Maslow indicator for the development of an identity in the work place could be challenged with the simple idea that people live a life beyond work. I think that Maslow's point has to be seen under the context in time that people used to be a lot in the same work space and under the isolated observation that there are situations which is likely to be the case, due to the points given such as when the work or team embraces the person. @meta-refid 1233-1234-4567-0987
--->
-
-<!-- 
-@meta @todo 
-* @todo - p1 ( ) - In Identity - Consider to read the paper that gives a bit of criticism to the situation of Non Linear Systems - https://www.jstor.org/stable/pdf/2352408.pdf - @meta-refid 1122-3322-3232-0909 
---> 
-
-Now while the reflection from Maslow were based in a work situation of a company considering an enlightened management during the 1960s,  Thus to think about a kind of work that supports the self comes from observations that there are, or in the ideal world it could exist, a situation of work that allows one to grow up in the ladder of the hierarchy of needs [^footnote_maslow_needs_hierarchy]: That given the phisiological needs satisfied, for example that the work pays health insurance, that the work is safe, and that a compensation enables the person to sustain a healthy life; and given a work that also brings psychological safety, where people are welcome to be themselves, where their creativivity can flowrish, where they are not pressured to be who they aren't, and given that the environment of colleagueship exists, and given that the work supports them all to work in harmonious ways, then it would be acceptable that a self development may happen and by that happening is it likely that the identity of self would be pushed further by the work situation. Or, promoted in a way by this healthy work environment. With that said, naturally this is not the only way where one continues to develop her identity; because social interactions of many forms may either promote that too such as when one is involved with multiple jobs or activities or one participates in a healthy community. 
-
-<!--
-@meta @todo 
-* @todo - p2 ( ) - In Identity - Review Marcio's footnote (footnote_maslow_needs_hierarchy) about Grove and Maslow - which he believes may also have links with Peter Drucker and Maslow - and check in High Output Management the part where Andy brings about Maslow ideas. Andy makes a point with a degree of objectiveness to make the point that observations from the work seem to resonate with Maslow. Andy wasn't extending anything of Maslow, of course. @meta-refid 7676-8383-0988-1233 
---> 
-
-[^footnote_maslow_needs_hierarchy]: The concept of human needs for motivation and development has been explored from both psychological and business perspectives. Abraham Maslow first introduced the hierarchy of needs in his 1943 paper "A Theory of Human Motivation" published in the Psychological Review, proposing a pyramid structure of human needs from physiological to self-actualization. Andy Grove, in his book "High Output Management," recognized the employees' basic needs as a foundation for higher productivity and self-actualization within the workplace. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-@meta @outline 
-* Holistic concern - Answer - Should MD note on stages apply here?
---> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-@meta @outline 
-* Question this - Can entrepreneurship be taught? Outline - Artists composers and performers 
---> 
-
-
-
-
-
-
-<!--
-@meta @todo 
-* @todo - p2 ( ) - In Identity - Entrepreneurship can be taught too, Steve agreed later, and Scott (check letter from Marcio to Scott @letter @meta-refid 6565-0202-9383-1233) had provided a prompt too. @meta-refid 6565-7575-0988-1234
--->
-
-<!--
-@meta @todo 
-* @todo - p2 ( ) - In Identity - Consider the Moral Drive and Romantic Art - of Ayn Rand - @meta-refid 2343-6574-3243-5544
--->
-
-
-
-
-
-<!--
-@meta @todo 
-* todo - p2 ( ) - In Identity - Check the split that Steve Blank made between Composers and Performers of an Orchestra from "Entrepreneurship is an Art not a Job" which from the inspiring and metaphorical aspect connects with that Benjamin Zander had said in his "The Transformative Power of Classical Music" TED talk. and  https://steveblank.com/2011/03/31/entrepreneurship-is-an-art-not-a-job/ https://steveblank.com/2011/04/09/entrepreneurs-are-artists/ and the comments from his commentators / @meta-refid 1222-3332-1212-3234
-* @todo - p2 ( ) - On Identity - Check cross use of composer case around the book which had referred to Steve Blank. 3290849824-49284928-4290849284901-4988234982394
---> 
-
-> *"We still don't know what makes composers. We understand the category of better performers. But founders it is still kind of misterious."* Steve Blank 
-
-
-> *"Founders fit the definition of a composer: they see something no one else does. And to help them create it from nothing, they surround themselves with world-class performers. This concept of creating something that few others see – and the reality distortion field necessary to recruit the team to build it – is at the heart of what startup founders do. It is a very different skill than science, engineering, or management. Entrepreneurial employees are the talented performers who hear the siren song of a founder’s vision. Joining a startup while it is still searching for a business model, they too see the promise of what can be and join the founder to bring the vision to life. Founders then put in play every skill which makes them unique – tenacity, passion, agility, rapid pivots, curiosity, learning and discovery, improvisation, ability to bring order out of chaos, resilience, leadership, a reality distortion field, and a relentless focus on execution – to lead the relentless process of refining their vision and making it a reality."* (Blank, 2011)
-
-Steve really touches the point of transcendence that embraces possibility, that unlocks the opportunity ahead, and supports the founders to not be trapped by any identity in a given moment, such as to be enamorated with an idea. 
-
-What if, the thought could be turned into as "We are just starting" again. Perhaps that is a way to escape the negative side of the calling. This escape hatch opens the way for growth, for the full realization, and towards leadership. But it isn't easy to see from outside what we do. For that, we need to first acknowledge that it is important - first step - and then with spirit of a true entrepreneur - volunteering to learn - we step up into to find our answers. In a way, the entrepreneur is a generator of an art, it becomes the art in progress in itself, thus she needs to become the curator of its arts. 
-
-<!-- 
-@meta @references 
-* reference - Blank, S. (2011, March 31). Entrepreneurship is an Art not a Job. Steve Blank. https://steveblank.com/2011/03/31/entrepreneurship-is-an-art-not-a-job/
---> 
-
-
-
-
-
-> *"The argument goes, “Well if it’s not tools then it must be…” But examples from teaching other creative arts are not promising. Music composition has been around since the dawn of civilization yet even today the argument of what “makes” a great composer is still unsettled. Is it the process (the compositional strategies used in the compositional process?) Is it the person (achievement, musical aptitude, informal musical experiences, formal musical experiences, music self-esteem, academic grades, IQ, and gender?)  Is it the environment (parents, teachers, friends, siblings, school, society, or cultural values?) Or is it constant practice (apprenticeship, 10,000 hours of practice?)*" (Blank, 2011)
-
-<!-- 
-@meta @references 
-* reference - Blank, S. (2011, March 31). Entrepreneurship is an Art not a Job. Steve Blank. https://steveblank.com/2011/03/31/entrepreneurship-is-an-art-not-a-job/
---> 
-
-
-
-
-
-
-
-
-
-
-
-<!--
-@meta @outline 
-* Outline - Infinite learner? Situation is of New Sport. Complication is Transition needs. Solution is humble. More than infinite learner, infinite apprentice. (p. 169)
--->
-
-<!--
-@meta @todo
-* @todo - p2 ( ) - In Identity - Consider some ideas from the Design of Your Life book by Stanford professors which used design thinking for career / @meta-refid 3234-5546-3333-8474
--->
 
 ### Humble identity
 
@@ -1280,6 +1131,7 @@ Now while the reflection from Maslow were based in a work situation of a company
 
 
 
+### Can entrepreneurship be taught?
 
 <!--
 @meta @outline 
