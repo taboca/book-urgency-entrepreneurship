@@ -1,5 +1,30 @@
 ##
 
+<!--
+@meta @notes 
+* Outline - Check - Preparation to answer?
+* Consider - Forces of belonging and motivations can blurr 
+* COnsider - Contextualize properly the business, why we should be concerned with this? Because we can fail, and fail big, and fail to a point we fail with ourselves too.
+* Prompt - What would be a complication that leads to the 3 points given? Vision-love-caling-source, identity growth, esaping. 
+--> 
+
+Now if we stick with their journey, call them entrepreneurs or artists, we can narrow our theme by asking if who they are - by the how they do in the what they do - influences themselves, their colleagues, and the future of their startups. Thus we can be concerned with the implications caused by the few that happens to start a journey of execution. With that, one issue has to do with the concerns if their behaviors can influence their startup growth, for good or bad, and themselves as citizens, and with that their well-being, for good or bad. Moreover, we should be concerned with their behavior, or characteristics or perceived identity, that rises from the entrepreneurial journey that happens to be influenced by the situation of their startups seeking growth. Thus, they shape and are shaped by their environment as they climb up a ladder of social capital, because they grab the attention and energy from their social environment, because of their affiliations, or agreements, or affairs, with groups that are valued as great supporters. And by that they essentially feed their identities which feeds back their organizations. From that, it rises the complicated possibility that they find themselves trapped, with the assumptions, with their behaviors, with the models that they use to answer new questions, with being supported by their own romantic notions or the support from what appears to be evidence. So they sometimes cannot let go, as they can't lose what they have, especially when what they have seems to be who they are. 
+
+
+> *"Many communitarian thinkers tend to argue that a dominant communal identity is only a matter of self-realization, not of choice. It is, however, hard to believe that a person really has no choice in deciding what relative importance to attach to the various groups to which he or she belongs, and that she must just 'discover' her identities, as if it were a purely natural phenomenon ( like determining whether it is day or night). In fact, we are all constantly making choices, if only implicitly, about the priorities to be attached to our different affiliations and associations. "* (Sen, 2006, p. 5)  
+
+<!-- 
+@meta @references 
+* reference - Sen, A. (2006). Identity and Violence: The Illusion of Destiny. W. W. Norton & Company, Inc.
+--> 
+
+<!--
+@meta @outline 
+* Outline - Introduction - Answer QKA 
+--> 
+
+##
+
 SOme comparison with artists, and attempt to suggest that they navigate with a bit chaotic but as good artists they leave chaos, transcend, find something they are more tuned to, and which also goes along with the validation from audiences. 
 
 A successful entrepreneur can be likened to an artist, in the sense of being successful in bringing a vision, a creation, to the world. However, the opposite is not true because not every artist reveals art to the world. This is because art remains art even when it is contained, incubated, when it is not flying - the artist does not cease to be an artist while learning. On the other hand, the artist-in-the-eyes-of-the-world works on refining their idea, so that their art makes sense to them and at the same time to their audience. Even though they often go through chaotic navigation, the good artist ceases to be chaotic as they build their identity and their work, their work; an identity that embraces and is embraced by the audience, perhaps not directly but as an audience confirms the production, then it is believed that that identity gives rise to the embraced product, that is, the identity is validated.
@@ -26,11 +51,4 @@ Entrepreneurship is an activity that involves not only a commercial motivation b
 As indicated in this video introduction to the course, inventions like basketball, braille, among others, and even technological solutions like Dropbox, were inventions generally emerged from the real people who lives through their challenges first hand [^footnote_edx_userinnovation]. In other words, personal causes. This premise, in the view of Eric von Hippel, is everywhere and is a phenomenon.
 
 [^footnote_edx_userinnovation]: The short introductory video for the MIT course entitled *User Innovation: A Path to Entrepreneurship* (2015, May 19), https://www.youtube.com/watch?v=LpBSY9_RyCg, contextualizes the phenomenon of User Innovation that is explored in the work of MIT professor Eric von Hippel. 
-
-
-
-
-
-
-
 
