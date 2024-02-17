@@ -98,57 +98,16 @@ With the sections below, we will start our reflection by looking at the journey 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-@meta @outline 
-* Outline - Situation - Introduction about vision, not vision 
---> 
-
-
-<!-- 
-@meta @todo
-* todo - p2 ( ) - In Identity - Intro Complication - Check map14 material of steve question if entrepreneurship can be taught? / @meta-refid 8877-1233-8474-4444
---> 
-
-And from that a lot happens, such as the reported situation that they have failed and learned from their failures, it comes what confuses me, that sometimes all that happens appears to be like the hero's journey too; but easy to say in retrospect - if you could call yourself back in time what would you tell to your younger self? For me, there is something messy about all of this from this situation that looks like we are essentially babysitting ourselves through the path of entrepreneurship and asking any other grown ups around that apparenty took care of babies too. 
-
-If any of this essence appears in the life of a worker, such as a worker that feels good about what they do, it may be even more apparent in the life of the entrepreneur as they are known to be more passionated, or more in love, with their activities. On the good side, we may recognize the kind of passion that - when taken by the stories of success - supports the execution of the successful entrepreneur to execute from visions, to engage teams, and to face challenging situations which depends on improved awareness, or conscious execution. On the bad side, although more effort has to be put in place as these stories are less shiny, the extremme reveals a passion that harms, that is of an obsessive nature, which can control the entrepreneur and bring toxicity to the team culture, and moreover can prevent awareness, which can destroy teams, and harm growth for the business, and important to say harms the well-being. 
-
-Thus, if the founder is a car and identity their road then passion might be the fuel that seems to appear to support the drive, or what drives us to accelerate. But while founders can put it in metaphorical terms, which can be quite innacurate or confusing, and while practitioners recognize that they can't do it without loving it, the concerns about passions and identity are greatly appreciated by the minds who happen to be the gatekeepers of growth - the real stakeholders like investor's role - because the very same potential that fuel adds pressure, as well adds risk as one does act in front of the external world and under pressures, such as pressures of growth of a startup, which may force the result of a drive that can either go in harmony and bring opportunity or may on the other extremme  and driven by obsession cause destruction to the business needs of growth but also to the well-being of the entrepreneurs.  
-
-
-
-
-
-
-
-
-
-
-
 <!--
 @meta @outline 
 * Outline - A vision for who we are doing it? [feat. AG] [feat. TU]
 --> 
 
+Let us assume that entrepreneurs, like artists, are following a vision. But I don't mean that kind of vision where one would be a followed of something envisioned as if they could commit to implementing the dots - as if they could get the dots that comes after the fact. I thankful for the analogies with artists because it helped me to shift away from that notion - as that is certainly not what artists do - is an idea I better consolidated when I read from Adam Grant, in Originals that Da Vinci had done about 1200 drawings, to name an example. 
 
+Let us assume a vision for how we see ourselves bringing ourselves into something that we might be onto it which we don't fully know of. Therefore, here and for us and far from the limelights, it might be a vision for a startup being executed by the self or the self executing a startup. 
 
-
-
-
-
-Let me call the thing that drive us a vision. Although here and for us, and far from the limelights, a vision different from that general idea that one that is seeking something or pursuing something that was envisioned. Let's think of a vision for the startup being executed by the self or the self executing a startup. At least I find comfort using that viewpoint because there are many that start *that* other kind of vision but then are caught doing it and doing it happily while their original vision has vanished. Another reason to set that typical vision aside was given by Andy Grove in *High Output Management* when he said that vision is a lofty word: 
+At least I find comfort using that viewpoint because there are many that start *that* other kind of vision but then are caught doing it and doing it happily while their original vision has vanished. Another reason to set that typical vision aside was given by Andy Grove in *High Output Management* when he said that vision is a lofty word: 
 
 > *""* (Grove, A., 1999, p. xxx)
 
@@ -157,43 +116,19 @@ Let me call the thing that drive us a vision. Although here and for us, and far 
 * @todo - p2 ( ) - In Identity - Check the quote from about vision being a lofty word from Andy from High Output Management or Only the Paranoid Survive. @meta-refid 6565-8686-1233-2234 
 --> 
 
-Still, an entrepreneur moves. Or they seem to be passioned when they get involved with the steps [^footnote_jtbd_jobsteps] of their startup's job to be done journey. They may love to "Determine their goals and plan resources," or they enjoy to "Gather items and information needed to do the job," or like to "Set up the environment to do the job," or appreciate to "Verify that they’re ready to perform the job," or smile that they can "Carry out the job,", or have fun when they "Assess whether the job is being successfully executed", or are proud to "Make alterations to improve execution," or they worship when they "Finish the job or prepare to repeat it." Perhaps that "aspiring founder" thing really explains better what happens with their bio. 
-
-[^footnote_jtbd_jobsteps]: The Job Map by Strategyn (2024) says that all kinds of jobs have 8 steps. From that fundamental thinking I got inspired to think about the job of making a startup, or the job of a team seeking to innovate by making a company. 
-
-<!--
-@meta @references 
-* Reference - Strategyn. (2024). The JTBD Framework. Retrieved February 15, 2024, from https://strategyn.com/jobs-to-be-done/customer-centered-innovation-map/
---> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
 
 <!--
 @meta @outline 
-* Outline - Calling of Steve Blank, illustration. [Feat. SB]
+* Outline - Calling
 --> 
 
 
 
 
-
-
-But as we shift with the notion of a single vision to one that explores what drives them, we shall then celebrate the element of passion, or motivations, or aspirations, that can take over the founding team. This is about the right moment to invite the viewpoint from an entrepreneur, an investor, a professor of innovaton and entrepreneurship, a praticioner in the field of startups and known for having originated the the lean startup movement - Steve Blank [^steveblanklean]. 
+But even if a static vision is not there, and if we envision ourselves doing it, yet we are not into it in any arbitrary way. This is about the right moment to invite the viewpoint from an entrepreneur, an investor, a professor of innovaton and entrepreneurship, a praticioner in the field of startups and known for having originated the the lean startup movement - Steve Blank [^steveblanklean]. 
 
 [^steveblanklean]: Steve Blank is a renowned entrepreneur and academic recognized for being one of the pioneers of the Lean Startup movement. Blank, along with Eric Ries, helped define and propagate the Lean Startup philosophy, which proposes the creation of companies and products under conditions of extreme uncertainty. His work, characterized by "customer development" and the idea of "get out of the building," is a fundamental pillar of this methodology. Blank emphasizes the importance of validated learning, iterative product development, and rapid response to customer needs as key principles for innovation in startups.
 
@@ -213,19 +148,50 @@ When asked to give a single piece of advice for founders, he had given first his
 
 
 
-
 <!--
 @meta @outline 
-* Outline - Complication - Passion exists and does the movement. But what kind of passion since we are baby sitting ourselves and the field gives no clue for what it takes. 
+* Outline - Complication - Passion exists and does the movement. 
 --> 
 
 
 
 
+Now if the above saying of Steve sounds as an extremme case, I insist in calling our attention to the essence for the phenomenon that sets in, where a notion of calling explains us driving our movement, and for that we gotta have passions and motivations, that are purely driven by the outcomes expected but it is the thing that keeps us going on as we do it, as we put our hands, as we carve, as we fail. It is even the thing that makes them to be happy with the idea of failing and failing til you succeed. 
+
+In other words, entrepreneurs might be productive or happy or good about with the things they do through the journey, the job steps [^footnote_jtbd_jobsteps] of their startup's journey. They may love to "Determine their goals and plan resources," or they enjoy to "Gather items and information needed to do the job," or like to "Set up the environment to do the job," or appreciate to "Verify that they’re ready to perform the job," or smile that they can "Carry out the job,", or have fun when they "Assess whether the job is being successfully executed", or are proud to "Make alterations to improve execution," or they worship when they "Finish the job or prepare to repeat it." Perhaps that "aspiring founder" thing really explains better what happens with their bio. 
+
+[^footnote_jtbd_jobsteps]: The Job Map by Strategyn (2024) says that all kinds of jobs have 8 steps. From that fundamental thinking I got inspired to think about the job of making a startup, or the job of a team seeking to innovate by making a company. 
+
+<!--
+@meta @references 
+* Reference - Strategyn. (2024). The JTBD Framework. Retrieved February 15, 2024, from https://strategyn.com/jobs-to-be-done/customer-centered-innovation-map/
+--> 
 
 
 
 
+<!--
+@meta @outline 
+* Outline - Complication - Locks and concerns for us and the growth folks. 
+--> 
+
+
+
+Furthermore, as this journey of interaction happens, they reinforce their calling too. The calling is a realization that they are inclined to, that have gas to put, that they are willing to press the pedal too. Now the gas might be a mix of motivations, passions, aspirations, needs, pains, dreams, moral values, and more. You name your mix. 
+
+On the good side, we may recognize the kind of passion that - when taken by the stories of success - supports the execution of the successful entrepreneur to execute from visions, to engage teams, and to face challenging situations which depends on improved awareness, or conscious execution. On the bad side, although more effort has to be put in place as these stories are less shiny, the extremme reveals a passion that harms, that is of an obsessive nature, which can control the entrepreneur and bring toxicity to the team culture, and moreover can prevent awareness, which can destroy teams, and harm growth for the business, and important to say harms the well-being. 
+
+
+
+
+If any of this essence appears in the life of a worker, such as a worker that feels good about what they do, it may be even more apparent in the life of the entrepreneur as they are known to passionated, or in love, or too involved, or enamorated with their idea, some of them with the process.
+
+
+
+Plus, as indicated by the view from Steve which also has a wider view from the above - from the support systems from the ecosystem like investors - it is necessary for the growth, it is the basic unit that set them to action, it is necessary, it is expected. 
+
+
+Thus, if the founder is a car and identity their road then passion might be the fuel that seems to appear to support the drive, or what drives us to accelerate. But while founders can put it in metaphorical terms, which can be quite innacurate or confusing, and while practitioners recognize that they can't do it without loving it, the concerns about passions and identity are greatly appreciated by the minds who happen to be the gatekeepers of growth - the real stakeholders like investor's role - because the very same potential that fuel adds pressure, as well adds risk as one does act in front of the external world and under pressures, such as pressures of growth of a startup, which may force the result of a drive that can either go in harmony and bring opportunity or may on the other extremme  and driven by obsession cause destruction to the business needs of growth but also to the well-being of the entrepreneurs.  
 
 
 
