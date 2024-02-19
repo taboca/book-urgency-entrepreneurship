@@ -1192,10 +1192,6 @@ However, in this interaction with the world, in the confrontation with changes, 
 
 
 
-<!--
-@meta @suggestion 
-* Suggestion - Should MD goggles, distortion, holistic view project science 
---> 
 
 <!--
 @meta @outline 
@@ -1424,6 +1420,14 @@ Productizing an idea depends on many factors such as vision and engineering capa
 @meta @outline 
 * Outline - Escape Hatch - Considerations on changing goggles (suggestion - add case of cognitive distortions)
 -->
+
+<!--
+@meta @suggestion 
+* Suggestion - Should MD goggles, distortion, holistic view project science 
+* Suggestion - Consider transitions of Michael 
+* Suggestion - Consider pre mortem 
+--> 
+
 
 ### Changing goggles 
 
