@@ -1,5 +1,25 @@
 ##
 
+
+
+
+<!--
+@meta @todo 
+* @todo - p2 (Done) - In Identity - Check the following referred page in the book of Andy Only the Paranoid Survive - @meta-refid 7676-4354-7333-8764
+--> 
+
+Andy Grove, in Only the Paranoid Survive (1999), explains a critical situation - he had referred as an strategic inflection point - that can be experienced by leadership teams of large companies. This inflection point is when a stabilized company, which has a product or service well established in the market, encounters a force that disrupts the equilibrium of the product or service. Most companies experiencing inflection points simply do not survive because the acting forces impacts them brutally. One can imagine the entity-company, on the sunny beach, when the waves start to change but the tsunami that is coming is not perceived. In these moments, sometimes decades before the tsunami, management teams experience sensations as difficult as those people feel when they loss a loved one — such as to defend their positions, to deny the early signs. 
+
+> *"If you are a senior manager, you probably got to where you are because you have devoted a large portion of your life to your trade, to your industry and to your company. In many instances, your personal identity is inseparable from your lifework. So, when your business gets into serious difficulties, in spite of the best attempts of business schools and management training courses to make you a rational analyzer of data, objective analysis will take second seat to personal and emotional reactions almost every time."* (Grove, A., 1999, pp. 123-124)
+
+<!-- 
+@meta @references 
+* reference - Grove, Andrew. (1999). Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company. [Só os Paranóicos Sobrevivem]. Crown Publishing.
+--> 
+
+
+##
+
 <!--
 @meta @notes 
 * Outline - Check - Preparation to answer?

@@ -109,7 +109,7 @@ With the sections below, we will start our reflection by looking at the journey 
 
 <!--
 @meta @outline 
-* Outline - A vision for who we are doing it? [feat. AG] [feat. TU]
+* Outline - Pitch - A vision for who we are doing it? It can't be normal vision [feat. AG] 
 --> 
 
 Let us assume that entrepreneurs, like artists, are following a vision. But I don't mean that kind of vision where one would be a followed of something envisioned as if they could commit to implementing the dots - as if they could get the dots that comes after the fact. I thankful for the analogies with artists because it helped me to shift away from that notion - as that is certainly not what artists do - is an idea I better consolidated when I read from Adam Grant, in Originals that Da Vinci had done about 1200 drawings, to name an example. 
@@ -131,7 +131,7 @@ At least I find comfort using that viewpoint because there are many that start *
 
 <!--
 @meta @outline 
-* Outline - Calling
+* Outline - Situation - Calling [feat. Steve Blank]
 --> 
 
 
@@ -159,30 +159,107 @@ When asked to give a single piece of advice for founders, he had given first his
 
 <!--
 @meta @outline 
-* Outline - Complication - Passion exists and does the movement. 
+* Outline - Complication - Passion motivation fusion -  
 --> 
+
+
 
 
 
 
 Now if the above saying of Steve sounds as an extremme case, I insist in calling our attention to the essence for the phenomenon that sets in, where a notion of calling explains us driving our movement, and for that we gotta have passions and motivations, that are purely driven by the outcomes expected but it is the thing that keeps us going on as we do it, as we put our hands, as we carve, as we fail. It is even the thing that makes them to be happy with the idea of failing and failing til you succeed. 
 
-In other words, entrepreneurs might be productive or happy or good about with the things they do through the journey, the job steps [^footnote_jtbd_jobsteps] of their startup's journey. They may love to "Determine their goals and plan resources," or they enjoy to "Gather items and information needed to do the job," or like to "Set up the environment to do the job," or appreciate to "Verify that they’re ready to perform the job," or smile that they can "Carry out the job,", or have fun when they "Assess whether the job is being successfully executed", or are proud to "Make alterations to improve execution," or they worship when they "Finish the job or prepare to repeat it."
 
-[^footnote_jtbd_jobsteps]: The Job Map by Strategyn (2024) says that all kinds of jobs have 8 steps. From that fundamental thinking I got inspired to think about the job of making a startup, or the job of a team seeking to innovate by making a company. 
 
-<!--
-@meta @references 
-* Reference - Strategyn. (2024). The JTBD Framework. Retrieved February 15, 2024, from https://strategyn.com/jobs-to-be-done/customer-centered-innovation-map/
---> 
+
+
+
+
+
+
 
 
 
 
 <!--
 @meta @outline 
-* Outline - Complication - Locks and concerns for us and the growth folks. 
+* Outline - Complication - Passion motivation fusion - Motivation Pyramid [feat. AG] [feat. Maslow]
 --> 
+
+
+
+
+
+
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Identity - Check the passage from Andy Grove from Only The Paranoid Survive, where he says that vision is a lofly word. @meta-refid 7575-9092-1233-9344
+* @todo - p2 ( ) - In Identity - Check and review the article from Andy Grove when he brought the subject of compensation and the pyramid of MAslow too - and motivations. @meta-refid 6565-8373-9383-1233
+* @todo - p2 ( ) - In Identity - Consider the thought from Andy Grove about performance of people tied to motivation - which is a management concern as indicated - which connects with Maslow / @meta-refid 6464-8373-9873-8474
+-->
+
+Andy Grove, in *High Output Management*, having considered the work situation that might be in it because might be trying to maintain its motivation hierarchy pyramid intact. The work situation appears to be a place to get that going: 
+
+> *"Money has significance at all levels of Maslow's motivation hierarchy. As noted earlier, a person needs money to buy food, housing, and insurance policies, which are part of his physiological and safety/security needs. As one moves up the need hierarchy, money begins to mean something else - a measure of one's worth in a competitive environment. Earlier I have described a simple test that can be applied to determine the role money plays for someone. If the *absolute* amount of raise in salary is important, that person is probably motivated by physiological or safety security needs. If the *relative* amount of a raise - what he got compared to others - is the important issue, that person is likely to be motivated by self-actualization, because money here is a measure, not a necessity."* (Grove, A., 1999, p. 213)
+
+<!-- 
+@meta @references 
+* reference - Grove, Andrew. (1999). Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company. Crown Publishing.
+--> 
+
+
+
+
+
+
+
+
+<!--
+@meta @outline 
+* Outline - Complication - Passion motivation fusion - Motivation Pyramid  [feat. Maslow]
+--> 
+
+
+
+
+
+
+
+
+Now consider a successful entrepreneur - or a successful manager or successful worker - or in essence one that feels good with what they do, with the execution. It might be observable a certain relationship with what they do, with why they do, with how they do. Through this relationship with work or through activities we may get an idea of who they are, their identity. They happen to see themselves by that act of working. With that, assuming a stable journey of work - a good weekly cadence such as 6 hours per day - it can be fairly considered that ther work journey shapes who they are, their identities. Some of this may resonate with the reflections from Abraham Maslow from when he was invited to reflect about the work situation during a summer at Non-linear Systems in California, when he said that "These highly evolved individuals assimilate their work into their identity into their self, i.e., work actually becomes part of the self part of the individual's definition of himself." (1998. p.1)
+
+<!--
+@meta @todo 
+* @todo - p1 (Done) - In Identity - Maslow and identity developed by work -  It might be worth it to point that Maslow indicator for the development of an identity in the work place could be challenged with the simple idea that people live a life beyond work. I think that Maslow's point has to be seen under the context in time that people used to be a lot in the same work space and under the isolated observation that there are situations which is likely to be the case, due to the points given such as when the work or team embraces the person. @meta-refid 1233-1234-4567-0987
+-->
+
+<!-- 
+@meta @todo 
+* @todo - p1 ( ) - In Identity - Consider to read the paper that gives a bit of criticism to the situation of Non Linear Systems - https://www.jstor.org/stable/pdf/2352408.pdf - @meta-refid 1122-3322-3232-0909 
+--> 
+
+Now while the reflection from Maslow were based in a work situation of a company considering an enlightened management during the 1960s,  Thus to think about a kind of work that supports the self comes from observations that there are, or in the ideal world it could exist, a situation of work that allows one to grow up in the ladder of the hierarchy of needs [^footnote_maslow_needs_hierarchy]: That given the phisiological needs satisfied, for example that the work pays health insurance, that the work is safe, and that a compensation enables the person to sustain a healthy life; and given a work that also brings psychological safety, where people are welcome to be themselves, where their creativivity can flowrish, where they are not pressured to be who they aren't, and given that the environment of colleagueship exists, and given that the work supports them all to work in harmonious ways, then it would be acceptable that a self development may happen and by that happening is it likely that the identity of self would be pushed further by the work situation. Or, promoted in a way by this healthy work environment. With that said, naturally this is not the only way where one continues to develop her identity; because social interactions of many forms may either promote that too such as when one is involved with multiple jobs or activities or one participates in a healthy community. 
+
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Identity - Review Marcio's footnote (footnote_maslow_needs_hierarchy) about Grove and Maslow - which he believes may also have links with Peter Drucker and Maslow - and check in High Output Management the part where Andy brings about Maslow ideas. Andy makes a point with a degree of objectiveness to make the point that observations from the work seem to resonate with Maslow. Andy wasn't extending anything of Maslow, of course. @meta-refid 7676-8383-0988-1233 
+--> 
+
+[^footnote_maslow_needs_hierarchy]: The concept of human needs for motivation and development has been explored from both psychological and business perspectives. Abraham Maslow first introduced the hierarchy of needs in his 1943 paper "A Theory of Human Motivation" published in the Psychological Review, proposing a pyramid structure of human needs from physiological to self-actualization. Andy Grove, in his book "High Output Management," recognized the employees' basic needs as a foundation for higher productivity and self-actualization within the workplace. 
+
+
+
+
+
+
+<!--
+@meta @outline 
+* Outline - Answer? - Locks and concerns for us and the growth folks. 
+--> 
+
+
+
+
 
 
 
@@ -202,10 +279,12 @@ In the next sessions, we're going to consider two viewpoints. The first from the
 
 <!--
 @meta @outline 
-* Harmonious obsessive - 
+* Harmonious or obsessive - entrepreneurs - 
 --> 
 
-### Something with obsession 
+### Interest in passion from entrepreneurs 
+
+
 
 
 
@@ -229,7 +308,37 @@ In the next sessions, we're going to consider two viewpoints. The first from the
 
 <!--
 @meta @outline 
-* Harmonious obsessive - Case of Marcio 
+* Harmonious or obsessive - entrepreneurs - intro to pssions through the job steps ladder 
+--> 
+
+
+
+
+
+In other words, entrepreneurs might be productive or happy or good about with the things they do through the journey, the job steps [^footnote_jtbd_jobsteps] of their startup's journey. They may love to "Determine their goals and plan resources," or they enjoy to "Gather items and information needed to do the job," or like to "Set up the environment to do the job," or appreciate to "Verify that they’re ready to perform the job," or smile that they can "Carry out the job,", or have fun when they "Assess whether the job is being successfully executed", or are proud to "Make alterations to improve execution," or they worship when they "Finish the job or prepare to repeat it."
+
+[^footnote_jtbd_jobsteps]: The Job Map by Strategyn (2024) says that all kinds of jobs have 8 steps. From that fundamental thinking I got inspired to think about the job of making a startup, or the job of a team seeking to innovate by making a company. 
+
+<!--
+@meta @references 
+* Reference - Strategyn. (2024). The JTBD Framework. Retrieved February 15, 2024, from https://strategyn.com/jobs-to-be-done/customer-centered-innovation-map/
+--> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+@meta @outline 
+* Harmonious or obsessive - entrepreneurs - Case of Marcio, entitlement 
 --> 
 
 
@@ -272,68 +381,7 @@ But like my colleagues being *accelerated*, I weren't there to be worried about 
 
 <!--
 @meta @outline 
-* Harmonious obsessive - Research explores passion for product vs. passion for entrepreneurship 
-* Harmonious obsessive - Research passions obsession 
---> 
-
-
-
-
-
-In this sense, the passions of entrepreneurs as seen by investors is also a subject of research, although it is certainly a challenge for researchers to understand the aspects of passions, or to find ways to assess the types of passions that determine more or less success in entrepreneurship. Yet, a window into this space is offered through the quantitative analysis by the research paper by Warnick, Murnieks, McMullen, and Brooks (Warnick, 2018,) which involved asking investors about the types of passions that capture the best investments. The approach in the research had considered the passion for entrepreneurship vs. passion for the product  [^footnote_research_passion_entrepreneurship_product], and its relevancy to investors, which are known traits assumed to be important if a team is interested in materializing innovation in the market. 
-
-[^footnote_research_passion_entrepreneurship_product]: Passion for entrepreneurship have to do with when the founder is aware, interested, engaged, and feels good, with the various aspects involved in the execution the entrepreneurial activities. While passion for the product is oriented to the drive that is motivated by the vision of a product or service. 
-
-
-
-
-
-
-Through the research by Bouizegarene et al. (2018), we might respect their intentions to explore how identity processes [^footnote_research_identity_processes] - the things we do that shape our identities - can have an effect in shaping on passions such as to become harmonious and obsessive, and if how that connects with the optimal functioning in society. 
-
-[^footnote_research_identity_processes]: Identity processes refer to dynamics which individuals form, maintain, and develop their sense of self or identity. In the research of Bouizegarene et al. (2018) focuses in two types of identity processes, namely identity integration and identity styles. 
-
-In other words, even if researchers go dig into the specifics and extremmes of driving with passion, their concern sets us to reflect on how we see ourselves, our roles, and how our sense of being in love with what we do  have an effect in our performance, which may sound good, but also on potential narrow views and perspectives.
-
-<!-- 
-@meta @references 
-* reference - Bouizegarene, N., Bourdeau, S., Leduc, C., Gousse-Lessard, A.-S., Houlfort, N., & Vallerand, R. J. (2018). We are our passions: The role of identity processes in harmonious and obsessive passion and links to optimal functioning in society. Self and Identity, 17(1), 56–74. https://doi.org/10.1080/15298868.2017.1321038
---> 
-
-
-
-
-
-
-<!--
-@meta @outline 
-* Harmonious obsessive - Can passion also support transcending? Such as passion with entrepreneurship?
--->
-
-
-
-
-
-
-
-An interesting finding in the study help us to understand how investors operate with the growth orientation and using a risk analysis mindset, especially being interested in how founders are driven by passion and interested in knowing when passion is too much to the point of the expected growth. In other words, and because of the flipside of being driven passion can be a risk, they interest may related to the theme of openness to feedback. In other words, without such level of awareness a top-tier investor - such as a top-tier angel investor or a top-tier VC partner involved- might be concerned. Therefore, and if we were in the mood of  jumping to conclusions, one can consider that investors check first how passionate entrepreneurs are, and then, secondly or more qualitatively, how much they are open to feedback in ways that they give up their strict views or behaviors driven by passion, which would be an openness to release themselves from what they know. 
-
-In other words, openness to feedback is a crucial element for investors to be able to help entrepreneurs to conquer their next steps. It follows from the research that blind passion, or unrestrained, can manifest as egocentrism, rigidity, or resistance; impacting the non-participation of investors. It is worth remembering that the role of the investor is the risk analyst of the business relationship with the external environment. In other words, a good investor is concerned about whether the entrepreneur is capable of listening to external feedback, as they know that the final word is from the market, or investors, or other gatekeepers of the growth curve. Thus, the role of investors is also a test, a validation, which is compatible with the various other validations such as the market/customers, competition, etc.
-
-It becomes clearer the view that entrepreneurship is science and art, which is born protagonized by entrepreneurs, passionate about art but equally passionate about science, who seek the balance of passions taking into account the connection with the environment where they produce and deliver their creations. Perhaps this formulation helps to explain the tendency of investors to trust more in teams of co-founders than in entrepreneurs who are alone, as probably, except for exceptions, solitary entrepreneurs are more intractable.
-
-
-
-
-
-
-
-
-
-
-<!--
-@meta @outline 
-* Harmonious obsessive - Through lean early interactions, baby ugly and team support or team elightened #moved #steve #lean #babyugly
+* Harmonious or obsessive - entrepreneurs - Motivated by the traction #babyugly #steveblank
 -->
 
 
@@ -350,6 +398,8 @@ Then it becomes apparent, not always at the critical moment, the rejection of th
 
 In another exploration, the entrepreneur maintains the status of their previous discovery, the pre-planned line, even when they go to the streets with the goal of discovering more about the problem/solution, for example, when they go out to conduct research, like listening to their potential customers. The situation is — the entrepreneur returns from "fieldwork," opens the door, and says to their colleagues, "let's pivot!" claiming they heard the "feedback of the galaxies" because someone confirmed their theory, or maybe they were influenced by the pleasure of confirming some hypothesis, or the confirmation that the outlined work yielded positive results.
 
+
+
 It's worth reflecting on the various ways this phenomenon presents itself, as it can be toxic, especially in the case of the entrepreneur. For example, a subordinate employee could easily observe this scene and imagine that the entrepreneur is indeed being responsible — after all, the president went to the streets, sought out data, is honoring the relationship with the user, the consumer, the client, with the outside world. He didn’t just create this in his mind. It conveys a strong but dangerous idea.
 
 But probably this speed, this anxiety, or urgency characterizes the entrepreneur who is manipulating the data, or the interpretation of the data, is still reaffirming themselves and worse, believing so much in their own narrative to the point of trying to contaminate their collaborators - ah, the customers said the food needs more salt.
@@ -357,6 +407,33 @@ But probably this speed, this anxiety, or urgency characterizes the entrepreneur
 To better articulate this phenomenon, or syndrome, Steve Blank formulated the 72-Hour Rule: the founder is forbidden from returning from the streets and saying "let's pivot" for a period of 72 hours. After 72 hours, they reconsider what they heard.
 
 In order to explore this phenomenon and help teams to see themselves outside their bubble, Steve Blank has formulated what he calls the "72-hour rule," where the founder has to be forbidden to say "let's pivot" for a period of 72 hours from after they come from outside the builting with a great feedback. Steve's point deserves a bit of time more than usual because if we read it too fast, we may miss the point and think that it is a problem with the founder that went out of the building. It is with the team, isn't it? It is the team that is likely supports that founder in the first place, that moves so fast to go with it. It is the team that is anxiously in need for answers or real data. It may well be the team that recognized in the first place how mportant it was to go to the streets first, to help them to stop theorizing, to stop idealizing things. Go founder, go. So when the founder comes back and says, "let's pivot!" it is very much in many circumstances what the team really wants to hear. Therefore, prohibiting the founder to say that is a great advice to a subtle or quiet or fast but anxious inclination from the team to support that founder.
+
+
+
+
+
+
+
+
+
+
+#### Paradox of passion and humble identity of founders
+
+
+<!--
+@meta @outline 
+* Harmonious or obsessive - entrepreneurs - abstraction for paradox, set critic aside, bring back the critic  
+* Harmonious or obsessive - entrepreneurs - (suggestion - half case of Uber of east?)
+-->
+
+
+
+
+
+
+
+
+
 
 Now, with all of this by now, for me at least while I don't know about you, it seems that the original movement happens to be a confusing space of a self-babysitting effort. It looks like a paradox to consider when the movement starts like a calling - assuming it to be valid to a certain degree since the initial movement start generally with nothing or that it's not a job - but then that calling calls for falling. In other words, to consider that the merits of our own developments, as we progress to achieve clarity and certainties from the space of uncertainties, set us right there to potentally falling in traps. 
 
@@ -372,13 +449,77 @@ If I were a mathematician I would try formulate the problem by suggesting that t
 
 
 
-
 <!--
 @meta @outline 
-* Holistic concern - Investor's interest and growth risks. 
+* Harmonious or obsessive - entrepreneurs - taming the judge, set aside 
+-->
+
+
+
+
+
+
+"Aiming for that, I learned to write setting judgment aside and save a polish for later. I canned this new, freer writing "laying track." For the first time I gave myself emotional permission to do rough drafts and for those rough drafts to be, well, rough. " - (Cameron, 1998, p. 19)
+
+Now, another point of view for writing, from the *Art of Non-fiction*, is from Ayn Rand, the philosopher known for objectivism. She pointed that when writing, the act of engaging with editing when doing the first draft is a writing approach that leads to major complications, such as the conscious editor process that messes up with the subconscious that needs to write, to run smooth. 
+
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Identity - Add reference to The Art of Non-Fiction by Ayn Rand. @meta-refid 1233-6654-3333-1212 
 --> 
 
-### Investor's interest in passion 
+Looking at the writing moment of a writer, and stages, seems to give us a view of how we manage our activities, micro management where a judge comes into our way before. Both, Julia and Ayn Rand, as professional writers, acknowledges the necessity of the critic and editor that does the judgement job, of course. But the real point is when to call it. Julia Cameron added that for the situations that she was able to put her judge aside - "When I went back to polish, I found there wasn't that much to fix or change. A remarkable amount of my first-draft material withstood the test of later scrutinity. " (Cameron, 1998, p. 19)
+
+Therefore, it comes the point for us to reflect, to consider, that we will need to separate progressing from judgement to avoid the drama or confusion to when the actual development is happening. 
+
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Identity - Consider to check if the ideas from Michael Dearing referred as "editor-in-chief" could be applicable here. @meta-refid 7676-8795-9192-1233 
+--> 
+
+
+<!--
+@meta @references 
+* Reference - Cameron, J. (1998). The right to write. TarcherPerigee.
+-->
+
+
+
+
+
+
+
+
+
+
+
+<!--
+@meta @outline 
+* Harmonious or obsessive - entrepreneurs - Brian's case 
+-->
+
+
+
+
+
+
+Recovering our theme, we are yet in the context of when things start, looking at the characteristics of the individuals that forms the startup and how that impacts the future of their startup. We can recap that the parties involved might be onto a vision or a calling or you name it but anyway interested in making a new reality - to bring something new to the world. We have then slightly moved away from that idea of a prior vision, and of a totally formed identity of these doers where all that they do can be predicted, towards considering other characteristic factors of the average day, like their passions or motivations. That may ot may not yet set us to be concerned with our behaviors from our passions but are certainly the concerns for the gatekeepers of the startup growth - such as investors that want the passionated team but so so much to the point of not being open to feedback and aware of their behaviors. The paradox is then formed if we get to love and hate passion which is better than the blind devotion driven by passion and better than the full denial to passion. This is to be aware. Let us continue. 
+
+But if we think or recognize that complexity, or a fusion of opposite elements, our reaction to that would be so heated reaction  that we might consider it as elementary, and dismiss as not even a topic to be worried. But that does not mean that we are in peace. In the heat of the day, in the average day and in the field, we will feel in a way maybe our subconscious and innocent person inside will fear or sense that the greatest thing in us can be our worse enemy too. In other words, we are not in peace with that happens inside all of us when we sense the paradox of passion, the paradox we all know that take us to love so much to the point of being blind. It is in us, it's inherited. The being not in peace can take us too to pick a side, such as to believe too much in the doer believer, the performant, the achiever. Or to deny the great performant that operates with passion. Perhaps the world moves well because these sides can find each other, these sides marry each other, in business worlds or other worlds. 
+
+Now continuying with the entrepreneurs running their lighter train that is fueled by passions and motivations the reality from the stops on every station will always bring an outcome that changes them. In the case of failures, when perceived, a prompt for learning will likely be clear. But what can be not clear is when these doers perform a successful trip. As a trip started with uncertainty and passion, and if decisions and actions generated a potential and if feedback was great, then the next stop means recharging and certainly a transformation. This next stop is fundamentally something that supports the idea to "let the momentum grow!" 
+
+Conversely, there is no need to rain on our own parade, right? Now, for these individuals or doers laying tracks, if any resting happens in terms of the self, it happens more in the form of "that is it, this is who I am." So they quickly enter into another track, call it a mission or project or a role or the opportunity to perform again, and indeed run the risk of doing it greatly again, isn't it right? We generally invest in our best moves, isn't it right?
+
+This situation is generally far from any problem or paradox or darkness, as sensed by them. Because it's bright and it is rainbow in the first place by that very function we discussed where motivation comes from prior feedback. But also because of the corporate machine that asks for more movement. Thus it is induced too. I mean not exactly the small startup but the whole corporate machine of the world, the culture we live in, the fast-paced one. The culture that prompt us to engage first, to embrace the call to action first. To do it first and to do it again. The culture that asks us to fail and fail and fail as a way to learn and even set us to embrace failure as if had infinite resources. That narrative which coherently ask us to engage again and quick before thinking. Don't think, just do, your wing man will tell. 
+
+On the other hand, from the hand of growth which actually sets the real terms and pays for everything, we know from above that these doers don't have all the answers and they can't be right. The world doesn't see it that way. The real outcome from far is that it may be like a rainbow in the dark. That they are not know-it-all. That their know-it-all are actually formed, are shaped, by the very movement as they orbit too fast their new world. They can't be in peace to break their know-it-all as they have calculated that every hour on their world is seven years back on Earth. From the perspective of who they are, their identities as protagonists or heroes or pilots or pioneers and certainly not farmers, they can't see across the dimensions, they can't see that they are just a picture, that they are the image that they made, an image caught in time. 
+
+In a previous chapter, especifically in the section Infinite Apprentice, we have considered the advice from Brian Chesky and Reid Hoffman, the idea of the infinite learner, which brought up the challenges of a leader accross the growth stages. Brian reminded us that is not like one becoming more skilled in an art; and instead it has more to do with having to learn a new sport. Brian might be a good example that the infinite apprentice is connected with the an inner and humble spirit that enables transformation. For us, is a reminder to keep that fire on, the fire of being humble which opens the opportunity through the discovery phase, which they don't know fully yet how things are going to grow and how the realization will unfold. 
+
+But what comes from the this space for transcendence is really about the vision for how the discovery can find its place, how it can growth, with a system in place, with the performers to support, and that idea necessarily involves the growth of the individual, the transcendence of the identity, towards the identity of the leader, or in the words of Steve Blank, the role of a composer. Steve Blank recognized that founders find a vision on their paths, they are carriers of a call as much as they are onto a call: 
+
+
 
 
 
@@ -393,7 +534,25 @@ If I were a mathematician I would try formulate the problem by suggesting that t
 
 <!--
 @meta @outline 
-* Holistic concern - Not listening to listening, seed to growth #BillDrapper
+* Harmonious or obsessive - investors - 
+--> 
+
+### Interest in passion from investors
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+@meta @outline 
+* Harmonious or obsessive - investors - Bill Draper holistic 
 --> 
 
 
@@ -434,7 +593,7 @@ But when the situation - as indicated by the "I would do this even for free"  - 
 
 <!--
 @meta @outline 
-* Holistic concern - Fatal flow, models, risk investors #stanford 
+* Harmonious or obsessive - investors - Fatal flow, models, risk investors #stanford
 --> 
 
 
@@ -471,100 +630,77 @@ In Entrepreneurship Through the Lens of Venture Capital (Stanford, 2013), Howard
 
 
 
-### Humble identity
-
-
-
-
-
-
-Recovering our theme, we are yet in the context of when things start, looking at the characteristics of the individuals that forms the startup and how that impacts the future of their startup. We can recap that the parties involved might be onto a vision or a calling or you name it but anyway interested in making a new reality - to bring something new to the world. We have then slightly moved away from that idea of a prior vision, and of a totally formed identity of these doers where all that they do can be predicted, towards considering other characteristic factors of the average day, like their passions or motivations. That may ot may not yet set us to be concerned with our behaviors from our passions but are certainly the concerns for the gatekeepers of the startup growth - such as investors that want the passionated team but so so much to the point of not being open to feedback and aware of their behaviors. The paradox is then formed if we get to love and hate passion which is better than the blind devotion driven by passion and better than the full denial to passion. This is to be aware. Let us continue. 
-
-But if we think or recognize that complexity, or a fusion of opposite elements, our reaction to that would be so heated reaction  that we might consider it as elementary, and dismiss as not even a topic to be worried. But that does not mean that we are in peace. In the heat of the day, in the average day and in the field, we will feel in a way maybe our subconscious and innocent person inside will fear or sense that the greatest thing in us can be our worse enemy too. In other words, we are not in peace with that happens inside all of us when we sense the paradox of passion, the paradox we all know that take us to love so much to the point of being blind. It is in us, it's inherited. The being not in peace can take us too to pick a side, such as to believe too much in the doer believer, the performant, the achiever. Or to deny the great performant that operates with passion. Perhaps the world moves well because these sides can find each other, these sides marry each other, in business worlds or other worlds. 
-
-Now continuying with the entrepreneurs running their lighter train that is fueled by passions and motivations the reality from the stops on every station will always bring an outcome that changes them. In the case of failures, when perceived, a prompt for learning will likely be clear. But what can be not clear is when these doers perform a successful trip. As a trip started with uncertainty and passion, and if decisions and actions generated a potential and if feedback was great, then the next stop means recharging and certainly a transformation. This next stop is fundamentally something that supports the idea to "let the momentum grow!" 
-
-Conversely, there is no need to rain on our own parade, right? Now, for these individuals or doers laying tracks, if any resting happens in terms of the self, it happens more in the form of "that is it, this is who I am." So they quickly enter into another track, call it a mission or project or a role or the opportunity to perform again, and indeed run the risk of doing it greatly again, isn't it right? We generally invest in our best moves, isn't it right?
-
-This situation is generally far from any problem or paradox or darkness, as sensed by them. Because it's bright and it is rainbow in the first place by that very function we discussed where motivation comes from prior feedback. But also because of the corporate machine that asks for more movement. Thus it is induced too. I mean not exactly the small startup but the whole corporate machine of the world, the culture we live in, the fast-paced one. The culture that prompt us to engage first, to embrace the call to action first. To do it first and to do it again. The culture that asks us to fail and fail and fail as a way to learn and even set us to embrace failure as if had infinite resources. That narrative which coherently ask us to engage again and quick before thinking. Don't think, just do, your wing man will tell. 
-
-On the other hand, from the hand of growth which actually sets the real terms and pays for everything, we know from above that these doers don't have all the answers and they can't be right. The world doesn't see it that way. The real outcome from far is that it may be like a rainbow in the dark. That they are not know-it-all. That their know-it-all are actually formed, are shaped, by the very movement as they orbit too fast their new world. They can't be in peace to break their know-it-all as they have calculated that every hour on their world is seven years back on Earth. From the perspective of who they are, their identities as protagonists or heroes or pilots or pioneers and certainly not farmers, they can't see across the dimensions, they can't see that they are just a picture, that they are the image that they made, an image caught in time. 
-
-In a previous chapter, especifically in the section Infinite Apprentice, we have considered the advice from Brian Chesky and Reid Hoffman, the idea of the infinite learner, which brought up the challenges of a leader accross the growth stages. Brian reminded us that is not like one becoming more skilled in an art; and instead it has more to do with having to learn a new sport. Brian might be a good example that the infinite apprentice is connected with the an inner and humble spirit that enables transformation. For us, is a reminder to keep that fire on, the fire of being humble which opens the opportunity through the discovery phase, which they don't know fully yet how things are going to grow and how the realization will unfold. 
-
-But what comes from the this space for transcendence is really about the vision for how the discovery can find its place, how it can growth, with a system in place, with the performers to support, and that idea necessarily involves the growth of the individual, the transcendence of the identity, towards the identity of the leader, or in the words of Steve Blank, the role of a composer. Steve Blank recognized that founders find a vision on their paths, they are carriers of a call as much as they are onto a call: 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-@meta @outline 
-* Outline - On Social Capital - In the startup growth path, we do with affairs with entities, we reinforce passions and motivations, we find passions and motivations, from the performant worker. 
--->
-
-## Driven by social capital 
-
-
-
-
-
-
-
-From the holistic journey that is defined and defines who we think we are - and the considerations that we are driven by passions and motivations - we know that it can take us into success if we we happend to be hyper aware about our passions and motivations, which otherwise we can be trapped up to the point of sinking the startup boat, the team, and even ourselves. 
-
-Now, and assuming that the boat is yet navigating and interested in growing it without pausing in a port of reflection, we shall then be concerned with how the environment will challenge our identities, which may sometimes look like it's a journey of self discovery but in fact we will maintain the consideration that it shapes our identities as entrepreneurs. Especially in this section, by the movement of affairs with affiliations or groups or entities, we will reflect on the development of ourselves is driven by motivations that have ties with these groups such as colleagues, customers, mentors, advisors, and other voices even from systems that now look like what validates our motivations. And in that context, we are interested in how those ties - and with that the motivations and passions - impact our behavior. How that shapes what we do, how we do, even to the point of shaping who we are.  
-
-
-
-
-
-
-<!--
-@meta @outline 
-* Outline - On Social Capital - Situation - Case - Introducing Social Capital. Marcio being part of an accelerator and driven by the clapps. 
+<!-- 
+@meta @todo
+* @todo - p2 ( ) - In Identity - Bring the story from Brad Feld from Scale-ups about the situation where the CEO from the east company of online cabs, yellow cabs, had refused to close a deal with Sequoia. @meta-refid 6565-9898-9385-1233
 --> 
 
 
 
 
 
-I will give you an example. An local accelerator system is a partner that is there to challenge, to motivate, to educate to a certain degree, to leverage the founding team's potential. Some of the accelerator programs, such as early stages, can start with the situation which they recognize as the aspiring founder. They might set the doer in the direction of coming up with 3 ideas in the beginning and then they will have to participate in an event to pitch - in front of judges that in a way represent investor's or the gatekeepers of growth - their best option. This might be just an exercise in the beginning of the program. Thus, they sort of create an artificial acceleration situation with a pressure that is seen as positive. Now, the founding team might well get feedback. In one of the situations that I had participated, I recall from the feedback I had collected before the pitch that my second idea had produced increased level of growth in the pupils of some of the local mentors. The idea had to do with a way for Brazilians to split the bill of the restaurant table more easily. But then, I had decided to move on with a slides platform. Or yet another slides platform. My pitch could not convince the local judges so I got a bad grade and even a punishment exercise for having failed the pitch. 
 
-But some others passed with good scores, and stronger claps too, and I think that they became more tied to that identity. What really changes is that they moved from aspiring entrepreneurs to teams executing a certain idea now supported by the stamp of a program entitled - put that Silicon Valley branded accelerator stamp here. 
 
-It comes from this growth with social capital that not only their identities are shaped but are in a way assumed as critical. It can happen. When they find into it, they perceive as a value, and of course the implied challenge that values can't be taken. Thus, it may be so that they use time to not only seek and join these affairs but also nurture their identities and associations after all it is what protects them. 
 
-And it does so, even so and so that they can also get into trouble. 
 
-> *"Our focus on particular identities can enrich our bonds and make us do many things for each other and can help to take us beyond our self-centered lives. The recent literature on 'social capital,' powerfully explored by Robert Putnam and others, has brought out clearly enough how an identity with others in the same social community can make the lives of all go much better in that community; a sense of belonging to a community is thus seen as a resource - like capital."* (Sen, 2006, p.2) 
+
+
+
+<!--
+@meta @outline 
+* Harmonious or obsessive - investors - Kinds of passions - Research supports 
+--> 
+
+
+
+
+
+In this sense, the passions of entrepreneurs as seen by investors is also a subject of research, although it is certainly a challenge for researchers to understand the aspects of passions, or to find ways to assess the types of passions that determine more or less success in entrepreneurship. Yet, a window into this space is offered through the quantitative analysis by the research paper by Warnick, Murnieks, McMullen, and Brooks (Warnick, 2018,) which involved asking investors about the types of passions that capture the best investments. The approach in the research had considered the passion for entrepreneurship vs. passion for the product  [^footnote_research_passion_entrepreneurship_product], and its relevancy to investors, which are known traits assumed to be important if a team is interested in materializing innovation in the market. 
+
+[^footnote_research_passion_entrepreneurship_product]: Passion for entrepreneurship have to do with when the founder is aware, interested, engaged, and feels good, with the various aspects involved in the execution the entrepreneurial activities. While passion for the product is oriented to the drive that is motivated by the vision of a product or service. 
+
+
+
+
+
+
+Through the research by Bouizegarene et al. (2018), we might respect their intentions to explore how identity processes [^footnote_research_identity_processes] - the things we do that shape our identities - can have an effect in shaping on passions such as to become harmonious and obsessive, and if how that connects with the optimal functioning in society. 
+
+[^footnote_research_identity_processes]: Identity processes refer to dynamics which individuals form, maintain, and develop their sense of self or identity. In the research of Bouizegarene et al. (2018) focuses in two types of identity processes, namely identity integration and identity styles. 
+
+In other words, even if researchers go dig into the specifics and extremmes of driving with passion, their concern sets us to reflect on how we see ourselves, our roles, and how our sense of being in love with what we do  have an effect in our performance, which may sound good, but also on potential narrow views and perspectives.
 
 <!-- 
 @meta @references 
-* reference - Sen, A. (2006). Identity and Violence: The Illusion of Destiny. W. W. Norton & Company, Inc.
+* reference - Bouizegarene, N., Bourdeau, S., Leduc, C., Gousse-Lessard, A.-S., Houlfort, N., & Vallerand, R. J. (2018). We are our passions: The role of identity processes in harmonious and obsessive passion and links to optimal functioning in society. Self and Identity, 17(1), 56–74. https://doi.org/10.1080/15298868.2017.1321038
 --> 
 
-It may be important, therefore, to recognize that the formation, or support for an an identity, hasn't ties with product identity, such as ties associated with the vision. These ties also lies in self-efficacy, self performance, self-esteem, that they develop through the execution. 
+
+
+
+
+
+<!--
+@meta @outline 
+* Harmonious or obsessive - investors - Kinds of passions - Research supports part 2
+-->
+
+
+
+
+
+
+
+An interesting finding in the study help us to understand how investors operate with the growth orientation and using a risk analysis mindset, especially being interested in how founders are driven by passion and interested in knowing when passion is too much to the point of the expected growth. In other words, and because of the flipside of being driven passion can be a risk, they interest may related to the theme of openness to feedback. In other words, without such level of awareness a top-tier investor - such as a top-tier angel investor or a top-tier VC partner involved- might be concerned. Therefore, and if we were in the mood of  jumping to conclusions, one can consider that investors check first how passionate entrepreneurs are, and then, secondly or more qualitatively, how much they are open to feedback in ways that they give up their strict views or behaviors driven by passion, which would be an openness to release themselves from what they know. 
+
+In other words, openness to feedback is a crucial element for investors to be able to help entrepreneurs to conquer their next steps. It follows from the research that blind passion, or unrestrained, can manifest as egocentrism, rigidity, or resistance; impacting the non-participation of investors. It is worth remembering that the role of the investor is the risk analyst of the business relationship with the external environment. In other words, a good investor is concerned about whether the entrepreneur is capable of listening to external feedback, as they know that the final word is from the market, or investors, or other gatekeepers of the growth curve. Thus, the role of investors is also a test, a validation, which is compatible with the various other validations such as the market/customers, competition, etc.
+
+It becomes clearer the view that entrepreneurship is science and art, which is born protagonized by entrepreneurs, passionate about art but equally passionate about science, who seek the balance of passions taking into account the connection with the environment where they produce and deliver their creations. Perhaps this formulation helps to explain the tendency of investors to trust more in teams of co-founders than in entrepreneurs who are alone, as probably, except for exceptions, solitary entrepreneurs are more intractable.
+
+
+
+
+
 
 
 
@@ -575,7 +711,7 @@ It may be important, therefore, to recognize that the formation, or support for 
 
 <!--
 @meta @outline 
-* Outline - On Social Capital - Complication - Pmarca on career advice as validation may match with Steve's thoughts on attention disorder.
+* Harmonious or obsessive - investors - Pmarca on career advice
 -->
 
 
@@ -611,40 +747,11 @@ https://pmarchive.com/guide_to_career_planning_part3.html
 
 
 
-<!--
-@meta @outline 
-* Outline - On Social Capital - Key Answer - Rich ecosystem of validation, some real support, like money or customers or indicators and other investment supports creating illusions of motivation. 
---> 
-
-
-
-
-
-
-
-The reality of this modern path for startups can well develop with a certain degree of structure such as the situation of a solo founder that seeks a cofounder in the larger entrepreneurial ecosystem. Or it maybe other kind of resource is is valued and offered by an incubation program. Or to join an accelerator program can be the opportunity. It appears to be the path to the truth when they develop affairs with various kinds of entities of the larger entrepreneurial ecoysystem - spaces that are dynamic, interactive, full of energy and that shows alignment with the need of these founders. In other words, the possibility of affairs with thse external entities becomes the work environment for moving into growth for the startup goals; but also a powerful and rich as it is networked, full of support, full or knowledge, rich in elements that can indeed catapult them up the ladder of growth. With that it comes the implication that as entrepreneurs seek, find, and acquire social capital; they get equally into it, driven by, affected by, which also validates not if they are going in the right direction but materializing who they are. 
-
-In other words, the formation of the founder's identity is slow - as it is not launched out of the sudden as if it is a super hero's identity launched with the product launch - althought it is generally visible through the launches as of course successfyl launches attrach the limelight where all sorts of people are interested in looking at their situation from various perspectives such as to reflect about founder's identity. But in fact the identity formation goes along with the modern approach of entrepreneurship where interactions with entities happen along the way, which also goes well with the lean way of doing entrepreneurship where a lot more happens and where a potential growth ladder exists.  
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!--
 @meta @outline 
-* Outline - On Social Capital - Identification of tests and judges vs. narratives, Poor judgment could happen, Case of judge to step aside - Julia and Ayn. #investors #judgment #marcandreessen. 
+* Harmonious or obsessive - investors - Pmarca tests
 -->
-
-### The self in the eyes of the beholder 
 
 
 
@@ -692,31 +799,24 @@ The focus here I am looking at is activities that be broken, generate poor resul
 
 
 
-<!-- taming the judge --> 
 
-"Aiming for that, I learned to write setting judgment aside and save a polish for later. I canned this new, freer writing "laying track." For the first time I gave myself emotional permission to do rough drafts and for those rough drafts to be, well, rough. " - (Cameron, 1998, p. 19)
 
-Now, another point of view for writing, from the *Art of Non-fiction*, is from Ayn Rand, the philosopher known for objectivism. She pointed that when writing, the act of engaging with editing when doing the first draft is a writing approach that leads to major complications, such as the conscious editor process that messes up with the subconscious that needs to write, to run smooth. 
 
-<!--
-@meta @todo 
-* @todo - p2 ( ) - In Identity - Add reference to The Art of Non-Fiction by Ayn Rand. @meta-refid 1233-6654-3333-1212 
---> 
-
-Looking at the writing moment of a writer, and stages, seems to give us a view of how we manage our activities, micro management where a judge comes into our way before. Both, Julia and Ayn Rand, as professional writers, acknowledges the necessity of the critic and editor that does the judgement job, of course. But the real point is when to call it. Julia Cameron added that for the situations that she was able to put her judge aside - "When I went back to polish, I found there wasn't that much to fix or change. A remarkable amount of my first-draft material withstood the test of later scrutinity. " (Cameron, 1998, p. 19)
-
-Therefore, it comes the point for us to reflect, to consider, that we will need to separate progressing from judgement to avoid the drama or confusion to when the actual development is happening. 
-
-<!--
-@meta @todo 
-* @todo - p2 ( ) - In Identity - Consider to check if the ideas from Michael Dearing referred as "editor-in-chief" could be applicable here. @meta-refid 7676-8795-9192-1233 
---> 
 
 
 <!--
-@meta @references 
-* Reference - Cameron, J. (1998). The right to write. TarcherPerigee.
+@meta @outline 
+* Harmonious or obsessive - investors - case of listening - investors
 -->
+
+
+#### Humble identity of an investor 
+
+
+
+
+
+
 
 
 
@@ -729,8 +829,24 @@ Therefore, it comes the point for us to reflect, to consider, that we will need 
 
 <!--
 @meta @outline 
-* Outline - On Social Capital - Support - Andy considers motivations and how money can bring basic needs or representation of needs at higher levels. 
---> 
+* Outline - Social Capital - In the startup growth path, we do with affairs with entities, we reinforce passions and motivations, we find passions and motivations, from the performant worker. 
+-->
+
+## Driven by social capital 
+
+
+
+
+
+
+
+From the holistic journey that is defined and defines who we think we are - and the considerations that we are driven by passions and motivations - we know that it can take us into success if we we happend to be hyper aware about our passions and motivations, which otherwise we can be trapped up to the point of sinking the startup boat, the team, and even ourselves. 
+
+Now, and assuming that the boat is yet navigating and interested in growing it without pausing in a port of reflection, we shall then be concerned with how the environment will challenge our identities, which may sometimes look like it's a journey of self discovery but in fact we will maintain the consideration that it shapes our identities as entrepreneurs. Especially in this section, by the movement of affairs with affiliations or groups or entities, we will reflect on the development of ourselves is driven by motivations that have ties with these groups such as colleagues, customers, mentors, advisors, and other voices even from systems that now look like what validates our motivations. And in that context, we are interested in how those ties - and with that the motivations and passions - impact our behavior. How that shapes what we do, how we do, even to the point of shaping who we are.  
+
+
+
+
 
 
 
@@ -738,20 +854,34 @@ Therefore, it comes the point for us to reflect, to consider, that we will need 
 
 
 <!--
-@meta @todo 
-* @todo - p2 ( ) - In Identity - Check the passage from Andy Grove from Only The Paranoid Survive, where he says that vision is a lofly word. @meta-refid 7575-9092-1233-9344
-* @todo - p2 ( ) - In Identity - Check and review the article from Andy Grove when he brought the subject of compensation and the pyramid of MAslow too - and motivations. @meta-refid 6565-8373-9383-1233
-* @todo - p2 ( ) - In Identity - Consider the thought from Andy Grove about performance of people tied to motivation - which is a management concern as indicated - which connects with Maslow / @meta-refid 6464-8373-9873-8474
--->
+@meta @outline 
+* Outline - Social Capital - Situation - Introducing Social Capital. 
+--> 
 
-Andy Grove, in *High Output Management*, having considered the work situation that might be in it because might be trying to maintain its motivation hierarchy pyramid intact. The work situation appears to be a place to get that going: 
 
-> *"Money has significance at all levels of Maslow's motivation hierarchy. As noted earlier, a person needs money to buy food, housing, and insurance policies, which are part of his physiological and safety/security needs. As one moves up the need hierarchy, money begins to mean something else - a measure of one's worth in a competitive environment. Earlier I have described a simple test that can be applied to determine the role money plays for someone. If the *absolute* amount of raise in salary is important, that person is probably motivated by physiological or safety security needs. If the *relative* amount of a raise - what he got compared to others - is the important issue, that person is likely to be motivated by self-actualization, because money here is a measure, not a necessity."* (Grove, A., 1999, p. 213)
+
+
+
+
+
+I will give you an example. An local accelerator system is a partner that is there to challenge, to motivate, to educate to a certain degree, to leverage the founding team's potential. Some of the accelerator programs, such as early stages, can start with the situation which they recognize as the aspiring founder. They might set the doer in the direction of coming up with 3 ideas in the beginning and then they will have to participate in an event to pitch - in front of judges that in a way represent investor's or the gatekeepers of growth - their best option. This might be just an exercise in the beginning of the program. Thus, they sort of create an artificial acceleration situation with a pressure that is seen as positive. Now, the founding team might well get feedback. In one of the situations that I had participated, I recall from the feedback I had collected before the pitch that my second idea had produced increased level of growth in the pupils of some of the local mentors. The idea had to do with a way for Brazilians to split the bill of the restaurant table more easily. But then, I had decided to move on with a slides platform. Or yet another slides platform. My pitch could not convince the local judges so I got a bad grade and even a punishment exercise for having failed the pitch. 
+
+But some others passed with good scores, and stronger claps too, and I think that they became more tied to that identity. What really changes is that they moved from aspiring entrepreneurs to teams executing a certain idea now supported by the stamp of a program entitled - put that Silicon Valley branded accelerator stamp here. 
+
+It comes from this growth with social capital that not only their identities are shaped but are in a way assumed as critical. It can happen. When they find into it, they perceive as a value, and of course the implied challenge that values can't be taken. Thus, it may be so that they use time to not only seek and join these affairs but also nurture their identities and associations after all it is what protects them. 
+
+And it does so, even so and so that they can also get into trouble. 
+
+> *"Our focus on particular identities can enrich our bonds and make us do many things for each other and can help to take us beyond our self-centered lives. The recent literature on 'social capital,' powerfully explored by Robert Putnam and others, has brought out clearly enough how an identity with others in the same social community can make the lives of all go much better in that community; a sense of belonging to a community is thus seen as a resource - like capital."* (Sen, 2006, p.2) 
 
 <!-- 
 @meta @references 
-* reference - Grove, Andrew. (1999). Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company. Crown Publishing.
+* reference - Sen, A. (2006). Identity and Violence: The Illusion of Destiny. W. W. Norton & Company, Inc.
 --> 
+
+It may be important, therefore, to recognize that the formation, or support for an an identity, hasn't ties with product identity, such as ties associated with the vision. These ties also lies in self-efficacy, self performance, self-esteem, that they develop through the execution. 
+
+
 
 
 
@@ -763,10 +893,9 @@ Andy Grove, in *High Output Management*, having considered the work situation th
 
 <!--
 @meta @outline 
-* Outline - Emotions - Situation of lived heat, couldn't see. Can't go back in time. 
+* Outline - Social Capital - Complication - Living in emotions, doing it while trying to learn challenging  
 -->
 
-### Driven by emotion
 
 
 
@@ -790,8 +919,7 @@ scqa: key - experience emotions seem not tied with identity?
 
 <!--
 @meta @outline 
-* Outline - Emotions - Robert McKee explains, real life action.
-* Emotions - Complication, from that, is that by living we are conditioning anyway identity for more time. 
+* Outline - Social Capital - Complication - Robert McKee explains, real life action.
 -->
 
 
@@ -809,6 +937,39 @@ For McKee, in life, idea and emotion come separately. This view can help us expl
 
 Key point - see from far? Cold? Should this be here?
 --> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+@meta @outline 
+* Outline - Social Capital - Key Answer - Rich ecosystem of validation, some real support, like money or customers or indicators and other investment supports creating illusions of motivation. 
+--> 
+
+
+
+
+
+
+
+The reality of this modern path for startups can well develop with a certain degree of structure such as the situation of a solo founder that seeks a cofounder in the larger entrepreneurial ecosystem. Or it maybe other kind of resource is is valued and offered by an incubation program. Or to join an accelerator program can be the opportunity. It appears to be the path to the truth when they develop affairs with various kinds of entities of the larger entrepreneurial ecoysystem - spaces that are dynamic, interactive, full of energy and that shows alignment with the need of these founders. In other words, the possibility of affairs with thse external entities becomes the work environment for moving into growth for the startup goals; but also a powerful and rich as it is networked, full of support, full or knowledge, rich in elements that can indeed catapult them up the ladder of growth. With that it comes the implication that as entrepreneurs seek, find, and acquire social capital; they get equally into it, driven by, affected by, which also validates not if they are going in the right direction but materializing who they are. 
+
+In other words, the formation of the founder's identity is slow - as it is not launched out of the sudden as if it is a super hero's identity launched with the product launch - althought it is generally visible through the launches as of course successfyl launches attrach the limelight where all sorts of people are interested in looking at their situation from various perspectives such as to reflect about founder's identity. But in fact the identity formation goes along with the modern approach of entrepreneurship where interactions with entities happen along the way, which also goes well with the lean way of doing entrepreneurship where a lot more happens and where a potential growth ladder exists.  
+
+
+
+
+
+
 
 
 
@@ -844,7 +1005,7 @@ This path exists thanks also to another human factor, just like feeling. It stem
 
 <!--
 @meta @outline 
-* Outline - Emotions - Cases of roles an identity may be about build self-esteem 
+* Outline - Social Capital - roles and identity?
 -->
 
 ### Cases of roles of an identity 
@@ -878,7 +1039,7 @@ Next, we will delve into the implicit issue of identity in entrepreneurship. Thr
 
 <!--
 @meta @outline 
-Outline - On Social Capital - A.2 - Emotions - Challenging the superhero - Affected by narrative of heroism for the colleagues 
+* Outline - Social Capital - Challenging the superhero 
 -->
 
 #### Challenging the superhero
@@ -912,7 +1073,7 @@ This reinforces that beyond the issue of entrepreneurs' identity, there is also 
 
 <!--
 @meta @outline 
-* Outline - Emotions - Affected by tools
+* Outline - Social Capital - Affected by tools
 -->
 
 #### Challenging the superhero's tools 
@@ -941,33 +1102,10 @@ This reinforces that beyond the issue of entrepreneurs' identity, there is also 
 
 
 
-<!--
-@meta @outline 
-* Outline - Emotions - Affected by rich network - Challenging the superpowers  
--->
-
-#### Challenging the superpowers 
-
-
-
-
-
-
-<!-- 
-@meta @todo
-* @todo - p2 ( ) - In Identity - Bring the story from Brad Feld from Scale-ups about the situation where the CEO from the east company of online cabs, yellow cabs, had refused to close a deal with Sequoia. @meta-refid 6565-9898-9385-1233
---> 
-
-
-
-
-
-
-
 
 <!--
 @meta @outline 
-* Outline - Emotions - Affected by poor network - Fame - Network poor 
+* Outline - Social Capital - Affected by fame
 -->
 
 #### Challenging fame   
@@ -1019,7 +1157,7 @@ Wirathu and Myanmar's case, as described by Fisher, highlights the power and dan
 
 <!-- 
 @meta @outline
-* Outline - Transcending 
+* Outline - Escape Hatch - Escape; escaping the bubble, transcending the identity, and understanding our multiple identities and the illusion of destiny. 
 --> 
 
 ## Escape hatch  
@@ -1054,108 +1192,20 @@ However, in this interaction with the world, in the confrontation with changes, 
 
 
 
+<!--
+@meta @suggestion 
+* Suggestion - Should MD goggles, distortion, holistic view project science 
+--> 
 
 <!--
 @meta @outline 
-* Holistic concern - Reflection on growth performants 
+* Suggestion - Can entrepreneurship be taught? Outline - Artists composers and performers 
 --> 
-
-### Reflection on growth performants 
-
-
-
-
-
-<!--
-@meta @outline 
-* Holistic concern - The work forms an identity [feat. Maslow]
---> 
-
-
-
-
-
-
-Now consider a successful entrepreneur - or a successful manager or successful worker - or in essence one that feels good with what they do, with the execution. It might be observable a certain relationship with what they do, with why they do, with how they do. Through this relationship with work or through activities we may get an idea of who they are, their identity. They happen to see themselves by that act of working. With that, assuming a stable journey of work - a good weekly cadence such as 6 hours per day - it can be fairly considered that ther work journey shapes who they are, their identities. Some of this may resonate with the reflections from Abraham Maslow from when he was invited to reflect about the work situation during a summer at Non-linear Systems in California, when he said that "These highly evolved individuals assimilate their work into their identity into their self, i.e., work actually becomes part of the self part of the individual's definition of himself." (1998. p.1)
-
-<!--
-@meta @todo 
-* @todo - p1 (Done) - In Identity - Maslow and identity developed by work -  It might be worth it to point that Maslow indicator for the development of an identity in the work place could be challenged with the simple idea that people live a life beyond work. I think that Maslow's point has to be seen under the context in time that people used to be a lot in the same work space and under the isolated observation that there are situations which is likely to be the case, due to the points given such as when the work or team embraces the person. @meta-refid 1233-1234-4567-0987
--->
-
-<!-- 
-@meta @todo 
-* @todo - p1 ( ) - In Identity - Consider to read the paper that gives a bit of criticism to the situation of Non Linear Systems - https://www.jstor.org/stable/pdf/2352408.pdf - @meta-refid 1122-3322-3232-0909 
---> 
-
-Now while the reflection from Maslow were based in a work situation of a company considering an enlightened management during the 1960s,  Thus to think about a kind of work that supports the self comes from observations that there are, or in the ideal world it could exist, a situation of work that allows one to grow up in the ladder of the hierarchy of needs [^footnote_maslow_needs_hierarchy]: That given the phisiological needs satisfied, for example that the work pays health insurance, that the work is safe, and that a compensation enables the person to sustain a healthy life; and given a work that also brings psychological safety, where people are welcome to be themselves, where their creativivity can flowrish, where they are not pressured to be who they aren't, and given that the environment of colleagueship exists, and given that the work supports them all to work in harmonious ways, then it would be acceptable that a self development may happen and by that happening is it likely that the identity of self would be pushed further by the work situation. Or, promoted in a way by this healthy work environment. With that said, naturally this is not the only way where one continues to develop her identity; because social interactions of many forms may either promote that too such as when one is involved with multiple jobs or activities or one participates in a healthy community. 
-
-<!--
-@meta @todo 
-* @todo - p2 ( ) - In Identity - Review Marcio's footnote (footnote_maslow_needs_hierarchy) about Grove and Maslow - which he believes may also have links with Peter Drucker and Maslow - and check in High Output Management the part where Andy brings about Maslow ideas. Andy makes a point with a degree of objectiveness to make the point that observations from the work seem to resonate with Maslow. Andy wasn't extending anything of Maslow, of course. @meta-refid 7676-8383-0988-1233 
---> 
-
-[^footnote_maslow_needs_hierarchy]: The concept of human needs for motivation and development has been explored from both psychological and business perspectives. Abraham Maslow first introduced the hierarchy of needs in his 1943 paper "A Theory of Human Motivation" published in the Psychological Review, proposing a pyramid structure of human needs from physiological to self-actualization. Andy Grove, in his book "High Output Management," recognized the employees' basic needs as a foundation for higher productivity and self-actualization within the workplace. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-@meta @outline 
-* Holistic concern - Answer - Should MD note on stages apply here?
---> 
-
-
-
-
-
-
-
-
-
-
-
-
-### Can entrepreneurship be taught?
-
-<!--
-@meta @outline 
-* Question this - Can entrepreneurship be taught? Outline - Artists composers and performers 
---> 
-
-
-
-
-
 
 <!--
 @meta @todo 
 * @todo - p2 ( ) - In Identity - Entrepreneurship can be taught too, Steve agreed later, and Scott (check letter from Marcio to Scott @letter @meta-refid 6565-0202-9383-1233) had provided a prompt too. @meta-refid 6565-7575-0988-1234
 -->
-
-<!--
-@meta @todo 
-* @todo - p2 ( ) - In Identity - Consider the Moral Drive and Romantic Art - of Ayn Rand - @meta-refid 2343-6574-3243-5544
--->
-
-
-
-
 
 <!--
 @meta @todo 
@@ -1192,25 +1242,9 @@ What if, the thought could be turned into as "We are just starting" again. Perha
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!--
 @meta @outline 
-* Outline - Emotions - Affected by leadership maturity 
+* Outline - Escape Hatch - Awareness of gown up ship and identity - [feat. AG] 
 -->
 
 ### Grown up ship 
@@ -1250,7 +1284,7 @@ If we set our time machine to 1985, and land ourselves in the Ferris wheel of th
 
 <!--
 @meta @outline 
-* Outline - Emotions - Andy on escape, and being busy. 
+* Outline - Escape Hatch - Awareness of being busy - [feat. AG] 
 -->
 
 
@@ -1282,7 +1316,7 @@ If we set our time machine to 1985, and land ourselves in the Ferris wheel of th
 
 <!--
 @meta @outline 
-* Outline - Emotions - Andy on count to 100 like a kid, denial. 
+* Outline - Escape Hatch - Andy on count to 100 like a kid, denial. - [feat. AG] 
 -->
 
 
@@ -1312,42 +1346,11 @@ If we set our time machine to 1985, and land ourselves in the Ferris wheel of th
 
 
 
-<!--
-@meta @todo 
-* @todo - p2 (Done) - In Identity - Check the following referred page in the book of Andy Only the Paranoid Survive - @meta-refid 7676-4354-7333-8764
---> 
-
-Andy Grove, in Only the Paranoid Survive (1999), explains a critical situation - he had referred as an strategic inflection point - that can be experienced by leadership teams of large companies. This inflection point is when a stabilized company, which has a product or service well established in the market, encounters a force that disrupts the equilibrium of the product or service. Most companies experiencing inflection points simply do not survive because the acting forces impacts them brutally. One can imagine the entity-company, on the sunny beach, when the waves start to change but the tsunami that is coming is not perceived. In these moments, sometimes decades before the tsunami, management teams experience sensations as difficult as those people feel when they loss a loved one — such as to defend their positions, to deny the early signs. 
-
-> *"If you are a senior manager, you probably got to where you are because you have devoted a large portion of your life to your trade, to your industry and to your company. In many instances, your personal identity is inseparable from your lifework. So, when your business gets into serious difficulties, in spite of the best attempts of business schools and management training courses to make you a rational analyzer of data, objective analysis will take second seat to personal and emotional reactions almost every time."* (Grove, A., 1999, pp. 123-124)
-
-<!-- 
-@meta @references 
-* reference - Grove, Andrew. (1999). Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company. [Só os Paranóicos Sobrevivem]. Crown Publishing.
---> 
-
-> *"A manager in a business that's undergoing a strategic inflection point is likely to experience a variation of the well-known stages of what individuals go through when dealing with a serious loss. This is not surprising, because the early stages of a strategic inflection point are fraught with loss - loss of your company's preeminence in the industry, of its identity, of a sense of control of your company's destiny, of job security and, perhaps the most wrenching, the loss of being affiliated with a winner. However, unlike the accepted model of the sequence of emotions associated with grief (i.e., denial, anger, bargaining, depression and, ultimately, acceptance), in the case of a strategic inflection point, the sequence goes more as follows: denial, escape or diversion and, finally, acceptance and pertinent action."* (Grove, A., 1999, pp. 123-124)
-
-<!-- 
-@meta @references 
-* reference - Grove, Andrew. (1999). Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company. [Só os Paranóicos Sobrevivem]. Crown Publishing.
---> 
-
-Both in the journey of the inflection point of large corporations and in the journey of the younger venture, it is up to the entrepreneur or the leadership team to work in the pursuit of truth and not in the reaffirmation of the current state of the art. In this sense, courage is important because good leaders are those who also put themselves to the test, allowing themselves to be in a position of vulnerability that is liberating.
-
-After all, no one wants to be caught off guard by a tsunami, whether due to customer dissatisfaction or external forces such as competition, changes in market rules, etc.
-
-
-
-
-
-
-
 
 
 <!--
 @meta @outline 
-* Outline - Transcending - Biographic flights 
+* Outline - Escape Hatch - Biographic flights [feat. JL]
 -->
 
 ### Viewpoints from the historical flights 
@@ -1419,8 +1422,7 @@ Productizing an idea depends on many factors such as vision and engineering capa
 
 <!--
 @meta @outline 
-* Outline - Transcending - Considerations on changing goggles
-* (suggestion - add case of cognitive distortions)
+* Outline - Escape Hatch - Considerations on changing goggles (suggestion - add case of cognitive distortions)
 -->
 
 ### Changing goggles 
@@ -1448,7 +1450,7 @@ For Michael Dearing, lecturer and investor at Harrison Metal, founders should ev
 
 <!--
 @meta @outline 
-* Outline - Attachment and identifications with specific identities - converging into  #senamartya #identityviolence
+* Outline - Escape Hatch - Attachment and identifications with specific identities - converging into  #senamartya #identityviolence
 -->
 
 ### Revisiting our identities 
