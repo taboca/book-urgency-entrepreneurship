@@ -1,5 +1,7 @@
 # Todo # 
 
+* @todo - p2 ( ) - In Identity - Bring the case of Sequoia trying to invest in the online yellow cab from the east and their request. @meta-refid 7676-0987-1233-3445
+
 * @todo - p2 ( ) - In Identity In Social Capital - Review Pmarca on career advice as validation gathering - matches with Steve Blank's lean no lead. @meta-refid 7676-0909-8977-6553
 
 * @todo - p1 ( ) - Wantrepreneur vs. In Identity - Check the https://steveblank.com/2011/03/31/entrepreneurship-is-an-art-not-a-job/ against the two chapters to see if we can say something about the learner vs. performer. 
