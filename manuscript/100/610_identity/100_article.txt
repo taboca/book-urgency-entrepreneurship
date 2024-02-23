@@ -98,19 +98,17 @@ With the sections below, we will start our reflection by looking at the journey 
 
 
 
-<!--
-@meta @outline 
-* Outline - Driven by vision 
---> 
-
 ## Driven by vision
-
-
 
 <!--
 @meta @outline 
 * Outline - Pitch - A vision for who we are doing it? It can't be normal vision [feat. AG] 
 --> 
+
+
+
+
+
 
 Let us assume that entrepreneurs, like artists, are following a vision. But I don't mean that kind of vision where one would be a followed of something envisioned as if they could commit to implementing the dots - as if they could get the dots that comes after the fact. I thankful for the analogies with artists because it helped me to shift away from that notion - as that is certainly not what artists do - is an idea I better consolidated when I read from Adam Grant, in Originals that Da Vinci had done about 1200 drawings, to name an example. 
 
@@ -129,10 +127,17 @@ At least I find comfort using that viewpoint because there are many that start *
 
 
 
+
+
+
 <!--
 @meta @outline 
 * Outline - Situation - Calling [feat. Steve Blank]
 --> 
+
+
+
+
 
 
 
@@ -150,23 +155,6 @@ When asked to give a single piece of advice for founders, he had given first his
 * Reference - Steve Blank at MAP14. (Published on Mar 13, 2014.) MAP14 Public Forum: Steve Blank [video]. Retrieved from https://www.youtube.com/watch?v=UFx2CQUTpYo
 --> 
 
-
-
-
-
-
-
-
-<!--
-@meta @outline 
-* Outline - Complication - Passion motivation fusion -  
---> 
-
-
-
-
-
-
 Now if the above saying of Steve sounds as an extremme case, I insist in calling our attention to the essence for the phenomenon that sets in, where a notion of calling explains us driving our movement, and for that we gotta have passions and motivations, that are purely driven by the outcomes expected but it is the thing that keeps us going on as we do it, as we put our hands, as we carve, as we fail. It is even the thing that makes them to be happy with the idea of failing and failing til you succeed. 
 
 
@@ -180,10 +168,9 @@ Now if the above saying of Steve sounds as an extremme case, I insist in calling
 
 
 
-
 <!--
 @meta @outline 
-* Outline - Complication - Passion motivation fusion - Motivation Pyramid [feat. AG] [feat. Maslow]
+* Outline - Situation - Andy grove points about the work situation, and things like money, or comparison, as a builder of self development in terms of Maslow motivational pyramid. 
 --> 
 
 
@@ -216,7 +203,7 @@ Andy Grove, in *High Output Management*, having considered the work situation th
 
 <!--
 @meta @outline 
-* Outline - Complication - Passion motivation fusion - Motivation Pyramid  [feat. Maslow]
+* Outline - Situation - Establishing the idea that the work good conditions shapes a professional identity which may characterize the human identity in ways
 --> 
 
 
@@ -238,7 +225,7 @@ Now consider a successful entrepreneur - or a successful manager or successful w
 * @todo - p1 ( ) - In Identity - Consider to read the paper that gives a bit of criticism to the situation of Non Linear Systems - https://www.jstor.org/stable/pdf/2352408.pdf - @meta-refid 1122-3322-3232-0909 
 --> 
 
-Now while the reflection from Maslow were based in a work situation of a company considering an enlightened management during the 1960s,  Thus to think about a kind of work that supports the self comes from observations that there are, or in the ideal world it could exist, a situation of work that allows one to grow up in the ladder of the hierarchy of needs [^footnote_maslow_needs_hierarchy]: That given the phisiological needs satisfied, for example that the work pays health insurance, that the work is safe, and that a compensation enables the person to sustain a healthy life; and given a work that also brings psychological safety, where people are welcome to be themselves, where their creativivity can flowrish, where they are not pressured to be who they aren't, and given that the environment of colleagueship exists, and given that the work supports them all to work in harmonious ways, then it would be acceptable that a self development may happen and by that happening is it likely that the identity of self would be pushed further by the work situation. Or, promoted in a way by this healthy work environment. With that said, naturally this is not the only way where one continues to develop her identity; because social interactions of many forms may either promote that too such as when one is involved with multiple jobs or activities or one participates in a healthy community. 
+Now while the reflection from Maslow were based in a work situation of a company considering an enlightened management during the 1960s,  Thus to think about a kind of work that supports the self comes from observations that there are, or in the ideal world it could exist, a situation of work that allows one to grow up in the ladder of the hierarchy of needs [^footnote_maslow_needs_hierarchy] That given the phisiological needs satisfied, for example that the work pays health insurance, that the work is safe, and that a compensation enables the person to sustain a healthy life; and given a work that also brings psychological safety, where people are welcome to be themselves, where their creativivity can flowrish, where they are not pressured to be who they aren't, and given that the environment of colleagueship exists, and given that the work supports them all to work in harmonious ways, then it would be acceptable that a self development may happen and by that happening is it likely that the identity of self would be pushed further by the work situation. Or, promoted in a way by this healthy work environment. With that said, naturally this is not the only way where one continues to develop her identity; because social interactions of many forms may either promote that too such as when one is involved with multiple jobs or activities or one participates in a healthy community. 
 
 <!--
 @meta @todo 
@@ -264,7 +251,7 @@ Now while the reflection from Maslow were based in a work situation of a company
 
 <!--
 @meta @outline 
-* Harmonious or obsessive - entrepreneurs - Success sets us into a complicated situation 
+* Complication - That the journey is not a journey of discovery of their performers, such as existing. It may be a journey of shaping, shaped by performing and influneced by dynamic passions and motivations. 
 --> 
 
 
@@ -273,28 +260,19 @@ Now while the reflection from Maslow were based in a work situation of a company
 
 
 
+Now if we shift away from the idea of an existing vision as a main driver of entrepreneurship, where entrepreneurs would merely be performers that could do better or worse, and instead shift our focus to consider passions and motivations are the actual better key drivers for entrepreneurship, we shall naturally embrace a more dynamic view for what makes an entrepreneur an entrepreneur during the journey and the possibility that their identities are either reinforced or shaped by the activities of the journey, therefore what seems sometimes to be a journey of discovery where one is performing for serving the entity of the startup might be an actual journey where fusion might born where the self that performs influences the path of the startup this is generally a source of the pride that makes the entrepreneurship happen it's where passion can indeed set one to make things considered impossible but on the other hand the concern in this section is the very realization that these passions and motivations are reinforced by the actual strategic steps and tactical steps in the execution that goes on throughout the journey.
+
+To point an example of a complication, consider the illustration given by Andy Groove about the role of money and the relativeness of the presence of money and how it impacts the motivations for the execution of the entrepreneurial journey. If the startup starts with no customers at all, the possibility of one customer paying will indeed make that single piece of data to be recognized as customer. And the sensation for achieving that from nothing is compared in relative terms. Later many entrepreneurs find out that some of the initial customers need to be left behind because they're not the right kind of customers. Or consider when their startup acquires a subset of initial customers that shows no potential in terms of the growth and the future, but now depends on it because the paycheck and the physiological needs are fulfilled either in terms of the life of the entrepreneurs they're bootstrapping or in terms of a model that shows a representation that the startup is standing on its own. In other words, the entrepreneurial journey happens to be an interaction where the entrepreneurs are the ones being proud of the activities, are the ones empowered and entitled to accelerate and to pause the very activities that are very significant, bringing these numbers up and down at all times. And the regulation of their behaviors it's something usually driven by dispassions and motivations, especially in the hurry and fast-paced environment. They can't, unfortunately, focus in reasoning and reflecting from the wider view about the possibilities that they could be running in a trap. In other words, they become performers. In other words, they actually access the idea that they are sort of following a pre-existing vision. In other words, they're accessing and executing the idea that they are discovering their best selves for doing something. Instead of being shaped by the very specific milestones happening in front of them.
+
+Normally, and in the heat of the execution in the future of fast-paced work mentality, we find no reason to run on our own parade, to mess up with the very idea that gives us the strength to make everything such as the impossible possible. In other words, if these individual doers are laying tracks, and if any harassing happens to happen to them occasionally, much of it happens to self-enforce what works for them. All that goes along with the fast-paced culture of executing based on learnings in retrospect, which is generally a great idea if we think of the doer as a performer, although that's not the case for entrepreneurs, because they shall be more like conductors. And an example of a problem is the general culture of the doer that tries to identify their best strengths and only focus on best strengths, such as by doing psychological tests as if they're playing with themselves at the founder level, the entrepreneur level, as they would, for example, if they really need a specialist profile for a specific need in their company.
+
+Now, if we focus on the dynamic nature of this journey, in terms of passion, motivation, shaping the personality and the identity of the entrepreneur, we might set ourselves to consider to be concerned with the situations when the environment and the successes and failures may actually influence their personalities and identities. By pausing and reflecting about these aspects, we can gain an improved awareness about the entrepreneurial journey as formed by the personalities and characters and identities of entrepreneurs.
 
 
-Now continuying with the entrepreneurs running their lighter train that is fueled by passions and motivations the reality from the stops on every station will always bring an outcome that changes them. In the case of failures, when perceived, a prompt for learning will likely be clear. But what can be not clear is when these doers perform a successful trip. As a trip started with uncertainty and passion, and if decisions and actions generated a potential and if feedback was great, then the next stop means recharging and certainly a transformation. This next stop is fundamentally something that supports the idea to "let the momentum grow!" 
 
-Conversely, there is no need to rain on our own parade, right? Now, for these individuals or doers laying tracks, if any resting happens in terms of the self, it happens more in the form of "that is it, this is who I am." So they quickly enter into another track, call it a mission or project or a role or the opportunity to perform again, and indeed run the risk of doing it greatly again, isn't it right? We generally invest in our best moves, isn't it right?
 
-This situation is generally far from any problem or paradox or darkness, as sensed by them. Because it's bright and it is rainbow in the first place by that very function we discussed where motivation comes from prior feedback. But also because of the corporate machine that asks for more movement. Thus it is induced too. I mean not exactly the small startup but the whole corporate machine of the world, the culture we live in, the fast-paced one. The culture that prompt us to engage first, to embrace the call to action first. To do it first and to do it again. The culture that asks us to fail and fail and fail as a way to learn and even set us to embrace failure as if had infinite resources. That narrative which coherently ask us to engage again and quick before thinking. Don't think, just do, your wing man will tell. 
 
-On the other hand, from the hand of growth which actually sets the real terms and pays for everything, anyone representing an investor role, we know from above that these doers don't have all the answers and they can't be right. The world doesn't see it that way. The real outcome from far is that it may be like a rainbow in the dark. That they are not know-it-all. That their know-it-all are actually formed, are shaped, by the very movement as they orbit too fast their new world. They can't be in peace to break their know-it-all as they have calculated that every hour on their world is seven years back on Earth. From the perspective of who they are, their identities as protagonists or heroes or pilots or pioneers and certainly not farmers, they can't see across the dimensions, they can't see that they are just a picture, that they are the image that they made, an image caught in time. 
 
-Consider the situation pointed by Brad Feld in Up Starts that company cab yellow X didn't accept the offer from Sequoia capital: 
-
-> *""* 
-
-It can be tricky to know what is really going on, and this sets founders into the need to reflect, to try to see all from above. There will be no full answers. Had that CEO done right? 
-
-<!-- 
-@meta @todo 
-* @todo - p2 ( ) - In Identity - Bring the case of Sequoia trying to invest in the online yellow cab from the east and their request. @meta-refid 7676-0987-1233-3445
---> 
-
-Now, if you consider the journey of interaction that happens from the calling and the interactions that reinforces the calling, you realize a number of factors that makes it possible. Elements such as passions and aspirations and needs, pains, dreams and moral values and motivations, those can be the mix that makes the calling possible; all of that confronting the reality of market, of external parties chiming in and providing input, even customers. 
 
 <!--
 @meta @outline 
@@ -302,9 +280,8 @@ Now, if you consider the journey of interaction that happens from the calling an
 -->
 
 
-Moreover, and looking from the optimistic perspective, it is generally accepted that these elements are major in making the calling possible, especially under the circumstances that in the beginning there is nothing there, there's no guarantee, it's not a job, there's no paycheck. And mainly there is this idea of this sort of what I have called the vision, that it's the thing that engages teams, helping them to go through the challenging situations and the paths of uncertainties and towards growth, and eventually towards more conscious execution.
 
-On the negative side, these elements may also take and set such a kind of calling that takes entrepreneurs and their teams into challenging situations because of their own behaviors. Under those circumstances, it could be the passion that harms, such as of an obsessive nature, or the behaviors where the entrepreneur are in control, or situations where toxicity is brought to the team culture, such as to prevent awareness and destroy teams and harm growth for the business, and even for themselves, their well-beings.
+
 
 In the next sessions, we're going to consider two viewpoints. The first from the entrepreneur side, considering that they can be in passion with these aspects that can set them to be too involved in the process or enamorated with the idea or focusing too much on the product side, the passions that can set them in a specific direction miss the whole growth curve. And then the other viewpoint from the vision of the investors or the gatekeepers of growth, which are equally concerned about the behaviors of founders and teams, their identities. And as much as they appreciate their passion, they know that can be a fuel to bring them harm, can prevent the whole business into the growth situation due to obsessions, such as that can cause destruction to the business and the growth situations, if not the well-being of entrepreneurs.
 
@@ -320,20 +297,6 @@ In the next sessions, we're going to consider two viewpoints. The first from the
 --> 
 
 ### The passions of entrepreneurs  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -393,12 +356,7 @@ When I joined an accelerator program in 2016 I had a badge labeled "empresário.
 
 But then, in that new domain of being accelerated (as they would say), a new title was coming my way quite fast. I noticed it the day they invited me to speak. Before the event they requested the "bio," which is basically a short story so that they can introduce the speaker. I gave them the bio thing but followed by my name, my current title, and the name of my company. But as the limelight turned on I was surprised to be introduced as "Marcio, an aspiring founder." I can't say I loved it because the first thing that went through my head was "Where is my bio thing?" 
 
-But like my colleagues being *accelerated*, I weren't there to be worried about my title. The startup in the future needed the founder in the present. But then, and again, we right there, and living the feeling of what happens, I was quite into what I considered to be conscious of what I do, how I do, why I do, and who I am. In other words, while I knew I had to focus on the startup I knew that I had to do it by focusing on myself too - in the sense that I needed to be regulating *my precious* self. Now, and inline with the concerns of our chapter, perhaps I were too fast into being worried about them changing my title; and which goes along with my same self that were too fast in a situation when I were waiting in the line of the movie theather in Mountain View, California, in 2001: 
-
-> *"When I were living in Silicon Valley, our team got tickets to watch a special movie. The line was filled with nerds from our team from the iconic company widely known at the time - Netscape. Then a person moved towards me on rollers and holding some little shiny thing and apparently said that 'one ring rule them all' to which I rapidly said 'no, thanks!'. I wasn't interested in buying anything. I wanted to see the movie. Only later, after watching *The Lord of the Rings: The Fellowship of the Ring*, I fully realized that the dude wasn't a salesperson trying to sell anything. He had a ring in his hands and wanted to hand me. "* Marcio 
-
-
-
+But like my colleagues being *accelerated*, I weren't there to be worried about my title. The startup in the future needed the founder in the present. But then, and again, we right there, and living the feeling of what happens, I was quite into what I considered to be conscious of what I do, how I do, why I do, and who I am. In other words, while I knew I had to focus on the startup I knew that I had to do it by focusing on myself too - in the sense that I needed to be regulating *my precious* self. 
 
 
 
