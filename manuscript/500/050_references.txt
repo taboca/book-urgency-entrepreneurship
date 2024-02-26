@@ -114,6 +114,12 @@ McKee, R., & Gerace, T. (2018). Storynomics: story-driven marketing in the post-
 * 100 / 610_identity 
 --> 
 
+Chen, A. (2024). How to break into Silicon Valley. Retrieved February 26, 2024, from https://andrewchen.com/how-to-break-into-silicon-valley/
+
+<!-- 
+* 100 / 610_identity 
+--> 
+
 Galli, M. (2023, March 13). The History of Web Developers Tied to Browser Development. Hackernoon. https://hackernoon.com/the-history-of-web-developers-tied-to-browser-development 
 
 Strategyn. (2024). The JTBD Framework. Retrieved February 15, 2024, from https://strategyn.com/jobs-to-be-done/customer-centered-innovation-map/

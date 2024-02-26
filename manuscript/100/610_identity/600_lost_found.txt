@@ -1,3 +1,21 @@
+## Excerpt from Andrew Chen @ a16z
+
+* Ref - https://andrewchen.com/how-to-break-into-silicon-valley/
+
+* About - When Andrew talked about networking conversations in Silicon Valley, he made a good case for how "a thing" as in "a special thing" is a necessary thing for get a conversation going in a place like Silicon Valley. I recall the days when I left being full-time for a Silicon Valley company but went back and how cool it were to make connections having something "in the works." People would value you if you were onto something and that valuing seemed to go both ways - they were making a judgemnt for what you are doing, and I on the other end, making a connection and quality conversation that could be supporting; minimally keeps motivation high. Consider the point about the need to have an interesting quest as a factor of necessity for the audience: " I encourage you to be on a quest of your own, and even better a particularly interesting quest, so that your conversations with people can be as productive as possible." 
+
+```
+"Having a “thing”
+That said, the conversations are more productive when you have “a thing.” What I mean by that is that all of these conversations and networking are more useful when you are starting a company, creating a new podcast, are working on a new project or book, or something else. When you have a directed goal in mind, then the conversations often are more valuable for all parties involved, because you were making yourself an expert in a particular area and your questions are more relevant. Otherwise you will surely encounter very busy people who simply refuse to “grab coffee” to “catch up” because it’s a poor use of time. I encourage you to be on a quest of your own, and even better a particularly interesting quest, so that your conversations with people can be as productive as possible.
+
+In my case, I was very interested in the state of the art on growing users, metrics, network effects, and marketing. I asked everyone about this topic, and began to develop my own ideas that I would share freely. Eventually, it became clear that a few small communities orienting the PayPal mafia were the furthest along in their thinking. And that’s how I ended up being exposed first to concepts like retention curves, DAU/MAU, viral loops, and so on.
+
+These ideas were interest to me, because my professional experience leading up to that point was actually an adtech. I had previously worked in online ads, with customers from WSJ, CBS, MySpace, etc, and had even gotten a patent filed on ad targeting (yes, US7747676B1). I had a superpower in my domain knowledge of CAC, A/B testing, funnel optimization, lead gen, etc, and began to merge all of this thinking with consumer products. In 2007 this was cutting edge at a time when product success was often measured by vanity metrics such as the total registrations for a product. This bit of specialized knowledge was what I brought to the table, and I talked about some of those learnings and ideas, and how they might apply to products. Sometimes I’d get intros to interesting people simply because of this expertise, which I appreciated."
+
+```
+
+
+
 ##
 
 Now, and inline with the concerns of our chapter, perhaps I were too fast into being worried about them changing my title; and which goes along with my same self that were too fast in a situation when I were waiting in the line of the movie theather in Mountain View, California, in 2001: 

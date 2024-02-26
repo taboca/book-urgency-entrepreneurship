@@ -331,10 +331,44 @@ By our involvement with that calling into the job to be done, the job of growth,
 
 
 
+
+<!--
+@meta @outline
+* Outline - Harmonious or obsessive - Case of "How to break into Silicon Valley" [feat. Andrew Chen]
+--> 
+
+
+
+
+
+Consider the following perspective, given by Andrew Chen from A16Z, for *How to Break into Silicon Valley*, where he gives a perspective for how productive conversations can be achieved through introductions when one is particularly involved in what he had referred as "having a thing" or a particulaly interesting quest. Since the optimistic perspective is self-evident, I ask you to read the following excerpt by trying to celebrate, or picture, how powerful or impactful the discussions could be, for when we the promoter lives in that position of promoting the conversations while living a situation where they think of themselves as protagonists of a a particularly interesting quest. 
+
+> *That said, the conversations are more productive when you have “a thing.” What I mean by that is that all of these conversations and networking are more useful when you are starting a company, creating a new podcast, are working on a new project or book, or something else. When you have a directed goal in mind, then the conversations often are more valuable for all parties involved, because you were making yourself an expert in a particular area and your questions are more relevant. Otherwise you will surely encounter very busy people who simply refuse to “grab coffee” to “catch up” because it’s a poor use of time. I encourage you to be on a quest of your own, and even better a particularly interesting quest, so that your conversations with people can be as productive as possible.
+> In my case, I was very interested in the state of the art on growing users, metrics, network effects, and marketing. I asked everyone about this topic, and began to develop my own ideas that I would share freely. Eventually, it became clear that a few small communities orienting the PayPal mafia were the furthest along in their thinking. And that’s how I ended up being exposed first to concepts like retention curves, DAU/MAU, viral loops, and so on. 
+> These ideas were interest to me, because my professional experience leading up to that point was actually an adtech. I had previously worked in online ads, with customers from WSJ, CBS, MySpace, etc, and had even gotten a patent filed on ad targeting (yes, US7747676B1). I had a superpower in my domain knowledge of CAC, A/B testing, funnel optimization, lead gen, etc, and began to merge all of this thinking with consumer products. In 2007 this was cutting edge at a time when product success was often measured by vanity metrics such as the total registrations for a product. This bit of specialized knowledge was what I brought to the table, and I talked about some of those learnings and ideas, and how they might apply to products. Sometimes I’d get intros to interesting people simply because of this expertise, which I appreciated."* 
+> (Chen, 2024)
+
+<!--
+@meta @references
+* reference - Chen, A. (2024). How to break into Silicon Valley. Retrieved February 26, 2024, from https://andrewchen.com/how-to-break-into-silicon-valley/
+--> 
+
+
+
+
+
+
+
+
+
+
 <!--
 @meta @outline 
 * Harmonious or obsessive - entrepreneurs - Case of Marcio, entitlement 
 --> 
+
+
+
 
 
 
