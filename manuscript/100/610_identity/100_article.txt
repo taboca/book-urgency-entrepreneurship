@@ -3,37 +3,50 @@
 
 <!-- 
 @meta @outline 
+* Outline - pitch - 
+--> 
+
+
+Why bother with the identity of the being that carries out the work of entrepreneurship? It might be considered a waste of time. Maybe I we could even say that, in general, entrepreneurs identify themselves as people who care more about their objectives than about who they are or even if their identities influence what and how they do. But, on the other hand and in alignment with our concerns in this book, we shall set ourselves in front of yet another opportunity, or concern, if there is an identity, whether pre-existing or created from the movement, and whether this helps or hinders the process. In other words, our reflection will be centered on the possibility that the identity that accompanies the movement does more than the expected contribution that produces the great movement forward but it may also become the source of risk. In other words, the forward movement may support an identity to be formed, one that can also create a trap especially given the nature of the growth situation of startups - as we saw in the previous chapter - where each stage is not just a harder step but a whole new unknown sport.
+
+
+
+
+
+
+
+
+<!-- 
+@meta @outline 
+* Outline - Situation - In the beginning, they do not see fully identify themselves with entrepreneurs, like artists. While they are invited into becoming. 
 --> 
 
 
 
 
 
-Am I an artist? That kind of question seems to be unlikely thought by entrepreneurs, especially if they're generally too busy in their craft. But there's something about artists and entrepreneurs that seems intriguing, because their worlds seem to be so close and so far from each other. I have wondered what would Steve Jobs do in 1475 if we were born in Caprese, Italy, and if Michelangelo and Bonarotti were born in Jobs Place, San Francisco, California, in 1955. As much as I want to think of Michelangelo being an entrepreneur, then I get a slap in the face by the consideration that Bonarotti could be a software engineer working at Google or that Steve of 1475 would have died too soon thus imortalized and known mostly for his first Apple scupture. 
 
-But there's still something between artists and entrepreneurs that can help us to understand better their behaviors, their personalities and their identities. By considering the comparison with artists, I invite you to consider their journey, as they start may not be so clear that they are in fact artists or entrepreneurs. 
+
+
+No artists start with the fully knowing that they are artists. Like entrepreneurs or writers, although they seem to recognize a half door open to them, unclear to tell in the beginning tough. Brian Chesky of Airbnb [^footnote_brianchesky] acknowledged that - in hindsight - the only entrepreneur he knew was Bob from Bob's pizza [^footnote_brianchesky_bob]. But like artists, entrepreneurs seem to identify themselves with the sort of doers and learners that takes them into it, into becoming. Some of that prerequisite might go well with the idea given by Steve given in the prior chapter of whom it can be taught too - the ones that passionately want to become one, in the first place, and the ones that see themselves as protagonists of doing it and learning at the same time. In other words, while in the beginning they generally can't tell who they are - if generally are not interested to discusss - they seem to recognize and identify themselves with roles or the personalities or the characterizations of entrepreneurs, after the fact. 
+
+[^footnote_brianchesky]: Co-founder and CEO of Airbnb, Brian Chesky has become a leading figure in the tech industry, particularly within the sharing economy. Under his leadership, Airbnb has transformed from a simple idea of renting out air mattresses in a living room to a global platform offering unique accommodations and experiences. 
+
+[^footnote_brianchesky_bob]: In his talk on Blitzscaling, Brian Chesky mentioned Bob from Bob's Pizza as an example of an entrepreneur. https://youtu.be/W608u6sBFpo?si=MHVkBijl9I5DpAfC&t=99
 
 <!--
-@meta @note 
-Brian Chesky of Airbnb [^footnote_brianchesky] said that entrepreneur wasn't a common word [^footnote_brianchesky_bob] for him in the beginning and that the only one he knew was Bob from Bob's pizza. 
-[^footnote_brianchesky]: Co-founder and CEO of Airbnb, Brian Chesky has become a leading figure in the tech industry, particularly within the sharing economy. Under his leadership, Airbnb has transformed from a simple idea of renting out air mattresses in a living room to a global platform offering unique accommodations and experiences. 
-[^footnote_brianchesky_bob]: In his talk on Blitzscaling, Brian Chesky mentioned Bob from Bob's Pizza as an example of an entrepreneur. https://youtu.be/W608u6sBFpo?si=MHVkBijl9I5DpAfC&t=99
 @meta @references
 * Reference - Greylock Partners. (Nov 30, 2015). Blitzscaling 18: Brian Chesky on Launching Airbnb and the Challenges of Scale [Blitzscaling 18: Brian Chesky fala do lançamento do Airbnb e os desafios de escalar] [Arquivo de vídeo]. Retrieved from https://www.youtube.com/watch?v=W608u6sBFpo
 -->
 
-There's no guarantee that they would get money, or acceptance or recognition to start with,  from that craft, but they do it in a way. In the beginning, the environment is chaotic but they have the foot on the ground, and they're interested in learning the craft as well. They also seem to have some eager spirit, as in, that no one can stop me from looking for the answers I seek. And if the horizon is gray, they see a rainbow, and they carve and they fail, and they do it again and again until they succeed. And then, that's when things seem to work, and the signal comes from what seemed to be noise before. Now, the other component that seems to exist has to do with the outcomes. I like to think about growth and not in terms of money, because that better explains the case of successful entrepreneurs and great artists as they achieve growth in the sense of connecting with their audiences, and some of them get lots of money as well, or recognition, you name it. They seem to be consistent in a way, to be validated, that what they have brought to the world is accepted by an audience, is embraced by the audience, call them consumers or users, it really doesn't matter. But now they have support in many aspects, that can be financcial, psychological, and even new sparks for enlightened new journeys. 
+But if it seems to be like a revelation, certainly given in retrospect, it is certain one spoken of as not one made of an arbitrary movement. In other words, while they claim they couldn't connect the dots, they do recognize their passions, or motivations, or that actual movements they trusted had to do with leading them into it - into becoming - as eloquently put by Steve Jobs in his speech at Stanford: 
 
-Furthermore, I think that in a way, they achieve a change, or they transcend, and they understand that they were onto something. After the fact, they seem to be able to better connect the dots [^footnote_stevejobs_connectingdots], to explain what they're doing, and to better understand their job to be done.
-
-[^footnote_stevejobs_connectingdots]: In his 2005 Stanford University commencement speech, Steve Jobs talks about "connecting the dots" to illustrate that it is impossible to figure what is our life path by looking forward; but possible to do so looking backward. Jobs highlighted that passions might lead to developments that leads to understanding - that dots from his life, like dropping out of college and studying calligraphy, later played a crucial role in the design of Apple computers (Jobs, 2005).
+> *"Because I had dropped out and didn't have to take the normal classes, I decided to take a calligraphy class to learn how to do this. I learned about serif and san serif typefaces, about varying the amount of space between different letter combinations, about what makes great typography great. It was beautiful, historical, artistically subtle in a way that science can't capture, and I found it fascinating. None of this had even a hope of any practical application in my life. But ten years later, when we were designing the first Macintosh computer, it all came back to me. And we designed it all into the Mac. It was the first computer with beautiful typography. If I had never dropped in on that single course in college, the Mac would have never had multiple typefaces or proportionally spaced fonts. And since Windows just copied the Mac, it's likely that no personal computer would have them. If I had never dropped out, I would have never dropped in on this calligraphy class, and personal computers might not have the wonderful typography that they do. Of course it was impossible to connect the dots looking forward when I was in college. But it was very, very clear looking backwards ten years later."* (Jobs, Steve, 2005)
 
 <!-- 
 @meta @references 
 * Reference - Jobs, S. (2005, March 7). Steve Jobs' 2005 Stanford Commencement Address [Video]. Stanford University. https://www.youtube.com/watch?v=UF8uR6Z6KLc
 --> 
-
-
 
 
 
@@ -49,7 +62,18 @@ Furthermore, I think that in a way, they achieve a change, or they transcend, an
 
 
 
-Now, from that journey, and by assuming a certain stage of achievement, it may help us to understand about their identities. As noted, they might have changed and transcended or learned - from the failures - and by now they have a relationship with their craft. For some of them, it could be that they think that what they do is really their destiny, or it doesn't have to be that far, but they may still think that they have discovered their identities. But as much as we think that we're discovering ourselves, or of best selves, the work situation and the situation of the artists and the situation of entrepreneurs might be the actual space that shapes our identities, exactly as we go through the steps of that ladder, being supported in many ways, accepted, recognized. That's exactly a source of complications that sets challenges before achievements and after achievement - the confirmations creates an anchor for them. It becomes very difficult for them to do it again, like to do a great art again or to do a great best-selling book again, or to reinvent their own companies in the face of challenges, to launch new amazing products, to do it again the art cycle. And by that realization, we're in front of the most beautiful and complex thing in life which is to be able to grow and to let growth behind - the necessity to transcend, to change ourselves, to creatively destroy ourselves; That's what we're concerned with in this chapter.
+
+
+
+
+Now, from that journey, and by assuming a certain stage of achievement, it may help us to understand other implications of themselves discovering themselves as entrepreneurs or becoming in a way the protagonists of their life as executors, as doers. As noted, they might have changed and transcended or learned - from the experiences and even from failures - and by now they have a relationship with their craft. For some of them, it could be that they think that what they do is really their destiny, or it doesn't have to be that far, but they may still think that they have discovered in a way or another theirselves as entrepreneurs or as a kind of personality that is part to the art and science of entrepreneurship or one that minimally is a protagonist for what is happening, for what is working. 
+
+But from that discovery of ourselves, or of best selves doing the craft, and even if the dots are sparsely connected - like the life situation of Steve not clearly initially leading into it - the actual path of the work situation can too, although likely more intensively, become the actual space that shapes our identities as entrepreneurs. In other words, the developments that go along the way, after the fact that we embracing ourselves as the doers that makes it all more possible, expands the potential waiting to happen. And while they are yet not fully concerned with themselves as entrepreneurs - not until the big they that they are interviwed after success - they seem to be actively watching out their inner culture, or feeding ourselves into it, thus feeding their identities as entrepreneurs. 
+
+And since a lot of the good benefits of that awareness is taken care and spoken elloquently by too many stories of success, we shall set ourselves to look at the formation - of that identity of entrepreneur - as a potential source of complications that sets challenges. In other words, we will reflect about the situations of the responsible, of the executors, that now in the face of its own successes, seem to be responding it accordinly. And the challenges they face as they engage with that identity. In other words, let us be concerned with the realization that we embrace a quite beautiful being that can do magic and how that consciousness becomes the very element that prevents one to into transcending it, to change ourselves, such as to creatively destroy ourselves. 
+
+
+
 
 
 
@@ -353,7 +377,7 @@ Consider the following perspective, given by Andrew Chen from A16Z, for *How to 
 * reference - Chen, A. (2024). How to break into Silicon Valley. Retrieved February 26, 2024, from https://andrewchen.com/how-to-break-into-silicon-valley/
 --> 
 
-The illustration of Andrew, although not precisely story of an founder, greatly shows a situation that is entrepreneurial in nature and how we see ourselves riven by our passions and motivations but conscious about our performance as conductors through the network that is of our interest. In other words, even the very initial movement of approaching their best audience - which they quite respect - shows the necessity of a prior movement from passions and motivations. Besides that, the additional movement, even when it yields introductions, has a potential of supporting and motivating, thus becomes a self-validating movement, by the very characteristic of the high-profile audience. It supportes their performance at every movement, it supports their courage, it supports their talents, expertise, their conduction in general, themselves.  
+The illustration of Andrew, although not precisely story of an founder, greatly shows a situation that is entrepreneurial in nature and how we see ourselves not only driven by our passions and motivations but conscious of outselves as conductors through the network that is of our interest. In other words, even the very initial movement of approaching their best audience - which they quite respect - shows the necessity of a prior movement from passions and motivations. Besides that, the additional movement, even when it yields introductions, has a potential of supporting and motivating, thus becomes a self-validating movement, by the very characteristic of the high-profile audience. It supportes their performance at every movement, it supports their courage, it supports their talents, expertise, their conduction in general, themselves.  
 
 
 
