@@ -1,3 +1,44 @@
+##
+
+
+
+<!--
+@meta @outline 
+* Outline - Social Capital - Challenging the critic
+-->
+
+#### Challenging the critic 
+
+
+
+"Aiming for that, I learned to write setting judgment aside and save a polish for later. I canned this new, freer writing "laying track." For the first time I gave myself emotional permission to do rough drafts and for those rough drafts to be, well, rough. " - (Cameron, 1998, p. 19)
+
+Now, another point of view for writing, from the *Art of Non-fiction*, is from Ayn Rand, the philosopher known for objectivism. She pointed that when writing, the act of engaging with editing when doing the first draft is a writing approach that leads to major complications, such as the conscious editor process that messes up with the subconscious that needs to write, to run smooth. 
+
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Identity - Add reference to The Art of Non-Fiction by Ayn Rand. @meta-refid 1233-6654-3333-1212 
+--> 
+
+Looking at the writing moment of a writer, and stages, seems to give us a view of how we manage our activities, micro management where a judge comes into our way before. Both, Julia and Ayn Rand, as professional writers, acknowledges the necessity of the critic and editor that does the judgement job, of course. But the real point is when to call it. Julia Cameron added that for the situations that she was able to put her judge aside - "When I went back to polish, I found there wasn't that much to fix or change. A remarkable amount of my first-draft material withstood the test of later scrutinity. " (Cameron, 1998, p. 19)
+
+Therefore, it comes the point for us to reflect, to consider, that we will need to separate progressing from judgement to avoid the drama or confusion to when the actual development is happening. 
+
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Identity - Consider to check if the ideas from Michael Dearing referred as "editor-in-chief" could be applicable here. @meta-refid 7676-8795-9192-1233 
+--> 
+
+
+<!--
+@meta @references 
+* Reference - Cameron, J. (1998). The right to write. TarcherPerigee.
+-->
+
+
+
+
+
 ## Reflection on identity vs. Ayn rand 
 
 * Gpt on ayn rand and identity of founders 

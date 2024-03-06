@@ -580,7 +580,7 @@ But when the situation - as indicated by the "I would do this even for free"  - 
 --> 
 
 
-
+#### They are excited and talented but .. 
 
 <!-- 
 @meta @todo 
@@ -608,15 +608,6 @@ In Entrepreneurship Through the Lens of Venture Capital (Stanford, 2013), Howard
 
 
 
-
-
-
-
-
-<!-- 
-@meta @todo
-* @todo - p2 ( ) - In Identity - Bring the story from Brad Feld from Scale-ups about the situation where the CEO from the east company of online cabs, yellow cabs, had refused to close a deal with Sequoia. @meta-refid 6565-9898-9385-1233
---> 
 
 
 
@@ -671,7 +662,7 @@ In other words, even if researchers go dig into the specifics and extremmes of d
 
 
 
-
+#### Are they listeners?
 
 
 An interesting finding in the study help us to understand how investors operate with the growth orientation and using a risk analysis mindset, especially being interested in how founders are driven by passion and interested in knowing when passion is too much to the point of the expected growth. In other words, and because of the flipside of being driven passion can be a risk, they interest may related to the theme of openness to feedback. In other words, without such level of awareness a top-tier investor - such as a top-tier angel investor or a top-tier VC partner involved- might be concerned. Therefore, and if we were in the mood of  jumping to conclusions, one can consider that investors check first how passionate entrepreneurs are, and then, secondly or more qualitatively, how much they are open to feedback in ways that they give up their strict views or behaviors driven by passion, which would be an openness to release themselves from what they know. 
@@ -681,24 +672,10 @@ In other words, openness to feedback is a crucial element for investors to be ab
 It becomes clearer the view that entrepreneurship is science and art, which is born protagonized by entrepreneurs, passionate about art but equally passionate about science, who seek the balance of passions taking into account the connection with the environment where they produce and deliver their creations. Perhaps this formulation helps to explain the tendency of investors to trust more in teams of co-founders than in entrepreneurs who are alone, as probably, except for exceptions, solitary entrepreneurs are more intractable.
 
 
-
-
-
-
-
-
-
-
-
-
-
 <!--
 @meta @outline 
 * Harmonious or obsessive - investors - Pmarca on career advice
 -->
-
-
-
 
 
 > *"In real life — as opposed to blogging — one of my least favorite things to do is give career planning advice. Most people who say they want career planning advice aren’t actually looking for advice — they just want validation of the path they have already chosen. Because of that, giving someone career planning advice is one of the surest ways to end up feeling like an a******"* 
@@ -740,7 +717,7 @@ https://pmarchive.com/guide_to_career_planning_part3.html
 
 
 
-
+#### Projected from the eyes of the beholders 
 
 
 
@@ -769,7 +746,7 @@ Consider the science and art of pitching, for example. When many say that knowin
 
 
 
-The point here is that we are being judged by say "another point of view". In other words, judging ourselves all the time - all that we will do. When we craft a pitch, even before it is not shown to other, we do not even show and we read it as if we are a judge, an investors. Poor judgement right? It does not even have anything to do with the real outside world that, in the end of the day, it is going to read, to judge. 
+The point being is that we are being judged by say "another point of view". In other words, judging ourselves all the time - all that we will do. When we craft a pitch, even before it is not shown to other, we do not even show and we read it as if we are a judge, an investors. Poor judgement right? It does not even have anything to do with the real outside world that, in the end of the day, it is going to read, to judge. 
 
 Thus, it is up to us to keep track with methods that can support us to advance, to judge and judge it right, and judge in the right time. One theme in this theme is when to judge for execution of projects. Since a startup acts supposedly faster, things that really complicated as we are moving with specific tasks, when we are acting doing it. 
 
@@ -804,6 +781,16 @@ The focus here I am looking at is activities that be broken, generate poor resul
 
 
 
+<!-- 
+@meta @todo
+* @todo - p2 ( ) - In Identity - Bring the story from Brad Feld from Scale-ups about the situation where the CEO from the east company of online cabs, yellow cabs, had refused to close a deal with Benchmark. @meta-refid 6565-9898-9385-1233
+--> 
+
+
+
+
+
+
 
 
 
@@ -812,7 +799,7 @@ The focus here I am looking at is activities that be broken, generate poor resul
 
 <!--
 @meta @outline 
-* Outline - Social Capital - In the startup growth path, we do with affairs with entities, we reinforce passions and motivations, we find passions and motivations, from the performant worker. 
+* Outline - Social Capital - In the startup growth path, we do with affairs with entities, we reinforce passions and motivations, we find things to value, we define or live a character, a personality, of a performant worker. 
 -->
 
 ## Driven by social capital 
@@ -822,10 +809,9 @@ The focus here I am looking at is activities that be broken, generate poor resul
 
 
 
+The considerations that we have given so far was an invitation to the idea that there is a holistic journey in any entrepreneurial effort allows us to connect the dots for who we are - or to discover our best self. Embodied in that journey, it is then set the consideration that are are activelly coordinating the right protagonist to operate in the given environment ahead of us; that we are activelly testing ourselves and that we are doing so in the face of an audience - expected, implied, or real, or artificial. 
 
-From the holistic journey that is defined and defines who we think we are - and the considerations that we are driven by passions and motivations - we know that it can take us into success if we we happend to be hyper aware about our passions and motivations, which otherwise we can be trapped up to the point of sinking the startup boat, the team, and even ourselves. 
-
-Now, and assuming that the boat is yet navigating and interested in growing it without pausing in a port of reflection, we shall then be concerned with how the environment will challenge our identities, which may sometimes look like it's a journey of self discovery but in fact we will maintain the consideration that it shapes our identities as entrepreneurs. Especially in this section, by the movement of affairs with affiliations or groups or entities, we will reflect on the development of ourselves is driven by motivations that have ties with these groups such as colleagues, customers, mentors, advisors, and other voices even from systems that now look like what validates our motivations. And in that context, we are interested in how those ties - and with that the motivations and passions - impact our behavior. How that shapes what we do, how we do, even to the point of shaping who we are.  
+Of course, all of that makes sense as we feel the feedback that by embracing behaviors we become a better tool for the objective ahead. In other words, we get to embrace a better protagonist that can take the startup to the next level. But let us continue to consider how we so naturally respond to the challenges ahead by seamlessly forming a protagonist, and how it is difficult to surrender that protagonist when needed - especially given that we are strongly driven by the ties with groups such as colleagues, customers, mentors, advisors, and other voices, even from systems, or rule books. 
 
 
 
@@ -847,13 +833,12 @@ Now, and assuming that the boat is yet navigating and interested in growing it w
 
 
 
-I will give you an example. An local accelerator system is a partner that is there to challenge, to motivate, to educate to a certain degree, to leverage the founding team's potential. Some of the accelerator programs, such as early stages, can start with the situation which they recognize as the aspiring founder. They might set the doer in the direction of coming up with 3 ideas in the beginning and then they will have to participate in an event to pitch - in front of judges that in a way represent investor's or the gatekeepers of growth - their best option. This might be just an exercise in the beginning of the program. Thus, they sort of create an artificial acceleration situation with a pressure that is seen as positive. Now, the founding team might well get feedback. In one of the situations that I had participated, I recall from the feedback I had collected before the pitch that my second idea had produced increased level of growth in the pupils of some of the local mentors. The idea had to do with a way for Brazilians to split the bill of the restaurant table more easily. But then, I had decided to move on with a slides platform. Or yet another slides platform. My pitch could not convince the local judges so I got a bad grade and even a punishment exercise for having failed the pitch. 
+Let us start this reflection with an illustration for how the environment actively invites the doer to embrace a personality. Consider a local accelerator as a partner that exists to challenge, to motivate, to educate to a certain degree, but also to take the founding team into a stage of more potential. Some of the accelerator programs, such as early stages, can start with the situation which they recognize as a place to start. For example, consider one that asks the team to come up with three ideas and to select their best for an upcoming pitch, which is basically a short presentation event where they present in front of judges that in a way represent investor's or the gatekeepers of what is next. And even if what happens at this stage can be considered  artificial, like a selection process based on ideas and communication, it isn't as perceived by the participants due to the actual outcome possibility - that however passes in front of the judges are likely in a position of visibility and to actually get into a more realistic condition of success. In other words, the participants know and feel that that participation, and potential winning, takes them to a step further. No matter for them how artificial something is - it matters more that they can be in a more real situation for the growth. 
 
-But some others passed with good scores, and stronger claps too, and I think that they became more tied to that identity. What really changes is that they moved from aspiring entrepreneurs to teams executing a certain idea now supported by the stamp of a program entitled - put that Silicon Valley branded accelerator stamp here. 
+In one of the situations that I had participated, I recall from the early feedback I had collected before the pitch that one of my ideas had produced increased level of growth in the pupils of some of the local mentors. The idea had to do with a way for Brazilians to split the bill of a pub more easily. But after my own considerations, I had decided to move on with some other idea - of a slides platform or yet another slides platform, the idea that didn't produce any excitement in the early feedback. Long story short, my pitch didn't do well, the presentation didn't ring any bell or convinced the local judges of its potential. So I got a bad grade and even an assignment - a homework not to say a punishment - that was basically about a chance to get back on track or to be out. But a limited number of others did pass with good scores and stronger claps. One thing I have noticed tough, that in the hurry of things happening I seemed to be back into a certain position, like of a learner or apprentice. And on the other hand, the winners seemed to be in a different stage, as in of being matured in a way. At the moment and given the stages of that situation, it really felt that they moved from beings that wore that "aspiring founder" badge into other category of beings like "pitch winner team" approved by that Silicon-valley-based accelerator program. 
 
-It comes from this growth with social capital that not only their identities are shaped but are in a way assumed as critical. It can happen. When they find into it, they perceive as a value, and of course the implied challenge that values can't be taken. Thus, it may be so that they use time to not only seek and join these affairs but also nurture their identities and associations after all it is what protects them. 
 
-And it does so, even so and so that they can also get into trouble. 
+In retrospect, having considered the feeling of us as protagonists moving up and down that ladder of growth, it became clear how strong and impactful it can be when we interact with these players - or representatives or promoters of the growth ahead. In a way, they get to be the resources we so much want to have with us. That I sort of knew, we knew, especially if we consider that we are beings onto something, and focusing on the objectives first. But what I couldn't see at the time was really how these social interactions had the potential to set out the expected set of behaviors from us - an idea I had seen better after having read the following quote from Amarthya Sen in *Identity and Violence - the illusion of destiny*: 
 
 > *"Our focus on particular identities can enrich our bonds and make us do many things for each other and can help to take us beyond our self-centered lives. The recent literature on 'social capital,' powerfully explored by Robert Putnam and others, has brought out clearly enough how an identity with others in the same social community can make the lives of all go much better in that community; a sense of belonging to a community is thus seen as a resource - like capital."* (Sen, 2006, p.2) 
 
@@ -862,7 +847,6 @@ And it does so, even so and so that they can also get into trouble.
 * reference - Sen, A. (2006). Identity and Violence: The Illusion of Destiny. W. W. Norton & Company, Inc.
 --> 
 
-It may be important, therefore, to recognize that the formation, or support for an an identity, hasn't ties with product identity, such as ties associated with the vision. These ties also lies in self-efficacy, self performance, self-esteem, that they develop through the execution. 
 
 
 
@@ -882,20 +866,12 @@ It may be important, therefore, to recognize that the formation, or support for 
 
 
 
+### Feeling of what happens 
 
 
+But if looking from above suggests the formation of an identity - given that are are generally embracing what we feel must be given we have picked the right path of growth - that idea should then invite us to the considerations and concerns if what happens in the day happens to be taken differently by who we are of the moment. In other words, are we subject to feel and judge what happens by using certain goggles? 
 
-But if looking from above suggests the development of an identity, such as one that gets in the way a wider view, a stronger focus then must go for the actuall challenges of the day, as entrepreneurs do execute from the early stage and do not recognize that they deal with their identities. The reality of the day deals with the struggle where emotions happen and affect reasoning and decisions and even if it shapes entrepreneurial character it does so more silently without an alarm. 
-
-We make calls, we make mistakes - in the context of urgencies, pressures of judgments. We make trouble such as ends. And after post-mortem, we wished we could call us back in time. Or to put in another way, when what we thought were right happen to become a trainwreck, and when all dies, and when we move onn. Suddenly it may be the case that light comes our way, as if the natural post-mortem, now not needed, happens within the space of total freedom, which is indeed enlightening and provokes one to think that "now that I solved all, I can't go back in time" and reason that "my belief was confusing me." They can only then achieve such new insights when they see what they did from a perspective such as a protected space where they can't anymore be in the control of the outcomes, such as when they lost the battle, they are now free from the psychological control. 
-
-The complication is then, in the heat of all that happens, with no clear vision of any identities influencing, they can't separate these emotions, emotions that counts and chimes in, especially in front of projections of judges, and the pressure of time. So the question remains: can the successful entrepreneur separate emotions from ideas like someone who is inside and at the same time outside the hurricane? The answer is yes although it involes the recognition of tolerance for ambiguous situations such as abilities to live inside and outside the reality of what happens. 
-
-<!--
-
-scqa: key - experience emotions seem not tied with identity?
-
---> 
+We make calls and we make mistakes - and certainly too due to the context of urgencies and pressures of judgments. That is to accept the implicit fact that we don't have all the time in the world to see all that happens with different perspectives, such as the truth from above. But it just so happens that after the post-mortem reflective exercises, naturally in retrospect, we find ourselves comfortable to even come up with that line of saying that says "if I could call myself back in time." Or to put in another way, given that what we thought were right happened to become a trainwreck, we seem to then be able to move on. Suddenly it may be the case that light comes our way, as if the natural post-mortem happens. Now, from the perspective outside the battle, we feel the total freedom which is indeed enlightening and provokes one to think that "now I solved all although I can't go back in time." This is yet another opportunity when we seem to be able to see ourselves in the past, such as to reason things like that "my belief was confusing me." 
 
 
 
@@ -905,21 +881,29 @@ scqa: key - experience emotions seem not tied with identity?
 * Outline - Social Capital - Complication - Robert McKee explains, real life action.
 -->
 
+This might then be a situation that set us to consider that our being of a moment have a psychological control of its behaviors, although not perceived, although seamless. In other words, we can't be fully aware of our psychological perspective because we are in the positin of the protagonist, the one that feels, in realtime, all that happens. 
 
+According to Robert McKee [1], "In life, if you see a dead body in the street, you are hit by a wave of adrenaline: 'My God, he's dead!' Maybe you run away in fear. Later, when the emotions settle down, you may reflect on the meaning of the death of this stranger, your own mortality, and life under the shadow of death." The truth is that in the face of ups and downs we are emotionally affected because we are human, because we feel. But that would be a generalization of what happens as one leaving the identity of a human. The reality is that we are the human that we made ourselves at that point in time - and how we respond to the situation in real time tells a lot about what kind of human we are, about who we are. 
 
-
-In the battles of the learning and doing, the subject of the identities can be used so that we can reflect about these emotions that in the day drives but with no alarm given; supporting a must reflection as we are generally unable to pause to reflect on what we fell, why we feel, how we are reacting, and if our reaction can be driven by values, such as if emotions driving decisions are triggered from value-systems associated with who they are and their roles. 
-
-According to Robert McKee [1], "In life, if you see a dead body in the street, you are hit by a wave of adrenaline: 'My God, he's dead!' Maybe you run away in fear. Later, when the emotions settle down, you may reflect on the meaning of the death of this stranger, your own mortality, and life under the shadow of death." The truth is that in the face of ups and downs we are emotionally affected because we are human, because we feel. For example, saying no, even to an unwanted type of client, is not so easy if the entrepreneur feels empathy and compassion. In other words, it is not just a simple question of suitability for the business.
-
-When we feel emotions such as insecurity or fear in the situations we experience, we feel them because our brain is defending us: sometimes we even perceive risk situations as if we were being attacked — like trying to flee from a tiger. The idea of losing a client, or even a client meeting that didn't happen (the client needed to cancel), are day-to-day events for the entrepreneur that come in any form, as they are part of the adversities on the battlefield. Thus, our perception determines our emotions and reactions. If we are conditioned with the perception that losing a client is a threat, our brain can trigger an emergency routine and the emotions tallied may be too strong to the point of impacting our performance and our ability to, for example, reflect with the creativity that could eliminate problems.
-
-For McKee, in life, idea and emotion come separately. This view can help us explain the liberating reflection that arises when a former entrepreneur gives up but as soon as they start a new job they can organize their ideas — oh, if they could make a call to their former self or go back in time.
-
-<!-- 
-
-Key point - see from far? Cold? Should this be here?
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Identity - Bring the reference to Robert McKee, of Storytelling. @meta-refid 7676-8484-9233-1233
 --> 
+
+<!--
+@meta @references
+* Reference - 
+-->
+
+In an analogy with the situation, considering the controlled personality of an entrepreneur that lives in a given space and time, and likewise, that such personality feels the emotions that hits them, personally; that finds herselve now compelled to respond in certain ways, to be responsible to certain duties, to comply with certain expected behaviors, perhaps given by the rulebook that defines what they should do at that moment. 
+
+For example, the idea of saying no to customers can be better grasped after one has the actual experience, after having said yes to the wrong customers, after having felt the cost, or having put the startup at risk. Or one could grasp that reality by learning in the rule book too, by following a narrative. Either way one could embrace the the personality that fears saying yes to wrong customers, as a mental shortcut, like a heuristic, that sets a function to be operated by the performer, or the protagonist. 
+
+For McKee, in life, idea and emotion come separately. This view can help us explain the liberating reflection that arises when the entrepreneur finds that state, in the future and outside the heated perspective, of "if I could make a call to their former self or go back in time."
+
+
+
+
 
 
 
@@ -944,40 +928,13 @@ Key point - see from far? Cold? Should this be here?
 
 
 
-The reality of this modern path for startups can well develop with a certain degree of structure such as the situation of a solo founder that seeks a cofounder in the larger entrepreneurial ecosystem. Or it maybe other kind of resource is is valued and offered by an incubation program. Or to join an accelerator program can be the opportunity. It appears to be the path to the truth when they develop affairs with various kinds of entities of the larger entrepreneurial ecoysystem - spaces that are dynamic, interactive, full of energy and that shows alignment with the need of these founders. In other words, the possibility of affairs with thse external entities becomes the work environment for moving into growth for the startup goals; but also a powerful and rich as it is networked, full of support, full or knowledge, rich in elements that can indeed catapult them up the ladder of growth. With that it comes the implication that as entrepreneurs seek, find, and acquire social capital; they get equally into it, driven by, affected by, which also validates not if they are going in the right direction but materializing who they are. 
+The reality of this modern path for startups can well develop with a certain degree of structure such as the situation of a solo founder that seeks a cofounder in the larger entrepreneurial ecosystem. Or it maybe other kind of resource is is valued and offered by an incubation program. Or to join an accelerator program can be the opportunity. It appears to be the path to the truth when they develop affairs with various kinds of entities of the larger entrepreneurial ecoysystem - spaces that are dynamic, interactive, full of energy and that shows alignment with the need of these founders. In other words, the possibility of affairs with thse external entities becomes the work environment for moving into growth for the startup goals; but also a powerful and rich as it is networked, full of support, full or knowledge, rich in elements that can indeed catapult them up the ladder of growth. 
 
-In other words, the formation of the founder's identity is slow - as it is not launched out of the sudden as if it is a super hero's identity launched with the product launch - althought it is generally visible through the launches as of course successfyl launches attrach the limelight where all sorts of people are interested in looking at their situation from various perspectives such as to reflect about founder's identity. But in fact the identity formation goes along with the modern approach of entrepreneurship where interactions with entities happen along the way, which also goes well with the lean way of doing entrepreneurship where a lot more happens and where a potential growth ladder exists.  
-
-
+With that it comes the implication that as entrepreneurs seek, find, and acquire social capital; they get equally into it, driven by, affected by, which also validates not if they are going in the right direction but materializing who they are. In other words, the formation of the founder's identity is slow - as it is not launched out of the sudden as if it is a super hero's identity launched with the product launch - althought it is generally visible through these moments or milestones, like big launches or when the limelight appears and the photos are taken and where all sorts of eyes may be then interested to looking at their situation from various perspectives such as to reflect about founder's identity, and their personalities. But in fact the identity formation goes along with the modern approach of entrepreneurship where interactions with entities happen along the way, which also goes well with the lean way of doing entrepreneurship where a lot more happens and where a potential growth ladder exists, even if it is artificial in a way, up to the point it appears to be real, be it real or not. 
 
 
 
 
-
-
-
-
-
-<!--
-@meta @outline 
-* Outline - Emotions - Reid Ben case of salesman and fly from above 
-* Outline - Emotions - Marcio wants to add the lemon case of Bill Draper. 
-* Emotions - Question - Complication - Reflection and solution if we can be colder?
-* Emotions - Answer - Can develop that through empathy 
--->
-
-
-
-
-According to Reid Hoffman and Ben Casnocha (2012), the real estate agent does not know when their next payment will come in because their job is based on highs and lows. So the agent works to sell but also on building their client network which is compatible with constant changes in daily life. It can be said that salespeople and brokers are resilient or even opportunistic. But we can look at the discipline that defines the survival conditions of brokers: they need to create a space to work on ideas isolated from the arrows of emotion, from the adversities of daily life. When the broker sells a big house, they are aware that they cannot be shaken for a longer time. What explains this resilience of sellers, in part, is a preconception inherent in the profession itself: sellers fly over, observe the environment, work in networks, and eventually dive to conquer their prizes. They do not categorize the work of the sale (the conquest of the prize) as being the greater work. For them, what is work is working on the network, flying over, navigating, observing, looking for new directions.
-
-But the day-to-day life of an entrepreneur is different, for unfortunately, emotions do not come with a label that says “beware you are being charmed by emotions!” The reality is that we do not separate emotions from ideas precisely because we are human and because we learn to feel first. The truth is that our humanized version is proof that we were programmed to be occasionally lost.
-
-The question that arises is the dilemma of being an entrepreneur versus being human. Is the successful entrepreneur less human since they manage to better navigate the day-to-day battle? Many become more experienced as they synthesize thoughts based on learning and in the face of daily adversities. And many seem to be more systematic or even colder after so many failures and successes. But these are perceptions that take into account the journey already traveled by those who have made it.
-
-Now, in the field of battles and uncertainties, we need a humanized approach to tread a path that is not as demotivating as “ceasing to be human.”
-
-This path exists thanks also to another human factor, just like feeling. It stems from our human capacity to feel for others. When we look outward, at someone else's problem, we feel, but we feel in a different way with empathy and compassion; very different from living as the protagonist. The humanized version for the entrepreneur is straightforward: we can help other entrepreneurs, especially those who are facing adversities. Even starting from the position of a listener, we are exercising our abilities to observe, listen, reflect, and opine. Moreover, we engage in a “together with them” manner with empathy and compassion for the problem but at the same time know that we are outside the eye of the storm. This approach helps us synthesize ideas without the confusion of emotions that only the protagonist feels. It becomes an exercise that makes us bolder, that creates a more flexible mental model, a perspective; not to mention the help we will be providing to others.
 
 
 
@@ -993,20 +950,23 @@ This path exists thanks also to another human factor, just like feeling. It stem
 
 ### Cases of roles of an identity 
 
+According to Reid Hoffman and Ben Casnocha (2012), the real estate agent does not know when their next payment will come in because their job is based on highs and lows. So the agent works to sell but also on building their client network which is compatible with constant changes in daily life. It can be said that salespeople and brokers are resilient or even opportunistic. But we can look at the discipline that defines the survival conditions of brokers: they need to create a space to work on ideas isolated from the arrows of emotion, from the adversities of what happens by the hour in the day to day. When the broker sells a big house, they are aware that they now have something that takes them to survive for a longer time. What explains this resilience of sellers, in part, is a preconception inherent in the profession itself: sellers fly over, observe the environment, work in networks, and eventually dive to conquer their prizes. They do not categorize the work of the sale (the conquest of the prize) as being the greater work. For them, what is the greater work is the working on the network, flying over, navigating, observing, looking for new directions.
 
 
+<!--
+@meta @todo
+* @todo - p2 ( ) - In Identity - Check Read and Ben reference, page. @meta-refid 5566-4455-3344-2121
+--> 
+
+<!--
+@meta @references 
+* @reference - Hoffman, R., & Casnocha, B. (2012). The start-up of you: adapt to the future, invest in yourself, and transform your career. New York: Crown Business.
+--> 
 
 
+But the day-to-day life of an entrepreneur is different, for unfortunately, emotions do not come with a label that says “beware you are being trap by that emotions given your perspective X.” The question that arises is logically to wonder if the entrepreneur could escape the realtime entrepreneur-human that feels and perceives by its own perception, as if to wonder if the successful entrepreneur is less human or colder enough, such as one that had lived through so many failures and successes. 
 
-Every entrepreneur will undertake something with a goal or cause. We reach this stage because we want to change something in the world or achieve a better life. There are motivations and dreams, we already know that. But also, the moment we plant a seed in this terrain, we are not just waiting, but we are shaping our identities as entrepreneurs. So far, so good. The problem, the complication, is that we are in search of support.
-
-Let's reflect on the need to regulate self-esteem, which is natural for people; but how the idea of regulating self-esteem is also tied to an identity that can be invented and is projected as being an identity in the future based on the expectation of success. And how engaging with this identity can lead the entrepreneur to fall into traps that will cost them time; and can actually help to destroy the real identity of the person, the experience, creating frustrations and lack of energy.
-
-In this study, we will first address the case of Myanmar, in which a protagonist, after leaving prison, gains fame that triggers chaos in the nation. This example vividly illustrates how our environment can act as a catalyst in accelerating our identity. In an increasingly digital world, these phenomena occur more frequently and quickly, revealing an alternative reality shaped by the connections we establish and the narratives we create.
-
-
-Next, we will delve into the implicit issue of identity in entrepreneurship. Through a reflection on this idea of entrepreneurial identity, we seek evidence that identity is not just a phenomenon, but also an essential premise for the act of undertaking. We will also explore the experiences of personalities in the industry, considering inherent risks to this process; that demands a higher degree of consciousness the more we move towards the entrepreneurial trajectory and develop a potential identity. 
-
+Now, instead of dehumanizing ourselves such as seeking to be not human, like to suddenly attempt to get out from a perspective by embracing a perspective of a mechanical nature - such as one that jump into asking others as if they are tools just to get a multitude of perspectives - we shall use our moment to watch in perspective other situations of entrepreneurship, exactly because by looking at those we aren't in it but we are apt to exercise our human ability to feel for others, as we feel empathy. This approach helps us synthesize ideas without the confusion of emotions that only the protagonist feels. It becomes an exercise that makes us bolder, that creates a more flexible mental model, a perspective.
 
 
 
@@ -1039,7 +999,7 @@ Melissa also highlights in her article how the startup space - she was inspired 
 
 > *"Tech is particularly good at creating the conditions that normalize this blurry line. Between booze in the office, drinks after work, offsites, outings, and all hands it can feel like a bunch of your social needs are well covered during working hours."* (Nightingale, M., 2016) 
 
-This reinforces that beyond the issue of entrepreneurs' identity, there is also the element of social pressure. The need to be accepted, dedication to work, the feeling of belonging - all these factors can become inducers for one to engage in developing a professional identity, under the needs to perform too. Or it could be said that it goes beyond the necessary and ideal professional identity; but the sad reality is when we are trapped thinking it's a professional identity. It's a challenge to identify when investment in work becomes harmful, not only to us as individuals but also to our collective space, therefore harming collaboration. It is even possible that Melissa from the future would have a hard time to convince Melissa from the past in a call from the future as her past self were not sleeping much, resting as needed, reflecting as needed. 
+This reinforces the idea that an entrepreneurs' identity is formed by its relationships and the social pressure. The need to be accepted, dedication to work, the feeling of belonging - all these factors can become inducers for one to engage in developing a professional identity, under the needs to perform too. Or it could be said that it goes beyond the necessary and ideal professional identity; but the sad reality is when we are trapped thinking it's a professional identity. It's a challenge to identify when investment in work becomes harmful, not only to us as individuals but also to our collective space, therefore harming collaboration. It is even possible that Melissa from the future would have a hard time to convince Melissa from the past in a call from the future as her past self were really living that personality. COnsider that besides her not sleeping much, resting as needed, reflecting as needed, how she valued the people that were colleagues of her. Her perception at the time were not that she was a hero for the sake of being a hero. Likely she happened to be living the role of a hero that cared too much, like a mother would when she sacrifices herself for her child even to a point of putting her child at risk. 
 
 <!-- 
 @meta @references 
@@ -1067,11 +1027,20 @@ This reinforces that beyond the issue of entrepreneurs' identity, there is also 
 * @todo - p2 ( ) - In Identity - Check if Barbara's message can be inserted, if this needs Barbara's approval. @meta-refid 1222-2233-3232-7373 
 --> 
 
+
+The situation given by Melissa had inspired me to consider how systems and tools also comes with narratives that can be influential in own ways and can suggest to ourselves to embrace roles, or personalities, or to be an identity. As an illustration, consider if the perspective of Melissa happened to be given by a cape she were using before - which luckily for her she left behind or buried - but then an apprendice of an entrepreneur finds that cape. 
+
+Of course, and although the situation we consider has to do with perspectives and less with a material "cape" or a rule book, still it happens more that tools are being used by communities too.  So it may matter too how many of the systems and tools and platforms are actually speaking to us by projecting the successful kind of user of them. And this, in a way, is by design, built in too - as many startup teams systematically project their value propositions with the idea of personas. 
+
+In this regard, and before I set myself to become a writer - by writing it everyday without running in the shadow of tools - I happened to have told a great writer about ChatGPT and how I was using it successfully to write essays. I have given to her a great deal of details of how I was able to instruct the tool which made my superpowers - as a writer - greater. But I could only see, after I had received a note from her, the true opportunity to really become a writer: 
+
 > *"Marcio, do not make a song or dance about what is a simple activity. And do not go looking for tools. Your brain is the tool. Think it through."* Barbara's message to Marcio. 
 
+It may not be - for you - the sort of awakening call I got. But the moment that Barbara told me that writing is a simple activity, she had provoked me to see in pespective that I was projecting myself as a hero with a tool; and focusing in becoming an identity that was conducted by that tool. When I noticed that, I was able to see the likelyhood of myself allowing the tool to control the conduction, or my style, or even to be lost by any movements that the tool could make that I would not know what it would be. The real difficult to see that was that the tool were too amazing - plus the fact that tool had helped me to gain an improved perspective about how to be a writer. The outcome, from the reflection after Barbara's awakening call, consisted of myself to not allow the tool to be a conductor of my movement. Today, for example, after being a writer or as a real conductor of this writing, I am able to use the tool in more proper ways, such as to ask the tool to read a section from the perspective of an entrepreneur, or an investor. Like using it to test, or other specific tasks related to research. Notice the difference - from using a tool to the situation of believing that you are a superhero because of the tool. 
+
+An observation from Steve Blank about the emergence of digital systems is also another great opportunity to reflect on our ability and propensity to see ourselves becoming others: 
 
 > *"When page-layout programs came out with the Macintosh in 1984, everyone thought it was going to be the end of graphic artists and designers. “Now everyone can do design,” was the mantra. Users quickly learned how hard it was do design well (yes. it is an art) and again hired professionals. The same thing happened with the first bit-mapped word processors. We didn’t get more or better authors. Instead we ended up with poorly written documents that looked like ransom notes. Today’s equivalent is Apple’s “Garageband”. Not everyone who uses composition tools can actually write music that anyone wants to listen to. "* (Blank, Steve., 2011)
-
 
 <!--
 @meta @references 
@@ -1091,7 +1060,7 @@ This reinforces that beyond the issue of entrepreneurs' identity, there is also 
 * Outline - Social Capital - Affected by fame
 -->
 
-#### Challenging fame   
+#### Challenging the club of fame     
 
 
 
@@ -1115,63 +1084,25 @@ In the book *The Chaos Machine: How Social Networks Reprogrammed Our Mind and Ou
 * @todo - p2 ( ) - In Identity - Fix the reference to "A Máquina do Caos" to use the english one. @meta-refid 5544-3434-1212-2345
 --> 
 
-Wirathu's story begins with a dark past, confined to an environment of hate during his imprisonment. However, his homeland, Myanmar, underwent significant transformations during his detention, including the widespread adoption of the Internet and social media, largely thanks to a partnership with the United States. Inspired by Silicon Valley leaders and former President Barack Obama, Myanmar made a rapid transition to the digital age.
+Wirathu's story begins with a dark past, confined to an environment of hate during his imprisonment. However, his homeland, Myanmar, underwent significant transformations during his detention, including the widespread adoption of the Internet and social media, largely thanks to a partnership with the United States. In partnership with Silicon Valley leaders and former President Barack Obama, Myanmar made a rapid transition to the digital age.
 
-As a result, the Internet - particularly platforms like Facebook and YouTube - became a stage for Wirathu to communicate with followers and increase his influence. According to Fisher, Wirathu enjoyed a popularity that propelled his communication with the world in a way that was unimaginable before the Internet era. Previously, he would have had to travel across the country to spread his words and gain followers.
-
-On social media, however, Wirathu's words were amplified by the users themselves, driving a biased narrative. He "accused the Muslim minority in Myanmar of horrendous crimes, mixing rumors with fabrications" (Fisher, p.55, our translation), generating an alternate reality that became alarmingly mainstream thanks to his celebrity status.
+As a result, the Internet - particularly platforms like Facebook and YouTube - became a stage for Wirathu to communicate with followers and increase his influence. According to Fisher, Wirathu enjoyed a popularity that propelled his communication with the world in a way that was unimaginable before the Internet era. Previously, he would have had to travel across the country to spread his words and gain followers. On social media, however, Wirathu's words were amplified by the users themselves, driving a biased narrative. According to the story as he "accused the Muslim minority in Myanmar of horrendous crimes, mixing rumors with fabrications" (Fisher, p.55, our translation), he had created an alternate reality that became alarmingly mainstream thanks to his celebrity status.
 
 <!--
 @meta @todo 
 * @todo - p2 ( ) - In Identity - Check the english quote - Marcio has the pt-br book - @meta-refid 7676-9898-7364-8764
 --> 
 
-Fisher highlights that the people of Myanmar were introduced to Facebook in an already developed state, creating a kind of digital explosion. Consequently, as users engaged with social media, they built or reinforced their identities. The popularity and echo within the support group became evidence of truth, fueling a confirmation bias that overlooked any counter-argument.
+Fisher highlights that the people of Myanmar were introduced to Facebook in an already developed state, creating a kind of digital explosion. Consequently, as users engaged with social media, they built or reinforced their identities. The popularity and echo within the support group became projections of the reality fueling a confirmation bias that overlooked any counter-argument. Therefore, users came to interpret the popularity of a post or figure like Wirathu as a validation of their beliefs and perceptions, strengthening their identity while simultaneously creating a cycle of bias confirmation that amplified the alternative narrative. 
 
-Therefore, users came to interpret the popularity of a post or figure like Wirathu as a validation of their beliefs and perceptions, strengthening their identity while simultaneously creating a cycle of bias confirmation that amplified the alternative narrative. In a notable episode, this dynamic culminated in violent attacks on the Muslim minority, motivated by information spread through social media.
+In a notable episode, this dynamic culminated in violent attacks on the Muslim minority, motivated by information spread through social media. Wirathu and Myanmar's case, as described by Fisher, highlights the power of social media in a newly connected society. What were once unconfirmed fragments of beliefs became, in the digital age, mass validation of an alternative identity and narrative, providing users with a distorted sense of reality and morality. 
 
-Wirathu and Myanmar's case, as described by Fisher, highlights the power and danger of social media in a newly connected society. What were once unconfirmed fragments of beliefs became, in the digital age, mass validation of an alternative identity and narrative, providing users with a distorted sense of reality and morality. This illustrates the urgency of addressing the spread of misinformation and hatred on social media to ensure a safer and more inclusive digital future.
-
-
+Now, and besides the reflection given by Walter about the urgency of addressing the spread of misinformation and hatred on social media aiming a safer and more inclusive digital future, it is innevitable to now consider the scenario that the system had created Wirathu; that he had evolved it is clear. But it can be difficult to see that Wirathu were not into a discovering of his true self but it were in fact onto embracing a potential. In other words Wirathu might have been accelerated by its growth space he nurtured. It's the chicken and egg problem. 
 
 
 
 
 
-
-
-<!--
-@meta @outline 
-* Outline - Social Capital - Challenging the critic
--->
-
-#### Challenging the critic 
-
-
-
-"Aiming for that, I learned to write setting judgment aside and save a polish for later. I canned this new, freer writing "laying track." For the first time I gave myself emotional permission to do rough drafts and for those rough drafts to be, well, rough. " - (Cameron, 1998, p. 19)
-
-Now, another point of view for writing, from the *Art of Non-fiction*, is from Ayn Rand, the philosopher known for objectivism. She pointed that when writing, the act of engaging with editing when doing the first draft is a writing approach that leads to major complications, such as the conscious editor process that messes up with the subconscious that needs to write, to run smooth. 
-
-<!--
-@meta @todo 
-* @todo - p2 ( ) - In Identity - Add reference to The Art of Non-Fiction by Ayn Rand. @meta-refid 1233-6654-3333-1212 
---> 
-
-Looking at the writing moment of a writer, and stages, seems to give us a view of how we manage our activities, micro management where a judge comes into our way before. Both, Julia and Ayn Rand, as professional writers, acknowledges the necessity of the critic and editor that does the judgement job, of course. But the real point is when to call it. Julia Cameron added that for the situations that she was able to put her judge aside - "When I went back to polish, I found there wasn't that much to fix or change. A remarkable amount of my first-draft material withstood the test of later scrutinity. " (Cameron, 1998, p. 19)
-
-Therefore, it comes the point for us to reflect, to consider, that we will need to separate progressing from judgement to avoid the drama or confusion to when the actual development is happening. 
-
-<!--
-@meta @todo 
-* @todo - p2 ( ) - In Identity - Consider to check if the ideas from Michael Dearing referred as "editor-in-chief" could be applicable here. @meta-refid 7676-8795-9192-1233 
---> 
-
-
-<!--
-@meta @references 
-* Reference - Cameron, J. (1998). The right to write. TarcherPerigee.
--->
 
 
 
