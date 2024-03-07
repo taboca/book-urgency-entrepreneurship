@@ -813,21 +813,19 @@ With that it comes the implication that as entrepreneurs seek and acquire social
 
 
 
-### Feeling of what happens 
+### Feeling what happens 
 
 
-Having us considered that the founders might embrace certain personalities, that they do so under the pressure of what they expect of themselves, I now invite you to reflect on the scenarios and the decisions that they make as result of the perspectives that they experience as a result of who they are or become.  
+Having us considered the idea that founders might embrace personalities as a result of the environment - and that they migth do so under the pressure of what they expect of themselves - I now invite you to reflect about the challenges in the day to day as their perspectives and consequently their decisions can result from who they become. 
 
-Let us start by considering that certain roles shows particular characteristics of the people involved, such as that notion from Steve Blank that to be a founder is to not be into a normal job and that they gotta do because they love it. As another example of a role that is intrinsically related to the doers involved, consider the viewpoint given by Reid Hoffman and Ben Casnocha (2012) of the real estate agent - that does not know when their next payment will come in and are fine with that: 
+Let us go back to Steve Blank's ideas that characterizes a founder as one that has to do it because they love and not as a job.Assuming that personality, it then becomes easy to consider the linked characteristic of resilience as an element that may affect their perceptions, such as to be open to support the downs that happens in the day. Another situation that implies resilience as a characteristic of the role is the case of a real stage agent that they are okay with the knowing that the next paycheck is sporadic. In The Start-Up of you, Ben and Reid call our attention to a built-in dynamics that might be characterized by the doers of certain roles: 
 
-> *""* (Hoffman, 2012)
-
-It can be said, from far, that salespeople or brokers are resilient or even opportunistic. But looking from the perspective of the field they are in, then it is possible to understand that it may be that the condition of what they do creates a disciplined way of operating: they need to create a space to work on ideas isolated from the arrows of emotion, from the adversities of what happens by the hour in the day to day. In other words, when the broker sells a big house, they are aware that they now have something that takes them to survive for a longer time. Or we may also look from the perspective that they do not categorize the work of the sale as the greater prize or if they do they do not take the loss of one specific sale to a point of invalidating their cause. For them, under the perspective that they have acquired, the value the activities that allow them to survive in the long run, such as to be proud of the activities that yields benefits such as to be the working on the network. 
+> *"The real estate agent doesn't know when his next paycheck is coming in. He has ups and downs. He has to hustle to build a network of clients and keep up with changes in the market. His income is humpy, and sporadic big wins (selling a multi-million dollar home) keep him alive."* (Hoffman & Casnocha, 2012, p. 188)
 
 
 <!--
 @meta @todo
-* @todo - p2 ( ) - In Identity - Check Read and Ben reference, page. @meta-refid 5566-4455-3344-2121
+* @todo - p2 (Done) - In Identity - Check Read and Ben reference, page. @meta-refid 5566-4455-3344-2121
 --> 
 
 <!--
@@ -835,10 +833,30 @@ It can be said, from far, that salespeople or brokers are resilient or even oppo
 * @reference - Hoffman, R., & Casnocha, B. (2012). The start-up of you: adapt to the future, invest in yourself, and transform your career. New York: Crown Business.
 --> 
 
+When we think that real estate agents are resilient, or even opportunistic, we would be then jumping to conclusions, too fast, and likely missing the fact that their environment happens to invite them constantly to identify themselves as characters, or performers, that are required for surviving. In other words, how a professional real estage agent reacts to the loss of a big sale is very different from say an accountant or software engineer that is thrown to sell houses without prior training or advice. We may also acknowledge that the later lacks maturity for that task [^footnote_andygrove_taskrelevant_maturity] and along with that the idea that the beginner real state agent can indeed be trained with a advice from a professional and that such training can be helpful under many specific situations such as to be able to be okay with the ups and downs, and be comfortable with receiving lots of no, and more. 
 
-These illustrations shall set us to consider that the doer that is performing responds to the day to day activities - the events and incidents and accidents - in different ways as they perceive all that happens differently. In other words, how you respond to a situation depends on who you are and your perceptions. And your perceptions are formed also by the beliefs that you have. Thus, even if life events in front gives many possible interpretations for what to do, we are likely programmed to react in a way, to operate as expected. 
+[^footnote_andygrove_taskrelevant_maturity]: Andy Grove in High Output Management provides an insightful perspective that what we do, and how we perform, is tied to the maturity level for a task. He had mapped levels from low maturity which requires more guidance, to higher degree of maturity where guidance can be strategic. 
 
-According to Robert McKee [1], "In life, if you see a dead body in the street, you are hit by a wave of adrenaline: 'My God, he's dead!' Maybe you run away in fear. Later, when the emotions settle down, you may reflect on the meaning of the death of this stranger, your own mortality, and life under the shadow of death." McKee helps us to see the difference between the objective perspective of life, which ideas and emotions are separated, to the pespective from the one that is there, in the field and living experiences firsthand; plus how well that personality can be trapped a given moment and space to operate accordinly. 
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Identity - Add reference to Andy and High Output Management regarding TRM - @meta-refid 1212-2222-3333-1223 
+--> 
+
+
+
+
+
+
+<!--
+@meta @outline 
+* Outline - Social Capital - Complication - Can we separate things? What if the playbook set us into being locked too?
+-->
+
+
+
+
+
+But then it comes a complication, or a paradox, which starts with the realization that any mature identity that we achieve becomes a trap when we are in a different setting. And along with that are any stage we are essentially operating on top of the same human operating system that we fear/welcome things using mental shortcuts of the personality we are. As if we are essentially using the same calculator, just moving through different numbers as if I the beginners is happy with basic arithmethic operations but fear complex ones. But then she gets to be happy to complex ones and fear advanced math. And so on. In other words, we can get out from that basic internal human operating system of feeling under the perception of the moment. According to Robert McKee [1], "In life, if you see a dead body in the street, you are hit by a wave of adrenaline: 'My God, he's dead!' Maybe you run away in fear. Later, when the emotions settle down, you may reflect on the meaning of the death of this stranger, your own mortality, and life under the shadow of death." 
 
 <!--
 @meta @todo 
@@ -850,11 +868,9 @@ According to Robert McKee [1], "In life, if you see a dead body in the street, y
 * Reference - 
 -->
 
-But the illustration of McKee between the situation of a being - living now - and the reflective being of the future invite us to revisit that common situation of one that looks back - if I could call myself in the past. Implicit in the realization that we could take advantages of multiple perspectives, it comes the realization that we are looking at ourselves of the past, at that character, that by doing so we are considering "my beliefs" that may have influenced that the movement, and considering that we didn't see, that all seemed to be seamless at the time. 
+The illustration of McKee between the situation of a being - living now - and the reflective being of the future, should invite us to revisit that common situation of one that looks back - if I could call myself in the past. Implicit it is the realization that we could take advantages of multiple perspectives when we are far from the problem, when we are looking at ourselves of the past, at that character. And it is also implicit that by doing so we are considering "my beliefs," the perspectives we had, now in third person. 
 
-The question that arises is logically to wonder about the ways for the entrepreneur to gain improved perspectives from that realtime entrepreneur-human state of the moment. Now, the struggle only goes worse as we consider that in the heat of the hour all that happens has to happens fast and that the the startup perspective does not embrace the personality of the research doers that are seeking to get the full data, the whole truth, usually seen as a time consuming and futile, especially in the face that what is happening may have to do with a new space, a new domain, something that wasn't done before. 
-
-We shall then use our moment to consider the situations of others - to continue to see things in perspective, which is an exercise that draws from a human trait, that we can identify ourselves with others, that we feel empathy for the their situations. This approach helps us synthesize ideas without the confusion of emotions that only the protagonist feels. It becomes an exercise that makes us bolder, that creates a more flexible mental model, a perspective.
+Let us then continue to celebrate the view from perspective, in third person, and to consider the situations of others - minimally to take advantage of another implicit human trait that can take us to feel but from distance - empathy - the situation of others. This approach helps us synthesize ideas without the confusion of emotions that only the protagonist feels. It becomes an exercise that makes us bolder, that creates a more flexible mental model, a perspective.
 
 
 

@@ -1,8 +1,8 @@
 # Todo # 
 
-* @todo - p2 ( ) - In Identity - Fix the reference to Storybrand. @meta-ref 1212-1222-3322-1233 
+* @todo - p2 ( ) - In Identity - Add reference to Andy and High Output Management regarding TRM - @meta-refid 1212-2222-3333-1223 
 
-* @todo - p2 ( ) - In Identity - Check Read and Ben reference, page. @meta-refid 5566-4455-3344-2121
+* @todo - p2 ( ) - In Identity - Fix the reference to Storybrand. @meta-ref 1212-1222-3322-1233 
 
 * @todo - p2 ( ) - In Identity - Bring the reference to Robert McKee, of Storytelling. @meta-refid 7676-8484-9233-1233
 
@@ -308,6 +308,8 @@ https://chat.openai.com/share/b7eb16c5-4c18-4709-9220-bd2629f34a3d
 * Culture 
 
 ## Done
+
+* @todo - p2 (Done) - In Identity - Check Read and Ben reference, page. @meta-refid 5566-4455-3344-2121
 
 * @todo - p1 (Done) - In Identity - Maslow and identity developed by work -  It might be worth it to point that Maslow indicator for the development of an identity in the work place could be challenged with the simple idea that people live a life beyond work. I think that Maslow's point has to be seen under the context in time that people used to be a lot in the same work space and under the isolated observation that there are situations which is likely to be the case, due to the points given such as when the work or team embraces the person. @meta-refid 1233-1234-4567-0987
 

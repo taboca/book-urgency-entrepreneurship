@@ -254,6 +254,7 @@ Blank, S. (2014, March 13). [Video]. MAP Unimelb. https://www.youtube.com/watch?
 
 <!-- 
  230_self_confirmation_bias_social_identity.txt
+ 100 / 610_identity 
 --> 
 
 Nightingale, M. (2016). Why it’s a Mistake to be a Startup Superhero. Medium. Recuperado de https://medium.com/the-copour/why-its-a-mistake-to-be-a-startup-superhero-e221b0969ec9
@@ -265,8 +266,6 @@ Hoffman, R., & Casnocha, B. (2012). The start-up of you: adapt to the future, in
 How to Start a Startup. (October 2nd, 2014). Lecture 4 - Building Product, Talking to Users, and Growing (Adora Cheung). Retrieved fom https://www.youtube.com/watch?v=yP176MBG9Tk
 
 Greylock Partners. (Nov 30, 2015). Blitzscaling 18: Brian Chesky on Launching Airbnb and the Challenges of Scale [Blitzscaling 18: Brian Chesky fala do lançamento do Airbnb e os desafios de escalar] [Arquivo de vídeo]. Retrieved from https://www.youtube.com/watch?v=W608u6sBFpo
-
-Hoffman. R. () The Startup of You. Editora.
 
 Grant. Adam. (). Originais. Editora.
 
