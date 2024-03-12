@@ -20,8 +20,6 @@
 
 * @todo - p2 ( ) - In Identity - Consider the Moral Drive and Romantic Art - of Ayn Rand - @meta-refid 2343-6574-3243-5544
 
-* @todo - p2 ( ) - In Identity - Entrepreneurship can be taught too, Steve agreed later, and Scott (check letter from Marcio to Scott @letter @meta-refid 6565-0202-9383-1233) had provided a prompt too. @meta-refid 6565-7575-0988-1234
-
 * @todo - p2 ( ) - In Identity - Check if Barbara's message can be inserted, if this needs Barbara's approval. @meta-refid 1222-2233-3232-7373 
 
 * @todo - p2 ( ) - In Identity - Check the quote from about vision being a lofty word from Andy from High Output Management or Only the Paranoid Survive. @meta-refid 6565-8686-1233-2234 
@@ -29,8 +27,6 @@
 * @todo - p2 ( ) - In Identity - Check the quote about Andy from Carmine in the context, motivation for tops-down. @meta-refid 1232-2233-4343-6768
 
 * todo - p2 ( ) - In Identity - Intro Complication - Check map14 material of steve question if entrepreneurship can be taught? / @meta-refid 8877-1233-8474-4444
-
-* todo - p2 ( ) - In Identity - Check the split that Steve Blank made between Composers and Performers of an Orchestra from "Entrepreneurship is an Art not a Job" which from the inspiring and metaphorical aspect connects with that Benjamin Zander had said in his "The Transformative Power of Classical Music" TED talk. and  https://steveblank.com/2011/03/31/entrepreneurship-is-an-art-not-a-job/ https://steveblank.com/2011/04/09/entrepreneurs-are-artists/ and the comments from his commentators / @meta-refid 1222-3332-1212-3234
 
 * @todo - p2 ( ) - In Identity - Fix the reference to "A Máquina do Caos" to use the english one. @meta-refid 5544-3434-1212-2345
 
@@ -51,8 +47,6 @@
 * @todo - p2 ( ) - In Identity - Consider to check if the ideas from Michael Dearing referred as "editor-in-chief" could be applicable here. @meta-refid 7676-8795-9192-1233 
 
 * @todo - p2 ( ) - In Not So Radical Focus - Also check listen and reflect on the "The Basic Hygiene of Management Michael Dearing, Harrison Metal" for the elaborated view about the notion of "editor-in-chief" - @meta-refid 7676-9898-0934-1234
-
-* @todo - p2 ( ) - On Identity - Check cross use of composer case around the book which had referred to Steve Blank. 3290849824-49284928-4290849284901-4988234982394
 
 * @todo - p2 ( ) - In Identity - Bring the story from Brad Feld from Scale-ups about the situation where the CEO from the east company of online cabs, yellow cabs, had refused to close a deal with Sequoia. @meta-refid 6565-9898-9385-1233
 
@@ -312,6 +306,12 @@ https://chat.openai.com/share/b7eb16c5-4c18-4709-9220-bd2629f34a3d
 * Culture 
 
 ## Done
+
+* @todo - p2 (Done) - On Identity - Check cross use of composer case around the book which had referred to Steve Blank. 3290849824-49284928-4290849284901-4988234982394
+
+* todo - p2 (Done, partially solved in intro of 3rd part "escape hatch") - In Identity - Check the split that Steve Blank made between Composers and Performers of an Orchestra from "Entrepreneurship is an Art not a Job" which from the inspiring and metaphorical aspect connects with that Benjamin Zander had said in his "The Transformative Power of Classical Music" TED talk. and  https://steveblank.com/2011/03/31/entrepreneurship-is-an-art-not-a-job/ https://steveblank.com/2011/04/09/entrepreneurs-are-artists/ and the comments from his commentators / @meta-refid 1222-3332-1212-3234
+
+* @todo - p2 (Done, dismissed at this point) - In Identity - Entrepreneurship can be taught too, Steve agreed later, and Scott (check letter from Marcio to Scott @letter @meta-refid 6565-0202-9383-1233) had provided a prompt too. @meta-refid 6565-7575-0988-1234
 
 * @todo - p2 (Done) - In Identity - Check Read and Ben reference, page. @meta-refid 5566-4455-3344-2121
 
