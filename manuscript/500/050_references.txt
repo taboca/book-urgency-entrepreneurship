@@ -114,6 +114,12 @@ McKee, R., & Gerace, T. (2018). Storynomics: story-driven marketing in the post-
 * 100 / 610_identity 
 --> 
 
+<!-- check order --> 
+
+Dearing, M. (2017, March 26). The cognitive distortions of founders. Medium. https://medium.com/@mcgd/the-cognitive-distortions-of-founders-8e96c1edf60b
+
+Greylock. (2015, November 30). Blitzscaling 18: Brian Chesky on Launching Airbnb and the Challenges of Scale [Video]. YouTube. https://www.youtube.com/watch?v=W608u6sBFpo
+
 Chen, A. (2024). How to break into Silicon Valley. Retrieved February 26, 2024, from https://andrewchen.com/how-to-break-into-silicon-valley/
 
 <!-- 

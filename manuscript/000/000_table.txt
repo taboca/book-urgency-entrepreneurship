@@ -1,5 +1,7 @@
 # Todo # 
 
+* @todo - p2 ( ) - In Identity - Marcio have copied a quote from Paul Graham that was way ahead, in chapter 3, to now; because it needs to be evident, from the beginning of the book, that growth is the situation we are talking; this creates a match with the audience. Moreover, we need to make sure that the audience gets to this point with a full awareness of the growth situation. @meta-refid 1212-3212-3328-3834
+
 * @todo - p2 ( ) - In Identity - Check reference to where Jordan Peterson said about leavinng 80% behind. @meta-refid 8383-1212-2339-9333 
 
 * @todo - p2 ( ) - In Identity - Consider to replace Github with the notion of Super hosts by Airbnb. @meta-refid 1221-2222-3333-4322. 
@@ -306,6 +308,8 @@ https://chat.openai.com/share/b7eb16c5-4c18-4709-9220-bd2629f34a3d
 * Culture 
 
 ## Done
+
+* @todo - p2 (Done) - In Identity - Check a reference to Reid Hoffman's "what got you here is not what take you there" or "what brought you here ..." official and also across this materials. Marcio confirms that he also refered about that under Urgency. @meta-refid 1212-2212-3233-4482
 
 * @todo - p2 (Done) - On Identity - Check cross use of composer case around the book which had referred to Steve Blank. 3290849824-49284928-4290849284901-4988234982394
 
