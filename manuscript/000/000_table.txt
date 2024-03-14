@@ -1,5 +1,17 @@
 # Todo # 
 
+* @todo - p1 () - In Identity - Check if the situation of growth should be brought to the beginning, as the situation or the complication of the intro; and if this was introduced in the book before, such as in Wantrepreneur. @meta-refid 1212-3231-3349-9393
+
+* @todo - ( ) p1 - In Identity - Shorten the following, Editing before connecting with investors. @meta-refid 1212-3333-4443-1244
+
+* @todo - p1 ( ) - Wantrepreneur vs. In Identity - Check the https://steveblank.com/2011/03/31/entrepreneurship-is-an-art-not-a-job/ against the two chapters to see if we can say something about the learner vs. performer. 
+
+* @todo - p1 ( ) - In Identity - Consider to read the paper that gives a bit of criticism to the situation of Non Linear Systems - https://www.jstor.org/stable/pdf/2352408.pdf - @meta-refid 1122-3322-3232-0909 
+
+* @todo - p1 ( ) - In Identity - Check a twit X from Paul Graham where he talked about the two sides of believing in an idea, or something like that. He wrote that in January of February of 2024 - @meta-refid 6657-5432-4567-0987
+
+* @todo - p2 ( ) - In Identity - Check let's pivot, and let's pivot again line by Steve. @meta-refid 1212-3223-4212-3467
+
 * @todo - p2 ( ) - In Identity - Check Maslow date for Non-linear work - @meta-refid 7767-0909-1233-3344 
 
 * @todo - p2 ( ) - In Identity - Marcio have copied a quote from Paul Graham that was way ahead, in chapter 3, to now; because it needs to be evident, from the beginning of the book, that growth is the situation we are talking; this creates a match with the audience. Moreover, we need to make sure that the audience gets to this point with a full awareness of the growth situation. @meta-refid 1212-3212-3328-3834
@@ -20,8 +32,6 @@
 
 * @todo - p2 ( ) - In Identity In Social Capital - Review Pmarca on career advice as validation gathering - matches with Steve Blank's lean no lead. @meta-refid 7676-0909-8977-6553
 
-* @todo - p1 ( ) - Wantrepreneur vs. In Identity - Check the https://steveblank.com/2011/03/31/entrepreneurship-is-an-art-not-a-job/ against the two chapters to see if we can say something about the learner vs. performer. 
-
 * @todo - p2 ( ) - In Identity - Consider the Moral Drive and Romantic Art - of Ayn Rand - @meta-refid 2343-6574-3243-5544
 
 * @todo - p2 ( ) - In Identity - Check if Barbara's message can be inserted, if this needs Barbara's approval. @meta-refid 1222-2233-3232-7373 
@@ -41,10 +51,6 @@
 * @todo - p2 ( ) - In Identity - Review Marcio's footnote (footnote_maslow_needs_hierarchy) about Grove and Maslow - which he believes may also have links with Peter Drucker and Maslow - and check in High Output Management the part where Andy brings about Maslow ideas. Andy makes a point with a degree of objectiveness to make the point that observations from the work seem to resonate with Maslow. Andy wasn't extending anything of Maslow, of course. @meta-refid 7676-8383-0988-1233 
 
 * @todo - p2 ( ) - In Identity - Check and review the article from Andy Grove when he brought the subject of compensation and the pyramid of MAslow too - and motivations. @meta-refid 6565-8373-9383-1233
-
-* @todo - p1 ( ) - In Identity - Consider to read the paper that gives a bit of criticism to the situation of Non Linear Systems - https://www.jstor.org/stable/pdf/2352408.pdf - @meta-refid 1122-3322-3232-0909 
-
-* @todo - p1 ( ) - In Identity - Check a twit X from Paul Graham where he talked about the two sides of believing in an idea, or something like that. He wrote that in January of February of 2024 - @meta-refid 6657-5432-4567-0987
 
 * @todo - p2 ( ) - In Identity - Add reference to The Art of Non-Fiction by Ayn Rand. @meta-refid 1233-6654-3333-1212 
 

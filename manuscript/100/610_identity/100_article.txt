@@ -73,6 +73,22 @@ Now, from that journey, and by assuming a certain stage of achievement, it may h
 And while they are not yet concerned with themselves as entrepreneurs - likely because they didn't yet hit a major mark as succerssful or failure to a point of being interviwed about who they are such as their personalities - this is a point when they more intensively, or more consciously, respond to what is ahead by being who they now are. And since a lot of the good benefits of that awareness is taken care or spoken elloquently by too many stories of success, we shall set ourselves to look at the possibility of an identity that responds too in negative ways. In other words, when an identity embraced and formed by its own merits, becomes a potential source of complications that sets challenges. 
 
 
+<!-- 
+@meta @todo 
+* @todo - p1 () - In Identity - Check if the situation of growth should be brought to the beginning, as the situation or the complication of the intro; and if this was introduced in the book before, such as in Wantrepreneur. @meta-refid 1212-3231-3349-9393
+
+* points from Lost and found 
+
+In a previous chapter, especifically in the section Infinite Apprentice, we have considered the advice from Brian Chesky and Reid Hoffman, the idea of the infinite learner, which brought up the challenges of a leader accross the growth stages. Brian reminded us that is not like one becoming more skilled in an art; and instead it has more to do with having to learn a new sport. Brian, therefore, might be a good example that the infinite apprentice is connected with the an inner and humble spirit that enables transformation.
+
+But then by recognizing the situation of Brian, we should take in the consideration the context too, to force ourselves to recognize what he had revealed too about the network of knowledge and learning how to learn - the idea of accessing the best books would be an element - either people or by great books. 
+
+Also the location and timing - that he and his cofounders were in a space that were considered top-tier, YCombinator, and the eventual connection with Reid Hoffman too. Now notice the complexity as Brian and his team moved up the ladder - having entered YCombinator - and the point where they recognized that YC almost didn't invest. 
+
+--> 
+
+
+
 
 
 
@@ -104,10 +120,9 @@ And while they are not yet concerned with themselves as entrepreneurs - likely b
 
 
 
-Let us be concerned with the realization that we embrace a quite beautiful being that can do magic but how that consciousness and trust becomes the very element that prevents one to into transcending it, to change ourselves, such as to creatively destroy ourselves. With the sections below, we will start our reflection by looking at the journey of the self that is starts the movement with passion and motivations. Looking from the holistic view of growth - which indeed starts with the sparks from a particular vision, or from strong values, or even passion from performing, or great ambitions - we will reflect about how their initial system of passions and motivations, and aspirations and valuess, are key drivers taking them into becoming or embracing styles and how that can be challenging. Then we focus within their bubbles, so that we can witness themselves caught in what they think is a path of growth, and in what gives them the status of protagonists, to reflect on the struggle through the interactions and feelings that happens in realtime as they climb through a ladder of affairs and associations with the environment that feeds them for good or bad. Then we come back to the reflection outside their bubbles, to consider how we can break it and challenge the perceptions about our roles; where a better destiny is to embrace ourselves as the whole that lives multiple identities.
+Let us be concerned with the realization that we embrace a quite beautiful being that can do magic but how that consciousness and trust becomes the very element that prevents one to into transcending it, to change ourselves, such as to creatively destroy ourselves. With the sections below, we will start our reflection by looking at the journey of the self that is starts the movement with passion and motivations. 
 
-
-
+Looking from the holistic view of growth - which indeed starts with the sparks from a particular vision, or from strong values, or even passion from performing, or great ambitions - we will reflect about how their initial system of passions and motivations, and aspirations and valuess, are key drivers taking them into becoming or embracing styles and how that can be challenging. Then we focus within their bubbles, so that we can witness themselves caught in what they think is a path of growth, and in what gives them the status of protagonists, to reflect on the struggle through the interactions and feelings that happens in realtime as they climb through a ladder of affairs and associations with the environment that feeds them for good or bad. Then we come back to the reflection outside their bubbles, to consider how we can break it and challenge the perceptions about our roles; where a better destiny is to embrace ourselves as the whole that lives multiple identities.
 
 
 
@@ -333,20 +348,9 @@ By pausing and reflecting about these aspects, we can gain an improved awareness
 * Harmonious or obsessive - entrepreneurs - 
 --> 
 
-### The passions of a founder 
+### Founder's passions 
 
 
-
-
-
-
-
-
-
-<!--
-@meta @outline 
-* Harmonious or obsessive - entrepreneurs - intro to pssions through the job steps ladder 
---> 
 
 
 
@@ -375,9 +379,11 @@ In other words, and as said, we can't avoid becoming performers and we can't avo
 * Outline - Harmonious or obsessive - Case of "How to break into Silicon Valley" [feat. Andrew Chen]
 --> 
 
-
-
 #### A knight and the holy quest  
+
+
+
+
 
 
 
@@ -474,11 +480,16 @@ A situation illustrated by Steve Blank helps to see how we are evaluating oursel
 
 > *"let's pivot!let's pivot!let's pivot!let's pivot!let's pivot!let's pivot!"* 
 
+<!-- 
+@meta @todo
+* @todo - p2 ( ) - In Identity - Check let's pivot, and let's pivot again line by Steve. @meta-refid 1212-3223-4212-3467
+--> 
+
 If you are not acquainted with the word pivot in the startup situation, this jargon refers to the movement of changing directions when a team is doing X and then gets to do Y. To celebrate the prevalecence of this word is to celebrate too the very aspect that pivoting is part of the startup culture, or built in the lean movement, which explains why Steve is concerned after the fact that one that is essentially tapping a button where many of the doers will be compelled to engage. Therefore, and to help teams to see themselves outside their bubbles, Steve Blank has formulated what he calls the 72-hour rule which essentially forbits the CEO from saying "let's pivot" for a period of 72 hours from after they came back in the builting with that call to action and likely some motivating feedback or arguemnt. 
 
-Now, we shall consider a number of scenarios where the advice of Steve could me helpful. One could be that the founder is obsessive with an idea, as in enamorared under the indicated situation of "no one wants to hear that your baby is ugly." Or, on the other hand, the founder could be enamorated with the process now that she was prompted to "get out from the building" and prompted to and check in the face of the prior or more poorer situation. It could even be the case that the team was sick of working on ideas without any data; that they could not stand being executors of theoretical ideas. 
+Now, we shall consider a number of scenarios where the advice of Steve could me helpful. One could be that the founder is obsessive with an idea, as in enamorared under the indicated situation of "no one wants to hear that your baby is ugly." Or, on the other hand, the founder could be enamorated with the process now that she was prompted to "get out from the building" and prompted to and check in the face of the prior or more poorer situation. It could even be the case that the team was sick of working on ideas without any data; that they could not stand being executors of theoretical ideas. So, if on one hand Steve's rule helps these actual teams into awakening, on the other hand it too awakens us to these dynamics when the team might be essentially executing behaviors. Consider that the advice from a team to ask a founder to go outside and get real - given to a founder that spent too much time with ideas - might come from side advice from the team or mentors or others. And moreover, consider that the 72h rule is well respected by everyone given the practitioner's explanation that "one data point is not enough." 
 
-So, if on one hand Steve's rule helps with an awakening, to whoever were listening to the "let's pivot!," on the other hand it also awakens us to the possibility of styles that are embraced by the individual - such as the founder enamorated with an idea not willing to go out from the building, the founder pressured by the team to go out and get anything real, or the situation of one focusing on being an executor of the process. The key point of reflection is to consider that the us as individuals in the heat of doing it might well embraced styles that can be analoguous to following heuristics - essentially embracing and operating by mental shortcuts that are expected of a role that is a projected role likely designed, aimed, expected.  
+The key point then is to how styles of expected behaviors are being talking among team and how new models of expected behaviors enter's the team's operational repertoire in the rush of doing things, where they get to course-correct their styles with new mental shortcuts, or heuristics, essentially embracing and operating given what is expected of a role. 
 
 
 
@@ -503,6 +514,12 @@ So, if on one hand Steve's rule helps with an awakening, to whoever were listeni
 
 #### Being passionated with the potential of the doer
 
+<!--
+@meta @todo
+* @todo - ( ) p1 - In Identity - Shorten the following, Editing before connecting with investors. @meta-refid 1212-3333-4443-1244
+--> 
+
+
 Recovering our theme, we are yet in the context of when things start, looking at the characteristics of the individuals that forms the startup and how that impacts the future of their startup. We can recap that the parties involved might be onto a vision or a calling or you name it but anyway interested in making a new reality. We have also moved away from that idea of a prior vision which would involve a priourly formed identity of these doers. Thus, we had set ourselves to face that the growth ladder of startups as offering lot of elements that influences the doers, their character, their identities as entrepreneurs. 
 
 And into that, that the realm of passions or motivations - and the things we value - are not limited to the things we do, like our objectives or ideas aimed. Thus, that our passions and motivations are certainly linked to what we think are our most precious resource - the generative engine of the startup - the team. In other words, exactly because we measure our most precious resources, we find ourselves into embracing the outter set of styles, the outer set of characteristics of others doers, from other personalities. 
@@ -521,15 +538,7 @@ In other words, how we shape own identities  can be a concern for the the growth
 * Harmonious or obsessive - investors - 
 --> 
 
-### Investor's love and hate for passions 
-
-
-
-In a previous chapter, especifically in the section Infinite Apprentice, we have considered the advice from Brian Chesky and Reid Hoffman, the idea of the infinite learner, which brought up the challenges of a leader accross the growth stages. Brian reminded us that is not like one becoming more skilled in an art; and instead it has more to do with having to learn a new sport. Brian, therefore, might be a good example that the infinite apprentice is connected with the an inner and humble spirit that enables transformation.
-
-But then by recognizing the situation of Brian, we should take in the consideration the context too, to force ourselves to recognize what he had revealed too about the network of knowledge and learning how to learn - the idea of accessing the best books would be an element - either people or by great books. 
-
-Also the location and timing - that he and his cofounders were in a space that were considered top-tier, YCombinator, and the eventual connection with Reid Hoffman too. Now notice the complexity as Brian and his team moved up the ladder - having entered YCombinator - and the point where they recognized that YC almost didn't invest. 
+### Investor's love passions too 
 
 
 
