@@ -1,5 +1,7 @@
 # Todo # 
 
+* @todo - p2 ( ) - In Identity - Check Maslow date for Non-linear work - @meta-refid 7767-0909-1233-3344 
+
 * @todo - p2 ( ) - In Identity - Marcio have copied a quote from Paul Graham that was way ahead, in chapter 3, to now; because it needs to be evident, from the beginning of the book, that growth is the situation we are talking; this creates a match with the audience. Moreover, we need to make sure that the audience gets to this point with a full awareness of the growth situation. @meta-refid 1212-3212-3328-3834
 
 * @todo - p2 ( ) - In Identity - Check reference to where Jordan Peterson said about leavinng 80% behind. @meta-refid 8383-1212-2339-9333 

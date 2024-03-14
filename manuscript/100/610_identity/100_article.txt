@@ -136,7 +136,7 @@ Let us be concerned with the realization that we embrace a quite beautiful being
 
 Let us assume that entrepreneurs, like artists, are following a vision. But I don't mean that kind of vision where one would be a followed of something envisioned as if they could commit to implementing the dots - as if they could get the dots that comes after the fact. I thankful for the analogies with artists because it helped me to shift away from that notion - as that is certainly not what artists do - is an idea I better consolidated when I read from Adam Grant, in Originals that Da Vinci had done about 1200 drawings, to name an example. 
 
-Leaving the romantic idea of a vision such as one that requires a static objective ahead - certainly one that would be better followed by the limelights - we shall turn to vision for how we see ourselves as protagonists. That is more realistic plus quite applicable to explain the various situations when the entrepreneur enters the journey and leaves 80% of what they thought behind and by doing that they actually get to be successful and achieve clarity and encounter or transcend into something new. This goes well with the journey where they find purpose, where the journey too takes them to get the mission right. This other vision also goes better with the words from Andy Grove:  
+Leaving the romantic idea of a vision such as one that requires a static objective ahead - certainly one that would be better followed by the limelights - we shall turn to vision for how we see ourselve                               s as protagonists. That is more realistic plus quite applicable to explain the various situations when the entrepreneur enters the journey and leaves 80% of what they thought behind and by doing that they actually get to be successful and achieve clarity and encounter or transcend into something new. This goes well with the journey where they find purpose, where the journey too takes them to get the mission right. This other vision also goes better with the words from Andy Grove:  
 
 > *""* (Grove, A., 1999, p. xxx)
 
@@ -160,15 +160,9 @@ Leaving the romantic idea of a vision such as one that requires a static objecti
 
 
 
-
-
-
-
-But even if a static vision is not there, and if we envision ourselves doing it, yet we are not into it in any arbitrary way. This is about the right moment to invite the viewpoint from an entrepreneur, an investor, a professor of innovaton and entrepreneurship, a praticioner in the field of startups and known for having originated the the lean startup movement - Steve Blank [^steveblanklean]. 
+This idea that recognizes the role of the entrepreneur in the process is also supported by Steve Blank  [^steveblanklean], a renowed investor, professor of innovation and entrepreneurship, and practitioner in the field of startups and especially known for having originated the Lean Startup Movement. But more important, Steve Blank as an entrepreneur was alive too when he was asked to give a single piece of advice for founders: he recalled his days and reported not believing that he were working in Silicon Valley and being paid to do what he would do for free (Blank, 2014); and that he would even pay to have the opportunity. If that notion seems a bit far from our sight, the essence of it does justice to the situation that many of them do enter entrepreneurship not being paid and into a path of uncertainties and of too many odds against. We recognize that they are driven by passions and motivations and aspirations and and other things that keeps their tank full: 
 
 [^steveblanklean]: Steve Blank is a renowned entrepreneur and academic recognized for being one of the pioneers of the Lean Startup movement. Blank, along with Eric Ries, helped define and propagate the Lean Startup philosophy, which proposes the creation of companies and products under conditions of extreme uncertainty. His work, characterized by "customer development" and the idea of "get out of the building," is a fundamental pillar of this methodology. Blank emphasizes the importance of validated learning, iterative product development, and rapid response to customer needs as key principles for innovation in startups.
-
-When asked to give a single piece of advice for founders, he had given first his perspective with the notion that being a founder is not a job as we know it. He had reported not believing that he was working in Silicon Valley and being paid to do what he would do for free (Blank, 2014) or that he might even pay to have the opportunity. If that notion is a bit not so normal to many people, we still have to agree that it gotta have something - as in to be driven by passions - to that that initial thing going, what keeps the gas tank full for the the journey where the odds are against, to climb the pyramid or the ladder, to go towards the expected situation of growth, or success, or one, but starting from zero: 
 
 > *"Founders is not a job, is a calling... This is not some job. The odds of you making money... versus working at McDonalds, it’s a much better bet that you will be making more money in your career working at McDonalds. You need to do what you are doing because you love it, because you can’t think of anything better to do with your life. And if that is not the case, don’t do this because it’s going to be a miserable 10 or 20 years. If you are looking at getting rich like the Facebook boys, or the Google boys, or whatever the hot startup is now, that is the wrong reason to do it. If you are chasing the money, I will guarantee you, the more you chase it, the further away is goes."* (Blank, 2014, 34:33)
 
@@ -177,9 +171,6 @@ When asked to give a single piece of advice for founders, he had given first his
 * Reference - Steve Blank at MAP14. (Published on Mar 13, 2014.) MAP14 Public Forum: Steve Blank [video]. Retrieved from https://www.youtube.com/watch?v=UFx2CQUTpYo
 --> 
 
-What I like about Steve's view is suits the range of entrepreneurial situations. The calling does justice as it explains the initial movement and because it includes quite well the actual entrepreneur in the story. It helps me to focus on that other kind of vision - a vision for how we see ourselves, as protagonists, that sets us to do it.
-
-Now, as for the matter of money - and althought Steve is right in the idea that money is not generally the outcome - these doers do recognize money as a function within, or like a key element of measure for the success of their calling. To see money in perspective, consider the relative importance of money given by the Andy Grove's reflection from the work situation in High Output Management:
 
 
 
@@ -194,12 +185,7 @@ Now, as for the matter of money - and althought Steve is right in the idea that 
 
 
 
-
-<!--
-@meta @todo 
-* @todo - p2 ( ) - In Identity - Check and review the article from Andy Grove when he brought the subject of compensation and the pyramid of MAslow too - and motivations. @meta-refid 6565-8373-9383-1233
-* @todo - p2 ( ) - In Identity - Consider the thought from Andy Grove about performance of people tied to motivation - which is a management concern as indicated - which connects with Maslow / @meta-refid 6464-8373-9873-8474
--->
+I especially enjoy the viewpoint of *The Calling* not only because it sets the entrepreneur at the center of what happens but also invites us to reflection about how money matters and how it matters exactly money money is not the outcome. In other words, the element of money too a central element in their journeys. It might even be risky to consider an extremme when money is not the outcome but how it is essentially part of the calling as a relative measure of success. As an example, consider the point of view from Andy Grove from High Output Management about how the salary is perceived in a corporate setting: 
 
 > *"Money has significance at all levels of Maslow's motivation hierarchy. As noted earlier, a person needs money to buy food, housing, and insurance policies, which are part of his physiological and safety/security needs. As one moves up the need hierarchy, money begins to mean something else - a measure of one's worth in a competitive environment. Earlier I have described a simple test that can be applied to determine the role money plays for someone. If the *absolute* amount of raise in salary is important, that person is probably motivated by physiological or safety security needs. If the *relative* amount of a raise - what he got compared to others - is the important issue, that person is likely to be motivated by self-actualization, because money here is a measure, not a necessity."* (Grove, A., 1999, p. 213)
 
@@ -207,6 +193,12 @@ Now, as for the matter of money - and althought Steve is right in the idea that 
 @meta @references 
 * reference - Grove, Andrew. (1999). Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company. Crown Publishing.
 --> 
+
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Identity - Check and review the article from Andy Grove when he brought the subject of compensation and the pyramid of MAslow too - and motivations. @meta-refid 6565-8373-9383-1233
+* @todo - p2 ( ) - In Identity - Consider the thought from Andy Grove about performance of people tied to motivation - which is a management concern as indicated - which connects with Maslow / @meta-refid 6464-8373-9873-8474
+-->
 
 
 
@@ -225,7 +217,7 @@ Now, as for the matter of money - and althought Steve is right in the idea that 
 
 
 
-Now, in the entrepreneurship situation, money gets a special place that might be even greater, or impactful to their path, in comparison with a situation of one that seeks money. In other words, modern entrepreneurs, young or experienced, will listen to money as they recognize its potential. In the view from Michael Dearing, what have unleashed entrepreneurship, especially during the industrial revolution, involved the disconnect from the money people from the ideas people from the management people. Consider an illustration of basically an investing situation way before the rise of venture capital, when the Brown Family (the money people) essentially became investors the Slater's Mill (the idea people) around end of 1700 and early 1800: 
+In the entrepreneurship situation, money gets to be seen in so many special ways and conversely money can affect the path of what happens in so many ways. In other words, modern entrepreneurs young or experienced will listen to money as they recognize its value as major in different ways in the entrepreneurial function, such as as the thing that adds fire to work such as as the thing that signals if something is working. In the view from Michael Dearing, an idea that have unleashed entrepreneurship especially during the industrial revolution, involved the disconnection between the people with money and the ideas people and management.  Michael had illustrated this potential by looking back to the early forms of investing long before the rise of venture capital - pointing how the Brown Family (the money people) became investors in the Slater's Mill (the idea people) around end of 1700 and early 1800: 
 
 > *"The people who put up the capital for Slater's Mill were the Brown family of Providence, the people after whom Brown University was named. This was a family that made their fortune in the slave trade and then the textile business. And then had no clue how to mechanize their spinning operations. Slater was the embodiment of somebody who had the technical skill and inventiveness, ideas mostly which he stole from the UK, and they were able to pair together in a way that wouldn't have been possible previously."* (Dearing, Michael, 2015)
 
@@ -239,9 +231,14 @@ Now, in the entrepreneurship situation, money gets a special place that might be
 
 
 
-In other words, no strict vision for something ahead exist and no strict outcome for money exists. But a vision exists that setthemselves into the doing it, be it because of love, passions, motivations, aspirations or you name it. Each individual might hold a mix that explains their calling - but certain it is a vision where they see themselves as managers that are responsible for orchestrating what it takes, the elements for growth, like the managemenent of money ( from customers or investors ) and the management for how to use ideas.
+In other words, no strict vision for something ahead exist and no strict outcome exists asking just for money; but then we set ourselves to respect how the individual that is part of the entrepreneurial activity is central. The role or the being or an entrepreneur that possesses a mix of elements that pulls them into the calling. If this is a vision, it is one where they see themselves as managers and as conductors and as the ones responsible for orchestrating what it takes, to set the dishes spinning, and to coordinate a lof so that the oppoortunity for growth happens - like to orchestrate the elements of managemenent with the elements of money ( from customers or investors ) with the ideas. 
 
-This vision might help us to understand the space where we become - from the ones not being able to connect the dots first - the ones that eventually can tell where they are going, to explain the calling, to in retrospect explain the vision. In other words, the doing sets us into the becoming it, into turning out to be entrepreneurs, and likely living a certain identity which could show in different ways - the one responsible for acting in certain ways, the one responding to what is expected, the one that respecting certain models of thinking, or of organization, such as to respect the presence of a potential investor, such as to respect the presence of a potential customer, and more. In other words, this opportunity space of growth, and living, has a potential to match with the views from Abraham Maslow from when he was invited to reflect about the work situation during a summer at Non-linear Systems in California, when he said that "These highly evolved individuals assimilate their work into their identity into their self, i.e., work actually becomes part of the self part of the individual's definition of himself." (1998. p.1)
+This too is a vision that can invite us to look at a potential growth that happens with us - good or bad growth - or to consider what we become, and if we actually become as part of the journey. As noted, we came as ones not being able to connect the dots, first. Then, to being the ones that can tell where we are or even who we are and to claim that we see the roads ahead or even to claim that where are going we don't need roads. If we consider that this calling is a pathway tht set us into becoming it, into turning out to become entrepreneurs, we might open ourselves to the characterizations that we get along the way which certainly give us good things and along with that it may too characterizes ourselves to the points that an audience in the future may look at us and look for a personality or an identity. In other words, we are now turning our attention to ourselves that gets to become responsible as we act, the ones that respond to what is expected, the ones that embraces certain models of thinking, or of organization. Consider, for example, how a founder may embrace respect for investors if they get involved in understanding the role of investors and gets too investment. Or consider the respect that can grow from the presence of a potential customer. In other words, I am inviting you to consider a potential where the entrepreneurial situation can shape our perspectives too, which may go along with an observation from Abraham Maslow - although one which he observed from the work space when he was invited to to reflect about the corporate space of Non-linear Systems in California around 1960 - when he said that "These highly evolved individuals assimilate their work into their identity into their self, i.e., work actually becomes part of the self part of the individual's definition of himself." (1998. p.1)
+
+<!-- 
+@meta @todo 
+* @todo - p2 ( ) - In Identity - Check Maslow date for Non-linear work - @meta-refid 7767-0909-1233-3344 
+--> 
 
 <!--
 @meta @todo 
@@ -255,10 +252,9 @@ This vision might help us to understand the space where we become - from the one
 
 
 
-Now, granted, the view considered in the reflection from Maslow is not a provocation for us to consider the whole individual as defined by what they do in work situations or entrepreneurial. Naturally, the situation of entrepreneurship can't be the whole environment of living, or of social interactions, that may either promote the development of the self. But the provocation is outstanding in the sense of there are situations of work of individials where they get involved with behaviors that takes them into shaping personalities, such as a personality that holds values, that stand to their responsibilities given that they become protagonists and have something to lose. 
+Now, granted, the view in the reflection from Maslow is not in any way a provocation for us to consider the whole individual as defined by what they do in work or even in the entrepreneurial situation. Naturally, these situations aren't the whole, aren't the stage of our lives where most of what we do happens in terms of social interactions. But the provocation serves to provoke us to consider that if the average work can be impactful to the self, then it may be so if not even more that the doing of one living the entrepreneurial calling would too be impactful, even to a further extent as the calling is not a normal job. 
 
-This space, becomes a space of self growth in a way. That it is a way of living it, of a worker or a professional identity, or an  entrepreneur, that essentially becomes a stage where they move up through ladder of needs [^footnote_maslow_needs_hierarchy], that given the phisiological needs satisfied, for example that the work pays health insurance, that the work is safe, and that a compensation enables the person to sustain a healthy life; and given a work that also brings psychological safety, where people are welcome to be themselves, where their creativivity can flowrish, where they are not pressured to be who they aren't, and given that the environment of colleagueship exists, and given that the work supports them all to work in harmonious ways, then it would be acceptable that a self development may be promoted in a way by this healthy work environment. And one way to enter that path of groth is to actually become, to embrace an identity. 
-
+In other words, the entrepreneurial path may become a place where these doers are climbling in a ladder of needs [^footnote_maslow_needs_hierarchy]. For one to be in the calling they might be into a situation of feeling their phisiological needs satisfied - for example it may be so that they feel health and energized and in good conditions for it. Furthermore, they might too be feeling safe, even if so for a while, as they might be in it being sponsored or incubated or under investing or some situation or narrative where feel safe to continue for a period of time. They might too be feeling confident and psychologically safe, either due to their aspirations or dreams or the said conditions or other support they got. This is then a good place where many would good to be creative such as that they aren't pressured to be who they aren't. It may too be that the environment of colleagueship exists, given their mission and objectives exist. In other words, entrepreneurs living the calling can find themselves under that vision. It comes too from that thay they might be operating in ways where they would be apt to be learning, or to be failing. Thus it is natural from us to expect that their development may happen too in harmonious ways, which is to say that a self development is promoted by the healthy "work" environment; at least that it is much better than a work situation that is unhealthy or where many of the needs said aren't in place. 
 
 <!--
 @meta @todo 
@@ -296,9 +292,24 @@ This space, becomes a space of self growth in a way. That it is a way of living 
 
 
 
+nd if it does so in ways that characterizes us, such as when others around us get to see our personalities. This is then a situation of a whole that now moves with a mix of behaviors and perspectives, one that certainly holds a set of values, one that stands up, that takes responsibilities, that feels responsible, that expect of themselves to be protagonists, that too have something to lose.
+
+
 Now, having us shifted away from the idea of an existing vision as a main driver of entrepreneurship, and having set some ideas for how we are essentially living a calling, we shall set outselves to accept a more dynamic view of events helps to shape the entrepreneur during the journey and the possibility that their identities are then shaped by the activities of the journey. 
 
-And the regulation of their behaviors it's something to be a concern. As they are the protagonists for following their vision - such as to be executors from passions and motivations, they can't enter the reasoning and reflecting from the wider view about the possibilities that who they become can be eventually a trap. In other words, they become performers. In other words, they actually access the idea that they are sort of following a pre-existing vision. In other words, they're accessing and executing the idea that they are discovering their best selves for doing something. The complication is that they can't have time, or interest, such as to consider that they are shaped by the very specific interactions with groups and models happening in front of them. In a way, they identity themselves with the sort of roles that disregards that very consideration as futile or useless. That kind of position, or mentality, might be part of an embraced mentality. Normally, and in the heat of the execution in the future of fast-paced work mentality, we find no reason to rain and ruin on our own parade, to mess up with the very idea that gives us the strength to make everything such as the impossible possible. In other words, if these individual doers are laying tracks, and if any harassing happens to happen to them occasionally, much of it happens to self-enforce what works for them. All that goes along with the fast-paced culture of executing based on learnings in retrospect, which is generally a great idea if we think of the doer as a performer. 
+And the regulation of their behaviors it's something to be a concern. As they are the protagonists for following their vision - such as to be executors from passions and motivations, they can't enter the reasoning and reflecting from the wider view about the possibilities that who they become can be eventually a trap. 
+
+In other words, they become performers. In other words, they actually access the idea that they are sort of following a pre-existing vision. In other words, they're accessing and executing the idea that they are discovering their best selves for doing something. 
+
+The complication is that they can't have time, or interest, such as to consider that they are shaped by the very specific interactions with groups and models happening in front of them.
+
+In a way, they identity themselves with the sort of roles that disregards that very consideration as futile or useless. That kind of position, or mentality, might be part of an embraced mentality. 
+
+Normally, and in the heat of the execution in the future of fast-paced work mentality, we find no reason to rain and ruin on our own parade, to mess up with the very idea that gives us the strength to make everything such as the impossible possible. 
+
+In other words, if these individual doers are laying tracks, and if any harassing happens to happen to them occasionally, much of it happens to self-enforce what works for them. 
+
+All that goes along with the fast-paced culture of executing based on learnings in retrospect, which is generally a great idea if we think of the doer as a performer. 
 
 The only problem is that it may not the case for entrepreneurs, because the succcessful management of the self, as a discipline, would in ideal terms require them to be more like conductors. And an example of a problem is the general culture of the doer that tries to identify their best strengths and only focus on best strengths, such as by doing psychological tests as if they're playing with themselves at the founder level, the entrepreneur level, as they would, for example, if they really need a specialist profile for a specific need in their company.
 
