@@ -28,7 +28,6 @@
 100/050_rainbow_grayscale.txt
 
 100/070_impact/020_article.txt
-
 100/090_running/020_article.txt
 
 100/900_personal_board-en-us.txt
