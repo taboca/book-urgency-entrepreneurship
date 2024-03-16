@@ -55,13 +55,13 @@ In abstract terms, it becomes reactive to a goal of now and the risk naturally i
 
 ### Illustration case 
 
-Imaginando um cenário normal - o empreendedor gasta tempo semeando, preparando p terreno, seu solo fértil. Ele então rega sua criação e logo engaja nas questões da colheita - cuidar de vender, cuidar do suporte, resolver as emergências. Ele observa que as ações estratégicas iniciais deram certo, sabe medir seu sucesso. Ao mesmo tempo observa alguns problemas ou seja planeja para que máquina operacional ou ações de colher os frutos sejam eficientes; assim suas ações agora precisam cuidar dos pequenos focos de incêndio como problemas de troca de mercadoria devido ao percentual de produtos estragados, problemas de inadimplencia (clientes não pagantes), problemas de comunicação com fornecedores, etc. Mas no modo governante, alerta e consciente, ele assume que essas ações são parte do processo - não reavalia, não tem tempo. A conclusão que ele chega é do tipo - vou aumentar as vendas, as vendas, e consequentemente o lucro trarão os resultados que eu preciso. Com mais lucro eu terei mais margem para cuidar desses problemas - posso colocar um estagiário ali, posso contratar um outro profissional para atender os chamados de suporte com cliente problemáticos.
+Envisioning a typical scenario - an entrepreneur spends time planting, preparing the ground, nurturing fertile soil. They water their creation and soon engage in harvest-related tasks - focusing on sales, customer support, and crisis management. They note that their initial strategic actions were successful, understanding how to measure their success. At the same time, they notice some issues, hence planning for operational processes or fruit-harvesting actions to be efficient; thus, their actions now need to address minor crises like merchandise exchange issues due to a percentage of spoiled products, non-paying customers, communication problems with suppliers, etc. However, in a governance mode, alert and aware, they accept these actions as part of the process - there's no reevaluation, no time for it. The conclusion they arrive at is something like - I'll increase sales, and sales will, in turn, bring the results I need. With more profit, I'll have a greater margin to address these problems - I can place an intern there, I can hire another professional to handle support calls with problematic clients.
 
-Essa é uma ideia que diz - se eu ganhar mais eu posso usar essa grana extra para compensar. Essa forma de agir talvez seja mais natural do que imaginamos, talvez porque nossa tendência é separar o processo estratégico (semear) do tático (colher). Talvez ainda estamos ansiosos, na correria, e aí que mora o perigo para empreendedores, porque eles contabilizam perdas como parte do processo, passam a gerir as inconsistências e emergências como responsabilidade - ora, seria irresponsável não cuidar dos problemas da colheita. O problema? Esquecemos que certos incêndios e questões não precisariam existir em primeiro lugar, não mais acreditamos que podemos mudar a realidade, o empreendedor torna-se uma vítima de seu próprio sucesso inicial porque a mente governante, alerta e consciente, não abre espaço para lado criativo.
+This is a notion that suggests - if I earn more, I can use that extra money to compensate. This way of acting might be more natural than we think, perhaps because our tendency is to separate the strategic process (planting) from the tactical (harvesting). Perhaps we are still anxious, in a hurry, and that's where the danger lies for entrepreneurs, because they account for losses as part of the process, start managing inconsistencies and emergencies as responsibilities - after all, it would be irresponsible not to address harvest issues. The problem? We forget that certain fires and issues need not exist in the first place, no longer believe we can change reality, the entrepreneur becomes a victim of their initial success because the governance mindset, alert and conscious, does not make room for creativity.
 
-O empreendedor nunca aceita, por exemplo, reconsiderar se seus clientes são os clientes corretos. Uma vez a colheita feita, a realidade fica imutável.
+The entrepreneur never accepts, for example, to reconsider whether their customers are the right ones. Once the harvest is done, reality becomes immutable.
 
-Com isso ele acelera mais ainda essas ações, e oficializa que deve faturar mais, mesmo contabilizando emergências oficialmente. O negócio depende de uma gordurinha, um lucro que paga essas emergências. Daí com escala vem um problema, crítico. O empreendedor está se ocupando, grande parte do seu tempo com a gestão de apagar incêndios e esses problemas e esse tempo todo, ou parte dele, poderia ser tempo para uma libertação.
+With this mindset, they further accelerate these actions and officially decide that they must increase revenue, even while officially accounting for emergencies. The business relies on a bit of fat, a profit that pays for these emergencies. Then, with scale comes a critical problem. The entrepreneur spends much of their time managing crisis resolution, and this time, or part of it, could be time for liberation.
 
 ### When the ethical worker is also a high-performer 
 
@@ -98,46 +98,47 @@ Or, again, would that be a pattern that repeats with the storied context, as the
 ### The responsible guardian 
 
 <!-- 
-
-## todo 
-
-* p2 ( ) - In Part 1, Searching Impact, there is a whole section entitled "The guardian" which seems as a good introduction to the chapter "The feedback of urgency". Ref 9884-8944-9492-9044 #duplicated #crossreference 
-
+@meta @todo 
+* @todo - p2 ( ) - In Part 2 - In Searching Impact - there is a whole section entitled "The guardian" which seems as a good introduction to the chapter "The feedback of urgency". Ref 9884-8944-9492-9044 #duplicated #crossreference 
 --> 
 
-Existe uma força que pode nos levar a preencher nossas agendas - que é resultante de uma crença que mais trabalho traz mais resultados. Essa força pede incremento, mais produção ou mais eficiência para as atividades em curso. Essa tendência no rumo da produtividade é de fato natural já que ações de empreendedores são guiadas também por feedback dos resultados. O problema é saber que tipo de feedback devemos ouvir; e reconhecer a necessidade de atuação nas várias frentes de um negócio. O foco unicamente ao design do produto, por exemplo, não resolve as questões relevantes para o crescimento e sustentabilidade do negócio.
+There exists a compelling force that can lead us to pack our schedules—a result of the belief that more work yields greater outcomes. This force calls for increased production or enhanced efficiency for ongoing activities. Such a drive towards productivity is natural, as entrepreneurial actions are also guided by the feedback from outcomes. However, the challenge lies in discerning which type of feedback to heed and recognizing the need to engage across the various fronts of a business. Focusing solely on product design, for example, fails to address the key issues vital for the growth and sustainability of the business.
 
-Essa pressão torna-se positiva por conta que empreendedores fazem leituras a partir de sinais de tração, que podem se tornar aparentes de várias formas. Um empreendedor-programador, por exemplo, pode se sentir eficaz no processo de design e desenvolvimento do produto; e normalmente isso pode influenciar sua ações e o consequentemente o todo a partir da percepção que o caminho está correto. 
+This pressure becomes positive because entrepreneurs interpret signs of traction, which can manifest in various ways. A developer-entrepreneur, for instance, may feel effective in the process of design and product development, influencing his actions and the overall direction based on the belief that he is on the right path.
 
-Em outro cenário, o empreendedor pode ficar 100% do tempo tratando de chamados de suporte ou incêndios relacionados aos seus atuais clientes; e isso pode criar um escudo para que ele possa visualizar outras necessidades estratégicas. A ideia é simples - se algo está funcionando, basta fazer mais do mesmo. Ou a expressão "em time que está ganhando não se mexe". Se a colheita continua vendendo então basta replantar do mesmo, seguir as mesmas regras.
+In another scenario, an entrepreneur might spend all their time addressing support tickets or extinguishing fires related to current customers, creating a barrier against seeing other strategic needs. The principle is simple—if something is working, just do more of the same, or "if it ain't broke, don't fix it." If the product continues to sell, then the solution seems to be just to replant the same, follow the same rules.
 
-Ainda, nem sempre o problema da execução reacionária é culpa da pressão externa, como um feedback positivo (uma leitura do mercado por exemplo). Mesmo quando o terreno é incerto, o empreendedor sofre dessa síndrome por execução e produtividade. É como se ele estivesse sempre pronto para escalar, para correr.
+Yet, the issue with reactionary execution isn't always due to external pressure, like positive feedback (a market signal). Even amidst uncertainty, entrepreneurs suffer from this syndrome of execution and productivity, always ready to scale, always in a rush.
 
-(A partir da elaboração do problema, ou síndrome, o empreendedor deve reconhecer a responsabilidade pelas outras dimensões do negócio. Alta produtividade é bom mas ter sucesso em certas áreas não garante progresso em outras dimensões.)
+From identifying the problem, or syndrome, entrepreneurs must acknowledge their responsibility towards the other dimensions of their business. High productivity is good, but success in certain areas does not guarantee progress in others.
 
-Essa síndrome coloca o negócio em risco devido as biases - pensamentos, padrões, hábitos, processos ou questões até culturais que acabam governando as ações do empreendedor. O professor James Green, no seu trabalho Opportunity Analysis Canvas (2015) alerta para uma característica conhecida como *representativeness* que é a tendência de comportamento empreendedor em confiar naquilo que ouve e vê no domínio próximo, como confiar nos seus conhecimentos anteriores, nos dados já conhecidos, nos seus próprios clientes, amigos, etc.
+This syndrome puts the business at risk because of biases—thought patterns, habits, processes, or even cultural issues that govern the entrepreneur's actions. James Green, in his work "Opportunity Analysis Canvas" (2015), warns of a trait known as representativeness, which is the entrepreneurial tendency to trust what they hear and see in their immediate domain, relying on their previous knowledge, known data, their current customers, friends, etc.
 
-Nessa linha, é comum o empreendedor esbarrar em uma ou outra coisa certa, ou que parece certa, e criar sua própria narrativa que justifica não somente continuar avançando seu negócio da mesma forma mas até acelerar seu plano sem sequer duvidar do plano - isso quando existe um plano. Por outro lado, muitos simplesmente avançam com o fazejamento na esperança que a parte que dá certo irá compensar a parte que não funciona.
+It's common for entrepreneurs to stumble upon something right, or seemingly right, and craft their own narrative that justifies not only continuing to advance their business in the same manner but even to accelerate their plans without questioning them—assuming there is a plan at all. Others simply proceed with a "doing" mindset, hoping the part that works will offset the part that doesn't.
 
-O problema e justamente o avançar das várias frentes de esforços sem muita consciência do que funciona e do que não funciona. Pior, eventualmente a coisa que funciona é contaminada pelo lado que não dá certo, seus produtos especiais se tornam medíocres, a soma de mais e mais cores no cardápio vira água de pincel.
+The real issue is advancing on various fronts without a clear understanding of what works and what doesn't. Worse, eventually, the functioning aspect is diluted by the failing side, turning special products mediocre, adding more and more options until the menu becomes bland.
 
-Um exemplo de execução  simplista é a pizzaria que começa com 10 sabores e depois de alguns anos consistentemente ouvindo seus clientes ela tem 256 sabores e ainda deixa você criar sua própria pizza.
+A simplistic execution example is a pizzeria that starts with 10 flavors and, after a few years of consistently listening to its customers, ends up with 256 flavors, allowing customers to create their own pizzas.
 
-O problema talvez seja que empreendedores não reconhecem que até mesmo quando as coisas estão bem, eles têm que estarem continuamente no estado de aprendizado, de descoberta. Ainda, precisam ser mais rigorosos e não querer somar e somar, como aquele que coloca muitos pregos para segurar um quadro.
+The problem might be that entrepreneurs don't realize that even when things are going well, they need to continuously be in a state of learning and discovery. Moreover, they need to be more critical and not just keep adding on, like someone who uses too many nails to hang a picture.
 
-É provável que a maioria dos negócios hoje se encontra em um estado contínuo de descoberta e isso é um desafio que merece atenção justamente porque a tendência é a ação especialista, que normalmente envolve tentar escalar ou responder as demandas na tentativa de melhorar a situação com o ponto de vista de performance ou somar trabalho. Raramente o empreendedor dessa pizzaria aceita retirar itens do cardápio.
+Most businesses today are likely in a continuous state of discovery, which is a challenge deserving attention because the tendency is towards specialized action, usually involving trying to scale or meet demands in an attempt to improve the situation from a performance standpoint or by adding more work. Rarely does the pizzeria entrepreneur consider removing items from the menu.
 
-Assim empreendedores colocam mais produtos nas prateleiras, fazem mais campanhas, contratam mais funcionários, negociam melhor com seus fornecedores - enfim fazem mais atividades com a ideia de melhoria no sentido onde mais é mais. Mais promoções, mais servidos, mais produtos, mais clientes, etc.
+Thus, entrepreneurs add more products to the shelves, launch more campaigns, hire more staff, negotiate better with their suppliers—in short, they do more activities with the idea that more is better. More promotions, more services, more products, more customers, etc.
 
-Pior, quando suas ações mostram tração a consequência é inevitável. Passam a operar no modo reativo. Para o investidor Jason Calacanis (This Week in Startups, 2017, 3:04) o maior erro que fundadores cometem é que eles se tornam maníacos.. eles entram no modo reacionário respondendo e-mails, twits, e chamados abertos em seus próprios sistemas de gestão de projetos. Em outras palavras esses empreendedores acostumam  a apagar incêndios e não repensam as condições de risco que colocaram em primeiro lugar. Para Jason, eles não entendem que muitas vezes precisam parar o tempo e abrir espaço na mente para ideias, revelações e *insights*.
+Worse, when their actions show traction, the consequence is inevitable. They operate in reactive mode. According to investor Jason Calacanis (This Week in Startups, 2017, 3:04), the biggest mistake founders make is that they become maniacs. They enter a reactionary mode, responding to emails, tweets, and open tickets in their own project management systems. In other words, these entrepreneurs get used to putting out fires and don't reconsider the risk conditions they've set in the first place. For Jason, they fail to realize that sometimes they need to stop and make space in their minds for ideas, revelations, and insights.
 
-Essa execução reacionária basicamente diz para o empreendedor fazer mais do mesmo, ou mais daquilo que vem da mesma fonte. Então se eles criaram relações com clientes que não pagam em dia, torna-se normal continuar a respeitar esse ciclo vicioso e acelerar as ações que tentam remediar os atrasos, ao contrário de revisitar a história toda que seria prevenir.
+This reactionary execution essentially tells the entrepreneur to do more of the same, or more of what comes from the same source. So, if they've built relationships with customers who don't pay on time, it becomes normal to continue respecting this vicious cycle and accelerate actions that try to remedy the delays, rather than revisiting the entire history that would prevent them.
 
-<!-- references 
 
-* This Week In Startups. (April 28th 2017). E728: “Angel” Sneak Peek+Startup Tune-up: First-look & lessons from Jason’s book + pitches [video]. Retrieved from https://www.youtube.com/watch?v=Krgz7b9oKLA
-
+<!--
+@meta @references 
+* Reference - This Week In Startups. (April 28th 2017). E728: “Angel” Sneak Peek+Startup Tune-up: First-look & lessons from Jason’s book + pitches [video]. Retrieved from https://www.youtube.com/watch?v=Krgz7b9oKLA
 --> 
+
+
+
+
 
 ## Transcending for impact 
 
