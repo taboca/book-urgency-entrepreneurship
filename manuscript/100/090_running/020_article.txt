@@ -1,13 +1,12 @@
 # Running 
 
-
 The entrepreneur embarks on an uncertain path where success isn't guaranteed. In this situation, it means we are set to execute and learn. Indeed, we might have a "partial vision" but lack the "how-to." However, we are inclined to take shortcuts, a human trait perhaps stemming from inspiration, motivation, and planning.
 
 As we proceed, we operate with the tools at hand, like a hammer, ready to strike. We allocate time for hammering, and hammer we do. Yet, we often neglect to reserve time for transcendence—to step back and evaluate our primary activity, whether it's writing, music, or the very act of hammering. This stepping back allows us to observe from a vantage point not of the body doing the work but from an enlightened space outside it. It's here we see the need to add new roles, tools, or a hybrid of the two. At this juncture, we realize transformation is necessary, yet we're unsure what it entails, aware that change may bring costs or pain. A hammer cannot easily become pliers or scissors, and the belief that it must can cause distress. For instance, the notion that we must become experts in a new field is daunting and unrealistic.
 
 Returning to the hammer metaphor, we face a dilemma, but here are some responses: A) We don't need to become experts—that's a misconception. No one expects a real transformation into pliers, for instance. B) Addressing emotions, reflecting on pains and feelings, and incorporating these into our schedule allow for mistakes and learning opportunities. Entrepreneurship should facilitate this dialogue, just as a writer maintains a diary of fears and aspirations that might otherwise hinder their work.
 
-## Laying tracks under pressure 
+## From pressure 
 
 As we seek for the winning condition of us as human beings, I want to start with the story of how I end up working at a well-known Silicon Valley company, a few Silicon Valley chapters before the Silicon Valley as we know it. Those were the days of the Silicon Valley of the browser days [^siliconvalleyofbrowserdays]. Before I arrived in Silicon Valley I was a sort of not so normal student. Seeing by collegues as creative, wearing an unusual outfit, always in the lab. I got in in 1993, when the movie Jurrassic Park was out. At the same time the Internet was also fresh. So I had the reasons to be in the lab and not to pay attention to the classes of the Computer Science course. Then later I was sort of invited to focus and complete, as opposed to leave university, when I was approaching 8 years, by 2000. I did a lot of things in there, made too many friends, had fun and also did some of the stuff that brought me the job at the company, at the time well-known, called Netscape. When I joined Netscape I might have normalized myself. There were too many new things, and excitement, and new systems in place keeping me in the line. So I would say that a bit of normalization started to happen. And it makes sense, doesn't? Except that it also happens that we enter work environments and start to learn how to climb our way using the stones in a big wall, as opposed to challenge the stones. 
 
@@ -25,7 +24,7 @@ So the phenomenon, in the workplace, and it is also everywhere in our system of 
 
 This is when we start to lose that connection as the result of just being there. As a result of just working. No time to fly towards the sun and come back - if you were a birdman. No time to step over the stones that makes one unique. In the job, we follow trails; because it is how things works, the survival route, the promotion route, it's the only way. And there are other names to that, to many words that pulls our focus back to the track. 
 
-## Revisiting our trips
+### Revisiting our trips
 
 And that model of thinking, a phenomenon, it's everywhere even for the one that thinks she or he is working alone, such as the job of writing. According to Julia Cameron, in The Right to Write (1998, p.66), a writer that is committed to being a writer pulls things to write from a well, as in the source, and it does well for a while. But as a result of their success, of pulling things from that well and which is part of the job of writing, they find that their well goes empty.
 
@@ -63,16 +62,15 @@ But for entrepreneurs, such as founders, we can't ignore that function, that the
 
 [^steveblankfootnote2]: As indicated, Steve Blank suggests the idea to illustrate that entrepreneurs launch ideas first and need to adapt to the realities of the market.
 
-## Interconnected well-being 
+### Interconnected well-being 
 
 What founders can't see, not as clearly as they move with the process, is that their behavior to engage to the development of an idea has ties with what they discovered before as they got involved with experiences in the world in the first place. Which aligns with the saying "it all starts with a problem you want to solve" [^userinnovationhint]. So they move, start failing and iterating, and things seem to change somehow when the idealized concretes start to fail, as in not accepted by the judges, such as the early people that they have contacted to get feedback, and themselves or other judges. But as they pour more energy, and deliver more concretes to the observers, and the world continues to not respond as expected, their movement with the process naturally pulls them into a place of executing their job without noticing that revising sources of energy (experiences that pulls creative effort) will contribute to the process. The resulting phenomenon is that is brings them into the state of felling stalled and having perceptions such as "we are not motivated as we were" or "things are not working" or "the market is not accepting" and the many variations of that. 
 
 [^userinnovationhint]: The concept of User Innovation (2015, May 19), and the work of Eric von Hippel, involves the idea that people modify tools or create new solutions after the fact that they want to solve real problems. 
 
 <!-- 
-
-MIT (Producer). (2015, May 19). User Innovation: A Path to Entrepreneurship [Video]. edX. https://www.youtube.com/watch?v=LpBSY9_RyCg
-
+@meta @references 
+* Reference - MIT (Producer). (2015, May 19). User Innovation: A Path to Entrepreneurship [Video]. edX. https://www.youtube.com/watch?v=LpBSY9_RyCg
 --> 
 
 And worse is when we think that it is the very specific idea, as we have sort of concretized in our minds, the one we pulled from that well, which was the big thing. As in, we become to proud of being the ones that delivered, the ones that have pulled a great thing from that well, that we dismiss that we are the ones that filled the well in the first place. That we gave us a chance to find a problem, to see a problem, in the first place. 
@@ -81,20 +79,15 @@ The success we seek, ultimately, is not arrive at a scene as beings that somehow
 
 
 <!--
-
 COntinue to support this with the work of Maslow and entrepreneurship 
-
 In case it seems confusing that creativity now was brought into this article about success, I want to position in in the right direction with a little help from Maslow, add more precision to make a point that the entrepreneur depends on a state of less control which basically connects with the notion of the creative state. Consider the words of Maslow:
-
 -->
-
 
 [^druckerfatheradm]: 
 
 <!-- 
-
-Drucker, P. (2008). Managing Oneself. Harvard Business School Press. pp. 53-54.
-
+@meta @references 
+* Reference - Drucker, P. (2008). Managing Oneself. Harvard Business School Press. pp. 53-54.
 --> 
 
 ## Reduction 
@@ -148,6 +141,7 @@ Identificar ações que alavancam
 
 E vale lembrar - que seja com sucesso ou fracasso, tudo é aprendizado. É justamente por isso que você pode obter por ter um certo rigor no seu processo de aprendizado. Com o esse certo rigor, com foco, você tem mais chances de trabalhar para seus sonhos e não trabalhar por trabalhar.
 
+<!--
 ### x-ray
-
 * Doc https://docs.google.com/document/d/1-kl1PB2NJOYB3T3sgacWRZjYOxIVzc14wp4x7vf67Xg/edit#
+-->

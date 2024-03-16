@@ -1,4 +1,4 @@
-# Impact 
+## For impact 
 
 Tati Ferreira, from the channel AcidezFeminina, raised a question during a debate in the 2018 elections, asking, "If all the money that was siphoned off had been invested in the state, would we be looking at a different scenario? I think this is a question on many people's minds, though I'm not sure if there are any definitive answers."
 
@@ -53,7 +53,7 @@ In theory, this should be good, but it results in the entrepreneur. <!-- elabora
 
 In abstract terms, it becomes reactive to a goal of now and the risk naturally is mainly about the neglecting of the managerial effort that would put things in perspective.  
 
-### Illustration case 
+#### Illustration case 
 
 Envisioning a typical scenario - an entrepreneur spends time planting, preparing the ground, nurturing fertile soil. They water their creation and soon engage in harvest-related tasks - focusing on sales, customer support, and crisis management. They note that their initial strategic actions were successful, understanding how to measure their success. At the same time, they notice some issues, hence planning for operational processes or fruit-harvesting actions to be efficient; thus, their actions now need to address minor crises like merchandise exchange issues due to a percentage of spoiled products, non-paying customers, communication problems with suppliers, etc. However, in a governance mode, alert and aware, they accept these actions as part of the process - there's no reevaluation, no time for it. The conclusion they arrive at is something like - I'll increase sales, and sales will, in turn, bring the results I need. With more profit, I'll have a greater margin to address these problems - I can place an intern there, I can hire another professional to handle support calls with problematic clients.
 
@@ -69,7 +69,7 @@ When Marcio had insight and told Michael that the major problem was of a party, 
 
 Insight of Michael, not a public quote yet, that "Categorization --> clusters --> patterns --> priorities -- that's it exactly. Natural multi-taskers with a strong work ethic (that's what I hear in your opening above) can easily lose site of what matters most because getting things done feels terrific and is comparatively easy / cheap for them. That's a problem if you compound the implicit deprioritization of the few most important things, in favor of many things because we love to get lots of things done, over a long period of time. Thank you for the note. It's very helpful to see through your goggles." 
 
-### The romantic 
+#### The romantic 
 
 An experienced and professional writer has written to me, in replying after what I have wrote to her, and she went direct to a point of pain: Marcio, do not make a dance or a song about something that is simple. She has asked me to go for the problem, to consider that the problem is simple. For the matter of working. I never thought that working was simple - which is an old idea I carry on, a sort of governing principle, a sort of operating model, influencing and always, how I engage with writing and other activities. 
 
@@ -83,11 +83,11 @@ I perhaps was the case that I had prior moments of frustrations, when older or e
 
 So we can come back to the case where the professional author advice seemed to touch a pain point in me - what was going on with Marcio - the act or attempt to make a song or engaging in a sort of dance. And even seeking joy.  
 
-### Am I looking to put fun? Or is just about the being of somebody or really about finding stories or creative way to help ourselves? 
+#### Am I looking to put fun? Or is just about the being of somebody or really about finding stories or creative way to help ourselves? 
 
 The detours to enhance a boring, or calm, work, with a set of animation seems to be quite possible. I wonder the actual origin of that idea, and also the complexities, how far one can do that. And also, it should be accounted, I wonder about the positive effects of the hyper investment in the detours or the whole tour. 
 
-### The tour off duty 
+#### The tour off duty 
 
 The notion could be expanded as the tour off duty. When one entirely denies, and anchor himself in a new track. It might take to interesting places, undeniable. Of course, why not, right? Now, I am motivated, having fun, feeling energetic, no boundaries can come up with many sub tours as possible. 
 
@@ -95,7 +95,7 @@ Now, within the realm of the off tour, I am quite free, or arbitrary, mostly sel
 
 Or, again, would that be a pattern that repeats with the storied context, as the narrative of the project unfolds? It appears that the act of progressing for any project may actually be about writing upfront some goal, being able to select activities that pulls the goal closer, closes the gap, allowing room for precise work, for some aspiring work (check the balance) and be okay when the project ends with no perfect results achieved. Results, therefore, aren't the most important. 
 
-### The responsible guardian 
+#### The responsible guardian 
 
 <!-- 
 @meta @todo 
@@ -140,7 +140,7 @@ This reactionary execution essentially tells the entrepreneur to do more of the 
 
 
 
-## Transcending for impact 
+### Transcending for impact 
 
 * Check Reid on https://youtu.be/ka--XKeI-o8?si=nPKD3gRtjmCEUNtm&t=3047
 
@@ -162,13 +162,11 @@ Although this principle of management is ease to visualize as operational in an 
 
 In other words, by embracing compassion for the organization in development, we bring in the notion that recognizes failure and adaptation as dependend on prior movement, more than to be formed by conclusions in retrospect. The driver that only learns after analysis in retrospect - logically better than no analysis at all - looses the humble viewpoint that can keep their consciousness for the business open. 
 
-### Considerations the dynamic nature of objectives in the growth situation 
+#### Considerations the dynamic nature of objectives in the growth situation 
 
 <!--
-
 It might be necessary to do the course of Michael GM3 
 https://www.harrisonmetal.com/classes/gm3-managing-engineers-and-artists
-
 -->
 
 The story of Harriet Tubman, as contextualized and learned by Michael Dearing, shows the effort of an individual that were able to scale herself, to adapt, into embracing new objectives and acessing a change into herself. Harriet became known as a hero fighting for human rights, actually recognized as one of the conductors of the underground railroad secret organization responsible for freeing slaves during the times of the American Civil War. But beyond that, Michael has brillantly pullet a complication in Harrie's life which can be used to life a condition and challenge in the life of entrepreneurs as their journey takes them into the possibility of embracing the higher-order objective, which they might even not initially fully visualize as they start. 
@@ -194,10 +192,7 @@ The identified component of the playbook becomes the exercise of value, as it ha
 
 
 <!-- 
-
-## reference 
-
-Dearing, M. (2018, February 13). Michael Dearing at the 2018 NYC Product Leader Summit: "Two Blasts from the Past" [Video]. YouTube. Spero Ventures. https://www.youtube.com/watch?v=oBOOcBgHxTU
-
+@meta @references 
+* @reference - Dearing, M. (2018, February 13). Michael Dearing at the 2018 NYC Product Leader Summit: "Two Blasts from the Past" [Video]. YouTube. Spero Ventures. https://www.youtube.com/watch?v=oBOOcBgHxTU
 -->
 

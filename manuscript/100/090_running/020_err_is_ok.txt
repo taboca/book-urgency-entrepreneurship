@@ -1,8 +1,8 @@
-# Right 
+## From being right 
 
 The subject in this chapter is how entrepreneurs can be pressured that takes them into bring blocked, as they feel they need to do it right, or doing it right which can be mediocre, or launch thinking they did right, and get frustrated. At the core, this has to do with integration, to be integer if I were to use Julia Cameron's words. 
 
-## Being right and stuck 
+### Being right and stuck 
 
 The theme for this article is inspired by a section by Julian Cameron, in her book The Right to Write, the section entitled Bad Writing. She says that "we learn in school" to do a sort of prose "that actually bores a lot of us out of writing". The thinking pushes us, according to her, "If you can't say anything nice - or nicely - don't say anything at all". That, according to Julia, is what we were taught. 
 
@@ -32,7 +32,7 @@ And after Maslow to help us, we move into the third supporting pilar of this art
 
 For writing, according to our Julia Cameron, it works and works and it is the only way, for real, to get there. Yes, fixing the grammar and a conscious path is a must. The same for entrepreneneuship, the release of control also involves allowence go the joy of the day and the release of stress of trying to control - being romantic control or systematic control. See, for founders, controlling sales, or success can also be romantic control. What matters is coordination,with time and opportunity, moving, and of course, mamaging goals from time to time.  
 
-## Turn right to nowhere  
+### Turn right to nowhere  
 
 O autor Dov Seidman, em Como (checar página) apresenta o conceito de Vale da Dificuldade (checar o nome do Vale) que descreve os "caminhos" que as pessoas passam quando elas enfrentam desafios; e compara as pessoas que tiram nota "b" com as que tiram nota "a" com as que tiram nota "c". A curva vai de "b" até "a", passando por "c". Ele indica, apontando as pesquisas (checar), que entre a "nota b" e a "nota a" tem um vale, um local confuso e árduo e é ali que muita gente se perde, e acabam ficando presas no vale, recebem a nota c.
 
@@ -42,7 +42,7 @@ Esse espaço no meio é uma zona confusa que sim, desmotiva muita gente, um vale
 
 Todos reconhecemos que muita coisa é difícil, porque existe essa pressão por fazer melhor - estamos sempre comparando o nosso trabalho com o mundo externo. Então muitas vezes a "tarefa" a ser feita, o desafio, fica nebuloso justamente porque nosso referencial é o mundo externo - por exemplo,  muitos dos desafios de empreendedores são orientados com métricas, como a ideia de ser melhor, mais veloz, mais barato. Muitas vezes a peregrinação nesse vale torna-se de fato frustrante porque ela começa com parâmetros, fica medíocre, quando só se limita a ter que diferenciar de algo que outros fazem, como por exemplo a concorrência.
 
-## When the sun goes dark 
+### When the sun goes dark 
 
 O investidor Paul Graham criou outra ilustração para um outro tipo de vale que também ataca os empreendedores, o vale da tristeza, abaixo.
 

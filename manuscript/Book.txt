@@ -24,11 +24,11 @@
 100/110_narratives_improving.txt
 100/120_space.txt 
 
-100/020_err_is_ok.txt
 100/050_rainbow_grayscale.txt
 
-100/070_impact/020_article.txt
 100/090_running/020_article.txt
+100/090_running/020_err_is_ok.txt
+100/090_running/070_impact/020_article.txt
 
 100/900_personal_board-en-us.txt
 100/950_accounting_learning.txt
