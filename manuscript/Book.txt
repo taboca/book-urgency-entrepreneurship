@@ -14,7 +14,7 @@
 100/000_part1.txt
 
 100/010_entrepreneur/100_article.txt
-100/020_time_startup_you/10_article.txt 
+100/030_time_startup_you/10_article.txt 
 100/060_identity/100_article.txt
 100/080_winning/020_article.txt
 100/060_identity/200_article_fear.txt
