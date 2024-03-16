@@ -13,8 +13,8 @@
 
 100/000_part1.txt
 
-100/010_time_startup_you/10_article.txt 
-100/030_entrepreneur/100_article.txt
+100/010_entrepreneur/100_article.txt
+100/020_time_startup_you/10_article.txt 
 100/060_identity/100_article.txt
 100/080_winning/020_article.txt
 100/060_identity/200_article_fear.txt
@@ -27,9 +27,9 @@
 100/020_err_is_ok.txt
 100/050_rainbow_grayscale.txt
 
-100/410_impact_f47ac10b-58cc-4372-a567-0e02b2c3d479.txt
+100/070_impact/020_article.txt
 
-100/630_running_readiness.txt
+100/090_running/020_article.txt
 
 100/900_personal_board-en-us.txt
 100/950_accounting_learning.txt
