@@ -111,7 +111,7 @@ McKee, R., & Gerace, T. (2018). Storynomics: story-driven marketing in the post-
 
 
 <!-- 
-* 100 / 610_identity 
+* 100 / 060_identity 
 --> 
 
 <!-- check order --> 
@@ -123,7 +123,7 @@ Greylock. (2015, November 30). Blitzscaling 18: Brian Chesky on Launching Airbnb
 Chen, A. (2024). How to break into Silicon Valley. Retrieved February 26, 2024, from https://andrewchen.com/how-to-break-into-silicon-valley/
 
 <!-- 
-* 100 / 610_identity 
+* 100 / 060_identity 
 --> 
 
 Galli, M. (2023, March 13). The History of Web Developers Tied to Browser Development. Hackernoon. https://hackernoon.com/the-history-of-web-developers-tied-to-browser-development 
@@ -156,7 +156,7 @@ Bouizegarene, N., Bourdeau, S., Leduc, C., Gousse-Lessard, A.-S., Houlfort, N., 
 --> 
 
 <!-- 
-100 / 610_identity
+100 / 060_identity
 --> 
 
 Klein, Maury. (2009). The power makers: steam, electricity, and the men who invented modern America. Bloomsbury Press. First U.S. edition.
@@ -175,14 +175,14 @@ Schumpeter, J. A. (2008). Capitalism, socialism, and democracy. Harper Perennial
 Duggan, K. (2015, August 11). Using OKRs to Drive Results aka “Secrets to Crushing Your Goals” [Video]. HeavyBit. Retrieved from  https://www.heavybit.com/library/video/using-okrs-to-drive-results-aka-secrets-to-crushing-your-goals
 
 <!-- 
-* 100 / 610_identity 
+* 100 / 060_identity 
 --> 
 
 Gallo, C. (2016, March 21). Andy Grove's Fundamental Rule Of Communication. Forbes. https://www.forbes.com/sites/carminegallo/2016/03/21/andy-groves-fundamental-rule-of-communication/
 
 <!-- 
 * 150_entrepreneurship_is_management_okr
-* 100 / 610_identity 
+* 100 / 060_identity 
 --> 
 
 Nightingale, J. (2017). How Fucked Up Is Your Management. Raw Signal Press. 
@@ -198,7 +198,7 @@ Dearing, M. (2019, July 2). Thank you, Daniel McCallum. Retrieved from https://m
 --> 
 
 <!--
-100 / 610_identity 
+100 / 060_identity 
 --> 
 
 MIT (Producer). (2015, May 19). User Innovation: A Path to Entrepreneurship [Video]. edX. Retrieved from https://www.youtube.com/watch?v=LpBSY9_RyCgl
@@ -260,13 +260,13 @@ Blank, S. (2014, March 13). [Video]. MAP Unimelb. https://www.youtube.com/watch?
 
 
 <!-- 
- 100 / 610_identity 
+ 100 / 060_identity 
 --> 
 
 Blitzscaling 20: Final Recap and Student Discussion. (2015, December 9). [Video]. YouTube. https://www.youtube.com/watch?v=IyY3t4loUig
 
 <!-- 
- 100 / 610_identity 
+ 100 / 060_identity 
 --> 
 
 Chen, A. (2021). The Cold Start Problem: How to Start and Scale Network Effects. Harper Business.
@@ -343,7 +343,7 @@ Google for Startups. (2014, July 17). Lean Startup Meets Design Thinking [Video]
 Cameron, J. (1998). The Right to Write. TarcherPerigee.
 
 <!--
-100 / 610_identity
+100 / 060_identity
 --> 
 
 Y Combinator. (2016, October 25). Marc Andreessen at Startup School SV 2016 [Video]. Retrieved from https://www.youtube.com/watch?v=NEOR0AJsziE
@@ -431,13 +431,13 @@ From 430_self_staging.txt
 
 
 <!--
-100 / 610_identity 
+100 / 060_identity 
 --> 
 
 Jobs, S. (2005, March 7). Steve Jobs' 2005 Stanford Commencement Address [Video]. Stanford University. https://www.youtube.com/watch?v=UF8uR6Z6KLc
 
 <!--
-100 / 610_identity 
+100 / 060_identity 
 --> 
 
 Grove, Andrew. (1999). Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company. [Só os Paranóicos Sobrevivem]. Crown Publishing.
@@ -459,7 +459,7 @@ Covey, S. (1989). The 7 Habits of Highly Effective People: Powerful Lessons in P
 
 <!-- 
 
-* 100/970_winning.txt
+* 100/080_winning.txt
 * 300/150_entrepreneurship_is_management_okr.txt 
 
 --> 

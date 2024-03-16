@@ -44,7 +44,7 @@ I'm interested in this research - as I need to know a bit more about ego investe
 ## Growth (Paul Graham, )
 
 * Referred from 040_induction_embedded_everything.txt 
-* Referred from 970_winning.txt 
+* Referred from 080_winning.txt 
 * Referred from 050_foreword.txt 
 * Referred from 100_introduction.txt 
 * Referred from 010_startup_you.txt 

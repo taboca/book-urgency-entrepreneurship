@@ -11,7 +11,7 @@
 
 * Subject - You are a machine. You need to be integral. 
 
-* ( ) Check Duplicated parts with the 970_winning.txt 
+* ( ) Check Duplicated parts with the 080_winning.txt 
 * ( ) Ressonates with ideas from 250_stop_impressing.txt 
 * ( ) Can this be killed? 
 

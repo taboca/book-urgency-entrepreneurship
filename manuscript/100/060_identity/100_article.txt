@@ -12,7 +12,7 @@
 
 Why bother with the identity of the being that carries out the work of entrepreneurship? It might be considered a waste of time.  Maybe I we could even say that, in general, entrepreneurs identify themselves as people who care more about their objectives than about who they are - their identities. But then and when things do well and when they get to be seen as successful entrepreneurs - and while they have ignored these reflections during the bulk what they did - they are then caught being interviewed about themselves and somehow they get to speak then. People are then interested to know more, their characteristics or something about their personalities or what explains how they made it or what they are made of. This is likely too the situation when they better identify themselves as entrepreneurs, although after the fact and in hindsight. 
 
-You are now invited to consider the what happens with the life of the doer that does it - the cycle of entrepreneuership - as they become - indeed their best selves - but essentially discoverying their someone new, if not someone else. And in alignment with our concerns in this book, we shall set ourselves to look at the development of an identity, and to be concerned with the possibility that what they become to hinder the path of their startups; especially given the growth situation of startups - as we saw in the previous chapter - where each stage is not just a harder step but a whole new unknown sport. 
+And in alignment with our concerns in this book, we shall set ourselves to look at their identity; to be concerned with the possibility that the execution brings them to become mature, to embrace perspectives, so that they become. But along with that they can too become a problem in the growth path of their startups. 
 
 
 
@@ -72,20 +72,6 @@ Now, from that journey, and by assuming a certain stage of achievement, it may h
 
 And while they are not yet concerned with themselves as entrepreneurs - likely because they didn't yet hit a major mark as succerssful or failure to a point of being interviwed about who they are such as their personalities - this is a point when they more intensively, or more consciously, respond to what is ahead by being who they now are. And since a lot of the good benefits of that awareness is taken care or spoken elloquently by too many stories of success, we shall set ourselves to look at the possibility of an identity that responds too in negative ways. In other words, when an identity embraced and formed by its own merits, becomes a potential source of complications that sets challenges. 
 
-
-<!-- 
-@meta @todo 
-* @todo - p1 () - In Identity - Check if the situation of growth should be brought to the beginning, as the situation or the complication of the intro; and if this was introduced in the book before, such as in Wantrepreneur. @meta-refid 1212-3231-3349-9393
-
-* points from Lost and found 
-
-In a previous chapter, especifically in the section Infinite Apprentice, we have considered the advice from Brian Chesky and Reid Hoffman, the idea of the infinite learner, which brought up the challenges of a leader accross the growth stages. Brian reminded us that is not like one becoming more skilled in an art; and instead it has more to do with having to learn a new sport. Brian, therefore, might be a good example that the infinite apprentice is connected with the an inner and humble spirit that enables transformation.
-
-But then by recognizing the situation of Brian, we should take in the consideration the context too, to force ourselves to recognize what he had revealed too about the network of knowledge and learning how to learn - the idea of accessing the best books would be an element - either people or by great books. 
-
-Also the location and timing - that he and his cofounders were in a space that were considered top-tier, YCombinator, and the eventual connection with Reid Hoffman too. Now notice the complexity as Brian and his team moved up the ladder - having entered YCombinator - and the point where they recognized that YC almost didn't invest. 
-
---> 
 
 
 
@@ -1298,7 +1284,7 @@ It could be considered that I went too far to formulate our problem as a problem
 
 Having considered that, I shall also say that I we shouldn't honour our the good side of that. That if any potential trap happens to be configured, if might do so because we happen to trust an engine that works. In other words, that our operating system is donig what it were programmed to do, to seek for improved efficiency given our goals; the engine that allow us to measure the feedback and to conceptualize from the experiential action and account values and that by the evaluations of our behaviors we then may encounter, only in retrospect, ourselves fultilling our own prophecies or to take what happens more lightly to be essentially scoring how we are doing under the goal to be moving in the right direction. As for the good things, I would assume that those could be estrapolated from the flipside of this chapter and the abundance of materials, the exact environment around that is always ready to tease us to keep feeding our beasts. 
 
-But now the concerns of this chapter are valid - the flipside of the successful doer the moment that they become - it is because we are essentially trying to save ourselves from the traps of being over-focused in one or other perspective, under the hope that we can embrace perspectives that can save us from trouble; especially in the face of the growth [^footnote_paulgragam_growth] situation which is excepted of a startup; the situation as supported by Paul Graham: 
+But now the concerns of this chapter are valid - the flipside of the successful doer the moment that they become - it is because we are essentially trying to save ourselves from the traps of being over-focused in one or other perspective, under the hope that we can embrace perspectives that can save us from trouble; especially in the face of the growth [^footnote_paulgragam_growth] situation of their startups as we have considered in a prior chapter, the things which are excepted of a startup; the situation as supported by Paul Graham: 
 
 > *"A startup is a company designed to grow fast. Being newly founded does not in itself make a company a startup. Nor is it necessary for a startup to work on technology, or take venture funding, or have some sort of 'exit.' The only essential thing is growth. Everything else we associate with startups follows from growth."* (Graham, 2012)
 
@@ -1310,6 +1296,24 @@ Graham, P. (2012, September). Startup = Growth. Retrieved August 29, 2023, from 
 @meta @todo 
 * @todo - p2 ( ) - In Identity - Marcio have copied a quote from Paul Graham that was way ahead, in chapter 3, to now; because it needs to be evident, from the beginning of the book, that growth is the situation we are talking; this creates a match with the audience. Moreover, we need to make sure that the audience gets to this point with a full awareness of the growth situation. @meta-refid 1212-3212-3328-3834
 --> 
+
+<!-- 
+@meta @todo 
+* @todo - p1 ( ) - In Identity - Check if the situation of growth should be brought to the beginning or if it can stay in this part 3 in this conclusion; BTW growth was brought up in Chapter entitled Time. @meta-refid 1212-3231-3349-9393
+
+* Note - Check outline, because under Vision we had a section with the case of Brian and learner. "* Answer - Infinite learner? Situation is of New Sport. Complication is Transition needs. Solution is humble. More than infinite learner, infinite apprentice. (p. 169)"
+
+* points from Lost and found 
+
+In a previous chapter, especifically in the section Infinite Apprentice, we have considered the advice from Brian Chesky and Reid Hoffman, the idea of the infinite learner, which brought up the challenges of a leader accross the growth stages. Brian reminded us that is not like one becoming more skilled in an art; and instead it has more to do with having to learn a new sport. Brian, therefore, might be a good example that the infinite apprentice is connected with the an inner and humble spirit that enables transformation.
+
+But then by recognizing the situation of Brian, we should take in the consideration the context too, to force ourselves to recognize what he had revealed too about the network of knowledge and learning how to learn - the idea of accessing the best books would be an element - either people or by great books. 
+
+Also the location and timing - that he and his cofounders were in a space that were considered top-tier, YCombinator, and the eventual connection with Reid Hoffman too. Now notice the complexity as Brian and his team moved up the ladder - having entered YCombinator - and the point where they recognized that YC almost didn't invest. 
+
+--> 
+
+
 
 There are a lot of enlightened formulations that are giving us the understanding and colors to the challenging situation of being a leader when the startup goes through growth. Throughout the Blitzscaling lectures, Reid Hoffman kept on focusing on essentially asking most of the interviewed leaders about the challenges of scaling but making sure to focus in the challenges from the perspective of the leader that essentially is going through "what got you here is not what will get you there."[^footnote_blizscaling_brianchesky_got_you_there] To point an example consider the how Michael Dearing prioritized talking about the challenges of the growth phases when Reid asked how founders can evaluate themselves as founders: 
 
