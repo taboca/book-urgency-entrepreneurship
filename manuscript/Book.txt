@@ -14,24 +14,25 @@
 100/000_part1.txt
 
 100/010_entrepreneur/100_article.txt
+
 100/030_time_startup_you/10_article.txt 
+
 100/060_identity/100_article.txt
-100/080_winning/020_article.txt
 100/060_identity/200_article_fear.txt
 
-100/060_words.txt 
-100/100_operating_systems.txt
-100/110_narratives_improving.txt
-100/120_space.txt 
-
-100/050_rainbow_grayscale.txt
+100/095_environment/120_space.txt 
+100/095_environment/100_operating_systems.txt
+100/095_environment/060_words.txt 
+100/095_environment/110_narratives_improving.txt
 
 100/090_running/020_article.txt
 100/090_running/020_err_is_ok.txt
 100/090_running/070_impact/020_article.txt
+100/080_winning/020_article.txt
 
 100/900_personal_board-en-us.txt
 100/950_accounting_learning.txt
+100/050_rainbow_grayscale.txt
 
 200/000_part2.txt
 
