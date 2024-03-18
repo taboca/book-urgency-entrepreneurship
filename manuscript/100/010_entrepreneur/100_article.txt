@@ -1,4 +1,4 @@
-# Wantrepreneur   
+## Respect the wantrepreneur   
 
 <!-- 
 @meta @titles 
@@ -56,7 +56,7 @@ The real question is whether entrepreneurs start their journey with the goal of 
 
 In summary, we can't say that the wantrepreneur role has to be redefined. We shouldn't bother with specifics from ideas that aren't clear yet; and we can do better by turning our attention to the what matters, such as to consider the actual path of development and the actual considerations that characterizes the entrepreneur in development. 
 
-## The modern pathways
+### The modern pathways
 
 <!-- 
 @meta @Outline
@@ -68,7 +68,7 @@ But nowadays, althought sometimes the learning path seems quite structured, ther
 
 Through modern, and oftenly confusing pathways, one pattern common is to move up the ladder with advice which many may even see these elements like building blocks. Navihating with that seems to be Right or Wrong, it is not easy as the dynamic environment is far from the problem of the blank canvas. Nowadays, these elements on the way of entrepreneurs are quite interactive, and iterative, more like a drawing that is initiated and where you have to complete or to color it. It provoke us to fill the blanks, to play the game. 
 
-### The nature and reaction to the wantrepreneur attack 
+#### The nature and reaction to the wantrepreneur attack 
 
 <!-- 
 @meta @Outline
@@ -89,7 +89,7 @@ Therefore, the point of establishing a careful consideration for potential attac
 
 Let's move on from the characterizations that unfolds from the tops-down and move into the bottom up aspects that are true and alive in the actual world of entrepreneurs from the beginning. Next, the attempt is not to categorize, or characterize, but to consider aspects and elements that sets one and the team into movement, elements that set them into action in the first place and therefore help us to see that the role of the entrepreneur has more to do with the one awareness of the entrepreneurial process. First, the recognition of their dreams and values. Second, the search for role models. Third pillar, the quest for learning. Logically, there are various other elements that support those who want to embark on entrepreneurship. The main point of the exercise is not to prescribe the right way but to zoom in on the process and recognize that discovery and permission are critical elements for the entrepreneurial journey.
 
-### From dreams become values 
+#### From dreams become values 
 
 <!-- 
 @meta @Outline
@@ -109,7 +109,7 @@ The second step, equally crucial, is to translate these dreams and principles in
 
 Applying this concept to entrepreneurship, we can envision a dynamic where values and vision provide necessary guidance, while at the same time allowing freedom for experimentation and execution. In this way, the vision of the wantrepreneur and the efficacy of the entrepreneur not only coexist but complement each other, enabling a successful and principled entrepreneurial journey.
 
-### From models become references 
+#### From models become references 
 
 <!-- 
 @meta @Outline
@@ -124,7 +124,7 @@ Ray Dalio, a superb role model, has stated that he created a "deck of cards" of 
 
 In other words, note that there is a connection between role models and the knowledge and behavior documented by them. But indeed, there are different types of role models. The good news is that once you open this door, you are also positioning yourself to be open to other role models; and prompted to compare them, and to test them, thus you can position yourself into a journey of using them to move up the ladder where you are in fact reading about experiences, considering principles and coming up with abstractions that may define your own values and support opportunities.
 
-### From wanting, to listening, to learning
+#### From wanting, to listening, to learning
 
 <!-- 
 @meta @Outline
@@ -147,7 +147,7 @@ Connected with this idea of the infinite learner is a behavioral element, which 
 
 It should be noted that these things that they listen are likely a bit on the side of the actual practical thing that is under what is to be done. The rise of the learner, or the listener, therefore, is likely associated with the self awareness about the role. When Brian used Reid's time to ask "What should I have done better?" he had escaped into the higher-order, the viewpoint from above, looked at his role, and compared with other possible characterizations. 
 
-## The essential entrepreneur 
+### The essential entrepreneur 
 
 <!-- 
 @meta @Outline
