@@ -41,7 +41,6 @@
 
 ### Part 2, transactional attraction, storytelling, stortelling platforms
 
-
 200/220_storytelling_stages.txt
 200/250_stop_impressing.txt
 200/210_storytelling_decide.txt   
@@ -50,7 +49,6 @@
 ### Part 2, impressing, pleasing, and transcending feedback of urgency 
 
 200/030_urgency/100_article.txt
-200/090_saying_thanks_reflections.txt
 
 200/630_lean_no_lean.txt
 
@@ -61,6 +59,7 @@
 100/850_communication_space_tool.txt 
 200/800_collaboration_new_medium.txt
 200/860_role_models_design_empatia.txt
+200/090_saying_thanks_reflections.txt
 
 ### Part 2, Releasing sales present pressure 
 
