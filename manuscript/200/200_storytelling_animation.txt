@@ -1,4 +1,4 @@
-# Happiness and animation 
+## Happiness and animation 
 
 <!-- 
 
@@ -59,11 +59,11 @@ Considere o serviço de aplicativo Uber, por exemplo. Não estamos mais apenas e
 
 Agora, imagine estar diante dessa lista de opções cada vez que você precisa de uma carona. Muitas vezes, a decisão que tomamos não é baseada no que realmente precisamos, mas sim no que é mais atraente ou conveniente no momento.
 
-## Sem tempo para despertar
+### Sem tempo para despertar
 
 O verdadeiro despertar poderia ocorrer caso pudéssemos ver além das promessas sedutoras, caso pudéssemos questionar o valor real que essas ferramentas e sistemas trazem para nossas vidas. Se tivessmos tempo para perceber que estamos sendo constantemente bombardeados por apelos e promessas, poderíamos começar a resistir a essa pressão e a fazer escolhas mais conscientes. Mas o fator mais complicado dessa pressão é que ela não tem tom de pressão. Não sentimos. Naquele dia que assustei as pombas, alguém pediu o Pote da Felicidade e nem percebeu a pressão, a narrativa, os gritos do pote. 
 
-## Os Três Níveis de Assédio
+### Os Três Níveis de Assédio
 
 Esses itens lutam e de certa forma exercem um assédio em nossas mentes, dado que os encontramos depois que saímos para resolver uma necessidade. O primeiro nível de assédio - vou chamar de assédio da promessa - está ligado ao fato que os itens comunicam, promete, resultados imediatos. Somos atraídos pela ideia de que podemos obter uma solução para o que queremos, agora, sem a necessidade de esperar ou trabalhar para isso. Muitos dos potes de prateleiras das padarias estão prontos para consumo. Da mesma forma, quem quer fazer um bolo pode irá encontrar, no corredor de bolos do supermercado, uma solução pronta para cookies. 
 
@@ -90,7 +90,7 @@ Minimum Viable Product (MVP)	Essential for lean startups. Allows entrepreneurs t
 SWOT Analysis	Valuable. A SWOT analysis helps entrepreneurs understand the Strengths, Weaknesses, Opportunities, and Threats related to their business, enabling strategic planning and helping to mitigate potential risks.
 Pivot	Relevant. The ability to pivot refers to adapting the business model or product in response to feedback and changing market conditions. This agility can be critical to finding a sustainable business model and achieving long-term success.
 
-## Conclusão reflexiva 
+### Conclusão reflexiva 
 
 Em um mundo cheio de opções, é fácil ser atraído pela promessa de resultados imediatos. No entanto, é importante lembrar que nem sempre a opção mais atraente ou mais conveniente é a melhor para nós. A ideia de parar, refletir e fazer escolhas conscientes; simplesmente não é mais popular. Poderia soar como inapropriada, ainda mais diante do potencial da decisão, a pressão que começa em nós por estarmos girando na engrenagem da vida, do trabalho. Isso porque afinal de contas, ninguém sai para comprar pão porque está passeando.
 
@@ -111,7 +111,7 @@ Para "lacrar" um pensamento e talvez até uma oportunidade. Considere se você p
 
 Agora, esses potes de soluções estão por toda parte. Reflita sobre os serviços, metodologias, sistemas. Perceba como tudo ao seu redor está prometendo algo. Perceba como tudo é atraente. Como tudo, como diria o brasileiro, chama atenção. Note como você provavelmente está preso na categoria de uma promessa, como um carro, uma pizza ou uma metodologia para expandir sua startup. Perceba como provavelmente estamos comparando opções e nos orgulhando de procurar a melhor oferta entre elas. Perceba como somos puxados para tomar decisões, para seguir em frente. Perceba como as consequências de decidir têm menos a ver com a promessa original e como soluções e decisões geram outros eventos.
 
-## Considerações e exercício reflexivo 
+### Considerações e exercício reflexivo 
 
 Faça uma reflexão sobre como os produtos como metodologias se vendem. Exemplos: 
 
@@ -122,7 +122,7 @@ Faça uma reflexão sobre como os produtos como metodologias se vendem. Exemplos
 * Incubadoras 
 * Customer Discovery 
 
-## The mechanization of the paradise  
+### The mechanization of the paradise  
 
 The shack was practically deserted; only the owner and an employee were there. We arrived there just for the stroll, looking for a break and something simple, like a glass of water. The vendor broke the sound of the wind and the motion of the sea with a "My king, I'll set up a hammock for you." I lightly felt an attack but responded with something along the lines of "we're just passing through quickly." Then another comment landed, "Are you in a hurry?" This other remark had a gentle tone but carried a certain kind of look, if not weight. From there, a conversational tone became clear - yes, slow-paced, in the Bahian style, with its hues or coherence, which almost felt like truth, or love, or as colorful as life should be. But it was a narrative that would present itself to those who paused for a brief reflection. It unfolded as a passive-aggressive sales story that actually framed us, the visitors, in a position of superiority, the ones who should be subordinate, at least in that moment. And this is hard to explain. But it happens in many ways, and I believe it's a clever maneuver. Like velociraptors with a strategy, approaching from the sides with coordinated movements. They throw out narratives like "Do it for her," and words that project values or truths, like "family," "doctor," and affirmations that gently persuade along the lines of "you can," or questions that position us, such as "Are you in a hurry?" And refrains that transcend like "Smile, you're in Bahia." An outsider might see these as mere narratives or dramatizations. But the same person, seeing them as performances, won't allow themselves to, in the face of their critical self, extinguish their own fire by telling themselves, "how can you not come here to rest?" Stay here, calm down, at least for now; turn off your constant monitoring. After all, you shouldn’t act logical or analytical here. It's a time to enjoy. The pressure then truly comes from within. And alongside you, the velociraptors are still there, surrounding us, positioning us as passive and subordinate.
 
