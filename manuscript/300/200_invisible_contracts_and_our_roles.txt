@@ -1,4 +1,4 @@
-# Contracts 
+## Contracts 
 
 <!--
 - as regras implícitas e consequências daquilo que nunca foi dito

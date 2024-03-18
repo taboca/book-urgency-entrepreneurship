@@ -1,10 +1,10 @@
-## More on contracts   
+### More on contracts   
 
 De acordo com Dov Seidman, p.49 (Como: Por Que o COMO Fazer Algo Significa Tudo... nos Negócios (e na Vida); regras são criadas para nos proporcionar mais certezas, consistência e previsibilidade. É porque precisamos de mais certeza é de previsibilidade que podemos consultar regras que nos dão um piso firme, podemos avançar sem medos, uma vez que seguimos aqueles parâmetros.
 
 Mas existem regras e regras - e formas de inserir as regras, ou seja, tem a questão do como das regras.
 
-### Regras reativas
+#### Regras reativas
 
 Dov aponta que regras também tem suas limitações, p.48. Um dos elementos, sobre regras ineficazes, é que regras são criadas como reação diante de fatos.
 
@@ -40,4 +40,4 @@ Ao contrário de regras sobre o que não se fazer, as pessoas nesses ambientes f
 
 O ambiente sai ganhando duplamente - menos custos, menos regras, mais pessoas colaborando para eles.
 
-### Além das regras - o "como fazer" é a cultura
+#### Além das regras - o "como fazer" é a cultura

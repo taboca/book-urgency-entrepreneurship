@@ -85,14 +85,12 @@
 300/150_entrepreneurship_management_okr/10_article.txt
 
 ### Part 3, systems mechanization   
-
-300/200_invisible_contracts_and_our_roles.txt
-300/210_contracts_plus.txt
-300/250_they_system_does_not_allow.txt
-
 ### Part 3, evaluation and pressure 
 
 300/460_pressure_vs_support.txt                             
+300/200_invisible_contracts_and_our_roles.txt
+300/210_contracts_plus.txt
+300/250_they_system_does_not_allow.txt
 
 ### Part 3, 
 
