@@ -18,7 +18,6 @@
 100/010_entrepreneur/080_winning/020_article.txt
 
 100/060_identity/100_article.txt
-100/060_identity/200_article_fear.txt
 
 100/095_environment/120_space.txt 
 100/095_environment/100_operating_systems.txt
@@ -28,6 +27,7 @@
 
 100/090_running/020_article.txt
 100/090_running/020_err_is_ok.txt
+100/090_running/200_article_fear.txt
 100/090_running/070_impact/020_article.txt
 
 #100/900_personal_board-en-us.txt

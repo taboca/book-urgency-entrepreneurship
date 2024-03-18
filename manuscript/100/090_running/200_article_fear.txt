@@ -1,4 +1,4 @@
-# Fears 
+### Fears 
 
 <!-- scqa: subject --> 
 
@@ -18,7 +18,7 @@ With that, and depending on the circunstances of what is ahead, we know that peo
 
 Let's start with visualizing fear in the work situation first, how we experience it in ongoing conversation of the day - at the interpersonal level. Then we will explore how the individual is highly influenced by fears of threats - of course, not directly to their lives - but to their identities or a value that is key for their ongoing narrative. We will also consider different point of views and other reflections where fear is recognized as present from the individual level to the management situation of large organizations. As we move on, not to supress fear but to note and acknoledge, we shall identify more vividly how fear enters the communication of teams, and impacts decisions in the everyday, as it causes blockage, defense, censorship, or attack. 
 
-### When the stakes are high - how we experience in the corporate 
+#### When the stakes are high - how we experience in the corporate 
 
 This [project] will blow up! Is what I once heard from my manager, after he had invited me into a weekly meeting. I think that he feared a dead end if we didn't act in a different way. Perhaps, as we were not doing enough, that we could put more effort or do things in a different way. What is interesting - now in retrospect - is that it didn't cross my mind to offer a support to him, to elaborate on his fears. Perhaps that inaction was just part of the mood and context that we were in at the time. The mood that gave the title of "war room" to the place where most of us had to work - a sacred space for getting things done. It was unavoidable to see a future where we would not exist, our team, and consequently myself, as worker of a well known and respected Silicon Valley company, and the rent, and myself as an immigrant in US. 
 
@@ -26,7 +26,7 @@ A few years later, back in another office of another Silicon Valley company, I c
 
 With these examples, I am not searching that management is driven by the dramatic moves driven by fears. But it is undeniable that fear chimes in a range of levels such as a more softly perceived fear to up to what others refer as raw fear. At this stage of reflection, my intent is to position us in the place of respecting that fear in the corporate setting might be present as a beast behind the actual scene. In other words, constituents are able to feel threats from a potentially risky situation which pulls them to come up with a narrative, which can become quite colorful, quite real, and meaningful. In other words, the feeling of a painful outcome triggers the creative mind to come up with a story, a narrative or a calling which may prompt us to take a key action. 
 
-### Fears in the storied context 
+#### Fears in the storied context 
 
 Some individuals, through projects in the corporate setting, are likely expressing an identity which is not a reflection of their true self of the present. The expression comes as they perform, as they see themselves as conductors for certain causes - it could be a key result ahead of a major objective. This expression might come in various ways as they see themselves in a role of supprting a cause such as of supporters, advocates, leaders, mentors, investors, angels. Naturally, the sky is the limit. 
 
@@ -54,7 +54,7 @@ Thus in the tracks of our work projects, such as an entrepreneurial effort, What
 
 Thus the work situation, and especially the entrepreneurial situation, creates a stotied context where certain values are established and helps to create an equilibrium. These values can be acessed if we dig into reflecting beyond actionable ideas like "we need to keep working in this project tonight" which might be associated with expectations of significant milestones, such as expected state of happiness of the team, expected state of security to the team or the project, or any measure of success that is ahead. Thus it's natural for a person's identity to be linked as a responsible being, emotionally and ethically connected to a duty as the failure to do so might trigger an actual real impact to their lives, like the unsolvency of their ability to work, which triggers other fears as, for example, people may need to work for money or other reason they hold as value. Suddenly, due to various factors, external or internal, experienced or perceived, the protagonists find themselves crafting narratives that are powerful in the face of the experience of fears and emotions they projected. 
 
-### The works in the head - the experience in the head 
+#### The works in the head - the experience in the head 
 
 Perhaps this association is common in the world of artists or those involved in creative works. But it serves us well to reflect that a lot of what people do start in their heads, in a black box.
 
@@ -72,7 +72,7 @@ Cameron, J. (1992). The artist's way: A spiritual path to higher creativity. Jer
 
 Through Julia's explanations, we can see how she discovered this technique throughout her career. She was a recognized artist in Hollywood who, at some point, had her work rejected (please verify this information around page 40 in the book). In her account of the emotions she experienced, she likened the feeling of her work's rejection to the loss of a pregnancy.
 
-### Practicing detachment and procrastination 
+#### Practicing detachment and procrastination 
 
 In this section we shall consider how fears can trigger us into doing something else, and the important of mitigating fears and being transparent about them in the first place. 
 
@@ -82,7 +82,7 @@ Escrever o que pode acontecer de fato é uma forma de planejamento. Uma vez mape
 
 Agora, tratamos de medo que cria bloqueio ou censura, uma vez que exercitamos nossa capacidade de sermos criativos vamos nos acostumando a ideia de escrever, rascunhar, conversar, planejar; essa atividade que nos permite sair da zona da paralisia e partir para a ação. Com isso faz sentido aquele pensamento que diz que o corajoso é o medroso que deu o passo; ou que o louco é o corajoso que não tem medo.
 
-### Reflection on fears working for principles 
+#### Reflection on fears working for principles 
 
 We want to feel emotions, we want to recognize fear, we want to allow ourselves to be vulnerable. With these exercises, you can embrace fear so that you can explore possibility, mapping rissks and possible actions. The entrepreneur that embraces their fear, which allow the conflict and asks for help, is one that engages into the collaboration process; which is a big idea in the sense that it has to do with allowance for a wider view, a different perspective, which opens the door for an actual wiser view about the entreprneurship, as opposed to the constraints of the identity of the role that promotes the journey, such as the particular reality of a founder. The allowance for disucssions of fears, the conscious discussions about how fears are translated into the narratives, means a seed for the culture that is a truth seeking culture. 
 
@@ -92,7 +92,7 @@ Doug Leone, partner of Sequoia Capital, explains how he keeps himself motivated 
 
 He added that ""**raw fear**", is what motivates him; as he recalled the days when he would walk at the Stanford Shopping center, in 1988, making about 67000 dólares per year, knowing that he didn't have enough money to buy gifts. (Stanford Graduate School of Business, 2014, 45:22). And went on to recognizing the fears that kept him to work, such as fear of being lay-off from Sequoia, fear of messing up with the life of entrepreneurs. Thus, for Doug, fear is a motivation force. 
 
-### Reflection on fears from the factory 
+#### Reflection on fears from the factory 
 
 Andy Grove também compartilhou uma ideia parecida, de medo como força que motiva a criatividade e também a ação - medo de perder em relação ao competidor, medo do produto não ser bom para clientes, etc. Para Andy Groove, (????) existe uma sequência de emoções que são similares às emoções da perda de pessoas queridas, que podem ser vividas por pessoas questão no meio de situações que ele chamou de pontos de inflexão. [Colocar o exemplo de Andy, sequência da perda da pessoa querida, seguido da sequência no domínio da empresa que vive o ponto de inflexão. ]
 
@@ -102,7 +102,7 @@ O que tiramos disso, é, mais uma vez uma ideia simples mas que não podemos ign
 
 Andy Grove ainda articulou uma versão corporativa do potencial da perda, a auto defesa - uma situação onde empresas que estão passando pelo dito ponto de inflexão, decidem compras outras empresas. Ela perguntou, em Only the Paranoid Survive, por que será que empresas de eletrônicos do Japão, que viveram mudanças grandes em seus mercados e indústria, compraram estúdios de cinema. Para Andy, pode acontecer justamente um escapismo que acaba por tomar a atenção completa dos gestores, eles ficam ocupados demais, eles querem se ocupar.
 
-### Reflections on the professional identity and perceived threats 
+#### Reflections on the professional identity and perceived threats 
 
 The insight from a research cited by "Are You Afraid to Identify as a Leader?, has shown that how challenge it is to support the developement of leaders as the consideration of a self-identity of a leader, has brought reputational concerns. As an example, employees might fear being seen as autocratic, different, or unqualified, when they consider themselves to embrace the role of leaders. Their research  suggests that organizations can impact the development of leaders and support a viewpoint that affects the psychological standpoint as taking leadership roles can be viewed as positive, and can be shown to be an area that is oriented to skills, and not as an innate ability: 
 
@@ -112,7 +112,7 @@ The insight from a research cited by "Are You Afraid to Identify as a Leader?, h
 
 > "And across our studies, we found that people who reported higher levels of fear around these reputational risks were less likely to see themselves as leaders. As a result, they were less likely to act as leaders, and therefore less likely to be seen as leaders by their supervisors." - https://hbr.org/2022/09/are-you-afraid-to-identify-as-a-leader 
 
-### Don't fear fear, and protections at the team level 
+#### Don't fear fear, and protections at the team level 
 
 Poderia até parecer controverso a ideia de medo ser uma motivação mas agora já bem separamos medo das possíveis ações em consequência - defesa, censura, ataque.
 
