@@ -16,8 +16,6 @@
 100/010_entrepreneur/100_article.txt
 100/010_entrepreneur/030_time_startup_you/10_article.txt 
 100/010_entrepreneur/080_winning/020_article.txt
-100/010_entrepreneur/110_narratives_improving.txt
-100/010_entrepreneur/050_rainbow_grayscale.txt
 
 100/060_identity/100_article.txt
 100/060_identity/200_article_fear.txt
@@ -25,6 +23,8 @@
 100/095_environment/120_space.txt 
 100/095_environment/100_operating_systems.txt
 100/095_environment/060_words.txt 
+100/095_environment/110_narratives_improving.txt
+100/095_environment/050_rainbow_grayscale.txt
 
 100/090_running/020_article.txt
 100/090_running/020_err_is_ok.txt
