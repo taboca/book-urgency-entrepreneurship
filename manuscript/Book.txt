@@ -96,7 +96,6 @@
 
 ### Part 3, 
 
-300/320_strategic_dissonance.txt
 300/400_managing_certainty_gap.txt
 300/430_self_staging.txt
 
@@ -104,6 +103,7 @@
 
 300/450_narratives.txt
 300/460_narratives_lean.txt
+300/320_strategic_dissonance.txt
 
 ### Part 3, 
 
