@@ -1,4 +1,4 @@
-# Productivity and innovation culture 
+## Innovation culture 
 
 <!-- 
 
@@ -14,7 +14,7 @@ Por exemplo, para validar a ideia ou priorizar a execução delas, ele refere-se
 
 O exemplo do Michael Dearing não deve ser visto como sendo uma recomendação sobre a forma mas é um validador com relação a existência de processos internos e como grupos de gestão olham para estes. Também sobre a necessidade de constantemente monitorar as chances ou como os processos causam impactos com relação aos objetivos — como criar uma cultura onde todos são responsáveis por curar o processo que quer validar quais ações são as que devem ser priorizadas.
 
-## The improvement of lives of individuals as part of their organizations
+### The improvement of lives of individuals as part of their organizations
 
 So if we pick an identity, and we run with it, and we see ourselves as sort of protagonists of a story, and if we know we have good serious reasons to do so, such as the results of what we do an help us to make a living, then the fusion happens. And, as we have seen, it happens the fusion with what we do, in the field, schools, social networks, work, hobbies, family, entrepreneurial project, all that matters. But a key factor to be considered has to do with the amount of time that we give these episodes as they unfold. Work as we know it affects in big way the subjects we bring to our homes, the themes we talk with others too. It is clearly that a lot of what happens in work, such as the social communications, the challenges and expectations, comes to our lives for too many of us, and so that we bring to the ones around us, not limited to the people from the location where things are happening. Perhaps this phenomenon happens more with people involved in entrepreneurial activities as opposed to people that have the sort of dual reality of work vs. family. Anyway, the notion of an identity - which is tied to the stories that we progress - affects our future and the future of our companies.
 
@@ -42,7 +42,7 @@ I recall an episode where someone asked my mother for a visit. My mother instant
 The secondary aspect, that narrative is how we make sense of things, deserves a bit of thought as well. Let's consider the process of entrepreneurship, such as when we start working in a new project, and how narrative driven progress influences us, again, to do good, and also to do bad.
 
 
-## Network effects potential and social impact 
+### Network effects potential and social impact 
 
 Thus, perhaps, communities on top of platforms, and the values, economic, social and psychological, and ultimately if a platform offers space for all the sorts of characters of beings. The blitzscaling authors Reif Hoffman and Chris Yeh bring up pointers to the very aspect, and concern, that can or should be considered when platforms are being created. The geneal well-bring concern is certainly a function to be considered, and what it takes for a platform to endure. 
 
@@ -61,7 +61,7 @@ It might also be good to check The Cold Start Problem to see if Andrew Chen talk
 --> 
 
 
-## Extended integration 
+### Extended integration 
 
 Consider the situation with Blitzscaling, p.289 and p.301 for the responsible Blitzscaling and requirement of Blitzscaling for the entrepreneur, which is to be an always learner, p.301, and also what Reid and Chris referred as paradox, p.301, which has to do with a need for estability and peace, which is a requirement which seems to aligh with diversity. 
 
@@ -114,7 +114,7 @@ A viewpoint of the enlightened writer-teacher Julia Cameron (1998, p.172) comes 
 
 <!-- 
 
-## Editor note 
+### Editor note 
 
 * Review the above usage of ellipsis. The ... refers to a whole paragraph that was, in the original book, 
 
@@ -125,5 +125,5 @@ The point of Julia is about presenting the craft, such as writing or any other a
 > *"If writing is a conversation with life, than we must bring to that conversation our alert attention, our willingness to be surprised. We must bring to our writer's world an open eye, an eye that is focused on the world around us and not merely on the inner world of our own concerns."* (Julia Cameron, 1998, p.173) 
 
 This is exactly the enlighted view, or enlighted perspective, that can support the entrepreneurial setting - as naturally the setting does not come with answers, with a recipe. And that is exactly about the reason for the reflective state, or state of awareness, which we had carried on throughout this book which leads more to questions than to answers - or a viewpoint interested in maintaining an equilibrium for an activity that is inherently depends on collaboration - a collaboration that starts within. In other words, no one can listen to the outside without establishing a commitment to growth as individuals, beyond the inner world of now. This idea leads to listen at all the levels, the growth of the individual, the growth of the organization, the growth of humanity. 
-
+a
 
