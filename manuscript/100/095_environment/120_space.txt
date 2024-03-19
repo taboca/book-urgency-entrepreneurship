@@ -1,21 +1,55 @@
 # Environment 
 
+Entreprenurship happens in the environment and because of the environment. This makes the environment of entrepreneurs, especially when it creates the demand which happens when one feels that they need to do something, like to put a dent in the universe as they would say. Think about category products - 
+
+Situation - all entrepreneurs change something in the world, in the external. 
+Complication - what makes them to want to do X and not Y? Why they care? As they do, they do too get to be surprised by the surprises of the environment. They get to see something more of the world, and into the idea that the world is not what they tought. 
+Answer - Let's consider how the space for entrepreneurship is formed, it's real and not real, and how all is platform; 
+Answer - Let's consider how all interfaces extensions of everyone involved and how an interface is a state of a tool and how it helps to reinforce the space. 
+ANswer - Let's dive to reflect about how words are too part of the interfaces, and how narratives can be real or creations too. 
+
+
+
+<!-- 
+@outline @meta
+* @outline - All happens in a space; User needs depends on the space and their environment creates the needs too. 
+--> 
+
 ## It's a space 
 
-It used to be, at least for me, ridiculous to even consider something like paying for silence, or something closer to that idea such as when one sells a moment of peace. Now we have products and services for that too, a case apparently normal like "an app" for meditation. Seems weird because it's like water - why should I pay for water? Is that simply an effect like a by-product of the situation of abundance? The abundance brought by the possibilities of the digital and networked world we live in? 
 
-Like water, that has lots of products based on water, like water in a bottle or in a box, consider how difficult it is to be aware that of some undelying value in water that might take us to drink all sorts of things that seem to be like water. 
 
-It turns out that we sort of seem to be always on top of a platform. Thus on top of a crazy work, I might find myself in need for balancing the situation, and would for for a walk, or could likely sign up to a program to walk with others or by myself and monitor my steps. And, not uncomon, take water in a box to the walking or gel of water for runners.  
 
-Thus these networks, or platforms, that we use seem to create certain kinds of prisons to us, and we may, eventually, come across an opportunity inside a prison which might be a softer version of a story of one that wrote a book from a prison. 
 
-Therefore we seem to depend on a prison to free ourselves - or to be able to see as if the situation of the platform is a prison. It can happen. Consider, for example, entrepreneurship in Silicon Valley v5 days, the activities and how the industry sets an environment for founders and the general workforce to likely continue to turn the same wheel. Sam Altman wrote an article where he is concerned with a situation, like voices, or the lack of voices, in Silicon Valley and the risk for the innovation potential: 
+It used to be and sometimes it still is, at least for me, ridiculous to be paying for a moment of silence. But now there are a lot of digital services that guide us into an experience that may have to do in a way or another with a moment of silence. Now it can be normal when you see a person that has subscribed to "an app" that helps her to have a moment of meditation. Perhaps a monk won't get it, not entirelly, although it is likely the monk is better equipped to understand the situation. But if you take a time machine and bring someone from 1885 living near a water mine, that person would not get why to pay for a cup, or a bottle or too a box of water. I still remember the yuck face my friend did around 2005 when I told him that supermarkets in the US had egg yolks in a box. 
 
-> "More recently, I’ve seen credible people working on ideas like pharmaceuticals for intelligence augmentation, genetic engineering, and radical life extension leave San Francisco because they found the reaction to their work to be so toxic. “If people live a lot longer it will be disastrous for the environment, so people working on this must be really unethical” was a memorable quote I heard this year."* 
-* Sam Altman, https://blog.samaltman.com/e-pur-si-muove
+It is unescapable for many of us to first think that all that is being offered are by-products of the situation of abundance brought by the capitalist machine that is non-stop evolving and serving the needs of people in a world that is spinning faster. As an example, when I first heard about those hydration gels that a runner drinks during a marathon, I thought it were some sort of compact water, to avoid the water to be bouncing inside the belly. Then I did a bit of research when editing this and realized that it has less to do with water and it's a source of energy that is easy to consume, that it offers fast absortion, nutrients, and as well may bring some of the values from like the electrolytes, such as sodium and potassium, that are lost through sweat. So my case helps us to conclude that it may be indeed that the capitalist machine is thirsty for creating all sorts of solutions and, as well, that many people just don't get it because they are not actually wearing the shoes of the ones living specific needs. 
 
-> "Political correctness often comes from a good place—I think we should all be willing to make accommodations to treat others well.  But too often it ends up being used as a club for something orthogonal to protecting actual victims.  The best ideas are barely possible to express at all, and if you’re constantly thinking about how everything you say might be misinterpreted, you won’t let the best ideas get past the fragment stage." Sam Altman,  https://blog.samaltman.com/e-pur-si-muove
+
+
+
+
+
+<!-- 
+@outline @meta
+* @outline - Prisons? 
+--> 
+
+
+
+One thing to take from all that is that it turns out that we sort of seem to be living our lives and needs and running our lives on top of platform. Thus, if one lives a crazy work life she might find herself in needs for balancing out things; and it may be that she is too busy looking to the mobile screen too so for her it could make sense to install a digital application on her mobile device, one that helps her to meet other walkers since she prefers to not walk alone. And the application has other bells and whistles too like it saves the path for all her walks, it reports the total of footsteps per walk, it monitors her heart rate. 
+
+But yet, and after having recognized the notion that some people don't get it, we still feel that thing sometimes when we think that so many of these solutions are unecessary or too much. Or we may think of some heavy user groups as people in a certain prison in a way. These days I was concerned since I got a picture of my nieces visiting the country land: They were in a playground sat in opposite sides of the merry-go-round spinner, a mechanical equipment where kids sat around and can spin theselves by applying their force in a central plate that does not move. So they would spin fast except that both of them were using their tablet. 
+
+The idea that many systems seemed to be a prison - or a sort of prison space - came to my mind more precisely after I have considered a story that an author wrote a book while in prison. Or that many prisioners start to use time to read from prisons. So I have thought about that possibility, that one may seem to depend on a prison before they can free ourselves too. Or to see the situation that many platforms, such as digital platforms, seem to be prisons too. 
+
+Consider, for example, entrepreneurship in Silicon Valley v5 days, the activities and how the industry sets an environment for founders and the general workforce to likely continue to turn the same wheel. Sam Altman wrote an article where he is concerned with a situation, like voices, or the lack of voices, in Silicon Valley and the risk for the innovation potential: 
+
+> *"More recently, I’ve seen credible people working on ideas like pharmaceuticals for intelligence augmentation, genetic engineering, and radical life extension leave San Francisco because they found the reaction to their work to be so toxic. “If people live a lot longer it will be disastrous for the environment, so people working on this must be really unethical” was a memorable quote I heard this year."* Sam Altman, https://blog.samaltman.com/e-pur-si-muove
+
+He also had considered: 
+
+> *"Political correctness often comes from a good place—I think we should all be willing to make accommodations to treat others well.  But too often it ends up being used as a club for something orthogonal to protecting actual victims.  The best ideas are barely possible to express at all, and if you’re constantly thinking about how everything you say might be misinterpreted, you won’t let the best ideas get past the fragment stage."* Sam Altman,  https://blog.samaltman.com/e-pur-si-muove
 
 There is then a dilemma, to explore or live "of the land." Therefore, on one hand, we might exercise the potential within the space, as in one that becomes expert in the survival in the jungle where they live, therefore they can be somebody playing by the rules. On the other hand, one can be caught in a situation of - or in need of - breaking the rules of a setting, inspired and motivated to reclaim the space under new terms, to rethink the nature of what happens in the space. 
 
@@ -23,33 +57,80 @@ So we either want to succeed within the box or without the box, assuming the ent
 
 [^footnote_marc_andreessen_jimbarksdale]: The idea of bundle and unbundle is generally promoted by Marc Andreessen, one of the creators of the first popular internet browser that co-founder of Netscape. Marc is a well-known investor and partner at Andreessen Horowitz, A16z, an iconic venture capital firm from Silicon Valley. 
 
-<!-- reference 
-
-Fox, J. (2014). How to Succeed in Business by Bundling – and Unbundling. Harvard Business Review. Retrieved from https://hbr.org/2014/06/how-to-succeed-in-business-by-bundling-and-unbundling ↩
-
+<!-- 
+@references 
+* @reference - Fox, J. (2014). How to Succeed in Business by Bundling – and Unbundling. Harvard Business Review. Retrieved from https://hbr.org/2014/06/how-to-succeed-in-business-by-bundling-and-unbundling 
 --> 
 
 <!-- 
+@todo @meta
+* @todo - p2 ( ) - In Environment, Space - Check research  - unbundling came up in 2019 at Ycombinator - https://a16z.com/platforms-vs-verticals-and-the-next-great-unbundling/ @meta-refid 1212-3232-4432-3389 
+--> 
 
-* ( ) Check research  - unbundling came up in 2019 at Ycombinator - https://a16z.com/platforms-vs-verticals-and-the-next-great-unbundling/ 
-
+<!-- 
+@note
 * (x) Referenced https://hbr.org/2014/06/how-to-succeed-in-business-by-bundling-and-unbundling 
-
 -->
 
-My experience with the notion of platforms, or a stack of platforms, came to my mind a long time ago when I got my first computer around 1985. Video games existed already and it was all exciting but no way for modifying. I couldn't create  or change a game, although could dream and wonder about how things were made. Soon my father bought a personal computer, a quite different box that also had games but an interface that would let me do things. So I met the operating system and also a programming language, the door for change. Needless to say, I took the computer as the thing that enabled the development of games. So I wanted to build one myself. But myself, and the programming language I was using, we were too basic and limited. So I learned that the good games were written in a more complex interface, the machine language, and I had no pointers to understand how to tame that part. Then I tried to do something else. Since I liked to draw, I tried to make a software for drawing, known at the time as a graphics editor. Although that seemed simpler, and I went a bit further, I caught myself again feeling limited. Then, and quite suddenly, I caught myself writing solutions for the adults world, which where simpler. It was when I felt as being somebody - in the world of adults. One lesson was that the language which I tried to make games, or complex things like a graphics editor, were actually more suitable to basic software. That was a platform, had the right things to do, like rules or limits. But I was somebody and doing commercial systems helped me to even make money. Fast-forward 14 years, I caught myself in a Computer Science course and a lot in the labs, doing 3D animation selling video animations, mostly short forms of video commercials for small local companies, which was a possibility given by a popular software for creating 3d models and animations. At that time I also had the chance to start using the Web and understood that the browser - Netscape Communicator - was a tool for visiting web pages but also for making them. So, on top of the computer of the 1990s, I had an operating system and an Internet navigation software which had rules, or limits, for creating web pages. 
 
-So if we view the situation from the lenses of the notion of bundle and unbundle, from Jim and Marc Andreessen, we can look at the situation of a Web developer, a role that it was not possible in the early 1990s. Therefore, it is valid to consider that the internet browser, such as Netscape Navigator, was a bundled box, like a toolbox, it enabled a new kind of software engineer, perhaps not really the same role as a traditional software engineer at the time. But as many organizations were making themselves available in the Web, an economic model and a lot of interactions justified the Web Developer [^footnote_marcio_web_developer].
+
+
+
+<!-- 
+@outline @meta
+* @outline - First experience with platforms inside platforms
+--> 
+
+### The experience of a platform inside a platform
+
+
+
+
+
+My experience with this idea of platforms, and the bundling and unbundling of platforms, I would call a stack of platforms. It started to form precisely in my mind a long time ago when I got my first computer around 1985. These were the days when video games existed already, and it was all exciting, but we basically had no way to create the games or to modify the games ourselves. One could only dream and wonder about how these things were made, of course excited about the possibility that it could change the characters or change the colors of the background and anything. But then soon my father brought her personal computer, a quite different box, that also had games in it, and an interface that would actually invite us to do this kind of custom works, to actually create software systems, perhaps to create games. So that was when I met what people call, what technical people call the operating system, and other tools like the programming languages. These would be the doors inviting me to enter that world of change where things could be built. Needless to say, I took the computer as the thing that enabled the development of games, so I wanted to build one for myself. But it turned out that the programming languages that I was using were quite basic or limited. It was when I learned that good games were written in a more complex language, programming language or interface, what the technical people would call the machine language, and I had no pointers or books to understand that part. So I tried to do something more simple, and since I like to draw, I tried to make a software for drawing, known at this time as the graphics editor. Although that seemed simpler, and I went quite further, I caught myself again feeling to be using limited tools, and I couldn't really make that graphics software how I wanted. I actually learned that if I wanted to do graphics software, I had to, again, approach that language called the machine language. So I had to continue to be feeling like somebody, and it was when I caught myself writing solutions for the adult worlds, like software applications. Those were simple. Then I felt like being somebody in the world of adults as well, even to be a teacher for some of them about the programming languages to make applications for adults.
+
+One lesson was that the language which I tried to make games, or complex things like a graphics editor, were actually more suitable to basic software. That was a platform, had the right things to do, like rules or limits. But I was somebody and doing commercial systems helped me to even make money. Fast-forward 14 years, I caught myself in a Computer Science course and a lot in the labs, doing 3D animation selling video animations, mostly short forms of video commercials for small local companies, which was a possibility given by a popular software for creating 3d models and animations. At that time I also had the chance to start using the Web and understood that the browser - Netscape Communicator - was a tool for visiting web pages but also for making them. So, on top of the computer of the 1990s, I had an operating system and an Internet navigation software which had rules, or limits, for creating web pages. 
+
+Now, if we look at the situation of how a role of the web developer [^footnote_marcio_web_developer] happened to be designed from the usage of browser, which helps us to consider the bunble/unblundle notions of Jim Barksdale and Marc Andreessen; and the rise of this and other professional positions, or identities, which didn't exist before the early 90s. But in the beginning of the 90s, web developers were just a few of them. They started as webmasters when sites came out. They were the people that would take care of websites, and they had to be concerned with the user, the visitor, to care about the visitors. They had to be valuing layout and aspects of accessibility, since the web pages were actually a medium for accessing information. They had to be concerned with communication as well, because most web pages were text and graphics, and they weren't really full software programmers. On the aspect of the tool, on the other hand, it's valid to consider that the internet browser, such as the Netscape Navigator, became a bundled toolbox, made of the unbundling of prior technologies and tools, enabling that new kind of, I wouldn't say software engineer. Today, for far too many cities in the world, there are web developers everywhere and even many variations such as front-end engineers, back-end engineers, web designers, user experience designers, and a lot more. Thus, it is unescapable that they made themselves and the ties with the economic model. 
 
 [^footnote_marcio_web_developer]: The web developer, formed after the Internet browser enabled organizations to make sites and software systems available through web browsers. The web developer would then become a worker for the medium of the Web. https://hackernoon.com/the-history-of-web-developers-tied-to-browser-development
 
-But Web Developers depended on the existance of an Internet browser, such as Netscape Navigator, a bundled product by Netscape Communications. That product, in turn, would run on top of an operating system, such as Windows. And the operating system would run on top of a computer archictecture. And although a lot of elements makes a computer, like a car has a lot beyond its engine, the computer has a computer processor, such as the Intel processor, and the Intel processor is also a bundled elements made of internal elements. If we dig a bit more within the computer processor, we will find transistors, and then we have an opportunity to use the time machine and rewind Silicon Valley to the days where Silicon Valley started.
+But to summarize and go back to the platform inside the platform, these web developers happened to work and play on their space that depends on an internet browser, such as Netscape Navigator in the beginnings, the bundled innovative product create by Netscape Communications. That product, in turn, would run on top of an operating system, any user had recognized that especially in the days that the browser was not bundled in the operating system and was installed apart. But if we keep on zooming out to look at the browser product and the operating syste product, we would then recognize that the browser product were written by others roles. I was there at Netscape and had the opportunity to witness the many engineers working in the browser product to make that a reality. These were creative and experienced software developers able to create complex software that would run, as we say, "on top" of an operating system like Windows or Linux. And if you continue to zoom out, we could consider that the operating system, like Windows, would be then a sorf of platform that also runs "on top" of another platform archicture, like the computer. And although a lot of elements makes a computer, just like a car has a lot beyond its engine, we may simplify for now to think that the computer's underlying element is the CPU, which can generally be know as the computer processor. And if we lock in our zoom to the level of the processor but we shift the angle, back to the businesses bundling these solutions, we will innevitable have to celebrate the iconic Silicon Valley company, Intel, that brought to these machines the Intel processors. 
 
-Looking from the organization perspective, moving slighly away from the user experience, Intel corporation found its way into making computer processors, which was not it's original product. Therefore, and in alignment with the view of Jim Barksdale, the opportunity for Intel to enter the computer processor business was an opportunity that Intel had as they could bundle from an unbundle reality. Before the days of Intel as a processor manufacturer, Intel had the means to build the processor, as they were in the memory making business and had technology to make transistors. The opportunity that Intel saw had an alignment with the emergent widespread of the computer and personal computer entering all sorts of business and homes. 
+And if we continue to do this and zoom out, on zoom in depending on how you frame the situation, it is unescapable, especially if we ask what these computer chips where made of, to find the essential element of microprocessors, the transistors. And so and if we lock at the transistor level and shift ourselves to from historical perspective and rewind a few chapters in the history of Silicon Valley, we would find an opportunity to witness when Shockley Semiconductor were founded by the co-inventor of the transistor in the beautiful Santa Clara Valley, a region know at the time for an agriculture producing orchards, apricots, prunes, cherries, plums, and more. I have asked an AI tool to check history by asking "Was Shockley that went to the bay area to live with his mother?" to which the tool replied: 
 
-But even the ways organizations work can also be seen from the bundle/unbundle reality. For Intel, to rearrange itself from a memory manufacturer to a computer processor, a lot had to be modified. Their factories adapted was a view from the above characteristic of the whole structure of the company changing. In other words, Intel had to unbundle themselves to bundle a new Intel, so that it would be possible to deliver a bundled product for their customers, so that the chips goes into personal computers, and run Windows, and on top of Windows, browsers, and on top of browsers, pages. 
+> *"Yes, William Shockley, co-inventor of the transistor and Nobel Prize laureate, moved to the Bay Area, specifically Mountain View, California, in 1956 to be closer to his ailing mother. This move was significant because it led to the establishment of Shockley Semiconductor Laboratory, the first semiconductor company in the place that would be later known as Silicon Valley. Shockley's decision to relocate there and start his semiconductor company played a crucial role in the development of Silicon Valley as a major hub for high-tech innovation and development."* ChatGPT, 2024. 
 
-Now, if we specificially look at a vital element within the computer chip, the transistor, and we look at the foundation of Intel, as a memory maker, we can trace back that Intel had its origins from Fairchild semiconductor, from Fairchild, about 70+ technology companies. From the organizational perspective, Intel had specific management practices. Intel has also given to the world the book High Output Management, by Andy Grove, where a lot of good management practices had influenced Silicon Valley management development. And if we continue to go back to see how Fairchild semi-conductor was founded, we can find the event known as "the traitor eight", whch was, in a way, an unbundling iminent, of Shockley Semiconductor. Now, this iconic moment in history of Silicon Valley shows how a management approach suffers a tension for unbundling as the management appraoch might also lock in certain future potential. Shockley was founded in the calm West coast, by William Shockley, a co-inventor of the transistor. Why the west cost, he had to move back to live with his mother. Shockley was bright but not a great manager. So, in short, on one hand, imagine the transistor going through its growth, as a technology, and the potential growing too much, as people dreamed about what would be possible. Thus, Shockley William was becoming a gatekeeper in front of what his colleagues saw and what the world needed. The unbundling of Shockley Semiconductor was iminent, and Fairchild came after that. It should be remarked that at the time the idea of leaving a company was not considered fair, therefore one leaving a company would be a traitor. But that idea was also about to be unbundled from the culture. The bundling of Shockley, and the bundling of Fairchild Semiconductor, and the unbundling of "Fairchild" into 70+ bundled organizations is also reflective of a situaution when a technological change happens across the board. 
+Looking from the development of the organizations from the Shockley days to Intel days, we will see a lot of bundle/unbundle effects happening throghout Silicon Valley at many levels, not only from the technological. Digging history to consider how Intel came into existance, we will find that its founders, Robert Noyce and Gordon Moore, had priourly founded the then well-known Fairchild Semiconductor that according to *Fairchild, Fairchildren, and the Family Tree of Silicon Valley* Intel was one among the other 126 spin-off companies also known as Fairchildren. 
+
+<!-- 
+@references 
+* reference - Laws, D. (2016, December 20). Fairchild, Fairchildren, and the Family Tree of Silicon Valley. Computer History Museum. https://computerhistory.org/blog/fairchild-and-the-fairchildren/
+--> 
+
+From a managerial perspective, if we rewind to examine the founding of Fairchild Semiconductor, we find that the same individuals who founded Intel, Gordon Moore and Robert Noyce, were also known as part of "the Traitorous Eight." [^footnote_trairorous_eight] The history behind the Traitorous Eight, is an invitation for us to consider how the phenomenon of unbundling is entangled with technology, management, and culture: 
+
+[^footnote_trairorous_eight]: The "Traitorous Eight" refers to the eight engineers and scientists who left Shockley Semiconductor due to dissatisfaction with management. They were Gordon Moore, C. Sheldon Roberts, Eugene Kleiner, Robert Noyce, Victor Grinich, Julius Blank, Jean Hoerni and Jay Last; and founded Fairchild Semiconductor; which opens our minds to consider how the idea of leaving a company, and with it its management practices and culture, were connected to the needs of a market in development. 
+
+Shockley was brilliant but not seen as a good manager from the views of his colleagues, especially for eight of them that left Shockley and founded Fairchild Semiconductor. Keep in mind that in 1957 the idea of an employee leaving a company were considered as wrong. According to Wikipedia (2024), "Shockley described their leaving as a 'betrayal'." From the perspective of these eight, on the other hand, these were a shift in the managerial practices that were in front of the opportunity.
+
+Now, after us having considered that Shockley had produced Fairchild that had produced 126 others, it is then unescapable to consider that the event, the Traitorous Eight, had an impact in influencing the views such as views of leaving things behind, inclinations to be open to new management and cultural aspects as part of a potential industry, and the like. In other words, when Shockley have accused them of being "traitors," he may have accelerated the process. Now, let us consider what would be the mindset of the people working at Fairchild after the fact that the founding event had ties with the idea of founders leaving a bad management behind. Consider how the mindset of Fairchild would then produce new employees which would not fear at all to create their own companies such as the 126 new entities according to the Fairchild Genealogy [^footnote_fairchild].
+
+[^footnote_fairchild]: According to Fairchild, Fairchildren, and the Family Tree of Silicon Valley Fairchild Genealogy (2016, December 20), a published print known as Fairchild Genealogy chart from 1986 included 126 semiconductor companies that were traced directly to Fairchild.
+
+<!--
+@references
+* reference - Wikipedia contributors. (2024). Traitorous Eight. Wikipedia. Retrieved March 19, 2024, from https://en.wikipedia.org/wiki/Traitorous_eight
+--> 
+And moving forward to the Intel days but keeping up with what management wants, we can than celebrate the writings of Andy Grove, Intel first hire that later became CEO, such as his reflections that led to the writing of High Output Management. While High Output Management has produced direct impact to a lot of other managers that had improved the management with so many Silicon Valley companies, it is also telling us of the managerial transformation and how quick these new managers had to do something such as to create the kind of environment where people would want to work such as to be wanting to say in the face of so many opportunities knocking on their doors. 
+
+
+
+
+
+
+
+
 
 Then the complication really comes from the potential and the network. Doing something on the bundled platform, platforming adding to it. Or reconsidering the platform, reinventing. The complication is that the platform becomes your terrain, where all happens, like a playground. But something like the Web, such a playground. Or consider the popular platforms for producing "apps" for mobile devices, Google Play or the Apple Store. Developers become the builders on top of those, a community around the methods for building, discussions on top of, on top of the opportunities. The world wants a forward-movement and when there is potential and growth, there is stickyness for the forwardness, to comply with. A whole industry. 
 
