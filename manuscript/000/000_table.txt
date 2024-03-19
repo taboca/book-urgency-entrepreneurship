@@ -1,5 +1,7 @@
 # Todo # 
 
+* @todo - p2 ( ) - In Environment, Space - Check reference if Andy Grove were really first hire. @meta-refid 1212-2223-3392-9394
+
 * @todo - p2 ( ) - In Environment, Space - Check research  - unbundling came up in 2019 at Ycombinator - https://a16z.com/platforms-vs-verticals-and-the-next-great-unbundling/ @meta-refid 1212-3232-4432-3389 
 
 * @todo - p2 ( ) - In Part 2 - In Searching Impact - there is a whole section entitled "The guardian" which seems as a good introduction to the chapter "The feedback of urgency". Ref 9884-8944-9492-9044 #duplicated #crossreference 
