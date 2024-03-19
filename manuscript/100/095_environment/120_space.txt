@@ -66,6 +66,56 @@ He also had considered:
 
 So then the situation given by this idea of the zoom level shows a dilemma. That we can be looking inside the box, as in to consider that people are living of the land which is essentially us to be exercising the potential within the space for optimizations and the questions to people and users are in a way considering that people are playing by the rules. On the other hand, one can be caught in a situation of - or in need of - breaking the rules of a setting, of the space, inspired and motivated to reclaim the space under new terms, to rethink the nature of what happens in the space. 
 
+
+
+
+
+
+
+
+<!-- 
+@outline @meta
+* @outline - Answer, to bundle and unbundle? Or to put the notion that embodies what goes on with the a1 = experience of platforms, a2 = freedom from the prison and a3 = forces for the bundling and unbundling. 
+--> 
+
+
+When we are entrepreneuring ourselves we are essentially reconsidering the boundaries of a space, so we might be exploring optimizing a given space or all the way into breaking the walls of that space. For some, they may add comfort to that space. For others, they may see a space as a prison and may want to break the walls, to free people. For us here and now it matters more to increase our views for how relative all things are. 
+
+Let us first then consider using the digital world, an exercise for how platforms are relative, how platforms may depend on platforms, which will give us a view that we can zoom in and out into the levels of these spaces. Following, let us consider that within certain platforms the users are likely too to innovate as they seek freedom and improvement to their lives. And finally, we will close this section with a reflection and conclusion about other forces that will support/prevent us from exploring the opportunities to improve or to break a space. 
+
+
+
+
+<!--
+@todo @meta
+* @todo - ( ) p2 - In Environment, Space - Consider to move the bundle/unbundle the part 3 @meta-refid 1222-3323-9393-9999 
+--> 
+
+
+
+
+
+
+
+
+
+
+
+<!-- 
+@outline @meta
+* @outline - First experience with platforms inside platforms
+--> 
+
+### Experiencing the formation of platforms 
+
+
+
+
+
+
+
+
+
 So we either want to succeed within the box or without the box, assuming the entrepreneurial situation where "breaking the box" means that a greater good is given to many involved - or new rules for a better social context. This idea of in or without the box, although can be seen from this general perspective, connects with a famous line from Jim Barksdale from the days when he was the CEO of Netscape [^footnote_marc_andreessen_jimbarksdale]. In an interview by Justin Fox, for Harvard Business Review (Fox, 2014), Jim Barksdale indicated that the line came about during Netscape's public offering roadshow. Jim found himself at the Savoy Hotel in London, pressed for time and facing a room full of British investment bankers. When questioned about Microsoft's potential to bundle a browser into their product, “How do you know that Microsoft isn’t just going to bundle a browser into their product?” he made a statement that would later become an essential business principle: "Gentlemen, there’s only two ways I know of to make money: bundling and unbundling." His comment was less a carefully crafted strategy and more a pragmatic observation about the cycles of adding and subtracting features or services in a way that adds value to users and where a business model might happen. 
 
 [^footnote_marc_andreessen_jimbarksdale]: The idea of bundle and unbundle is generally promoted by Marc Andreessen, one of the creators of the first popular internet browser that co-founder of Netscape. Marc is a well-known investor and partner at Andreessen Horowitz, A16z, an iconic venture capital firm from Silicon Valley. 
@@ -89,20 +139,20 @@ So we either want to succeed within the box or without the box, assuming the ent
 
 
 
-<!-- 
-@outline @meta
-* @outline - First experience with platforms inside platforms
---> 
-
-### The experience of a platform inside a platform
-
-
 
 
 
 My experience with this idea of platforms, and the bundling and unbundling of platforms, I would call a stack of platforms. It started to form precisely in my mind a long time ago when I got my first computer around 1985. These were the days when video games existed already, and it was all exciting, but we basically had no way to create the games or to modify the games ourselves. One could only dream and wonder about how these things were made, of course excited about the possibility that it could change the characters or change the colors of the background and anything. But then soon my father brought her personal computer, a quite different box, that also had games in it, and an interface that would actually invite us to do this kind of custom works, to actually create software systems, perhaps to create games. So that was when I met what people call, what technical people call the operating system, and other tools like the programming languages. These would be the doors inviting me to enter that world of change where things could be built. Needless to say, I took the computer as the thing that enabled the development of games, so I wanted to build one for myself. But it turned out that the programming languages that I was using were quite basic or limited. It was when I learned that good games were written in a more complex language, programming language or interface, what the technical people would call the machine language, and I had no pointers or books to understand that part. So I tried to do something more simple, and since I like to draw, I tried to make a software for drawing, known at this time as the graphics editor. Although that seemed simpler, and I went quite further, I caught myself again feeling to be using limited tools, and I couldn't really make that graphics software how I wanted. I actually learned that if I wanted to do graphics software, I had to, again, approach that language called the machine language. So I had to continue to be feeling like somebody, and it was when I caught myself writing solutions for the adult worlds, like software applications. Those were simple. Then I felt like being somebody in the world of adults as well, even to be a teacher for some of them about the programming languages to make applications for adults.
 
 One lesson was that the language which I tried to make games, or complex things like a graphics editor, were actually more suitable to basic software. That was a platform, had the right things to do, like rules or limits. But I was somebody and doing commercial systems helped me to even make money. Fast-forward 14 years, I caught myself in a Computer Science course and a lot in the labs, doing 3D animation selling video animations, mostly short forms of video commercials for small local companies, which was a possibility given by a popular software for creating 3d models and animations. At that time I also had the chance to start using the Web and understood that the browser - Netscape Communicator - was a tool for visiting web pages but also for making them. So, on top of the computer of the 1990s, I had an operating system and an Internet navigation software which had rules, or limits, for creating web pages. 
+
+
+
+
+
+
+
+
 
 Now, if we look at the situation of how a role of the web developer [^footnote_marcio_web_developer] happened to be designed from the usage of browser, which helps us to consider the bunble/unblundle notions of Jim Barksdale and Marc Andreessen; and the rise of this and other professional positions, or identities, which didn't exist before the early 90s. But in the beginning of the 90s, web developers were just a few of them. They started as webmasters when sites came out. They were the people that would take care of websites, and they had to be concerned with the user, the visitor, to care about the visitors. They had to be valuing layout and aspects of accessibility, since the web pages were actually a medium for accessing information. They had to be concerned with communication as well, because most web pages were text and graphics, and they weren't really full software programmers. On the aspect of the tool, on the other hand, it's valid to consider that the internet browser, such as the Netscape Navigator, became a bundled toolbox, made of the unbundling of prior technologies and tools, enabling that new kind of, I wouldn't say software engineer. Today, for far too many cities in the world, there are web developers everywhere and even many variations such as front-end engineers, back-end engineers, web designers, user experience designers, and a lot more. Thus, it is unescapable that they made themselves and the ties with the economic model. 
 
@@ -148,22 +198,13 @@ And if we keep forwarding the Silicon Valley movie all the way to Intel days yet
 
 
 
-Then the complication really comes from the potential and the network. Doing something on the bundled platform, platforming adding to it. Or reconsidering the platform, reinventing. The complication is that the platform becomes your terrain, where all happens, like a playground. But something like the Web, such a playground. Or consider the popular platforms for producing "apps" for mobile devices, Google Play or the Apple Store. Developers become the builders on top of those, a community around the methods for building, discussions on top of, on top of the opportunities. The world wants a forward-movement and when there is potential and growth, there is stickyness for the forwardness, to comply with. A whole industry. 
-
-All these are networks, thus the platform potential lies ni deed in the network. When locomotives came along in the US, as Maury Klein has documented, it was scary to see the potential (of the network). We can celebrate that by the examination of the post written by a school in the north of US: 
+Then the complication really comes from the potential and the network. Doing something on the bundled platform, platforming adding to it. Or reconsidering the platform, reinventing. The complication is that the platform becomes your terrain, where all happens, like a playground. But something like the Web, such a playground. Or consider the popular platforms for producing "apps" for mobile devices, Google Play or the Apple Store. Developers become the builders on top of those, a community around the methods for building, discussions on top of, on top of the opportunities. The world wants a forward-movement and when there is potential and growth, there is stickyness for the forwardness, to comply with. A whole industry. This may push us to celebrate that platforms and networks are formed and that we may be in fact looking at inside of them, sometimes trapped. And once trapped, when new ideas are coming, it too may sound absurd, like from the point of view of the people that wrote in the newspaper of a school adn were scared about the emergence of locomotives according to Maury Klein: 
 
 > *""* Maury Klein, Power Makers 
 
-But once a network becomes an ecosystem, then it boosts people to run interactions that are supportive of an economy, doesn't it? Consider any network, such as Craigslist, or even Facebook. 
+But then, again, when the new platform comes our way, then we are well used to all of that, victim of all of that too, conforming with the rules again. But once a network becomes an ecosystem, then it boosts people to run interactions that are supportive of an economy, doesn't it? Consider any network, such as Craigslist, or even Facebook. 
 
-We know, from theory of innocation, that breaking rules seem to be part of the equation in the sense of seeking freedom. As an example, consider the network of "yellow cabs" and the situation that gave rise to Uber. Not easy, to break the membrane of a network, it's like a social gut system perhaps, like a living ecosystem of bacteria and all sorts of things happening. Quite stable, a sort of colony, that we get used to. But then some people might get mad about its rules, others want to be somebody, or stumble in new ideas out of the interactions, needs. [^footnote_job_to_be_done]
-
-[^footnote_job_to_be_done]: 
-
-
-
-
-
+Conclude with the bundle and unbundling challenge? 
 
 
 
