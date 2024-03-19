@@ -130,8 +130,6 @@ And moving forward to the Intel days but keeping up with what management wants, 
 
 
 
-
-
 Then the complication really comes from the potential and the network. Doing something on the bundled platform, platforming adding to it. Or reconsidering the platform, reinventing. The complication is that the platform becomes your terrain, where all happens, like a playground. But something like the Web, such a playground. Or consider the popular platforms for producing "apps" for mobile devices, Google Play or the Apple Store. Developers become the builders on top of those, a community around the methods for building, discussions on top of, on top of the opportunities. The world wants a forward-movement and when there is potential and growth, there is stickyness for the forwardness, to comply with. A whole industry. 
 
 All these are networks, thus the platform potential lies ni deed in the network. When locomotives came along in the US, as Maury Klein has documented, it was scary to see the potential (of the network). We can celebrate that by the examination of the post written by a school in the north of US: 
@@ -143,6 +141,25 @@ But once a network becomes an ecosystem, then it boosts people to run interactio
 We know, from theory of innocation, that breaking rules seem to be part of the equation in the sense of seeking freedom. As an example, consider the network of "yellow cabs" and the situation that gave rise to Uber. Not easy, to break the membrane of a network, it's like a social gut system perhaps, like a living ecosystem of bacteria and all sorts of things happening. Quite stable, a sort of colony, that we get used to. But then some people might get mad about its rules, others want to be somebody, or stumble in new ideas out of the interactions, needs. [^footnote_job_to_be_done]
 
 [^footnote_job_to_be_done]: 
+
+
+
+
+
+
+
+
+
+<!-- 
+@outline @meta
+* @outline - How unbundling may happen 
+--> 
+
+### Unbundling from users 
+
+
+
+
 
 We if look at the situation with Uber' story, I was a driver for 1000 trips. Perhaps as I was a part-time driver, not being 100% inside at it, I could bend its reality, a little and in my own way, very softly. I started doing on Fridays, and first my goal was to understand the rules "of the game" how the network works, thus I could exercise the idea of being somebody there, as a driver. I had to fight my fears, to put my mother's car in the streets, and my own fears such as driving into difficult streets, not being a good driver, and a lot more. When I came back that first day, I vividly remember, I sat on the couch but on it's arm with my feet on the couch, happy, telling my parents. Later happy for being a 5-star driver, or 4.9 one. Thus a lot of elements where in there, creating a platform for myself, to be someone, to make money too, where I could use some skills, could go towards been better as a driver, as a person, and get grades, and model my profile. End up with 1000 trips, good memories, and great stories too. 
 
@@ -168,6 +185,23 @@ Greylock Partners, 2017, Growth Panel with Gustaf Alströmer and Ed Baker, moder
 Another sort of opportunity I crossed, although it seemed a bit outside the boundaries of Uber, was what I have named "Uber-idle university" [^footnote_marcio_uber_idle_university] which explored an opportunity for learning as I have replaced the arbitrary with talks, Youtube lectures saved as mp3. To make the experience good, I also had to workout certain roadblocks, such as to curate a list of 3-5 talks before the day trips, and to come up with a saying for the passengers, giving them the option to talk with me or let me study what I called "Entrepreneurship lessons in English". Most passengers supported and even encouraged me. 
 
 [^footnote_marcio_uber_idle_university]: Marcio S Galli's article "Uber-idle University," published in Ascent Publication on December 2, 2017, delves into the concept of turning idle time into educational opportunities, particularly while performing tasks that don't require full cognitive engagement, such as driving for Uber. Galli, an entrepreneur who drives part-time for Uber, argues that much of the time spent in the car can be repurposed for learning by listening to talks, podcasts, or lectures on a pen drive. He distinguishes between "distractions" and "pauses," suggesting that Uber-related interruptions merely pause his educational experience rather than derail it. The article also highlights how the nature of listening fosters deeper engagement with the content, facilitating opportunities for reflection and understanding. Galli concludes by noting that this practice has led him to be more involved in helping startups, including his own. This article reflects a broader interest in finding innovative ways to incorporate learning into daily routines, a concept that has been especially relevant in the gig economy where traditional work hours are often disrupted. https://medium.com/the-ascent/uber-idle-university-5af317b550d9
+
+
+
+
+
+
+
+<!-- 
+@outline @meta
+* @outline - The growth forces to bundle 
+--> 
+
+### Bundle and unblundle growth forces 
+
+
+
+
 
 Now, as we go back to the space for innovation, it seems that the celebration of the platform, when a network in a state of virtuous growth, which seems to go along with aspects indivated in the approach for scaling of Blitzscaling. From the standpoint of growth, and the view from inverstors interested in scaling platform networks, the analysis is for what elements neeed to be in the place, what forces are fovaourable or against, considering the expectations and vision of the network reaching its full potential. In the story of Uber, a prior network was know as the "yellow cabs" situation. Sequoia partners doing analysis, wanted to invest but to recognize the risks and take a strategy of focusing first in black cars. Sequoia has identified players that were in the field of unbundling the cabs networks, and one of them had the opportunity, although Sequoia wanted them to go back to black, stay away from yellow cabs at that moment. The CEO didn't accept. Later Sequoia end up finding an entrepreneur from San Francisco that were focusing in the black cards and asked if he would be okay with the moving on top of yellow cabs in the right time. And that became Uber. 
 
@@ -195,7 +229,18 @@ In the realm of innovative products or services, for example, the notion of cate
 
 [^footnote_play_bigger]: 
 
-### Seeking truths 
+
+
+<!-- 
+@outline @meta
+* @outline - Who owns the truth 
+--> 
+
+### Who owns the truth 
+
+
+
+
 
 Now, in the heated/cold space of one that lives the experience, it comes the considerations of experiencing that put us to reflect, go seek for truths, challenge the boundaries. When I had reflected about that my first trip as an Uber driver, I took me into writing an article because I considered that the platform could do something about something I saw, a need. Since I had an agenda for reusing the car radio to support my goal of watching talks, I had the opportunity to visualize that Uber-idle University idea. 
 
