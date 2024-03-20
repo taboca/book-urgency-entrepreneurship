@@ -1,5 +1,8 @@
 # Environment 
 
+
+
+
 Entreprenurship happens in the environment and because of the environment. This makes the environment of entrepreneurs, especially when it creates the demand which happens when one feels that they need to do something, like to put a dent in the universe as they would say. Think about category products - 
 
 Situation - all entrepreneurs change something in the world, in the external. 
@@ -32,7 +35,7 @@ It is unescapable for many of us to first think that all that is being offered a
 
 <!-- 
 @outline @meta
-* @outline - Complication, Prisons? 
+* @outline - Situation - Abundance and They Just Don't Get It and What?
 --> 
 
 
@@ -41,20 +44,26 @@ One thing to take from all that is that it turns out that we sort of seem to be 
 
 So I hope that some of these illustrations are good for the many us that are the people that just don't get it. With that said, and yet or still, it may be so that we feel sometimes that many of these solutions are unecessary, or too much. Thus, it is unescapable too that sometimes we think of ourselves and others as victims of some experiences and to be concerned with, as if that we sometimes are in a enprisioned. These days I was concerned since I got a picture of my nieces visiting the country land: They were in a playground sat in opposite sides of the merry-go-round spinner, a mechanical equipment where kids sat around and can spin theselves by applying their force in a central plate that does not move. So they would spin fast except that both of them were watching a video on their tablet. To be fair with them, I got a photo, so maybe they were resting after having played too much, although that resting watching a tablet is yet something that concerns me. 
 
-But when I give more fire to that feeling of discomfort, that something is wrong, it takes me right into that situation of the possibility of enpriosionment where people - I will call them now users - can be in a way trapped within a certain platform; or enprisioned by the interactions of that situation in a given platform likely being experienced by a group. Before we get back to the digital world, let us stay with a simple situation of one in a traffic jam right now somewhere in the world. It certainly brings me to celebrate the existance of the car's air conditioner if the location is hot. And the car music player and the need for comfortable seats. These are things that makes the experience of being stuck to be much better. Celebrating a nice car - and its whistles and bells - stuck in the traffic should also set us to celebrate the cup holder, which would well accomodate a milkshake. And if the driver is a business manager he will may be interested to recall the reflections from Clayton Christensen, the renowned Harvard Business School professor also known for the book *The Innovator's Dilemma*, that had developed the beginnings of the idea that we essentially hire products to do a job for us, that we are essentially seeking for solutions to help our ways to get a job done. Consider the narrative given by professor Clayton and his colleagues, where a researcher interviews commuters and understands better the intents of some commuters for when they bring milkshake to their cars: 
 
-> *The researcher inquired further: “Tell me about a time when you were in the same situation but you didn’t buy a milk shake. What did you buy instead?” Sometimes, he learned, they bought a bagel. But bagels were too dry. Bagels with cream cheese or jam resulted in sticky fingers and gooey steering wheels. Sometimes these commuters bought a banana, but it didn’t last long enough to solve the boring-commute problem. Doughnuts didn’t carry people past the 10 am hunger attack. The milk shake, it turned out, did the job better than any of these competitors. It took people 20 minutes to suck the viscous milk shake through the thin straw, addressing the boring-commute problem. They could consume it cleanly with one hand. By 10:00, they felt less hungry than when they tried the alternatives. It didn’t matter much that it wasn’t a healthy food, because becoming healthy wasn’t essential to the job they were hiring the milk shake to do.*" (Christensen, Cook, & Hall, 2005)
+
+
+
+
+
 
 <!--
-@references 
-* reference - Christensen, C. M., Cook, S., & Hall, T. (2005, December). Marketing malpractice: The cause and the cure. Harvard Business Review. https://hbr.org/2005/12/marketing-malpractice-the-cause-and-the-cure
+@outline 
+* Outline - Complication - Entrepreneurship can be trapped in the space.  
 --> 
 
 
 
 
 
-So indeed there are things we do hire to get a job done, and it makes a lot of sense; and I recommend quite well for all entrepreneurs to dig into the Job To Be Done theory, especially the work of Tony Ulwick and his colleagues; but too it comes with that that there are levels, or zoom levels for the situation of our lives. You can indeed improve the car for the situations of a jam or boring or long rides, the car folks are doing a good job there. But too it comes the undeniable thinking that sometimes crosses our minds - do I need the car? What happens, when we do that, is not that we are essentially giving up the Jobs To be Done theory but in fact we might be fully embracing and recognizing that there are levels that you can focus to consider/reconsider what happens in a space. 
+
+
+
+
 
 And to be clear about the points for us entrepreneurs, the complications for us, is that we can be trapped too; we may be looking at solving things within a car, but other entreprenurs might be looking at if the car is really needed. In other words, as entrepreneurs look at spaces, an envinronmnt, they look at an objective reality indeed - they will find people and needs; but it is not easy to look objectively beyond the boundaries, especially given that a lot of what we do are assumptions that we need to do. To point how far this concern can go, consider the concerns from Sam Altman wrote an article where he is concerned with a situation, like voices, or the lack of voices, in Silicon Valley and the risk for the innovation potential: 
 
@@ -75,41 +84,11 @@ So then the situation given by this idea of the zoom level shows a dilemma. That
 
 <!-- 
 @outline @meta
-* @outline - Answer, to bundle and unbundle? Or to put the notion that embodies what goes on with the a1 = experience of platforms, a2 = freedom from the prison and a3 = forces for the bundling and unbundling. 
+* @outline - Answer - has to do with the notion of bundle and unbundle - for the spaces
 --> 
 
 
 When we are entrepreneuring ourselves we are essentially reconsidering the boundaries of a space, so we might be exploring optimizing a given space or all the way into breaking the walls of that space. For some, they may add comfort to that space. For others, they may see a space as a prison and may want to break the walls, to free people. For us here and now it matters more to increase our views for how relative all things are. 
-
-Let us first then consider using the digital world, an exercise for how platforms are relative, how platforms may depend on platforms, which will give us a view that we can zoom in and out into the levels of these spaces. Following, let us consider that within certain platforms the users are likely too to innovate as they seek freedom and improvement to their lives. And finally, we will close this section with a reflection and conclusion about other forces that will support/prevent us from exploring the opportunities to improve or to break a space. 
-
-
-
-
-<!--
-@todo @meta
-* @todo - ( ) p2 - In Environment, Space - Consider to move the bundle/unbundle the part 3 @meta-refid 1222-3323-9393-9999 
---> 
-
-
-
-
-
-
-
-
-
-
-
-<!-- 
-@outline @meta
-* @outline - First experience with platforms inside platforms
---> 
-
-### Experiencing the formation of platforms 
-
-
-
 
 
 
@@ -137,6 +116,46 @@ So we either want to succeed within the box or without the box, assuming the ent
 
 
 
+
+As we explore the spaces that entrepreneurship acts, either to support or enhance or either to rethink the space, let us go through an illustration and considerations using the history of Silicon Valley to explore how platforms are formed and how platforms are nested too; an exercise for us to help see that all platforms, or spaces, are relative, and how platforms may depend on platforms too. Following, let us consider that within certain platforms the users are doing things, solving their needs, so we will reflect on the relationship with the user that actss in a space and how innovation rises from within, as users seek improvements to what they do if not freedom from the situation they seem themselves. And finally, we will close this section with a reflection and conclusion about other forces that will support/prevent us from exploring the opportunities and a conclusion about who owns the space or the truth. 
+
+
+<!--
+@todo @meta
+* @todo - (Done, moved to A2) p2 - In Environment, Space - Consider to move the bundle/unbundle the part 3 @meta-refid 1222-3323-9393-9999 
+--> 
+
+
+
+
+
+
+
+
+
+
+<!-- 
+@outline @meta
+* @outline - Answer a - How platforms are formed may explain how spaces are formed 
+--> 
+
+
+
+### Bundling the space 
+
+
+
+
+If entrepreneurship and innovation have to do with creating solutions for our needs in a given space, our inclination to look at the space may matter not only because the space is the ground - like the ground that allow a farmer to plant a seed and grow an apple tree - but too because the space is relative; where we are going with this idea for the sake of giving to entrepreneurs an opportunity to explore all platforms as the space of opportunity would be like saying that someone else is controlling the weather and the ground conditions of that farmer. But of course - and  since this book is not about crossing the borders of the physical world as we know it - if spaces or the environment can be controlled and are in fact relative, for us it may be easier and more applicable to reflect about the relativeness of platforms and spaces using the situation of digital platforms and the economic platforms that are formed from the digital and networked economy. 
+
+
+
+
+
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Environment, Space - Consider to bring the reflection from Maslow, from Maslow on Management, where he explained that the Linear Systems had just one guard in the parking lot; so it is all connected. @meta-refid 1212-3344-4355-9494
+--> 
 
 
 
@@ -214,9 +233,64 @@ Conclude with the bundle and unbundling challenge?
 * @outline - How unbundling may happen 
 --> 
 
-### Unbundling the platform 
+### Unbundling the space 
 
 
+
+
+
+
+
+
+<!-- 
+@outline @meta
+* @outline - a2 - Situation - The car in the traffic  
+--> 
+
+But when I give more fire to that feeling of discomfort, that something is wrong, it takes me right into that situation of the possibility of enpriosionment where people - I will call them now users - can be in a way trapped within a certain platform; or enprisioned by the interactions of that situation in a given platform likely being experienced by a group. Before we get back to the digital world, let us stay with a simple situation of one in a traffic jam right now somewhere in the world. It certainly brings me to celebrate the existance of the car's air conditioner if the location is hot. And the car music player and the need for comfortable seats. These are things that makes the experience of being stuck to be much better. Celebrating a nice car - and its whistles and bells - stuck in the traffic should also set us to celebrate the cup holder, which would well accomodate a milkshake. And if the driver is a business manager he will may be interested to recall the reflections from Clayton Christensen, the renowned Harvard Business School professor also known for the book *The Innovator's Dilemma*, that had developed the beginnings of the idea that we essentially hire products to do a job for us, that we are essentially seeking for solutions to help our ways to get a job done. Consider the narrative given by professor Clayton and his colleagues, where a researcher interviews commuters and understands better the intents of some commuters for when they bring milkshake to their cars: 
+
+> *The researcher inquired further: “Tell me about a time when you were in the same situation but you didn’t buy a milk shake. What did you buy instead?” Sometimes, he learned, they bought a bagel. But bagels were too dry. Bagels with cream cheese or jam resulted in sticky fingers and gooey steering wheels. Sometimes these commuters bought a banana, but it didn’t last long enough to solve the boring-commute problem. Doughnuts didn’t carry people past the 10 am hunger attack. The milk shake, it turned out, did the job better than any of these competitors. It took people 20 minutes to suck the viscous milk shake through the thin straw, addressing the boring-commute problem. They could consume it cleanly with one hand. By 10:00, they felt less hungry than when they tried the alternatives. It didn’t matter much that it wasn’t a healthy food, because becoming healthy wasn’t essential to the job they were hiring the milk shake to do.*" (Christensen, Cook, & Hall, 2005)
+
+<!--
+@references 
+* reference - Christensen, C. M., Cook, S., & Hall, T. (2005, December). Marketing malpractice: The cause and the cure. Harvard Business Review. https://hbr.org/2005/12/marketing-malpractice-the-cause-and-the-cure
+--> 
+
+
+
+
+
+
+<!-- 
+@outline @meta
+* @outline - a2 - Complication - Levels of JTBD in the space, relativeness  
+--> 
+
+
+
+
+
+
+So indeed there are things we do hire to get a job done, and it makes a lot of sense; and I recommend quite well for all entrepreneurs to dig into the Job To Be Done theory, especially the work of Jobs to Be Done Tony Ulwick [^footnote_jtbd_tony] and his colleagues; but too it comes with that that there are levels, or zoom levels for the situation of our lives. You can indeed improve the car for the situations of a jam or boring or long rides, the car folks are doing a good job there. 
+
+But too it comes the undeniable thinking that sometimes crosses our minds - do I need the car? What happens, when we do that, is not that we are essentially giving up the Jobs To be Done theory but in fact we might be fully embracing and recognizing that there are levels that you can focus to consider/reconsider what happens in a space. 
+
+<!--
+@todo @meta 
+* @todo - ( ) p2 - In Environment, Space - Check footnote of Tony Ulwick when it refers to JTBD, check if it is a framework of a theory or what according to the latest articles. @meta-refid 1212-2223-4432-9873
+--> 
+
+[^footnote_jtbd_tony]: JTBD (Jobs to be Done) theory, as developed by Tony Ulwick and Strategyn, presents a groundbreaking framework for innovation. Central to the framework is the notion that customers "hire" products or services to accomplish specific jobs or tasks in their lives. By understanding these jobs in detail, companies can innovate by creating offerings that precisely meet the needs of their customers. Ulwick's approach involves the understanding of the job steps and opportunities associated with a job, providing businesses with a structured process to identify and and come up with ideas to solve unmet needs or met needs in creative ways.  
+
+
+
+
+
+
+<!-- 
+@outline @meta
+* @outline - a2 - Marcio's reflection about being an Uber Driver  
+--> 
 
 
 
@@ -256,7 +330,7 @@ Another sort of opportunity I crossed, although it seemed a bit outside the boun
 * @outline - The growth forces to bundle 
 --> 
 
-### Bundle and unblundle growth forces 
+### The bundled forces 
 
 
 
@@ -295,7 +369,7 @@ In the realm of innovative products or services, for example, the notion of cate
 * @outline - Who owns the truth 
 --> 
 
-### Who owns the truth 
+#### Who owns the truth 
 
 
 
