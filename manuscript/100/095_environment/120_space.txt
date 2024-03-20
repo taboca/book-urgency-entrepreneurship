@@ -151,14 +151,6 @@ When entrepreneurial action leads to innovation, it happens because it changes s
 
 
 
-<!--
-@meta @todo 
-* @todo - p2 ( ) - In Environment, Space - Consider to bring the reflection from Maslow, from Maslow on Management, where he explained that the Linear Systems had just one guard in the parking lot; so it is all connected. @meta-refid 1212-3344-4355-9494
---> 
-
-
-
-
 
 I invite you to follow with me and the story of how I came to enjoy working with digital platforms - such as to make computer animations or software - from the early days. But more than just enjoying, and becoming somebody in the world of the digital creations, the opportunity I had was to see how platforms were formed and how platforms exists because they seat on top of others. In other worlds, when I see a digital system, like a mobile phone, I generally see a bit more, I see that whatever "app" is running is running "on top" of a platform, like the Android, and I also see that Android sits on top of what a software engineer would call an systems architecture that depends on many systems and projects of others, and then all of that "seats on top" of a hardware platform too and we could go all the way to the transistors. S
 
@@ -171,6 +163,19 @@ So the first thing to learn was what the technical folks would call *The Operati
 So right there I were experiencing a number of potential platforms. One was the computer itself. And "on top of that" as the technical one would say we had the operating system. And on top of that operating system I had installed the development tools with the programming language and other tools to allow me to write and store my own creations - my own applications. So it was impossible to not see these tools as platforms for creation. And too it was becoming clear that I had to do things and to respect the limits of these platforms or the tools offered. Fast-forward 14 years, I caught myself in a Computer Science course, and a lot in the labs making digital animations and short forms of video commercials for small local companies, and later I caught myself using the Web in front of yet another platform now entitled *The Browser*. This was around 1994, when I became a user and a developer interested in the Netscape Communicator. The interesting thing about that tool and platform was that again it was the thing to use as a normal user and also the thing that could allow you to engage as a creator. So one could focus in visiting web pages and sites, but also to be making them. So now, another "layer" was added to that stack of platforms: First, the computer, then the operating system, then this special application for navigating the Internet where I could too create web pages. All of these with the rules and limits, one seating on top of the other. 
 
 Now, and since I witnessed the rise of the browsers and the internet, one way to see what the internet browser meant, as a platform, is to consider some roles that didn't exist, like the role known as *Web Developer*, which not only didn't exist before the early 1990s but also had significantly evolved [^footnote_marcio_web_developer] along wiht the evolution of the browsers.  
+
+
+This might be a good moment to jump out from these digital platforms to just bring our minds to do a check that these spaces are everywhere and a lot of what we do are things we do because we imagine us working and living and having a good time or what on top of a platform in a way or another, and too that a lot that what we do we do sometimes quite comfortably because there are far too many platforms that the world had brought to us. In other words, if a kid is trying to understand how web pages are made using an Internet Browser, she might be doing so because she has this system installed in her operating system which was installed in a computer - it does not matter mobile or laptop or a desktop - which is connected to the Internet and also runs because it depends on its underlying elements that depends on electricity and so it is likely that she is in her room and focusing because she is safe and protected so that she can pay attention to that new space or domain or a world, you name it. Maslow, in Maslow on Management had celebrated how the world is interconnected so that better reflection follows: 
+
+> *""* Maslow 
+
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Environment, Space - Consider to bring the reflection from Maslow, from Maslow on Management, where he explained that the Linear Systems had just one guard in the parking lot; so it is all connected. @meta-refid 1212-3344-4355-9494
+--> 
+
+
+
 
 to be designed from the usage of browser, which helps us to consider the bunble/unblundle notions of Jim Barksdale and Marc Andreessen; and the rise of this and other professional positions, or identities, which didn't exist before the early 90s. But in the beginning of the 90s, web developers were just a few of them. They started as webmasters when sites came out. They were the people that would take care of websites, and they had to be concerned with the user, the visitor, to care about the visitors. They had to be valuing layout and aspects of accessibility, since the web pages were actually a medium for accessing information. They had to be concerned with communication as well, because most web pages were text and graphics, and they weren't really full software programmers. On the aspect of the tool, on the other hand, it's valid to consider that the internet browser, such as the Netscape Navigator, became a bundled toolbox, made of the unbundling of prior technologies and tools, enabling that new kind of, I wouldn't say software engineer. Today, for far too many cities in the world, there are web developers everywhere and even many variations such as front-end engineers, back-end engineers, web designers, user experience designers, and a lot more. Thus, it is unescapable that they made themselves and the ties with the economic model. 
 
