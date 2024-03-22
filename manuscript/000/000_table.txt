@@ -1,5 +1,7 @@
 # Todo # 
 
+* @todo - p1 ( ) @editor #technical #eletric - In Environment, Space - Check the part when we talk about transistors and the metaphors and other numbers. @meta-refid 1222-2333-4443-9393
+
 * @todo - ( ) p2 - In Environment, Space - Check footnote of Tony Ulwick when it refers to JTBD, check if it is a framework of a theory or what according to the latest articles. @meta-refid 1212-2223-4432-9873
 
 * @todo - p2 ( ) - In Environment, Space - Check reference if Andy Grove were really first hire. @meta-refid 1212-2223-3392-9394
