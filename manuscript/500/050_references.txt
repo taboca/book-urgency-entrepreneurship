@@ -90,6 +90,9 @@ Kim, A. J. (2018). Game Thinking: Innovate smarter & drive deep engagement with 
 100 / 120_space.txt 
 -->
 
+<!-- dup --> 
+Maslow, Abraham H. (1998). Maslow on Management. Published by John Wiley & Sons, Inc.
+
 Mannes, J. (2017, August 23). Here is Uber’s first pitch deck. TechCrunch. https://techcrunch.com/gallery/here-is-ubers-first-pitch-deck/
 
 Christensen, C. M., Cook, S., & Hall, T. (2005, December). Marketing malpractice: The cause and the cure. Harvard Business Review. https://hbr.org/2005/12/marketing-malpractice-the-cause-and-the-cure

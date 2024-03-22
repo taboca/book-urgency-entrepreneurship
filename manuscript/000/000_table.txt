@@ -1,7 +1,5 @@
 # Todo # 
 
-* @todo - p2 ( ) - In Environment, Space - Consider to bring the reflection from Maslow, from Maslow on Management, where he explained that the Linear Systems had just one guard in the parking lot; so it is all connected. @meta-refid 1212-3344-4355-9494
-
 * @todo - ( ) p2 - In Environment, Space - Check footnote of Tony Ulwick when it refers to JTBD, check if it is a framework of a theory or what according to the latest articles. @meta-refid 1212-2223-4432-9873
 
 * @todo - p2 ( ) - In Environment, Space - Check reference if Andy Grove were really first hire. @meta-refid 1212-2223-3392-9394
@@ -328,6 +326,8 @@ https://chat.openai.com/share/b7eb16c5-4c18-4709-9220-bd2629f34a3d
 * Culture 
 
 ## Done
+
+* @todo - p2 (Done) - In Environment, Space - Consider to bring the reflection from Maslow, from Maslow on Management, where he explained that the Linear Systems had just one guard in the parking lot; so it is all connected. @meta-refid 1212-3344-4355-9494
 
 * @todo - (Done, moved to A2) p2 - In Environment, Space - Consider to move the bundle/unbundle the part 3 @meta-refid 1222-3323-9393-9999 
 
