@@ -1,3 +1,5 @@
+# Whole 
+
 ## Writing framework - 20% + 80% - less critics, more flow 
 
 * Phase 1 - Domain 
@@ -9,6 +11,12 @@
 
 * Phase 3 - Editing - Paragraph and sections arrangement. 
 * Phase 3 - Editing - Sections vs. outline review. 
+
+# Editor and writing 
+
+## The introduction may be a guide that invites and filters or selects a mindset 
+
+* @todo - p1 ( ) - In Introduction - As in guide for the book - Check page 16 of the introduction of the book entitled Flow by Mihaly, how he had geniously presented a sort of strategy of the book which may be a perspective or a mindset that he wonders from the reader. This seems to be a way to filter out things and to invite the reader. @meta-refid 7383-6383-7383-7383
 
 ## Editor note - Watch for breezyness - thin line between breezyness and style and eloquence? 
 
