@@ -1,6 +1,12 @@
 # Identity 
 
 
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Identity - Consider to bring the quote from Amartya Sen from Identity and Violence, ref "The following is a quote from Amartya Sen from the book Identity and Violence, found in the preface, in the beginning of the preface. Oscar Wilde made the enigmatic claim, most people are other people. This may sound like one of his more outrageous conundrums, but in this case Wilde defended his view with considerable consciency. Their thoughts are someone else's opinions, their lives a mimicry, their passions a quotation. We are indeed influenced to an amazing extent by people with whom we identify." To the chapter Identity. @meta-refid 7567-4344-4434-2323 
+--> 
+
+
 <!-- 
 @meta @outline 
 * Outlinne - Pitch - To be concerned with the identity, not objective, they think. But an identity is formed from a role, and can offer risk the very moment when they become. 

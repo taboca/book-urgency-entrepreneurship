@@ -1,5 +1,11 @@
 # Todo # 
 
+* @todo - p2 ( ) - In Environment Space - Bring the quote from The Power Makers, Maury Klein, of the school. @meta-refid 1212-3334-4442-8887 
+
+* @todo - p3 ( ) - In Identity or Running or other - In fact, the quote that follows, the above quote, is very interesting because Sir Ken Robson asserts that we don't move into creativity, we move out of creativity, we basically get educated. 
+
+* @todo - p2 ( ) - In Identity - Consider to bring the quote from Amartya Sen from Identity and Violence, ref "The following is a quote from Amartya Sen from the book Identity and Violence, found in the preface, in the beginning of the preface. Oscar Wilde made the enigmatic claim, most people are other people. This may sound like one of his more outrageous conundrums, but in this case Wilde defended his view with considerable consciency. Their thoughts are someone else's opinions, their lives a mimicry, their passions a quotation. We are indeed influenced to an amazing extent by people with whom we identify." To the chapter Identity. @meta-refid 7567-4344-4434-2323 
+
 * @todo - p1 ( ) @editor #technical #eletric - In Environment, Space - Check the part when we talk about transistors and the metaphors and other numbers. @meta-refid 1222-2333-4443-9393
 
 * @todo - ( ) p2 - In Environment, Space - Check footnote of Tony Ulwick when it refers to JTBD, check if it is a framework of a theory or what according to the latest articles. @meta-refid 1212-2223-4432-9873
