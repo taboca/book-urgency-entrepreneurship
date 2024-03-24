@@ -12,6 +12,14 @@
 * Phase 3 - Editing - Paragraph and sections arrangement. 
 * Phase 3 - Editing - Sections vs. outline review. 
 
+# Tools 
+
+* AI intern - research tool - https://chat.openai.com/share/a8759791-b747-4b28-979f-30ec310644b2 
+* AI intern - footnotes 
+* AI intern - reader abstract tester 
+* AI intern - translator and expression and wording specialist in given cultures, like business american reader. 
+* AI intern - APA reference maker 
+
 # Editor and writing 
 
 ## The introduction may be a guide that invites and filters or selects a mindset 
