@@ -13,28 +13,30 @@ And we know too that the economic movement is the necessary element that makes s
 
 <!--
 @meta @todo
-* @todo - p2 ( ) - In Environment - Check the introductory line and the bring the precise quote from The Power Makers, Maury Klein, of the school that posted a note fearing the locomotives. @meta-refid 1212-3334-4442-8887 
+* @todo - p2 (Done ) - In Environment - Check the introductory line and the bring the precise quote from The Power Makers, Maury Klein, of the school that posted a note fearing the locomotives. @meta-refid 1212-3334-4442-8887 
 -->
 
-As a more real illustration, let us picture a someone that is now comfortably driving a car while listening to a hip hop song while accompained by a thick milkshake that lasts for the ride including the expected traffic jam ahead; in contrast with the days from not so long ago, as reported by Maury Klein, when people got scared by those big moving machines known as locomotives: 
+For a better illustration, we can compare how normal it is for someone to be comfortably seated in a car, listening to a hip-hop song, nursed by a thick milkshake large enough to last for the whole traffic jam; with the not-so-far back in time days where some of us where uncomfortable by the chugs and hisses of the early locomotives and even motivated to curse, as reported by Maury Klein in The Power Makers:
 
-> *"If God wanted.... "* Maury 
+ > *"As rails spread across the land, opposition came from canal owners, some states that had invested heavily in canals, turnpike and bridge companies, stagecoach lines, tavernkeepers, and anyone who saw his business threatened by the railroad. Some people even raised religious and moral objections. An Ohio's school board warned in 1828 that 'if God had designed that His intelligent creatures should travel at the frightful speed of 25 miles an hour by steam, He would have foretold it through His holy prophets. It is the device of Satan to lead immortal souls down to Hell.'" (Klein, 2009, p. 57) 
 
-
-
-
-
-
+<!--
+@references 
+* reference - Klein, Maury. (2009). The power makers: steam, electricity, and the men who invented modern America. Bloomsbury Press. First U.S. edition.
+-->
 
 <!-- 
 @outline @meta
 * @outline - Complication - All happens in a space; User needs depends on the space and their environment creates the needs too. 
 --> 
 
+With these comparisons my intention is to invite us to celebrate, first, that the changes that created our environment strongly sets our perspectives and how we respond when we think about the future. When I visited my car's mechanic, a couple years ago, and asked him about the potential rise of eletric cars in Brazil, his reasons for why it wouldn't work were mostly market reasons and less to do with what could be thought of as higher values such as the environmental impact to the planet or other moral or even religious concerns. But to think that way, I caught myself when writing this, I would be missing the point that there are no lower or higher values and what really matters is that the values given are usually enough for driving our entrepreneurial action. In other words, if one justifies the reality of a market to judge if something is a go-no-go then this one is likely aware of the characterizations of that market, which could be generally considered a good thing the idea that many of us understand what are markets. 
 
+Therefore, and if we are to consider how we are bounded to our environment, we shouldn't miss the celebration that the possibilities for doing things might be expanded given the abundance of possibilities offered by the platforms of our modern world. It is a good thing that a lot can be done and that human potential can be busy building things by using the tools and methods and frameworks and systems and networks and a lot more doing all of that with good expectations and also in harmony with others. There is that happening in the world and it is worth celebrating.
 
-It may be so that some of us are worried about self-driving cars now, how dangerous these things could be. But all of the entrepreneurs will agree that as environment changes, what they have is a new reference point which gives to them the space of opportunity; especially when it creates the demand, when their imagination and creative potential is being called to act and when they feel empowered to do something about it. 
+However, it comes from that too that the world of possibilities given by our environment can greatly impact many to, for lack of a better word, to be trapped or thinking in the box. In other words, there is a lot of movement that might be considered as entrepreneurial movement but in fact, if taken from perspective, can be considered to be business as usual. And there is nothing wrong with that as the bricklayer that builds houses carries the main element of the true entrepreneurs - the ability to get things done. What matters for all the entrepreneurs - not matter what they the bits and pieces that they are layering - is that being aware of their environment - tools or platforms or methods or the playbooks or a marketplace or else - is important as they should understand and interpret the obvious things - like boundaries or limits and possibilities - but also the meaning for themselves and from the perspective of where they are going such as the view for the startup growth and the business in the long run. 
 
-Now from that too there is a complicated situation for entrepreneurs, that the environment influences them and their entrepreneurial actions and how they experience the world in every single way. They may be motivated to change something about the environment, or they may comply and enhance something, or they may be mad enough to rethink a given space in the environment. And as they do, the experience and how the perspectives and how they experience the environment is all connected not only with the environment, but also with the tools and the systems and the entities and the interfaces that they interact with. Furthermore, as they communicate and collaborate, it's also part of the environment, the vocabulary and the words that people use, and the cultural... and culture. So let us consider to pause for a while and reflect about some of these aspects of the environment in the hope of being a trip.
+Let us continue to celebrate some aspects that shapes our environment, starting first with a moment to think about the formation of platforms espeically that more digital platorms are layered in our lives; and to to consider how what we do is highly influeced by the shapes and form of the interfaces of tools we have, the things we interact with. And furthermore that our environment is also constructed by the minimal tools for collaboration, our vocabulary, the words that people use to do the things they want to do. 
+
 
 ]
