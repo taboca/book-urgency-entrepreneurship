@@ -4,7 +4,9 @@ That entrepreneurship happens in the environment, we know, and with that it is p
 
 It it as well inescapable to think about the many things that need to be in place for anything new to stick around, such as the technological conditions, the necessity of interfaces that we understand, and a language that give to us minimally a half-door open so that we can get the reasons to jump in. Of course, all of that may depend on a fruitful conomic movement which otherwise a great idea may not stick. 
 
-We know too that once things are in place, we may not be busy to rethink things and in fact we may quite well accept additions that incrementally improve things around us. As an illustration, consider that once the car had entered our lives, so many additions went along to a point that we don't even notice anything odd when we see a driver that is comfortably seated in her car, listening to a hip-hop song, nursed by a thick milkshake large enough to last for the whole traffic jam. Moreover, as we get use to our environment, we know it too of other kinds of change can set us to be uncomfortable, in good or bad ways, like the disruptive innovations that change things quite quick. Consider how not-so-far back in time days where some of us where uncomfortable by the chugs and hisses of the early locomotives and even motivated to curse, as reported by Maury Klein in The Power Makers:
+We know too that once we are in an environment that is familiar, how easy is for us to accept the propositions that incrementally improve things around us. As an illustration, consider that once the car had entered our lives we went through so many additions to a point that we don't bother anything odd when we picture a driver that is comfortably seated in the car listening to a hip-hop song and being nursed by a thick milkshake large enough to last for the whole traffic jam. 
+
+And likewise, that the more we get into it, how challenging and uncomfortable we may feel - in good or bad ways - in the face of the disruptive innovations that knock on our doors from time to time and affect our ways of living before we know it. Consider how some of our ancestors felt uncomfortable by the chugs and hisses of the early locomotives, as reported by Maury Klein in The Power Makers:
 
 <!--
 @meta @todo
@@ -31,5 +33,3 @@ However, it comes from that too that the world of possibilities given by our env
 
 Let us continue to celebrate some aspects that shapes our environment, starting first with a moment to think about the formation of platforms espeically that more digital platorms are layered in our lives; and to to consider how what we do is highly influeced by the shapes and form of the interfaces of tools we have, the things we interact with. And furthermore that our environment is also constructed by the minimal tools for collaboration, our vocabulary, the words that people use to do the things they want to do. 
 
-
-]
