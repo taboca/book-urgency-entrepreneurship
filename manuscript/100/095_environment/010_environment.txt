@@ -1,29 +1,72 @@
 # Environment 
 
-That entrepreneurship happens in the environment, we know, and with that it is plausible to consider how the influences and is influenced by the entrepreneurial function. While I can't say if COVID-19 had anything to do with accelerating the adoption of a particular kind of ordering method at restaurants in Brazil, it gave me a good opportunity to compare the before and after. Before, I remember how quick it was for me to ask the waiter for the menu and a beer at once. After, on the other hand and before I could open my mouth, the waiter would quickly ask me me to take a photo of a image on a table - what they refer as the QR code menu - as the way to access the menu from a smartphone, and eventually if nothing happens for a while he would too be willing to help with the process. 
+<!--
+@todo @meta
+* @todo - p2 ( ) - In Environment Space - Consider to bring ideas from Joseph Schumpeter as Marcio is talking about the situation of abundance of solutions in a space - which it might have to do with the unrealistic exploration by Schumpeter that the entrepreneurial function is not needed if all needs are satisfied - but know too that where Marcio is going is that needs are too created, so spaces can be a trap plus the hint of leisure from Schumpeter might be a case to consider too. Nevertheless the saturated situation of Schumpeter can be realized. @meta-refid 1212-2233-3433-3933
+--> 
 
-It it as well inescapable to think about the many things that need to be in place for anything new to stick around, such as the technological conditions, the necessity of interfaces that we understand, and a language that give to us minimally a half-door open so that we can get the reasons to jump in. Of course, all of that may depend on a fruitful conomic movement which otherwise a great idea may not stick. 
+<!-- 
+@meta @outline 
+* outline - Entrepreneurship shapes our environment, we get into it, it is the way to get things done. 
+--> 
 
-We know too that once we are in an environment that is familiar, how easy is for us to accept the propositions that incrementally improve things around us. As an illustration, consider that once the car had entered our lives we went through so many additions to a point that we don't bother anything odd when we picture a driver that is comfortably seated in the car listening to a hip-hop song and being nursed by a thick milkshake large enough to last for the whole traffic jam. 
+That entrepreneurship happens in the environment, we know, and along how it influences the environment, and the plausible consideration that this new environment influences further entrepreneurial opportunities. While I can't say if COVID-19 had anything to do with accelerating the adoption of a particular kind of ordering method at restaurants in Brazil, it gave me a good opportunity to compare the before and after: Before, I remember how quick one would enter a bar and ask the waiter for the menu and a beer all at once. After, on the other hand, it seems that the waiter quickly asks me to take a photo of a image on a table - what they refer as the QR code menu - as the way to access the menu from a smartphone, and eventually if nothing happens for a while he might be willing to help with the technololgy and process.  
 
-And likewise, that the more we get into it, how challenging and uncomfortable we may feel - in good or bad ways - in the face of the disruptive innovations that knock on our doors from time to time and affect our ways of living before we know it. Consider how some of our ancestors felt uncomfortable by the chugs and hisses of the early locomotives, as reported by Maury Klein in The Power Makers:
+That brings us to face the inescapable - and sometimes surprising - truth that things do stick around, and, to wonder about the supporting factors of an environment to brings these new tunes to our spaces. As an example, and if I had paused for a moment before ordering, I would perhaps be able to notice the amount of things that needed to be in place for that to work - like the Internet that needed to be on, the necessity of a smartphone and for it have a camera. And that for my finger to tap the camera icon, the icon had to clear and acessible through the device's interface, which would then bring another interface, of the colorful menu with the photos and descriptions of the various kinds of coffee. 
+
+But take technologies and platforms and interfaces aside, all of that also needs a language; one that guides the beginner - not much different from the language of a professional dancer that beautifully conducts the novice - by saying something like "just take a photo of the QR code on your table and you will be able to order directly with the kitchen." Now if these are examples of a characterizations of an environment, we shouldn't forget that for any new tune to stick there should be an harmonic movement of an economic model that sustains it. In the case of the coffee store I am thinking, the owners do respect and value the digital menu and ordering system they chose. 
+
+
+
+
+
+
+
+
+
+
 
 <!--
-@meta @todo
-* @todo - p2 (Done ) - In Environment - Check the introductory line and the bring the precise quote from The Power Makers, Maury Klein, of the school that posted a note fearing the locomotives. @meta-refid 1212-3334-4442-8887 
--->
+@outline @meta
+* Outline - Complication - The environment of entrepreneurship is the opportunity and can be the trap.  [feat. Sam Altman] 
+--> 
 
- > *"As rails spread across the land, opposition came from canal owners, some states that had invested heavily in canals, turnpike and bridge companies, stagecoach lines, tavernkeepers, and anyone who saw his business threatened by the railroad. Some people even raised religious and moral objections. An Ohio's school board warned in 1828 that 'if God had designed that His intelligent creatures should travel at the frightful speed of 25 miles an hour by steam, He would have foretold it through His holy prophets. It is the device of Satan to lead immortal souls down to Hell.'"* (Klein, 2009, p. 57) 
 
-<!--
-@references 
-* reference - Klein, Maury. (2009). The power makers: steam, electricity, and the men who invented modern America. Bloomsbury Press. First U.S. edition.
--->
+
+
+
+
+
+So, a complication to be considered from this situation is that entrepreneurial action can emerge from every single space, especially under the conditions when there are people doing things and interacting. In other words, where needs exist, and where people are trying to execute their actions, there might be the entrepreneurial function that cares about improving things or even to propose a change to everything as it seems.
+
+But then from that it also comes a dilemma. That entrepreneurs might not even see that indeed they are able to improve certain spaces and improve the lives of the ones in there, but they too can be trapped within certain boundaries of the spaces, or to be thinking inside the box in a way. Therefore, the level of access in terms of challenging the boundaries of the spaces can be relative, and this relativeness, depending on the industries and the culture and circumstances, can also become trapped for entrepreneurs. As an example, an entrepreneur might be trying to improve the engine of a car, and from another perspective some others may try to rethink the entire necessity for using cars. To point how this concern is expressed, consider the concerns from Sam Altman in his article where he is worried about the voices or the lack of voices in Silicon Valley that could put in risk the innovation potential.
+
+> *"More recently, I’ve seen credible people working on ideas like pharmaceuticals for intelligence augmentation, genetic engineering, and radical life extension leave San Francisco because they found the reaction to their work to be so toxic. “If people live a lot longer it will be disastrous for the environment, so people working on this must be really unethical” was a memorable quote I heard this year."* Sam Altman, https://blog.samaltman.com/e-pur-si-muove
+
+He also had considered: 
+
+> *"Political correctness often comes from a good place—I think we should all be willing to make accommodations to treat others well.  But too often it ends up being used as a club for something orthogonal to protecting actual victims.  The best ideas are barely possible to express at all, and if you’re constantly thinking about how everything you say might be misinterpreted, you won’t let the best ideas get past the fragment stage."* Sam Altman,  https://blog.samaltman.com/e-pur-si-muove
+
+With the intention of allowing us to move ahead with this theme and the concerns about us entrepreneurs being trapped within boundaries, sometimes not being able to see the transformations that are imminent or the possibilities, I will call this attempt to materialize the idea of a space. So think that this is the space where opportunity may happen. The idea of this space involves limits or boundaries, and if you're indeed thinking inside the box, and if this space is where people live and do things, it is then the space where you can propose changes, although in general changes are proposed within the space exactly because it is a space of interaction, where people are generally respecting each other or in a way playing by the rules. 
+
+And exactly by considering the perspective of the limits and the actual metaphorical reference that any space of unlimited space or that certain rules are applying, we may then find ourselves invited to the very considerations when the space can be reconsidered, where the limits or the boundaries of a given reality can be reconsidered, which is also part of what entrepreneurial action does. And in matter of fact, real entrepreneurial action or more innovative the solution is, the more impactful the solution is, it is likely one that rethinks these boundaries and limits of a given space, and by rethinking it creates a new reality, which usually has ties with the development of a whole economy, and by creating a new economic model, these spaces impact social and cultural aspects, therefore creating a new space of opportunity. That essentially may touch the subject of creative destruction, if we think in more macro terms. But this idea may be applicable at any level in general, and if we are to follow on that, I would like to also bring about some considerations from the idea of bundle and non-bundle, which is essentially what entrepreneurial action does when one is in front of the consideration of the entrepreneurial opportunities in spaces.
+
+The concern from Sam Altman is indeed one of a kind - even many entrepreneurs would think - since he using an extremme example of innovative work that reaches out the limits of our space as we know it. But his concern is clearly stated - how many factors in a given environment may create certain limits to what is possible, even in Silicon Valley. 
+
+To be concerned with that may mean to be facing a dilemma that entrepreneurs may face although many of them may not even notice. That they do seek to do something, to be somebody, to change their spaces. But then they too may be trapped within certain limits, and may not even be interested in rethinking how relative is the space they live; as they can be comfortable and assume that a given reality is stable. If we were to use a simple physical metaphor, some of them may improve their space by painting the walls, some others propose new kinds of lights, and others may rethink the ways for living but yet within the space, accepting the limits and the boundaries of that space - economic, social, cultural. With that, we too may miss the possibilities of reconsidering the space as it is assumed to be. In other words, to be breaking the wall.
+
+To shift away from the far example of rethinking life, and to consider the boundaries, consider how many entrepreneurs are busy writing applications for the Android platform, like games. For these, they might be operating under the limits of the space as they know - the limits of mobile phones available in the market, the limits - defined by the technological allowances and policies - imposed by Google Play marketplace, to name some limits. Yes, a lot can be done there but too yes to the idea that they have to, to a certain extent, accept the rules of the platform. 
+
+
+
+
 
 <!-- 
 @outline @meta
-* @outline - Complication - All happens in a space; User needs depends on the space and their environment creates the needs too. 
+* @outline - Answer - 
 --> 
+
+
 
 With these comparisons my intention is to invite us to celebrate, first, that the changes that created our environment strongly sets our perspectives and how we respond when we think about the future. When I visited my car's mechanic, a couple years ago, and asked him about the potential rise of eletric cars in Brazil, his reasons for why it wouldn't work were mostly market reasons and less to do with what could be thought of as higher values such as the environmental impact to the planet or other moral or even religious concerns. But to think that way, I caught myself when writing this, I would be missing the point that there are no lower or higher values and what really matters is that the values given are usually enough for driving our entrepreneurial action. In other words, if one justifies the reality of a market to judge if something is a go-no-go then this one is likely aware of the characterizations of that market, which could be generally considered a good thing the idea that many of us understand what are markets. 
 

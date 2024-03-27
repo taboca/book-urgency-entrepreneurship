@@ -1,5 +1,39 @@
+## Outline v0.2 
 
+* Pitch - The environment where entrepreneurship happens influences entrepreneurship. 
+* outline - Situation - Entrepreneurship shapes our environment, we get into it, it is the way to get things done. 
+* Outline - Complication - The environment of entrepreneurship is the opportunity and can be the trap.  [feat. Sam Altman] 
+
+### Section 1 - Spaces 
+
+* @outline - All happens in a space; People needs depends on the space they act; And the space in a way becomes a framework for getting things done, which we may comply or reinvent. 
+* @outline - Situation - Ridiculous some of the things, we just don't get it. 
+* @Outline - Complication - Entrepreneurship frameworks and platforms can be great opportunity and traps too. 
+* @outline - Answer - has to do with the notion of bundle and unbundle - for the spaces
+* @outline - Answer a - How platforms are formed may explain how spaces are formed 
+* @outline - Answer b - How unbundling may happen 
+* @outline - Answer c - The growth forces to bundle 
+* @outline - Answer ca - Who owns the truth 
+
+
+
+
+
+
+## Outline 0.1 
 
 * Pitch - The environment where entrepreneurship happens influences entrepreneurship. The space they operate, the interfaces they use, and the words; it's all connected with the environment. The point being is that we shouldn't be trapped in this environment. The environment is the opportunity for entrepreneurship, it is a space to be reconsidered and this is the space of opportunity. 
+* outline - Situation - Entrepreneurship shapes our environment, we get into it, it is the way to get things done. 
+* outline - Situation - Incremental or disruptive? It's normal to accept additions, milkshake in the car; but the disruptive ones will provoke us. 
+* Outline - Complication - The so many additions and living in the box, we may not even notice things like what the humans are in need; We can be trapped by the platforms, frameworks, interfaces and the language. All of that can be the source but also the source of keeping us busy. 
 
-* @outline - All happens in a space; User needs depends on the space and their environment creates the needs too. 
+### Section 1 - Spaces 
+
+* @outline - All happens in a space; People needs depends on the space they act; And the space in a way becomes a framework for getting things done, which we may comply or reinvent. 
+* @outline - Situation - Ridiculous some of the things, we just don't get it. 
+* @Outline - Complication - Entrepreneurship frameworks and platforms can be great opportunity and traps too. 
+* @outline - Answer - has to do with the notion of bundle and unbundle - for the spaces
+* @outline - Answer a - How platforms are formed may explain how spaces are formed 
+* @outline - Answer b - How unbundling may happen 
+* @outline - Answer c - The growth forces to bundle 
+* @outline - Answer ca - Who owns the truth 

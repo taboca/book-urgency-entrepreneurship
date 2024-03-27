@@ -1,17 +1,33 @@
+
+
+
 <!-- 
 @outline @meta
-* @outline - All happens in a space; User needs depends on the space and their environment creates the needs too. 
+
+* [x] Pitch - Need to be shorter - our spaces are frameworks and modern world materializes platforms. Let us see how platforms are formed and how a lot is entangled. Just like people act on a box and the environment, where all happens; entrepreneurs too can be enchanted by the notion of the dilemma within the box. 
+
 --> 
 
 ## It's a space 
 
 
-<!--
-@todo @meta
-* @todo - p2 ( ) - In Environment Space - Consider to bring ideas from Joseph Schumpeter as Marcio is talking about the situation of abundance of solutions in a space - which it might have to do with the unrealistic exploration by Schumpeter that the entrepreneurial function is not needed if all needs are satisfied - but know too that where Marcio is going is that needs are too created, so spaces can be a trap plus the hint of leisure from Schumpeter might be a case to consider too. Nevertheless the saturated situation of Schumpeter can be realized. @meta-refid 1212-2233-3433-3933
+
+
+
+
+
+
+
+<!-- 
+@meta @outline 
+* @outline - Situation of incremental and disruptive brings us to recognize the enviroment is a framework?
 --> 
 
-Entrepreneurial function happens when its actions improves a situation where people interact or live or do the things they need to do. What it creates - by its solutions like tools or offerings - essentially does two things: It may improve the situation, when it adds something like when a new air conditioning is proposed to improve the air quality in a coffee shop. Or, on the other hand, it may propose a reinvention to a given arrangement or what entrepreneurs refer as to "put a dent in the universe," where as an example we can recall the ideas presented by the founders of Uber where they informed their investors of a complication with the current cab situation referring as taxi-monopolies even to a point of pointing out "the medallion system" (2017, August 23) as one of the factors reducing the quality of the service. 
+
+
+
+
+Entrepreneurial function happens when its actions improves a situation where people interact or live or do the things they need to do. What it creates - by its solutions like tools or offerings - essentially does two things: It may improve the situation, when it adds something like when a new air conditioning system is proposed to improve the air quality in a coffee shop. Or, on the other hand, when it proposes a reinvention to an arrangement like when entrepreneurs refer as to "put a dent in the universe," where as an example we can recall the ideas presented by the founders of Uber where they informed their investors of a complication with the current cab situation referring as taxi-monopolies even to a point of pointing out "the medallion system" (2017, August 23) as one of the factors reducing the quality of the service. 
 
 
 <!--
@@ -20,6 +36,56 @@ Entrepreneurial function happens when its actions improves a situation where peo
 --> 
 
 In other words, these founders had envisioned some freedom or a better experience certainly in their views which consisted in a rearrangement of an experience, essentially changing a space or a market depending how you want to see. And since we aren't judging the creations but recognizing a way to look at these environment. If we think of it as a space, we may think of the limits like  boundaries or constraints; and certainly from that the opportunities. This space, like a box, recognizes some inputs, such as to note the ground that a farmer uses to plant seeds, and also the outputs, such as that fruits can be sold to a local community. Or if another team had an idea to help people sleep, they can be grounded by a platform - like the Android platform - where they expect to deliver the experience as a smartphone "app" available to potential users through the Google marketplace, Google Play. 
+
+
+
+
+
+
+
+
+<!-- 
+@meta @outline 
+* @outline - Complication - difficult to see what to do as we are tied to it; and we need to understand in perspective. 
+--> 
+
+
+
+
+
+We know too that once we are in an environment that is familiar, how easy is for us to accept the propositions that incrementally improve things around us. As an illustration, consider that once the car had entered our lives we went through so many additions to a point that we don't bother anything odd when we picture a driver that is comfortably seated in the car listening to a hip-hop song and being nursed by a thick milkshake large enough to last for the whole traffic jam. 
+
+And conversely, it follows too that the more we get into it, the more we may also feel uncomfortable - either facing hopes or fears - in the face of the disruptive innovations that knock on our doors from time to time and affect our ways of living before we know it. Consider how some of our ancestors felt uncomfortable by the chugs and hisses of the early locomotives, as reported by Maury Klein in The Power Makers:
+
+<!--
+@meta @todo
+* @todo - p2 (Done ) - In Environment - Check the introductory line and the bring the precise quote from The Power Makers, Maury Klein, of the school that posted a note fearing the locomotives. @meta-refid 1212-3334-4442-8887 
+-->
+
+ > *"As rails spread across the land, opposition came from canal owners, some states that had invested heavily in canals, turnpike and bridge companies, stagecoach lines, tavernkeepers, and anyone who saw his business threatened by the railroad. Some people even raised religious and moral objections. An Ohio's school board warned in 1828 that 'if God had designed that His intelligent creatures should travel at the frightful speed of 25 miles an hour by steam, He would have foretold it through His holy prophets. It is the device of Satan to lead immortal souls down to Hell.'"* (Klein, 2009, p. 57) 
+
+<!--
+@references 
+* reference - Klein, Maury. (2009). The power makers: steam, electricity, and the men who invented modern America. Bloomsbury Press. First U.S. edition.
+-->
+
+
+
+
+
+
+
+
+
+
+<!-- 
+@meta @outline 
+* @outline - Complication - Ridiculous some of the things, we just don't get it. 
+--> 
+
+
+
+
 
 When we consider so different examples, we may think first that it takes a very specific reason for some people to want to mess up with their environment. Sometimes we will just don't get it how certain people create certain things. I felt at simes a feeling of judging some of the solutions, like to think how ridiculous is it for someone to be paying for a moment of silence. But now there are a lot of digital services that guide us into an experience that may have to do in a way or another with a moment of silence. Now it can be normal when you see a person that has subscribed to "an app" that helps her to have a moment of meditation. Perhaps a monk won't get it, not entirelly, although it is likely the monk is better equipped to understand the situation. But if you take a time machine and bring someone from 1885 living near a water mine, that person would not get why to pay for a cup, or a bottle or too a box of water. I still remember the yuck face my friend did around 2005 when I told him that supermarkets in the US had egg yolks in a box. 
 
@@ -32,8 +98,11 @@ It is unescapable for many of us to first think that all that is being offered a
 
 <!-- 
 @outline @meta
-* @outline - Situation - Abundance and They Just Don't Get It and What?
+* @outline - Complication or answer? - On top of a platform or framework?
 --> 
+
+
+
 
 
 
@@ -48,42 +117,15 @@ So I hope that some of these illustrations are good for the many us that are the
 
 
 
-<!--
-@outline 
-* Outline - Complication - Entrepreneurship can be trapped in the space.  
---> 
-
-
-
-
-
-
-
-So, a complication to be considered from this situation is that entrepreneurial action can emerge from every single space, especially under the conditions when there are people doing things and interacting and giving spaces, and there are their needs that they are trying to solve for their lives, and when these entrepreneurs care about changing and giving them a better life. In other words, if entrepreneurial action may happen in every single space that people live, when these fellow entrepreneurs care and thus feel that they can do something, then they then become somebody empowered and able to propose changes to those spaces. But then from that it also comes the dilemma that entrepreneurs might not even see that indeed they are able to improve certain spaces and improve the lives of the ones in there, but they too can be trapped within certain boundaries of the spaces, or to be thinking inside the box in a way. Therefore, the level of access in terms of challenging the boundaries of the spaces can be relative, and this relativeness, depending on the industries and the culture and circumstances, can also become trapped for entrepreneurs. As an example, an entrepreneur might be trying to improve the engine of a car, and from another perspective some others may try to rethink the entire necessity for using cars. To point how this concern is expressed, consider the concerns from Sam Altman in his article where he is worried about the voices or the lack of voices in Silicon Valley that could put in risk the innovation potential.
-
-> *"More recently, I’ve seen credible people working on ideas like pharmaceuticals for intelligence augmentation, genetic engineering, and radical life extension leave San Francisco because they found the reaction to their work to be so toxic. “If people live a lot longer it will be disastrous for the environment, so people working on this must be really unethical” was a memorable quote I heard this year."* Sam Altman, https://blog.samaltman.com/e-pur-si-muove
-
-He also had considered: 
-
-> *"Political correctness often comes from a good place—I think we should all be willing to make accommodations to treat others well.  But too often it ends up being used as a club for something orthogonal to protecting actual victims.  The best ideas are barely possible to express at all, and if you’re constantly thinking about how everything you say might be misinterpreted, you won’t let the best ideas get past the fragment stage."* Sam Altman,  https://blog.samaltman.com/e-pur-si-muove
-
-With the intention of allowing us to move ahead with this theme and the concerns about us entrepreneurs being trapped within boundaries, sometimes not being able to see the transformations that are imminent or the possibilities, I will call this attempt to materialize the idea of a space. So think that this is the space where opportunity may happen. The idea of this space involves limits or boundaries, and if you're indeed thinking inside the box, and if this space is where people live and do things, it is then the space where you can propose changes, although in general changes are proposed within the space exactly because it is a space of interaction, where people are generally respecting each other or in a way playing by the rules. And exactly by considering the perspective of the limits and the actual metaphorical reference that any space of unlimited space or that certain rules are applying, we may then find ourselves invited to the very considerations when the space can be reconsidered, where the limits or the boundaries of a given reality can be reconsidered, which is also part of what entrepreneurial action does. And in matter of fact, real entrepreneurial action or more innovative the solution is, the more impactful the solution is, it is likely one that rethinks these boundaries and limits of a given space, and by rethinking it creates a new reality, which usually has ties with the development of a whole economy, and by creating a new economic model, these spaces impact social and cultural aspects, therefore creating a new space of opportunity. That essentially may touch the subject of creative destruction, if we think in more macro terms. But this idea may be applicable at any level in general, and if we are to follow on that, I would like to also bring about some considerations from the idea of bundle and non-bundle, which is essentially what entrepreneurial action does when one is in front of the consideration of the entrepreneurial opportunities in spaces.
-
-The concern from Sam Altman is indeed one of a kind - even many entrepreneurs would think - since he using an extremme example of innovative work that reaches out the limits of our space as we know it. But his concern is clearly stated - how many factors in a given environment may create certain limits to what is possible, even in Silicon Valley. 
-
-To be concerned with that may mean to be facing a dilemma that entrepreneurs may face although many of them may not even notice. That they do seek to do something, to be somebody, to change their spaces. But then they too may be trapped within certain limits, and may not even be interested in rethinking how relative is the space they live; as they can be comfortable and assume that a given reality is stable. If we were to use a simple physical metaphor, some of them may improve their space by painting the walls, some others propose new kinds of lights, and others may rethink the ways for living but yet within the space, accepting the limits and the boundaries of that space - economic, social, cultural. With that, we too may miss the possibilities of reconsidering the space as it is assumed to be. In other words, to be breaking the wall.
-
-To shift away from the far example of rethinking life, and to consider the boundaries, consider how many entrepreneurs are busy writing applications for the Android platform, like games. For these, they might be operating under the limits of the space as they know - the limits of mobile phones available in the market, the limits - defined by the technological allowances and policies - imposed by Google Play marketplace, to name some limits. Yes, a lot can be done there but too yes to the idea that they have to, to a certain extent, accept the rules of the platform. 
-
-
-
-
-
-
 <!-- 
 @outline @meta
 * @outline - Answer - has to do with the notion of bundle and unbundle - for the spaces
 --> 
+
+
+
+
+
 
 
 If we focus on innovation, and the notion that entrepreneurs are essentially trying to create value for people in a way or another, then it comes the question of the space which they want to change something? When I call space, I am suggesting that there are boundaries or limits, so the metaphor recognizes the aspect of innovation tha tmay involve breaking existing rules but too on the other hand that any innovative setting will be grounded somewhere, will essentially abide to rules of another space. 
@@ -254,7 +296,7 @@ Conclude with the bundle and unbundling challenge?
 
 <!-- 
 @outline @meta
-* @outline - How unbundling may happen 
+* @outline - Answer b - How unbundling may happen 
 --> 
 
 ### Unbundling the space 
@@ -356,7 +398,7 @@ Another sort of opportunity I crossed, although it seemed a bit outside the boun
 
 <!-- 
 @outline @meta
-* @outline - The growth forces to bundle 
+* @outline - Answer c - The growth forces to bundle 
 --> 
 
 ### The bundled forces 
@@ -397,7 +439,7 @@ In the realm of innovative products or services, for example, the notion of cate
 
 <!-- 
 @outline @meta
-* @outline - Who owns the truth 
+* @outline - Answer ca - Who owns the truth 
 --> 
 
 #### Who owns the truth 
