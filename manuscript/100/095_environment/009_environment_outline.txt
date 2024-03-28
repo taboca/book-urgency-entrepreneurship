@@ -1,4 +1,5 @@
-## Outline v0.2 
+
+## Outline v0.3
 
 * Pitch - The environment where entrepreneurship happens influences entrepreneurship. 
 
@@ -7,7 +8,6 @@
 * Outline - Complication - The environment of entrepreneurship is the opportunity and can be the trap.  [feat. Sam Altman] 
 
 * Outline - Answer - By celebrating the formation of things around, like platforms, technologies, interfaces, and the language, we can reflect on the relativeness that entrepreneurial function becomes obsolete in a way but yet thriving it another way. [Feat. Schumpeter]
-
 
 ### Section 1 - Spaces 
 
@@ -19,6 +19,48 @@
 * @outline - Answer b - How unbundling may happen 
 * @outline - Answer c - The growth forces to bundle 
 * @outline - Answer ca - Who owns the truth 
+
+
+
+
+
+
+
+
+
+
+
+
+## Outline v0.2 
+
+* Pitch - The environment where entrepreneurship happens influences entrepreneurship. 
+
+* outline - Situation - Entrepreneurship shapes our environment, we get into it, it is the way to get things done. 
+
+* Outline - Complication - The environment of entrepreneurship is the opportunity and can be the trap.  [feat. Sam Altman] 
+
+* Outline - Answer - By celebrating the formation of things around, like platforms, technologies, interfaces, and the language, we can reflect on the relativeness that entrepreneurial function becomes obsolete in a way but yet thriving it another way. [Feat. Schumpeter]
+
+### Section 1 - Spaces 
+
+* @outline - All happens in a space; People needs depends on the space they act; And the space in a way becomes a framework for getting things done, which we may comply or reinvent. 
+* @outline - Situation - Ridiculous some of the things, we just don't get it. 
+* @Outline - Complication - Entrepreneurship frameworks and platforms can be great opportunity and traps too. 
+* @outline - Answer - has to do with the notion of bundle and unbundle - for the spaces
+* @outline - Answer a - How platforms are formed may explain how spaces are formed 
+* @outline - Answer b - How unbundling may happen 
+* @outline - Answer c - The growth forces to bundle 
+* @outline - Answer ca - Who owns the truth 
+
+
+
+
+
+
+
+
+
+
 
 
 

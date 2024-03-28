@@ -1,16 +1,13 @@
 # Environment 
 
-<!--
-@todo @meta
-* @todo - p2 ( ) - In Environment Space - Consider to bring ideas from Joseph Schumpeter as Marcio is talking about the situation of abundance of solutions in a space - which it might have to do with the unrealistic exploration by Schumpeter that the entrepreneurial function is not needed if all needs are satisfied - but know too that where Marcio is going is that needs are too created, so spaces can be a trap plus the hint of leisure from Schumpeter might be a case to consider too. Nevertheless the saturated situation of Schumpeter can be realized. @meta-refid 1212-2233-3433-3933
---> 
-
 <!-- 
 @meta @outline 
 * outline - Situation - Entrepreneurship shapes our environment, we get into it, it is the way to get things done. 
 --> 
 
-That entrepreneurship happens in the environment, we know, and along how it influences the environment. While I can't say that COVID-19 had accelerated the adoption of a modern way of ordering at some coffee shops in Brazil, it clearly gave me an opportunity to compare the before and after. Before, I remember that I used to seat and ask the waiter for the menu if not a coffee at once. After, on the other hand, the waiter asked me to take a photo of a image on a table so that I can access the menu for ordering from there. 
+That entrepreneurship essentially wants to serve people's needs, we know. And we know it too that it does so by modifying the environment where we live. This entanglement with the environment is so strong that sometimes it misses noticing the needs of people - which maybe the case when hypermaket of methods for building things offers a lot and cheaper, especialy when we are hungry to build. 
+
+This rich environment might too become a good reason for a reflection about how the environment can influence what we do, how we do, why we do; and how it impacts our ability to get things done. As COVID-19 were passing by, I couldn't notice if it were accelerating the adoption of a modern way of ordering at some coffee shops in Brazil. But it clearly gave me an opportunity to compare the place before and after: I would come in, seat, and ask the waiter for the menu and a coffee at once; while after the waiter came in quick and asked me to take a photo of a image on a table as the way to order from there.  
 
 That brings us to the inescapable - and sometimes quite surprising - truth that things do stick around and change our lives. And, as well, to wonder about the supporting factors that brings these new tunes to the spaces where we live. As an example, and if I were not so hungry and paused to reflect, I would perhaps notice the complexity and the many things that needed to be in place for that simple request to work. Like the Internet that needed to be on, the necessity of a smartphone, and for it have a camera. And as for my finger is concerned, the interface means to for it to tap the camera icon in the device's screen, which would then bring another graphical interface, of the menu, with the various kinds of coffee. But take these technologies and platforms and interfaces aside, there is too the necessity of a language. One that guides the beginner, perhaps not unlike the language of a professional dancer that conducts the novice, such as one that says to "just take a photo of that image on your table and you will be able to order directly to the kitchen." Now if these can be seen as some characterizations of an environment, we shouldn't forget that the new tune is sustained in harmony with the movement of an economic model background, which is likely the case that influenced the owners of that coffee place to chose that modern ordering system. 
 
@@ -31,9 +28,41 @@ That brings us to the inescapable - and sometimes quite surprising - truth that 
 --> 
 
 
-This view of how things are entangled, or nested, can be a complicated situation for many entrepreneurs or a concern for the entrepreneurial function. This circles back to our starting point "that entrepreneurship happens in the environment" and that 'it influences the environment," which I shall better elaborate. Because our environment sets our living conditions, given by the space of technologies and platforms and interfaces like tools and the language of words given by the world around us, we are well positioned to use the environment as the reference point of our perspective. And this is not bad - entrepreneurs know that - given that it is the enviroment is the grounded reference to jump to act, such as to improve something or even to propose change to the whole situation. 
 
-But the concerns of the entrepreneurial function of a higher order worry that entrepreneurs can be trapped by the environment even when they think that they can be executing the entrepreneurial function. In other words, while many may think that they are challenging a situation with something new, it is complicated as they can be provoking some of the characterizations but not well enough provoking themselves to think outside the box, as a result of themselves being trapped and too involved to the given economic or a cultural environment they live.  We can this by thinking that it is the dilemma of the entrepreneur - what to do? And as well to celebrate the complicated situation that they are in hurry to act, to be somebody, and the carry on what needs to be done, the execution. As an example, while entrepreneur might be trying to improve the engine of a car, another one with another perspective might be trying to remove the necessity of the car. Now to shift ourselves to a perspective that transcends further, let us celebrate the concern from Sam Altman about the voices, or the lack of voices, of modern Silicon Valley that to a certain extent may put at risk the potential for innovation: 
+
+
+This view of how things are entangled, or nested, can be complicated for entrepreneurs and the whole entrepreneurial function. This circles back to our starting point that entrepreneurship happens in the environment and that it influences the environment and with that ourselves. Because our environment sets our living conditions, given by the space of technologies and platforms and interfaces like tools and the language of words given by the world around us, we are well positioned to use the environment as the reference point of our perspective. And this is not bad - entrepreneurs know that - given that it is the enviroment is the grounded reference to jump to act, such as to improve something or even to propose change to the whole situation. 
+
+But the concerns for the entrepreneurs, rises as they are grounded by that environment, thus they aren't generally asking the question of "what to do" naturally because of an entrepreneurial movement - which is a beautiful thing and indeed has to be celebrated - essentially consists of their ability to get things done [^footnote_schumpeter_getthingsdone] more than other characterizations. As an example, one might be motivated to improve a car engine while another may be inspired to remove the necessity of the car. Those are simple examples that prompts them to react from the motivations and pains and problems they see - and you name it - which exactly sets them in a position to miss how complex is the environment, such as the many forces that are influencing or sustaining that reality. We have to agree that the degree of naiveness can be good too, allowance to ignore certain environmental objections; but as well we shall be concerned with when they move on and an unawareness that sets them to move by the impulse that takes them to see further realities of their environment, later in retrospect, and sets them to surprisingly encounter the challenges that not always they might see as good challenges to have, such as the ones that may create conflicts with their values such as findings that may lead them to give up. 
+
+This possibility, which may seem ackward to be considered, rises from the fact that in some circumstances that takes them to execute might be strongly tied with values which have ties with the environment as perceived. To illustrate how the entrepreneurial perspective changes after a discovery from the environment, consider the reflection from Brian Chesky about how their early team started to develop and idea and how their excitement changed as a result of them stumbling in the discovery that someone else were working in the same idea: 
+
+<!--
+@todo @meta
+* @todo - p2 (Done) - In Environment Space - Consider to bring ideas from Joseph Schumpeter as Marcio is talking about the situation of abundance of solutions in a space - which it might have to do with the unrealistic exploration by Schumpeter that the entrepreneurial function is not needed if all needs are satisfied - but know too that where Marcio is going is that needs are too created, so spaces can be a trap plus the hint of leisure from Schumpeter might be a case to consider too. Nevertheless the saturated situation of Schumpeter can be realized. @meta-refid 1212-2233-3433-3933
+--> 
+
+[^footnote_schumpeter_getthingsdone]: Joseph Schumpeter (2008), the renowned Austrian-American economist and political scientist known and author of "Capitalism, Socialism, and Democracy," identifies a key characterization of the entrepreneurial function as "getting things done" (p. 132), as more important than the ability to invent new things or create conditions for the enterprise to thrive; an observation that allow us to consider that the entrepreneurial function, given a world of too many possibilities such as of the cheaper ability to build things, can lead to the entrepreneurial function to be obsolete.  
+
+<!-- 
+@meta @references
+* Reference - Schumpeter, J. A. (2008). Capitalism, socialism, and democracy. Harper Perennial Modern Thought. (Original work published 1942)
+-->
+
+<!-- 
+@meta @todo
+* @todo - p2 (Done) - In Environment - Add a footnote about Schumpeter and the notion that the entrepreneur is essentially one that executes an entrepreneurial function of getting things done. @meta-refid 1212-2233-4433-9494
+--> 
+
+> *"We actually didn't do anything for four months. In fact, the thing we don't usually talk about is that we started exploring creating a roommate matching website. ..  Until one day, we typed 'roommates.com' and realized [that] somebody had built that site. .. And this was like three weeks or four later, and I said, 'Why the hell didn't anyone type that site in the first day? Cause I just wasted four weeks." [laugher]." (Chesky, Brian, 2015, 6:29)
+
+<!-- 
+@references 
+* @reference - Greylock. (2015, November 30). Blitzscaling 18: Brian Chesky on Launching Airbnb and the Challenges of Scale [Video]. YouTube. https://www.youtube.com/watch?v=W608u6sBFpo
+--> 
+
+
+But other concerns might transcend the individual perspective of a team and may be a concern of the entrepreneurial function as a whole. That the whole environment - and its characterizations like the market and other forces like cultural and economic - indee sets the entrepreneurial function to be trapped and miss the possibilities of transcending where the energy and power acts within a given framework unable to explore opportunities outside the box. This can be celebrated if we listen to the concern from Sam Altman about the voices, or the lack of voices, of modern Silicon Valley that to a certain extent may put at risk the potential for innovation: 
 
 > *"More recently, I’ve seen credible people working on ideas like pharmaceuticals for intelligence augmentation, genetic engineering, and radical life extension leave San Francisco because they found the reaction to their work to be so toxic. “If people live a lot longer it will be disastrous for the environment, so people working on this must be really unethical” was a memorable quote I heard this year."* Sam Altman, https://blog.samaltman.com/e-pur-si-muove
 

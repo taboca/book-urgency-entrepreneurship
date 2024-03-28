@@ -10,8 +10,6 @@
 
 * @todo - p2 ( ) - In Communication - Consider the insight from Barbara Minto that can be applicable to the section where Marcio talks about communication being used to achieve clarity. The following quote should be considered on page 89 of the Minto pyramid principle under the chapter entitled imposing logical order. Consider the following quote, from p. 89: "The point I wish to reiterate is that you cannot tell that nonsense is being written on that unless you first impose a structure on it. It is the imposition of the structure that permits you to see the flaws and omissions." Further, in "summarizing grouped ideas," Barbara continues to trust the point that throught the development of the pyramid you are essentially discovering, iterating. Consider the following quote from p. 94: "In other words, the act of summarizing the groupings is the act of *completing the thinking*." @meta-refid 1222-3434-8383-8383
 
-* @todo - p2 ( ) - In Environment Space - Consider to bring ideas from Joseph Schumpeter as Marcio is talking about the situation of abundance of solutions in a space - which it might have to do with the unrealistic exploration by Schumpeter that the entrepreneurial function is not needed if all needs are satisfied - but know too that where Marcio is going is that needs are too created, so spaces can be a trap plus the hint of leisure from Schumpeter might be a case to consider too. Nevertheless the saturated situation of Schumpeter can be realized. @meta-refid 1212-2233-3433-3933
-
 * @todo - p3 ( ) - In Identity or Running or other - In fact, the quote that follows, the above quote, is very interesting because Sir Ken Robson asserts that we don't move into creativity, we move out of creativity, we basically get educated. 
 
 * @todo - p2 ( ) - In Identity - Consider to bring the quote from Amartya Sen from Identity and Violence, ref "The following is a quote from Amartya Sen from the book Identity and Violence, found in the preface, in the beginning of the preface. Oscar Wilde made the enigmatic claim, most people are other people. This may sound like one of his more outrageous conundrums, but in this case Wilde defended his view with considerable consciency. Their thoughts are someone else's opinions, their lives a mimicry, their passions a quotation. We are indeed influenced to an amazing extent by people with whom we identify." To the chapter Identity. @meta-refid 7567-4344-4434-2323 
@@ -344,6 +342,10 @@ https://chat.openai.com/share/b7eb16c5-4c18-4709-9220-bd2629f34a3d
 * Culture 
 
 ## Done
+
+* @todo - p2 (Done) - In Environment Space - Consider to bring ideas from Joseph Schumpeter as Marcio is talking about the situation of abundance of solutions in a space - which it might have to do with the unrealistic exploration by Schumpeter that the entrepreneurial function is not needed if all needs are satisfied - but know too that where Marcio is going is that needs are too created, so spaces can be a trap plus the hint of leisure from Schumpeter might be a case to consider too. Nevertheless the saturated situation of Schumpeter can be realized. @meta-refid 1212-2233-3433-3933
+
+* @todo - p2 (Done) - In Environment - Add a footnote about Schumpeter and the notion that the entrepreneur is essentially one that executes an entrepreneurial function of getting things done. @meta-refid 1212-2233-4433-9494
 
 * @todo - p2 (Done) - In Environment - Check the introductory line and the bring the precise quote from The Power Makers, Maury Klein, of the school that posted a note fearing the locomotives. @meta-refid 1212-3334-4442-8887 
 
