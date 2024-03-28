@@ -1,11 +1,6 @@
-
-
-
 <!-- 
 @outline @meta
-
-* [x] Pitch - Need to be shorter - our spaces are frameworks and modern world materializes platforms. Let us see how platforms are formed and how a lot is entangled. Just like people act on a box and the environment, where all happens; entrepreneurs too can be enchanted by the notion of the dilemma within the box. 
-
+* @outline - Pitch - Need to be shorter - our spaces are frameworks and modern world materializes platforms. Let us see how platforms are formed and how a lot is entangled. Just like people act on a box and the environment, where all happens; entrepreneurs too can be enchanted by the notion of the dilemma within the box. 
 --> 
 
 ## It's a space 
@@ -20,7 +15,7 @@
 
 <!-- 
 @meta @outline 
-* @outline - Situation of incremental and disruptive brings us to recognize the enviroment is a framework?
+* @outline - Situation - of incremental and disruptive brings us to recognize the enviroment is a framework?
 --> 
 
 
@@ -46,7 +41,7 @@ In other words, these founders had envisioned some freedom or a better experienc
 
 <!-- 
 @meta @outline 
-* @outline - Complication - difficult to see what to do as we are tied to it; and we need to understand in perspective. 
+* @outline - Complication - We can be tied, difficult to get out, but then platforms emerge disrupt and then again,  #Rails
 --> 
 
 
