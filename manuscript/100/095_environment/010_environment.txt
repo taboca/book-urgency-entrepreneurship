@@ -54,7 +54,7 @@ This possibility, which may seem ackward to be considered, rises from the fact t
 * @todo - p2 (Done) - In Environment - Add a footnote about Schumpeter and the notion that the entrepreneur is essentially one that executes an entrepreneurial function of getting things done. @meta-refid 1212-2233-4433-9494
 --> 
 
-> *"We actually didn't do anything for four months. In fact, the thing we don't usually talk about is that we started exploring creating a roommate matching website. ..  Until one day, we typed 'roommates.com' and realized [that] somebody had built that site. .. And this was like three weeks or four later, and I said, 'Why the hell didn't anyone type that site in the first day? Cause I just wasted four weeks." [laugher]." (Chesky, Brian, 2015, 6:29)
+> *"We actually didn't do anything for four months. In fact, the thing we don't usually talk about is that we started exploring creating a roommate matching website. ..  Until one day, we typed 'roommates.com' and realized [that] somebody had built that site. .. And this was like three weeks or four later, and I said, 'Why the hell didn't anyone type that site in the first day? Cause I just wasted four weeks.' [laugher]."* (Chesky, Brian, 2015, 6:29)
 
 <!-- 
 @references 
