@@ -1,6 +1,6 @@
 <!-- 
 @outline @meta
-* @outline - Pitch - Need to be shorter - our spaces are frameworks and modern world materializes platforms. Let us see how platforms are formed and how a lot is entangled. Just like people act on a box and the environment, where all happens; entrepreneurs too can be enchanted by the notion of the dilemma within the box. 
+* [x] Pitch - Need to be shorter - our spaces are frameworks and modern world materializes platforms. Let us see how platforms are formed and how a lot is entangled; Just like people act on a box and the environment, where all happens; entrepreneurs too can be enchanted by the notion of the dilemma within the box, using essentally building blocks given by economic models. 
 --> 
 
 ## It's a space 
@@ -9,48 +9,13 @@
 
 
 
-
-
-
-
 <!-- 
 @meta @outline 
 * @outline - Situation - of incremental and disruptive brings us to recognize the enviroment is a framework?
+* @outline - Situation - Consider #Rails #God
 --> 
 
-
-
-
-
-Entrepreneurial function happens when its actions improves a situation where people interact or live or do the things they need to do. What it creates - by its solutions like tools or offerings - essentially does two things: It may improve the situation, when it adds something like when a new air conditioning system is proposed to improve the air quality in a coffee shop. Or, on the other hand, when it proposes a reinvention to an arrangement like when entrepreneurs refer as to "put a dent in the universe," where as an example we can recall the ideas presented by the founders of Uber where they informed their investors of a complication with the current cab situation referring as taxi-monopolies even to a point of pointing out "the medallion system" (2017, August 23) as one of the factors reducing the quality of the service. 
-
-
-<!--
-@references 
-* Reference - Mannes, J. (2017, August 23). Here is Uber’s first pitch deck. TechCrunch. https://techcrunch.com/gallery/here-is-ubers-first-pitch-deck/
---> 
-
-In other words, these founders had envisioned some freedom or a better experience certainly in their views which consisted in a rearrangement of an experience, essentially changing a space or a market depending how you want to see. And since we aren't judging the creations but recognizing a way to look at these environment. If we think of it as a space, we may think of the limits like  boundaries or constraints; and certainly from that the opportunities. This space, like a box, recognizes some inputs, such as to note the ground that a farmer uses to plant seeds, and also the outputs, such as that fruits can be sold to a local community. Or if another team had an idea to help people sleep, they can be grounded by a platform - like the Android platform - where they expect to deliver the experience as a smartphone "app" available to potential users through the Google marketplace, Google Play. 
-
-
-
-
-
-
-
-
-<!-- 
-@meta @outline 
-* @outline - Complication - We can be tied, difficult to get out, but then platforms emerge disrupt and then again,  #Rails
---> 
-
-
-
-
-
-We know too that once we are in an environment that is familiar, how easy is for us to accept the propositions that incrementally improve things around us. As an illustration, consider that once the car had entered our lives we went through so many additions to a point that we don't bother anything odd when we picture a driver that is comfortably seated in the car listening to a hip-hop song and being nursed by a thick milkshake large enough to last for the whole traffic jam. 
-
-And conversely, it follows too that the more we get into it, the more we may also feel uncomfortable - either facing hopes or fears - in the face of the disruptive innovations that knock on our doors from time to time and affect our ways of living before we know it. Consider how some of our ancestors felt uncomfortable by the chugs and hisses of the early locomotives, as reported by Maury Klein in The Power Makers:
+Having us been acquainted by the idea that the entrepreneurial function cannot hack directly people's lives, and that it does so indirectly by affecting their environment - tools, methods, systems, platforms, you name it - we shall then proceed to the essential observation that it does so in two different ways: One of these is the provocative approach which entrepreneurs may refer as "to put a dent in the universe." To illustrate it, let us revisit how some of our ancestors felt by the chugs and hisses of the early locomotives, as reported by Maury Klein in The Power Makers:
 
 <!--
 @meta @todo
@@ -67,6 +32,23 @@ And conversely, it follows too that the more we get into it, the more we may als
 
 
 
+<!-- 
+@meta @outline 
+* @outline - Situation - We can be tied, difficult to get out, #cars
+--> 
+
+This approach is what essentially brought that old vision of the autonomous carriage [^footnote_oliverevans_oruktor] to our lives to a point that we are accquainted and not uncomfortable when we walk by the side of the jammed road and witness a driver that is comfortably seated apparently singing a song boundcng her head nursed by a thick milkshake that is large enough to last for the whole trip. And that brings us to the second way, the more common way of innovation, where the entrepreneurial function essencially adds something to a situation, like the milkshake or the music player that makes the modern worker less bored or nervous. 
+
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Space - Check Footnote of Oliver Evan's Oruktor. Was written by Chatgtp. @meta-refid 5656-7675-9391-2231
+-->
+
+[^footnote_oliverevans_oruktor]: Oliver Evans' Oruktor Amphibolos is often considered the first amphibious vehicle and an early example of steam-powered machinery, representing a significant milestone in the history of engineering and invention. The Oruktor was detailed in Evans' patent, notable for being one of the first in the United States to cover a machine rather than a method of manufacture, granted in 1804. For more details, see [Oliver Evans' Oruktor Amphibolos on Wikipedia](https://en.wikipedia.org/wiki/Oliver_Evans#Oruktor_Amphibolos).
+
+
+
+
 
 
 
@@ -75,16 +57,14 @@ And conversely, it follows too that the more we get into it, the more we may als
 
 <!-- 
 @meta @outline 
-* @outline - Complication - Ridiculous some of the things, we just don't get it. 
+* @outline - Complication - For entrepreneurs, they aren't imune to this, they are people too and even more that a lot of what they do departs from having empathy. Furthermore the tools they use are too platforms tools, which in essence gives them leverage power which is irresistible. 
 --> 
 
 
 
 
 
-When we consider so different examples, we may think first that it takes a very specific reason for some people to want to mess up with their environment. Sometimes we will just don't get it how certain people create certain things. I felt at simes a feeling of judging some of the solutions, like to think how ridiculous is it for someone to be paying for a moment of silence. But now there are a lot of digital services that guide us into an experience that may have to do in a way or another with a moment of silence. Now it can be normal when you see a person that has subscribed to "an app" that helps her to have a moment of meditation. Perhaps a monk won't get it, not entirelly, although it is likely the monk is better equipped to understand the situation. But if you take a time machine and bring someone from 1885 living near a water mine, that person would not get why to pay for a cup, or a bottle or too a box of water. I still remember the yuck face my friend did around 2005 when I told him that supermarkets in the US had egg yolks in a box. 
 
-It is unescapable for many of us to first think that all that is being offered are by-products of the situation of abundance brought by the capitalist machine that is non-stop evolving and serving the needs of people in a world that is spinning faster. As an example, when I first heard about those hydration gels that a runner drinks during a marathon, I thought it were some sort of compact water, to avoid the water to be bouncing inside the belly. Then I did a bit of research when editing this and realized that it has less to do with water and it's a source of energy that is easy to consume, that it offers fast absortion, nutrients, and as well may bring some of the values from like the electrolytes, such as sodium and potassium, that are lost through sweat. So my case helps us to conclude that it may be indeed that the capitalist machine is thirsty for creating all sorts of solutions and, as well, that many people just don't get it because they are not actually wearing the shoes of the ones living specific needs. 
 
 
 
@@ -98,36 +78,7 @@ It is unescapable for many of us to first think that all that is being offered a
 
 
 
-
-
-
-One thing to take from all that is that it turns out that we sort of seem to be living our lives and needs and running our lives on top of platform. Thus, if one lives a crazy work life she might find herself in needs for balancing out things; and it may be that she is too busy looking to the mobile screen too so for her it could make sense to install a digital application on her mobile device, one that helps her to meet other walkers since she prefers to not walk alone. And the application has other bells and whistles too like it saves the path for all her walks, it reports the total of footsteps per walk, it monitors her heart rate, and it may too give her badges, and it may too allow her to share and celebrate in the digital space with her network her achievements - yay. 
-
-So I hope that some of these illustrations are good for the many us that are the people that just don't get it. With that said, and yet or still, it may be so that we feel sometimes that many of these solutions are unecessary, or too much. Thus, it is unescapable too that sometimes we think of ourselves and others as victims of some experiences and to be concerned with, as if that we sometimes are in a enprisioned. These days I was concerned since I got a picture of my nieces visiting the country land: They were in a playground sat in opposite sides of the merry-go-round spinner, a mechanical equipment where kids sat around and can spin theselves by applying their force in a central plate that does not move. So they would spin fast except that both of them were watching a video on their tablet. To be fair with them, I got a photo, so maybe they were resting after having played too much, although that resting watching a tablet is yet something that concerns me. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 And in matter of fact, real entrepreneurial action or more innovative the solution is, the more impactful the solution is, it is likely one that rethinks these boundaries and limits of a given space, and by rethinking it creates a new reality, which usually has ties with the development of a whole economy, and by creating a new economic model, these spaces impact social and cultural aspects, therefore creating a new space of opportunity. That essentially may touch the subject of creative destruction, if we think in more macro terms. But this idea may be applicable at any level in general, and if we are to follow on that, I would like to also bring about some considerations from the idea of bundle and non-bundle, which is essentially what entrepreneurial action does when one is in front of the consideration of the entrepreneurial opportunities in spaces.
-
-
-
-
-
 
 
 
@@ -135,9 +86,6 @@ And in matter of fact, real entrepreneurial action or more innovative the soluti
 @outline @meta
 * @outline - Answer - has to do with the notion of bundle and unbundle - for the spaces
 --> 
-
-
-
 
 
 
