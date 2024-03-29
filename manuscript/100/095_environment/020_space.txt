@@ -15,7 +15,9 @@
 * @outline - Situation - Consider #Rails #God
 --> 
 
-Having us been acquainted by the idea that the entrepreneurial function cannot hack directly people's lives, and that it does so indirectly by affecting their environment - tools, methods, systems, platforms, you name it - we shall then proceed to the essential observation that it does so in two different ways: One of these is the provocative approach which entrepreneurs may refer as "to put a dent in the universe." To illustrate it, let us revisit how some of our ancestors felt by the chugs and hisses of the early locomotives, as reported by Maury Klein in The Power Makers:
+Having us briefly considered that the entrepreneurial function does its job by hacking systems, and not directly hacking into people's lives, it brings us to face the challenging realitity that entrepreneurial movement rises from their space which is essentally that entrepreneurs aren't immune of being hacked by their environment just like the layman, especially in the ever green world that is abundant of ideas, narraties, systems, platforms, tools of increasinly rich entrepreneurial space. 
+
+To further explore their challenges, we need to first acknowledge the observation that the entrepreneurial action changes our spaces in two different ways: One of these is the provocative approach which entrepreneurs may refer as "to put a dent in the universe." To illustrate it, let us revisit how some of our ancestors felt by the chugs and hisses of the early locomotives, as reported by Maury Klein in The Power Makers:
 
 <!--
 @meta @todo
