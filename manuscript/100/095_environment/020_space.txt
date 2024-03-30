@@ -8,7 +8,6 @@
 
 
 
-
 <!-- 
 @meta @outline 
 * @outline - Situation - of incremental and disruptive brings us to recognize the enviroment is a framework?
@@ -17,7 +16,7 @@
 
 Having us briefly considered that the entrepreneurial function does its job by hacking systems, and not directly hacking into people's lives, it brings us to face the challenging realitity that entrepreneurial movement rises from their space which is essentally that entrepreneurs aren't immune of being hacked by their environment just like the layman, especially in the ever green world that is abundant of ideas, narraties, systems, platforms, tools of increasinly rich entrepreneurial space. 
 
-To further explore their challenges, we need to first acknowledge the observation that the entrepreneurial action changes our spaces in two different ways: One of these is the provocative approach which entrepreneurs may refer as "to put a dent in the universe." To illustrate it, let us revisit how some of our ancestors felt by the chugs and hisses of the early locomotives, as reported by Maury Klein in The Power Makers:
+To further explore their challenges, we need to first acknowledge the observation that the entrepreneurial action changes our spaces in two different ways: One of these is the provocative approach which entrepreneurs may refer as "to put a dent in the universe." A good illustration of it can be seen by noticing how our ancestors felt by the chugs and hisses of the early locomotives, as reported by Maury Klein in The Power Makers:
 
 <!--
 @meta @todo
@@ -38,6 +37,9 @@ To further explore their challenges, we need to first acknowledge the observatio
 @meta @outline 
 * @outline - Situation - We can be tied, difficult to get out, #cars
 --> 
+
+And given that we are here, so in retrospect we can account the witnessed history of the transportation revolutions that essentially brought the world from visions for autonomous carriage [^footnote_oliverevans_oruktor] to our lives where we are acquainted and not uncomfortable when we by the sidewalk see a driver inside a car comfortably seated apparently singing a song by the bouncing of her head that is being nursed by a thick milkshake that is large enough and lasts for the whole trip. that sets us to the other way that our entrepreneurial does its action what essentially adds to the situation such as the air conditioning, the car, the music player, even the possibility of milkshake that will allow that modern worker to be less bored
+
 
 This approach is what essentially brought that old vision of the autonomous carriage [^footnote_oliverevans_oruktor] to our lives to a point that we are accquainted and not uncomfortable when we walk by the side of the jammed road and witness a driver that is comfortably seated apparently singing a song boundcng her head nursed by a thick milkshake that is large enough to last for the whole trip. And that brings us to the second way, the more common way of innovation, where the entrepreneurial function essencially adds something to a situation, like the milkshake or the music player that makes the modern worker less bored or nervous. 
 
