@@ -701,13 +701,9 @@ In other words, openness to feedback is a crucial element for investors to be ab
 
 
 
-
-
-
-
 <!-- 
 @meta @todo
-* @todo - p2 ( ) - In Identity - Bring the story from Brad Feld from Scale-ups about the situation where the CEO from the east company of online cabs, yellow cabs, had refused to close a deal with Benchmark. @meta-refid 6565-9898-9385-1233
+* @todo - p2 ( ) - In Identity - #bradfelddup - Bring the story from Brad Feld from Scale-ups about the situation where the CEO from the east company of online cabs, yellow cabs, had refused to close a deal with Benchmark. @meta-refid 6565-9898-9385-1233
 --> 
 
 

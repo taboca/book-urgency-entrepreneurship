@@ -82,23 +82,62 @@ This approach is what essentially brought that old vision of the autonomous carr
 
 
 
-And as we celebrate this holistic journey, where space and places are transformed, and how these are essentially new things hacking into our lives, we implicitly celebrate the challenging space for entrepreneurs that they do to their jobs by using the world as it is in the first place, the space around, like any other human being as they aren't immune to limits and boundaries, or the existing building blocks of what is given, given by the platforms that they see and are so used. 
+But if we celebrate the holistic journey that had transformed the transportation methods, we implicitly celebrate the challenging situation for entrepreneurs as their ability to get things done depends on their ties in two dimentions that influences what they build: That on one hand that they depend on input elements, like the building blocks or methods platforms, and on the other hand that they too depend on the external environment as support or not may be given, as they more or less have to provoke the external environment, as they may too abide by certain rules. 
 
-This challenge, which in many circumstances appears like the opportunity if not the idea of "it's the only way," display elements like on one hand that these very limitation by the building blocks they know what to do, framed by their urge to be somebody [^footnote_peterdrucker] which supports the essential element of entrepreneurship which is is the element of get things done [^footnote_schumpeter_getting_things_done]. If that is not enough of a limitation - that indeed may in some cases creatively allow a range of options for changing something - their reference point for the propositions depend lively on the actual needs of people [^footnote_jtbd], either resonating with their own experiences, such as pains or aspirations lived firsthand, or developed from a perspective that empathically represents the needs of others; which in other words reveals that the propositions have strong ties with the movement that happens by an audience that either accepts or denies what they have to offer. In other words, entrepreneurs will find themselves in the challenging position to properly understand their propositions under the viewpoint of the dynamic whole space and how the ways to go may or may not be accepted plus their own interests in the long run. 
+To get a better view about these challenges that entrepreneurs face as they enter the space of opportunity let us check back in the days where entrepreneurs were essentially eager to enter the space of the taxi industry. But all course, for entrepreneurs, all starts with good news so let us celebrate the excitement that some entrepreneurs felt around 2007 as the romantic notions for a futuristic ride taking experience certainly started to settle - as a possibilty - after the advent of the iPhone by 2007. One thing they knew, that people excitingly buying that idea of a three-in-one device as promoted by Steve Jobs - of an internet communicator system, a phone, and a music player [^footnote_stevejobs_threeinone]. In addition to that, now by 2008, they too understood that the new Iphone had an improved battery lifetime, compatibility with the newly released 3G network meaning higher-speed and better connectivity with the Internet, and not to forget the iPhone's integrated GPS which meant that they could build solutions that could track the location of the user if a permission were granted. 
 
-To consider the challenge, we can go back to the days when the first GPS-ready smartphones gave ideas to entrepreneurs to to improve or rethink the ride-hailing experience. Some of them played nice with the rules of the standard cabs industry like the yellow cabs in New York. The ones that went in this direction had proposed a better experience for existing cab drivers such as ride enabling a ride hailing from a mobile phone, checking the cost, and more. On the other hand, others having considered the possibilities of people using connected smartphones, didn't feel limited by the main constraints of the existing cab industry. In other words, they had just unbundled the existing cab space as it was seen. If we look at the original business presentation from Uber - Uber's original pitch deck (2017, August 23) - from 2008, we'll see how the founders proposed a new experience totally different from the known experience and also how they recognized that the old experience had ties with the existing taxi monopolies. In other words, they reinvented the ride-hailing experience. To note, a core aspect of the experience involved calling a ride from the smartphone without the need for traditonal phone calls, which was an exciting unseen experience for most people since the Iphone was launched in 2007, which also explains why it was thought to be first available in San Francisco and limited for executives where they could get rides in better cars, like Mercedes. Yet, the presentation had clearly considered the scenario of expansion that would affect the traditional cab space. The rest is history and we now know that Uber had indeed changed this space. But in fact, back in the days, it wasn't clear how things would go, if you consider the voice from entrepreneur CEO xxx where he acknowledge that he made a bet, although he lost: 
+[^footnote_stevejobs_threeinone]: 
+
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Space - Add the footnote for the three in one device and link to Steve Jobs talk or article. @meta-refid 1212-2233-3344-5543
+--> 
+
+<!--
+@references 
+* @reference - Stone, B. (2017). The Upstarts: How Uber, Airbnb, and the Killer Companies of the New Silicon Valley Are Changing the World. Little, Brown and Company.
+-->
+
+And granted that these elements were in place plus that Apple had deployed a whole marketplace for them to deploy and market their solutions, then they saw that they could ride a entrepreneurial journey to improve the taxi experience as it were or to reinvent the experience in new ways, which brings us to bad news or as entrepreneurs will see - challenging news. 
+
+To consider these challenges, let us take a ride to the past with Brad Stone, of Upstarts (Stone, B., 2017), first considering that by 2008 an iPhone app known as Taxi Magic was becoming popular in the U.S. as it had expanded across 25 cities, giving riders the ability to order standard taxis from their phones. That perspective shows that the leadership of Taxi Magic were essentially improving the existing situation, probably challenging some of the aspects, but essentially not fighting against the taxi industry. On the other hand, other founders thought that in order for riders to have a better experience, the known situation of the ride-hailing experience had to be disrupted. If we look at the original business presentation from Uber - Uber's original pitch deck (2017, August 23) - they clearly point to the poor experience of ride taking as connected with the taxi monopolies.
+
+Now that history shows that Uber survived, and given that many riders don't even know the world as it were before, can be challenging for us to see how these founders were struggling at the time. According to Brad Stone, these were philosophicaly differences. For Taxi Magic leadership, a particular moment had challenged them to reconsider their views, when Bill Gurley - the renowed partner of Benchmark Capital later to be known as the major investor in Uber - had engaged in what was referred as "a prolonged courtship" (Stone, B., 2017, p. 71) that culminated in an offer of $8 million in investment [^footnote_bradstone_investment_uber] which was declined. In an interview given to Brad Stone, DePaschoale the then-chairman Taxi Magic, had recognized that "Uber made a risky bet that has paid off unbelievably." DePaschoale had given to us the feeling of how the perspective is felt when you are there, in the road, in front of cross-roads, where you can't embrace all and have to take a path. 
+
+[^footnote_bradstone_investment_uber]: According to Brad Stone, the conversations between Taxi Magic and Bill Gurley of Benchmark Capital, had eventually arrived at an verbal offer from Bill Gurley, who proposed an $8 million investment at a $32 million valuation (Stone, B., 2017, p. 71).
 
 <!--
 @references 
 * Reference - Mannes, J. (2017, August 23). Here is Uber’s first pitch deck. TechCrunch. https://techcrunch.com/gallery/here-is-ubers-first-pitch-deck/
 --> 
 
-> *""* xxx
+<!--
+@references 
+* @reference - Stone, B. (2017). The Upstarts: How Uber, Airbnb, and the Killer Companies of the New Silicon Valley Are Changing the World. Little, Brown and Company.
+-->
+
+
 
 <!--
 @meta @todo 
-* @todo - p2 ( ) - In Space - Bring the quote from Up Starts of Brad Feld, from the executive that said no to the Silicon Valley VC company and had acknowledged that he were following a potential track. @meta-refid 1222-3322-3344-5555 
+* @todo - p2 (Done) - In Space - #bradfelddup - Bring the quote from Up Starts of Brad Feld, from the executive that said no to the Silicon Valley VC company Benchmark and had acknowledged that he were following a potential track. @meta-refid 1222-3322-3344-5555 
 -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!-- 

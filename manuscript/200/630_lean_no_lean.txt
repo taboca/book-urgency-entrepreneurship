@@ -367,20 +367,17 @@ Therefore, and even if perfection is never real and recognized and avoided as a 
 
 The truth in the space is that this support by these entities, the presence, also creates a selective pressure, which happens to be in many forms like when money runs out, co-founders disagree in values or vision, matching expectations with an outstanding possibility of investment, the reality that what is being done does not show any traction, and more. In other words, it's the voice from the pipeline that can affirm. If it works, move forward; if it fails, give up. There's no time to do lean as it should be done, not at all with a wider view about purpose. 
 
-To illustrate growth forces, consider the perspective given by Howard Hartenbaum, in "Entrepreneurship Through the Lens of Venture Capital," (Stanford, 2013) where he had recognized that some teams are "precedents driven" in the sense of an alighment with the 10000-hour rule [^footnote_10000hour_rule] and likely with a deeper understanding of the underlying problem even at a philosophical level [^footnote_reid_phisolophy]. But one thing is to consider the team's involvement at that level of depth; but another is the very observation that top-tier venture capital firms are not only aware but actually quite involved in doing their homework, such as research about the potencial changes that are happening to the world. In other words, it has to do with the jobs of their partners, the homework of identifying risks and opportunities for investment which depends on using their minds and all the resources they can to advance their understanding about potential transformations. To illustrate how real is this, consider the situation depicted by Brad Stone in his 2017 book, "The Upstarts: How Uber, Airbnb, and the Killer Companies of the New Silicon Valley Are Changing the World," when Sequoia [^footnote_sequoia_capital] wanted to invest in a ride sharing business in the east of United States which didn't work because the CEO had refused to stay away from yellow cabs which was a concern and fear brought up by Sequoia. On the other hand, Sequoia moved on, and end up investing in a team from San Francisco, California, Uber, a team focusing on black cars, like limo service; although Sequoia were quite interested to know that the founders would be okay to scale towards yellow cabs when the moment was right. 
+To illustrate growth forces, consider the perspective given by Howard Hartenbaum, in "Entrepreneurship Through the Lens of Venture Capital," (Stanford, 2013) where he had recognized that some teams are "precedents driven" in the sense of an alighment with the 10000-hour rule [^footnote_10000hour_rule] and likely with a deeper understanding of the underlying problem even at a philosophical level [^footnote_reid_phisolophy]. But one thing is to consider the team's involvement at that level of depth; but another is the very observation that top-tier venture capital firms are not only aware but actually quite involved in doing their homework, such as research about the potencial changes that are happening to the world. In other words, it has to do with the jobs of their partners, the homework of identifying risks and opportunities for investment which depends on using their minds and all the resources they can to advance their understanding about potential transformations. To illustrate how real is this, consider the situation depicted by Brad Stone in his 2017 book, "The Upstarts: How Uber, Airbnb, and the Killer Companies of the New Silicon Valley Are Changing the World," when Sequoia [^footnote_benchmark] wanted to invest in a ride sharing business in the east of United States which didn't work because the CEO had refused to stay away from yellow cabs which was a concern and fear brought up by Sequoia. On the other hand, Sequoia moved on, and end up investing in a team from San Francisco, California, Uber, a team focusing on black cars, like limo service; although Sequoia were quite interested to know that the founders would be okay to scale towards yellow cabs when the moment was right. 
 
 [^footnote_10000hour_rule]: 
 
 [^footnote_reid_phisolophy]: 
 
-[^footnote_sequoia_capital]: 
+[^footnote_benchmark]: 
 
 <!-- 
-
-## Todo
-
-* p2, ( ) / Narratives lean, add [^footnote_10000hour_rule] and [^footnote_reid_phisolophy] 9439825-5935983-53985983-5938598
-
+@meta @todo
+* @todo - p2 ( ) - Lean no lean - Narratives lean, add [^footnote_10000hour_rule] and [^footnote_reid_phisolophy] and also footnote_benchmark - @meta-refid 9439825-5935983-53985983-5938598
 --> 
 
 <!-- 
