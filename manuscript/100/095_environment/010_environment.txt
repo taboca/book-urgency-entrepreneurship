@@ -25,6 +25,14 @@ As for the first, a moment of listening to a leading character from one of the r
 * @reference - Altman, S. (2017, December 14). E Pur Si Muove. Retrieved from https://blog.samaltman.com/e-pur-si-muove
 --> 
 
+<!-- 
+@meta @research
+> *"Political correctness often comes from a good place—I think we should all be willing to make accommodations to treat others well.  But too often it ends up being used as a club for something orthogonal to protecting actual victims. The best ideas are barely possible to express at all, and if you’re constantly thinking about how everything you say might be misinterpreted, you won’t let the best ideas get past the fragment stage."* Sam Altman,  https://blog.samaltman.com/e-pur-si-muove
+-->
+
+
+
+
 
 
 
@@ -34,7 +42,9 @@ As for the first, a moment of listening to a leading character from one of the r
 * Outline - Complication - The environment of entrepreneurship is the opportunity and can be the trap.  [feat. Sam Altman] 
 --> 
 
-While Sam notices a paradox about potential versus limits, while values and moral are likely behind the things we built, then we are in the right spot to consider how our building blocks - methods platforms and more - are a given from our assumptions, and furthermore how it speaks to us, how it direct us. Furthermore, if Sam's concern appears not practical to our day as builders, if may only be so as it takes our imagination to the far-ahead implications, that shouldn't take our attention away from being concerned that the very same effect impacts our implementations of the practical day, especially given that the movement can't get away from its essential entrepreneurial function of get things done [^footnote_schumpeter_getthingsdone]. As an example, let's consider the reflection from Brian Chesky  about how their early team weren't so excited after having noticed that someone else seemed to be working in their same idea: 
+If we celebrate the concerns of Sam Altman, it may give us a moment to reflect on how the entrepreneurial environment shapes the entrepreneurial function, not anymore by any fierciful or fearsome hands, but by the denial of the investment that may be necessary, as investors can pick which kind of innovation they want to invest, therefore by the stronger and invisible hands that can boost entrepreneurs or scale them up. 
+
+Furthermore, the effects of these influences from this backstage brings us to zoom in and consider that the getting things done [^footnote_schumpeter_getthingsdone] of the everyday is a reflection of values not only of values outspoken but because a direction is given by the currents, by the available platforms, by available tools, methods, and more; as if the building blocks were telling us what to do. As an example, let's consider the reflection from Brian Chesky about how their early team weren't excited after having noticed that someone else had built a website that seemed similar to some of their ideas: 
 
 [^footnote_schumpeter_getthingsdone]: Joseph Schumpeter (2008), the renowned Austrian-American economist and political scientist known and author of "Capitalism, Socialism, and Democracy," identifies a key characterization of the entrepreneurial function as "getting things done" (p. 132), as more important than the ability to invent new things or create conditions for the enterprise to thrive; an observation that allow us to consider that the entrepreneurial function, given a world of too many possibilities such as of the cheaper ability to build things, can lead to the entrepreneurial function to be obsolete.  
 
@@ -43,16 +53,13 @@ While Sam notices a paradox about potential versus limits, while values and mora
 * Reference - Schumpeter, J. A. (2008). Capitalism, socialism, and democracy. Harper Perennial Modern Thought. (Original work published 1942)
 -->
 
-> *"In fact, the thing we don't usually talk about is that we started exploring creating a roommate matching website. ..  Until one day, we typed 'roommates.com' and realized [that] somebody had built that site. .. And this was like three weeks or four later, and I said, 'Why the hell didn't anyone type that site in the first day? Cause I just wasted four weeks.' [laugher]."* (Chesky, Brian, 2015, 6:29)
+> *"In fact, ... we started exploring creating a roommate matching website. ... Until one day, we typed 'roommates.com' [into the browser] and realized somebody had already built that site. ... And this was like three weeks or four later, and I said, 'Why the hell didn't anyone type that site in the first day? Because I just wasted four weeks.' [Laughter]."* (Chesky, Brian, 2015, 6:29)
+
 
 <!-- 
 @references 
 * @reference - Greylock. (2015, November 30). Blitzscaling 18: Brian Chesky on Launching Airbnb and the Challenges of Scale [Video]. YouTube. https://www.youtube.com/watch?v=W608u6sBFpo
 --> 
-
-
-
-
 
 <!--
 @todo @meta
@@ -60,15 +67,9 @@ While Sam notices a paradox about potential versus limits, while values and mora
 * @todo - p2 (Done) - In Environment - Add a footnote about Schumpeter and the notion that the entrepreneur is essentially one that executes an entrepreneurial function of getting things done. @meta-refid 1212-2233-4433-9494
 --> 
 
+To contextualize, there is not enough data in the given interview to know why they gave up that direction. But what is given from Brian's interview brings a truth that entrepreneurs recognize - that the domain they choose have an environmental domain as well. In other words, an entrepreneur that worked with internet sites from 2000 and beyond will recognize that feeling of loss when some idea similar is found and available using a nice and simple internet domain name. As an aside, and given that Brian's team had decided to move on with AirBedAndBreakfast.com (which later became available through Airbnb.com,) we shall infer that their more than 4 million [^footnote_airbnb_4millionhosts] hosts, and their guests, would be happy to know that back in the early days roommates.com were taken. 
 
-
-
-
-To be fair, it can't be said what Brian's team had seen in that site to give up that direction, but the point from Brian offers an insight that many entrepreneurs will recognize - that in their path of discovery, they do find certain evidences that influences their response in so seamless ways that we generally can't see the brutality where some environmental elements gets to be translated as values, essentially anchoring ourselves. Now, and given that Brian's team didn't go ahead in that direction and end up making Airbnb.com, it had provoked me to consider how roommates.com of that day had an influence in Airbnb.
-
-Although, and on the other hand, and after many of us having witnessed the execution and of Brian's team for a while, we can more calmly can consider that if Brian's team had worked on roommates.com, then the world of roommates would be much better much sooner;which brings us to the very point of how the environment may be treating or tricking us after all. Thus, where we are going essentially celebrates how the environment talks with us, that platforms, tools, methods, you name it, has the power of influence as all of these things are in fact materializations of existing values. We may celebrate another conclusive point from Sam from that same post: 
-
-> *"Political correctness often comes from a good place—I think we should all be willing to make accommodations to treat others well.  But too often it ends up being used as a club for something orthogonal to protecting actual victims. The best ideas are barely possible to express at all, and if you’re constantly thinking about how everything you say might be misinterpreted, you won’t let the best ideas get past the fragment stage."* Sam Altman,  https://blog.samaltman.com/e-pur-si-muove
+[^footnote_airbnb_4millionhosts]: Since its inception in 2007, Airbnb has experienced phenomenal growth, evolving from a small startup where two hosts welcomed three guests to their home in San Francisco to a global platform with over 5 million hosts, according to "About Us," retrieved from https://news.airbnb.com/about-us/.
 
 
 
@@ -82,27 +83,11 @@ Although, and on the other hand, and after many of us having witnessed the execu
 
 
 
-Thus if a dilemma sets in for some entrepreneurs might be less of a concern; while more should be given to the inclination and the urge to do something that has no time for any dilemma. And if the concern from Sam Altman is seen as one of a kind - if we worry about the higher expectations of the highest kind of entrepreneur movement that can be prevented by values - we would be essentially missing the nuanced observation that can help all entrepreneurs in all situations, which starts with the celebration that the forces of our environment are quite strong, and are the ones motivating us to act and influencing our perspectives. 
-
-Furthermore, that a celebration for how entangled our environment is, can give us an opportunity to reflect and see that the boundaries for us are limited by a set of values we anchor ourselves to, values which are getting richer or that too are giving us well-informed reasons or our actions but nevertheless have an influence on our perspectives for then how we respond as for what we want to do and build as builders. 
-
-As an example of how values shift, consider a visit I did to my car's mechanic, a couple years ago when I had asked him about the potential rise of eletric cars in Brazil, whereas his reasons for why it wouldn't work were were quite informed market-oriented reasons and less to do with what could be thought of as higher values such as the environmental impact to the planet or other moral or even religious concerns. In other words, if one justifies the reality of a market to judge if something is a go-no-go then this one is likely aware of the characterizations of that market, which could be generally considered a good thing the idea that many of us understand what are markets. But as much as that idea means to be celebrating the well-informed citizen, likely supported by the wide adoption of means to access information, it also shows how the realities that we have created, such as the market realities of our environments, become new factors on our ways to set the limits for what we do. 
-
-In other words, many of us can be satisfied by "thinking outside the box" that can be a mere exploration or a tinkering within another wider box that is not at all being challenged; which is other words is to say that a provocation to a system of values which may sound quite provoking might be about doing business as usual within another and unseen envinronmental box of values. 
-Therefore, and if we are to consider how we are bounded to our environment, we shouldn't miss the celebration that the possibilities for doing things might be expanded given the abundance of possibilities offered by the platforms of our modern world; but too that such expansion is also an expansion that can take our attention. 
 
 
+Furthermore, and especially if we acknowledge the style of execution from Brian and the Airbnb team, a calmer reflection sets in, one to consider that if they went further with that roommate thing, they would have executed quite well; which is basically us acknowledging a principle that execution matters. But along with that and exactly because of that, then that too can set us to be puzzled by how these "little" things can so meaningfully impact our days of execution anyway. 
 
-
-<!-- 
-@outline @meta
-* @outline - Answer - 
---> 
-
-
-It is a good thing that a lot can be done and that human potential can be busy building things by using the tools and methods and frameworks and systems and networks and a lot more doing all of that with good expectations and also in harmony with others. There is that happening in the world and it is worth celebrating. And there is nothing wrong with that as the bricklayer that builds houses carries the main element of the true entrepreneurs - the ability to get things done. 
-
-What matters for all the entrepreneurs - not matter what they the bits and pieces that they are layering - is that being aware of their environment - tools or platforms or methods or the playbooks or a marketplace or else - is important as they should understand and interpret the obvious things - like boundaries or limits and possibilities - but also the meaning for themselves and from the perspective of where they are going such as the view for the startup growth and the business in the long run. 
+To be clear about our context, we are thinking about the impact of an environment, like an environmental domain, has on us; thata dynamic environment may be given to entrepreneurs for them to explore a space, that they are invited by platforms by the platform movement and potential, that they are invited by tools, by related methods; and that the modern and richer and networked situation will produce such a major impact on us, with well-informed ways to do, well-informed reasons to do, allowing us to respond, as if we were doers responding to prompts by the rich enrepreneurial environment. 
 
 Let us continue to celebrate some aspects that shapes our environment, starting first with a moment to think about the formation of platforms espeically that more digital platorms are layered in our lives; and to to consider how what we do is highly influeced by the shapes and form of the interfaces of tools we have, the things we interact with. And furthermore that our environment is also constructed by the minimal tools for collaboration, our vocabulary, the words that people use to do the things they want to do. 
 
