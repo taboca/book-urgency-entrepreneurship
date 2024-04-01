@@ -87,12 +87,19 @@ McGonigal, J. (2011). Reality is Broken: Why Games Make Us Better and How They C
 Kim, A. J. (2018). Game Thinking: Innovate smarter & drive deep engagement with design techniques from hit games. Idea Bite Press.
 
 <!-- 
-100 / 120_space.txt 
+100 / 095_environment / 010_environment  
 -->
 
 Altman, S. (2017, December 14). E Pur Si Muove. Retrieved from https://blog.samaltman.com/e-pur-si-muove
 
 Williams, B. (2024, January 4). 64+ fascinating Airbnb statistics (Latest 2024 data). Dream Big Travel Far. https://www.dreambigtravelfarblog.com/blog/airbnb-statistics
+
+<!-- 
+100 / 120_space.txt 
+-->
+
+Play Bigger Team. (2020, February 4). What problem is Category Design solving? Play Bigger. https://www.playbigger.com/media/what-problem-is-category-design-solving
+
 
 <!-- dup --> 
 Stone, B. (2017). The Upstarts: How Uber, Airbnb, and the Killer Companies of the New Silicon Valley Are Changing the World. Little, Brown and Company.

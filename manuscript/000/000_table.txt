@@ -1,5 +1,7 @@
 # Todo # 
 
+* @todo - p2 ( ) - In Space - Add reference to Play Bigger, p. 51, put a reference in the footnote about category design and put a dent in the universe. @meta-refid 1112-3323-2233-4455 - @reference - Play Bigger Team. (2020, February 4). What problem is Category Design solving? Play Bigger. https://www.playbigger.com/media/what-problem-is-category-design-solving
+
 * @todo - p2 ( ) - In Environment - Check footnote of Sam Altman, link to his blog. @meta-refid 1212-3323-3445-9944 
 
 * @todo - p2 ( ) - In Space - Add the footnote footnote_bradstone_investment_uber @meta-refid 3233-3323-6677-4545

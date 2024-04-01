@@ -3,10 +3,13 @@
 * [x] Pitch - Need to be shorter - our spaces are frameworks and modern world materializes platforms. Let us see how platforms are formed and how a lot is entangled; Just like people act on a box and the environment, where all happens; entrepreneurs too can be enchanted by the notion of the dilemma within the box, using essentally building blocks given by economic models. 
 --> 
 
+
+
+
+
+
+
 ## It's a space 
-
-
-
 
 <!-- 
 @meta @outline 
@@ -14,9 +17,15 @@
 * @outline - Situation - Consider #Rails #God
 --> 
 
-Having us briefly considered that the entrepreneurial function does its job by hacking systems, and not directly hacking into people's lives, it brings us to face the challenging realitity that entrepreneurial movement rises from their space which is essentally that entrepreneurs aren't immune of being hacked by their environment just like the layman, especially in the ever green world that is abundant of ideas, narraties, systems, platforms, tools of increasinly rich entrepreneurial space. 
 
-To further explore their challenges, we need to first acknowledge the observation that the entrepreneurial action changes our spaces in two different ways: One of these is the provocative approach which entrepreneurs may refer as "to put a dent in the universe." A good illustration of it can be seen by noticing how our ancestors felt by the chugs and hisses of the early locomotives, as reported by Maury Klein in The Power Makers:
+
+
+To further explore these challenges, let us first acknowledge that when the entrepreneurial action innovates our spaces it does so in two different ways: The less provocative way, or incremental way, and the more provocative approach which entrepreneurs may refer to as "to put a dent in the universe." A good illustration of the latter can be witnessed if we check back on how some of our ancestors felt by the chugs and hisses of the early locomotives, as reported by Maury Klein in The Power Makers:
+
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Space - Add reference to Play Bigger, p. 51, put a reference in the footnote about category design and put a dent in the universe. @meta-refid 1112-3323-2233-4455 - @reference - Play Bigger Team. (2020, February 4). What problem is Category Design solving? Play Bigger. https://www.playbigger.com/media/what-problem-is-category-design-solving
+-->
 
 <!--
 @meta @todo
@@ -39,7 +48,7 @@ To further explore their challenges, we need to first acknowledge the observatio
 --> 
 
 
-And given that we are here, accounting, although in retrospect, the revolutions to the transportation that brought us from the early visions of the autonomous carriages [^footnote_oliverevans_oruktor] to these days of the car, that brings us to the other way that innovation comes to our lives by the incremental additions in a less provocative way, although what explains that we are comfortable to the idea when we are on a sidewalk and witnessing a car that is in a jam with the driver inside, somehow bouncing her head, likely listening to the music in the air conditioning and being nursed by a thick milkshake that lasts for the whole traffic jam.
+And the given that we're here recounting the revolutions in transportation from the early visions of autonomous carriages [^footnote_oliverevans_oruktor] to the automobile, we are then in the driver's seat using first-hand many things from the incremental innovations that follows, which make us comfortable when we witness a car in the slow traffic with its windows closed and the driver listening to a music comfortably seated in the air conditioning and being nursed by a thick milkshake that lasts for the whole traffic jam.
 
 <!--
 @meta @todo 
@@ -67,6 +76,9 @@ And given that we are here, accounting, although in retrospect, the revolutions 
 
 
 
+Having us briefly considered that the entrepreneurial function does its job by hacking systems, and not directly hacking into people's lives, it brings us to face the challenging realitity that entrepreneurial movement rises from their space which is essentally that entrepreneurs aren't immune of being hacked by their environment just like the layman, especially in the ever green world that is abundant of ideas, narraties, systems, platforms, tools of increasinly rich entrepreneurial space. 
+
+
 
 
 
@@ -80,6 +92,30 @@ And given that we are here, accounting, although in retrospect, the revolutions 
 
 
 To celebrate this holistic journey in the brief moments of transportation takes us to observe how the entrepreneurial function creatively creates new spaces and along with that spaces that do it to the economic value that it generates and it does so depending on other technological and economic environments and this essentially reveals an entanglement between different spaces which we can better visualize by looking at how the developments of the mobile and internet brought entrepreneurs to enable rethinking of the ride-hailing experience as we have witnessed by observing the rise of Uber as a leader in the category.
+
+
+
+
+
+
+
+
+
+
+
+<!-- 
+@outline @meta
+* @outline - Answer - Multiple entangled spaces and Bundle and Unbundle 
+--> 
+
+
+### Entangled spaces 
+
+
+
+
+
+
 
 To get a better view about these challenges that entrepreneurs face as they enter the space of opportunity let us check back in the days where entrepreneurs were essentially eager to enter the space of the taxi industry. But all course, for entrepreneurs, all starts with good news so let us celebrate the excitement that some entrepreneurs felt around 2007 as the romantic notions for a futuristic ride taking experience certainly started to settle - as a possibilty - after the advent of the iPhone by 2007. One thing they knew, that people excitingly buying that idea of a three-in-one device as promoted by Steve Jobs - of an internet communicator system, a phone, and a music player [^footnote_stevejobs_threeinone]. In addition to that, now by 2008, they too understood that the new Iphone had an improved battery lifetime, compatibility with the newly released 3G network meaning higher-speed and better connectivity with the Internet, and not to forget the iPhone's integrated GPS which meant that they could build solutions that could track the location of the user if a permission were granted. 
 
@@ -127,20 +163,6 @@ Now that history shows that Uber survived, and given that many riders don't even
 
 
 
-
-
-
-
-
-
-
-
-
-
-<!-- 
-@outline @meta
-* @outline - Answer - has to do with the notion of bundle and unbundle - for the spaces
---> 
 
 If we will always be essentially trapped in a way or another, either by the building blocks we know, or by the perceptions as for how things will go with the space in movement, we may, on the other hand use this time to continue our reflection to see and visualize the relativeness of all spaces; with the hopes that it sets us to be in doubt in good ways, to be aware. 
 
@@ -194,7 +216,7 @@ As we explore the spaces that entrepreneurship acts, either to support or enhanc
 
 
 
-### Bundling the space 
+### Bundle and and unbundle 
 
 As we have seen from the ideas of Jim Barksdale, the notions of bundling and unbundling have to do with additions on top of space or deconstructing a given space. And when deconstruction happens successfully, it happens as well that new spaces are bundled. So before we get to that and the entrepreneurs' motivations and considerations for modifying these things, I would like to invite us in this section to an exploration based on the digital space and digital platforms that take us to reflect about how spaces are created, specifically how platforms are created, which also will give us the idea that in the networking and digital economy, many of the things that we see that seem to be real are as well considered to be relative.
 
