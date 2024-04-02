@@ -48,7 +48,7 @@ To further explore these challenges, let us first acknowledge that when the entr
 --> 
 
 
-And the given that we're here recounting the revolutions in transportation from the early visions of autonomous carriages [^footnote_oliverevans_oruktor] to the automobile, we are then in the driver's seat using first-hand many things from the incremental innovations that follows, which make us comfortable when we witness a car in the slow traffic with its windows closed and the driver listening to a music comfortably seated in the air conditioning and being nursed by a thick milkshake that lasts for the whole traffic jam.
+And the given that we're here recounting the revolutions in transportation from the early visions of autonomous carriages [^footnote_oliverevans_oruktor] to the automobile, we are then in the driver's seat using first-hand many things from the incremental innovations that followed - to a point os uf being comfortable witnessing a car not running in the traffic jam with its windows closed and the driver listening to a music comfortably in the air conditioning plus being nursed by a thick milkshake that lasts enough for the long short trip. 
 
 <!--
 @meta @todo 
