@@ -1,21 +1,18 @@
-<!-- 
-@outline @meta
-* [x] Pitch - Need to be shorter - our spaces are frameworks and modern world materializes platforms. Let us see how platforms are formed and how a lot is entangled; Just like people act on a box and the environment, where all happens; entrepreneurs too can be enchanted by the notion of the dilemma within the box, using essentally building blocks given by economic models. 
---> 
 
 
 
 
 
-
-
-## It's a space 
 
 <!-- 
 @meta @outline 
-* @outline - Situation - of incremental and disruptive brings us to recognize the enviroment is a framework?
-* @outline - Situation - Consider #Rails #God
+* @outline - Situation - Need to be shorter - our spaces are frameworks and modern world materializes platforms. Let us see how platforms are formed and how a lot is entangled; Just like people act on a box and the environment, where all happens; entrepreneurs too can be enchanted by the notion of the dilemma within the box, using essentally building blocks given by economic models. 
+* @outline - Situation - Pitch SCqA - we can be so into a domain, a way for building things, we embrace the possibilities of new platforms, and builing became easier. Consider #Rails #God
 --> 
+
+## It's a space 
+
+
 
 
 
@@ -44,7 +41,7 @@ To further explore these challenges, let us first acknowledge that when the entr
 
 <!-- 
 @meta @outline 
-* @outline - Situation - We can be tied, difficult to get out, #cars
+* @outline - Situation - From not able to believe in #automated transports to being okay around #cars
 --> 
 
 And given that we are here and recounting the revolutions in transportation from the early visions of the autonomous steam carriages[^footnote_oliverevans_oruktor] to the automobile, then we are in the driver's seat to properly first-hand experience the many incremental developments that followed and made us to be comfortable when we witness a driver in a car behind the windows closed and listening to music on the radio comfortably seated in the air-conditioned and being nursed by a thick milkshake that lasts for the whole traffic jam and can be accommodated in the cup holder.
@@ -67,11 +64,15 @@ And given that we are here and recounting the revolutions in transportation from
 
 <!-- 
 @meta @outline 
-* @outline - Complication - For entrepreneurs, they aren't imune to this, they are people too and even more that a lot of what they do departs from having empathy. Furthermore the tools they use are too platforms tools, which in essence gives them leverage power which is irresistible. 
+* @outline - Complication - For entrepreneurs, the act within a platform is essentially additions, sometimes we may not notice us doing entrepreneurship that can be business as usual too. 
 --> 
 
 
-To consider this journey, is to recognize that the entrepreneurial function does its job by hacking our spaces, as it can't hack directly to people's lives. But by doing so in the successful condition, it ends up hacking their lives. Moreover, and going back to the leading paragraph of our chapter, if entrepreneurship sometimes misses the point about taking care of people's needs - such as by deploying excessive solutions not exactly to problems they have - it may do so because of the same effects that pose them to essentially respond and increment what's being built and being driven by the excessive need for building first and thinking later.
+
+
+
+
+If we look at this longer ride from its holistic perspective, from the moment that a dent was put in the universe and to account the further developments of expansions by the economic development, we will recognize that although the function doesn't directly hack into our lives, it does so indirectly by its creations, as the new ground is formed, a new space is established, making it the common ground that defines what, how and why we do it. Moreover, and going back to the leading paragraph of our chapter, if entrepreneurship sometimes misses the point about taking care of people's needs - such as by deploying excessive solutions not exactly to problems they have - it may do so because of the same effects that pose them to essentially respond and increment what's being built and being driven by the excessive need for building first and thinking later.
 
 
 
@@ -82,7 +83,7 @@ To consider this journey, is to recognize that the entrepreneurial function does
 
 <!-- 
 @outline @meta
-* @outline - Complication or answer? - On top of a platform or framework?
+* @outline - Answer? - The formation of a platform, as an outcome of a space of opportunity, solves another. 
 --> 
 
 
@@ -91,11 +92,16 @@ To further elaborate about the challenges of an entrepreneurial function as driv
 
 
 
+
+
+
+
+
+
 <!-- 
 @outline @meta
-* @outline - Answer - Multiple entangled spaces and Bundle and Unbundle 
+* @outline - Answer - Entangled spaces - multiple entangled spaces and Bundle and Unbundle 
 --> 
-
 
 ### Entangled spaces 
 
@@ -198,12 +204,17 @@ Following, let us consider that within certain platforms the users are doing thi
 
 <!-- 
 @outline @meta
-* @outline - Answer a - How platforms are formed may explain how spaces are formed 
+* @outline - Answer - Bundle and and unbundle - multiple entangled spaces and Bundle and Unbundle. 
 --> 
 
+### Bundling and unbundling spaces 
 
 
-### Bundle and and unbundle 
+
+
+
+
+
 
 As we have seen from the ideas of Jim Barksdale, the notions of bundling and unbundling have to do with additions on top of space or deconstructing a given space. And when deconstruction happens successfully, it happens as well that new spaces are bundled. So before we get to that and the entrepreneurs' motivations and considerations for modifying these things, I would like to invite us in this section to an exploration based on the digital space and digital platforms that take us to reflect about how spaces are created, specifically how platforms are created, which also will give us the idea that in the networking and digital economy, many of the things that we see that seem to be real are as well considered to be relative.
 
@@ -329,11 +340,10 @@ Conclude with the bundle and unbundling challenge?
 
 <!-- 
 @outline @meta
-* @outline - Answer b - How unbundling may happen 
+* @outline - Answer - Zooming In and out - Framing the job and transcending the space 
 --> 
 
-### Unbundling the space 
-
+### Zooming in and out 
 
 
 
@@ -346,8 +356,14 @@ Conclude with the bundle and unbundling challenge?
 * @outline - a2 - Situation - The car in the traffic  
 --> 
 
-
 It's certainly so that any innovative idea consists of supporting people that are living in a given space. Or in other words, that the space has offered an opportunity for the improvement of life for a number of people in that space. It follows from that that the entrepreneurial action, willing to innovate, comes from a certain level of discomfort, or from the optimist perspective that is driven by the future better comfortable conditions. And in more extreme cases, the innovative ideas that may as well suggest the subtraction of characteristics of a given space, with that the unbundling idea may have to do with the intentions of freeing people that might be imprisoned.
+
+
+<!--
+* @meta @todo - p2 ( ) - In Space - In Zooming In and Out - The section entitled Unbundling the Space, now Zooming In and Out, in fact it has to do with the idea of an entrepreneurial team when they are targeting a given space where an action happens by others; and that relates to the job-to-be-done theory and the job steps. We may consider for this leading paragraph to exercise a pitch using a SCqA so that you lead the audience to understand that the potential for the exploration of a space where one happens to be bundling or unbundling, they happen to do that to optimize the actual job-to-be-done but at the same time to pick a battle of a job given an anchoring of a zoom level. Ref. Ted Thayer may know what this zoom in out is about. @meta-refid 7547-8484-3883-2234
+--> 
+
+
 
 So, if the essential search and quest of the entrepreneur is to seek creating and delivering innovation in a given space, then the question is really of, inevitably, they are going to have to be concerned with the understanding of the space where they are considering the opportunities. So, since the entrepreneur might not understand if the space is interpreted correctly, they might, anyway, get involved with the attempt to improve any situation that they see within the space. So we may, for example, assume that a given space is actually a car, and if we think about right now, if a car is stuck in traffic somewhere in the world, it certainly brings me to celebrate the existence of some of the innovative offering solutions that modern cars have, such as if location is hot, the car has an air conditioning, and also the car has a music player, and comfortable seats as well.
 
@@ -413,10 +429,9 @@ The situation I reflected was of the problems of the first trip, which involved 
 > *“For me, it was eye-opening when I did my first trip as a driver. I walked out to my car, I have done everything, I was activated. I walked out to my car [and] I walked back to my house because I got so nervous about doing that first trip.”*
 > Ed Baker (Greylock Partnets, 2017, 14m9s)
 
-<!-- reference 
-
-Greylock Partners, 2017, Growth Panel with Gustaf Alströmer and Ed Baker, moderated by Josh Elman | The Scaleup Offsite 2017. https://youtu.be/PybOg3uS-FA?t=14m9s
-
+<!--
+@meta @reference 
+* Reference - Greylock Partners, 2017, Growth Panel with Gustaf Alströmer and Ed Baker, moderated by Josh Elman | The Scaleup Offsite 2017. https://youtu.be/PybOg3uS-FA?t=14m9s
 -->
 
 Another sort of opportunity I crossed, although it seemed a bit outside the boundaries of Uber, was what I have named "Uber-idle university" [^footnote_marcio_uber_idle_university] which explored an opportunity for learning as I have replaced the arbitrary with talks, Youtube lectures saved as mp3. To make the experience good, I also had to workout certain roadblocks, such as to curate a list of 3-5 talks before the day trips, and to come up with a saying for the passengers, giving them the option to talk with me or let me study what I called "Entrepreneurship lessons in English". Most passengers supported and even encouraged me. 
@@ -476,9 +491,6 @@ In the realm of innovative products or services, for example, the notion of cate
 --> 
 
 #### Who owns the truth 
-
-
-
 
 
 Now, in the heated/cold space of one that lives the experience, it comes the considerations of experiencing that put us to reflect, go seek for truths, challenge the boundaries. When I had reflected about that my first trip as an Uber driver, I took me into writing an article because I considered that the platform could do something about something I saw, a need. Since I had an agenda for reusing the car radio to support my goal of watching talks, I had the opportunity to visualize that Uber-idle University idea. 
