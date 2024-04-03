@@ -46,14 +46,14 @@ If we celebrate the concerns of Sam Altman, it may give us a moment to reflect o
 
 Furthermore, the effects of these influences from this backstage brings us to zoom in and consider that the getting things done [^footnote_schumpeter_getthingsdone] of the everyday is a reflection of values not only of values outspoken but because a direction is given by the currents, by the available platforms, by available tools, methods, and more; as if the building blocks were telling us what to do. 
 
-As an illustration, let's consider the reflection from Brian Chesky about how their early team weren't excited after having noticed that someone else had built a website that seemed similar to some of their ideas: 
-
 [^footnote_schumpeter_getthingsdone]: Joseph Schumpeter (2008), the renowned Austrian-American economist and political scientist known and author of "Capitalism, Socialism, and Democracy," identifies a key characterization of the entrepreneurial function as "getting things done" (p. 132), as more important than the ability to invent new things or create conditions for the enterprise to thrive; an observation that allow us to consider that the entrepreneurial function, given a world of too many possibilities such as of the cheaper ability to build things, can lead to the entrepreneurial function to be obsolete.  
 
 <!-- 
 @meta @references
 * Reference - Schumpeter, J. A. (2008). Capitalism, socialism, and democracy. Harper Perennial Modern Thought. (Original work published 1942)
 -->
+
+As an illustration, let us go back to the very early days of Airbnb and when the idea were too fragile and almost didn't happen, luckily because the founders had stumbled in what for them seemed to be a great stone on their way: 
 
 > *"In fact, ... we started exploring creating a roommate matching website. ... Until one day, we typed 'roommates.com' [into the browser] and realized somebody had already built that site. ... And this was like three weeks or four later, and I said, 'Why the hell didn't anyone type that site in the first day? Because I just wasted four weeks.' [Laughter]."* (Chesky, Brian, 2015, 6:29)
 
@@ -70,11 +70,20 @@ As an illustration, let's consider the reflection from Brian Chesky about how th
 --> 
 
 
-And if the passage doesn't ring any bell, then I would say that you aren't a site builder so an analogy is in order. What happened isn't different of what a writer feels as she had started to work and suddenly finds that another book is published with a similar title and for the same audience or same theme. And even if it may appear that they are essentially doing a sort of research about competition, their own experience of moving further reveals a more stable and truthful understanding that execution matters more; we can be celebrated by checking the history from Brian's team that kept focusing on AirBedAndBreakfast.com (which later became available through Airbnb.com,) to a point going through the fierciful attacks of the competition in the years ahead, and to the point of making more than 4 million hosts [^footnote_airbnb_4millionhosts] and their guests happy. Hosts and guests that would be also happy to know that roommates.com were taken. 
+And if the passage doesn't ring any bell, especially if you aren't a site builder, consider an analogous situation of what a writer feels after she started her material and suddenly finds out that someone else published a book with the same title for the same audience and apparently with the same theme. And if that has a degree of truth, successful entrepreneurs know too that execution matters more in the long run, which is the case as given that Brian's team kept focusing on AirBedAndBreakfast.com, which later became known as Airbnb.com, which later gave them strenght to beat the fierciful attacks of a major competitor [^footnote_airbnb_competition], which brought them to finally make more than 4 million hosts [^footnote_airbnb_4millionhosts] and their guests happy. In other words, their hosts and guests would be also happy to know that they gave up working on "roommates.com" as the site was being worked on back in the days.   
 
-[^footnote_airbnb_4millionhosts]: Since its inception in 2007, Airbnb has experienced phenomenal growth, evolving from a small startup where two hosts welcomed three guests to their home in San Francisco to a global platform with over 5 million hosts, according to "About Us," retrieved from https://news.airbnb.com/about-us/.
+[^footnote_airbnb_competition]: According to Brian's interview in *Brian Chesky on Launching Airbnb and the Challenges of Scale* (2015), the Samwer brothers emerged targeting Airbnb by exercising their proven ability to clone successful business models and rapidly scaling them, often outpacing some of the original innovators. Although they posed a significant challenge, Airbnb's unique value proposition and strong community engagement enabled them to thrive against such competition.
 
+^footnote_airbnb_4millionhosts]: Since its inception in 2007, Airbnb has experienced phenomenal growth, evolving from a small startup where two hosts welcomed three guests to their home in San Francisco to a global platform with over 5 million hosts, according to "About Us," retrieved from https://news.airbnb.com/about-us/.
 
+<!--
+@references 
+* reference - Greylock. (2015, November 30). Blitzscaling 18: Brian Chesky on Launching Airbnb and the Challenges of Scale [Video]. YouTube. https://www.youtube.com/watch?v=W608u6sBFpo
+--> 
+
+And althought there is a possibility of justifying that early movement as an instinctive act of a honorable although partial competitive analysis research work, I ask us to observe the nuance of how these doers seek and assimilate the collection of material findings of a specific nature; and how they value these elements of a space as validation of steps of other entrepreneurs in the similar position, which pulls them to either join or differente themselves, whatever they feel helps to move forward. 
+
+[
 
 
 
