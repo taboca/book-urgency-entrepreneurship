@@ -1,10 +1,15 @@
 # Todo # 
 
-* @meta @todo - p2 ( ) - In Space - In Zooming In and Out - The section entitled Unbundling the Space, now Zooming In and Out, in fact it has to do with the idea of an entrepreneurial team when they are targeting a given space where an action happens by others; and that relates to the job-to-be-done theory and the job steps. We may consider for this leading paragraph to exercise a pitch using a SCqA so that you lead the audience to understand that the potential for the exploration of a space where one happens to be bundling or unbundling, they happen to do that to optimize the actual job-to-be-done but at the same time to pick a battle of a job given an anchoring of a zoom level. Ref. Ted Thayer may know what this zoom in out is about. @meta-refid 7547-8484-3883-2234
+* @todo - p1 ( ) - Just like Identity we have seen how we operate by developing ourselves identitying ourselves with others, or groups; this chapter is an exploration of how we identify, choose with, choose by, methods, platforms, tools, and data from the environment of a specific domain. @meta-refid 1122-3323-3324-5544 
+
+* @todo - p1 ( ) - In Environment - The situation of Brian and the writer that may appear to be valid, as a research or a check for the competition may well show the very point where the weak is validated as strong; thus how the fact that the competition appears through a given channel makes the competition even stronger. @ref-id 1122-3323-4432-2233
+
+* @todo - p1 ( ) - In Space - In Zooming In and Out - The section entitled Unbundling the Space, now Zooming In and Out, in fact it has to do with the idea of an entrepreneurial team when they are targeting a given space where an action happens by others; and that relates to the job-to-be-done theory and the job steps. We may consider for this leading paragraph to exercise a pitch using a SCqA so that you lead the audience to understand that the potential for the exploration of a space where one happens to be bundling or unbundling, they happen to do that to optimize the actual job-to-be-done but at the same time to pick a battle of a job given an anchoring of a zoom level. Ref. Ted Thayer may know what this zoom in out is about. @meta-refid 7547-8484-3883-2234
+
+* @todo - p1 ( ) - In Space - Add reference to Play Bigger, p. 51, put a reference in the footnote about category design and put a dent in the universe. @meta-refid 1112-3323-2233-4455 - @reference - Play Bigger Team. (2020, February 4). What problem is Category Design solving? Play Bigger. https://www.playbigger.com/media/what-problem-is-category-design-solving
 
 * @todo - p2 ( ) - In Spaces - Check footnote for the transistor - written by ChatGPT. @meta-refid 1222-2334-3344-4444 
 
-* @todo - p2 ( ) - In Space - Add reference to Play Bigger, p. 51, put a reference in the footnote about category design and put a dent in the universe. @meta-refid 1112-3323-2233-4455 - @reference - Play Bigger Team. (2020, February 4). What problem is Category Design solving? Play Bigger. https://www.playbigger.com/media/what-problem-is-category-design-solving
 
 * @todo - p2 ( ) - In Environment - Check footnote of Sam Altman, link to his blog. @meta-refid 1212-3323-3445-9944 
 

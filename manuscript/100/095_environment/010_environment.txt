@@ -5,6 +5,11 @@
 * outline - Situation - Entrepreneurship shapes our environment, we get into it, it is the way to get things done. 
 --> 
 
+<!--
+@meta @todo 
+* @todo - p1 ( ) - Just like Identity we have seen how we operate by developing ourselves identitying ourselves with others, or groups; this chapter is an exploration of how we identify, choose with, choose by, methods, platforms, tools, and data from the environment of a specific domain. @meta-refid 1122-3323-3324-5544 
+-->
+
 If entrepreneurship is so interested in serving people's needs, why is it that in its urgency to do, it builds complex things that it is not uncommon for them to miss the actual needs of people? This phenomenon is recognized when advisors urge entrepreneurs to focus on the problems of their customers first and not starting with a solution. Granted, that the advice is precious. However, it may be a good remider for advisors, that in our urgency to do so to listen to people's needs we get to listen to them by using existing methods and tools or systems too, and that the space where entrepreneurs build is too a given of prior solutions. In other words that the building blocks influeces all of them to a certain extent. 
 
 Therefore, and given that the entrepreneurial function can't hack into people's lives directly and does so by the indirect movement through our spaces, accordingly that the fruits of the prior movement happens to hack our lives as builders too - how we build, what we build, and why we build. The effects of this entanglement may be observable as we zoom out or in, as it influences the whole entrepreneurial movement and also the subtle movements of ourselves as doers. 
@@ -65,10 +70,16 @@ As an illustration, let us go back to the very early days of Airbnb and when the
 
 <!--
 @todo @meta
+
 * @todo - p2 (Done) - In Environment Space - Consider to bring ideas from Joseph Schumpeter as Marcio is talking about the situation of abundance of solutions in a space - which it might have to do with the unrealistic exploration by Schumpeter that the entrepreneurial function is not needed if all needs are satisfied - but know too that where Marcio is going is that needs are too created, so spaces can be a trap plus the hint of leisure from Schumpeter might be a case to consider too. Nevertheless the saturated situation of Schumpeter can be realized. @meta-refid 1212-2233-3433-3933
+
 * @todo - p2 (Done) - In Environment - Add a footnote about Schumpeter and the notion that the entrepreneur is essentially one that executes an entrepreneurial function of getting things done. @meta-refid 1212-2233-4433-9494
 --> 
 
+<!--
+@meta @todo
+* @todo - p1 ( ) - In Environment - The situation of Brian and the writer that may appear to be valid, as a research or a check for the competition may well show the very point where the weak is validated as strong; thus how the fact that the competition appears through a given channel makes the competition even stronger. @ref-id 1122-3323-4432-2233
+--> 
 
 And if the passage doesn't ring any bell, especially if you aren't a site builder, consider an analogous situation of what a writer feels after she started her material and suddenly finds out that someone else published a book with the same title for the same audience and apparently with the same theme. And if that has a degree of truth, successful entrepreneurs know too that execution matters more in the long run, which is the case as given that Brian's team kept focusing on AirBedAndBreakfast.com, which later became known as Airbnb.com, which later gave them strenght to beat the fierciful attacks of a major competitor [^footnote_airbnb_competition], which brought them to finally make more than 4 million hosts [^footnote_airbnb_4millionhosts] and their guests happy. In other words, their hosts and guests would be also happy to know that they gave up working on "roommates.com" as the site was being worked on back in the days.   
 
