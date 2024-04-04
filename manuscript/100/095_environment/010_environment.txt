@@ -19,7 +19,7 @@ If entrepreneurship is so interested in serving people's needs, why is it that i
 * reference - Levine, U. (2023). Fall in love with the problem, not the solution: A handbook for entrepreneurs. Matt Holt.
 --> 
 
-[^footnote_peterdrucker_comprehension_control]: In *Technology, Management and Society* (Drucker, P., 2011, Routledge; Original work published 1970), under an essay on the *Technological Revolution*, Peter Drucker provides insightful reasons to consider how technology propels science forward; even to consider that technology had bridged science *to* technology, rather than positioning them merely as parallel or separate entities like science *and* technology. 
+[^footnote_peterdrucker_comprehension_control]: The consideration to think of technologies influencing our movements, like to control the process to a certain extent is motivated by *The Technological Revolution: Notes on the Relationship of Technology, Science, and Culture* from Peter Drucker and his notes such as "But 'knowledge' changed its meaning from being 'understanding', i.e., focused on man's mind, to being 'control', i.e., focused on application in and through technology." It should be noted Peter's awareness that "It would be claiming too much to say that technology established itself as the paramount power over science." But to his consideration that "it is technology that gives the union of the two its character; it is a coupling of science to technology, rather than a coupling of science and technology" (Drucker, P. (2011). p. 152. Routledge. Original work published 1970).
 
 <!--
 @references 
