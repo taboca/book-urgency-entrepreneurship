@@ -100,7 +100,9 @@ As an illustration, let us go back to the very early days of Airbnb and when the
 * @todo - p1 ( ) - In Environment - The situation of Brian and the writer that may appear to be valid, as a research or a check for the competition may well show the very point where the weak is validated as strong; thus how the fact that the competition appears through a given channel makes the competition even stronger. @ref-id 1122-3323-4432-2233
 --> 
 
-And if the passage doesn't ring any bell, especially if you aren't a site builder, consider an analogous situation of what a writer feels after she started her material and suddenly finds out that someone else published a book with the same title for the same audience and apparently with the same theme. And if that has a degree of truth, successful entrepreneurs know too that execution matters more in the long run, which is the case as given that Brian's team kept focusing on AirBedAndBreakfast.com, which later became known as Airbnb.com, which later gave them strenght to beat the fierciful attacks of a major competitor [^footnote_airbnb_competition], which brought them to finally make more than 4 million hosts [^footnote_airbnb_4millionhosts] and their guests happy. In other words, their hosts and guests would be also happy to know that they gave up working on "roommates.com" as the site was being worked on back in the days.   
+If the passage doesn't ring any bell, I would say that you aren't a site builder. But it serves well to consider the situation of a how a writer feels given that she starts and suddenly finds out that a book is published with the same title for the same audience and apparently with the same theme. While these situations may instinctively accomodate an honorable consideration that they care such as that they could be to certain extent exercising a some preliminary form of a market research, we shouldn't ignore the opportunity to augument that an intrusion of a movement that smoothly invades a movement as it overvalues of the data found in relation to its source. 
+
+To be fair with ourselves as doers, we do recognize our impulses and solve them by learning, such as to grasp that the execution in the long run matters more; which is something observed as Brian's team kept focusing on AirBedAndBreakfast.com, which later became known as Airbnb.com, which later gave them strenght to beat the fierciful attacks of a major competitor [^footnote_airbnb_competition], which brought them to finally make more than 4 million hosts [^footnote_airbnb_4millionhosts] and their guests happy. 
 
 [^footnote_airbnb_competition]: According to Brian's interview in *Brian Chesky on Launching Airbnb and the Challenges of Scale* (2015), the Samwer brothers emerged targeting Airbnb by exercising their proven ability to clone successful business models and rapidly scaling them, often outpacing some of the original innovators. Although they posed a significant challenge, Airbnb's unique value proposition and strong community engagement enabled them to thrive against such competition.
 
@@ -110,10 +112,6 @@ And if the passage doesn't ring any bell, especially if you aren't a site builde
 @references 
 * reference - Greylock. (2015, November 30). Blitzscaling 18: Brian Chesky on Launching Airbnb and the Challenges of Scale [Video]. YouTube. https://www.youtube.com/watch?v=W608u6sBFpo
 --> 
-
-And althought these early movements can be respected as a sort of partial competitive analysis research work, I ask us to observe that of our propensity to value material findings of a specific domain, as these are interpreted as signs of the execution by steps that others in similar positions in the same domain. In other words, the building blocks do tell us what to do as well, and that can be quite strong to impact what we do, being to change our course or to join a course. 
-
-
 
 
 
@@ -127,8 +125,7 @@ And althought these early movements can be respected as a sort of partial compet
 
 
 
-
-To be clear about our exploration, where we're going isn't too different from some considerations of the previous chapter, when we had considered how entrepreneurs might identify themselves with others like entrepreneurs, investors or their audiences. Likewise, these doers too trust too strongly the richness that is available from prior entrepreneurial movements that built which forms a dynamic space, which pulls action by the existence of platforms, by methods, by tools. Or, in other words, a space that acts like a framework or a playbook, that to a certain extent reveals that we essentially use domain-specific goggles, and especially in the modern and richer networked situation, it becomes even more evident the intensity of usage of platforms and tools and methods, and by that, it pulls the entrepreneur to respond as if the system prompts them to provide the answer.
+Yet, given that Airbnb's hosts and guests would be also happy to know that they gave up working on "roommates.com" as the site was "taken" back in early the days, can be yet another motivation for us to consider how many of our movements - especially in the early days when things are small and we might act like benevolent dictators of our own teams - are just half-way directed by things from the environment that seems to act like a playbook, that to a certain extent reveals that we essentially use domain-specific goggles.
 
 To follow up, let us first look at the rise of some technological platforms which revals how the entreprenurial function is entangled with different spaces, and how it pulls them to the act of getting things done, which happens to provoke other spaces by its own capacity to prompt entrepreneurs for movement - a reflection that explores that the building blocks carry encoded messages of platforms, of a culture, or an economic system. Next, and developing a further exploration of other nuances from our environment, let us consider how interfaces, like the shape of tools and services, have an impact on us. And furthermore that our environment is also constructed by the minimal tools for collaboration, our vocabulary, the words that people use to do the things they want to do. 
 
