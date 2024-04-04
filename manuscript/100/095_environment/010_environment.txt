@@ -10,7 +10,7 @@
 
 
 
-If entrepreneurship is so interested in serving people's needs, why is it that in its urgency to do, it builds complex things to a point that it misses the actual needs of people? This phenomenon is recognized when advisors remind entrepreneurs to focus on the problems of customers [^footnote_focus_problems] and not on the solutions. Granted that the advice is precious; so much that taken further it may too serve to remind our advisors that even the means for listening to people are influenced by solutions. In other words, that our methods for comprehension might well be methods of control [^footnote_peterdrucker_comprehension_control], especially when we urgently advance using the given building blocks set by the rich entrepreneurial environment. 
+If entrepreneurship is so interested in serving people's needs, why is it that in its urgency to do, it builds complex things to a point that it misses the actual needs of people? This phenomenon is recognized when advisors remind entrepreneurs to focus on the problems of customers [^footnote_focus_problems] and not on the solutions. Granted that the advice is precious; so much that if taken further it may too remind our advisors that the means for listening to people can be well-influenced by existing solutions. In other words, it might be a concern that our methods for comprehension may well be used as methods of control [^footnote_peterdrucker_comprehension_control], especially as we urgently advance using the given building blocks set by the rich entrepreneurial environment. 
 
 [^footnote_focus_problems]: As an example, consider the emergence of Uri Levine's *Fall in Love with the Problem, Not the Solution: A Handbook for Entrepreneurs* (2023) as a well-thought response to help entrepreneurs deal with the phenomenon where the rush towards solution-centric approaches potentially places genuine innovation at risk. 
 
@@ -26,7 +26,7 @@ If entrepreneurship is so interested in serving people's needs, why is it that i
 * reference - Drucker, P. (2011). Technology, Management and Society. Routledge. (Original work published 1970)
 -->
 
-Where we are going is, therefore, not so far from the considerations in the prior chapter that doers may identify themselves with groups which sets them in a movement. In a similar way, we look at the environment of where entrepreneurs act - such as by its methods or platforms or tools - which sets them in a trajectory of movement. The reason for doing this connects with the very given that the entrepreneurial function doesn't hack people's lives directly but indirectly as it hacks their spaces; which goes along that the successful entrepreneurial movement also sets the building blocks to influence how we build, what we build, and why we build. 
+Where we are going in this chapter may relate with the perspective in our prior chapter where we had considered that entrepreneurs identify themselves with groups and the opportunity/risk of them to be set in a movement. In a similar way, we will look at the environment - such as by its methods or platforms or tools or even the voices - that is rich enough to sets them in a trajectory of movement. The motivation to overvaluing the impact of the environment comes from the very fact that the entrepreneurial function doesn't hack people's lives directly but it does so indirectly through spaces; which goes along, as entrepreneurs are people too, that the prior successful entrepreneurial movement influences how we build, what we build, and why we build. 
 
 <!--
 @meta @todo 
