@@ -5,16 +5,35 @@
 * outline - Situation - Entrepreneurship shapes our environment, we get into it, it is the way to get things done. 
 --> 
 
+
+
+
+
+
+If entrepreneurship is so interested in serving people's needs, why is it that in its urgency to do, it builds complex things to a point that it misses the actual needs of people? This phenomenon is recognized when advisors remind entrepreneurs to focus on the problems of customers [^footnote_focus_problems] and not on the solutions. Granted that the advice is precious but if taken further we may too serve to remind our advisors that even the means for listening to people are quite influenced by existing solutions. In other words, that now our methods for comprehension might well be methods of control [^footnote_peterdrucker_comprehension_control], especially when we are urgently immersed in taking advance of the existing building blocks from the rich space of offerings that propels the modern entrepreneurial movement. 
+
+[^footnote_focus_problems]: As an example, consider the emergence of Uri Levine's *Fall in Love with the Problem, Not the Solution: A Handbook for Entrepreneurs* (2023) as a well-thought response to help entrepreneurs deal with the phenomenon where the rush towards solution-centric approaches potentially places genuine innovation at risk. 
+
 <!--
-@meta @todo 
-* @todo - p1 ( ) - Just like Identity we have seen how we operate by developing ourselves identitying ourselves with others, or groups; this chapter is an exploration of how we identify, choose with, choose by, methods, platforms, tools, and data from the environment of a specific domain. @meta-refid 1122-3323-3324-5544 
+@references 
+* reference - Levine, U. (2023). Fall in love with the problem, not the solution: A handbook for entrepreneurs. Matt Holt.
+--> 
+
+[^footnote_peterdrucker_comprehension_control]: In *Technology, Management and Society* (Drucker, P., 2011, Routledge; Original work published 1970), under an essay on the *Technological Revolution*, Peter Drucker provides insightful reasons to consider how technology propels science forward; even to consider that technology had bridged science *to* technology, rather than positioning them merely as parallel or separate entities like science *and* technology. 
+
+<!--
+@references 
+* reference - Drucker, P. (2011). Technology, Management and Society. Routledge. (Original work published 1970)
 -->
 
-If entrepreneurship is so interested in serving people's needs, why is it that in its urgency to do, it builds complex things that it is not uncommon for them to miss the actual needs of people? This phenomenon is recognized when advisors urge entrepreneurs to focus on the problems of their customers first and not starting with a solution. Granted, that the advice is precious. However, it may be a good remider for advisors, that in our urgency to do so to listen to people's needs we get to listen to them by using existing methods and tools or systems too, and that the space where entrepreneurs build is too a given of prior solutions. In other words that the building blocks influeces all of them to a certain extent. 
+Where we are going is, therefore, not so far from the considerations in the prior chapter that doers may identify themselves with groups which sets them in a movement. In a similar way, we look at the environment of where entrepreneurs act - such as by its methods or platforms or tools - which sets them in a trajectory of movement. The reason for doing this connects with the very given that the entrepreneurial function doesn't hack people's lives directly but indirectly as it hacks their spaces; which goes along that the successful entrepreneurial movement also sets the building blocks to influence how we build, what we build, and why we build. 
 
-Therefore, and given that the entrepreneurial function can't hack into people's lives directly and does so by the indirect movement through our spaces, accordingly that the fruits of the prior movement happens to hack our lives as builders too - how we build, what we build, and why we build. The effects of this entanglement may be observable as we zoom out or in, as it influences the whole entrepreneurial movement and also the subtle movements of ourselves as doers. 
+<!--
+@meta @todo 
+* @todo - p1 (Done) - In Environment - @above, Just like Identity we have seen how we operate by developing ourselves identitying ourselves with others, or groups; this chapter is an exploration of how we identify, choose with, choose by, methods, platforms, tools, and data from the environment of a specific domain. @meta-refid 1122-3323-3324-5544 
+-->
 
-As for the first, a moment of listening to a leading character from one of the richest innovation hubs in the world - Sam Altman of Silicon Valley, Sam Altman of YCombinator, and more recently the Sam Altman of OpenAI [^footnote_samaltman] - especially his concern about the voices, or the lack of voices, of modern Silicon Valley that to a certain extent puts at risk his high hopes for the potential for innovation: 
+The effects of this entanglement may be observable as we zoom out or in, as it influences the whole entrepreneurial movement and also the subtle movements of ourselves as doers. As for the first, a moment of listening to a leading character from one of the richest innovation hubs in the world - Sam Altman of Silicon Valley, Sam Altman of YCombinator, and more recently the Sam Altman of OpenAI [^footnote_samaltman] - especially his concern about the voices, or the lack of voices, of modern Silicon Valley that to a certain extent puts at risk his high hopes for the potential for innovation: 
 
 [^footnote_samaltman]: Sam Altman's insights into the cultural and innovative dynamics of Silicon Valley are informed by his extensive experience in the tech industry, particularly through his role as the former president of Y Combinator, one of the most successful startup accelerators globally. More on https://blog.samaltman.com/
 

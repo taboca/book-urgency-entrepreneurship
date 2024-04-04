@@ -1,6 +1,5 @@
 # Todo # 
 
-* @todo - p1 ( ) - Just like Identity we have seen how we operate by developing ourselves identitying ourselves with others, or groups; this chapter is an exploration of how we identify, choose with, choose by, methods, platforms, tools, and data from the environment of a specific domain. @meta-refid 1122-3323-3324-5544 
 
 * @todo - p1 ( ) - In Environment - The situation of Brian and the writer that may appear to be valid, as a research or a check for the competition may well show the very point where the weak is validated as strong; thus how the fact that the competition appears through a given channel makes the competition even stronger. @ref-id 1122-3323-4432-2233
 
@@ -361,6 +360,8 @@ https://chat.openai.com/share/b7eb16c5-4c18-4709-9220-bd2629f34a3d
 * Culture 
 
 ## Done
+
+* @todo - p1 (Done) - In Environment - @above, Just like Identity we have seen how we operate by developing ourselves identitying ourselves with others, or groups; this chapter is an exploration of how we identify, choose with, choose by, methods, platforms, tools, and data from the environment of a specific domain. @meta-refid 1122-3323-3324-5544 
 
 * @todo - p2 (Done) - In Space - #bradfelddup - Bring the quote from Up Starts of Brad Feld, from the executive that said no to the Silicon Valley VC company Benchmark and had acknowledged that he were following a potential track. @meta-refid 1222-3322-3344-5555 
 
