@@ -68,9 +68,9 @@ The effects of this entanglement may be observable as we zoom out or in, as it i
 
 If we celebrate the concerns of Sam Altman, it may give us a moment to reflect on how the entrepreneurial environment shapes the entrepreneurial function, not by any fierciful hands but by the denial of an investment that may be necessary; by the investor's invisible hands that chooses which of them are to be boosted and scale them up. 
 
-Furthermore, the effects of these influences from this backstage brings us to zoom in and consider that the getting things done [^footnote_schumpeter_getthingsdone] of the everyday is a reflection of values not only of values outspoken but because a direction is given by the currents, by the available platforms, by available tools, methods, and more; as if the building blocks were telling us what to do. 
+Furthermore, some other effects of influences of a backstage will be observed too if we zoom all the way in into the realm of getting things done [^footnote_schumpeter_getthingsdone] of the our everyday, to consider how our movement - again not so directly outspoken by values - is given by the currents from the available platforms, tools, methods, and even words which are generally telling us how we in ways that are entangled with what to do and what to do. 
 
-[^footnote_schumpeter_getthingsdone]: Joseph Schumpeter (2008), the renowned Austrian-American economist and political scientist known and author of "Capitalism, Socialism, and Democracy," identifies a key characterization of the entrepreneurial function as "getting things done" (p. 132), as more important than the ability to invent new things or create conditions for the enterprise to thrive; an observation that allow us to consider that the entrepreneurial function, given a world of too many possibilities such as of the cheaper ability to build things, can lead to the entrepreneurial function to be obsolete.  
+[^footnote_schumpeter_getthingsdone]: Joseph Schumpeter (2008), the renowned Austrian-American economist and political scientist known and author of "Capitalism, Socialism, and Democracy," identifies a key characterization of the entrepreneurial function as "getting things done" (p. 132), as more important than the ability to invent new things or create conditions for the enterprise to thrive; an observation that allow us to consider that the entrepreneurial function, given a world of too many possibilities such as of the cheaper ability to build things, can create the conditions for an entrepreneurial function that is obsolete; which may be observable in part if we consider that many people think they are entrepreneurs while they might be building something too simple from the Schumpeterian notion of creative destruction or to be considered as business as usual. 
 
 <!-- 
 @meta @references
@@ -104,7 +104,7 @@ And if the passage doesn't ring any bell, especially if you aren't a site builde
 
 [^footnote_airbnb_competition]: According to Brian's interview in *Brian Chesky on Launching Airbnb and the Challenges of Scale* (2015), the Samwer brothers emerged targeting Airbnb by exercising their proven ability to clone successful business models and rapidly scaling them, often outpacing some of the original innovators. Although they posed a significant challenge, Airbnb's unique value proposition and strong community engagement enabled them to thrive against such competition.
 
-^footnote_airbnb_4millionhosts]: Since its inception in 2007, Airbnb has experienced phenomenal growth, evolving from a small startup where two hosts welcomed three guests to their home in San Francisco to a global platform with over 5 million hosts, according to "About Us," retrieved from https://news.airbnb.com/about-us/.
+[^footnote_airbnb_4millionhosts]: Since its inception in 2007, Airbnb has experienced phenomenal growth, evolving from a small startup where two hosts welcomed three guests to their home in San Francisco to a global platform with over 5 million hosts, according to "About Us," retrieved from https://news.airbnb.com/about-us/.
 
 <!--
 @references 
