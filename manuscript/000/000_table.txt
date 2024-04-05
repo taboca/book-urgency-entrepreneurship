@@ -1,5 +1,7 @@
 # Todo # 
 
+* @todo - p2 ( ) - In Space - Bring the specific data from Maury Klein about the situation of the means for building high pressure steam engine rising; @meta-refid 1222-3331-2234-4444 
+
 * @todo - p1 ( ) - In Space - In Zooming In and Out - The section entitled Unbundling the Space, now Zooming In and Out, in fact it has to do with the idea of an entrepreneurial team when they are targeting a given space where an action happens by others; and that relates to the job-to-be-done theory and the job steps. We may consider for this leading paragraph to exercise a pitch using a SCqA so that you lead the audience to understand that the potential for the exploration of a space where one happens to be bundling or unbundling, they happen to do that to optimize the actual job-to-be-done but at the same time to pick a battle of a job given an anchoring of a zoom level. Ref. Ted Thayer may know what this zoom in out is about. @meta-refid 7547-8484-3883-2234
 
 * @todo - p1 ( ) - In Space - Add reference to Play Bigger, p. 51, put a reference in the footnote about category design and put a dent in the universe. @meta-refid 1112-3323-2233-4455 - @reference - Play Bigger Team. (2020, February 4). What problem is Category Design solving? Play Bigger. https://www.playbigger.com/media/what-problem-is-category-design-solving
