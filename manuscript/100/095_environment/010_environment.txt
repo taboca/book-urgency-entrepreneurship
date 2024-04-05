@@ -68,7 +68,7 @@ The effects of this entanglement may be observable as we zoom out or in, as it i
 
 If we celebrate the concerns of Sam Altman, it may give us a moment to reflect on how the entrepreneurial environment shapes the entrepreneurial function, not by any fierciful hands but by the denial of an investment that may be necessary; by the investor's invisible hands that chooses which of them are to be boosted and scale them up. 
 
-Furthermore, some other effects of influences of a backstage will be observed too if we zoom all the way in into the realm of getting things done [^footnote_schumpeter_getthingsdone] of the our everyday, to consider how our movement - again not so directly outspoken by values - is given by the currents from the available platforms, tools, methods, and even words which are generally telling us how we in ways that are entangled with what to do and what to do. 
+Furthermore, some other practical effects of the environment impacting entrepreneurs in the daily routine of getting things done [^footnote_schumpeter_getthingsdone] where the movement - again not so directly outspoken by values - is directed by the generally accepted practices or means or tools and even the words we use to advance what we want to do in a given domain. As an illustration we may look at the early days of Airbnb, when they were "AirBedAndBreakfast.com," and consider how characterizations of their domain impacted them to dream or to give up, as the interview given to Reid Hoffman suggests: 
 
 [^footnote_schumpeter_getthingsdone]: Joseph Schumpeter (2008), the renowned Austrian-American economist and political scientist known and author of "Capitalism, Socialism, and Democracy," identifies a key characterization of the entrepreneurial function as "getting things done" (p. 132), as more important than the ability to invent new things or create conditions for the enterprise to thrive; an observation that allow us to consider that the entrepreneurial function, given a world of too many possibilities such as of the cheaper ability to build things, can create the conditions for an entrepreneurial function that is obsolete; which may be observable in part if we consider that many people think they are entrepreneurs while they might be building something too simple from the Schumpeterian notion of creative destruction or to be considered as business as usual. 
 
@@ -76,8 +76,6 @@ Furthermore, some other effects of influences of a backstage will be observed to
 @meta @references
 * Reference - Schumpeter, J. A. (2008). Capitalism, socialism, and democracy. Harper Perennial Modern Thought. (Original work published 1942)
 -->
-
-As an illustration, let us go back to the very early days of Airbnb and when the idea were too fragile and almost didn't happen, luckily because the founders had stumbled in what for them seemed to be a great stone on their way: 
 
 > *"In fact, ... we started exploring creating a roommate matching website. ... Until one day, we typed 'roommates.com' [into the browser] and realized somebody had already built that site. ... And this was like three weeks or four later, and I said, 'Why the hell didn't anyone type that site in the first day? Because I just wasted four weeks.' [Laughter]."* (Chesky, Brian, 2015, 6:29)
 
@@ -89,9 +87,7 @@ As an illustration, let us go back to the very early days of Airbnb and when the
 
 <!--
 @todo @meta
-
 * @todo - p2 (Done) - In Environment Space - Consider to bring ideas from Joseph Schumpeter as Marcio is talking about the situation of abundance of solutions in a space - which it might have to do with the unrealistic exploration by Schumpeter that the entrepreneurial function is not needed if all needs are satisfied - but know too that where Marcio is going is that needs are too created, so spaces can be a trap plus the hint of leisure from Schumpeter might be a case to consider too. Nevertheless the saturated situation of Schumpeter can be realized. @meta-refid 1212-2233-3433-3933
-
 * @todo - p2 (Done) - In Environment - Add a footnote about Schumpeter and the notion that the entrepreneur is essentially one that executes an entrepreneurial function of getting things done. @meta-refid 1212-2233-4433-9494
 --> 
 
@@ -127,5 +123,7 @@ To be fair with our doers, they do recognize their instinctive movements by enga
 
 Yet, given that Airbnb's hosts and guests would be also happy to know that they gave up working on "roommates.com" as the site was "taken" back in early the days, can be yet another motivation for us to consider how many of our movements - especially in the early days when things are small and we might act like benevolent dictators of our own teams - are just half-way directed by things from the environment that seems to act like a playbook, that to a certain extent reveals that we essentially navigate our space by using our domain-specific goggles.
 
-To follow up, let us first look at the rise of some technological platforms which revals how the entreprenurial function is entangled with different spaces, and how it pulls them to the act of getting things done, which happens to provoke other spaces by its own capacity to prompt entrepreneurs for movement - a reflection that explores that the building blocks carry encoded messages of platforms, of a culture, or an economic system. Next, and developing a further exploration of other nuances from our environment, let us consider how interfaces, like the shape of tools and services, have an impact on us. And furthermore that our environment is also constructed by the minimal tools for collaboration, our vocabulary, the words that people use to do the things they want to do. 
+To follow up, we will start by exploring how our world changed as we shifted from an entrepreneurial function building from the nature and set ourselves to build from a second nature, where our creations essentially brought to us the building blocks. Then we will shift our attention to the rise of interfaces, what were once the shape of a tool or the form of a car seat but became the space of interaction given by the layout and interaction experience of digital systems; again a space influencing us to build and to be driven. And finally, we end the chapter with a reflection about the words around us, the very elements and how the environment shapes the arrangement of them to impact our actions. These moments will be an opportunity to reflect that technological platforms are powerful indeed to set us to be creative; and along with that that there is price to pay when we are to immersed in it.
+
+
 
