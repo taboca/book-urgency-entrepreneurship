@@ -10,7 +10,9 @@
 
 
 
-If entrepreneurship is so interested in serving people's needs, why is it that in its urgency to do, it builds complex things to a point that it misses the actual needs of people? This phenomenon is recognized when advisors remind entrepreneurs to focus on the problems of customers [^footnote_focus_problems] and not on the solutions. Granted that the advice is precious; so much that if taken further it may too remind our advisors that the means for listening to people can be well-influenced by existing solutions. In other words, it might be worth to pause to reflect about if our methods for comprehension could be used as methods of control [^footnote_peterdrucker_comprehension_control] or if our methods for building can be exercising a form of control, of the impact of our means of distribution and even our means to exchanging ideas about what to do and how to do; especially as we are empowered to urgently advance using our rich entrepreneurial environment. 
+If entrepreneurship is so interested in serving people's needs, why is it that in its urgency to do, it builds complex things to a point that it misses the actual needs of people? This phenomenon is recognized when advisors remind entrepreneurs to focus on the problems of customers [^footnote_focus_problems] and not on the solutions. Granted that the advice is precious; so much that if taken further it may too remind our advisors that the means for listening to people can be well-influenced by existing solutions.
+
+It might be worth to pause and ask ourselves if our methods for comprehension could be used as methods of control [^footnote_peterdrucker_comprehension_control]. Or, in other words, if our environment exercises a form of control by its means for building and distribution i.e. of telling us what to do, how to do, and why to do; especially when we are empowered to urgently advance by taking advantage of its richness.
 
 [^footnote_focus_problems]: As an example we shall consider the emergence of the book from Uri Levine, the co-founder of the popular the navigation and transit application entitled Waze, entitled *Fall in Love with the Problem, Not the Solution: A Handbook for Entrepreneurs* (2023); as a well-thought response to help entrepreneurs deal with the phenomenon where the rush towards solution-centric approaches potentially places genuine innovation at risk. 
 
@@ -66,9 +68,9 @@ The effects of this entanglement may be observable as we zoom out or in, as it i
 * Outline - Complication - The environment of entrepreneurship is the opportunity and can be the trap.  [feat. Sam Altman] 
 --> 
 
-If we celebrate the concerns of Sam Altman, it may give us a moment to reflect on how the entrepreneurial environment shapes the entrepreneurial function, not by any fierciful hands but by the denial of an investment that may be necessary; by the investor's invisible hands that chooses which of them are to be boosted and scale them up. 
+But if you celebrate the concerns of some Altman, it may give us a moment to reflect about how the entrepreneurial function is shaped by the entrepreneurial environment. In this case, not by any forceful hands, but by the denial of the investment that is necessary, by the supporting role, for instance of investors - and their invisible hands - that chooses to aid the ideas that they want, to boost or to scale following their preferences which certainly impacts major buildings like the availability of tools for other builders, like platforms. 
 
-Furthermore, some other practical effects of the environment impacting entrepreneurs in the daily routine of getting things done [^footnote_schumpeter_getthingsdone] where the movement - again not so directly outspoken by values - is directed by the generally accepted practices or means or tools and even the words we use to advance what we want to do in a given domain. As an illustration we may look at the early days of Airbnb, when they were "AirBedAndBreakfast.com," and consider how characterizations of their domain impacted them to dream or to give up, as the interview given to Reid Hoffman suggests: 
+Which brings us to wonder about the practical effects of the environment as we exercise the daily function of getting things done [^footnote_schumpeter_getthingsdone]; which we generally recognize and accept as good news as otherwise getting things done isn't possible, our wondering shall transcend the basic needs  of doing and is concerned with the situation of us to be directed by these means, such as directed by the means of specific domains. As an illustration we may look at the early days of Airbnb, when they were "AirBedAndBreakfast.com," and consider how characterizations of their domain impacted them to dream or to give up, as the interview given to Reid Hoffman suggests: 
 
 [^footnote_schumpeter_getthingsdone]: Joseph Schumpeter (2008), the renowned Austrian-American economist and political scientist known and author of "Capitalism, Socialism, and Democracy," identifies a key characterization of the entrepreneurial function as "getting things done" (p. 132), as more important than the ability to invent new things or create conditions for the enterprise to thrive; an observation that allow us to consider that the entrepreneurial function, given a world of too many possibilities such as of the cheaper ability to build things, can create the conditions for an entrepreneurial function that is obsolete; which may be observable in part if we consider that many people think they are entrepreneurs while they might be building something too simple from the Schumpeterian notion of creative destruction or to be considered as business as usual. 
 
@@ -96,7 +98,25 @@ Furthermore, some other practical effects of the environment impacting entrepren
 * @todo - p1 (Done) - In Environment - Following, The situation of Brian and the writer that may appear to be valid, as a research or a check for the competition may well show the very point where the weak is validated as strong; thus how the fact that the competition appears through a given channel makes the competition even stronger. @ref-id 1122-3323-4432-2233
 --> 
 
-If the passage doesn't ring any bell, I would say that you aren't a site builder. But it serves to consider how a writer would feel as she started to work and suddenly finds that a book is published with the same title and same audience and apparently in the same theme. While these situations may accomodate an honorable consideration that they care, such as that they could be exercising a preliminary form of a market research, we shouldn't miss the opportunity to catch and augument the movement that smoothly invades the entrepreneurial movement as it adds an extra value the discovery by the intrinsic value of the source. 
+It may be so that the above passage doesn't ring any bell, especially if you haven't created websites for a while. To explain with an analogy, consider a writer that started to work on her book and suddenly discovers that another book is already published with the same title, same audience, and apparently the same theme; and her focus is taken away.
+
+
+
+
+<!--
+@todo @here
+-->
+
+
+
+
+While these situations may accomodate an honorable consideration that they care, such as that they could be exercising a preliminary form of a market research, we shouldn't miss the opportunity to catch and augument the movement that smoothly invades the entrepreneurial movement as it adds an extra value the discovery by the intrinsic value of the source. 
+
+
+
+
+
+
 
 To be fair with our doers, they do recognize their instinctive movements by engaging in learning. Brian's team, as history shows, had grasped quite profoundly that execution in the long run matters more, which can be recounted as they kept focusing on that other "AirBedAndBreakfast.com" idea, which later became "Airbnb.com," which gave them strenght to survive and beat a fierciful attack of a major competitor [^footnote_airbnb_competition], which brought them to make more than 4 million hosts [^footnote_airbnb_4millionhosts] and their guests happy. 
 
