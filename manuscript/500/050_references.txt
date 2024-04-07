@@ -105,6 +105,11 @@ Kahneman, D., Sibony, O., & Sunstein, C. R. (2021). Noise: A flaw in human judgm
 100 / 120_space.txt 
 -->
 
+<!-- dup --> 
+Klein, Maury. (2009). The power makers: steam, electricity, and the men who invented modern America. Bloomsbury Press. First U.S. edition.
+
+von Hippel, E. (2005). Democratizing Innovation. The MIT Press.
+
 Play Bigger Team. (2020, February 4). What problem is Category Design solving? Play Bigger. https://www.playbigger.com/media/what-problem-is-category-design-solving
 
 
@@ -113,9 +118,6 @@ Stone, B. (2017). The Upstarts: How Uber, Airbnb, and the Killer Companies of th
 
 <!-- dup --> 
 Greylock. (2015, November 30). Blitzscaling 18: Brian Chesky on Launching Airbnb and the Challenges of Scale [Video]. YouTube. https://www.youtube.com/watch?v=W608u6sBFpo
-
-<!-- dup --> 
-Klein, Maury. (2009). The power makers: steam, electricity, and the men who invented modern America. Bloomsbury Press. First U.S. edition.
 
 <!-- dup --> 
 Maslow, Abraham H. (1998). Maslow on Management. Published by John Wiley & Sons, Inc.

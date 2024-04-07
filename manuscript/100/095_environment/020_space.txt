@@ -113,19 +113,26 @@ While this is our next station - to see entrepreneurs in the mddle of two dynami
 
 
 
-In the end, we generally know - perhaps the optimistics anyway - that most of the solutions coming to our spaces and changing our lives were first idealized by people living in the arena, the ones who experienced first-hand and living the pains but also joy and aspirations and dreams for a better life and better future for themselves, their friends, and the civilization. The phenomenon of user innovation [^footenote_ericvonhippel_userinnovation] is a supporting point for that and the given is that still the entrepreneurial role takes a lot of the credit exactly because of their attitude in getting things done and bringing solutions at the right time and space.
+In the end, we generally know - perhaps the optimists anyway - that the ideas behind the solutions brought to our spaces and lives comes from people that are living experiences first-hand, living the pains and needs, and valuing life and living aspirations, people that are optimistic to dreams for a better life, a better future, for themselves their friends and the civilization. A supporting point to that can be celebrated if we consider a phenomenon known as *User Innovation* [^footenote_ericvonhippel_userinnovation] that explains that users innovate and that many inventions like basketball and Krav Maga or Braille are just iconic examples of a pattern which explains that user innovation is everywhere and that innovation comes first from real people and not from producers. 
 
-[^footenote_ericvonhippel_userinnovation]: 
+[^footenote_ericvonhippel_userinnovation]: MIT professor Eric von Hippel, through the credible book *Democratizing Innovation*, help us to extend further an understanding that the person who lives the experiences, the needs, are often the source of innovative solutions. The work recognizes characteristics of the phenomenon where users aren't passive recipients of products and services but active agents in their creation and refinement. 
 
-But that doesn't hide that they are sometimes thankful or sometimes mad about two different spaces at the same time. In between worlds, they are caught taking things from a source space and bringing to the target one or in a way they become a bridge living the challenges, or the tension, between what happens on both ends. 
+<!--
+@meta @reference 
+* Reference - von Hippel, E. (2005). Democratizing Innovation. The MIT Press.
+-->
 
-A more clear illustration of this entanglement comes from around 2007, if we look at what brought entrepreneurs to act in an attempt to put a dent in the universe of the hail-riding experience and moving forward all the way to cause a major impact in the taxi industry. With the advent of the iPhone by 2007, one thing some entrepreneurs knew, that people were excitingly buying that three-in-one device as promoted by Steve Jobs - of an internet communicator system, a phone, and a music player [^footnote_stevejobs_threeinone]. In addition to that, now by 2008, they had also considered the improvement of the iPhone in terms of battery lifetime, compatibility with the newly released 3G network which meant higher-speed and better connectivity with the Internet, and not to forget the iPhone's integrated GPS which meant that they could build solutions that could track the location of the user if a permission were granted. 
+Yet the given is that the entrepreneurial role takes big part of the credit for getting things done - and for bringing the solutions at the right time and space. That should bring us to recognize that they are the ones that get excited and thankful or frustated and mad about two different spaces at the same time. In other words, they are in between two different worlds: one where they take resources from, a source space, and the other, the target space where they put their creations to be test. That view, although simplistic, can take us to their position in a bridge and then to be the ones living very specific challenges, such as the tension, between what happens on both ends. 
 
-[^footnote_stevejobs_threeinone]: 
+For a better illustration of this entanglement, and the elasticity demanded from these doers, we shall go back to not so far in time, around 2007, and consider what happened that provoked some of these doers to want to put a dent in the universe of the hail-riding experience - the experience of taking rides - and to cause a major impact in the taxi industry later. With the advent of the iPhone by 2007, one thing some entrepreneurs knew, that people were excitingly buying that three-in-one device as promoted by Steve Jobs - of an internet communicator system, a phone, and a music player [^footnote_stevejobs_threeinone]. 
+
+In addition to that, now by 2008, they had also considered the improvement of the iPhone in terms of battery lifetime, compatibility with the newly released 3G network which meant higher-speed and better connectivity with the Internet, and not to forget the iPhone's integrated GPS which meant that they could build solutions that could track the location of the user if a permission were granted. 
+
+[^footnote_stevejobs_threeinone]: When introducing the iPhone during his keynote presentation at Macworld 2007, Steve Jobs famously described the device as a "three-in-one" product, integrating a phone, an iPod, and an Internet communications device. For reference, iPod had been considered a quite disruptive innovation for the need of listening to music. 
 
 <!--
 @meta @todo 
-* @todo - p2 ( ) - In Space - Add the footnote for the three in one device and link to Steve Jobs talk or article. @meta-refid 1212-2233-3344-5543
+* @todo - p2 ( ) - In Space - Check the reference for the the footnote for the three in one device and link to Steve Jobs talk or article. @meta-refid 1212-2233-3344-5543
 --> 
 
 <!--
