@@ -14,11 +14,11 @@
 
 This section celebrates the richer terrain that is now given to use by richer networks and platforms, that set us in front of an expanded world of possibilities. And along with that, it asks from us a moment of reflection as for how these new grounds have the power to set us to act, to be directed. My hope is that by pausing to check on our environnent we can augument the invisible hands given by our spaces and to a certain extent be able to be able to silence the voices that so feverish tell us just do it.
 
-Some of us are still able to set their hands on the ground and feel the earth - and the joy of a world they don't fully know how on earth it was brought and is what it is. Some of them maybe farmers too that knows what to do with the ground like things that farmers do. While, on the other hand, maybe in a parallel universe in the future, a kid gets to know that an egg comes from a chicken the minute that she sets her ommlet cartridge into the food printer and out of the sudden Clucky is projected, everyday with a different story given by an AI system as the following shows: 
+Some of us are still able to set their hands on the ground and feel the earth - and the joy of a world they don't fully know how on earth it was brought and is what it is. Some of them maybe farmers too that knows what to do with the ground like things that farmers do. While, on the other hand, maybe in a parallel universe in the future, a kid gets to know that an egg comes from a chicken the minute that she sets her ommlet cartridge into the food printer and out of the sudden Clucky is projected, everyday with a different story just like the following example which I had asked an AI system to generate: 
 
 > *"Here at Happy Hen Haven, we live our lives with joy and freedom. Our home is filled with comfortable spaces to roam, play, and flap our wings. And guess what? We eat the most delicious, natural grains you can imagine, with no antibiotics to spoil our meals. Yes, that's right! Our meals are as clean and healthy as the fresh water we sip under the sun. Now, you might wonder what happens to us after we lay our beautiful, nutritious eggs that makes your delicious ommelet. Well, let me tell you, our farm respects every chicken's journey, ensuring we live happily and peacefully. Our friends at the farm make sure we're always healthy and safe. They believe in treating us with kindness and love, which is why our eggs are so special. Enjoy your breakfast. "* ChatGPT by OpenAI 
 
-But as we celebrate the new grounds brought by the entrepreneurial function, and how it sets an influence on us, we may start by the recognizion the two basic ways that function enters our lives, or that it innovate our lives. The first, the more common and less provocative way is known as incremental innovation. The other, the more provocative way, is what takes entrepreneurs to say "to put a dent in the universe." Historian Maury Klein, in The Power Makers, recounts with color how some of our ancestors reacted as they were greeted by the chugs and hisses of early locomotives.
+But as we celebrate the new grounds brought by the entrepreneurial function, and how it sets an influence on us, we may start by the recognizion the two basic ways that function enters our lives, or that it innovate our lives. The first, the more common and less provocative way is known as incremental innovation; which we will get back soon. As for the other, the more provocative way which is what entrepreneurs refer to as "to put a dent in the universe," can be witnessed if we go back in time with Maury Klein from *The Power Makers*, and check how our ancestors reacted as they were greeted by the chugs and hisses of the early locomotives: 
 
 <!--
 @meta @todo 
@@ -30,7 +30,7 @@ But as we celebrate the new grounds brought by the entrepreneurial function, and
 * @todo - p2 (Done ) - In Environment - Check the introductory line and the bring the precise quote from The Power Makers, Maury Klein, of the school that posted a note fearing the locomotives. @meta-refid 1212-3334-4442-8887 
 -->
 
- > *"As rails spread across the land, opposition came from canal owners, some states that had invested heavily in canals, turnpike and bridge companies, stagecoach lines, tavernkeepers, and anyone who saw his business threatened by the railroad. Some people even raised religious and moral objections. An Ohio's school board warned in 1828 that 'if God had designed that His intelligent creatures should travel at the frightful speed of 25 miles an hour by steam, He would have foretold it through His holy prophets. It is the device of Satan to lead immortal souls down to Hell.'"* (Klein, 2009, p. 57) 
+> *"As rails spread across the land, opposition came from canal owners, some states that had invested heavily in canals, turnpike and bridge companies, stagecoach lines, tavernkeepers, and anyone who saw his business threatened by the railroad. Some people even raised religious and moral objections. An Ohio's school board warned in 1828 that 'if God had designed that His intelligent creatures should travel at the frightful speed of 25 miles an hour by steam, He would have foretold it through His holy prophets. It is the device of Satan to lead immortal souls down to Hell.'"* (Klein, 2009, p. 57) 
 
 <!--
 @references 
@@ -48,9 +48,7 @@ But as we celebrate the new grounds brought by the entrepreneurial function, and
 
 
 
-
-
-But anyway we are here now able to recount the story of the revolutions in transportation, from the early visions of the autonomous steam carriages[^footnote_oliverevans_oruktor] to the automobile, which set us right in the driver's seat experiencing the many ways given by the incremental movement even to a point of making us comfortable when we witness a driver in a car behind the windows closed and listening to music on the radio comfortably seated in the air-conditioned,  being nursed by a thick milkshake that lasts for the whole traffic jam.
+But the actual given that we're here, able to rewing and recount many revolutions in transportation from the early visions of the autonomous steam carriages [^footnote_oliverevans_oruktor] to automobile, it set us in driver's seat taking control of the incremental movement of innovation, even to a point of not being impressed when we see a driver in a car behind the windows closed and listening to a song in the radio, comfortably seated in the air conditioning and being nursed by a thick milkshake that lasts for the whole traffic jam.
 
 <!--
 @meta @todo 
@@ -58,8 +56,6 @@ But anyway we are here now able to recount the story of the revolutions in trans
 -->
 
 [^footnote_oliverevans_oruktor]: Oliver Evans' Oruktor Amphibolos is often considered the first amphibious vehicle and an early example of steam-powered machinery, representing a significant milestone in the history of engineering and invention. The Oruktor was detailed in Evans' patent, notable for being one of the first in the United States to cover a machine rather than a method of manufacture, granted in 1804. For more details, see [Oliver Evans' Oruktor Amphibolos on Wikipedia](https://en.wikipedia.org/wiki/Oliver_Evans#Oruktor_Amphibolos).
-
-
 
 
 
@@ -76,8 +72,11 @@ But anyway we are here now able to recount the story of the revolutions in trans
 
 
 
+But if we look at these longer ride from a holistic perspective, starting with the locomotives that entered the tracks of our lives, we aren't just facing how technology changes the economic model and how we exchange value depending on it; but also technology brought ourselves to a new destination where we value technology; such as to value transportation - such as to desire for a faster horse. 
 
-If we look at this longer ride from a holistic perspective, from that initial movement that a dent was put in the universe and recount incremental developments that followed, changed their lives by establishing a new economic model for their needs and dependence on transportation that indeed takes us to recognize that the function doesn't directly hack into our lives but does so indirectly by hacking our spaces - which can even too powerful. What is complicated, on the other hand and especially for entrepreneurs, is that for the function to be exercised they need to become bridges of different spaces, such as to take fruits of a space and to rearrange them in a target space, such as the space where their customers are. 
+And that, again, is the opportunity for recognizing how the function doesn't directly hack our lives but it does so indirectly by hacking our own spaces. And although it may be thought that entrepreneurs themselves are not strongly affected by a given space, I would say likely because we give them the prizes for an ability to provoke and change things - on the other hand they might be the average citizen, or a worker, if we look at the space where they take their resources from, their building blocks. In other words, that brings us to the challenging position of entrepreneurs exactly because they bridge different spaces.
+
+
 
 <!--
 @meta @todo 
@@ -91,7 +90,6 @@ If we look at this longer ride from a holistic perspective, from that initial mo
 
 
 
-If we were to identify that function within the referred situation of locomotives, we would need to go back to after steam engines but before locomotives and what were preventing it from happening, the means to build the high-pressure steam engine which was a romantic notion - the thing that would have enough power to propel a ship against the river current or maybe to push a heavy load of a moving carriage in the ground or over tracks. The practicality didn't happen because the building blocks for that more provocative kind were impossible. That, until it was possible, with the improvements of the ways to cast iron and the tools, enabling people, like Oliver Evans, to do it, to get the thing done. 
 
 While this is our next station - to see entrepreneurs in the mddle of two dynamic spaces using tools and building tools - we shall ride through the not far history how how the smartphone evolved to a point that it gave entrepreneurs the motivations to deploy innovation in the space of hail-riding and with that disrupt the taxi industry. 
 
@@ -115,11 +113,13 @@ While this is our next station - to see entrepreneurs in the mddle of two dynami
 
 
 
+In the end, we generally know - perhaps the optimistics anyway - that most of the solutions coming to our spaces and changing our lives were first idealized by people living in the arena, the ones who experienced first-hand and living the pains but also joy and aspirations and dreams for a better life and better future for themselves, their friends, and the civilization. The phenomenon of user innovation [^footenote_ericvonhippel_userinnovation] is a supporting point for that and the given is that still the entrepreneurial role takes a lot of the credit exactly because of their attitude in getting things done and bringing solutions at the right time and space.
 
+[^footenote_ericvonhippel_userinnovation]: 
 
-Most of the solutions coming to our spaces and changing our lives were first idealized by people, coming from real needs or  aspirations and dreams for a better life and future. But the given that entrepreneurs still take the merit - for getting things done bringing solutions in the right time and space - doesn't ride their their situation of being thankful or to be mad about two different spaces at the same time. In other words, they are caught between two worlds where one is the is the target world that they want to cause impact and the other is the source world where they take the building blocks. To oversimplify, they become the bridge taking elements from a space and bringing to another. 
+But that doesn't hide that they are sometimes thankful or sometimes mad about two different spaces at the same time. In between worlds, they are caught taking things from a source space and bringing to the target one or in a way they become a bridge living the challenges, or the tension, between what happens on both ends. 
 
-To illustrate their challenges in this position, I invite you to go back to 2007 and consider what had happed that made entrepreneurs to act in an attempt to put a dent in the universe of the hail-riding experience, or to aim building an experience that had caused later a major impact to the taxi industry. With the advent of the iPhone by 2007, one thing some entrepreneurs knew, that people were excitingly buying that three-in-one device as promoted by Steve Jobs - of an internet communicator system, a phone, and a music player [^footnote_stevejobs_threeinone]. In addition to that, now by 2008, they had also considered the improvement of the iPhone in terms of battery lifetime, compatibility with the newly released 3G network which meant higher-speed and better connectivity with the Internet, and not to forget the iPhone's integrated GPS which meant that they could build solutions that could track the location of the user if a permission were granted. 
+A more clear illustration of this entanglement comes from around 2007, if we look at what brought entrepreneurs to act in an attempt to put a dent in the universe of the hail-riding experience and moving forward all the way to cause a major impact in the taxi industry. With the advent of the iPhone by 2007, one thing some entrepreneurs knew, that people were excitingly buying that three-in-one device as promoted by Steve Jobs - of an internet communicator system, a phone, and a music player [^footnote_stevejobs_threeinone]. In addition to that, now by 2008, they had also considered the improvement of the iPhone in terms of battery lifetime, compatibility with the newly released 3G network which meant higher-speed and better connectivity with the Internet, and not to forget the iPhone's integrated GPS which meant that they could build solutions that could track the location of the user if a permission were granted. 
 
 [^footnote_stevejobs_threeinone]: 
 
@@ -133,9 +133,24 @@ To illustrate their challenges in this position, I invite you to go back to 2007
 * @reference - Stone, B. (2017). The Upstarts: How Uber, Airbnb, and the Killer Companies of the New Silicon Valley Are Changing the World. Little, Brown and Company.
 -->
 
-And granted that these elements were in place plus that Apple had deployed too a marketplace [^footnote_apple_marketplace] enabling developers to deploy and market their solutions with iPhone users; then they saw that they could ride a entrepreneurial journey to improve the taxi experience as it were or to reinvent the experience in new ways, which brings us to bad news or as entrepreneurs will see - challenging news. 
 
-To consider these challenges, let us take a ride to the past with Brad Stone, of Upstarts (Stone, B., 2017), first considering that by 2008 an iPhone app known as Taxi Magic was becoming popular in the U.S. as it had expanded across 25 cities, giving riders the ability to order standard taxis from their phones. That perspective shows that the leadership of Taxi Magic were essentially improving the existing situation, probably challenging some of the aspects, but essentially not fighting against the taxi industry. On the other hand, other founders thought that in order for riders to have a better experience, the known situation of the ride-hailing experience had to be disrupted. If we look at the original business presentation from Uber - Uber's original pitch deck (2017, August 23) - they clearly point to the poor experience of ride taking as connected with the taxi monopolies.
+Therefore, and granted that these were key elements in place, that had logically prompted some of them to the consider the new ways to take rides in major cities around the world, and logically to improve the lives of people that, by the way, were at the time subject to the specific experience defined by the taxi industry such as to call a central from the phone or wave their hands or take a cab from a specific taxi spot, and to accept the world as it once the ride had started. As an aside, once I caught puzzled in a complex situation, given that I considered myself a host to the friends from Mozilla when they visited to Brazil, and end up in a traditional taxi back before 2010 as some of us knew; in the streets of Porto Alegre at 110Km/h afraid to ask the driver to reduce but on the other hand fearing the big news in the next day - Mozilla contributor Marcio Galli kills the chairwoman of Mozilla allowing the driver to overspeed. 
+
+Anyway, as these entrepreneurs saw the conditions ready from the space of the building blocks, they then moved their heads to the space of their customers to consider that they were buying the iPhones indeed and to dream about the possible experiences that could impact their lives such as to be able to call a ride for any place in the city, to see the driver in the screen coming in the map in real time and to see the fares and pick the size of the car and many other elements redefining the experience, logically too the option to rate driver behavior, and more.
+
+However, and assuming that the experience were as good, they also saw a problem which is how would people install that experience on their phones; which they were thankful that Apple made it too as a solution for them - what developers knew as the Apps Marketplace [^footnote_apple_marketplace], basically offering a space for them to publish their applications and on the side of people's phone a mechanism to browser and install these applications, certainly with trust that customers wanted; which for developers also meant the benefits of the word of mouth. In other words, all that seemed to be about green light for moving on. Let us disrupt hail-riding or the taxi industry.
+
+[^footnote_apple_marketplace]: 
+
+
+
+
+
+
+
+But all of that, still, is about the visualization of the bridge and has anything to do with the getting things done. And the actual challenge that these pioneers will leave as they try to do it, as they enter the space, what brings them to say that reality is different, which we will follow with Brad Stone, of Upstarts (Stone, B., 2017). 
+
+Moving forward to 2008, an iPhone app known as Taxi Magic was becoming popular in the U.S. as it had expanded across 25 cities, giving riders the ability to order standard taxis from their phones. That perspective shows that the strategy of Taxi Magic were essentially improving the existing situation, probably challenging some of the aspects, but essentially playing fair and in agreement to the taxi industry. On other hands, of other founders, they thought that in order for riders to have a better experience, the known situation of the hail-hailing experience needed to change. If we look at the original business presentation from Uber - Uber's original pitch deck (2017, August 23) - they point to the poor experience of ride taking as connected with the taxi monopolies.
 
 Now that history shows that Uber survived, and given that many riders don't even know the world as it were before, can be challenging for us to see how these founders were struggling at the time. According to Brad Stone, these were philosophicaly differences. For Taxi Magic leadership, a particular moment had challenged them to reconsider their views, when Bill Gurley - the renowed partner of Benchmark Capital later to be known as the major investor in Uber - had engaged in what was referred as "a prolonged courtship" (Stone, B., 2017, p. 71) that culminated in an offer of $8 million in investment [^footnote_bradstone_investment_uber] which was declined. 
 
@@ -158,7 +173,10 @@ In an interview given to Brad Stone, DePaschoale the then-chairman Taxi Magic, h
 * @todo - p2 (Done) - In Space - #bradfelddup - Bring the quote from Up Starts of Brad Feld, from the executive that said no to the Silicon Valley VC company Benchmark and had acknowledged that he were following a potential track. @meta-refid 1222-3322-3344-5555 
 -->
 
-What's essentially complicated is the situation that the entrepreneurs put themselves exactly because they sort of become orchestrators by looking at what elements they can take from the given space of building blocks that has reached, for them anyway, maturity to enable them to bring about value to their target space - whereas value can be disruptive or incremental. Then, they have to deal with the orchestration and building a logic model solves a problem in the target space and to be concerned with the logic model in the sourcing space; plus to deal with the orchestration itself which is a managerial work, plus within each space to optimize the situation to enable the production to work, like to know how far to go in terms of provoking or not the existing environment and so on. And that's essentially the challenging problem as entrepreneurs get involved in a translation effort.
+
+But given that an experienced person like De Pasquale, that were quite involved in the business that had achieved a certain level of maturity, to even use the word bet, it reveals not only the multiple potential bets in place, but that these were in fact different strategies or perspectives, as in theses, more than anything related with gambling. In other words, his phrasing that reveals a certain degree of humility, is not enough to hide the well-informed characteristizations of their strategies. And that brings us to the revelation of other aspects in the struggle between the more incremental approach, which is playing by the rules, or the more disruptive approach, to provoke the space, or even the possibility of a strategy that shifts from one to the other, as in to unleash the disruptive after what seems to be the incremental; which may be particularly recognized when Bill Gurley approached De Pasquale as part of the inclinations for investments, and had advised De Pasquale to step away, initially from the taxi and yellow cabs, positioning the service as similar to limo cars instead, deferring the full potential for other chapter. As we know from the history of Uber - the team that end-up receiving the investment of Bill Gurley and Benchmark Capital - they actually started in the limo space, or black cars, but eventually took over and impacted the space of the general taxi experience.
+
+That situation that appears to be a crossroad is essentially a revelation that, to a certain extent, they have to decide which way to take. In other words, that what they need to deliver to the target space is something that needs to be built. Something that is tangible, coherent, marketable, and understood by people, and likewise by the competition or anyone else that objects. That new thing in the space. If that's not enough of a challenge, it brings us to the challenges and concerns of the modern business world and the dynamic environment of entrepreneurship, where they are challenged to consider that they do bundle things and unbundle. Not in the sense that they are able to quickly refactor the entire organization, but in essence that that consideration of refactoring anything thought is more relevant as the world becomes more dynamic. In other words, that if anything bundled has ties with other spaces, unbundling reveals the reconsideration of these ties and the dynamic nature of these spaces.
 
 
 
@@ -172,13 +190,20 @@ What's essentially complicated is the situation that the entrepreneurs put thems
 ### Bundle and unbundle 
 
 
-
-
-To further explore this movement of translation, that happens to innovate as an incremental or to put a dent in the universe of an existing space, it goes along that the audience will always want something that is coherent. In other words, people living in a given space, our customers call it whatever they want, are the ones that essentially have something to lose or win; but will only pause and give attention if something is coherently improving their lives or coherently taking value from them. 
-
-But since the problem involves the creation of something and not a narrative, then we shall welcome the exploration that follows  that captures from the history of the internet browser and give us an opportunity to reflect about the challenges of using building blocks from the sourcing space - the Internet and its building blocks like Web Standards - and the required dynamism for rethinking solutions by changing underlying elements. We will discuss the notion known as bundle and unbundle - from Jim Barksdale from the days when he was the CEO of Netscape [^footnote_marc_andreessen_jimbarksdale]. 
+Now I know that the situation of entrepreneurs who pushed them, especially in the beginning and also in the long run, to generally not refactor their offerings or to unbundle whatever they had thought and had bundled. Likewise as anything built is essentially built by the fact that their bridge were bundled in the first place and that may involve the managerial means. That leaves the idea of unbundling an offering to connect to the necessity of the unbundling of the bridge and reveal the ties of multiple spaces, which could be quite challenging because you are re-evaluating your sources, which is not generally a consideration, not until the act of getting things done consumes resources. Yet the recognition of the unbundling or the bundling-unbundling dynamics is a real movement that creates challenging situations in shorter cycles exactly because of the dynamic space such as where the competition exists and bundles things with ties with different spaces, which set us to at least verify an exploration that luckily was given to us through a great exercise, led by entrepreneurs and executives that had disrupted and invented the Internet browser, popularized the Internet browser and went through the necessity to rethink the offerings and not only setting the product in a different way, but setting the bridge in different ways, as told by Jim Barksdale from the days when he was the CEO of Netscape [^footnote_marc_andreessen_jimbarksdale] going through the rise of the Mozilla project.
 
 [^footnote_marc_andreessen_jimbarksdale]: The idea of bundle and unbundle is generally promoted by Marc Andreessen, one of the creators of the first popular internet browser that co-founder of Netscape. Marc is a well-known investor and partner at Andreessen Horowitz, A16z, an iconic venture capital firm from Silicon Valley. 
+
+To consider this narrative, let us situate ourselves in the days that the incremental innovations in the space of the Internet brought the Web. Yes, so the Web was brought to the people that could understand and navigate the Internet space. But that wasn't the web for normal users anyway. The Web for normal users came about because the Internet browser were invented. Thus, in the space of people - reading news - something new came up to them, it seemed to be a thing disrupting newspapers anyway, the Internet browser. Netscape was built, and they indee had put a dent in the universe. The browser was something bundled, a product. Once the user had downloaded it, it was coherent. If your computer is connected to the Internet, you can then type the address of a company, and voilá, the page shows. So all were nice, and Netscape were growing and their proprietary technology, their bundled things like the Netscape Navigator, were an excitement that led Netscape to be the highest IPO in history. 
+
+That up the moment when Microsoft decided to look at what a browser really meant. To simplify a long battle - known as browser wars - Microsoft had bundled a free Internet browser in its Windows operating system, thus making it not necessary for many people to even download Netscape. In other words, Microsoft affected the space of Netscape, and with that the evident notion that Netscape product could only be used "on top" of Windows, thus that Netscape was a customer of Windows to a certain extent. This is where the idea of bundle and unbundle sets in more properly, not only because Microsoft had bundled Internet Explorer but because the bundled Netscape, as it is, led Netscape as a company to be bleeding and bleeding fast. This also took Netscape to consider to rethink its strategy. 
+
+In documentary Code Rush..
+
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Space - Make short note of Code Rush explain Mozilla, and then the unbundle and disruptive move of Mozilla; and the ties with open source. @meta-refid 1112-3332-2233-4434
+--> 
 
 In an interview for Justin Fox, for Harvard Business Review (Fox, 2014), Jim Barksdale recalled line came about during Netscape's public offering roadshow. Jim and his team were at the Savoy Hotel in London, pressed for time and facing a room full of British investment bankers. When questioned about Microsoft's potential to bundle a browser into their product - “How do you know that Microsoft isn’t just going to bundle a browser into their product?” - he made a statement for how an innovative competitor product were essentially consist the destrution of the values of its competition and by that it would ground itself as new values: "Gentlemen, there’s only two ways I know of to make money: bundling and unbundling," and followed by "Well, best I can tell, most people spend half their time adding and other people spend half their time subtracting, so that’s what works out, " so satisfy the needs of an audience that were puzzled but curious. 
 
@@ -227,7 +252,7 @@ The notions of bundling and bundling, as we have seen through the Netscape brows
 * @outline - Answer - Bundle and and unbundle - multiple entangled spaces and Bundle and Unbundle. 
 --> 
 
-### Bundling and unbundling spaces 
+### Bundling and unbundling in Silicon Valley  
 
 
 

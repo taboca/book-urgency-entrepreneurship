@@ -100,41 +100,27 @@ Which brings us to wonder about the practical effects of the environment as we e
 
 It may be so that the above passage doesn't ring any bell, especially if you haven't created websites for a while. To explain with an analogy, consider a writer that started to work on her book and suddenly discovers that another book is already published with the same title, same audience, and apparently the same theme; and her focus is taken away.
 
-
-
-
-<!--
-@todo @here xdd05
--->
-
-
-And if we pause their movement and ask them what they're doing, they may well justify as quick checks maybe as a sort of market research ahead of time, which likely give us the idea of how much they care even to dismiss what happened and not waste their time. And to be fair with them, likely that and many other questions will be asked as part of what they do, seeking advices and double checking for every single thing. In other words, that they are not so reactive by instincts; And likely that they understand that execution matters more in the long run. 
-
-But that doesn't isolate them from the fact that they were taken, to a certain extent, or felt under a noise [^footnote_noise]. And furthermore, in alignment with the consideration of our exploration, the considerations of a noise that is different depending on the environment, or the specific domain for getting things done.
-
-[^footnote_noise]: 
-
-<!--
-
-While these situations may accomodate an honorable consideration that they care, such as that they could be exercising a preliminary form of a market research, we shouldn't miss the opportunity to catch and augument the movement that smoothly invades the entrepreneurial movement as it adds an extra value the discovery by the intrinsic value of the source. 
---> 
-
-
-
-
-
-
-
-To be fair with our doers, they do recognize their instinctive movements by engaging in learning. Brian's team, as history shows, had grasped quite profoundly that execution in the long run matters more, which can be recounted as they kept focusing on that other "AirBedAndBreakfast.com" idea, which later became "Airbnb.com," which gave them strenght to survive and beat a fierciful attack of a major competitor [^footnote_airbnb_competition], which brought them to make more than 4 million hosts [^footnote_airbnb_4millionhosts] and their guests happy. 
+And if we pause their movement to ask them what they're doing, they may justify in terms of normal routines as in some sort of preliminary market research which could even cause the impression that they care a lot about what they do if not for cause an impression for them that the asking of such (silly) question could be the actual stone on their way. And to be fair with them, and logically, they are the ones in the arena, the ones that seek advices and double check things and such as part of their craft. In other words, that they are not so reactive by instincts and do get involved with the understanding that execution matters more in the long run. As an aside, and to celebrate that the execution matters more in the long run, Brian's team, as history shows, had grasped quite profoundly that idea, which can be recounted as they kept focusing on the other prior idea, "AirBedAndBreakfast.com," which later became "Airbnb.com," which gave them the resources and strength and directness to survive and beat the fierciful attack of a major competitor [^footnote_airbnb_competition], which brought them to make more than 4 million hosts [^footnote_airbnb_4millionhosts] happy. In other words, it would be unfair to say that the existence of "roomates.com" had a stake in defining the future of airbnb.
 
 [^footnote_airbnb_competition]: According to Brian's interview in *Brian Chesky on Launching Airbnb and the Challenges of Scale* (2015), the Samwer brothers emerged targeting Airbnb by exercising their proven ability to clone successful business models and rapidly scaling them, often outpacing some of the original innovators. Although they posed a significant challenge, Airbnb's unique value proposition and strong community engagement enabled them to thrive against such competition.
-
-[^footnote_airbnb_4millionhosts]: Since its inception in 2007, Airbnb has experienced phenomenal growth, evolving from a small startup where two hosts welcomed three guests to their home in San Francisco to a global platform with over 5 million hosts, according to "About Us," retrieved from https://news.airbnb.com/about-us/.
 
 <!--
 @references 
 * reference - Greylock. (2015, November 30). Blitzscaling 18: Brian Chesky on Launching Airbnb and the Challenges of Scale [Video]. YouTube. https://www.youtube.com/watch?v=W608u6sBFpo
 --> 
+
+[^footnote_airbnb_4millionhosts]: Since its inception in 2007, Airbnb has experienced phenomenal growth, evolving from a small startup where two hosts welcomed three guests to their home in San Francisco to a global platform with over 5 million hosts, according to "About Us," retrieved from https://news.airbnb.com/about-us/.
+
+But that doesn't isolate them from the fact that they were taken, to a certain extent, as in taken a certain noisy [^footnote_noise] path. And furthermore, and in alignment with our exploration, we shall take ourselves to consider that the specific domain for getting things done sets our own environment and that a lot of things we come across from that environment might gain an extra value. 
+
+[^footnote_noise]: 
+
+And to consider that an early team appear to run as benevolent dictators [^footnote_michaeldearing_benevolent_dictators] of their own movement and that in from the horizon they may too feel that the Their market speaks to them [^footnote_michaeldearing_marketspeaks], sets them in a complicated position where we can ask ourselves if they are halfway directed by any set of elements that characterizes their environment for the movement - as in tools for advancing - and halfway directed by the lights in the horizon which are projections of their market as seen by the very environment; essentially setting them as halfway actors as if they were already following an invisible playbook spoken by the whole environment or wearing domain-specific goggles, you name it. 
+
+[^footnote_michaeldearing_benevolent_dictators]: 
+
+[^footnote_michaeldearing_marketspeaks]: 
+
 
 
 
@@ -145,12 +131,7 @@ To be fair with our doers, they do recognize their instinctive movements by enga
 --> 
 
 
-
-
-
-Yet, given that Airbnb's hosts and guests would be also happy to know that they gave up working on "roommates.com" as the site was "taken" back in early the days, can be yet another motivation for us to consider how many of our movements - especially in the early days when things are small and we might act like benevolent dictators of our own teams - are just half-way directed by things from the environment that seems to act like a playbook, that to a certain extent reveals that we essentially navigate our space by using our domain-specific goggles.
-
-To follow up, we will start by exploring how our world changed as we shifted from an entrepreneurial function building from the nature and set ourselves to build from a second nature, where our creations essentially brought to us the building blocks. Then we will shift our attention to the rise of interfaces, what were once the shape of a tool or the form of a car seat but became the space of interaction given by the layout and interaction experience of digital systems; again a space influencing us to build and to be driven. And finally, we end the chapter with a reflection about the words around us, the very elements and how the environment shapes the arrangement of them to impact our actions. These moments will be an opportunity to reflect that technological platforms are powerful indeed to set us to be creative; and along with that that there is price to pay when we are to immersed in it.
+If we argument this movement that invades the entrepreneurial movement, as in to claim the noise in what is not seen as noise, is an opportunity to celebrate that awareness for how environment matters, for good and bad. Thus, following up, we will start by exploring how our world changed as we shifted from an entrepreneurial function that used to build mainly from a nature as we knew it - as in the nature made of the 5 elements such as water, fire, earth, wind, and love - to become builders in a new world, or a second nature, on top of platforms, using building blocks from other space, the space that entrepreneurs made. 
 
 
 
