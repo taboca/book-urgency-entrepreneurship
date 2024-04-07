@@ -126,13 +126,18 @@ Yet the given is that the entrepreneurial role takes big part of the credit for 
 
 For a better illustration of this entanglement, and the elasticity demanded from these doers, we shall go back to not so far in time, around 2007, and consider what happened that provoked some of these doers to want to put a dent in the universe of the hail-riding experience - the experience of taking rides - and to cause a major impact in the taxi industry later. With the advent of the iPhone by 2007, one thing some entrepreneurs knew, that people were excitingly buying that three-in-one device as promoted by Steve Jobs - of an internet communicator system, a phone, and a music player [^footnote_stevejobs_threeinone]. 
 
-In addition to that, now by 2008, they had also considered the improvement of the iPhone in terms of battery lifetime, compatibility with the newly released 3G network which meant higher-speed and better connectivity with the Internet, and not to forget the iPhone's integrated GPS which meant that they could build solutions that could track the location of the user if a permission were granted. 
+In addition to that, now by 2008, they were also tracking other incremental improvements delivered to the iPhone platform, such as extended battery lifetime, support for the newly released 3G network which meant higher speed and better connectivity to the internet, and not to forget that the iPhone alread had a GPS mechanism as the means for enabling their solutions to track the locations of people carrying these phones.
 
-[^footnote_stevejobs_threeinone]: When introducing the iPhone during his keynote presentation at Macworld 2007, Steve Jobs famously described the device as a "three-in-one" product, integrating a phone, an iPod, and an Internet communications device. For reference, iPod had been considered a quite disruptive innovation for the need of listening to music. 
+[^footnote_stevejobs_threeinone]: When introducing the iPhone (2012, June 29) during his keynote presentation at Macworld 2007, Steve Jobs famously described the device as a "three-in-one" product, integrating a phone, an iPod, and an Internet communications device. For reference, iPod had been considered a quite disruptive innovation for the need of listening to music. 
+
+<!--
+@meta @reference 
+* Reference - CNN. (2012, June 29). 2007: First iPhone announcement [Video]. YouTube. https://www.youtube.com/watch?v=_NE1hp_uDT0
+--> 
 
 <!--
 @meta @todo 
-* @todo - p2 ( ) - In Space - Check the reference for the the footnote for the three in one device and link to Steve Jobs talk or article. @meta-refid 1212-2233-3344-5543
+* @todo - p2 (Done) - In Space - Check the reference for the the footnote for the three in one device and link to Steve Jobs talk or article. @meta-refid 1212-2233-3344-5543
 --> 
 
 <!--
@@ -140,6 +145,8 @@ In addition to that, now by 2008, they had also considered the improvement of th
 * @reference - Stone, B. (2017). The Upstarts: How Uber, Airbnb, and the Killer Companies of the New Silicon Valley Are Changing the World. Little, Brown and Company.
 -->
 
+
+With that, and granted that these exciting building blocks were available from that (Apple's) source space, they logically turned their attention to the target space - the places where people where and their lives, which prompted them to rethinking of the ways to taking rides in the major cities around the world. Logically, with the intention of improving their experience, which by the way were logically at the time framed by an specific experience defined by all the prior incremental developments of the the taxi industry; such as that if one wanted to order a ride, they would need to call a central from their phone, or to wave their hands at some of the cars identified by a yellow car in some of the cities around the world, or to go to a specific taxi spot first, and after that once the ride started, to comply with many other rules. As an aside, I remember the day when I left my phone in a cab in San Franscisco and how comfortable I was to know that I would never see it again. But another experienced was tougher when I felt trapped in a complex situation being a host to my friends from Mozilla organization visiting Brazil and caught myself taking a ride in the streets of Porto Alegre at 110 km/h afraid to ask the driver to reduce the speed at the same time holding my hands tight and fearing a big news for the next day that "Mozilla contributor Marcio Galli kills the chairwoman of Mozilla," or "How Mozilla ended in Brazil." 
 
 Therefore, and granted that these were key elements in place, that had logically prompted some of them to the consider the new ways to take rides in major cities around the world, and logically to improve the lives of people that, by the way, were at the time subject to the specific experience defined by the taxi industry such as to call a central from the phone or wave their hands or take a cab from a specific taxi spot, and to accept the world as it once the ride had started. As an aside, once I caught puzzled in a complex situation, given that I considered myself a host to the friends from Mozilla when they visited to Brazil, and end up in a traditional taxi back before 2010 as some of us knew; in the streets of Porto Alegre at 110Km/h afraid to ask the driver to reduce but on the other hand fearing the big news in the next day - Mozilla contributor Marcio Galli kills the chairwoman of Mozilla allowing the driver to overspeed. 
 
