@@ -21,10 +21,11 @@
 
 100/095_environment/010_environment.txt
 100/095_environment/020_space.txt 
-100/095_environment/030_operating_systems.txt
-100/095_environment/040_words.txt 
-100/095_environment/050_narratives_improving.txt
-100/095_environment/060_rainbow_grayscale.txt
+
+#100/095_environment/030_operating_systems.txt
+#100/095_environment/040_words.txt 
+#100/095_environment/050_narratives_improving.txt
+#100/095_environment/060_rainbow_grayscale.txt
 
 100/090_running/020_article.txt
 100/090_running/020_err_is_ok.txt
