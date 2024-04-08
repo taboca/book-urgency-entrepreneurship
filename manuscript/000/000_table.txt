@@ -1,12 +1,12 @@
 # Todo # 
 
+* @todo - p1 ( ) - In Space - Code Rush and Barksdale note. Make short note of Code Rush explain Mozilla, and then the unbundle and disruptive move of Mozilla; and the ties with open source. Make sure to connect and lead to the "no doubt" comment from Barksdale. @meta-refid 1112-3332-2233-4434
+
 * @todo - p1 ( ) - Bring quote from Andy Grove from Only the Paranoid Survive about the Internet; @meta-refid 1223-4432-3455-8888.
 
 * @todo - p2 ( ) - In Space - Bring a bit more on Mozilla and Bugzilla without going overboard. @meta-ref 1222-3323-3344-4455
 
 * @todo - p2 ( ) - In Environment - May consider the ref to the Tiktok documentary, as a case for how the short video patform works. @meta-refid 1222-3332-2323-4443-2383 
-
-* @todo - p2 ( ) - In Space - Make short note of Code Rush explain Mozilla, and then the unbundle and disruptive move of Mozilla; and the ties with open source. @meta-refid 1112-3332-2233-4434
 
 * @todo - p2 ( ) - In Space - Bring the specific data from Maury Klein about the situation of the means for building high pressure steam engine rising; @meta-refid 1222-3331-2234-4444 
 
