@@ -451,17 +451,25 @@ Now if these ideas are tipping us that we shall be waiting for underlying things
 
 
 
+
+
+
+
+
 <!-- 
 @outline @meta
-* @outline - Answer - Zooming In and out - Framing the job and transcending the space 
+* @outline - Answer - How to proceed to innovate, what to do vs. how to do and why to do?
 --> 
 
 ## Transcending the box 
 
-<!--
-* @meta @todo - p2 ( ) - In Space - In Zooming In and Out - The section entitled Unbundling the Space, now Zooming In and Out, in fact it has to do with the idea of an entrepreneurial team when they are targeting a given space where an action happens by others; and that relates to the job-to-be-done theory and the job steps. We may consider for this leading paragraph to exercise a pitch using a SCqA so that you lead the audience to understand that the potential for the exploration of a space where one happens to be bundling or unbundling, they happen to do that to optimize the actual job-to-be-done but at the same time to pick a battle of a job given an anchoring of a zoom level. Ref. Ted Thayer may know what this zoom in out is about. @meta-refid 7547-8484-3883-2234
---> 
 
+
+
+
+Assuming that we are acquainted by the environment for building things that set us to move in tracks or traps, if not by the motion of life then by considerations given so far in this chapter, we shall consider a reflection about the ways to transcend from the environment - assuming that entrepreneurial action continues to show that we are able to transcend from the box, from living experiences. 
+
+If we shift our focus to the moments before the the action towards getting things done, we may recognize a movement that a situation of a calling or something has to occur, something that provokes them or that prompts. For some it may be that they feel a discomfort about their situation. For others, an optimistic or romantic perspective for changing things and more. What is undeniable is that the movement, especially assuming when it leads to getting things done or a certain degree of success, shall more or less involve them to see through the barriers of their environment. As we have seen, it is fair to recognize that they generally ask why to become the builders of that bridge for a future, or to be the actual bridge, involved with looking at both ends, the sourcing end or how to build, and the target end, what to build. 
 
 
 
@@ -470,28 +478,23 @@ Now if these ideas are tipping us that we shall be waiting for underlying things
 
 <!-- 
 @outline @meta
-* @outline - a2 - Situation - The car in the traffic  
+* @outline - Situation - Being involved with empathy for the problem and the solution 
+* @outline - Situation - Innovation management is concerned with that - JTBD - innovator's dilemma - still, how to be involved and find the relationship?
 --> 
 
-It may be so that we are acquainted, if not by life itself that sometimes gives us the traps, but as well by the moments we spend together in this chapter, exploring that getting things done, it's done within the given things, we shall then proceed and consider the ways to transcend from the environment, the higher hopes from the entrepreneurial action that justifies us to call it innovation.
-
-Thus, if we shift our focus to the moments where the willingness to innovate is outstanding before the getting things done, to innovate, is to recognize that people living the experience are provoked or prompted, maybe because they feel discomfort about their situation or their optimistic perspective for changing things and aiming a better future. Therefore, it's undeniable that to a certain extent, more or less, they engage in a process that essentially transcends or that they see through their environment as it is. It sets them to reconsider underlying assumptions before any possible action is taken.
 
 
-Now, it becomes complicated for entrepreneurs, as they embrace becoming the builders of the bridge for a future, essentially having to look at these different spaces, on one side the target space, on the other hand, how to make it real, and to be able to see through on both ends, and facing the challenging entanglements with the environment, as we have seen both ends, highly influencing them, as discussed. But to make things more complicated, and exactly because the teams need to be somebody in the first place, able to move on, they essentially get to iterate, to pick what to do, or to innovate more softly, or more hard, at the surface of accessing the core. Essentially trying to figure, and following something that is meaningful for them, and at the same time something that they can do it.
+Now one complication for them to see themselves building that bridge, first to be wanting to be in that position, to be interested to plan, to execute (and fail), to monitor (and reflect), and likely re-do these cycles. And moreover, to identify their place as somebody between these spaces as an effective bridge, essentially dealing with their position in softer or harder ways i.e. to play more fair at the surface or to dig deeper innovating or disrupting core elements. 
 
+As an example of the softer ways, back to the car thought initially as a means for transportation, the situation that a car can be stuck in traffic or if the location is hot or if the ride is long or the weather is cold can certainly prompt them improve the experience of drivers, to launch solutions like the air conditioner, a music player, heated seats, and more. Or they too be more oriented to the rearrangements of the means to the end, such as reinventing the methods and how to use of resources to build cars and any solutions in it such as to reduce the costs of production. As for going deeper an innovative solution to the target space may consist of removing the necessity of humans driving, with autonomous driving; and in terms of the source space could be about a new kind of engine. Now, as a consequence of the disruptive situation, the outcomes produced may actually bridge again these spaces; as an example a new engine that is advanced and (in the long run) simpler to produce may also change the experience of the drivers, like avoiding them to have to fuel their cars. 
 
+Now one thing the world of innovation knows - that whatever it is it won't survive if the customers are not interested in using it and able to use it. While that does not give all the answrers to how to do it, it a good interesting problem to celebrate; and also a reason for us to celebrate some insights from the researchers and practitioners concerned with the challenges of innovation. A major challenge recognized by these minds has to do with the problem of listening to the people. The listening is vital, as people living experiences carries the answers, but as entrepreneurs had matured the challenge may involve not strictly listening to them as they are essentially to a certain extent like entrepreneurs living in the box and then to entangled with the existing solutions for doing things, to involved to transcend from their ways of doing, which explains that famous concern - which may or may not have said by Henri Ford - but that was formed to addres the complication that if these producers had asked to people they would have told that they wanted a faster horse [^footnote_henryford_fasterhorse]. 
 
+[^footnote_henryford_fasterhorse]:
 
+That faster horse is not a bad thing to want, so it may be that "these people," if they existed, were right. On another hand, assuming that producers could not produce faster horses, the challenges for addressing what to do would depend on knowing what people were trying to do with a faster horse, or to figure what people were doing it, to listen to their routines, their needs, their expectations as they were involved in their daily jobs. 
 
-And as we celebrate the movement that starts from the current situation and finds a successful path that changes things as we know it, we shall consider perspectives, structured perspectives, to transcend may serve us as lights towards how to change things from the point that we are. As an example, to go back to the space of a car's interior, we may think it's initially proposed for transportation, indeed, and if we consider the car stuck in traffic, many mobility offerings can be thought, such as if the location is hot or conditioning, or it may be so that the music in the radio player is helpful, also for longer rides, if it is too cold, seats can be heated. That's one way to look at what we can do. Certainly, a softer movement has aimed to improve the performance, improve levels of comfort and efficiency, or reducing cost of production is a way to build things, certainly. But if one wants to innovate to a certain extent from there, such as should we think if the car is really necessary, that certainly involves transcending, and that involves recognizing the usage of that solution to a certain extent, which can be also a trap to a certain extent. But transcending can also reach out to the user, or people living that experience firsthand. And again, it might be a trap, because even whoever is there driving the car may not know exactly. It can influence us, such as if we ask them what solution they want, they may mislead ourselves, because they didn't think through. And that goes along with a famous line that is known as being said by Henry Ford. Essentially, if I had asked people what they wanted, they would tell me a faster horse, which also goes along with that, that although people can't explain precisely, they do have given us clues. Maybe indeed, they really wanted a faster horse. Yet, the idea of transcending may go further, such as to understand not what people want in their terms, but what they were essentially doing, which of course can be tricky, because people might not know what essentially they are doing. To add clarity to that, we may gain from the insightful perspective from Professor Clayton Christensen, a renowned professor from Harvard Business School, and author of the book, *The Innovator's Dilemma*, that developed the origins of a way of thinking, quite structured, that got to be known and opened the possibility and were further developed, known as jobs to be done, which essentially has to do with understanding what is the thing that the user is trying to do.
-
-
-
-
-
-
-Consider the narrative given by professor Clayton and his colleagues, where a researcher interviews commuters and understands better the intents of some commuters for when they bring milkshake to their cars: 
+This is where an insightful perspective from Professor Clayton Christensen - the renowned professor from Harvard Business School and author of the book, *The Innovator's Dilemma* - came to help entrepreneurs and led practitioners to further develop structured models to help entrepreneurs to innovate forward by looking at the environment of their customers. This work is known as Jobs to Be Done which is essentially about not asking customers what they want, as solutions, and shifting the focus to understand the needs of the customers by looking what they are trying to get done. The famous illustration, given by a narrative created by professor Clayton and his colleagues, can be recounted before our further discussions: 
 
 > *The researcher inquired further: “Tell me about a time when you were in the same situation but you didn’t buy a milk shake. What did you buy instead?” Sometimes, he learned, they bought a bagel. But bagels were too dry. Bagels with cream cheese or jam resulted in sticky fingers and gooey steering wheels. Sometimes these commuters bought a banana, but it didn’t last long enough to solve the boring-commute problem. Doughnuts didn’t carry people past the 10 am hunger attack. The milk shake, it turned out, did the job better than any of these competitors. It took people 20 minutes to suck the viscous milk shake through the thin straw, addressing the boring-commute problem. They could consume it cleanly with one hand. By 10:00, they felt less hungry than when they tried the alternatives. It didn’t matter much that it wasn’t a healthy food, because becoming healthy wasn’t essential to the job they were hiring the milk shake to do.*" (Christensen, Cook, & Hall, 2005)
 
@@ -507,7 +510,7 @@ Consider the narrative given by professor Clayton and his colleagues, where a re
 
 <!-- 
 @outline @meta
-* @outline - a2 - Complication - Levels of JTBD in the space, relativeness  
+* @outline - Complication - Variability and identification of the sweet spot and MD case - interest to transcend execution towards business. [Feat. MD]
 --> 
 
 
@@ -515,17 +518,26 @@ Consider the narrative given by professor Clayton and his colleagues, where a re
 
 
 
-In other words, in celebrating that we essentially had escaped from the cockpit of the car to the driver's seat of one running the milkshake business, a lesson to be taken is that the milkshake may be offered through a range of different people, they're living a certain experience that they're trying to get a job done where that offering may be helpful for them. But again, it's still the very essence that we recognize that as truth, it's something that we're always challenging for us because it could be too philosophical, as in where are we going, we don't need roads or where are we going, we don't need the cars or people don't really want what they want and even if they think they want what they want such as a milkshake to be such as to be nursed by a milkshake, it may be that essentially they don't really want that, that they want something more healthy, for example. Yet the job to be done theory and thinking is the key, nevertheless, nevertheless, which turns us to the challenge of which is the job that these people are doing. And again, and as we have considered the recognition of a job that people are doing will create a space, the other space is the potential of a solution that improves that job, the other space is the interest that we may have to do that, not only in terms of helping these people to get a job but from the ability and our interest and our fundamental values that can support us to get involved with the means to do that. When we overlap all these different circles, as an example, we may find the sweet spot that our involvement may matter. Let's move on with the job to be done thinking although in here being concerned with aspects of where is the actual job and or which is the zoom level that we may adjust that we are comfortable and how to know it and to achieve the place of stability. 
 
 
 
+
+One key takeaway from the milkshake business case may be the implication that the milkshake can help a different people in the same situaton - people living the need for drinking/eating while driving, thus not a specific demographic. Now if we focus in the Jobs to Be Done further, we also observe that they do their things, that they get their things done, thus that they carry answers as they carry needs; and that they are quite involved in their attempts to improve their situation, thus willing to pick solutions, or to hire solutions as the system says. 
+
+As a consequence, yet another takeway, is that the listening to the collection of the many insights about the needs of groups with same needs may well support the exercise of transcendence that enables entrepreneurs to come up with solutions. On the other hand, it is yet challenging that the the more the exercise goes deeper, the more philosophical or romantic or theoretic the needs are revealed. As in, if we dig too much, we may go all the way to things like to live longer, to be happier, to give people means to learn better, and more. Thus the complication for the ones interested in getting things done has too to do with finding a stable place where they are engaged as somebody into the why to do it, how to do it, and what to do it. This challenging movement can be emphasized by the words of Michael Dearing given an an interview with Reid Hoffman:  
 
 <!--
-@todo @meta 
-* @todo - ( ) p2 - In Environment, Space - Check footnote of Tony Ulwick when it refers to JTBD, check if it is a framework of a theory or what according to the latest articles. @meta-refid 1212-2223-4432-9873
+@meta @todo 
+* @todo - p1 ( ) - In Space - #dup #quote - The quote from Michael appears duplicated, in part 1, in Identity and also in Space. @meta-refid 1222-3323-3344-4455 
 --> 
 
-[^footnote_jtbd_tony]: JTBD (Jobs to be Done) theory, as developed by Tony Ulwick and Strategyn, presents a groundbreaking framework for innovation. Central to the framework is the notion that customers "hire" products or services to accomplish specific jobs or tasks in their lives. By understanding these jobs in detail, companies can innovate by creating offerings that precisely meet the needs of their customers. Ulwick's approach involves the understanding of the job steps and opportunities associated with a job, providing businesses with a structured process to identify and and come up with ideas to solve unmet needs or met needs in creative ways.  
+> *"First you have to have an insight, a technical insight. Second you have to turn that insight into a product, and third you have to, hopefully God willing, turn that product into a business. Those are about as different sets of pursuits with very little in common with each other. And so if you energized by the idea of coming up with a technical insight and then moving to productization and then moving to the business building phase, that journey will be satisfying and exciting to you. If you find yourself totally in love with the technical insight manufacturing process, that is a real problem. And then you end up having science projects, not companies. If you find yourself endlessly prototyping and tinkering with the product without regard to the business economics, then that’s a warning flag as well."* (Michael Dearing, Greylock Partners, October 2015, 47:47)
+
+<!-- 
+@meta @references 
+* reference - Michael Dearing. Greylock. (2015, October 8). Blitzscaling 03: Michael Dearing on Capitalism, Creativity, and Creative Destruction [video]. Retrieved from https://www.youtube.com/watch?v=3vCdfa_aeI8
+--> 
+
 
 
 
@@ -534,12 +546,27 @@ In other words, in celebrating that we essentially had escaped from the cockpit 
 
 <!-- 
 @outline @meta
-* @outline - a2 - Marcio's reflection about being an Uber Driver  
+* @outline - Answer ks - GK - Recognition of transcending - caring beyond leads to no action but may be recognized,  GK - Stability target, GK - Stability source 
+--> 
+
+
+These considerations are reminders about how important it is for ourselves to find a sweet spot, a place that is meaningful for ourselves and for the others from both spaces, sourcing space and the target space of users; and yet another reason for us to be calmer when searching, or exploring, what to do. Moving forward in this direction, let us consider an annecdote about how any space can connect with with far too many needs and then settle ourselves to recognize the challengs for stability as we position between the sourcing world and the target space of users. 
+
+
+
+<!-- 
+@outline @meta
+* @outline - A.a - Marcio's reflection about being an Uber Driver  
 --> 
 
 
 
-But before we get that and continue to consider structured models for identifying these jobs and to enter the space, the needs of people and what we can do, I wanted to bring about how sometimes new ideas may rise from the actual first-hand experience which may or may not take us to that place of stability when a certain idea can actually be pragmatized where we sort of see that bridge being formed anyway. Therefore, there is a phenomenon where things rise to a certain degree and I'm going to go through my own story as I did about 1,000 trips as an Uber driver and started to have ideas from inside the car, from actually doing it. Not to use this story as a framework but to consider the very situation, the phenomenon where things rise which will give us the situation and the complication about the challenges of one that is transcending from the experience and not being able to properly adjust and yet might be surfacing many possible solutions in there. So let's move on with that ride.
+### 1000 trips in a box 
+
+
+
+
+But before we get that and continue to consider structured models for identifying these jobs and to enter the space, the needs of people and what we can do, I wanted to bring about how sometimes new ideas may rise from the actual first-hand experience which may or may not take us to that place of stability - when a certain idea can actually be pragmatized where we sort of see that bridge being formed anyway. Therefore, there is a phenomenon where things rise to a certain degree and I'm going to go through my own story as I did about 1,000 trips as an Uber driver and started to have ideas from inside the car, from actually doing it. With this story, I consider the very situation, the phenomenon, that ideas will rise which will give us the situation and the complication about the challenges for the doers that the transcending from an experience might bring great values whole it may not mean action if not may also mean distraction. 
 
 
 
@@ -581,7 +608,16 @@ At this moment, and because I don't have a car and I'm mostly using Uber daily, 
 
 
 
+
+
+
+
 ### Searching stability in the target 
+
+
+
+
+
 
 
 Although this situation has told about my own story inside the Uber for a thousand trips may give us a moment to think about the driver that is just outside and the place not living in that condition of hardness that has something to do with transcending that may be necessary for the incremental function to find things to do I think I may have stumbled in a number of elements that I was motivated to a certain extent to write about but those weren't enough motivating me to shift from driving inside the car to actually engaging with the action because likely I didn't see myself if I had the conditions in a stable position to move a lot to recognize that many ideas indeed come from the first hand experience but recognizing that when we engage to do something beyond the ideas and move ourselves to action we only set ourselves in front of a complicated situation which is to further be provoking ourselves if we really want to do it it essentially set us in a position of a challenging position of discovering more about what's behind what we didn't see and also to discover if we ourselves were really interested in doing it which will likely bring the entrepreneur to recognize that goals such as far ahead goals not so long but slightly far ahead like a horizon really really matters we celebrate the idea with the following reflection from Michael Dering when he was interviewed from Rick Hoffman about what it takes to continue and move.
@@ -591,6 +627,24 @@ If we consider the research instability in the target space, we are essentially 
 Therefore, and we're moving closer to many of the greater insights that a job to be done team brought to us, we're in front of opportunity to also transcend how we measure these things, like how we measure the market. And how even many of the frameworks may be created in the first place based on these views and perspectives that we had before. Even Lean Methods. That consideration gets even more valuable when we see that the practitioners and leaders in the field of the Lean Methods are very aware that we shouldn't see markets as we always saw. Like the reflections from Steve Blank and the Tony Uwick team, they recognize that the market may essentially not be about the demographics and in fact related to the needs. As the following quote confirms.
 
 Another key takeaway of the jobs to be done, strategic and thoughtful and structured thinking of this special team, namely Ted, Tony, and others there, is their interest to see the fundamental aspects that brings innovation in the middle of the spaces of people, transcending to a certain extent. For instance, giving us great ideas for how to find stability in terms of the people needs. One key aspect that they bring is the idea of job stats. That's essentially, they had identified a kind of canonical, consistent characterizations of what a job is. That all the jobs always follow that same path, the following path. With that, what they're bringing to us in terms of insights, is that if any solution is to be created to any space of one that is running a job, this solution is to a certain extent improving one or more of these stats. And it goes along that the job is only stable when, independent of these solutions, the job is still there. In other words, if the solutions are coming in, being subtracted, in or out, but yet that job persists. It may be a place that we can anchor ourselves there. Of course, if you have interests to be anchored there.
+
+<!--
+* @meta @todo - p2 ( ) - In Space - In Zooming In and Out - The section entitled Unbundling the Space, now Zooming In and Out, in fact it has to do with the idea of an entrepreneurial team when they are targeting a given space where an action happens by others; and that relates to the job-to-be-done theory and the job steps. We may consider for this leading paragraph to exercise a pitch using a SCqA so that you lead the audience to understand that the potential for the exploration of a space where one happens to be bundling or unbundling, they happen to do that to optimize the actual job-to-be-done but at the same time to pick a battle of a job given an anchoring of a zoom level. Ref. Ted Thayer may know what this zoom in out is about. @meta-refid 7547-8484-3883-2234
+--> 
+
+
+
+
+
+<!--
+@todo @meta 
+* @todo - ( ) p2 - In Environment, Space - Check footnote of Tony Ulwick when it refers to JTBD, check if it is a framework of a theory or what according to the latest articles. @meta-refid 1212-2223-4432-9873
+--> 
+
+
+
+[^footnote_jtbd_tony]: JTBD (Jobs to be Done) theory, as developed by Tony Ulwick and Strategyn, presents a groundbreaking framework for innovation. Central to the framework is the notion that customers "hire" products or services to accomplish specific jobs or tasks in their lives. By understanding these jobs in detail, companies can innovate by creating offerings that precisely meet the needs of their customers. Ulwick's approach involves the understanding of the job steps and opportunities associated with a job, providing businesses with a structured process to identify and and come up with ideas to solve unmet needs or met needs in creative ways.  
+
 
 
 
@@ -608,6 +662,11 @@ Another key takeaway of the jobs to be done, strategic and thoughtful and struct
 --> 
 
 ### Searching stability sourcing 
+
+
+
+
+
 
 
 <!--
