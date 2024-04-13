@@ -213,6 +213,8 @@ That up the moment when Microsoft decided to look at what a browser really meant
 
 In documentary Code Rush..
 
+
+
 <!--
 @meta @todo 
 * @todo - p1 ( ) - In Space - Code Rush and Barksdale note. Make short note of Code Rush explain Mozilla, and then the unbundle and disruptive move of Mozilla; and the ties with open source. Make sure to connect and lead to the "no doubt" comment from Barksdale. @meta-refid 1112-3332-2233-4434
@@ -786,11 +788,25 @@ Now, by having us consider this case, we may then move to the other more complex
 
 
 
-One case to be considered goes back to the, as we have seen, the rise of Mozilla project and bringing the Firefox browser, if we recount the initial development, Mozilla project was the open source code that came from the Netscape code because Netscape were challenged by Microsoft during the browser wars by releasing the free internet browser which were proprietary, leading by the creative minds of people envisioning the future to position an open source response which certainly involved lots of courage which was possible to a certain extent as Netscape were bleeding very fast and the line from Jim Barksdale, the following quote, pretty much recognized the courageous movement but also the uncertainties.
+One case to be considered goes back to case of Netscape and the rise of Mozilla project and the Firefox browser. If we recount from history, Mozilla project, the open-source code for a browser, was the response from Netscape as Microsoft had bundled its own browser in their Windows operating system - thus serving the Internet navigation needs of its users. The movement, given that Netscape were bleeding fast, was led by creative leaders that trusted that the growing open-source movement would give a new beginning for Netscape. A main challenge was the necessity of rewriting Netscape's proprietary code - which were millions of lines of code according to Code Rush documentary (Project Code Rush, 2013) - which involved doing it in ways compatible with the open-source characterizations and in ways to leverage the interaction of contributors from all over the world; essentially enabling the co-creation with the wider community. What were in front of them where well said by Jim Barksdale, the then-CEO of Netscape that supported that unbundling and re-bundling of Netscape as Mozilla:  
+
+> *"Well, it's certainly my hope that the enormous amount of new people that no one company could afford to have working on any product, now contributing to the Netscape Navigator Communicator [Mozilla project], will make a significant difference in the improvement of the product. How that works against any competitor remains to be seen."* (Barksdale in Project Code Rush, 2013)
+
+<!-- 
+@reference 
+* reference - The Documentary Network. (2013, August 12). Project Code Rush - The Beginnings of Netscape / Mozilla Documentary [Video]. YouTube. https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
+--> 
+
+Now, and as history shows, from Mozilla open-source project not widely known in 1998 except by these pioneers, to Firefox the browser that served more than 30% of the browser market in about a decade [^footnote_firefox_peak], the journey consisted in solving a lot of challenges in order for a rich collaborative framework to thrive. One example of the many important buildin blocks were a system known as Bugzilla [^footnote_mozilla_bugzilla] which enabled contributors to report problems (bugs as they call), to discuss how to solve them, and to contribute with code solving them. Therefore, Bugzilla along with many other building blocks, like the Mozilla open-source license, represented the essential managerial work that responded to the needs of a wider community that were eager to collaborate. The impact, besides the outcomes visible at the surface, was a strong community, the Mozilla community, that grew in structured, that became a well of knowledge and value creation, which enabled the actual interactions from volunteers from all over the world that brought the outcome of "a significant difference in the improvement of the product," as Jim Barksdale expected, and a lot more. 
+
+[^footnote_firefox_peak]: Firefox reached a peak market share of 32.21% in November 2009. For more details, see the Wikipedia article on Firefox and check https://en.wikipedia.org/wiki/Firefox#cite_note-StatCounter-23 the referenced source. 
+
+[^footnote_mozilla_bugzilla]: For information about Bugzilla, a web-based general-purpose bug tracker and testing tool originally developed and used by the Mozilla project, see the Wikipedia article - https://en.wikipedia.org/wiki/Bugzilla.
+
+In other words, the setting of Mozilla as an internet browser, given the open source initial movement and the wider input of a community that believed in openness, led Mozilla to grow as a strong product and to even motivate many other companies to work again in browsers. 
 
 
 
-Now as Mozilla was, to a certain extent, free for a while, and given an incentive to start itself in a re-bundled condition, it only enabled those leaders to move on by having them established with those new values of the open source. At that point, a certain amount of knowledge existed already, for instance, that allowed Mozilla to make a connection between the community and the connection that revealed itself as a tremendous value in alignment with the hopes from Dean Barksdale, and where it enabled Mozilla to reach its fate by the actual involvement of the community in many layers, from the engineers working in the core of the browser product to the localization engineers that were translating the browser up to 48 different languages, including Klingon, if I'm not mistaken, Esperanto, and the wider community of people using the browser and connecting themselves with the further values. In other words, the setting of Mozilla as an internet browser, given the open source initial movement and the wider input of a community that believed in openness, led Mozilla to grow as a strong product. And also because Mozilla had developed themselves the means of interaction and collaboration like Bugzilla. As an aside, I recall the days when we sort of realized that Bugzilla were one of the most impactful, bundled creations of Mozilla that nobody knew to a certain extent because many organizations wouldn't reveal that they were using Bugzilla internally. But they were, like NASA and other organizations across the world.
 
 
 
