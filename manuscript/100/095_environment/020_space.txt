@@ -654,26 +654,29 @@ But let us, for now, stick with the Jobs To Be Done which is..
 --> 
 
 
-And these perceptions about the space are also complications for us to eventually come to the solutions, exactly because perceived needs can be perceived by the given goggles, which requires us to be aware and to transcend from the measurement of the market and the space, and this is where we shall go back to the job of the dominant teams and the teams that have even acknowledged that many of the main movements could be to a certain extent misled by how you approach the idea of markets, as we shall celebrate the constellations from Blank and Tony O team together about the risks of being driven by the perceptions of the markets.
 
 
 
+Another key takeaway of the jobs to be done, strategic and thoughtful and structured thinking of this special team, namely Ted Thayer and Tony Ulwick and their team at Strategyn, is their interest to see the fundamental aspects that brings innovation in the middle of the spaces of people, transcending to a certain extent. For instance, giving us great ideas for how to find stability in terms of the people needs. One key aspect that they bring is the idea of job steps. That's essentially, they had identified a kind of consistent characterizations of the phases that all jobs carries; that all the jobs always follow that same path, the following path:
 
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Space - Review job steps given by Chatgtp @meta-refid 1222-3332-2323-4445
+-- >
 
+* Defining the Job: Recognizing a need or problem.
+* Searching for Solutions: Researching and exploring possible solutions.
+* Selecting a Solution: Choosing the best-fit solution based on various criteria.
+* Executing the Job: Using the selected product or service to accomplish the task.
+* Assessing Outcomes: Evaluating the effectiveness of the solution in solving the problem.
+* Post-Evaluation Adjustments: Making decisions on continuation, replacement, or adjustment based on the evaluation.
 
+The immediate objective opportunity from that, for innovators, is that their solutions can serve the needs of one or more steps. Although from a romantic perspective an ideal solution would suggest that all the steps of a job are solved - like magic or a miracle - in the ideal world of entrepreneurship that shows a preference for getting things done, innovators seek for a sweet spot, to help the job by positioning an offering solution that may improve one or more steps. If that is enough, it won't matter. It may be that the solution improves the step for a market that is already served with other solutions like providing a non-stick spray in a world of cookers using standard pans, which precisely tackles the step of preparation in the job of cooking; or it may disrupt through steps such as if we consider the introduction of a non-stick pan to that world. 
 
+A example that JTBD team uses for one that covers many steps is the iPod: 
 
+A conclusion for innovators goes back to a strategy for them to be able to be somebody in the process and to come up with something that they can do it and that can sustain. The framework will give them the means to move from that initial better consideration of a market - in terms of the job - and then to see where they can do something given the various needs through the steps. 
 
-
-
-
-
-
-If we consider the research instability in the target space, we are essentially recognizing that we are now closer to the market. And with that, the first thing of a situation for ourselves is to celebrate how the environment of the market is so strong to mislead us and even to come up and be motivated by a movement, like a commercial movement, taking from how we value the idea of markets in the first place. You may remember from prior discussions that our entanglements with the environment and the constructions in the environment of entrepreneurship brought to us the perceptions that methods and ways to do things and the means to do things are essential tools, just like a technological tool or a hammer is for something. Again, the environment is also comprised with the methods or the practices or frameworks and more than that, our ties with how we measure the potential in the target space. One of these ties that we are so involved with is to see the target space by certain frames, like to see that the market is market under some assumptions. And that's a key complication for us because what we are essentially trying to do is to disrupt or to innovate and to help people. We are not dealing with the market. The perception of the market is itself a measurement. One example is to see the market as a demographic. We are so much doing this because of our ties with the ways we came from. The world of producers and products and things that have influenced people to a point of seeing people as a market. And even the idea of cohorts to a certain extent is an evolution of that, but yet it may have something in there as well.
-
-Therefore, and we're moving closer to many of the greater insights that a job to be done team brought to us, we're in front of opportunity to also transcend how we measure these things, like how we measure the market. And how even many of the frameworks may be created in the first place based on these views and perspectives that we had before. Even Lean Methods. That consideration gets even more valuable when we see that the practitioners and leaders in the field of the Lean Methods are very aware that we shouldn't see markets as we always saw. Like the reflections from Steve Blank and the Tony Uwick team, they recognize that the market may essentially not be about the demographics and in fact related to the needs. As the following quote confirms.
-
-Another key takeaway of the jobs to be done, strategic and thoughtful and structured thinking of this special team, namely Ted, Tony, and others there, is their interest to see the fundamental aspects that brings innovation in the middle of the spaces of people, transcending to a certain extent. For instance, giving us great ideas for how to find stability in terms of the people needs. One key aspect that they bring is the idea of job stats. That's essentially, they had identified a kind of canonical, consistent characterizations of what a job is. That all the jobs always follow that same path, the following path. With that, what they're bringing to us in terms of insights, is that if any solution is to be created to any space of one that is running a job, this solution is to a certain extent improving one or more of these stats. And it goes along that the job is only stable when, independent of these solutions, the job is still there. In other words, if the solutions are coming in, being subtracted, in or out, but yet that job persists. It may be a place that we can anchor ourselves there. Of course, if you have interests to be anchored there.
 
 <!--
 * @meta @todo - p2 ( ) - In Space - In Zooming In and Out - The section entitled Unbundling the Space, now Zooming In and Out, in fact it has to do with the idea of an entrepreneurial team when they are targeting a given space where an action happens by others; and that relates to the job-to-be-done theory and the job steps. We may consider for this leading paragraph to exercise a pitch using a SCqA so that you lead the audience to understand that the potential for the exploration of a space where one happens to be bundling or unbundling, they happen to do that to optimize the actual job-to-be-done but at the same time to pick a battle of a job given an anchoring of a zoom level. Ref. Ted Thayer may know what this zoom in out is about. @meta-refid 7547-8484-3883-2234
@@ -721,63 +724,88 @@ Another key takeaway of the jobs to be done, strategic and thoughtful and struct
 * @todo - p2 ( ) - In Environment, Spaces, Bundled forcers - Consider the insight from Maury Klein for the unleash of innovation that had happened when the Bolton and Watt patents expired. Check the quote from 53-54 of The Power Makers: "versions of a railroad had been around since at least the 17th century to ease the hauling of coal and ore from mines. Railroads paved with stone were built. Around 1630, an Englishman named Belmont got the bright idea of replacing the stone with heavy planks. This gradually evolved into rails made first of wood and then of iron. By the late 18th century, the wheels running over these rails had flanges to improve their grip. The road of rails had become familiar at least to miners by the early 19th century, but it lacked a source of power beyond the horse. The steam engine was an obvious possibility. Work on it expanded rapidly after the 1800s when the Bolton and Watt patents expired. Across England, the continent, and the United States, men with a mechanical bent tinkered doggedly with versions of the steam engine, each one in search of a unique solution to whatever problem or challenge intrigued him. Some worked in the privacy of their own homes, others went into the business of building engines. Many of the men who had worked for Bolton and Watt took their expertise elsewhere or went into business for themselves. They soon realized, as did most of other builders, that the Watt low-pressure engine would not do for a land carriage because it simply could not generate enough power. Yet, strong fears remained about the dangers of high-pressure engines. As late as the 1820s, in England, the stationary steam engine was still considered a serious, even preferred alternative to the high-pressure engine for railroad motive power." 
 --> 
 
-Now, as we go back to the space for innovation, it seems that the celebration of the platform, when a network in a state of virtuous growth, which seems to go along with aspects indivated in the approach for scaling of Blitzscaling. From the standpoint of growth, and the view from inverstors interested in scaling platform networks, the analysis is for what elements neeed to be in the place, what forces are fovaourable or against, considering the expectations and vision of the network reaching its full potential. In the story of Uber, a prior network was know as the "yellow cabs" situation. Sequoia partners doing analysis, wanted to invest but to recognize the risks and take a strategy of focusing first in black cars. Sequoia has identified players that were in the field of unbundling the cabs networks, and one of them had the opportunity, although Sequoia wanted them to go back to black, stay away from yellow cabs at that moment. The CEO didn't accept. Later Sequoia end up finding an entrepreneur from San Francisco that were focusing in the black cards and asked if he would be okay with the moving on top of yellow cabs in the right time. And that became Uber. 
-
-Another story, that shows how risks are taken in consideration when the matter are networks, is shown in the story of Linkedin [^footnote_bliztscaling_linkedin_blue_allen] where the founders have documented aspects of the struggle to understand when and how to monetize the network. They indicate that some other social networks here real competitors but some of them wanted to make revenue ahead of time, while LinkedIn had a strategy to cover at least USA as a metric for its success with its main customer, corporations looking to hire people. 
-
-[^footnote_bliztscaling_linkedin_blue_allen]: 
-
-These situations show intended efforts that seeks a readiness level for the network to be bundled. This is like showing that the curation of the platform, analysis for its future potential, is a must. VC partners of great VC organizations, such as Sequoia, Greylock and A16Z, are examples that show an intended analysis of how networks operate and the risks of scaling. In a way, the body of knowledge from these groups are able to bend reality, from a view from outside. 
-
-But now, back to individuals anr the struggles of entrepreneurs, all of that tell us that stability in the platform produces ooportunities. Or a great platform with network potential involves offering opportunities in a stable matter, the ground for an economic model or interaction that produces value. Which comes after that the aspects which I refered as the prison. 
 
 
 
 
+Now and given that we have explored the space of the target, where the users are, or call them customers, if you will, although I recommend not seeing them as a demographic market, we now shall look at how to make the bridge stable, serving these needs, therefore to consider the space of the building blocks and to understand that building blocks might mean the many factors and even how to make that value production a reality.
 
 
-A complication is that we can be somebody in many of these platform systems, but the experience of being somebody, especially when we are driven by certain metrics, such as performance in attributes such as score, or grades, or money, can also prevent us from seeing opportunities, expect the condition of the exercise of the attempt to maximize effienncy in the network boils back to the situation of feedback that enriches the network. But the point I want to focus now is when being busy can also come with estability of the individual in the network. 
+
+
+When we think about building blocks, we think about resources like the sand that can be transformed in diamonds or silicon, the immediate necessity arising from that idea is that there are other bridges that should exist to enable certain transformation to happen, so it would be the tractor that you need to take the sand from the ground or the transporting the sand to a different location to enrich any resources that you're taking, so that you can put in that process to make something valuable and this is where besides your own interest and creativity of ideas where money or the means for making these transformations are necessary and the logical role that we see there is characterized in the modern days as the role of the investors, for example the angel investors or venture capital investors are iconic for us because it is a way to understand the presence of that role, now the actual investors as we know it or we are used to it, it should be considered as a symbolic to a certain extent, so if we focus in the general characterizations of that it's really about having the support and the trust and the interest of that role to go with us giving us to a certain degree superpowers, so the early examples of this would be the Brown family in the US, the people that made Brown University according to Michael Turing in an interview with Reed Hoffman, where no concept of investors exists exactly, but they were certainly the ones supporting the first production mill in the United States according to the interview. The other element that is important to this consideration about this role of investors is that they are essentially the bridge between the old and the new in a way that they somehow were part of the old and want to be part of the new, so they represent the connection or the transition given that they want to be around and they were able to raise the resources that are the superpowers enabling this new creative mind to actually do it in the first place, so in the example the Brown families they actually had slaves, but given the circumstances of changing of the world, of the world through the industrial revolution, they essentially were creatively destroying themselves, enabling themselves to be alive in perhaps the new setting.
+
+
+
+Therefore, and given that these stakeholders are in it to be prior to a transformation from the old to the new, no matter if they're joined the party just to make money, which is the case of some investors, or to be in a vote more seriously because they believe in a transformation, or even to be users themselves, it really doesn't matter. But what matters is as well that because the transformation depends on the old to achieve the new, they essentially provide the supporting role for linking or bridging to other resources existing in space to make that reality possible. In other words, they aggregate more superpowers or bridging other building blocks, expanding the ties, which sets them to be concerned if these ties are going to be strong enough to hold themselves and therefore to hold the actual target interest bridge. As an example, if we go back to the case of Bill Gullery of Benchmark Capital, in the situation when he asked the entrepreneurs to step back from the yellow cabs and to focus on the black cars, essentially it reveals the interest of, on one hand, to be involved in the process of creative destruction, on the other hand, to be involved in what gives the world creative to what could be the destruction, which is essentially, in a way, a friendly way to make that transformation possible.
 
 
 
 
 
 
-An additional complication is when we are trapped ny many layers. Like consider a phase of a computer game, a game that is more like an experience available in a world that supports games, a network platform for games, and that the game was written on top of an operating system that runs on top of a computer system. 
 
-If the producer of the game experience decides to shut down its servers, impact is first perceived by the network of users experiencing that experience. For them, out of the sudden, the network seems to be down, but they might figure later that the developer-owner gave up. For some, sadness might take place as part of who they are were being exercised in the game environment, through an user profile. 
+To answer this equation involves the question if what's being proposed Can be bundled and if it will be sustaining and stable enough in the face of the new future It doesn't matter if it's something as simple as the cup of coffee or as complex as an internet browser made by Huge community or even a social network that is a professional social network that is a multi-sided market place still Necessity for sustaining involves The expansion of the meaning of to be somebody That Necessarily has to be applicable to the case of the entrepreneur and all the other stakeholders in other words all involved In the same boat want to be somebody in that boat going through the challenges ahead Therefore let's move on first considering a simple case yet Elaborating on the ties For example to say that even a cup of coffee. It's a platform to certain extent by the ties And also to elaborate a more complex cases Where the interactions may happen with different groups.
 
-But when just playing the game, before the incident, it would indeed be quite difficult for one to bend the reality expect if by any chance you had another agenda that could give you the means to see reality from different viewpoint. We should note that while estabily in the platform exists, which pushes me to keep referring it as a prison, the opportunity for freedom is exercised by the users themselves, as each one might live an agenda and their needs can also take them to become creative, from sending suggestions to more deeper reflective experiences. Author Eric von Hippel, in Democratizing Innovation [^foonote_eric_von_hippel_democratizing_innovation], offers a great perspective about how users might become co-creators with producers. 
 
-[^foonote_eric_von_hippel_democratizing_innovation]: 
 
-Now, there are then the improvements within the realm, the hackers, and the ones that might reconsider the whole experience. Thus, we can assert about layers within the platform, and as humans as humans, they could be exposed to deeper reflections about the realities of all these layers that they be me acting in, or even the actual reflections for the ultimate layers which we decided to anchor ourselves in - such as the case of Albert Einstein.
 
-In the realm of innovative products or services, for example, the notion of category design, as indicated by Play Bigger author Christopher Lochhead [^footnote_play_bigger], exposes elements involved for then new categories of products and services are evident.
+
+<!--
+@outline 
+Answer 
+-->
+
+
+Now, if we want to explore the case of apparently sequel offerings, but yet be interested in understanding the entanglements with the future, we may consider that even what appears to be a commodity, like a cup of coffee, for instance, will face the challenging situation that it needs to sustain itself in that new future, if not by the building blocks or the resources necessary to deliver that cup of coffee in a bundled condition, or the how-to mechanics that may deliver with improved cost of production, or the ideas of delivering that product in different settings. As an example, we may consider the Nespresso machine that brought Nespresso experience to the houses of people. Nevertheless, these bundled experiences should carry on the interesting values that will show the entanglement with existing other values of the future of our resources that enable it to sustain itself. For instance, we may consider that a sandals business in the nowadays could sustain itself by carrying on what certain communities are interested in, for example, given that they might be interested in sustainability conditions or the means of productions that are environmental-friendly, to give an example. Another consideration in this is the notion of category design given by the authors of the book, Play Bigger [^footnote_play_bigger], and the consideration that category products may exist and be format given the characterizations of the platform that they create to a certain extent, or the message that they carry for a new world, such as the following quote that shows that the Bologna sandwich in Canada establishes itself as a category. It could be a simple case, but the phenomenon can be noted by considering other categories like the X, Y, and Z. And with that being said, it comes the recognition that some of these offerings, by exactly these ties with certain values of the future, might actually create the conditions for these companies to unfold themselves and create a whole series of other creations and to continue to do so what they're doing, necessarily. So, for instance, in alignment with the ideas of *Good to Great* [^footnote_jimcollins_good_to_great] by Jim Collins.
 
 [^footnote_play_bigger]: 
 
+[^footnote_jimcollins_good_to_great]: 
 
 
-<!-- 
-@outline @meta
-* @outline - Answer ca - Who owns the truth 
+Another example that should be considered here is that even a book may have that kind of power, sustainable. For instance, if we consider the Harry Potter case, it's apparently for some readers, not just yet another book, but for other crowds, it might have carried on to certain other readers. Another bad is that it's not even generally perceived by crowds outside, but it was recognized by, for instance, Caspar Turquoise in The Power of Rituals, that recognizes that Harry Potter, to a certain extent, competes with the function that in the past were provided by religion, like churches, should set an example.
+
+
+
+We may celebrate this understanding by considering the ideas that these creations essentially become to a certain extent tools and platforms enabling by the setting providing that people are doing their jobs by interacting with them and the better it is when this job can be done in ways that they do not only affect efficiently and effectively better but in ways that allows people to transcend themselves to better conditions in life and that's why we should celebrate the structured developments of Donald Miller as an example given by story brand that indicates that from the marketing perspective the messages the narrative should actually carry on not only the direct messages for what it's always but also the messages to other levels of importance like that transcends the immediate problem and access the ultimate jobs that are the transcending jobs that people are interested in such as the philosophical problems given by Robert Donald Miller in story brand.
+
+
+
+
+
+<!--
+@outline 
+answer complex 
 --> 
 
-#### Who owns the truth 
 
 
-Now, in the heated/cold space of one that lives the experience, it comes the considerations of experiencing that put us to reflect, go seek for truths, challenge the boundaries. When I had reflected about that my first trip as an Uber driver, I took me into writing an article because I considered that the platform could do something about something I saw, a need. Since I had an agenda for reusing the car radio to support my goal of watching talks, I had the opportunity to visualize that Uber-idle University idea. 
+Now, by having us consider this case, we may then move to the other more complex cases when actual platforms there are more visibly reveals the interactions with the community and the challenging considerations for these platforms to sustain themselves. In other words, this exploration expands the idea that the user is involved. In the end of the day, which is recognized by the work of Eric von Hippe in *User Innovation* [^footenote_ericvonhippel_userinnovation_2], that the user becomes the co-creator of many platforms. In any case where the platform of the producers doesn't allow that construction, users may just take the next step themselves eventually or other producers motivated by solving the needs for these users may do so, but nevertheless, platforms may exist enabling this co-creation process as Eric has recognized.
 
-Some of these extended experiences can be suggested by platforms too. Consider a Yoga program that guides its participants into the levels of reflections, adding value to the experience. Another example, which I learned from my partner, was a situation of a dance program referred as bio dance, where she has acknowledged that she has reached a level of reflective state about her experience, brought up meaning, as in philosophical reflections which were relevant to others as their dance experience involved a guided experienced with well designed exercises to put the participants in the right spot to reflect. Another example might happen in the situation of reading Harry Potter, as indicated by Kasper ter Kuile the author of The Power of Rituals. Kasper has indicated that the experience from reading Harry Potter has components that brings up a connection with the self, with truths, and life situations, such as to a point of people organize themselves to reflect and discuss about what they experience as they read. The point here to make is that certain experiences might more or less push us towards the reflective interactions about our direct needs vs. internal needs and reflectinve interactions might enable us to explore the limits of the experience too. 
-
-Robert McKee talks about truth and the necessity, for a storyteller, to bring out truth through stories. This same idea might be applicable to entrepreneurship because there is that idea that good ideas and solutions are liberating, that unbundle reality as we know it, and bundles a new reality.
-
-To illustrate the situation, consider the case of a school, referred by Maury Klein in Power Makers, that wrote a post indicating that if God wanted locomotives he would have made humans with locomotive faces. Which shows that whoever wanted to be against locomotives had their own believes about an underlying truth. Conversely, the promoters of locomotives had their own reasons, and values, to promote that as the future. 
-
-Another, anedoctal situation, more of the life in the kitchen, would be the situation that Marcio has identified of the advertisements of one popular convection oven. They would promote as able to fry things with no oil, which seemed great. But also another truth in it is that it would be the best when "frying" oily things
+[^footenote_ericvonhippel_userinnovation_2]: 
 
 
 
-Now, these considerations for entrepreneurs for minimally consider the reflections on living their identities as somebody, on a platform, for leaving too, for reflecting outside. These exercises of writing, enable us to break the flow, sort of to get out from the autopilot was of flowing, acting. Julia Cameron uses methods of writing, with her prompts through articles, as a means for guiding potential writers outside the zone of writers block. 
+
+One case to be considered goes back to the, as we have seen, the rise of Mozilla project and bringing the Firefox browser, if we recount the initial development, Mozilla project was the open source code that came from the Netscape code because Netscape were challenged by Microsoft during the browser wars by releasing the free internet browser which were proprietary, leading by the creative minds of people envisioning the future to position an open source response which certainly involved lots of courage which was possible to a certain extent as Netscape were bleeding very fast and the line from Jim Barksdale, the following quote, pretty much recognized the courageous movement but also the uncertainties.
+
+
+
+Now as Mozilla was, to a certain extent, free for a while, and given an incentive to start itself in a re-bundled condition, it only enabled those leaders to move on by having them established with those new values of the open source. At that point, a certain amount of knowledge existed already, for instance, that allowed Mozilla to make a connection between the community and the connection that revealed itself as a tremendous value in alignment with the hopes from Dean Barksdale, and where it enabled Mozilla to reach its fate by the actual involvement of the community in many layers, from the engineers working in the core of the browser product to the localization engineers that were translating the browser up to 48 different languages, including Klingon, if I'm not mistaken, Esperanto, and the wider community of people using the browser and connecting themselves with the further values. In other words, the setting of Mozilla as an internet browser, given the open source initial movement and the wider input of a community that believed in openness, led Mozilla to grow as a strong product. And also because Mozilla had developed themselves the means of interaction and collaboration like Bugzilla. As an aside, I recall the days when we sort of realized that Bugzilla were one of the most impactful, bundled creations of Mozilla that nobody knew to a certain extent because many organizations wouldn't reveal that they were using Bugzilla internally. But they were, like NASA and other organizations across the world.
+
+
+
+Another case that deserves attention, it's explained in the Blitzscaling lectures, is the growth of LinkedIn. Although LinkedIn founders were well connected in Silicon Valley, the team yet went through challenges because of social networks were in the beginning and it wasn't 100% clear how the sustainable and stable conditions for these networks would reach the point of stability or the sweet spot and this is recognized as the founders of LinkedIn recognized their story and challenges such as when they were a one of recognize themselves as one of the social networks for professionals and that some of their competition wanted to get money first and they realized that the point of stability for them had to do with the growth and at least to a point of having entirely the United States territory established so that the network would have enough value to to enable for instance major companies to be offering jobs and to hire people so in other words it goes back to the challenging situation where you're looking to the future to see to define your strategy to get there.
+
+
+[^footnote_bliztscaling_linkedin_blue_allen]: 
+
+
+
+
+
+
+
+
 
