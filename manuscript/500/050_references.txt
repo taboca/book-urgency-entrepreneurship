@@ -141,7 +141,9 @@ Dearing, M. (2015, October 8). Blitzscaling 03: Michael Dearing on Capitalism, C
 
 Johnson, S. (2010, September 21). Where good ideas come from [Video]. TED. https://www.youtube.com/watch?v=0af00UcTO-c
 
-FastClip. (13/09/2015). Exposição Universal de 1876 nos EUA. Retirado de https://www.fastclip.net/Taboca/dupg0
+<!-- dup --> 
+Blank, S. (2021, November 4). How to Find a Market? Use Jobs-To-Be-Done as the Front End of Customer Discovery. Steve Blank. https://steveblank.com/2021/11/04/market-definition-its-the-front-end-of-customer-discovery/
+
 
 
 <!-- 
