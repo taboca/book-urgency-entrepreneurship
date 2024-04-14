@@ -810,11 +810,30 @@ In other words, the setting of Mozilla as an internet browser, given the open so
 
 
 
-Another case that deserves attention, it's explained in the Blitzscaling lectures, is the growth of LinkedIn. Although LinkedIn founders were well connected in Silicon Valley, the team yet went through challenges because of social networks were in the beginning and it wasn't 100% clear how the sustainable and stable conditions for these networks would reach the point of stability or the sweet spot and this is recognized as the founders of LinkedIn recognized their story and challenges such as when they were a one of recognize themselves as one of the social networks for professionals and that some of their competition wanted to get money first and they realized that the point of stability for them had to do with the growth and at least to a point of having entirely the United States territory established so that the network would have enough value to to enable for instance major companies to be offering jobs and to hire people so in other words it goes back to the challenging situation where you're looking to the future to see to define your strategy to get there.
+Another illustration of a platform seeking its position of stability is given by the Blitzscaling lectures and reveals how serious and strategic is the managerial work that ha supported LinkedIn to grow. Although today is easy to see Linkedin as a social network for our professional identity, it wasn't entirely clear when they launched in 2003. Sure, they had a direction such as to be a social network for the professional identity but yet it wasn't entirely clear the ways to achieve a stable condition that would sustain their growth as valuable network or to get to its full potential. What were particulatly challenging in the case of platforms is that what appears to be a shortest path of growth may not really be the right strategy. Allen Blue, one of the the Linkedin cofounders, gave a great picture of how challenging things were as they were essentially in a "race to scale," but one that required lots of strategic thinking. In restrospect, he suggested that some of the original Linkedin competitors failed because they moved quickly to launch advanced features or to monetize while they had identified that they had to focus on other aspects enabling the value of the network "before they actually had effective value to sell." 
 
 
-[^footnote_bliztscaling_linkedin_blue_allen]: 
+Another illustration of a platform seeking its position of stability is given by the Blitzscaling lectures and reveals how serious and strategic is the managerial work that has supported LinkedIn to grow. Although today it is easy to see LinkedIn as a social network for our professional identity, it wasn't entirely clear when they launched in 2003. Sure, they had a direction such as to be a social network for the professional identity, but to know the stable condition that would sustain growth for the network through value was another mather. Thus, they faced a particular challenge which is quite evident in the case of social and highly interactive platforms which is that what appears to be the shortest path to get there may not be the best strategy. Allen Blue, one of the LinkedIn cofounders, gave a great picture of that situation where Linkedin and other competitors were in a "race to scale," but one that required lots of strategic thinking. In retrospect, he suggested that some of their competitors had failed because they moved quickly to launch advanced features or to monetize while Linkedin leadership had engaged in a serious work to identify what were the main thing to focus in order for them to achieve true value of the network "before they actually had effective value to sell" (Greylock, 2015).
 
+
+<!--
+@quote ref 
+> *"When we launched LinkedIn, within two or three months, there were three other competitive products, all of which were heading for the same space, which entered the market during that time. ... they were all tiny little companies that were trying to build product market fit. ... It's a race to scale and the reason that it actually worked out for us and it didn't work out for them is because we took this very seriously. ... [while] They moved very quickly to advanced features and they moved very quickly to 'how do I monetize this?' Without actually locking in the market share necessary to make the thing successful. So they were trying to build features on top of and try to sell the product before they actually had effective value to sell. And that meant we got to continue to concentrate on growth ... to move on"* (Allen Blue in Greylock, 2015, 9:53).
+-->
+
+<!--
+@references 
+* reference - Greylock. (2015, October 13). Blitzscaling 05: John Lilly on Leveraging Community to Scale Mozilla [Video]. YouTube. https://www.youtube.com/watch?v=Fm7mN9ERp4o
+--> 
+
+The point given is, therefore, that the exercise is challenging, especially in the beginning when the the various potentials are being considered by the community is not there yet making it real. For Allen, it was challengin that Linkedin didn't have yet a feedback loop in place exactly telling them; which required them to trust and to reflect and to think through seriously likely outside some of the basic pressures such as to make money now. Consider Allen's note about the potential value versus the reality preventing the value be exercised: 
+
+> *"You know what, we had potential product market fit. Yeah, because we had identified, for instance, recruiters are a great example. Recruiters absolutely loved the concept of the product, but the problem is when they went and searched, the search base was too small. But the product market fit was actually there, but only with those specific people who could envision what it would be like when we had a ton of people on the network"* (Allen Blue in Greylock, 2015, 14:40).
+
+<!--
+@references 
+* reference - Greylock. (2015, October 13). Blitzscaling 05: John Lilly on Leveraging Community to Scale Mozilla [Video]. YouTube. https://www.youtube.com/watch?v=Fm7mN9ERp4o
+--> 
 
 
 
