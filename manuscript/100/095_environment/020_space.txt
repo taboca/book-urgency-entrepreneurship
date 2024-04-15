@@ -812,9 +812,15 @@ In other words, the mechanism that make us to enjoy a great classic story is the
 
 
 
-In alignment with the thoughts from Storybrand, another enlightening development from the world of marketing is brought by the authors of Play Bigger (2016), as they elaborate the notion of *Category Design* which consists of a reframing of problems where a new narrative not only recognizes a significant problem - or a set of problems - but is brought in ways that the audience recognizes it as unique - as a category - in new ways of thinking about the problem as in to where the solution and narrative is a pathway to how the world could look like. A key aspect, for any entrepreneurial effort that consider these ideas, is to consider how the development of a vision - for a brand and a product and the lives of the users being guided by them - may also set the team in a direction being less arbitrary and driven by these aspirations. In other words, solving the equation helps the world and the users and the team. Likewise, not an easy job to achive the level of clarity. 
+In alignment with the thoughts from Storybrand, another enlightening development from the world of marketing is brought by the authors of Play Bigger (2016), as they elaborate the notion of *Category Design* which consists of a reframing of problems where a new narrative not only recognizes a significant problem - or a set of problems - but is brought in ways that the audience recognizes it as unique - as a category - in new ways of thinking about the problem as in to where the solution and narrative is a pathway to how the world could look like. This way of thinking help us too to understand great solutions like Uber and Apple's music player the iPod. If we go back to what *Jobs To Be Done* had given to us about the Ipod case, we may recall that it had acessed the job of listening to music but spanning through multiple job steps - not only one or other job steps within the job - such as to solve the ways to prepare, to organize, to play / execute, to monitor, and more. Thus, it is a case when a technological advancement forms a solid message to users; because we remember more clear when we "hire" a solution that solves a job by a new pathway that is much simple. 
 
 
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Space - Check quote from Play Bigger and page - @meta-refid 1222-2323-3332-6574 
+--> 
+
+> *"A POV has to shift people’s minds so they reject an old way of thinking and come to believe in something new. It has to reach people on an emotional level. No one remembers what you say—but they remember how you made them feel. That feeling can be excitement about something that’s coming, or fear of missing out. Some of the best POVs make people think: “Oh fuck, I don’t have one of those! I have to get one of those!” To reach people’s emotions, a POV has to sound the way people talk. It has to be simple, direct, visceral. Language matters."* (Ramadan et al., 2016, p. XX)
 
 
 <!--
@@ -822,6 +828,7 @@ In alignment with the thoughts from Storybrand, another enlightening development
 * reference - Ramadan, A., Peterson, D., Lochhead, C., & Maney, K. (2016). Play Bigger: How Pirates, Dreamers, and Innovators Create and Dominate Markets. Harper Business.
 --> 
 
+Another key aspect, for any entrepreneurial effort that consider these ideas, is to consider how the development of a vision - for a brand and a product and the lives of the users being guided by them - may also set the team in a direction being less arbitrary and driven by these aspirations. In other words, solving the equation helps not only the world and the users and also the team to move on. Likewise, not an easy job to achive the level of clarity. 
 
 
 
@@ -836,7 +843,11 @@ In alignment with the thoughts from Storybrand, another enlightening development
 
 
 
-Another example that should be considered here is that even a book may have that kind of power, sustainable. For instance, if we consider the Harry Potter case, it's apparently for some readers, not just yet another book, but for other crowds, it might have carried on to certain other readers. Another bad is that it's not even generally perceived by crowds outside, but it was recognized by, for instance, Caspar Turquoise in The Power of Rituals, that recognizes that Harry Potter, to a certain extent, competes with the function that in the past were provided by religion, like churches, should set an example.
+
+
+
+
+Another example that should be considered here is that even a book may have that kind of power, sustainable. For instance, if we consider the Harry Potter case, it's apparently for some readers, not just yet another book, but for other crowds, it might have carried on to certain other readers. Another bad is that it's not even generally perceived by crowds outside, but it was recognized by, for instance, Casper Ter Kuile in The Power of Rituals, that recognizes that Harry Potter, to a certain extent, competes with the function that in the past were provided by religion, like churches, should set an example.
 
 
 
