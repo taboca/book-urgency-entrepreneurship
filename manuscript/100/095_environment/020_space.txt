@@ -164,9 +164,8 @@ Moving forward to 2008, an iPhone app known as Taxi Magic was becoming popular i
 
 Now that history shows that Uber survived, and given that many riders don't even know the world as it were before, can be challenging for us to see how these founders were struggling at the time. According to Brad Stone, these were philosophicaly differences. For Taxi Magic leadership, a particular moment had challenged them to reconsider their views, when Bill Gurley - the renowed partner of Benchmark Capital later to be known as the major investor in Uber - had engaged in what was referred as "a prolonged courtship" (Stone, B., 2017, p. 71) that culminated in an offer of $8 million in investment [^footnote_bradstone_investment_uber] which was declined. 
 
-In an interview given to Brad Stone, DePaschoale the then-chairman Taxi Magic, had recognized that "Uber made a risky bet that has paid off unbelievably." DePaschoale had given to us the feeling of how the perspective is felt when you are there, in the road, in front of cross-roads, where you can't embrace all and have to take a path. 
-
 [^footnote_bradstone_investment_uber]: According to Brad Stone, the conversations between Taxi Magic and Bill Gurley of Benchmark Capital, had eventually arrived at an verbal offer from Bill Gurley, who proposed an $8 million investment at a $32 million valuation (Stone, B., 2017, p. 71).
+
 
 <!--
 @references 
@@ -178,13 +177,26 @@ In an interview given to Brad Stone, DePaschoale the then-chairman Taxi Magic, h
 * @reference - Stone, B. (2017). The Upstarts: How Uber, Airbnb, and the Killer Companies of the New Silicon Valley Are Changing the World. Little, Brown and Company.
 -->
 
+
+
+
 <!--
-@meta @todo 
+@meta @todo #next 
 * @todo - p2 (Done) - In Space - #bradfelddup - Bring the quote from Up Starts of Brad Feld, from the executive that said no to the Silicon Valley VC company Benchmark and had acknowledged that he were following a potential track. @meta-refid 1222-3322-3344-5555 
 -->
 
+<!--
+@meta @todo/edit/decide 
+* @todo/edit/decide - p2 ( ) - In Space / Bridging Spaces - According to Jordan Peterson it makes sense to compare ways of putting the prose. We have option A and B. Option A "In an interview given to Brad Stone, DePaschoale the then-chairman Taxi Magic, had recognized that "Uber made a risky bet that has paid off unbelievably." DePaschoale had given to us the feeling of how the perspective is felt when you are there, in the road, in front of cross-roads, where you can't embrace all and have to take a path. But given that an experienced person like De Pasquale, that were actually involved in the business that had achieved a certain level of maturity, to even use the word bet, it reveals not only the multiple potential bets in place, but that these were in fact different strategies or perspectives, as in theses, more than anything related with gambling. In other words, his phrasing that reveals a certain degree of humility, is not enough to hide the well-informed characteristizations of their strategies." And option B is "In an interview with the chairman of Taxi Magic, De Pasquale, his recognition that Uber made a risky bet that has paid off unbelievably, had much less to do with innocence or lack of professionalism and more in terms of revealing the size of the challenge they were onto. Given the experience of a professional like De Pasquale, quite involved in that business that had reached to a certain extent a level of maturity, to even use the word bet is more to do with the humbling spirit that went along the more these leaders get into the growth potential in a space where uncertainty is maintained at the proportion of the potential they unleash." / @meta-refid 1223-3321-2323-3344
+--> 
 
-But given that an experienced person like De Pasquale, that were actually involved in the business that had achieved a certain level of maturity, to even use the word bet, it reveals not only the multiple potential bets in place, but that these were in fact different strategies or perspectives, as in theses, more than anything related with gambling. In other words, his phrasing that reveals a certain degree of humility, is not enough to hide the well-informed characteristizations of their strategies. And that brings us to the revelation of other aspects in the struggle between the more incremental approach, which is playing by the rules, or the more disruptive approach, to provoke the space, or even the possibility of a strategy that shifts from one to the other, as in to unleash the disruptive after what seems to be the incremental; which may be particularly recognized when Bill Gurley approached De Pasquale as part of the inclinations for investments, and had advised De Pasquale to step away, initially from the taxi and yellow cabs, positioning the service as similar to limo cars instead, deferring the full potential for other chapter. As we know from the history of Uber - the team that end-up receiving the investment of Bill Gurley and Benchmark Capital - they actually started in the limo space, or black cars, but eventually took over and impacted the space of the general taxi experience.
+In an interview given to Brad Stone, DePaschoale the then-chairman Taxi Magic, had recognized that "Uber made a risky bet that has paid off unbelievably." DePaschoale had given to us the feeling of how the perspective is felt when you are there, in the road, in front of cross-roads, where you can't embrace all and have to take a path. But given that an experienced person like De Pasquale, that were actually involved in the business that had achieved a certain level of maturity, to even use the word bet, it reveals not only the multiple potential bets in place, but that these were in fact different strategies or perspectives, as in theses, more than anything related with gambling. In other words, his phrasing that reveals a certain degree of humility, is not enough to hide the well-informed characteristizations of their strategies. 
+
+
+
+
+
+And that brings us to the revelation of other aspects in the struggle between the more incremental approach, which is playing by the rules, or the more disruptive approach, to provoke the space, or even the possibility of a strategy that shifts from one to the other, as in to unleash the disruptive after what seems to be the incremental; which may be particularly recognized when Bill Gurley approached De Pasquale as part of the inclinations for investments, and had advised De Pasquale to step away, initially from the taxi and yellow cabs, positioning the service as similar to limo cars instead, deferring the full potential for other chapter. As we know from the history of Uber - the team that end-up receiving the investment of Bill Gurley and Benchmark Capital - they actually started in the limo space, or black cars, but eventually took over and impacted the space of the general taxi experience.
 
 That situation that appears to be a crossroad is essentially a revelation that, to a certain extent, they have to decide which way to take. In other words, that what they need to deliver to the target space is something that needs to be built. Something that is tangible, coherent, marketable, and understood by people, and likewise by the competition or anyone else that objects. That new thing in the space. If that's not enough of a challenge, it brings us to the challenges and concerns of the modern business world and the dynamic environment of entrepreneurship, where they are challenged to consider that they do bundle things and unbundle. Not in the sense that they are able to quickly refactor the entire organization, but in essence that that consideration of refactoring anything thought is more relevant as the world becomes more dynamic. In other words, that if anything bundled has ties with other spaces, unbundling reveals the reconsideration of these ties and the dynamic nature of these spaces.
 
@@ -546,7 +558,9 @@ On the other hand, it is yet challenging because if we dig too far things may re
 --> 
 
 
-The message from Michael and the further considerations are reminders about the importance of us to be in a sweet spot - a place that is meaningful for ourselves and that serves well to the both spaces, the sourcing space and the target space of users. Yet, another reason for us to be calmer and to be reflective as we are searching, or refining, or exploring the what to do. Moving forward in this direction, let us consider an annecdote about how any space can connect with with far too many needs and then settle ourselves to recognize the challengs for stability as we position between the sourcing world and the target space of users. 
+The message from Michael and the further considerations are reminders about the importance of us to be in a sweet spot - a place that is meaningful for ourselves and that serves well to the both spaces, the sourcing space and the target space of users. Yet, another reason for us to be calmer and to be reflective as we are searching, or refining, or exploring the what to do. 
+
+Moving forward in this direction, let us consider an annecdote about how any space can connect with with far too many needs and then settle ourselves to recognize the challengs for stability as we position between the sourcing world and the target space of users. 
 
 
 
@@ -733,11 +747,20 @@ Now and given that we have explored the space of the target, where the users are
 
 
 
-When we think about building blocks, we think about resources like the sand that can be transformed in diamonds or silicon, the immediate necessity arising from that idea is that there are other bridges that should exist to enable certain transformation to happen, so it would be the tractor that you need to take the sand from the ground or the transporting the sand to a different location to enrich any resources that you're taking, so that you can put in that process to make something valuable and this is where besides your own interest and creativity of ideas where money or the means for making these transformations are necessary and the logical role that we see there is characterized in the modern days as the role of the investors, for example the angel investors or venture capital investors are iconic for us because it is a way to understand the presence of that role, now the actual investors as we know it or we are used to it, it should be considered as a symbolic to a certain extent, so if we focus in the general characterizations of that it's really about having the support and the trust and the interest of that role to go with us giving us to a certain degree superpowers, so the early examples of this would be the Brown family in the US, the people that made Brown University according to Michael Turing in an interview with Reed Hoffman, where no concept of investors exists exactly, but they were certainly the ones supporting the first production mill in the United States according to the interview. The other element that is important to this consideration about this role of investors is that they are essentially the bridge between the old and the new in a way that they somehow were part of the old and want to be part of the new, so they represent the connection or the transition given that they want to be around and they were able to raise the resources that are the superpowers enabling this new creative mind to actually do it in the first place, so in the example the Brown families they actually had slaves, but given the circumstances of changing of the world, of the world through the industrial revolution, they essentially were creatively destroying themselves, enabling themselves to be alive in perhaps the new setting.
+<!--
+#review 
+--> 
+
+When we think about building blocks, we think about resources like the sand that can be transformed in diamonds or silicon, the immediate necessity arising from that idea is that there are other bridges that should exist to enable certain transformation to happen, so it would be the tractor that you need to take the sand from the ground or the transporting the sand to a different location to enrich any resources that you're taking, so that you can put in that process to make something valuable and this is where besides your own interest and creativity of ideas where money or the means for making these transformations are necessary and the logical role that we see there is characterized in the modern days as the role of the investors, for example the angel investors or venture capital investors are iconic for us because it is a way to understand the presence of that role, now the actual investors as we know it or we are used to it, it should be considered as a symbolic to a certain extent, so if we focus in the general characterizations of that it's really about having the support and the trust and the interest of that role to go with us giving us to a certain degree superpowers, so the early examples of this would be the Brown family in the US, the people that made Brown University according to Michael Turing in an interview with Reid Hoffman, where no concept of investors exists exactly, but they were certainly the ones supporting the first production mill in the United States according to the interview. The other element that is important to this consideration about this role of investors is that they are essentially the bridge between the old and the new in a way that they somehow were part of the old and want to be part of the new, so they represent the connection or the transition given that they want to be around and they were able to raise the resources that are the superpowers enabling this new creative mind to actually do it in the first place, so in the example the Brown families they actually had slaves, but given the circumstances of changing of the world, of the world through the industrial revolution, they essentially were creatively destroying themselves, enabling themselves to be alive in perhaps the new setting.
 
 
 
-Therefore, and given that these stakeholders are in it to be prior to a transformation from the old to the new, no matter if they're joined the party just to make money, which is the case of some investors, or to be in a vote more seriously because they believe in a transformation, or even to be users themselves, it really doesn't matter. But what matters is as well that because the transformation depends on the old to achieve the new, they essentially provide the supporting role for linking or bridging to other resources existing in space to make that reality possible. In other words, they aggregate more superpowers or bridging other building blocks, expanding the ties, which sets them to be concerned if these ties are going to be strong enough to hold themselves and therefore to hold the actual target interest bridge. As an example, if we go back to the case of Bill Gullery of Benchmark Capital, in the situation when he asked the entrepreneurs to step back from the yellow cabs and to focus on the black cars, essentially it reveals the interest of, on one hand, to be involved in the process of creative destruction, on the other hand, to be involved in what gives the world creative to what could be the destruction, which is essentially, in a way, a friendly way to make that transformation possible.
+
+
+
+Therefore, and given that these stakeholders are in it to be prior to a transformation from the old to the new, no matter if they're joined the party just to make money, which is the case of some investors, or to be in a vote more seriously because they believe in a transformation, or even to be users themselves, it really doesn't matter. But what matters is as well that because the transformation depends on the old to achieve the new, they essentially provide the supporting role for linking or bridging to other resources existing in space to make that reality possible. 
+
+In other words, they aggregate more superpowers or bridging other building blocks, expanding the ties, which sets them to be concerned if these ties are going to be strong enough to hold themselves and therefore to hold the actual target interest bridge.  As an example, if we go back to the case of Bill Gullery of Benchmark Capital, in the situation when he asked the entrepreneurs to step back from the yellow cabs and to focus on the black cars, essentially it reveals the interest of, on one hand, to be involved in the process of creative destruction, on the other hand, to be involved in what gives the world creative to what could be the destruction, which is essentially, in a way, a friendly way to make that transformation possible.
 
 
 
@@ -753,22 +776,80 @@ To answer this equation involves the question if what's being proposed Can be bu
 
 <!--
 @outline 
-Answer 
+Answer - simple things transcends too 
 -->
 
 
-Now, if we want to explore the case of apparently sequel offerings, but yet be interested in understanding the entanglements with the future, we may consider that even what appears to be a commodity, like a cup of coffee, for instance, will face the challenging situation that it needs to sustain itself in that new future, if not by the building blocks or the resources necessary to deliver that cup of coffee in a bundled condition, or the how-to mechanics that may deliver with improved cost of production, or the ideas of delivering that product in different settings. As an example, we may consider the Nespresso machine that brought Nespresso experience to the houses of people. Nevertheless, these bundled experiences should carry on the interesting values that will show the entanglement with existing other values of the future of our resources that enable it to sustain itself. For instance, we may consider that a sandals business in the nowadays could sustain itself by carrying on what certain communities are interested in, for example, given that they might be interested in sustainability conditions or the means of productions that are environmental-friendly, to give an example. Another consideration in this is the notion of category design given by the authors of the book, Play Bigger [^footnote_play_bigger], and the consideration that category products may exist and be format given the characterizations of the platform that they create to a certain extent, or the message that they carry for a new world, such as the following quote that shows that the Bologna sandwich in Canada establishes itself as a category. It could be a simple case, but the phenomenon can be noted by considering other categories like the X, Y, and Z. And with that being said, it comes the recognition that some of these offerings, by exactly these ties with certain values of the future, might actually create the conditions for these companies to unfold themselves and create a whole series of other creations and to continue to do so what they're doing, necessarily. So, for instance, in alignment with the ideas of *Good to Great* [^footnote_jimcollins_good_to_great] by Jim Collins.
+Now, if we want to explore the case of apparently simple solutions, but yet be interested in understanding the entanglements that developes a future, we may consider that even what appears to be a commodity, like a cup of coffee for instance, is essentially subject or entangled with its purpose or significance with the external world and to the new future. In other words, besides the necessary building blocks like the necessity for grains to be planted an a mechanics to get things done, what exists in the world connects and reveals value that as users interact with it and perceive the meaning of it in the realm of what they do.As an example, consider how the Nespresso machine had set coffee drikers to experience the expresso experience in new places, like within their houses.
+
+
+
+
+
+If we expand on this idea that all bundled experiences carry value, we need to recognize the mechanism enabling pelple tosee people see through from after the fact that they are using, or interacting with these apparently simple things; like when a sandal business of the nowadays carry connections with a future that certain communities are interested in - for example to help a more environmentally friendly world. 
+
+
+Looking at this picture take us to consider that the world of *Marketing* have the pieces to complete the puzzle; but I rather for a moment ask us to not jump so fast into thinking of the outcomes produced by marketing. Indeed, that it carries the power to make a solution to fit into the hands of people, is an outcome of it that sometimes make us miss the fundamental elements of what it essentially does for us. Thus, we shall step back from the perspectives of what appears to be the exploitation that is perceived by the actual powerful merits and fundamental aspects that the world of marketing - and advertising - had brought to us. 
+
+From the many good perspectives, the work of Donald Miller is one of a kind that certainly takes even one that hates marketing to listen to it, as it cracked the code as for how people get involved with the means to their end is by watching stories in the first place and moreover involves our identification with the heroes that are in it solving their immediate problems so that they can reach out to a better situation in the future. In *Building a StoryBrand: Clarifying Your Messages So Customers Will Listen*,  Donald miller breaks down many aspects from the great stories that reveals the mechanism we use before we decide to get involved with anything that may help us. 
+
+A key aspect is that we identify ourselves with the protagonists, the heroes, as we follow through that their immediate problems (the challenges or complications ahead of them) are actual problems on the way of their internal problems which are essentially on the way of the destination they aspire, the better place they want to be. The simplified structure breakdown ofo Storybrand refers as External Problems, Internal Problems and Philosophical problems: 
+
+> *"When these three levels of problems are solved in one shot, the audience experiences a sense of pleasure and relief, causing them to love the story." (Miller, D., 2017, p. 69)
+
+<!-- 
+@meta @todo 
+* @todo - p2 ( ) - In Space - Check page of the quote from Donald Miller, and book date. @meta-refid 1222-3332-2323-3444
+--> 
+
+In other words, the mechanism that make us to enjoy a great classic story is the very mechanism that we use to enjoy and pick anything - from stories or advices or methods tools and you name it. Or, that our interest to "hire" solutions to get a job done is a response from when we get the message that solves the equation: if I were the protagonist to pick that solution, does that help me to solve the direct immediate problem ahead? And does that take me in the direction of solving other goals we aspire? 
+
+<!--
+@meta @reference 
+* reference - Miller, D. (2017). Building a StoryBrand: Clarify Your Message So Customers Will Listen. HarperCollins Leadership.
+-->
+
+
+
+
+
+
+
+
+
+
+Another consideration in this is the notion of category design given by the authors of the book, Play Bigger [^footnote_play_bigger], and the consideration that category products may exist and be format given the characterizations of the platform that they create to a certain extent, or the message that they carry for a new world, such as the following quote that shows that the Bologna sandwich in Canada establishes itself as a category. It could be a simple case, but the phenomenon can be noted by considering other categories like the X, Y, and Z. And with that being said, it comes the recognition that some of these offerings, by exactly these ties with certain values of the future, might actually create the conditions for these companies to unfold themselves and create a whole series of other creations and to continue to do so what they're doing, necessarily. 
 
 [^footnote_play_bigger]: 
 
-[^footnote_jimcollins_good_to_great]: 
+
+
+
+
+
+
+
+
 
 
 Another example that should be considered here is that even a book may have that kind of power, sustainable. For instance, if we consider the Harry Potter case, it's apparently for some readers, not just yet another book, but for other crowds, it might have carried on to certain other readers. Another bad is that it's not even generally perceived by crowds outside, but it was recognized by, for instance, Caspar Turquoise in The Power of Rituals, that recognizes that Harry Potter, to a certain extent, competes with the function that in the past were provided by religion, like churches, should set an example.
 
 
 
-We may celebrate this understanding by considering the ideas that these creations essentially become to a certain extent tools and platforms enabling by the setting providing that people are doing their jobs by interacting with them and the better it is when this job can be done in ways that they do not only affect efficiently and effectively better but in ways that allows people to transcend themselves to better conditions in life and that's why we should celebrate the structured developments of Donald Miller as an example given by story brand that indicates that from the marketing perspective the messages the narrative should actually carry on not only the direct messages for what it's always but also the messages to other levels of importance like that transcends the immediate problem and access the ultimate jobs that are the transcending jobs that people are interested in such as the philosophical problems given by Robert Donald Miller in story brand.
+
+
+
+
+
+
+
+
+So, for instance, in alignment with the ideas of *Good to Great* [^footnote_jimcollins_good_to_great] by Jim Collins.
+
+[^footnote_jimcollins_good_to_great]: 
+
+
+
 
 
 
@@ -826,7 +907,7 @@ Another illustration of a platform seeking its position of stability is given by
 * reference - Greylock. (2015, October 13). Blitzscaling 05: John Lilly on Leveraging Community to Scale Mozilla [Video]. YouTube. https://www.youtube.com/watch?v=Fm7mN9ERp4o
 --> 
 
-The point given is, therefore, that the exercise is challenging, especially in the beginning when the the various potentials are being considered by the community is not there yet making it real. For Allen, it was challengin that Linkedin didn't have yet a feedback loop in place exactly telling them; which required them to trust and to reflect and to think through seriously likely outside some of the basic pressures such as to make money now. Consider Allen's note about the potential value versus the reality preventing the value be exercised: 
+The point given is, therefore, that the exercise is challenging, especially in the beginning when the the various potentials are being considered by the community is not there yet making it real. For Allen, it was challengin that Linkedin didn't have yet a feedback loop in place exactly telling them; which required them to trust and to reflect and to think through seriously likely outside some of the basic pressures such as to make money now. Consider Allen's note their speculations about that space of a potential value - which he refers as product-market fit - given by the relationships with one of their potential customers - recruiters - but all of that provoking them to consider that something would need to be done - in their case growth across U.S. -  for that to potentially become real: 
 
 > *"You know what, we had potential product market fit. Yeah, because we had identified, for instance, recruiters are a great example. Recruiters absolutely loved the concept of the product, but the problem is when they went and searched, the search base was too small. But the product market fit was actually there, but only with those specific people who could envision what it would be like when we had a ton of people on the network"* (Allen Blue in Greylock, 2015, 14:40).
 
