@@ -893,10 +893,9 @@ In other words, the setting of Mozilla as an internet browser, given the open so
 
 
 
-Another illustration of a platform seeking its position of stability is given by the Blitzscaling lectures and reveals how serious and strategic is the managerial work that ha supported LinkedIn to grow. Although today is easy to see Linkedin as a social network for our professional identity, it wasn't entirely clear when they launched in 2003. Sure, they had a direction such as to be a social network for the professional identity but yet it wasn't entirely clear the ways to achieve a stable condition that would sustain their growth as valuable network or to get to its full potential. What were particulatly challenging in the case of platforms is that what appears to be a shortest path of growth may not really be the right strategy. Allen Blue, one of the the Linkedin cofounders, gave a great picture of how challenging things were as they were essentially in a "race to scale," but one that required lots of strategic thinking. In restrospect, he suggested that some of the original Linkedin competitors failed because they moved quickly to launch advanced features or to monetize while they had identified that they had to focus on other aspects enabling the value of the network "before they actually had effective value to sell." 
 
 
-Another illustration of a platform seeking its position of stability is given by the Blitzscaling lectures and reveals how serious and strategic is the managerial work that has supported LinkedIn to grow. Although today it is easy to see LinkedIn as a social network for our professional identity, it wasn't entirely clear when they launched in 2003. Sure, they had a direction such as to be a social network for the professional identity, but to know the stable condition that would sustain growth for the network through value was another mather. Thus, they faced a particular challenge which is quite evident in the case of social and highly interactive platforms which is that what appears to be the shortest path to get there may not be the best strategy. Allen Blue, one of the LinkedIn cofounders, gave a great picture of that situation where Linkedin and other competitors were in a "race to scale," but one that required lots of strategic thinking. In retrospect, he suggested that some of their competitors had failed because they moved quickly to launch advanced features or to monetize while Linkedin leadership had engaged in a serious work to identify what were the main thing to focus in order for them to achieve true value of the network "before they actually had effective value to sell" (Greylock, 2015).
+Another illustration for the challenges of building a platform and how serious and strategic should be the managerial work is recounted by the founders of LinkedIn. Although today it is easy to see LinkedIn as a social network for our professional identity, it wasn't entirely clear when they launched in 2003. Sure, they had a direction such as to be a social network for the professional identity, but to know the stable condition that would sustain growth for the network through value was another mather. Thus, they faced a particular challenge which is quite evident in the case of social and highly interactive platforms which is that what appears to be the shortest path to get there may not be the best strategy. Allen Blue, one of the LinkedIn cofounders, gave a great picture of that situation where Linkedin and other competitors were in a "race to scale," but one that required lots of strategic thinking. In retrospect, he suggested that some of their competitors had failed because they moved quickly to launch advanced features or to monetize while Linkedin leadership had engaged in a serious work to identify what were the main thing to focus in order for them to achieve true value of the network "before they actually had effective value to sell" (Greylock, 2015).
 
 
 <!--
@@ -919,9 +918,12 @@ The point given is, therefore, that the exercise is challenging, especially in t
 --> 
 
 
+Likewise, needless to say, they went further, they found the means, they had built the bridge across the U.S., they brought themselves to a sustainable condition where value were flowing through that bridge, adding value to more than one side, and also to the side of the investors, allowing them to continue to grow, and that linked them to transcend towards new challenges of growth in alignment with the Blitzscaling (2018) movement. 
 
-
-
+<!--
+@references 
+* reference - Hoffman, R., Yeh, C., & Gates, B. (2018). Blitzscaling: The lightning-fast path to building massively valuable companies. Crown Currency.
+--> 
 
 
 
