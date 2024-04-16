@@ -105,6 +105,7 @@ Kahneman, D., Sibony, O., & Sunstein, C. R. (2021). Noise: A flaw in human judgm
 100 / 120_space.txt 
 -->
 
+
 <!-- dup --> 
 Klein, Maury. (2009). The power makers: steam, electricity, and the men who invented modern America. Bloomsbury Press. First U.S. edition.
 
@@ -151,6 +152,8 @@ Greylock. (2015, October 13). Blitzscaling 05: John Lilly on Leveraging Communit
 Miller, D. (2017). Building a StoryBrand: Clarify Your Message So Customers Will Listen. HarperCollins Leadership.
 
 Ramadan, A., Peterson, D., Lochhead, C., & Maney, K. (2016). Play Bigger: How Pirates, Dreamers, and Innovators Create and Dominate Markets. Harper Business.
+
+Harrison, G., & Grosz, F. (2021). The Mutually Beneficial Trading Tree. Harrison Metal Press.
 
 
 <!-- 
