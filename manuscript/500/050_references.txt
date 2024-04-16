@@ -157,6 +157,9 @@ Harrison, G., & Grosz, F. (2021). The Mutually Beneficial Trading Tree. Harrison
 
 Hoffman, R., Yeh, C., & Gates, B. (2018). Blitzscaling: The lightning-fast path to building massively valuable companies. Crown Currency.
 
+<!-- dup  --> 
+
+Schumpeter, J. A. (2008). Capitalism, socialism, and democracy. Harper Perennial Modern Thought. (Original work published 1942)
 
 <!-- 
 
@@ -225,6 +228,7 @@ Klein, Maury. (2009). The power makers: steam, electricity, and the men who inve
 * 150_entrepreneurship_is_management_okr
 --> 
 
+<!-- dup  --> 
 Schumpeter, J. A. (2008). Capitalism, socialism, and democracy. Harper Perennial Modern Thought. (Original work published 1942)
 
 <!-- 
