@@ -815,7 +815,7 @@ Answer - simple things transcends too
 
 
 
-If our job is to find the message that mobilizes our parters in crime, we may well start from the space we came - where people are living their lives and getting their jobs done - as our partners know too that they are the ones to make the final call. If we visit a busy coffee shop, we can get a picture of how a coffee is hired to help a reader go through one thousand words in four minutes. Moreover, we know too that a thousand times more powerful than that picture is word of mouth - essentially the only thing that can keep that coffee shop alive. 
+If our job is to find the message that mobilizes our parters in crime, we may well start from the space we came - where people are living their lives and getting their jobs done - as our partners know too that they are the ones to make the final call. If we visit a busy coffee shop, we can get a picture of how a coffee is "hired" to help a reader go through one thousand words in four minutes. Moreover, we know too that a thousand times more powerful than that is word of mouth - essentially the main thing that keeps a coffee shop alive. 
 
 Now, by reflecting on the phenomenon of word of mouth - given by what appears to be intrinsic message carried by object carried by the subject - we shall recognize it as the birthplace of the world of advertising which together with the world of marketing took us to understand in great detail and value how the message carries the power to, in a holistic way, pitch all the parties involved. 
 
@@ -839,7 +839,23 @@ Now, by reflecting on the phenomenon of word of mouth - given by what appears to
 
 
 
-Thus, from the realm of the good things from marketing, the work of Donald Miller particularly cracks the code as for how people use things as a means to an end; and specifically how they grasp the message and buy-in to things by first watching stories in the first place. In *Building a StoryBrand: Clarifying Your Messages So Customers Will Listen*, Donald miller explains that the mechanism that make us value a great classic story is the very mechanism that we use to value anything that we choose to use, from stories or advices or methods or tools and you name it. In other words, that our decision to "hire" a solution to get a job done is a response as we get message that solves the equation where we see ourselves a protagonists in a position of a better story - comparing to where we are - given that the solution offered solves what in on our way. But even more special from the method is stories and the messages of brands need to address the problems in multiple level of abstractions where the actual problems on our ways is a link to our internal problems which are on the way of our destination we aspire, the better place we want to be. The simplified structure breakdown of Storybrand refers to these levels as External Problems, Internal Problems and Philosophical problems: 
+From the world of marketing, the work of Donald Miller cracks the code as for how our problem-solving mechanism for decision making about solutions essentially happens through the storytelling mechanism, and specifically where a typical classical story structure is the most efficient mechanism we use, as we essentially compare ourselves with a hero that aspires a happy end whereas a a problem prevents that from happening unless an action is taken with a help of something that guide them. The more elaborated version as indicated from *Building a StoryBrand: Clarifying Your Messages So Customers Will Listen* (2017) follows: 
+
+> *""* 
+
+<!-- 
+@meta @todo 
+* @todo - p2 ( ) - In Space - Bring a quote from Storybrand that shows the structure. @meta-refid 0122-3323-3444-5555.
+--> 
+
+<!--
+@meta @reference 
+* reference - Miller, D. (2017). Building a StoryBrand: Clarify Your Message So Customers Will Listen. HarperCollins Leadership.
+-->
+
+In other words, as our inherent mechanism tells from inside, we are not in any ways beings that jump to the fire and action in ways to test the outcomes as if we had many lives and able to redo it them again and again; but are beings living in a world where the world is spinning and the clock is ticking and our one life is all we have and where all a lot that we can do when it takes to being strategic starts with the reading and writing of stories before deciding if we shall be part of them or not, to put in practice and to the test, to walk the talk. 
+
+Moreover, the structure from stories, which by the way make us enjoy all sorts of stories from classical romantic to fiction as an example, boils down to the fact that any objective problem we have to solve on our way are in fact just abstract steps that need to be addressed so that we can achieve our higher objetives. From the lenses of Storybrand, from the perspective of stories, this perspective can be explored by the idenfification of the problems of the heroes from the specific problem to the more general:  
 
 > *"When these three levels of problems are solved in one shot, the audience experiences a sense of pleasure and relief, causing them to love the story."* (Miller, D., 2017, p. 69)
 
@@ -848,12 +864,13 @@ Thus, from the realm of the good things from marketing, the work of Donald Mille
 * @todo - p2 ( ) - In Space - Check page of the quote from Donald Miller, and book date. @meta-refid 1222-3332-2323-3444
 --> 
 
-In other words, the mechanism that make us to enjoy a great classic story is the very mechanism that we use to enjoy and pick anything - from stories or advices or methods tools and you name it. Or, that our interest to "hire" solutions to get a job done is a response from when we get the message that solves the equation: if I were the protagonist to pick that solution, does that help me to solve the direct immediate problem ahead? And does that take me in the direction of solving other goals we aspire? 
+Now and going back to our quest to access the message to our other audiences - the parties wen want to mobilize - this exploration about the levels of problems can be supportive exactly because the various levels of problems can help us to see through, to access a holistic message that reveals not only the strenght of a message for users but also let us correlate if that potential aspirational message can be well-received and supported by these partners we seek. 
 
-<!--
-@meta @reference 
-* reference - Miller, D. (2017). Building a StoryBrand: Clarify Your Message So Customers Will Listen. HarperCollins Leadership.
--->
+As an example, if we go back to the case of a hail-riding solution and imagine a story of a rider that is visiting multiple spots in a busy city area where parking is difficult. Say that her external problem consists of being able to pick a ride from anywhere easily, getting to destinations in an affordable way. By following the method, an internal problem cold be that she feels frustrated about the option of driving a car, such as after renting it, and being anxious to deal with the traffic and parking. As for the philosophical problem, she would likely appreciate a solution that not only addresses her primary concerns but also aligns with her expectations of a city — providing accessible and affordable transportation options that include carpooling capabilities. Now, if a solution is thought to only solve some internal problems, some other parties may not pay much attention. As an example, if a technological solution consists of calling a cab, traditional cab drivers may enjoy. But if, on the other hand, a technological solution explores too the further problems of the car volume and proposes that any car moving should essentially become a ride sharing solution, then now the discussion likely was expanded to many others as it will reach the attention of the traditional taxi drivers, the taxi industry players regulating it, the city development departments, and others. 
+
+
+
+
 
 
 
