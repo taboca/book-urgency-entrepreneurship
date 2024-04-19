@@ -1,7 +1,5 @@
 # Todo # 
 
-* @todo - p2 ( ) - In Space - Check on the metaphorical of "I think therefore I am... " @meta-refid 1222-2323-3342-4466 - Ref - In other words, anything that is built, that exists in the environment, and that is actively being used is what explains the "I think therefore I am .." exaclty because it requires them to be ".. using a tool," in the first place. 
-
 * @todo - p2 ( ) - In Space - Check if the Quote from Brian exists of his great great father sleeping at people's houses. @meta-refid 1222-3211-2233-3344
 
 * @todo - p2 ( ) - In Space - Check the story of the limo black cars with the Bradstone work. @meta-refid 2233-2233-3344-4444
@@ -381,6 +379,8 @@ https://chat.openai.com/share/b7eb16c5-4c18-4709-9220-bd2629f34a3d
 * Culture 
 
 ## Done
+
+* @todo - p2 (Done) - In Space - Check on the metaphorical of "I think therefore I am... " @meta-refid 1222-2323-3342-4466 - Ref - In other words, anything that is built, that exists in the environment, and that is actively being used is what explains the "I think therefore I am .." exaclty because it requires them to be ".. using a tool," in the first place. 
 
 * @todo - p2 (Done, taken out) - In Environment, Spaces, Bundled forcers - Consider the insight from Maury Klein for the unleash of innovation that had happened when the Bolton and Watt patents expired. Check the quote from 53-54 of The Power Makers: "versions of a railroad had been around since at least the 17th century to ease the hauling of coal and ore from mines. Railroads paved with stone were built. Around 1630, an Englishman named Belmont got the bright idea of replacing the stone with heavy planks. This gradually evolved into rails made first of wood and then of iron. By the late 18th century, the wheels running over these rails had flanges to improve their grip. The road of rails had become familiar at least to miners by the early 19th century, but it lacked a source of power beyond the horse. The steam engine was an obvious possibility. Work on it expanded rapidly after the 1800s when the Bolton and Watt patents expired. Across England, the continent, and the United States, men with a mechanical bent tinkered doggedly with versions of the steam engine, each one in search of a unique solution to whatever problem or challenge intrigued him. Some worked in the privacy of their own homes, others went into the business of building engines. Many of the men who had worked for Bolton and Watt took their expertise elsewhere or went into business for themselves. They soon realized, as did most of other builders, that the Watt low-pressure engine would not do for a land carriage because it simply could not generate enough power. Yet, strong fears remained about the dangers of high-pressure engines. As late as the 1820s, in England, the stationary steam engine was still considered a serious, even preferred alternative to the high-pressure engine for railroad motive power." 
 
