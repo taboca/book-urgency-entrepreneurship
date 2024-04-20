@@ -729,7 +729,7 @@ A conclusion for innovators goes back to a strategy for them to be able to be so
 
 <!-- 
 @outline @meta
-* @outline - Answer c - Joining parties and their forces in bundling 
+* @outline - Answer c - parties in sourcing - pitch - Joining parties and their forces in bundling 
 --> 
 
 ### Approaching the source space 
@@ -737,6 +737,11 @@ A conclusion for innovators goes back to a strategy for them to be able to be so
 
 
 
+<!-- 
+@outline @meta
+* @outline - Answer c - parties in sourcing - pitch - Joining parties and their forces in bundling 
+* @outline - Answer c - parties in sourcing - situation - The gap must go on; need forces; must play fair; 
+--> 
 
 
 Advancinng to the end of this chapter through this bridge, towards the place which we take things from, we should first recognize the weakeness of the metaphorical structure because of its circularity. In other words, even if a spaceship brings a new form of energy from an asteroid, only a mind in a hurry shall miss the point that the ship was *Made in Earth*. With that said, and to serve our own interests, we shall too celebrate its strenght because what entrepreneurs do is to essentially create a gap between the present and the future and furthermore working to close it, to build. In addition, we shall recognize that these knights are interested in answering the questions from the gatekeepers (for example investors) although sometimes they reframe the question in ways that catapults the investors away from the bridge. 
@@ -753,7 +758,19 @@ As we approach, we shall too carry other premisses which we took from that "targ
 
 
 
-So let us proceed by following this principle, walking towards the gates and be greeted by the roles that are generally seen as investors. As an example, venture capital investors that although are characterized long after the industrial revolution, its fundamental values existed before and reveals its function of the supporting role of the entrepreneurial function. This function that didn't exist before, and got to be comfortable in welcoming the entrepreneurial strangers, giving them superpowers, is likely an evolution of the collaborative potential where humans in the control of the power, like technological power of resources to unleash work, had enlightened themselves to understand that the future consisted in surrendering control and embracing creativity. The function, therefore, is right in the middle as it enables the creative new by the release of the old, what were the fruits of its success, such as money and other resources, had to be released enabling the new to enter the space, likely in a way that they are not vanished and can be part of that future.
+<!-- 
+@outline @meta
+* @outline - Answer c - parties in sourcing - pitch - Joining parties and their forces in bundling 
+* @outline - Answer c - parties in sourcing - situation - The gap must go on; need forces; must play fair; 
+* @outline - Answer c - parties in sourcing - situation - Investors hold the links; 
+--> 
+
+
+
+
+
+
+So let us then proceed towards the gates and be greeted by the roles that are generally seen the ones controlling the source for how to get things done, generally investors. Although venture capital investors emerged quite after the industrial revolution, its fundamental values had emerged as a supporting role to the entrepreneurial function. This function that didn't exist before, and got to be comfortable in welcoming the entrepreneurial strangers, giving them superpowers, is likely an evolution of the collaborative potential where humans in the control of the power, like technological power of resources to unleash work, had enlightened themselves to understand that the future consisted in surrendering control and embracing creativity. The function, therefore, is right in the middle as it enables the creative new by the release of the old, what were the fruits of its success, such as money and other resources, had to be released enabling the new to enter the space, likely in a way that they are not vanished and can be part of that future.
 
 An early example of that relationship, from long before venture capital existed, can be observed by the particular dynamics where the Brown family from the U.S. had enlightened themselves and their wealth by partnering with the creative-destructive genius of entrepreneurs and setting themselves as self-cleaning oven [^footnote_michaeldearing_selfcleaning] as opposed to be erased from the timeline of history as Michael Dearing had elaborated in the interview given to Reid Hoffman:  
 
@@ -773,6 +790,16 @@ An early example of that relationship, from long before venture capital existed,
 
 
 
+<!-- 
+@outline @meta
+* @outline - Answer c - parties in sourcing - pitch - Joining parties and their forces in bundling 
+* @outline - Answer c - parties in sourcing - situation - The gap must go on; need forces; must play fair; 
+* @outline - Answer c - parties in sourcing - situation - Investors hold the links; 
+* @outline - Answer c - parties in sourcing - situation - Investors are risk takers and risk analysis; 
+--> 
+
+
+
 
 
 Another component that investors carry on, which exactly comes from their position between the old and the new world, is that They regulate the release of the resources - not only from their own, but of the resources that are passed by the connections that they hold. Thus, they are the function that depends on other functions and show ties with currents given by the economic, social, and cultural layers. And furthermore, this perspective or activity is perceived as the risk analysis which characterizates them which where they essentially recognize the potential, in terms of its disruptive power, its acceptance, and to consider these forces in favor, or against; therefore, essentially are concerned for the pouring of resources in ways that the new can be sustainable in the long run. As an example, if we go back to the case of Bill Gurlley of Benchmark Capital, we shall highlight his concerns and suggested strategy for an investment starting with the black cars, like limo service, instead of facing straight the traditional "yellow cab" industry. Therefore, like this case reveals, investors carry on the role of being strategic thinkers about how anything can be built in a world where it depends on the world to survive. 
@@ -781,6 +808,22 @@ Another component that investors carry on, which exactly comes from their positi
 @meta @todo 
 * @todo - p2 ( ) - In Space - Check the story of the limo black cars with the Bradstone work. @meta-refid 1222-2233-3344-4444
 -->
+
+
+
+
+
+
+<!-- 
+@outline @meta
+* @outline - Answer c - parties in sourcing - pitch - Joining parties and their forces in bundling 
+* @outline - Answer c - parties in sourcing - situation - The gap must go on; need forces; must play fair; 
+* @outline - Answer c - parties in sourcing - situation - Investors hold the links; 
+* @outline - Answer c - parties in sourcing - situation - Investors are risk takers and risk analysis; 
+* @outline - Answer c - parties in sourcing - complication - A message must be sought by entrepreneurs; 
+--> 
+
+
 
 
 
@@ -814,10 +857,23 @@ Answer - simple things transcends too
 
 
 
-<!--
-@meta @outline 
-* @outline - 
+
+<!-- 
+@outline @meta
+
+* @outline - Answer c - parties in sourcing - pitch - Joining parties and their forces in bundling 
+* @outline - Answer c - parties in sourcing - situation - The gap must go on; need forces; must play fair; 
+* @outline - Answer c - parties in sourcing - situation - Investors hold the links; 
+* @outline - Answer c - parties in sourcing - situation - Investors are risk takers and risk analysis; 
+* @outline - Answer c - parties in sourcing - complication - A message must be sought by entrepreneurs; 
+
+* @outline - Answer c - parties in sourcing - a - pitch - Target job to entangled layers and their jobs, problems. 
+* @outline - Answer c - parties in sourcing - a - situation - Target message carries. 
+* @outline - Answer c - parties in sourcing - a - complication - Marketing can tell? 
+* @outline - Answer c - parties in sourcing - a - a - Storybrand  
+
 --> 
+
 
 
 
@@ -891,7 +947,6 @@ As an example, if we go back to the case of a hail-riding solution and imagine a
 
 
 
-Another example that should be considered here is that even a book may have that kind of power, sustainable. For instance, if we consider the Harry Potter case, it's apparently for some readers, not just yet another book, but for other crowds, it might have carried on to certain other readers. Another bad is that it's not even generally perceived by crowds outside, but it was recognized by, for instance, Casper Ter Kuile in The Power of Rituals, that recognizes that Harry Potter, to a certain extent, competes with the function that in the past were provided by religion, like churches, should set an example.
 
 
 
@@ -923,68 +978,55 @@ Another example that should be considered here is that even a book may have that
 
 
 
+<!-- 
+@outline @meta
 
+* @outline - Answer c - parties in sourcing - pitch - Joining parties and their forces in bundling 
+* @outline - Answer c - parties in sourcing - situation - The gap must go on; need forces; must play fair; 
+* @outline - Answer c - parties in sourcing - situation - Investors hold the links; 
+* @outline - Answer c - parties in sourcing - situation - Investors are risk takers and risk analysis; 
+* @outline - Answer c - parties in sourcing - complication - A message must be sought by entrepreneurs; 
+ * @outline - Answer c - parties in sourcing - Answer - (a) simple things or (b) complex things. 
 
+* @outline - Answer c - parties in sourcing - Answer a - all things simple carry a message by the usage.  
+*     Pitch - Target space is a source to navigate through entangled layers, by its message.  
+*     Situation - People hold the message, by the meaning of the means used, technological means. 
+*     Complication - Marketing world can be tricky but has given to us the understanding, from the message, to the transcending message, which explores the space. 
+*     Answer - The marketing work of Storybrand, had explored the structure from storytelling, exposing its 3 three level of problems that need to be addressed; which can take us to transcend and understand the meaning from the specific need to the transcending need, further giving us the pitch to to the parties. 
 
+* @outline - Answer c - parties in sourcing - b - pitch - 
+*     Pitch - The interaction of people further extends the meaning and its the birthplace of the complication and needs to change; phenomenon of User Innovation recognizes. 
+*     Situation - The innovation, impossible to be hold, will happen by the intense usage, especially in a world where the potential to collaborate is bigger; 
+*     Complication - Through the developments of platforms, the world of managent and entrepreneurs brought to us the challenges of enabling the ecosystem from within, like a sandbox, whcih also seem to have its own potential of reaching to saturation faster and the challenges or management. 
+*     Answer - Case of McAllum, Case of Mozilla, Case of Linkedin. 
 
-
-
-<!--
-@outline 
-answer complex 
 --> 
 
 
 
-#### The message from everything 
+#### Data, processing and flow 
 
 
 
-Now, by having us consider this case, we may then move to the other more complex cases when actual platforms there visibly reveals the interactions with the community and the challenging considerations for these platforms to sustain themselves. In other words, this exploration expands the idea that the user is involved. In the end of the day, which is recognized by the work of Eric von Hippe in *User Innovation* [^footenote_ericvonhippel_userinnovation_2], that the user becomes the co-creator of many platforms. In any case where the platform of the producers doesn't allow that construction, users may just take the next step themselves eventually or other producers motivated by solving the needs for these users may do so, but nevertheless, platforms may exist enabling this co-creation process as Eric has recognized.
+Now, having us considered the situations that things concrete carry a message - by the use that we make of them - we shall take ourselves to the consider the situations where a dynamics created by the environment acts on its own enviroment, as in refactors it, by the power of the interactions that it enables between users. 
+
+A complication in understanding this phenomenon is that by the time we started to work and figure what is going on when the user gets involved in innovation [^footenote_ericvonhippel_userinnovation_2] by becoming more evidently a co-creator of things, we happened to be witnessing the early cases of platforms enabling active levels of value exchange among users; which is again to reaffirm how we generally try to catch up with the theory after the first movement of disruptive innovation as I would guess does the job of cleaning the whiteboard. 
 
 [^footenote_ericvonhippel_userinnovation_2]: 
 
+But before we enter the space of active platforms, I shall state the possibility that the platform effect in intrinsic in all things created, even in a book as we know it. One example is Harry Potter which I didn't read but according to Casper ter Kuile in The Power of Rituals, it can be observed how communities are formed around which superficially one outsider may see it as a book club for discussions - and indeed the observation of interactions happen to appear like that - but essentially there are elements in it that are key fundamental pillars which according to Casper new networks are essentially allowing people to find themselves developing connections just like they used to get from the role of religious groups like churchs: 
+
+> *""* 
 
 
+Now the point from Casper may well suggest that institutions, like churches, were the early examples of platforms for people to interact with tools among themselves, to collaborate, and to transcend too; although logically all platforms have their own limits and potential point of saturation. One other implication from the abstraction elements taken from these community platforms - if you will - is that, as reported by Casper, we happened to be exercising competing with these platforms by many interactions we are creating in the digital and interactive world, although it may be confusing likely because of the technolgical barriers that unless you are within the community one can't get it what goes on and could even dismiss what is happening as irrelevant. But the point is that if Harry Potter can compete with the platform equivalent of a church of the old days when too many platforms are exercising the conditions and the interaction dynamics enabling users to get together and create rich experiences from it. 
 
 
+Now a slight complication to get what goes on with the rise of interactive platforms is exactly that value creation can be captured from the platform too and that in many situations the entrepreneurs themselves, or the other parties involved such as the ones that have a stake in the whole system, may not get exaclty the potential and or might be trapped themselves by forces of the environment thus being unable, or not interested, in enablig certain values. To be clear, by value creation we may consider a simple example that a church can launch an event in the network and make a call and pass a hat to collect resources from its community of users, or calling them to go to the field, it does not matter. Accordinly, and not different from the passing of a hat, many platforms can mobilize their communities to get involved in actions too.   
 
+##### From Nestcape to Mozilla to Firefox 
 
-
-
-
-
-
-In alignment with the thoughts from Storybrand, another enlightening development from the world of marketing is brought by the authors of Play Bigger (2016), as they elaborate the notion of *Category Design* which consists of a reframing of problems where a new narrative not only recognizes a significant problem - or a set of problems - but is brought in ways that the audience recognizes it as unique - as a category - in new ways of thinking about the problem as in to where the solution and narrative is a pathway to how the world could look like. This way of thinking help us too to understand great solutions like Uber and Apple's music player the iPod. If we go back to what *Jobs To Be Done* had given to us about the Ipod case, we may recall that it had acessed the job of listening to music but spanning through multiple job steps - not only one or other job steps within the job - such as to solve the ways to prepare, to organize, to play / execute, to monitor, and more. Thus, it is a case when a technological advancement forms a solid message to users; because we remember more clear when we "hire" a solution that solves a job by a new pathway that is much simple. 
-
-
-<!--
-@meta @todo 
-* @todo - p2 ( ) - In Space - Check quote from Play Bigger and page - @meta-refid 1222-2323-3332-6574 
---> 
-
-> *"A POV has to shift people’s minds so they reject an old way of thinking and come to believe in something new. It has to reach people on an emotional level. No one remembers what you say—but they remember how you made them feel. That feeling can be excitement about something that’s coming, or fear of missing out. Some of the best POVs make people think: “Oh fuck, I don’t have one of those! I have to get one of those!” To reach people’s emotions, a POV has to sound the way people talk. It has to be simple, direct, visceral. Language matters."* (Ramadan et al., 2016, p. XX)
-
-
-<!--
-@reference 
-* reference - Ramadan, A., Peterson, D., Lochhead, C., & Maney, K. (2016). Play Bigger: How Pirates, Dreamers, and Innovators Create and Dominate Markets. Harper Business.
---> 
-
-Another key aspect, for any entrepreneurial effort that consider these ideas, is to consider how the development of a vision - for a brand and a product and the lives of the users being guided by them - may also set the team in a direction being less arbitrary and driven by these aspirations. In other words, solving the equation helps not only the world and the users and also the team to move on. Likewise, not an easy job to achive the level of clarity. 
-
-
-
-
-
-
-
-
-
-
-
-
-One case to be considered goes back to case of Netscape and the rise of Mozilla project and the Firefox browser. If we recount from history, Mozilla project, the open-source code for a browser, was the response from Netscape as Microsoft had bundled its own browser in their Windows operating system - thus serving the Internet navigation needs of its users. The movement, given that Netscape were bleeding fast, was led by creative leaders that trusted that the growing open-source movement would give a new beginning for Netscape. A main challenge was the necessity of rewriting Netscape's proprietary code - which were millions of lines of code according to Code Rush documentary (Project Code Rush, 2013) - which involved doing it in ways compatible with the open-source characterizations and in ways to leverage the interaction of contributors from all over the world; essentially enabling the co-creation with the wider community. What were in front of them where well said by Jim Barksdale, the then-CEO of Netscape that supported that unbundling and re-bundling of Netscape as Mozilla:  
+Thus, and to celebrate these challenges of ourselves figuring value and the pressures from value, let us start by considering a case I have mentioned before, the rise of the Mozilla project, but now to consider how the unbundling of Netscape and the bundling of Mozilla project gave rise of an iconic browser project made by thousands of contributors worldwide. If we recount from history, Mozilla project, the open-source code for a browser, was the response from Netscape as Microsoft had bundled its own browser in their Windows operating system - thus serving the Internet navigation needs of its users. The movement, given that Netscape were bleeding fast, was led by creative leaders that trusted that the growing open-source movement would give a new beginning for Netscape. A main challenge was the necessity of rewriting Netscape's proprietary code - which were millions of lines of code according to Code Rush documentary (Project Code Rush, 2013) - which involved doing it in ways compatible with the open-source characterizations and in ways to leverage the interaction of contributors from all over the world; essentially enabling the co-creation with the wider community. What were in front of them where well said by Jim Barksdale, the then-CEO of Netscape that supported that unbundling and re-bundling of Netscape as Mozilla:  
 
 > *"Well, it's certainly my hope that the enormous amount of new people that no one company could afford to have working on any product, now contributing to the Netscape Navigator Communicator [Mozilla project], will make a significant difference in the improvement of the product. How that works against any competitor remains to be seen."* (Barksdale in Project Code Rush, 2013)
 
@@ -1003,8 +1045,7 @@ In other words, the setting of Mozilla as an internet browser, given the open so
 
 
 
-
-
+##### Linkedin and network potential tied seen through the goggles of product-market fit 
 
 
 
@@ -1037,6 +1078,51 @@ Likewise, needless to say, they went further, they found the means, they had bui
 @references 
 * reference - Hoffman, R., Yeh, C., & Gates, B. (2018). Blitzscaling: The lightning-fast path to building massively valuable companies. Crown Currency.
 --> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Rethink this in another place
+
+
+
+In alignment with the thoughts from Storybrand, another enlightening development from the world of marketing is brought by the authors of Play Bigger (2016), as they elaborate the notion of *Category Design* which consists of a reframing of problems where a new narrative not only recognizes a significant problem - or a set of problems - but is brought in ways that the audience recognizes it as unique - as a category - in new ways of thinking about the problem as in to where the solution and narrative is a pathway to how the world could look like. This way of thinking help us too to understand great solutions like Uber and Apple's music player the iPod. If we go back to what *Jobs To Be Done* had given to us about the Ipod case, we may recall that it had acessed the job of listening to music but spanning through multiple job steps - not only one or other job steps within the job - such as to solve the ways to prepare, to organize, to play / execute, to monitor, and more. Thus, it is a case when a technological advancement forms a solid message to users; because we remember more clear when we "hire" a solution that solves a job by a new pathway that is much simple. 
+
+
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Space - Check quote from Play Bigger and page - @meta-refid 1222-2323-3332-6574 
+--> 
+
+> *"A POV has to shift people’s minds so they reject an old way of thinking and come to believe in something new. It has to reach people on an emotional level. No one remembers what you say—but they remember how you made them feel. That feeling can be excitement about something that’s coming, or fear of missing out. Some of the best POVs make people think: “Oh fuck, I don’t have one of those! I have to get one of those!” To reach people’s emotions, a POV has to sound the way people talk. It has to be simple, direct, visceral. Language matters."* (Ramadan et al., 2016, p. XX)
+
+
+<!--
+@reference 
+* reference - Ramadan, A., Peterson, D., Lochhead, C., & Maney, K. (2016). Play Bigger: How Pirates, Dreamers, and Innovators Create and Dominate Markets. Harper Business.
+--> 
+
+Another key aspect, for any entrepreneurial effort that consider these ideas, is to consider how the development of a vision - for a brand and a product and the lives of the users being guided by them - may also set the team in a direction being less arbitrary and driven by these aspirations. In other words, solving the equation helps not only the world and the users and also the team to move on. Likewise, not an easy job to achive the level of clarity. 
+
+
+
+
+
+
+
+
+
 
 
 
