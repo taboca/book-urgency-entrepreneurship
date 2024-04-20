@@ -285,7 +285,7 @@ The notions of bundling and bundling, as we have seen through the Netscape brows
 
 <!-- 
 @outline @meta
-* @outline - Answer - Bundle and and unbundle - multiple entangled spaces and Bundle and Unbundle. 
+* @outline - Answer - Bundle and unbundle - multiple entangled spaces and Bundle and Unbundle. 
 --> 
 
 ### Bundling and unbundling in Silicon Valley  
@@ -318,6 +318,10 @@ Of course, this example of children growing as a user of a specific universe may
 
 
 
+<!-- 
+@outline @meta
+*                                              silicon valley - growing with silicon valley 
+--> 
 
 #### Growing in a growing space 
 
@@ -376,7 +380,10 @@ Having us consider the effects of a kid growing inside spaces created by revolut
 
 
 
-
+<!--
+@outline 
+*                                              silicon valley - expanding universe, transistor, shockley and fairchild
+--> 
 
 #### The expanding universe 
 
@@ -408,6 +415,11 @@ As an aside, the transistors made by Shockley Semiconductor were made of Germani
 Now if we consider some of the transformations from 1956 - the Shockley days - to 1981 when Intel were unbundling their own 8086 platform architecture and bundling Intel's next generation of microprocessors, we will see it too how these technological developments went along with the needs for new management perspectives. 
 
 
+
+<!--
+@outline 
+*                                              silicon valley - creative destruction of management
+--> 
 
 #### Creative destruction of management 
 
@@ -479,7 +491,7 @@ Now if these ideas are tipping us that we shall be waiting for underlying things
 
 <!-- 
 @outline @meta
-* @outline - Answer - How to proceed to innovate, what to do vs. how to do and why to do?
+* @outline - Answer - Transcending the box - 
 --> 
 
 ## Transcending the box 
@@ -497,6 +509,7 @@ Assuming us acquainted in the environment, if not by the motion of the prior mov
 
 <!-- 
 @outline @meta
+* @outline - Answer - Transcending the box - 
 * @outline - Situation - Being involved with empathy for the problem and the solution 
 * @outline - Situation - Innovation management is concerned with that - JTBD - innovator's dilemma - still, how to be involved and find the relationship?
 --> 
@@ -567,7 +580,7 @@ On the other hand, it is yet challenging because if we dig too far things may re
 
 The message from Michael and the further considerations are reminders about the importance of us to be in a sweet spot - a place that is meaningful for ourselves and that serves well to the both spaces, the sourcing space and the target space of users. Yet, another reason for us to be calmer and to be reflective as we are searching, or refining, or exploring the what to do. 
 
-Moving forward in this direction, let us consider an annecdote about how any space can connect with with far too many needs and then settle ourselves to recognize the challengs for stability as we position between the sourcing world and the target space of users. 
+Moving forward in this direction, let us consider an annecdote about how any space can connect with far too many jobs that are being dones by people,  and then to settle ourselves to recognize the challengs for stability as we position between the sourcing world and the target space of users. 
 
 
 
@@ -623,6 +636,13 @@ With that, we can celebrate that solutions are linked to the experiences and fee
 
 
 
+
+
+
+<!-- 
+@outline @meta
+*                   A.b - Approaching target space 
+--> 
 
 
 ### Approaching the target space 
@@ -729,7 +749,8 @@ A conclusion for innovators goes back to a strategy for them to be able to be so
 
 <!-- 
 @outline @meta
-* @outline - Answer c - parties in sourcing - pitch - Joining parties and their forces in bundling 
+*                   A.c - parties in sourcing - pitch - Joining parties and their forces in bundling 
+*                   A.c - parties in sourcing - situation - The gap must go on; need forces; must play fair; 
 --> 
 
 ### Approaching the source space 
@@ -737,11 +758,8 @@ A conclusion for innovators goes back to a strategy for them to be able to be so
 
 
 
-<!-- 
-@outline @meta
-* @outline - Answer c - parties in sourcing - pitch - Joining parties and their forces in bundling 
-* @outline - Answer c - parties in sourcing - situation - The gap must go on; need forces; must play fair; 
---> 
+
+
 
 
 Advancinng to the end of this chapter through this bridge, towards the place which we take things from, we should first recognize the weakeness of the metaphorical structure because of its circularity. In other words, even if a spaceship brings a new form of energy from an asteroid, only a mind in a hurry shall miss the point that the ship was *Made in Earth*. With that said, and to serve our own interests, we shall too celebrate its strenght because what entrepreneurs do is to essentially create a gap between the present and the future and furthermore working to close it, to build. In addition, we shall recognize that these knights are interested in answering the questions from the gatekeepers (for example investors) although sometimes they reframe the question in ways that catapults the investors away from the bridge. 
@@ -760,10 +778,11 @@ As we approach, we shall too carry other premisses which we took from that "targ
 
 <!-- 
 @outline @meta
-* @outline - Answer c - parties in sourcing - pitch - Joining parties and their forces in bundling 
-* @outline - Answer c - parties in sourcing - situation - The gap must go on; need forces; must play fair; 
-* @outline - Answer c - parties in sourcing - situation - Investors hold the links; 
+*                   A.c - parties in sourcing - pitch - Joining parties and their forces in bundling 
+*                   A.c - parties in sourcing - situation - The gap must go on; need forces; must play fair; 
+*                   A.c - parties in sourcing - situation - Investors hold the links; 
 --> 
+
 
 
 
@@ -792,10 +811,8 @@ An early example of that relationship, from long before venture capital existed,
 
 <!-- 
 @outline @meta
-* @outline - Answer c - parties in sourcing - pitch - Joining parties and their forces in bundling 
-* @outline - Answer c - parties in sourcing - situation - The gap must go on; need forces; must play fair; 
-* @outline - Answer c - parties in sourcing - situation - Investors hold the links; 
-* @outline - Answer c - parties in sourcing - situation - Investors are risk takers and risk analysis; 
+*                   A.c - parties in sourcing - situation - Investors hold the links; 
+*                   A.c - parties in sourcing - situation - Investors are risk takers and risk analysis; 
 --> 
 
 
@@ -816,10 +833,6 @@ Another component that investors carry on, which exactly comes from their positi
 
 <!-- 
 @outline @meta
-* @outline - Answer c - parties in sourcing - pitch - Joining parties and their forces in bundling 
-* @outline - Answer c - parties in sourcing - situation - The gap must go on; need forces; must play fair; 
-* @outline - Answer c - parties in sourcing - situation - Investors hold the links; 
-* @outline - Answer c - parties in sourcing - situation - Investors are risk takers and risk analysis; 
 * @outline - Answer c - parties in sourcing - complication - A message must be sought by entrepreneurs; 
 --> 
 
@@ -847,10 +860,6 @@ Now, in alignment with the premise reminded by Michael Dearing that entrepreneur
 
 
 
-<!--
-@outline 
-Answer - simple things transcends too 
--->
 
 #### The message from cup of coffee 
 
@@ -860,18 +869,10 @@ Answer - simple things transcends too
 
 <!-- 
 @outline @meta
-
-* @outline - Answer c - parties in sourcing - pitch - Joining parties and their forces in bundling 
-* @outline - Answer c - parties in sourcing - situation - The gap must go on; need forces; must play fair; 
-* @outline - Answer c - parties in sourcing - situation - Investors hold the links; 
-* @outline - Answer c - parties in sourcing - situation - Investors are risk takers and risk analysis; 
-* @outline - Answer c - parties in sourcing - complication - A message must be sought by entrepreneurs; 
-
-* @outline - Answer c - parties in sourcing - a - pitch - Target job to entangled layers and their jobs, problems. 
-* @outline - Answer c - parties in sourcing - a - situation - Target message carries. 
-* @outline - Answer c - parties in sourcing - a - complication - Marketing can tell? 
-* @outline - Answer c - parties in sourcing - a - a - Storybrand  
-
+*                                                      Pitch - Target space is a source to navigate through entangled layers, by its message.  
+*                                                      Situation - People hold the message, by the meaning of the means used, technological means. 
+*                                                      Complication - Marketing world can be tricky but has given to us the understanding, from the message, to the transcending message, which explores the space. 
+*                                                      Answer - The marketing work of Storybrand, had explored the structure from storytelling, exposing its 3 three level of problems that need to be addressed; which can take us to transcend and understand the meaning from the specific need to the transcending need, further giving us the pitch to to the parties. 
 --> 
 
 
@@ -981,22 +982,9 @@ As an example, if we go back to the case of a hail-riding solution and imagine a
 <!-- 
 @outline @meta
 
-* @outline - Answer c - parties in sourcing - pitch - Joining parties and their forces in bundling 
-* @outline - Answer c - parties in sourcing - situation - The gap must go on; need forces; must play fair; 
-* @outline - Answer c - parties in sourcing - situation - Investors hold the links; 
-* @outline - Answer c - parties in sourcing - situation - Investors are risk takers and risk analysis; 
-* @outline - Answer c - parties in sourcing - complication - A message must be sought by entrepreneurs; 
- * @outline - Answer c - parties in sourcing - Answer - (a) simple things or (b) complex things. 
-
-* @outline - Answer c - parties in sourcing - Answer a - all things simple carry a message by the usage.  
-*     Pitch - Target space is a source to navigate through entangled layers, by its message.  
-*     Situation - People hold the message, by the meaning of the means used, technological means. 
-*     Complication - Marketing world can be tricky but has given to us the understanding, from the message, to the transcending message, which explores the space. 
-*     Answer - The marketing work of Storybrand, had explored the structure from storytelling, exposing its 3 three level of problems that need to be addressed; which can take us to transcend and understand the meaning from the specific need to the transcending need, further giving us the pitch to to the parties. 
-
-* @outline - Answer c - parties in sourcing - b - pitch - 
-*     Pitch - The interaction of people further extends the meaning and its the birthplace of the complication and needs to change; phenomenon of User Innovation recognizes. 
-*     Situation - The innovation, impossible to be hold, will happen by the intense usage, especially in a world where the potential to collaborate is bigger; 
+* Accomodating co-creation  
+*     Pitch - The interaction of people further extends the meaning and its the birthplace of the complication and needs to change; phenomenon of User Innovation is recognized, phenomenon of platform is the realization that it has to accept changes. 
+*     Situation - The innovation, impossible to be hold, will happen by a presence whereas people can use, especially in a world where the potential to collaborate is bigger; 
 *     Complication - Through the developments of platforms, the world of managent and entrepreneurs brought to us the challenges of enabling the ecosystem from within, like a sandbox, whcih also seem to have its own potential of reaching to saturation faster and the challenges or management. 
 *     Answer - Case of McAllum, Case of Mozilla, Case of Linkedin. 
 
@@ -1007,22 +995,32 @@ As an example, if we go back to the case of a hail-riding solution and imagine a
 #### Data, processing and flow 
 
 
+Having thus considered that anything that exists in the spaces sets a message that ripples through the environment, we shall proceed consider the other challenges are set in place once the message spreads in the environment; as it becomes subject to the very effects it produces given by how the dynamic environment reacts to it by its various perspectives. To a certain extent, our reflection might relate how a anything that exists in the environment might try to control the effects of interaction it promotes or might to a certain extent foster creativity and expansion. 
 
-Now, having us considered the situations that things concrete carry a message - by the use that we make of them - we shall take ourselves to the consider the situations where a dynamics created by the environment acts on its own enviroment, as in refactors it, by the power of the interactions that it enables between users. 
+If anything in our spaces brings a message - enabling us to understand or to spread the word or to be part of it - our day to day interaction with the things gives something more than that which I will ask us to consider it as a platform. It doesn't matter, again, if it's a cup of coffee, a book, a donut, everything can be seen as a platform to a certain extent is given by interactions from many entities, interactions that sustains the thing as it is, interactions that may eventually refactor the thing, more or less, making it stable or subject to an evolution. A potential for growth of the platform might also be considered, which has to do with how the thing-as-a-platform creates value in the environment. As an example, from an eatable item, let us consider something that in Brazilis called "coxinha," which is basically a ball of dough stuffed with shredded chicken shapped to look like a chicken thigh and then deep fried. Many bakeries have it in Brazil although each may have their own style. In one particular instance, near to a place I lived, we had one that were big and oily - to the point that it would turn to transparent some of the surfaces that it touches. One day I wanted to inform the lady working at my apartment about how disgusting it were and but when I were about to say "The coxinha from that XYZ bakery is.. " she completed saying ".. delicious." I was puzzled but then one day after I quit my job and became an entrepreneur and had to eat that coxinha for lunch - instead of as a snack in the afternoon  - I were able to fully appreciate the power of its size and even were proud of its oily condition. I would say that the coxinha from that bakery is platform, an eatable for survival, an item that supports the business, and a lot more such the relationship with the sources that regulates its materialization as a continous production or process or experience, such as regulations given by the leadership, customers, and even the government. Coxinha exists and won't die anytime soon. Also, the coxinha is not patented which explains its widespread accross many states in Brazil. 
 
-A complication in understanding this phenomenon is that by the time we started to work and figure what is going on when the user gets involved in innovation [^footenote_ericvonhippel_userinnovation_2] by becoming more evidently a co-creator of things, we happened to be witnessing the early cases of platforms enabling active levels of value exchange among users; which is again to reaffirm how we generally try to catch up with the theory after the first movement of disruptive innovation as I would guess does the job of cleaning the whiteboard. 
+To point another example, consider the books of Harry Potter. For many, especially among non-readers, these books might be just about an experience of leisure or entertainment, a great book of fiction or literature. On the other hand, for the actual readers of literature, it means more. But more than that, there are groups that meet through Harry Potter - as a platform - and take the experience to a whole other level. According to Casper Ter Kuile, in *The Power of Rituals*, there are books that can bring people together in ways that competes with that communiy groups, such as churches or religious organizations do. To get to that, Casper had identified some of the essential elements that made churches to stand by the identification of values that are preset horizontally accross many churches - Intention, Attention, Repetition, and Community. In other words, Harry Potter brings foundational elements that makes the book to become a platform that put people together like a community, where they they can experience the world, they can grow as individuals and with connections as a community, and can transcend. 
 
-[^footenote_ericvonhippel_userinnovation_2]: 
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Space - Check Casper ter Kuile elements - @meta-refid 1222-2334-8788-8383
+--> 
 
-But before we enter the space of active platforms, I shall state the possibility that the platform effect in intrinsic in all things created, even in a book as we know it. One example is Harry Potter which I didn't read but according to Casper ter Kuile in The Power of Rituals, it can be observed how communities are formed around which superficially one outsider may see it as a book club for discussions - and indeed the observation of interactions happen to appear like that - but essentially there are elements in it that are key fundamental pillars which according to Casper new networks are essentially allowing people to find themselves developing connections just like they used to get from the role of religious groups like churchs: 
-
-> *""* 
-
-
-Now the point from Casper may well suggest that institutions, like churches, were the early examples of platforms for people to interact with tools among themselves, to collaborate, and to transcend too; although logically all platforms have their own limits and potential point of saturation. One other implication from the abstraction elements taken from these community platforms - if you will - is that, as reported by Casper, we happened to be exercising competing with these platforms by many interactions we are creating in the digital and interactive world, although it may be confusing likely because of the technolgical barriers that unless you are within the community one can't get it what goes on and could even dismiss what is happening as irrelevant. But the point is that if Harry Potter can compete with the platform equivalent of a church of the old days when too many platforms are exercising the conditions and the interaction dynamics enabling users to get together and create rich experiences from it. 
+One other implication from the abstraction elements taken from these communities as platforms - if you will - is that, as reported by Casper, we happened to be exercising these elements in the digital and interactive world, although it may be confusing likely because of the technolgical barriers that unless you are within the community one can't get it what goes on and could even dismiss what is happening as irrelevant; not unlike non-readers dismiss the power of Harry Potter as a platform. But the point is that if Harry Potter can compete with the platform equivalent of a church - of the old days - in new and even in better ways - then too many new platforms are too in fact exercising creating the conditions and for an interaction dynamics that enable users to get together, as a community, and live the experience. 
 
 
-Now a slight complication to get what goes on with the rise of interactive platforms is exactly that value creation can be captured from the platform too and that in many situations the entrepreneurs themselves, or the other parties involved such as the ones that have a stake in the whole system, may not get exaclty the potential and or might be trapped themselves by forces of the environment thus being unable, or not interested, in enablig certain values. To be clear, by value creation we may consider a simple example that a church can launch an event in the network and make a call and pass a hat to collect resources from its community of users, or calling them to go to the field, it does not matter. Accordinly, and not different from the passing of a hat, many platforms can mobilize their communities to get involved in actions too.   
+
+
+
+
+
+
+Now a slight complication to get what goes on with the rise of interactive platforms is exactly that value creation can be captured from the platform too and that in many situations the entrepreneurs themselves, or the other parties involved such as the ones that have a stake in the whole system, may not get exaclty the potential and or might be trapped themselves by forces of the environment thus being unable, or not interested, in enablig certain values even to not recognize values that may take the platform to die or to reach its saturation state. To be clear, by value creation we may consider a simple example that a church can launch an event in the network and make a call and pass a hat to collect resources from its community of users, or calling them to go to the field, it does not matter. Accordinly, and not different from the passing of a hat, many platforms can mobilize their communities to get involved in actions too.  
+
+
+
+
+
 
 ##### From Nestcape to Mozilla to Firefox 
 
@@ -1041,7 +1039,14 @@ Now, and as history shows, from Mozilla open-source project not widely known in 
 
 [^footnote_mozilla_bugzilla]: For information about Bugzilla, a web-based general-purpose bug tracker and testing tool originally developed and used by the Mozilla project, see the Wikipedia article - https://en.wikipedia.org/wiki/Bugzilla.
 
-In other words, the setting of Mozilla as an internet browser, given the open source initial movement and the wider input of a community that believed in openness, led Mozilla to grow as a strong product and to even motivate many other companies to work again in browsers. 
+In other words, the setting of Mozilla as an internet browser, given the open-source initial movement and the wider input of a community that believed in openness, led Mozilla to grow as a strong product and to even motivate many other companies to work again in browsers. In other words, Mozilla had enabled the growth of Firefox because it had exercised too a phenomenon of co-creation which is essentially when the user develops further interactions with the platorm leading to innovation [^footenote_ericvonhippel_userinnovation_2]. 
+
+[^footenote_ericvonhippel_userinnovation_2]: 
+
+
+
+
+
 
 
 
