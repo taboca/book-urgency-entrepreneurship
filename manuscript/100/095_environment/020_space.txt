@@ -211,42 +211,79 @@ That situation that appears to be a crossroad is essentially a revelation that, 
 
 
 
+
+
+
+
 <!-- 
 @outline @meta
 * @outline - Answer -  Bundle and Unbundle 
 --> 
 
-### Bundle and unbundle 
+## Bundle and unbundle 
 
-Sometimes, if not generally, we get acquainted with new terms by the on-the-fly practice, when we are suddenly in a new working space and someone throws a tool and before you know you catch it and a you are told to keep cranking. The term 'bundled' came to me like that because it was said a lot within the buildings at Netscape - the iconic company that created or popularized, or bundled, the internet browser. Once in the field I essentially became part of a machine of people that we were *bundling* an internet browser. As an aside, I shall note that my passion for English had origins from the world of programming languages. So words like *While*, *If*, *Then*, *For* and others had influenced me to sometimes say things like: *While* I am here, working in United States, I am happy to build things *Until* some major event calls me back to Brazil. *If* friends invite me to dinner, *Then* I shall comply.  
-
-But it was after I returned to Brazil - and had a bit of time - that I found something more about bundle, that bundle had to do with unbundle, by listening to the thoughts from some of the leaders of Netscape, Jim Barksdale and Marc Andreessen. 
-
-Now I know that the situation of entrepreneurs who pushed them, especially in the beginning and also in the long run, to generally not refactor their offerings or to unbundle whatever they had thought and had bundled. Likewise as anything built is essentially built by the fact that their bridge were bundled in the first place and that may involve the managerial means. That leaves the idea of unbundling an offering to connect to the necessity of the unbundling of the bridge and reveal the ties of multiple spaces, which could be quite challenging because you are re-evaluating your sources, which is not generally a consideration, not until the act of getting things done consumes resources. Yet the recognition of the unbundling or the bundling-unbundling dynamics is a real movement that creates challenging situations in shorter cycles exactly because of the dynamic space such as where the competition exists and bundles things with ties with different spaces, which set us to at least verify an exploration that luckily was given to us through a great exercise, led by entrepreneurs and executives that had disrupted and invented the Internet browser, popularized the Internet browser and went through the necessity to rethink the offerings and not only setting the product in a different way, but setting the bridge in different ways, as told by Jim Barksdale from the days when he was the CEO of Netscape [^footnote_marc_andreessen_jimbarksdale] going through the rise of the Mozilla project.
-
-[^footnote_marc_andreessen_jimbarksdale]: The idea of bundle and unbundle is generally promoted by Marc Andreessen, one of the creators of the first popular internet browser that co-founder of Netscape. Marc is a well-known investor and partner at Andreessen Horowitz, A16z, an iconic venture capital firm from Silicon Valley. 
-
-To consider this narrative, let us situate ourselves in the days that the incremental innovations in the space of the Internet brought the Web. Yes, so the Web was brought to the people that could understand and navigate the Internet space. But that wasn't the web for normal users anyway. The Web for normal users came about because the Internet browser were invented. Thus, in the space of people - reading news - something new came up to them, it seemed to be a thing disrupting newspapers anyway, the Internet browser. Netscape was built, and they indee had put a dent in the universe. The browser was something bundled, a product. Once the user had downloaded it, it was coherent. If your computer is connected to the Internet, you can then type the address of a company, and voilá, the page shows. So all were nice, and Netscape were growing and their proprietary technology, their bundled things like the Netscape Navigator, were an excitement that led Netscape to be the highest IPO in history. 
-
-That up the moment when Microsoft decided to look at what a browser really meant. To simplify a long battle - known as browser wars - Microsoft had bundled a free Internet browser in its Windows operating system, thus making it not necessary for many people to even download Netscape. In other words, Microsoft affected the space of Netscape, and with that the evident notion that Netscape product could only be used "on top" of Windows, thus that Netscape was a customer of Windows to a certain extent. This is where the idea of bundle and unbundle sets in more properly, not only because Microsoft had bundled Internet Explorer but because the bundled Netscape, as it is, led Netscape as a company to be bleeding and bleeding fast. This also took Netscape to consider to rethink its strategy. 
-
-In documentary Code Rush..
 
 
 
 <!--
-@meta @todo 
-* @todo - p1 ( ) - In Space - Code Rush and Barksdale note. Make short note of Code Rush explain Mozilla, and then the unbundle and disruptive move of Mozilla; and the ties with open source. Make sure to connect and lead to the "no doubt" comment from Barksdale. @meta-refid 1112-3332-2233-4434
+@outline - 
+* @outline - Answer -  Bundle and Unbundle 
+*   @outline - Pitch - philosophical question of action from action, only post-mortem leads to understanding?
 --> 
 
-In an interview for Justin Fox, for Harvard Business Review (Fox, 2014), Jim Barksdale recalled line came about during Netscape's public offering roadshow. Jim and his team were at the Savoy Hotel in London, pressed for time and facing a room full of British investment bankers. When questioned about Microsoft's potential to bundle a browser into their product - “How do you know that Microsoft isn’t just going to bundle a browser into their product?” - he made a statement for how an innovative competitor product were essentially consist the destrution of the values of its competition and by that it would ground itself as new values: "Gentlemen, there’s only two ways I know of to make money: bundling and unbundling," and followed by "Well, best I can tell, most people spend half their time adding and other people spend half their time subtracting, so that’s what works out, " so satisfy the needs of an audience that were puzzled but curious. 
 
-According to Jim, although the comment wasn't carefully crafted, it was intuitive and captured the truth that innovations essentially deals with adding and subtracting elements of a given value proposition. 
 
-To illustrate the challenges of the forces behind Bundling and Unbundling, we may recount the history of the internet browser and the rise of the web, which Marc Andreessen and Jim Barksdale, along with others, had the opportunity to witness and be part of the whole experience and the tension between these forces. As history shows, Netscape arrived and launched a worldwide popular browser back in the days and became the highest IPO in history at that point by the bundling of the web browser, the means to navigate the web, which was a proprietary technology and tied with the internet building blocks and the notions and the concepts and the standards of the web that were evolving, incrementally evolving, if you will. At that point, with the new experience unleashed, many people became excited because that was basically like accessing the addresses of companies worldwide, navigating, enabling all sorts of new services like search and indexes and Yahoo, AltaVista, and many companies were able to have websites online. Everything was fine and great, the greatest IPO ever, up to the point that we realized that the internet browser had to run on top of another platform. The Windows operating system was the most popular among normal users. And with that, the challenging moment became when Netscape were challenged by Microsoft as Microsoft had bundled a free browser, Internet Explorer, to the Windows popular operating system. It should be noted, as early noted by people from Netscape, that people had to manually install the Netscape browser, by hand, which meant that overnight Netscape were bleeding. That is what had characterized part of the browser wars, and even the lawsuit against Microsoft for unfair practices. 
 
-But the point - going straight or back to bundling and unbundling is exactly what were happening back in the days as Gene Barks recognized that they had to do something and the response had to do with the unbundling. If they kept the way it is, they would lose the war, of course, they were losing quite fast, they were bleeding, but the response was a very aggressive response, they had to do with facing their death as a company. So if we had to kill ourselves, what would we do it, right? And the response went along with incremental developments because open source were happening at that point and many of these companies were using open source technologies and the browser became this iconic case of a major project being open sourced by Netscape, that's the rise of the Mozilla project, according to CodeRush.
+Sometimes, if not generally, we get acquainted with new terms by the on-the-fly practice, when we are caught in new working space where somebody throws a tool and before you know you are told to keep cranking. The term 'bundled' came to me like that because it was said a lot within the buildings at Netscape - the iconic company that created or popularized, or bundled, the internet browser. Once in the field I was suddenly part of a machine that we were *bundling* an internet browser. As an aside, I shall note that my passion for English had origins in the world of the programming languages; in other words words like *While*, *If*, *Then*, *For* and others had influenced me to generally say things like: *While* I am here, working in United States, I am happy to build things *Until* some major event calls me back to Brazil. *If* friends invite me to dinner, *Then* I shall comply. But it was only after I had returned to Brazil - having more time to reflect oand seeing from far, in perspective - that I had more calmly considered that for all things bundled, other things had to be unbundled, especially when the matter has to do with innovation. 
 
+
+
+
+<!--
+@outline - 
+* @outline - Answer -  Bundle and Unbundle 
+*   @outline - Theme - Back to bridge, the necessity of the challenge, entrepreneurial action deals with bundling in a space leading to the unbundle of other space. 
+--> 
+
+
+
+We shall then explore the notions of bundle and unbundle by following the experience from the business leaders, and the pioneers, that brought to us, or bundled, the internet browser, and along with that to celebrate the inescapable reflections about the some of the situations where the managerial methods need to be challenged before what is built is possible. To get to the point, we need first to recount the incremental innovations that took place as the Internet were developing leading to the Web. The view from Andy Grove, taker from a section from *Only the Paranoid Survive*, beautifuly depicts the premisses of the Internet leading to the Web and browsers: 
+
+> *""* Andy Grove 
+
+<!-- 
+@meta @todo 
+* @todo - p2 ( ) - In Space, Bundle and Unbundle - Put the quote from Andy Grove from Only the Paranoid Survive, which explains the Internet before the web. @meta-refid 1223-3435-6574-8794
+--> 
+
+
+Some of its early observations about its disruptive potential had to do with the idea of disrupting some aspects of the traditional newspaper experience. In other words, the browser was a tool to navigate digital pages, and all to happen by typing an address. Plus, if that wasn't enough, the browser were essentially an user agent, able to read through the hyperlinks that connected one page to another, so enabling the user to access a web of documents and since anyone could create a web page, thus anyone were to be able to access content in a format loolking like a page from anywhere given that the browser tool were connected. If your computer is connected to the Internet, you can then type the address of a company, and voilá, the page shows.
+
+<!--
+@meta @todo/action
+* @todo/action - p2 ( ) - In Space, Bundle and Unbundle #above - Ask chatgpt to check the accuracy of the above, if Netscape were the highest IPO, likely may consider to refer to Andy Grove in Only the Paranoid Survive, p. 167. @meta-refid 1223-3223-3445-8766
+-->
+
+> *"To a computer user, the fact that any PC on any person's desk could become a window into millions of computers all over the world was like a miracle. And the fact that the material in those computers could be enhanced with colorful graphics, photographic images and even rudimentary sound and video made it a very seductive mirable."* (Grove, A., 1999, p. 171)
+
+<!--
+@meta @reference 
+* Reference - Grove, Andrew. (1999). Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company. [Só os Paranóicos Sobrevivem]. Crown Publishing.
+--> 
+
+
+So all were nice, and Netscape were growing, and Netscape had too celebrated the highest API in history so people were downloading the product, word-of-mouth was taking people to buy-in, to download, to experience the web's potential or the miracle. That up the moment when Microsoft decided to look at what a browser really meant; which to simplify a long battle known as browser wars,  Microsoft had created their browser, namely Internet Explorer, and had bundled it together with their own Windows operating system; which were the actual most popular operating system were the target users of Netscape were. In other words, given that Netscape product could only be used "on top" of Windows, the Netscape was bleeding fast. 
+
+This is where the idea of bundle and unbundle sets in more properly, as given by the executives of Netscape. In an interview for Justin Fox, for Harvard Business Review (Fox, 2014), Netscape's CEO Jim Barksdale recalled that the thought came about during Netscape's public offering roadshow, in a particular day when they were in a room full of British investment bankers but while pressed for time were questioned about the potential thread from Microsoft, “How do you know that Microsoft isn’t just going to bundle a browser into their product?” to which he replied "Gentlemen, there’s only two ways I know of to make money: bundling and unbundling," and to not leave everyone confused before leaving he added that the " .. best I can tell, most people spend half their time adding and other people spend half their time subtracting, so that’s what works out." 
+
+According to Jim, although the comment wasn't carefully crafted for the audience, it had the advantage of carrying an element of truth because as they were quite involved around businesses that were "bundling things together," but moreover themselves giving extra importance to the theme was too related from their perception that, in the digital space, it became easier to bundle/unbundle products. As an example, Marc Andreessen had illustrated how the experience of listening to music that were once characterized (or bundled) as the LP discs (long-playing discs made of vinyl) which revolutionized the music industry eventually had  advancements through technology: 
+
+> *"It made sense in the LP and CD era to put eight or 10 or 12 or 15 songs on a disc and press the disc and ship it out and have it sit in storage until somebody came along and bought it. But, when you have the ability online to download or stream individual tracks, then all of a sudden that bundle just doesn’t make sense. So it collapsed apart into individual MP3s. And I think now it makes sense that it’s kind of re-bundling into streaming services like Pandora and Spotify."* (Andreessen, Mark. in HBR, 2014)
+
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Space, Bundle and Unbundle - Fix APA citation Mark in the interview. @meta-refid 1233-4344-7682-8283
+--> 
 
 
 <!-- 
@@ -254,19 +291,23 @@ But the point - going straight or back to bundling and unbundling is exactly wha
 * @reference - Fox, J. (2014). How to Succeed in Business by Bundling – and Unbundling. Harvard Business Review. Retrieved from https://hbr.org/2014/06/how-to-succeed-in-business-by-bundling-and-unbundling 
 --> 
 
-<!-- 
-@todo @meta
-* @todo - p2 ( ) - In Environment, Space - Check research  - unbundling came up in 2019 at Ycombinator - https://a16z.com/platforms-vs-verticals-and-the-next-great-unbundling/ @meta-refid 1212-3232-4432-3389 
+Through the reflections given in this interview, it is inescaple to consider the implications that the "bundling or unbundling of the product actually directly affects the bundling or unbundling of the business," as noted by Marc Andreessen. And, furthermore to celebrate the complications in the the digital world where platforms have the power to bundle things, we shall notice that the Netscape was a browser whereas its value depended on the Windows Operating System. And as Microsoft decied to bundle Internet Explorer browser for free, they changed the whole course of Netscape, which brings us to celebrate the moment of history where Netscape had to make a call to not only unbundle their own product but a lot about their business strategy or in other words to  rethink their entire strategy, which brought them to create the Mozilla Project. 
+
+Notice the very premise of the movement when value can be captured enabling the bundling effect, the given that technologies are in motion. One particular movement growing strong was the open-source movement in the software industry which was embraced by Netscape as a strategy to counter-attack. According to Code Rush documentary, 
+
+> *""* 
+
+<!--
+@meta @todo 
+* @todo - p1 ( ) - In Space - Code Rush and Barksdale note - #above - Make short note of Code Rush explain Mozilla, and then the unbundle and disruptive move of Mozilla; and the ties with open source. Make sure to connect and lead to the "no doubt" comment from Barksdale. @meta-refid 1112-3332-2233-4434
 --> 
 
+What is clearly given by the situation of Netscape is exactly an active exercise although in a short period of time, of the necessity of the leadership to deal with the strategic thinking - and to be evaluating when the bundled condition may not offer value, and to reconsider the strategy in ways that new value can be added. Although the appropriate words should not be to say bundle and unbundle, we may well celebrate how the rise of Silicon Valley also shown the situations where certain technological advancement, by its own potential, makes a call not only management to rethink their strategy. 
+
 <!-- 
-@note
-* (x) Referenced https://hbr.org/2014/06/how-to-succeed-in-business-by-bundling-and-unbundling 
--->
-
-
-The notions of bundling and bundling, as we have seen through the Netscape browser history, also reveals not only the characteristics of adding and subtracting elements of a given setting, but also the interdependencies, like when a given creation is grounded in a given platform. And along with that, the possibility that other forces - like the competition or an industry - might be exploring aspects of the undelying platform, which gives us the invitation to consider that the rise of a platform is nested inside other platforms or entangled with other spaces. Therefor, let us look at the history of Silicon Valley, or in other words, how Silicon Valley was bundled, as an opportunity for us to exercise the potential and directedness of platforms, either influencing us or giving us the possibility to rethink that.
-
+@todo @meta
+* @todo - p2 (Done, dismissed) - In Environment, Space - Check research  - unbundling came up in 2019 at Ycombinator - https://a16z.com/platforms-vs-verticals-and-the-next-great-unbundling/ @meta-refid 1212-3232-4432-3389 
+--> 
 
 
 <!--
@@ -283,12 +324,19 @@ The notions of bundling and bundling, as we have seen through the Netscape brows
 
 
 
+
+
+
 <!-- 
 @outline @meta
 * @outline - Answer - Bundle and unbundle - multiple entangled spaces and Bundle and Unbundle. 
 --> 
 
 ### Bundling and unbundling in Silicon Valley  
+
+
+
+
 
 
 
@@ -324,6 +372,10 @@ Of course, this example of children growing as a user of a specific universe may
 --> 
 
 #### Growing in a growing space 
+
+
+
+
 
 Because of the too many ties for anyone to understand - if not boring for a business book - I thought of giving us a viewpoint for how I had witnessed the formation of digital platforms, as a kid from the age of ten, around 1985, and moving forward along with the growth of the information technology industry to a point of moving to Silicon Valley. Not different from many other folks that were taken by computers, for me it something new started as I had witnessed some of the first video games, then the early personal computers, then the emergence of the internet browser, then witnessing the early mobile phones - up to now that I have a quite powerful smartphone that receives too many notifications to the point that I had to install "an app" referred as a digital well-being app that allowed me to turn off many of the online apps too so that I can actually get to work, and do focused work, like what I am doing now. 
 
@@ -385,7 +437,7 @@ Having us consider the effects of a kid growing inside spaces created by revolut
 *                                              silicon valley - expanding universe, transistor, shockley and fairchild
 --> 
 
-#### The expanding universe 
+### The expanding universe 
 
 
 To further explore these entanglements, we may go dig into the computer's history, first looking at the computer microprocessor and the little elements that can't be seen with the naked eye but nevertheless required a new sight from management in order to evolve. The tiny element inside processor is known as the transistor and where a big invention back in 1947 [^foonote_history_transistor].  This element is also referred as a semiconductor device but it is one that acts as a switch that can either allow or not allow energy to flow depending on a signal. An exampe of a big switch would be a door in a room that allows one to go out, if the door is open, so then once out she shouts out information. Now the magic in the computer world happens because transistors can be arranged with others and can form the microprocessor. If I insist with the door analogy, the microprocessor would be a big house with lots of doors where some of these doors openned could open of close others. 
@@ -489,12 +541,19 @@ Now if these ideas are tipping us that we shall be waiting for underlying things
 
 
 
+
+
+
 <!-- 
 @outline @meta
 * @outline - Answer - Transcending the box - 
 --> 
 
 ## Transcending the box 
+
+
+
+
 
 
 
@@ -584,14 +643,20 @@ Moving forward in this direction, let us consider an annecdote about how any spa
 
 
 
+
+
+
+
 <!-- 
 @outline @meta
 * @outline - A.a - Marcio's reflection about being an Uber Driver  
 --> 
 
-
-
 ### 1000 trips in a box 
+
+
+
+
 
 
 
@@ -639,6 +704,9 @@ With that, we can celebrate that solutions are linked to the experiences and fee
 
 
 
+
+
+
 <!-- 
 @outline @meta
 *                   A.b - Approaching target space 
@@ -646,6 +714,10 @@ With that, we can celebrate that solutions are linked to the experiences and fee
 
 
 ### Approaching the target space 
+
+
+
+
 
 
 Now the observation that we are incessantly doing it - unbundling our spaces and bundling or escaping the conditions from our ways of living and - but always joining people on the other end, is a clue that besides the favorable conditions for the movement the movement also happens by the *Given* that we are connected with others, in good or bad ways, directly or indirectly, in a world where all spaces are connected with others or given by others and by the knowing that all these spaces are changing too, perhaps transcending. As an example, I would think that was able to hack a solution for a better use my "idle moment" inside a car because I have considered that in the car I would be less subject to the distracting conditions given the habits that I had developed by using my smartphones always looking the notifications from networks and systems I had subscribed. 
@@ -735,6 +807,8 @@ A conclusion for innovators goes back to a strategy for them to be able to be so
 
 
 [^footnote_jtbd_tony]: JTBD (Jobs to be Done) theory, as developed by Tony Ulwick and Strategyn, presents a groundbreaking framework for innovation. Central to the framework is the notion that customers "hire" products or services to accomplish specific jobs or tasks in their lives. By understanding these jobs in detail, companies can innovate by creating offerings that precisely meet the needs of their customers. Ulwick's approach involves the understanding of the job steps and opportunities associated with a job, providing businesses with a structured process to identify and and come up with ideas to solve unmet needs or met needs in creative ways.  
+
+
 
 
 

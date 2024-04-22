@@ -1,5 +1,11 @@
 # Todo # 
 
+* @todo - p2 ( ) - In Space, Bundle and Unbundle - Fix APA citation Mark in the interview. @meta-refid 1233-4344-7682-8283
+
+* @todo/action - p2 ( ) - In Space, Bundle and Unbundle - Ask chatgpt to check the accuracy of the above, if Netscape were the highest IPO, likely may consider to refer to Andy Grove in Only the Paranoid Survive, p. 167. @meta-refid 1223-3223-3445-8766
+
+* @todo - p2 ( ) - In Space, Bundle and Unbundle - Put the quote from Andy Grove from Only the Paranoid Survive, which explains the Internet before the web. @meta-refid 1223-3435-6574-8794
+
 * @todo - p2 ( ) - In Space - Check Casper ter Kuile elements - @meta-refid 1222-2334-8788-8383
 
 * @todo - p2 ( ) - In Space - Bring a quote from Storybrand that shows the structure. @meta-refid 0122-3323-3444-5555.
@@ -60,8 +66,6 @@
 * @todo - ( ) p2 - In Environment, Space - Check footnote of Tony Ulwick when it refers to JTBD, check if it is a framework of a theory or what according to the latest articles. @meta-refid 1212-2223-4432-9873
 
 * @todo - p2 ( ) - In Environment, Space - Check reference if Andy Grove were really first hire. @meta-refid 1212-2223-3392-9394
-
-* @todo - p2 ( ) - In Environment, Space - Check research  - unbundling came up in 2019 at Ycombinator - https://a16z.com/platforms-vs-verticals-and-the-next-great-unbundling/ @meta-refid 1212-3232-4432-3389 
 
 * @todo - p2 ( ) - In Part 2 - In Searching Impact - there is a whole section entitled "The guardian" which seems as a good introduction to the chapter "The feedback of urgency". Ref 9884-8944-9492-9044 #duplicated #crossreference 
 
@@ -381,6 +385,8 @@ https://chat.openai.com/share/b7eb16c5-4c18-4709-9220-bd2629f34a3d
 * Culture 
 
 ## Done
+
+* @todo - p2 (Done, dismissed) - In Environment, Space - Check research  - unbundling came up in 2019 at Ycombinator - https://a16z.com/platforms-vs-verticals-and-the-next-great-unbundling/ @meta-refid 1212-3232-4432-3389 
 
 * @todo - p2 (Done) - In Space - Check on the metaphorical of "I think therefore I am... " @meta-refid 1222-2323-3342-4466 - Ref - In other words, anything that is built, that exists in the environment, and that is actively being used is what explains the "I think therefore I am .." exaclty because it requires them to be ".. using a tool," in the first place. 
 
