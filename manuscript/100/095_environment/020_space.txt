@@ -247,7 +247,7 @@ Sometimes, if not generally, we get acquainted with new terms by the on-the-fly 
 
 
 
-We shall then explore the notions of bundle and unbundle by following the experience from the business leaders, and the pioneers, that brought to us, or bundled, the internet browser, and along with that to celebrate the inescapable reflections about the some of the situations where the managerial methods need to be challenged before what is built is possible. To get to the point, we need first to recount the incremental innovations that took place as the Internet were developing leading to the Web. The view from Andy Grove, taker from a section from *Only the Paranoid Survive*, beautifuly depicts the premisses of the Internet leading to the Web and browsers: 
+Let us then step into a reflection about about the notion of bundle and unbundle and how that reveals a lot about the strategies of growth of products and platforms - given by the business leaders and the pioneers that brought to us, or bundled, the internet browser. To get to the point of the browsers tough, we need first to recount the incremental innovations that took place as the Internet were developing. The view from Andy Grove in *Only the Paranoid Survive*, beautifuly depicts the premisses of the Internet leading to the Web and browsers: 
 
 > *""* Andy Grove 
 
