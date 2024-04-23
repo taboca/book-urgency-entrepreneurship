@@ -264,7 +264,7 @@ Some of its early observations about its disruptive potential had to do with the
 * @todo/action - p2 ( ) - In Space, Bundle and Unbundle #above - Ask chatgpt to check the accuracy of the above, if Netscape were the highest IPO, likely may consider to refer to Andy Grove in Only the Paranoid Survive, p. 167. @meta-refid 1223-3223-3445-8766
 -->
 
-> *"To a computer user, the fact that any PC on any person's desk could become a window into millions of computers all over the world was like a miracle. And the fact that the material in those computers could be enhanced with colorful graphics, photographic images and even rudimentary sound and video made it a very seductive mirable."* (Grove, A., 1999, p. 171)
+> *"To a computer user, the fact that any PC on any person's desk could become a window into millions of computers all over the world was like a miracle. And the fact that the material in those computers could be enhanced with colorful graphics, photographic images and even rudimentary sound and video made it a very seductive miracle."* (Grove, A., 1999, p. 171)
 
 <!--
 @meta @reference 
@@ -276,7 +276,7 @@ So all were nice, and Netscape were growing, and Netscape had too celebrated the
 
 This is where the idea of bundle and unbundle sets in more properly, as given by the executives of Netscape. In an interview for Justin Fox, for Harvard Business Review (Fox, 2014), Netscape's CEO Jim Barksdale recalled that the thought came about during Netscape's public offering roadshow, in a particular day when they were in a room full of British investment bankers but while pressed for time were questioned about the potential thread from Microsoft, “How do you know that Microsoft isn’t just going to bundle a browser into their product?” to which he replied "Gentlemen, there’s only two ways I know of to make money: bundling and unbundling," and to not leave everyone confused before leaving he added that the " .. best I can tell, most people spend half their time adding and other people spend half their time subtracting, so that’s what works out." 
 
-According to Jim, although the comment wasn't carefully crafted for the audience, it had the advantage of carrying an element of truth because as they were quite involved around businesses that were "bundling things together," but moreover themselves giving extra importance to the theme was too related from their perception that, in the digital space, it became easier to bundle/unbundle products. As an example, Marc Andreessen had illustrated how the experience of listening to music that were once characterized (or bundled) as the LP discs (long-playing discs made of vinyl) which revolutionized the music industry eventually had  advancements through technology: 
+According to Jim, although the comment wasn't carefully crafted for the audience, it had the advantage of carrying an element of truth. What essentially they caught themselves right in the middle of a shortening of the cycles as for how things are bundled. We may get a sense of this more active bundling/unbundling dynamics with the illustration from Marc Andreessen of how the experience of listening to music had mutated, or rebundled - as the experience given by LP discs (long-playing discs made of vinyl) which revolutionized the music industry - by following opportunities given by the advancements of underlying technologies: 
 
 > *"It made sense in the LP and CD era to put eight or 10 or 12 or 15 songs on a disc and press the disc and ship it out and have it sit in storage until somebody came along and bought it. But, when you have the ability online to download or stream individual tracks, then all of a sudden that bundle just doesn’t make sense. So it collapsed apart into individual MP3s. And I think now it makes sense that it’s kind of re-bundling into streaming services like Pandora and Spotify."* (Andreessen, Mark. in HBR, 2014)
 
@@ -291,9 +291,9 @@ According to Jim, although the comment wasn't carefully crafted for the audience
 * @reference - Fox, J. (2014). How to Succeed in Business by Bundling – and Unbundling. Harvard Business Review. Retrieved from https://hbr.org/2014/06/how-to-succeed-in-business-by-bundling-and-unbundling 
 --> 
 
-Through the reflections given in this interview, it is inescaple to consider the implications that the "bundling or unbundling of the product actually directly affects the bundling or unbundling of the business," as noted by Marc Andreessen. And, furthermore to celebrate the complications in the the digital world where platforms have the power to bundle things, we shall notice that the Netscape was a browser whereas its value depended on the Windows Operating System. And as Microsoft decied to bundle Internet Explorer browser for free, they changed the whole course of Netscape, which brings us to celebrate the moment of history where Netscape had to make a call to not only unbundle their own product but a lot about their business strategy or in other words to  rethink their entire strategy, which brought them to create the Mozilla Project. 
+Through the reflections given by the interview, it is inescaple to consider the implications that the "bundling or unbundling of the product actually directly affects the bundling or unbundling of the business," as noted by Marc Andreessen. And, furthermore to celebrate the complications in the the digital world where technological platforms carries the power to bundle things for partner organizations, which can be noted by the consideration that Netscape browser that only existed if installed "on top" of the Windows Operating System. 
 
-Notice the very premise of the movement when value can be captured enabling the bundling effect, the given that technologies are in motion. One particular movement growing strong was the open-source movement in the software industry which was embraced by Netscape as a strategy to counter-attack. According to Code Rush documentary, 
+And as Microsoft decied to bundle Internet Explorer browser for free, they changed the whole course of Netscape, which brings us to celebrate the moment of history where Netscape had to make a call to not only unbundle their own product but a lot about their business strategy or in other words to  rethink their entire strategy, which brought them to create the Mozilla Project. Notice the very premise of the movement when value can be captured enabling the bundling effect, the given that technologies are in motion. One particular movement growing strong was the open-source movement in the software industry which was embraced by Netscape as a strategy to counter-attack. According to Code Rush documentary, 
 
 > *""* 
 
@@ -302,16 +302,20 @@ Notice the very premise of the movement when value can be captured enabling the 
 * @todo - p1 ( ) - In Space - Code Rush and Barksdale note - #above - Make short note of Code Rush explain Mozilla, and then the unbundle and disruptive move of Mozilla; and the ties with open source. Make sure to connect and lead to the "no doubt" comment from Barksdale. @meta-refid 1112-3332-2233-4434
 --> 
 
-What is clearly given by the situation of Netscape is exactly an active exercise although in a short period of time, of the necessity of the leadership to deal with the strategic thinking - and to be evaluating when the bundled condition may not offer value, and to reconsider the strategy in ways that new value can be added. Although the appropriate words should not be to say bundle and unbundle, we may well celebrate how the rise of Silicon Valley also shown the situations where certain technological advancement, by its own potential, makes a call not only management to rethink their strategy. 
+What Netscape team went through, more observed through the challenges faced by the Netscape browser department as they created the Mozilla project, was certainly a transformative journey that defined an future that were promosing, to a certain extent, but also uncertain on the other hand. The feeling about its potential were well captured as said by Jim Barksdale, re-bundling of Netscape as Mozilla:  
+
+> *"Well, it's certainly my hope that the enormous amount of new people that no one company could afford to have working on any product, now contributing to the Netscape Navigator Communicator [Mozilla project], will make a significant difference in the improvement of the product. How that works against any competitor remains to be seen."* (Barksdale in Project Code Rush, 2013)
+
+<!-- 
+@reference 
+* reference - The Documentary Network. (2013, August 12). Project Code Rush - The Beginnings of Netscape / Mozilla Documentary [Video]. YouTube. https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
+--> 
+
+We will come back to the other unbundling that happened through the Mozilla project in the next section; but for now let us continue to celebrate how these actual movements of ourselves, noticing the bundle/unbundle characterizations, are an essential element to be comfortable with, certain part of the challenges that entrepreneurs shall face either because the effects happens within the frames of what they bundle or because the fruits of the action happens within ties of other things bundled, like platforms. 
 
 <!-- 
 @todo @meta
 * @todo - p2 (Done, dismissed) - In Environment, Space - Check research  - unbundling came up in 2019 at Ycombinator - https://a16z.com/platforms-vs-verticals-and-the-next-great-unbundling/ @meta-refid 1212-3232-4432-3389 
---> 
-
-
-<!--
-@todo @meta
 * @todo - (Done, moved to A2) p2 - In Environment, Space - Consider to move the bundle/unbundle the part 3 @meta-refid 1222-3323-9393-9999 
 --> 
 
@@ -327,9 +331,22 @@ What is clearly given by the situation of Netscape is exactly an active exercise
 
 
 
+
+<!--
+@meta @todo
+* @todo - p2 (Not taken) - In Space - Bring a bit more on Mozilla and Bugzilla without going overboard. @meta-ref 1222-3323-3344-4455
+-->
+
+<!--
+@note - ref - https://hbr.org/2014/06/how-to-succeed-in-business-by-bundling-and-unbundling
+Barksdale:  Well, because it’s an effective growth strategy. Once you try to grow the business, it’s an easier out to stay focused on your core and then add things to it. And you become a big bundle again.
+Andreessen: Which then creates a new vulnerability that you didn’t have when you were the insurgent.
+--> 
+
 <!-- 
 @outline @meta
-* @outline - Answer - Bundle and unbundle - multiple entangled spaces and Bundle and Unbundle. 
+* @outline - Answer - Bundle and unbundle - 
+* Situation - Bundles are formed by faster capability of players to put together modules; and when the growth potential rises, it rises the bundled situation of a business too, for growth and distribution and then setting them at risk. 
 --> 
 
 ### Bundling and unbundling in Silicon Valley  
@@ -338,29 +355,29 @@ What is clearly given by the situation of Netscape is exactly an active exercise
 
 
 
+From the bundling/unbundling exercises provided - and reflections from these leaders that explored how the situation became as described "easier," - we shall rest in accepting that management had matured to be comfortable with the orchestration of bundling things, which is observed by shorter cycles of the movement, which goes along with the intensification of modularization [^footnote_hbr_justin_bundle_modularization] certainly tied to the company's growth strategy. In other words, if these bundle producers find value from the opportunity of bundling something, they as well set themselves to grow by exploring the good business pressures that the bundled experience creates given its growth and distribution power. We may even go back to the notion of disruptive and incremental innovation to point that the disruptive movement might be when the unbundling of a bundled setting discovers an essential new value, characterized by its new bundled form, which sets opportunities for addition, as in incremental innovation, which put them in the risky situation of expanding the ties that lead to the "big bundles," setting themselves to be at risk: 
+
+[^footnote_hbr_justin_bundle_modularization]: In discussing the theme of bundle/unbundle, Justin Fox pointed the work of Clayton Christensen's *Innovator's Solution* covers the progression of technology that in some situations had produced less *integrated" products which became "modular" products as it was the case of the PC industry. 
+
+> *"Well, because it’s an effective growth strategy. Once you try to grow the business, it’s an easier out to stay focused on your core and then add things to it. And you become a big bundle again."* (Barksdale, Jim. in HBR, 2014)
+
+
+
+
+<!-- 
+@references 
+* @reference - Fox, J. (2014). How to Succeed in Business by Bundling – and Unbundling. Harvard Business Review. Retrieved from https://hbr.org/2014/06/how-to-succeed-in-business-by-bundling-and-unbundling 
+--> 
 
 
 
 
 
 
-<!--
-@meta @todo
-* @todo - p2 ( ) - In Space - Bring a bit more on Mozilla and Bugzilla without going overboard. @meta-ref 1222-3323-3344-4455
--->
-
-
-By now, we may summarize that the phenomenon of bundling and unbundling may happen at the surface, which could be like incremental innovations, which is a softer approach, or it can be harder where it accesses the core or the underlying elements that enables a potential disruptive innovation. In the case of Netscape, to a certain extent, they were forced in a position to make a decision and to revisit underlying concepts enabling the product to be bundled in different ways. Therefore, when they had embraced open source - for a product that were proprietary - they arrived at that to a certain extent motivated by the competition. On the other hand, that was possible because the community of engineers and in special pioneers in the forefront of open-source had envisioned the of elements from the different space of open-source - and new methods for building things - that could reinvent collaboration in new ways which would be the challenges they had to do as the code open would demand the means to manage contributions from a lot of external people. In other words, once they embraced that popular bundled experience to be based in open-source, they took themselves to embrace other challenges such as to enable the full potential of collaboration. This, from Netscape to Mozilla to Firefox is to recognize that the underyling refactoring of managerial movement were happening and quite successful. 
-
-What we have considered by the prior illustrations and anecdotes, shall set us to embracing the infinite possibilities where anything that changes a space has ties with multiple different spaces and its underlying assumptions, or the means to get things done from these, which makes evidently clear that entrepreneurship deals with that choreographic movement that needs to be done in harmony and to produce what is coherent which is essentially a management aspect.
 
 
 
 
-Yet, this complex arrangement of what's bundled, given that it is tied with so many relationships with different spaces and needs to get done, brings to us the complicated reality that it's not easy to see all these different ties. And furthermore, the more we advance, it's more normal that people enter a given space and start building things, not knowing necessarily what's behind all that. As an example, if a kid loves a game and inside that game develops friendships with colleagues, and as she grows and sees values in that paricular universe it may to a certain extent become part of her normal life thus influencing her growth towards being an adult - or towards maturity. And that's certainly what's happening to many of us, because either social networks or social games and the ideas of the experiences given by the metaverse are essentially worlds that were built first; and it may well be the case that the players, or the users, or customers or call them whatever you want, really know what's going on behind the world as they see it. The way that I realized that was by witnessing the situation of my niece and her relationship with what were apparently a game platform - Roblox - as she guided me to understand a little bit about that world. What I took from her guidance was that I had entered a digital gaming platform where multiple users could play together, interact. As she had invited me to a specific city, I had noticed interactions between players like a community. And things were fine, and she even got excited because she started to create movies of herself acting in that city - in other words she were recording the screen with her character - her avatar - and even got to a point of making scripts, asking her friends to collaborate. But then, one day, she was quite sad because she received the news that the city would go away, because she heard that the developer were considering to kill his server. I don't know what happened there, if that was a rumor or not, but seemed to be something the end of the world anyway; like a prediction. Nevertheless, it is a good illustration of how one can be pretty involved, not only because of the intrinsic values by the social dynamics within the game, but because of extra values that these dynamics may give to them, which was the case of the extra meaning for my niece in the real world - the thing about making movies - although a more simple example of value that transcends can be the observation of friendship or colleagueship among players. 
-
-
-Of course, this example of children growing as a user of a specific universe may be scary to some parents, or, could be seen as educational to a certain extent by others, like the possibility that people could understand moral values such as the meaning of loss. But even more concerning can be that the very same effect happens in the world of adults. As an example, developers in the information technology industry may value underlying technologies - such as open source - which could set them to be attracted by other opportunities that depend on open-source. As an another example, if one is involved in other themes like the underlying foundations of cryptocurrencies, they may well endorse systems or platforms created on top of networks that they trust, that they love and are involved with. And that again, it may not be a problem, it could be that they see a future in there, granted; but yet still it reveals that we are entangled and driven by a forward movement which is tied to other movements in different spaces. Let us then go proceed to explore a bit about the magnitude of these entanglements by looking at a brief moment in the history of Silicon Valley and some of the  bundling and unbundling movements that had chaptered in Silicon Valley.
 
 
 
@@ -368,45 +385,33 @@ Of course, this example of children growing as a user of a specific universe may
 
 <!-- 
 @outline @meta
+* @outline - Answer - Bundle and unbundle - 
+* Complication -  Bundles shows a dynamic of distribution and through that value creation which leads to ties formation by the trust. Creates a inertial movement too. 
+--> 
+
+
+What is further complicated, for entrepreneurs of all kinds and sizes, is that an intensification of modularization is charecterized by the general growth of shared underlying technologies in a given industry, including its methods and standards, defines the actual building blocks for further potential bundle/unbundlge dynamics among companies; which will also set challenges exactly because roles get to be designed, jobs are shaped following the potential among companies, and management gets to see things from the goggles of the distribution which may further innovation to happen unless management finds creative ways to reinvent itself, as we shall celebrate by following along through a brief recounting of moment in the history of Silicon Valley and some of the  bundling and unbundling movements that enabled some chapters of it to follow. 
+
+
+<!-- 
+@outline @meta
 *                                              silicon valley - growing with silicon valley 
 --> 
 
-#### Growing in a growing space 
+#### 
 
 
+But if the bundled browser showed a great potential, such as to take me to become one of the early "web evangelists" all that movement naturally were a movement from other movements. My involvement with being teased - an likely too trapped - by technology and digital things had an origin around 1985 when video games were simpler - but needless to say a miracle. Digital games existed for a while but the PC was new and with that we kids were teased to play the games but also with an additional message - you can improve your computer, buying the hardware to add more power to it, but get involved in the craft too as computers were the thing that could (a) play games but as well (b) make games. A kid would wish simple things, likely, if not aware of the miraculous ways to make games; such as to clothes of the game's character. The message was that one could use the same machine to actually write new things that runs in the machine. And a kid would naturally ask - can all be done from that? And since the answer was yes, one could engage into the art of creating software and I hoped to make a game. But, as one would later expect, I could not tell to the machine to write a game for me and had to first meet concepts like the *The Operating System* and then the *The Programming Language*. So then, again, a kid would think to be ready but only to stumble on other challenges. Oh, writing the game seems to be hard and involves lot of work and especially hard work from the fact that the computer's resources were limited. To shorten the story, my game seemed to be impossible with the platform I were using. I heard that I had to use another language, known as the *The Machine Language,* and deedless to say that the pointers to learn things consisted of magazines. Before I knew it, as as my parents were nice to cut their budget and buy new computers, my skills improved while making games was not possible I was caught able to make commercial systems for adults. These were easier and I felt as somebody.
 
+In less than a decade, growing around computers, I was quite involved in the idea that a thing were to be built "on top of" another thing, that these were tools to build new experiences, digital experiences, as in the tool were a programming language, and that my software would run "on top of" Windows and that Windows would run "on top of" the personal computers. Plus from that, naturally, that I wasn't into sports. That level of comfort with the personal computer seemed to be stable - ok, that seem to be the 3 layers relevant to me so I were set to build for that world. But then, fast-fowarding to a potential from being lucky to be in that world, I was caught doing Computer Science and then the Web came along. Andy Grove used the right words (Grove, A., 1999, p. 171) to describe the Web's potential which were bundled by the browser experience popularized by that early Netscape browser. That first-time experience of typing an address of a web page and to receive that "material" from "those computers" and to see them with "enhanced with colorful graphics, photographic images and even rudimentary sound and video;" were, indeed a "seductive miracle." For me, it was challenging to be witnessing that movement in my second year in the Computer Science course. 
 
+It was quite surprising that another layer seemed to be created "on top of" the operating system," that through the browser, pages could be created without the necessity to "download" or to "install" things. We could simply navigate if you had that system set. Back in these days myself and two friends created a service to set up computers for people interested in using the Web. We used to charge a 2 liter coke in return. Shortening the story again, that movement and interest in making the web pages took me to work at Netscape but something that could not have much time to see had to do with the knowing that I was working around the people making the browser gave me a reasonable hint about how the underlying reality we flexible; but it couldn't give me a full view, a transcending view, about what were the underlying things happening. 
 
-Because of the too many ties for anyone to understand - if not boring for a business book - I thought of giving us a viewpoint for how I had witnessed the formation of digital platforms, as a kid from the age of ten, around 1985, and moving forward along with the growth of the information technology industry to a point of moving to Silicon Valley. Not different from many other folks that were taken by computers, for me it something new started as I had witnessed some of the first video games, then the early personal computers, then the emergence of the internet browser, then witnessing the early mobile phones - up to now that I have a quite powerful smartphone that receives too many notifications to the point that I had to install "an app" referred as a digital well-being app that allowed me to turn off many of the online apps too so that I can actually get to work, and do focused work, like what I am doing now. 
-
-The origin of seeing things as platforms, or spaces, started to grow from around 1985. These where the days when video games existed already so it was exciting to be growing around these systems. But generally with video games it was sad that we had no way to create those games, or to modify them ourselves. One could only dream and wonder about how these games were made, of course excited about the possibilities of modifying it - What if I could change the clothes of the hero? Of what if I could change the color of the background, or the number of lives, and more. But it didn't take long before my father brought the personal computer. This was a different box because it also had games in it but it had something else which was a more acessible door inviting us to do that kind of custom work. That was the message. You can use the same machine to actually write new things that runs in the machine. And a kid would naturally ask - can all be done from that? And the answer was yes, one could engage and create software systems, and even other video games. 
-
-So the first thing to learn was what the technical folks would call *The Operating System* and too other esential tool referred as *The Programming Language*. With a programming language you can write your own game. So I took that as the truth which made me assume that the computer I had was a thing that enabled the development of games. Since my goal was to build my own game I tried. But it didn't take long for me to start to understand that the programming language that I were using was too simple or limited. So my game seemed to be impossible with the platform I were using. The solution I heard was that I had to write games in a more complex programming language what the technical folks refer as *The Machine Language*. Needless to say that I had no pointers like access to the Internet. The books we had were magazines and I likely didn't express to my parents my intents to dive into that level of detail. So, I had decided to pivot since I were anxious for results and tried to do something more simple. 
-
-Also time were moving and I would be by now using a better computer. Since I liked to draw I tried to make a software for drawing what the technical folks would refer as a graphics editor. Although that seemed simpler comparing with video games, and I went quite further, I caught myself again limited by the tools I were using or limited by the complex thinking involved to make that work with the limited resources too. Since I couldn't really make that graphics software how I wanted I endup feeling like being somebody usefaul writing software solutions for the world of adults, what technical folks refer as commercial systems. 
-
-Those were simple, I felt as somebody useful and could even help some adults too. It was exciting and this is how I came to understand that systems for people, or what technical folks would refer as users, were written using programming languages, the things that developers could write games, or graphic editors, or word processors and commercial applications. So right there I would be an user experiencing a number of platforms. To consider the evident ones, first the computer itself. And "on top of that," as the technical professional would say, there is an operating system. And on top of that operating system, the tools for programming. Another evident observation is how I were able to do things, like to write my own software system, but too had to respect the limits of these platforms, to use the tools that they had offered. 
-
-
-
-
-
-
-
-If we follow the story of a kid growing around computers, and a tiny slice of the world of computers, and the growth of the information technology industry, up to the web and the world of browsers, we're likely not missing the phenomenon that out of that being unleashed because of the economic opportunity, in other words, newspaper companies had become content providers in the digital world, just as a tiny example. But along with that, the inevitability of a movement where a kid could be becoming a professional in a given new space that was promising and growing. In other words, the world of browsers, its tools and related underlying systems was evolving exactly because of the economic model and characteristics of the space potential. As for my case, I ended witnessing the formation - and getting paid along - of the Web Developer role [^footnote_marcio_web_developer], which brought myself to be invited to work at one of the iconic companies of the time - Netscape - which were amazing to navigating that space. But the important point for us is evidently formed by now - that the space is quite real, and one can be quite busy exactly because of that intense movement which may also become a sort of inertial movement. While a lot is changing and you may feel like somebody, it should also be recognized that a lot seems immutable, for one in the craft looking the building blocks they are comfortable with. So for me it too had seen walls in that source space, given by the building blocks that the browser makers and web makers had produced. Yes, the knowing that I was working around the people making the browser gave me a reasonable hint about how the underlying reality we flexible; but it couldn't give me a full view, a transcending view, about what were the underlying things happening. I did not have the time to understand the relativeness of all, and even to understand if I were trapped or not, how to escape, for instance, such as to access the day which I would embrace becoming a writer. And even for the bright minds that may become leaders of these major platforms - they too can be carried but what happens. I would think that the leaders of the social networks that had been wildly and widely embraced by people really didn't mean to enable people to be siloed within their own groups of afinity and where their supporters would echo their beliefs. With all the good intentions, from the optimistic perspective, the rise of social networks started with that premise that one could meet anyone in the world with the six degrees of freedom - anyone is not far from the president. I recall those days and that ideal. But too, I confess, by following the movement, I didn't notice when the social network became a world that were to create to me six degress of walls. 
+I did not have the time to understand the relativeness of all, and even to understand if I were trapped or not, how to escape, for instance, such as to access the day which I would embrace becoming a writer. And even for the bright minds that may become leaders of these major platforms - they too can be carried but what happens. I would think that the leaders of the social networks that had been wildly and widely embraced by people really didn't mean to enable people to be siloed within their own groups of afinity and where their supporters would echo their beliefs. With all the good intentions, from the optimistic perspective, the rise of social networks started with that premise that one could meet anyone in the world with the six degrees of freedom - anyone is not far from the president. I recall those days and that ideal. But too, I confess, by following the movement, I didn't notice when the social network became a world that were to create to me six degress of walls. 
 
 [^footnote_marcio_web_developer]: The web developer, formed after the Internet browser enabled organizations to make sites and software systems available through web browsers. The web developer would then become a worker for the medium of the Web. https://hackernoon.com/the-history-of-web-developers-tied-to-browser-development
 
-
-
-
-
-Thus it comes with that too, that even in the digital space, we shall be set under conditions that can be quite difficult to see the miracle of how these tools and systems and arrangements are formed and how one thing depend on another on so many levels of abstractions, especially when we are busy and producing. Perhaps, we get a bit of that feeling that something else exists when out of the sudden we get to be disconnected; in my case when it was a day when the electricity went off out of the sudden. More younger ones would recall the same feeling if the Internet went off - it is then when some infrastructure that we take for granted is taken out that we in fact almost get interested in celebrating how far too many things are interconnected. 
-
-
-
-
-Let's extend this idea a bit further with Maslow from *Memorandum on Syndrome Dynamics and Holistic, Organismic Thinking*, an strange title perhaps but as strange as us taking for granted all that makes any of these spaces possible: 
+Thus it comes with that too, that even in the digital space, we shall be set under conditions that can be quite difficult to see the miracle of how these tools and systems and arrangements are formed and how one thing depend on another on so many levels of abstractions, especially when we are busy and producing. Perhaps, we get a bit of that feeling that something else exists when out of the sudden we get to be disconnected; in my case when it was a day when the electricity went off out of the sudden. More younger ones may recall the same feeling when the Internet goes off. Other younger kids get the feeling when the game server goes off or the owner disconnects it. To wrap up the point, we may consider a situation that was observed by Abraham Maslow in *Memorandum on Syndrome Dynamics and Holistic, Organismic Thinking*, an strange title I felt but which give us a perspective that all these layers, such as the miracle of pages, the browser, the operating system, the PC, were creations also given by the miracle of other platforms in the first place:  
 
 > *"The fact is that the enterprise, let's say Non-Linear Systems, is embedded in its immediate community; in all sorts of specifiable ways this immediate community is embedded in the larger community, let's say the Southern California area, which in turn has very definite and functional relationships with the state of California, which in turn is embedded in the United States, which in turn is embedded in the Western world, which in turn is embedded in the whole darn human species and the whole darn world. There are functional relationships in the sense that demonstrable causes and effects can be listed, and they can be listed by the thousands. The fact that these are normally overlooked and taken for granted has nothing to do with the case. For instance, the fact that Non-Linear Systems has just one night watchman instead of a private army of three thousand people equipped with machine guns and cannon is taken for granted, but this can be taken for granted only when the relationships work so well. Or the fact that the enterprise is dependent upon the town for the supplies of water, electricity, and gas, for the maintenance of roads, for fire and police departments, not to mention doses of other services like restaurants and shopping centers and markets and the like, which make it possible for people to live in the area, which makes it possible in turn for them to work in the plant. If anybody who worked at non-linear systems took a risk of being assassinated on the main street, then the enterprise would, of course, disappear. This should be spelled out; it should be consciously understood that Non-Linear Systems rests on a whole network of assumed relationships, services, etc. It is, in a word, "contained within" as in a syndrome, or even more accurately it is "contained-and-structured within."* (Maslow, p. 135)
 
@@ -424,12 +429,6 @@ Let's extend this idea a bit further with Maslow from *Memorandum on Syndrome Dy
 @meta @todo 
 * @todo - p1 ( ) @editor #technical #eletric - In Environment, Space - Check the part when we talk about transistors and the metaphors and other numbers. @meta-refid 1222-2333-4443-9393
 --> 
-
-
-Having us consider the effects of a kid growing inside spaces created by revolutions in Silicon Valley, open source and other underlying developments of the web from all the places of the world We may then recognize some other side of this equation, which is the movements that happen in terms of disruptive innovation and then incremental innovation in terms of the underlying platforms technological platforms given Silicon Valley, informing Silicon Valley
-
-
-
 
 
 <!--
@@ -468,12 +467,25 @@ Now if we consider some of the transformations from 1956 - the Shockley days - t
 
 
 
+
+
+
+
+<!--
+@meta @todo 
+* @todo - p1 (Done, not taken) - Bring quote from Andy Grove from Only the Paranoid Survive about the Internet; @meta-refid 1223-4432-3455-8888.
+-->
+
 <!--
 @outline 
 *                                              silicon valley - creative destruction of management
 --> 
 
 #### Creative destruction of management 
+
+
+
+
 
 
 From the founding of Intel to backwards, we can track that Intel were founded by Robert Noyce and Gordon Moore. And if we rewiend more, we'll find that these same individuals happened to be part of a team of founders known at the time as *The Traitorous Eight* [^footnote_trairorous_eight] - a group of colleagues from Shockley Semiconductor that left and had founded Fairchild Semiconductor. 
@@ -513,14 +525,6 @@ As a matter of fact, the very new management practices that Andy Grove were invo
 
 
 
-I may also acknowledge here the notes from Andy Groove from On*Only the Paranoid Survive* about the rise of the Internet, and his views about what we're coming up at that point is very applicable to conclude this section: 
-
-> *""* Andy Grove 
-
-<!--
-@meta @todo 
-* @todo - p1 ( ) - Bring quote from Andy Grove from Only the Paranoid Survive about the Internet; @meta-refid 1223-4432-3455-8888.
--->
 
 
 
@@ -1098,14 +1102,7 @@ Now a slight complication to get what goes on with the rise of interactive platf
 
 ##### From Nestcape to Mozilla to Firefox 
 
-Thus, and to celebrate these challenges of ourselves figuring value and the pressures from value, let us start by considering a case I have mentioned before, the rise of the Mozilla project, but now to consider how the unbundling of Netscape and the bundling of Mozilla project gave rise of an iconic browser project made by thousands of contributors worldwide. If we recount from history, Mozilla project, the open-source code for a browser, was the response from Netscape as Microsoft had bundled its own browser in their Windows operating system - thus serving the Internet navigation needs of its users. The movement, given that Netscape were bleeding fast, was led by creative leaders that trusted that the growing open-source movement would give a new beginning for Netscape. A main challenge was the necessity of rewriting Netscape's proprietary code - which were millions of lines of code according to Code Rush documentary (Project Code Rush, 2013) - which involved doing it in ways compatible with the open-source characterizations and in ways to leverage the interaction of contributors from all over the world; essentially enabling the co-creation with the wider community. What were in front of them where well said by Jim Barksdale, the then-CEO of Netscape that supported that unbundling and re-bundling of Netscape as Mozilla:  
-
-> *"Well, it's certainly my hope that the enormous amount of new people that no one company could afford to have working on any product, now contributing to the Netscape Navigator Communicator [Mozilla project], will make a significant difference in the improvement of the product. How that works against any competitor remains to be seen."* (Barksdale in Project Code Rush, 2013)
-
-<!-- 
-@reference 
-* reference - The Documentary Network. (2013, August 12). Project Code Rush - The Beginnings of Netscape / Mozilla Documentary [Video]. YouTube. https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
---> 
+Thus, and to celebrate these challenges of ourselves figuring value and the pressures from value, let us start by considering a case I have mentioned before, the rise of the Mozilla project, but now to consider how the unbundling of Netscape and the bundling of Mozilla project gave rise of an iconic browser project made by thousands of contributors worldwide. If we recount from history, Mozilla project, the open-source code for a browser, was the response from Netscape as Microsoft had bundled its own browser in their Windows operating system - thus serving the Internet navigation needs of its users. The movement, given that Netscape were bleeding fast, was led by creative leaders that trusted that the growing open-source movement would give a new beginning for Netscape. A main challenge was the necessity of rewriting Netscape's proprietary code - which were millions of lines of code according to Code Rush documentary (Project Code Rush, 2013) - which involved doing it in ways compatible with the open-source characterizations and in ways to leverage the interaction of contributors from all over the world; essentially enabling the co-creation with the wider community. 
 
 Now, and as history shows, from Mozilla open-source project not widely known in 1998 - except by these pioneers - to Firefox the browser reached 30% of the browser market in a decade [^footnote_firefox_peak], the journey consisted in solving a lot of challenges in order for a rich collaborative framework to thrive. One example of the many important buildin blocks were a system known as Bugzilla [^footnote_mozilla_bugzilla] which enabled contributors to report problems (bugs as they call), to discuss how to solve them, and to contribute with code solving them. Therefore, Bugzilla along with many other building blocks, like the Mozilla open-source license, represented the essential managerial work that responded to the needs of a wider community that were eager to collaborate. The impact, besides the outcomes visible at the surface, was a strong community, the Mozilla community, that grew in structured, that became a well of knowledge and value creation, which enabled the actual interactions from volunteers from all over the world that brought the outcome of "a significant difference in the improvement of the product," as Jim Barksdale expected, and a lot more. 
 
