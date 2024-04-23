@@ -271,8 +271,17 @@ Some of its early observations about its disruptive potential had to do with the
 * Reference - Grove, Andrew. (1999). Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company. [Só os Paranóicos Sobrevivem]. Crown Publishing.
 --> 
 
+All was good to go as Netscape was growing rapidly and was quickly brought to the stock market, where, according to Wikipedia (n.d.), 'the stock's value soared to US$75 during the first day of trading, nearly a record for first-day gain.' Word-of-mouth was happening, prompting people to buy-in, to download, and experience the web's potential—a miracle of that time. This continued up to the moment when Microsoft decided to enter the browser market; an event we now recall as 'the browser wars.' In a nutshell, Microsoft created their own browser, Internet Explorer. This wouldn't have been a problem for Netscape except that Microsoft owned the very operating system on which Netscape depended. In other words, people could only install and experience the Netscape product because it was made, as we used to say, for Windows.
 
-So all were nice, and Netscape were growing, and Netscape had too celebrated the highest IPO in history (of the stock market,) so word-of-mouth was happening and taking people to buy-in, to download, and to experience the web's potential, or that miracle. That up the moment when Microsoft decided to look at what a browser meant; which we may now shorted that long battle which was known as "the browser wars." In a nutshell, Microsoft had created their browser, namely Internet Explorer, which it wouldn't be a problem for Netscape except that Microsoft happened to own the very operating system which Netscape depended. In other words, people could only install and experience the Netscape product because it was made as we used to say in the days "for Windows." 
+<!--
+@meta @reference 
+* @reference - Wikipedia contributors. (n.d.). Netscape. In Wikipedia, The Free Encyclopedia. Retrieved April 23, 2024, from https://en.wikipedia.org/wiki/Netscape
+-->
+
+<!--
+@meta @todo/action
+* @todo - p2 (Done) - In Space, Bundle and Unbundle - Check the reference to Netsape and highest IPO, right wording and right reference, such as to refer to Nasdaq, likely a footnote. @meta-ref 1223-3345-7685-8374 
+--> 
 
 The Netscape was bleeding fast and this is where the idea of bundle and unbundle gained visibility by the executives of Netscape. In an interview for Justin Fox, for Harvard Business Review (Fox, 2014), Netscape's CEO Jim Barksdale recalled that the thought came about during Netscape's public offering roadshow, in a particular day when they were in a room full of British investment bankers but while pressed for time were questioned about the potential thread from Microsoft, “How do you know that Microsoft isn’t just going to bundle a browser into their product?” to which he replied "Gentlemen, there’s only two ways I know of to make money: bundling and unbundling," and to not leave everyone confused before leaving he added that the " .. best I can tell, most people spend half their time adding and other people spend half their time subtracting, so that’s what works out." 
 
