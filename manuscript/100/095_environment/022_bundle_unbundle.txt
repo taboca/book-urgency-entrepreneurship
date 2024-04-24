@@ -1,0 +1,330 @@
+
+
+
+<!-- 
+@outline @meta
+* @outline - Answer -  Bundle and Unbundle 
+--> 
+
+## Bundle and unbundle 
+
+
+
+
+<!--
+@outline - 
+* @outline - Answer -  Bundle and Unbundle 
+*   @outline - Pitch - philosophical question of action from action, only post-mortem leads to understanding?
+--> 
+
+
+
+
+Sometimes, if not generally, we get acquainted with new terms by the on-the-fly practice, when we are caught in new working space where somebody throws a tool and before you know you are told to keep cranking. The term 'bundled' came to me like that because it was said a lot within the buildings at Netscape - the iconic company that created or popularized, or bundled, the internet browser. Once in the field I was suddenly part of a machine that we were *bundling* an internet browser. As an aside, I shall note that my passion for English had origins in the world of the programming languages; in other words words like *While*, *If*, *Then*, *For* and others had influenced me to generally say things like: *While* I am here, working in United States, I am happy to build things *Until* some major event calls me back to Brazil. *If* friends invite me to dinner, *Then* I shall comply. But it was only after I had returned to Brazil - having more time to reflect oand seeing from far, in perspective - that I had more calmly considered that for all things bundled, other things had to be unbundled, especially when the matter has to do with innovation. 
+
+
+
+
+<!--
+@outline - 
+* @outline - Answer -  Bundle and Unbundle 
+*   @outline - Theme - Back to bridge, the necessity of the challenge, entrepreneurial action deals with bundling in a space leading to the unbundle of other space. 
+--> 
+
+
+
+Let us then step into a reflection about about the notion of bundle and unbundle and how that reveals a lot about the strategies of growth of products and platforms - given by the business leaders and the pioneers that brought to us, or bundled, the internet browser. To get to the point of the browsers tough, we need first to recount the incremental innovations that took place as the Internet were developing. The view from Andy Grove in *Only the Paranoid Survive*, beautifuly depicts the premisses of the Internet leading to the Web and browsers: 
+
+> *""* Andy Grove 
+
+<!-- 
+@meta @todo 
+* @todo - p2 ( ) - In Space, Bundle and Unbundle - Put the quote from Andy Grove from Only the Paranoid Survive, which explains the Internet before the web. @meta-refid 1223-3435-6574-8794
+--> 
+
+
+Some of its early observations about its disruptive potential had to do with the idea of disrupting some aspects of the traditional newspaper experience. In other words, the browser was a tool to navigate digital pages, and all to happen by typing an address. Plus, if that wasn't enough, the browser were essentially an user agent, able to read through the hyperlinks that connected one page to another, so enabling the user to access a web of documents and since anyone could create a web page, thus anyone were to be able to access content in a format loolking like a page from anywhere given that the browser tool were connected. If your computer is connected to the Internet, you can then type the address of a company, and voilá, the page shows.
+
+<!--
+@meta @todo/action
+* @todo/action - p2 ( ) - In Space, Bundle and Unbundle #above - Ask chatgpt to check the accuracy of the above, if Netscape were the highest IPO, likely may consider to refer to Andy Grove in Only the Paranoid Survive, p. 167. @meta-refid 1223-3223-3445-8766
+-->
+
+> *"To a computer user, the fact that any PC on any person's desk could become a window into millions of computers all over the world was like a miracle. And the fact that the material in those computers could be enhanced with colorful graphics, photographic images and even rudimentary sound and video made it a very seductive miracle."* (Grove, A., 1999, p. 171)
+
+<!--
+@meta @reference 
+* Reference - Grove, Andrew. (1999). Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company. [Só os Paranóicos Sobrevivem]. Crown Publishing.
+--> 
+
+All was good to go as Netscape was growing fast. In addition, the company was quickly brought to the stock market, where, according to Wikipedia (n.d.), 'the stock's value soared to US$75 during the first day of trading, nearly a record for first-day gain.' Word-of-mouth was happening, people eager to download it and connect to the web and indeed were able to experience a miracle. That, up to the moment when Microsoft decided to enter the browser market which had unleashed a moment in the history of technology which can now be recalled as 'the browser wars.' In a nutshell, Microsoft created their own browser, Internet Explorer, which wouldn't have been a problem for Netscape except that Microsoft owned the very operating system on which Netscape depended. In other words, people could only install and experience the Netscape product because it was made, as we used to say, for Windows.
+
+<!--
+@meta @reference 
+* @reference - Wikipedia contributors. (n.d.). Netscape. In Wikipedia, The Free Encyclopedia. Retrieved April 23, 2024, from https://en.wikipedia.org/wiki/Netscape
+-->
+
+<!--
+@meta @todo/action
+* @todo - p2 (Done) - In Space, Bundle and Unbundle - Check the reference to Netsape and highest IPO, right wording and right reference, such as to refer to Nasdaq, likely a footnote. @meta-ref 1223-3345-7685-8374 
+--> 
+
+Then all were bad for Netscape as in they were bleeding fast. This is where the notion of bundle and unbundle gained visibility by the exercises and reflections from executives of Netscape. In an interview for Justin Fox, for Harvard Business Review (Fox, 2014), Netscape's CEO Jim Barksdale recalled that the expression gained visibility during a public offering roadshow; in a particular moment when they were in a hurry to take a plane but in the last minute took the question “How do you know that Microsoft isn’t just going to bundle a browser into their product?” to which he replied "Gentlemen, there’s only two ways I know of to make money: bundling and unbundling," and to not leave everyone confused he added before he left that the " .. best I can tell, most people spend half their time adding and other people spend half their time subtracting, so that’s what works out." 
+
+According to Jim, although the comment wasn't carefully crafted for the audience, it had the advantage of carrying an element of truth. These leaders had caught themselves in the middle of a shortening of the cycles as for how things are bundled. We may get a sense of this more active bundling/unbundling dynamics with the illustration from Marc Andreessen of how the experience of listening to music went through moments of bundling and unbundling and bundling again as the experience given by LP discs (long-playing discs made of vinyl) which revolutionized the music industry - by following opportunities given by the advancements of underlying technologies: 
+
+> *"It made sense in the LP and CD era to put eight or 10 or 12 or 15 songs on a disc and press the disc and ship it out and have it sit in storage until somebody came along and bought it. But, when you have the ability online to download or stream individual tracks, then all of a sudden that bundle just doesn’t make sense. So it collapsed apart into individual MP3s. And I think now it makes sense that it’s kind of re-bundling into streaming services like Pandora and Spotify."* (Andreessen, Mark. in HBR, 2014)
+
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Space, Bundle and Unbundle - Fix APA citation Mark in the interview. @meta-refid 1233-4344-7682-8283
+--> 
+
+
+<!-- 
+@references 
+* @reference - Fox, J. (2014). How to Succeed in Business by Bundling – and Unbundling. Harvard Business Review. Retrieved from https://hbr.org/2014/06/how-to-succeed-in-business-by-bundling-and-unbundling 
+--> 
+
+Through the reflections given by the interview, it is inescaple to consider the implications that the "bundling or unbundling of the product actually directly affects the bundling or unbundling of the business," as noted by Marc Andreessen. And, furthermore to celebrate the complications in the the digital world where technological platforms carries the power to bundling products of other "partner," or "customer" organizations, which can be noted by the consideration that Netscape browser mostly existed for Windows. 
+
+And as Microsoft decied to bundle Internet Explorer browser for free, they changed the whole course of Netscape, which brings us to celebrate the moment of history where Netscape had to make a call to not only unbundle their own product but a lot about their business strategy or in other words to  rethink their entire strategy, which brought them to create the Mozilla Project. Notice the very premise of the movement when value can be captured enabling the bundling effect, the given that technologies are in motion. One particular movement growing strong was the open-source movement in the software industry which was embraced by Netscape as a strategy to counter-attack. According to Code Rush documentary, 
+
+> *""* 
+
+<!--
+@meta @todo 
+* @todo - p1 ( ) - In Space - Code Rush and Barksdale note - #above - Make short note of Code Rush explain Mozilla, and then the unbundle and disruptive move of Mozilla; and the ties with open source. Make sure to connect and lead to the "no doubt" comment from Barksdale. @meta-refid 1112-3332-2233-4434
+--> 
+
+What Netscape team went through, more observed through the challenges faced by the Netscape browser department as they created the Mozilla project, was certainly a transformative journey that defined an future that were promosing, to a certain extent, but also uncertain on the other hand. The feeling about its potential were well captured as said by Jim Barksdale, re-bundling of Netscape as Mozilla:  
+
+> *"Well, it's certainly my hope that the enormous amount of new people that no one company could afford to have working on any product, now contributing to the Netscape Navigator Communicator [Mozilla project], will make a significant difference in the improvement of the product. How that works against any competitor remains to be seen."* (Barksdale in Project Code Rush, 2013)
+
+<!-- 
+@reference 
+* reference - The Documentary Network. (2013, August 12). Project Code Rush - The Beginnings of Netscape / Mozilla Documentary [Video]. YouTube. https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
+--> 
+
+We will come back to the other unbundling that happened through the Mozilla project in the next section; but for now let us continue to celebrate how these actual movements of ourselves, noticing the bundle/unbundle characterizations, are an essential element to be comfortable with, certain part of the challenges that entrepreneurs shall face either because the effects happens within the frames of what they bundle or because the fruits of the action happens within ties of other things bundled, like platforms. 
+
+<!-- 
+@todo @meta
+* @todo - p2 (Done, dismissed) - In Environment, Space - Check research  - unbundling came up in 2019 at Ycombinator - https://a16z.com/platforms-vs-verticals-and-the-next-great-unbundling/ @meta-refid 1212-3232-4432-3389 
+* @todo - (Done, moved to A2) p2 - In Environment, Space - Consider to move the bundle/unbundle the part 3 @meta-refid 1222-3323-9393-9999 
+--> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+@meta @todo
+* @todo - p2 (Not taken) - In Space - Bring a bit more on Mozilla and Bugzilla without going overboard. @meta-ref 1222-3323-3344-4455
+-->
+
+<!--
+@note - ref - https://hbr.org/2014/06/how-to-succeed-in-business-by-bundling-and-unbundling
+Barksdale:  Well, because it’s an effective growth strategy. Once you try to grow the business, it’s an easier out to stay focused on your core and then add things to it. And you become a big bundle again.
+Andreessen: Which then creates a new vulnerability that you didn’t have when you were the insurgent.
+--> 
+
+<!-- 
+@outline @meta
+* @outline - Answer - Bundle and unbundle - 
+* Situation - Bundles are formed by faster capability of players to put together modules; and when the growth potential rises, it rises the bundled situation of a business too, for growth and distribution and then setting them at risk. 
+--> 
+
+### Bundling and unbundling in Silicon Valley  
+
+
+
+
+
+It goes with the these reflections that the bundling/unbundling dynamics which were described as "easier," went along with a characterizations by the industry, such as of the modularization [^footnote_hbr_justin_bundle_modularization] as suggested by Justin Fox in the same interview. In other words, although this is a simplification for the sake of we now moving to a more broader view, these producers were designing value by bundling modules together. Say modules as methods shared knowledge that exists in the industry, or easier to replicate parts of code given by undelying standards or open libraries. Thus if one were smart enough to bundle something as to define a growth, that output would produce the outcome of the bundled experience to grow, as the bundle thing suffers from the pressures that more can be bundled in it - other modules to serve ties with other partners for example or to accomdate user's needs; but too and from that that the growth of the bundled experience can lead to a characterization of the "big bundle" (2014) which is a vulnerability if not by the excesses it brings but also by the very potential that the competition can also play the game. A note, on the competition given by Microsoft, could be that Microsoft didn't remove Netscape from the platform by the release of a sort of same product for free but it may be that Microsoft had bundled the same product but one that didn't required the install time. Thus essentially, Microsoft crossed the barrier that Netscape couldn't do - given that Netscape employees could not access the bundled Windows to decide to put Netscape there. Notice that how the movement of Microsoft, to a certain extent "playing differently" and the other response from Netscape by crossing through - towards looking at a whole new model of productizing its product - also consisting or "playing unfair" from the perspective that fair is what is being done. 
+
+[^footnote_hbr_justin_bundle_modularization]: In discussing the theme of bundle/unbundle, Justin Fox pointed the work of Clayton Christensen's *Innovator's Solution* covers the progression of technology that in some situations had produced less *integrated" products which became "modular" products as it was the case of the PC industry. 
+
+<!-- 
+@references 
+* @reference - Fox, J. (2014). How to Succeed in Business by Bundling – and Unbundling. Harvard Business Review. Retrieved from https://hbr.org/2014/06/how-to-succeed-in-business-by-bundling-and-unbundling 
+--> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 
+@outline @meta
+* @outline - Answer - Bundle and unbundle - 
+* Complication -  Bundles shows a dynamic of distribution and through that value creation which leads to ties formation by the trust. Creates a inertial movement too. 
+--> 
+
+
+What is further complicated, for entrepreneurs of all kinds and sizes, is that the intensification of that general "modularization" by the movements of underlying technologies given by the industry, sets the actual movement of the industry - as in shapes technical jobs and managerial challenges - which also sets challenges exactly when these companies need to disrupt from the set of "building blocks" by crossing towards other spaces. Let us celebrate this perspective by recounting the history of Silicon Valley and the entanglements between the bundle/unbundle of experiences (by products) and management which is generally provoked to reinvent itself. 
+
+<!-- 
+@outline @meta
+*                                              silicon valley - growing with silicon valley 
+--> 
+
+#### 
+
+
+Now if management, or whoever is the lead of the choreographic movement, is generally trapped by the available modules or building blocks, they are so too because their specialists are quite specialists with the tools that were given to them. In other words, the very situation of a bundled product - or platform or solution - that is active and rich - sets an inertial movement by everyone, a movement within the platform. This idea of platforms, and the impact of it, started to be clear in my life in about a decade, as I grew from the age of 10 to 20 around the personal computer. Thus in 1985 I knew that digital games existed but the given that the personal computer was another sort of game as we kids were teased to play the games but more than that to ask "can I make a game?" And since the answer were yes, that would be one way to enter the world of creating software. And I hoped to make a game. But, then, that new terrain had rules, not unlike writing. So I had to first grasp concepts like the *The Operating System* and then the *The Programming Language*. But as I progressed, with age and also being luck to get new computers year after year, my struggle to make games suddenly gave a strength to make software for adults which were essentially easier and too the world seemed to be stable as in that I was getting used to built "on top of" a platform, using a programming language to build "my software" running "on top of" the operating system which in turn were running "on top of" the personal computer. 
+
+But then, if we fast-foward to the when I was caught in Computer Science university days, things out of the sudden changed again - which where we circle back to Netscape and that unique experiene which Andy Grove described quite well (Grove, A., 1999, p. 171) , that first-time experience of typing an address of a web page and be able to receive that "material" from "those computers" and to see them with "enhanced with colorful graphics, photographic images and even rudimentary sound and video." That were, indeed, a "seductive miracle," Mr. Andy. As for the "on top of" experience, I had to upgrade my views, exactly because now the browser were the new thing "on top of" the operating system," but a new platform because it enabled us to make pages could be created without the necessity to "download" or to "install" anything to the operating system. 
+
+Thus, if the good news existed in the user's ability to navigate a web page, another miraculous news was given by the fact that anyone could also create web pages. So I became a web page builder and later a web evangelist or a web developer [^footnote_marcio_web_developer] which were essentially a role created by the browser. Since one thing leads to another, before I knew I was brought to work for the Netscape of the Mozilla days. Although this experience had provided a view about the relativeness of platforms such as that we were using using open-source given that the prior product were proprietary - yet it I were living in a certain trap exactly because of the potential that the open-source movement was too rich and nice giving us a nice horizon ahead, thus for a specialist within it wouldn't mean a chance to revisit our terrain. Another example of how platforms can create conditions that builders may fail to see can be verifed by the some unexpected dynamics from social networks that perhaps surprised many builders of social networks with the paradox: If a social network offers an actual potential of its six degrees of freedom - anyone is not far from the president - how come then people get to be trapped by their thoughts and echoes as defined by the dynamics of their connections?
+
+[^footnote_marcio_web_developer]: The web developer, formed after the Internet browser enabled organizations to make sites and software systems available through web browsers. The web developer would then become a worker for the medium of the Web. https://hackernoon.com/the-history-of-web-developers-tied-to-browser-development
+
+Thus it comes with that too, that even in the digital space, we shall be set under conditions that can be quite difficult to see the miracle of how these tools and systems and arrangements are formed and how one thing depend on another on so many levels of abstractions, especially when we are busy and producing. Perhaps, we get a bit of that feeling that something else exists when out of the sudden we get to be disconnected; in my case when it was a day when the electricity went off out of the sudden. More younger ones may recall the same feeling when the Internet goes off. Other younger kids get the feeling when the game server goes off or the owner disconnects it. To wrap up the point, we may consider a situation that was observed by Abraham Maslow in *Memorandum on Syndrome Dynamics and Holistic, Organismic Thinking*, an strange title I felt but which give us a perspective that all these layers, such as the miracle of pages, the browser, the operating system, the PC, were creations also given by the miracle of other platforms in the first place:  
+
+> *"The fact is that the enterprise, let's say Non-Linear Systems, is embedded in its immediate community; in all sorts of specifiable ways this immediate community is embedded in the larger community, let's say the Southern California area, which in turn has very definite and functional relationships with the state of California, which in turn is embedded in the United States, which in turn is embedded in the Western world, which in turn is embedded in the whole darn human species and the whole darn world. There are functional relationships in the sense that demonstrable causes and effects can be listed, and they can be listed by the thousands. The fact that these are normally overlooked and taken for granted has nothing to do with the case. For instance, the fact that Non-Linear Systems has just one night watchman instead of a private army of three thousand people equipped with machine guns and cannon is taken for granted, but this can be taken for granted only when the relationships work so well. Or the fact that the enterprise is dependent upon the town for the supplies of water, electricity, and gas, for the maintenance of roads, for fire and police departments, not to mention doses of other services like restaurants and shopping centers and markets and the like, which make it possible for people to live in the area, which makes it possible in turn for them to work in the plant. If anybody who worked at non-linear systems took a risk of being assassinated on the main street, then the enterprise would, of course, disappear. This should be spelled out; it should be consciously understood that Non-Linear Systems rests on a whole network of assumed relationships, services, etc. It is, in a word, "contained within" as in a syndrome, or even more accurately it is "contained-and-structured within."* (Maslow, p. 135)
+
+<!-- 
+@references 
+* Reference - Maslow, Abraham H. (1998). Maslow on Management. Published by John Wiley & Sons, Inc.
+--> 
+
+<!--
+@meta @todo 
+* @todo - p2 (Done) - In Environment, Space - Consider to bring the reflection from Maslow, from Maslow on Management, where he explained that the Linear Systems had just one guard in the parking lot; so it is all connected. @meta-refid 1212-3344-4355-9494
+--> 
+
+<!--
+@meta @todo 
+* @todo - p1 ( ) @editor #technical #eletric - In Environment, Space - Check the part when we talk about transistors and the metaphors and other numbers. @meta-refid 1222-2333-4443-9393
+--> 
+
+
+<!--
+@outline 
+*                                              silicon valley - expanding universe, transistor, shockley and fairchild
+--> 
+
+### The expanding universe 
+
+
+To further explore these entanglements, we may go dig into the computer's history, first looking at the computer microprocessor and the little elements that can't be seen with the naked eye but nevertheless required a new sight from management in order to evolve. The tiny element inside processor is known as the transistor and where a big invention back in 1947 [^foonote_history_transistor].  This element is also referred as a semiconductor device but it is one that acts as a switch that can either allow or not allow energy to flow depending on a signal. An exampe of a big switch would be a door in a room that allows one to go out, if the door is open, so then once out she shouts out information. Now the magic in the computer world happens because transistors can be arranged with others and can form the microprocessor. If I insist with the door analogy, the microprocessor would be a big house with lots of doors where some of these doors openned could open of close others. 
+
+Well, and before my analogy confuses both of us, let us move to the a ballpark figure comparing the evolution of these microprocessors. The then-popular personal computer known as the IBM PC from 1981, which was a significant point in the computing history, carried an Intel microprocessor that had about 29,000 transistors [^footnote_history_transistor_count]. Fast-forward 39 years, the Apple Iphone 12 powered by Apple's A14 Bionic microprocessor carries around 11.8 billion transistors. In other words, in terms of transistors, an Iphone 12 microprocessor is about 406,000 times in terms of transistors comparing to an IBM-PC from 1981.  We should remind ourselves that the size of the transistors became much smaller, enabling faster response and less usage of battery, for example, so as for the last analogy it would be tittle little castle. 
+
+[^foonote_history_transistor]: The transistor, a fundamental building block in the world of electronics, was invented in 1947 by John Bardeen, Walter Brattain, and William Shockley at Bell Laboratories. This groundbreaking invention marked the beginning of a new era in electronic technology, enabling the development of smaller, more efficient, and more reliable devices. 
+
+[^footnote_history_transistor_count]: As noted in the Wikipedia article "Transistor count" (https://en.wikipedia.org/wiki/Transistor_count), estimates are provided for the transistor count of the Intel 8086 chip and the 8088 chip used in the IBM PC. The article also includes information on the transistor count for the Apple iPhone 12's chip, A14 Bionic microprocessor, among others.
+
+<!-- 
+@meta @todo 
+* @todo - p2 ( ) - In Spaces - Check footnote for the transistor - written by ChatGPT. @meta-refid 1222-2334-3344-4444 
+--> 
+
+<!-- 
+@references 
+* reference - Wikipedia contributors. (n.d.). Transistor count. Wikipedia. Retrieved March 22, 2024, from https://en.wikipedia.org/wiki/Transistor_count
+--> 
+
+Since obviously our idea is not to get technical but to celebrate the relativeness between these spaces, let's shift our focus to the history of Silicon Valley, back to 1956 when Shockley Semiconductor were founded by the co-inventor of the transistor in the beautiful Santa Clara Valley - a region of California known at the time for an agriculture producing orchards, apricots, prunes, cherries, plums, and more. I have used an AI tool to doublecheck information about William Shockley by asking "Was Shockley that went to live in the bay area with his mother?," to which the tool replied: 
+
+> *"Yes, William Shockley, co-inventor of the transistor and Nobel Prize laureate, moved to the Bay Area, specifically Mountain View, California, in 1956 to be closer to his ailing mother. This move was significant because it led to the establishment of Shockley Semiconductor Laboratory, the first semiconductor company in the place that would be later known as Silicon Valley. Shockley's decision to relocate there and start his semiconductor company played a crucial role in the development of Silicon Valley as a major hub for high-tech innovation and development."* ChatGPT, 2024. 
+
+As an aside, the transistors made by Shockley Semiconductor were made of Germaniun, while later Silicon became a more suitable  material for transistors; which explains why we call it Silicon Valley and not Germanium Valley. Another aside that I don't want to check the accuracy comes from when I first visited the Netscape campus back in 2000 and driving around the parking lot I asked my manager "what is that interesting object that looks like a little lighthouse?" To which he said that it was a super fan probably pulling chemicals from the ground and dumping far away in the air. I don't know if he was joking or not but I was scared and wondered about how things were before our days - the browser days. Now I remember too that from time to time a very shiny - and likely expensive equipment - would appear at different locations in our building. They told me that those were there to measure the quality of the air. 
+
+Now if we consider some of the transformations from 1956 - the Shockley days - to 1981 when Intel were unbundling their own 8086 platform architecture and bundling Intel's next generation of microprocessors, we will see it too how these technological developments went along with the needs for new management perspectives. 
+
+
+
+
+
+
+
+<!--
+@meta @todo 
+* @todo - p1 (Done, not taken) - Bring quote from Andy Grove from Only the Paranoid Survive about the Internet; @meta-refid 1223-4432-3455-8888.
+-->
+
+<!--
+@outline 
+*                                              silicon valley - creative destruction of management
+--> 
+
+#### Creative destruction of management 
+
+
+
+
+
+
+From the founding of Intel to backwards, we can track that Intel were founded by Robert Noyce and Gordon Moore. And if we rewiend more, we'll find that these same individuals happened to be part of a team of founders known at the time as *The Traitorous Eight* [^footnote_trairorous_eight] - a group of colleagues from Shockley Semiconductor that left and had founded Fairchild Semiconductor. 
+
+[^footnote_trairorous_eight]: The "Traitorous Eight" refers to the eight engineers and scientists who left Shockley Semiconductor due to dissatisfaction with management. They were Gordon Moore, C. Sheldon Roberts, Eugene Kleiner, Robert Noyce, Victor Grinich, Julius Blank, Jean Hoerni and Jay Last; and founded Fairchild Semiconductor; which opens our minds to consider how the idea of leaving a company, and with it its management practices and culture, were connected to the needs of a market in development. 
+
+The history around the *Traitorous Eight* is an invitation for a reflection for how the bundling of a new technological opportunity may depend on unbundling other fundamental elements in the space of management and even culture: While William-Shockley-the-inventor was brilliant the William-Shockley-the-manager was considered to be terrible by colleagues which prevented the opportunity ahead and led these eight colleagues to leave Shockley to create Fairchild Semiconductor. And if you are reading this wondering "what a big deal to leave bad management" keep in mind that in 1957 the idea of an employee leaving a company were considered as wrong - very wrong - which led Shockley to describe their leaving as a betrayal (Wikipedia, 2024).
+
+Now, allow me to see all of these companies as like departments of a one big company. With that, we can then proceed to think that Shockley had produced Fairchild. As as seen, that Fairchild brought Intel. But not only Intel, as according to *Fairchild, Fairchildren, and the Family Tree of Silicon Valley* (2016, December 20), Intel was one of other 126 spin-off companies also known as Fairchildren. 
+
+<!-- 
+@references 
+* reference - Laws, D. (2016, December 20). Fairchild, Fairchildren, and the Family Tree of Silicon Valley. Computer History Museum. https://computerhistory.org/blog/fairchild-and-the-fairchildren/
+--> 
+
+Now let's consider the possibility that the *Traitorous Eight* - as an event up to the point that Shockley having accused them of being traitors - could have accelerated a process waiting to happen: that it produced an impact in the views especially in Silicon Valley, minimally and initially to the people working at Fairchild Semiconductor, producing more open views such as for leaving a company, such as in circumstances of bad management.
+
+It is expected too that Fairchild had a better management and as well that its employees would not not fear much to consider creating new companies where many of them may be amond the 126 spin-off Fairchildren [^footnote_fairchild] companies. This event and managerial movements would likely produce a shift in the culture of the people working in Silicon Valley not only in terms of needs for better management but producing a mindset for openness which were essential elements a development of that industry and technological revolution. 
+
+[^footnote_fairchild]: According to Fairchild, Fairchildren, and the Family Tree of Silicon Valley Fairchild Genealogy (2016, December 20), a published print known as Fairchild Genealogy chart from 1986 included 126 semiconductor companies that were traced directly to Fairchild.
+
+<!--
+@references
+* reference - Wikipedia contributors. (2024). Traitorous Eight. Wikipedia. Retrieved March 19, 2024, from https://en.wikipedia.org/wiki/Traitorous_eight
+--> 
+
+And if we keep forwarding the Silicon Valley movie all the way to Intel days yet focusing on the managerial perspective, we get to celebrate the writings of Andy Grove, Intel's first hire that later became CEO and the author of the influencial management book entitled High Output Management. While High Output Management has produced direct impact to a lot of other innovators in Silicon Valley and around the world, is it too the historical proof of the managerial transformation and how quick these new managers had to do something about it. To note, Andy Grove wrote High Output Management and Only the Paranoid Survive while working at Intel. 
+
+<!--
+@meta @todo
+* @todo - p2 ( ) - In Environment, Space - Check reference if Andy Grove were really first hire. @meta-refid 1212-2223-3392-9394
+--> 
+
+
+
+As a matter of fact, the very new management practices that Andy Grove were involved with for many years during the challenging days of Intel led Intel to enter a new space of opportunity, leaving Intel as a memory manufacturing company, becoming Intel, which became widely known as the microprocessor manufacturing company and the realizations of the new space of opportunity since the microprocessors were becoming the central element of enabling value in the face of the emerging and growing needs and access of personal computers by people. Which takes us to understand the realization that Andy Grove had that the configuration of the personal computers inside small businesses and homes of people and all sorts of different businesses were actually becoming a central platform where all sorts of values would be able to be added on top or inside that space by all sorts of companies. Therefore, the fruition by the creative potential of many other entrepreneurs that wanted to contribute inside that new space of opportunity were happening and quite fast and spreading, specifically around Silicon Valley and other parts of the world as well. That essentially enabled the computer to sell peripherals like printers and many other opportunities given that configuration of the flexibility and the ability to customize a computer from software to operating systems to applications and we are not even yet considering the internet and the networked interoperable web which would come later of course as discussed.
+
+
+
+
+
+
+
+
+
+With these considerations, the illustrations, give us an idea to celebrate the nature, or the phenomenon, that after space is materialized. Driven by the ties of different spaces where the sources and resources come from, it develops by its economical setting, unleashing a creative potential of collaboration that reaches a point of saturation. It follows that people ground themselves until the moment that they cannot support anymore, as if the walls are about to be broken anyway but likely by the refactoring of the underlying ties that were sustaining that world as it seemed; claiming for different choreography of these ties, enabling people to get out from that box, get out from that saturated condition, and freshly enter new worlds then to become normal builders in the eld. This could be the case, although there are many other elements there, but to name a few, that throughout the Industrial Revolution, on the rise of autonomous machines and the mechanical developments, went along with the end of slavery and the needs for more specialized automation throughout the end of the 17th century and the early 18th century.
+
+Now if these ideas are tipping us that we shall be waiting for underlying things to happen, that isn't the case; as many as we have considered the doers in the arena, real people, are carriers of aspirations for a better future. This, we should acknowledge that the ideas for transcending comes too from within the box, exactly because we're essentially - although sometimes missing the point - interested in improving the lives of the well-beings and civilization. That idea should invite us to the means that are quite practical in the everyday life of entrepreneurs - and serve for them to improve the lives of people and come up with solutions, incremental or not, even solutions that can from within the box awake new experiences that transcends the traps they live, which usually transcend by exercising acessing the higher hopes for the human being and civilization and that does so by respecting the well-being, essentially. Let us move on into that, into transcending spaces.
+
+
+
+
+
+
+

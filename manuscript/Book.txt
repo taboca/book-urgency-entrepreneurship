@@ -19,8 +19,12 @@
 
 100/060_identity/100_article.txt
 
+### Chapter - Environment 
+
 100/095_environment/010_environment.txt
 100/095_environment/020_space.txt 
+100/095_environment/022_bundle_unbundle.txt
+100/095_environment/024_transcending.txt
 
 ########## reconsider?
 
