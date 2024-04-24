@@ -10,9 +10,9 @@
 
 
 
-If entrepreneurship is so interested in serving people's needs, why is it that in its urgency to do, it builds complex things to a point that it misses the actual needs of people? This phenomenon is recognized when advisors remind entrepreneurs to focus on the problems of customers [^footnote_focus_problems] and not on the solutions. Granted that the advice is precious; so much that if taken further it may too remind our advisors that the means for listening to people can be well-influenced by existing solutions.
+If entrepreneurship is so interested in serving people's needs, why is it that in its urgency to do, it builds complex things to a point that it misses the needs of people? This complication is recognized by advisors that recognize the phenomenon where entrepreneurs need to focus on the problems of customers, not on solutions [^footnote_focus_problems]. Granted, the advice is precious, but if so can and should also remind our own advisors that the even means for listening to people can be well-influenced by existing solutions.
 
-It might be worth to pause and ask ourselves if our methods for comprehension could be used as methods of control [^footnote_peterdrucker_comprehension_control]. Or, in other words, if our environment exercises a form of control by its means for building and distribution i.e. of telling us what to do, how to do, and why to do; especially when we are empowered to urgently advance by taking advantage of its richness.
+Another motivation to value the impact of the environment comes from the very fact that the entrepreneurial function doesn't hack directly people's lives; that it does so indirectly through things created, through solutions, in our spaces. In other words, and given that entrepreneurs are people too, any prior and successful entrepreneurial movement set us in directions in terms of how we build, what we build, and why we build. 
 
 [^footnote_focus_problems]: As an example we shall consider the emergence of the book from Uri Levine, the co-founder of the popular the navigation and transit application entitled Waze, entitled *Fall in Love with the Problem, Not the Solution: A Handbook for Entrepreneurs* (2023); as a well-thought response to help entrepreneurs deal with the phenomenon where the rush towards solution-centric approaches potentially places genuine innovation at risk. 
 
@@ -21,14 +21,7 @@ It might be worth to pause and ask ourselves if our methods for comprehension co
 * reference - Levine, U. (2023). Fall in love with the problem, not the solution: A handbook for entrepreneurs. Matt Holt.
 --> 
 
-[^footnote_peterdrucker_comprehension_control]: The consideration to think of technologies influencing our movements, like to control the process to a certain extent is motivated by *The Technological Revolution: Notes on the Relationship of Technology, Science, and Culture* from Peter Drucker and his notes such as "But 'knowledge' changed its meaning from being 'understanding', i.e., focused on man's mind, to being 'control', i.e., focused on application in and through technology." It should be noted Peter's awareness that "It would be claiming too much to say that technology established itself as the paramount power over science." But to his consideration that "it is technology that gives the union of the two its character; it is a coupling of science to technology, rather than a coupling of science and technology" (Drucker, P. (2011). p. 152. Routledge. Original work published 1970).
-
-<!--
-@references 
-* reference - Drucker, P. (2011). Technology, Management and Society. Routledge. (Original work published 1970)
--->
-
-Where we are going in this chapter may relate with the perspective in our prior chapter where we had considered that entrepreneurs identify themselves with groups and the opportunity/risk of them to be set in a movement. In a similar way, we will look at the environment - such as by its methods or platforms or tools or even the voices - that is rich enough to sets them in a trajectory of movement. The motivation to overvaluing the impact of the environment comes from the very fact that the entrepreneurial function doesn't hack people's lives directly but it does so indirectly through spaces; which goes along, as entrepreneurs are people too, that the prior successful entrepreneurial movement influences how we build, what we build, and why we build. 
+Not different from our prior chapter, where we had considered the movement that entrepreneurs do as they identify themselves with groups, similarly, we shall now consider the movement that happens by the  environment of entrepreneurship - defined by its methods, platforms, tools and more - an environment is now rich enough to influence our trajectory, especially when they are in a hurry.
 
 <!--
 @meta @todo 
@@ -151,7 +144,17 @@ And given the situation that an early team may operate essentially as benevolent
 --> 
 
 
-If we augment the possibility that a movement invades the entrepreneurial movement, such as to recognize the possibility of noise in what is not generally heard as noise, we may set ourselves in a place of noticing that the very thing that give us tools for moving faster comes with a price to pay, which is the necessity of being conscious about our pace, about our movements. Big part of this movement that deserves our attention has to do with a world that changed, as we shifted from an entrepreneurial function executing from nature of natural things - as in the made of the water, fire, earth, wind, and love - to one executing on top of a second nature - using methods through platforms and their tools - where more building blocks are given by our prior movements but where love continues to act on it. Let us celebrate how our spaces are formed around us and the challenges of being in a position of using things from the space to change our space. By celebrating the formation of our spaces, given by technologiical platforms, we can reflect too about a relativeness where the entrepreneurial function is powerfully powerful and powerfully obsolete alltogether.
+If we augment the possibility that a movement invades the entrepreneurial movement, such as to recognize the possibility of noise in what is not generally heard as noise, we shall raise the necessity for being conscious about the influence that the things created have on us; especially now that we live in a world that has changed - from an entrepreneurial function building things from a world of natural things, as in the made of the water, fire, earth, wind, and love, to building things from world, or a second nature, where our building blocks were given by the prior movement while love continues to act on it if not taking us to act in a hurry. 
 
+But if the these building blocks are not enough to set to us a trap - given that we have choice - when we shall too consider the possibility that the things created - technology - which had the potential of serving to us as methods for comprehension (about the world and what is possible) could be used as methods of control [^footnote_peterdrucker_comprehension_control]. Or, in other words, could it be that the the more technological concretes in our spaces could prevent us to see a horizon by the very fact that the goggles to see the world are given by technologies we had produced? 
+
+[^footnote_peterdrucker_comprehension_control]: The consideration to think of technologies influencing our movements, like to control the process to a certain extent is motivated by *The Technological Revolution: Notes on the Relationship of Technology, Science, and Culture* from Peter Drucker and his notes such as "But 'knowledge' changed its meaning from being 'understanding', i.e., focused on man's mind, to being 'control', i.e., focused on application in and through technology." It should be noted Peter's awareness that "It would be claiming too much to say that technology established itself as the paramount power over science." But to his consideration that "it is technology that gives the union of the two its character; it is a coupling of science to technology, rather than a coupling of science and technology" (Drucker, P. (2011). p. 152. Routledge. Original work published 1970).
+
+<!--
+@references 
+* reference - Drucker, P. (2011). Technology, Management and Society. Routledge. (Original work published 1970)
+-->
+
+In other words, again, if things could be telling us what to do, how to do, and why to do; especially when we are empowered to urgently advance by taking advantage of its richness, we shall take ourselves to celebrate how our spaces are being formed by our movement and the challenges of entrepreneus that are in a position of using things from the space while at the same time willing to change their space. 
 
 
