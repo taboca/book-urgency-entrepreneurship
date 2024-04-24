@@ -6,15 +6,16 @@
 * @outline - Situation - Pitch SCqA - we can be so into a domain, a way for building things, we embrace the possibilities of new platforms, and builing became easier. Consider #Rails #God
 --> 
 
+<!--
+@meta @todo 
+* @todo - p1 ( ) - In Space - Bring a more deep notion that values are formet, perhaps bring back the case of the mechanic of Marcio. @meta-ref 1222-3234-6573-8888 
+--> 
+
 ## It's a space 
 
 This section celebrates the richer terrain that is now given to use by richer networks and platforms, that set us in front of an expanded world of possibilities. And along with that, it asks from us a moment of reflection as for how these new grounds have the power to set us to act, to be directed. My hope is that by pausing to check on our environnent we can augument the invisible hands given by our spaces and to a certain extent be able to be able to silence the voices that so feverish tell us just do it. Let us remember that these voices in the digital and fast-paced world happens to be subtile movements of endorsement of our colleagues given by silent clicks or tapping a screen. 
 
-Some of us are still able to set their hands on the ground and feel the earth - and the joy of a world they don't fully know how on earth it was brought and is what it is. Some of them maybe farmers too that knows what to do with the ground like things that farmers do. While, on the other hand, maybe in a parallel universe in the future, a kid gets to know that an egg comes from a chicken the minute that she sets her ommlet cartridge into the food printer and out of the sudden Clucky is projected, everyday with a different story just like the following example which I had asked an AI system to generate: 
-
-> *"Here at Happy Hen Haven, we live our lives with joy and freedom. Our home is filled with comfortable spaces to roam, play, and flap our wings. And guess what? We eat the most delicious, natural grains you can imagine, with no antibiotics to spoil our meals. Yes, that's right! Our meals are as clean and healthy as the fresh water we sip under the sun. Now, you might wonder what happens to us after we lay our beautiful, nutritious eggs that makes your delicious ommelet. Well, let me tell you, our farm respects every chicken's journey, ensuring we live happily and peacefully. Our friends at the farm make sure we're always healthy and safe. They believe in treating us with kindness and love, which is why our eggs are so special. Enjoy your breakfast. "* ChatGPT by OpenAI 
-
-But as we celebrate the new grounds brought by the entrepreneurial function, and how it sets an influence on us, we may start by the recognizion the two basic ways that function enters our lives, or that it innovate our lives. The first, the more common and less provocative way is known as incremental innovation; which we will get back soon. As for the other, the more provocative way which is what entrepreneurs refer to as "to put a dent in the universe," can be witnessed if we go back in time with Maury Klein from *The Power Makers*, and check how our ancestors reacted as they were greeted by the chugs and hisses of the early locomotives: 
+To fully get into the new grounds in which the entrepreneurial function sets an influence on us, we shall first celebrate two basic ways that function enters our lives, or that it innovate our lives. The first, the more common and less provocative way is known as incremental innovation; which we will get back soon. As for the other, the more provocative way which is what entrepreneurs refer to as "to put a dent in the universe," can be witnessed if we go back in time with Maury Klein from *The Power Makers*, and check how our ancestors reacted as they were greeted by the chugs and hisses of the early locomotives: 
 
 <!--
 @meta @todo 
@@ -77,11 +78,16 @@ And here again, there is an opportunity to recognize how the function doesn't di
 * @todo - p2 ( ) - In Space - Bring the specific data from Maury Klein about the situation of the means for building high pressure steam engine rising; @meta-refid 1222-3331-2234-4444 
 --> 
 
+
+
+
+
+
+
 <!-- 
 @outline @meta
-* @outline - Answer  
+* @outline - Answer  - When values are set, we can be in a second nature. 
 --> 
-
 
 
 
@@ -117,6 +123,14 @@ In the end, we generally know - perhaps the optimists anyway - that the ideas be
 -->
 
 Yet the given is that the entrepreneurial role takes big part of the credit for getting things done - and for bringing the solutions at the right time and space. That should bring us to recognize that they are the ones that get excited and thankful or frustated and mad about two different spaces at the same time. In other words, they are in between two different worlds: one where they take resources from, a source space, and the other, the target space where they put their creations to be test. That view, although simplistic, can take us to their position in a bridge and then to be the ones living very specific challenges, such as the tension, between what happens on both ends. 
+
+
+
+
+
+
+
+
 
 For a better illustration of this entanglement, and the elasticity demanded from these doers, we shall go back to not so far in time, around 2007, and consider what happened that provoked some of these doers to want to put a dent in the universe of the hail-riding experience - the experience of taking rides - and to cause a major impact in the taxi industry later. With the advent of the iPhone by 2007, one thing some entrepreneurs knew, that people were excitingly buying that three-in-one device as promoted by Steve Jobs - of an internet communicator system, a phone, and a music player [^footnote_stevejobs_threeinone]. 
 
@@ -154,9 +168,17 @@ Moreover, many other questions came along, the more the bridge seemed real. One 
 
 
 
+
+
+
+
 But all of that, still, is about the visualization of the bridge and has anything to do with the getting things done. And the actual challenge that these pioneers will leave as they try to do it, as they enter the space, what brings them to say that reality is different, which we will follow with Brad Stone, of Upstarts (Stone, B., 2017). 
 
 Moving forward to 2008, an iPhone app known as Taxi Magic was becoming popular in the U.S. as it had expanded across 25 cities, giving riders the ability to order standard taxis from their phones. That perspective shows that the strategy of Taxi Magic were essentially improving the existing situation, probably challenging some of the aspects, but essentially playing fair and in agreement to the taxi industry. On other hands, of other founders, they thought that in order for riders to have a better experience, the known situation of the hail-hailing experience needed to change. If we look at the original business presentation from Uber - Uber's original pitch deck (2017, August 23) - they point to the poor experience of ride taking as connected with the taxi monopolies.
+
+
+
+
 
 Now that history shows that Uber survived, and given that many riders don't even know the world as it were before, can be challenging for us to see how these founders were struggling at the time. According to Brad Stone, these were philosophicaly differences. For Taxi Magic leadership, a particular moment had challenged them to reconsider their views, when Bill Gurley - the renowed partner of Benchmark Capital later to be known as the major investor in Uber - had engaged in what was referred as "a prolonged courtship" (Stone, B., 2017, p. 71) that culminated in an offer of $8 million in investment [^footnote_bradstone_investment_uber] which was declined. 
 
@@ -197,10 +219,18 @@ And that brings us to the revelation of other aspects in the struggle between th
 
 
 
+
+
+
+
 <!--
 @meta @todo 
 * @todo - p2 ( ) - In Space - Check the story of the limo black cars with the Bradstone work. @meta-refid 2233-2233-3344-4444
 -->
+
+
+
+
 
 
 That situation that appears to be a crossroad is essentially a revelation that, to a certain extent, they have to decide which way to take, how to proceed. In other words, what they are about to deliver the move they enter the space of the real world, with that something that needs to be built, has to come to terms with the necessity of being tangible, coherent, marketable, and understood by people, and accepted by the world. The metaphor of the brigde is then a step, and more than to push further the glamour, it celebrates the moment of vulnerability, like the vulnerability of a marriage that sets in. In this marriage, a proposition is for two forces, the How-to-do with the What-to-do, for the hopes that a new child is given, transformation and impact to the environment. Through that celebration, where the romantic notion is there and where love and energy are present, there is too the presence of other forces that are interested, like the forces of competition or the forces in favor; but basically everyone that is interested in what changes. From there, every single moment of materialization that follows essentially ask the question, again and again, "if anyone objects to these forces, please speak."

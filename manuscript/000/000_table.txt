@@ -1,5 +1,7 @@
 # Todo # 
 
+* @todo - p1 ( ) - In Space - Bring a more deep notion that values are formet, perhaps bring back the case of the mechanic of Marcio. @meta-ref 1222-3234-6573-8888 
+
 * @todo - p2 ( ) - In Space, Bundle and Unbundle - Fix APA citation Mark in the interview. @meta-refid 1233-4344-7682-8283
 
 * @todo - p2 ( ) - In Space - Check Casper ter Kuile elements - @meta-refid 1222-2334-8788-8383
