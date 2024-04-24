@@ -2,10 +2,6 @@
 
 * @todo - p2 ( ) - In Space, Bundle and Unbundle - Fix APA citation Mark in the interview. @meta-refid 1233-4344-7682-8283
 
-* @todo/action - p2 ( ) - In Space, Bundle and Unbundle - Ask chatgpt to check the accuracy of the above, if Netscape were the highest IPO, likely may consider to refer to Andy Grove in Only the Paranoid Survive, p. 167. @meta-refid 1223-3223-3445-8766
-
-* @todo - p2 ( ) - In Space, Bundle and Unbundle - Put the quote from Andy Grove from Only the Paranoid Survive, which explains the Internet before the web. @meta-refid 1223-3435-6574-8794
-
 * @todo - p2 ( ) - In Space - Check Casper ter Kuile elements - @meta-refid 1222-2334-8788-8383
 
 * @todo - p2 ( ) - In Space - Bring a quote from Storybrand that shows the structure. @meta-refid 0122-3323-3444-5555.
@@ -383,6 +379,10 @@ https://chat.openai.com/share/b7eb16c5-4c18-4709-9220-bd2629f34a3d
 * Culture 
 
 ## Done
+
+* @todo/action - p2 (Done, not taken) - In Space, Bundle and Unbundle - Ask chatgpt to check the accuracy of the above, if Netscape were the highest IPO, likely may consider to refer to Andy Grove in Only the Paranoid Survive, p. 167. @meta-refid 1223-3223-3445-8766
+
+* @todo - p2 (Done, not taken) - In Space, Bundle and Unbundle - Put the quote from Andy Grove from Only the Paranoid Survive, which explains the Internet before the web. @meta-refid 1223-3435-6574-8794
 
 * @todo - p2 (Done) - In Space, Bundle and Unbundle - Check the reference to Netsape and highest IPO, right wording and right reference, such as to refer to Nasdaq, likely a footnote. @meta-ref 1223-3345-7685-8374 
 

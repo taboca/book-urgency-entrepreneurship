@@ -19,10 +19,9 @@
 
 
 
+Generally, especially in the fast-paced world, we get to use new terms on-the-fly in the office space where someone or something throws something and before you know you are told to hold and before you say something to keep cranking. I remember that expression "bundle" came to me like that just like "keep cracking." I didn't have to look in the dictionary to feel something about it. Bundle was generally said within building 21 of Netscape - the iconic company that created, and popularized, or bundled the internet browser. These were the days where we were building or essentially *bundling* an internet browser. 
 
-Sometimes, if not generally, we get acquainted with new terms by the on-the-fly practice, when we are caught in new working space where somebody throws a tool and before you know you are told to keep cranking. The term 'bundled' came to me like that because it was said a lot within the buildings at Netscape - the iconic company that created or popularized, or bundled, the internet browser. Once in the field I was suddenly part of a machine that we were *bundling* an internet browser. As an aside, I shall note that my passion for English had origins in the world of the programming languages; in other words words like *While*, *If*, *Then*, *For* and others had influenced me to generally say things like: *While* I am here, working in United States, I am happy to build things *Until* some major event calls me back to Brazil. *If* friends invite me to dinner, *Then* I shall comply. But it was only after I had returned to Brazil - having more time to reflect oand seeing from far, in perspective - that I had more calmly considered that for all things bundled, other things had to be unbundled, especially when the matter has to do with innovation. 
-
-
+As an aside, I shall note that my passion for English had origins in the world of the programming languages; in other words words like *While*, *If*, *Then*, *For* influenced me to say things like: *While* I am here, working in United States, I am happy to build things *Until* a major event calls me back to Brazil. *If* friends invite me to dinner, *Then* I shall accept. 
 
 
 <!--
@@ -33,22 +32,13 @@ Sometimes, if not generally, we get acquainted with new terms by the on-the-fly 
 
 
 
-Let us then step into a reflection about about the notion of bundle and unbundle and how that reveals a lot about the strategies of growth of products and platforms - given by the business leaders and the pioneers that brought to us, or bundled, the internet browser. To get to the point of the browsers tough, we need first to recount the incremental innovations that took place as the Internet were developing. The view from Andy Grove in *Only the Paranoid Survive*, beautifuly depicts the premisses of the Internet leading to the Web and browsers: 
-
-> *""* Andy Grove 
-
 <!-- 
 @meta @todo 
-* @todo - p2 ( ) - In Space, Bundle and Unbundle - Put the quote from Andy Grove from Only the Paranoid Survive, which explains the Internet before the web. @meta-refid 1223-3435-6574-8794
+* @todo - p2 (Done, not taken) - In Space, Bundle and Unbundle - Put the quote from Andy Grove from Only the Paranoid Survive, which explains the Internet before the web. @meta-refid 1223-3435-6574-8794
+* @todo/action - p2 (Done, not taken) - In Space, Bundle and Unbundle #above - Ask chatgpt to check the accuracy of the above, if Netscape were the highest IPO, likely may consider to refer to Andy Grove in Only the Paranoid Survive, p. 167. @meta-refid 1223-3223-3445-8766
 --> 
 
-
-Some of its early observations about its disruptive potential had to do with the idea of disrupting some aspects of the traditional newspaper experience. In other words, the browser was a tool to navigate digital pages, and all to happen by typing an address. Plus, if that wasn't enough, the browser were essentially an user agent, able to read through the hyperlinks that connected one page to another, so enabling the user to access a web of documents and since anyone could create a web page, thus anyone were to be able to access content in a format loolking like a page from anywhere given that the browser tool were connected. If your computer is connected to the Internet, you can then type the address of a company, and voilá, the page shows.
-
-<!--
-@meta @todo/action
-* @todo/action - p2 ( ) - In Space, Bundle and Unbundle #above - Ask chatgpt to check the accuracy of the above, if Netscape were the highest IPO, likely may consider to refer to Andy Grove in Only the Paranoid Survive, p. 167. @meta-refid 1223-3223-3445-8766
--->
+But when I had returned to Brazil, from far and in perspective, I had the time to figure that for all things bundled other things had to be unbundled. Which bring us to the reflection about bundle and unbundle, and how that reveals a lot about the strategies of growth of products and platforms, especially given to us by some of the leaders of Netscape, these pioneers in the space of things bundled. To get into that, we need to recount, the innovations that took place as the Internet were developing, the innovations that led to the creation of Netscape and the popularization of the browser as a tool to navigate the web. For the ones that were living these "good old days" of the Web, a thought in the air had to do with the potential disruption of the traditional newspapers experience if not take one to think that it was the end of paper. In other words, the browser was unveiled, and it was a tool to navigate digital pages. how to do it? Just type the address. If that was not already something great, then these pages had too words markerd with what we call hyperlinks, essentially taking us from one page to another. If that wasn't enough, the browser had something in it, a tool, to let us see how these pages were written - the feature known as "View Source". Meaning that anyone could create a web page too. Andy Grove, the late CEO of Intel which by the time were a giant as a producer of the microprocessor used in the personal computers (PC), had given us a view of what were the Web: 
 
 > *"To a computer user, the fact that any PC on any person's desk could become a window into millions of computers all over the world was like a miracle. And the fact that the material in those computers could be enhanced with colorful graphics, photographic images and even rudimentary sound and video made it a very seductive miracle."* (Grove, A., 1999, p. 171)
 
