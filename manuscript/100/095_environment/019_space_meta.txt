@@ -5,7 +5,7 @@
 * @outline - Bundle and Unbundle - general - 
 * Pitch             - 
 * Situation         - Bundles are the observation of the incremental innovation within a platform; with that comes too the vulnerability as suggested by Marc Andreessen. 
-* Complication      - 
+* Complication      - Release of control but happen, people get involved too; 
 * Question / Answer - 
 *           Answers - Roles are followers of the bundled - (Growing)
 *           Answers - Expanding universe - (Bundling from transistors, unbundling semiconductors, bundling valley)
