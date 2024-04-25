@@ -127,7 +127,7 @@ In the end, we generally know - perhaps the optimists anyway - that the ideas be
 * Reference - von Hippel, E. (2005). Democratizing Innovation. The MIT Press.
 -->
 
-On the other hand, it is the entrepreneurial role that generally takes the credit for getting things done - at least up to this point since execution matters much more than ideas given that we don't have miraculous ways to execute ideas. Therefore, it goes along that they are in the position of being thankful, or frustrated, as they are caught between two spaces. On one hand, a source space, where they take things from, like resources, the how-to things. On the other hand, the target space, where their put their creations to test and where they put their hopes. That view, although simplistic, give us an opportunity to consider the challenges of being at the center - as a bridge - and in the position to solve the challenges presented by the entanglements with the whole environment.
+On the other hand, it is the entrepreneurial role that generally takes the credit for getting things done - at least up to this point since execution matters much more than ideas given that we don't have miraculous ways to execute ideas. Therefore, it goes along that they are in the position of being thankful, or frustrated, as they are caught between two spaces. On one hand, a source space, where they take things from, like resources, the how-to things. On the other hand, the target space, where their put their creations to test and where they put their hopes. That view, although simplistic, suggests that they are a bridge and invite us to look at their challenges to solve the challenges presented from the entanglements from both sides. 
 
 
 
@@ -139,7 +139,7 @@ On the other hand, it is the entrepreneurial role that generally takes the credi
 
 
 
-To illustrate the challenges of that unique position, we shall go back to not-so-far, back-in-time, and consider the challenges of some of the doers that actually had put a dent in the universe - specifically redefining the the hail-riding experience which caused an impact to the taxi industry. The advent of the iPhone in 2007 brought to some builders a good news, first the recognition that people were actually buying that three-in-one device - an internet communicator system, a phone, and a music player [^footnote_stevejobs_threeinone] - as promoted by Steve Jobs. By 2008, they entrepreneurs were likely experiencing too other incremental development to the iPhone: an extended battery lifetime, support for the newly released 3G network which meant higher speed and better connectivity to the internet, and not to forget that the iPhone alread had a GPS support which meant for them the opportunity to make solutions that could track the location of people.
+To illustrate the challenges of that unique position, we shall go back to not-so-far back-in-time and follow the life of some of the builders that had put a dent in the universe of the hail-riding experience and caused an impact to the traditional taxi industry. The advent of the iPhone, in 2007, some of them had received a calling, given by the ring that people were buying that new three-in-one device - an internet communicator system, a phone, and a music player [^footnote_stevejobs_threeinone] - as described by Steve Jobs. By 2008, they entrepreneurs were likely experiencing too other incremental development to the iPhone: an extended battery lifetime, support for the newly released 3G network which meant higher speed and better connectivity to the internet, and not to forget that the iPhone alread had a GPS support which meant for them the opportunity to make solutions that could track the location of people.
 
 [^footnote_stevejobs_threeinone]: When introducing the iPhone (2012, June 29) during his keynote presentation at Macworld 2007, Steve Jobs famously described the device as a "three-in-one" product, integrating a phone, an iPod, and an Internet communications device. For reference, iPod had been considered a quite disruptive innovation for the need of listening to music. 
 
@@ -169,10 +169,6 @@ Thankfully, Apple had created a place enabling people to browse and install thes
 
 
 
-
-
-
-* * * 
 
 
 But all of that, still, is about the visualization of the bridge and has anything to do with the getting things done. And the actual challenge that these pioneers will leave as they try to do it, as they enter the space, what brings them to say that reality is different, which we will follow with Brad Stone, of Upstarts (Stone, B., 2017). 
