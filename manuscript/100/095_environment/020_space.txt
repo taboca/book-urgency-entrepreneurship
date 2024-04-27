@@ -168,26 +168,34 @@ Elements like that were good motivations that prompted some entrepreneurs to ask
 
 
 
-For developers, that meant, again, a green light which meant permission to accelerate with the hopes of disrupting the old ways of the hail-riding experience. Yet, from the moment that they started to build things, not unlike all other entrepreneurial movement, these pioneers had just taken themselves into a reality that, in reality, things are different as we will follow through with Brad Stone the author of Upstarts (Stone, B., 2017). This is then 2008, and an iPhone app for ordering cabs was quite popular, known as Taxi Magic, and available in about 25 cities in U.S. giving riders the ability to order standard taxis from their iPhones. That perspective shows that the strategy of Taxi Magic were essentially improving the existing situation, probably challenging some of the aspects, but essentially playing fair and in agreement to the taxi industry. On other hands, of other founders, they thought that in order for riders to have a better experience, the known situation of the hail-hailing experience needed to change. If we look at the original business presentation from Uber - Uber's original pitch deck (2017, August 23) - they point to the poor experience of ride taking as connected with the taxi monopolies.
+
+
+<!-- 
+@outline @meta
+* @outline - Answer - Bridding spaces - Strategic differences
+-->
 
 
 
 
 
-Now that history shows that Uber survived, and given that many riders don't even know the world as it were before, can be challenging for us to see how these founders were struggling at the time. According to Brad Stone, these were philosophicaly differences. For Taxi Magic leadership, a particular moment had challenged them to reconsider their views, when Bill Gurley - the renowed partner of Benchmark Capital later to be known as the major investor in Uber - had engaged in what was referred as "a prolonged courtship" (Stone, B., 2017, p. 71) that culminated in an offer of $8 million in investment [^footnote_bradstone_investment_uber] which was declined. 
+For these builders, that meant a green light to accelerate perhaps to disrupting the old ways of the hail-riding experience. Yet, not unlike all other entrepreneurial movement, the moment they start to build tells more about the reality that, in reality, things are different, as we will follow with Brad Stone of Upstarts (Stone, B., 2017). 
 
-[^footnote_bradstone_investment_uber]: According to Brad Stone, the conversations between Taxi Magic and Bill Gurley of Benchmark Capital, had eventually arrived at an verbal offer from Bill Gurley, who proposed an $8 million investment at a $32 million valuation (Stone, B., 2017, p. 71).
+<!--
+@references 
+* @reference - Stone, B. (2017). The Upstarts: How Uber, Airbnb, and the Killer Companies of the New Silicon Valley Are Changing the World. Little, Brown and Company.
+-->
 
+This is then 2008, and an iPhone app was getting popular as a new way for ordering cabs. Known as Taxi Magic and available in 25 cities in U.S., riders were actually able to to order standard taxis from their iPhones. In other words, Taxi Magic strategy trusted that the new was possible from the existing situation. Some aspects were certain being challenged, like the technological foundations to make the magic happen, while essentially they were playing fair with the taxi industry. On the other hand, other founders thought about improving the hail-hailing experience from another angle. If we look at the original business presentation from Uber - Uber's original pitch deck (2017, August 23) - there are clear considerations about the poor experience of ride taking as connected with the taxi monopolies.
 
 <!--
 @references 
 * Reference - Mannes, J. (2017, August 23). Here is Uber’s first pitch deck. TechCrunch. https://techcrunch.com/gallery/here-is-ubers-first-pitch-deck/
 --> 
 
-<!--
-@references 
-* @reference - Stone, B. (2017). The Upstarts: How Uber, Airbnb, and the Killer Companies of the New Silicon Valley Are Changing the World. Little, Brown and Company.
--->
+Now the fact that Uber grew as an iconic case and pushed further a transformation to the experience can make it difficult for some of the young hail-riders to feel how vulnerable and challenging were their situation. According to Brad Stone, these were examples of strategies to be considered as philosophical differences. 
+
+
 
 
 
@@ -202,13 +210,25 @@ Now that history shows that Uber survived, and given that many riders don't even
 * @todo/edit/decide - p2 ( ) - In Space / Bridging Spaces - According to Jordan Peterson it makes sense to compare ways of putting the prose. We have option A and B. Option A "In an interview given to Brad Stone, DePaschoale the then-chairman Taxi Magic, had recognized that "Uber made a risky bet that has paid off unbelievably." DePaschoale had given to us the feeling of how the perspective is felt when you are there, in the road, in front of cross-roads, where you can't embrace all and have to take a path. But given that an experienced person like De Pasquale, that were actually involved in the business that had achieved a certain level of maturity, to even use the word bet, it reveals not only the multiple potential bets in place, but that these were in fact different strategies or perspectives, as in theses, more than anything related with gambling. In other words, his phrasing that reveals a certain degree of humility, is not enough to hide the well-informed characteristizations of their strategies." And option B is "In an interview with the chairman of Taxi Magic, De Pasquale, his recognition that Uber made a risky bet that has paid off unbelievably, had much less to do with innocence or lack of professionalism and more in terms of revealing the size of the challenge they were onto. Given the experience of a professional like De Pasquale, quite involved in that business that had reached to a certain extent a level of maturity, to even use the word bet is more to do with the humbling spirit that went along the more these leaders get into the growth potential in a space where uncertainty is maintained at the proportion of the potential they unleash." / @meta-refid 1223-3321-2323-3344
 --> 
 
-In an interview given to Brad Stone, DePaschoale the then-chairman Taxi Magic, had recognized that "Uber made a risky bet that has paid off unbelievably." DePaschoale had given to us the feeling of how the perspective is felt when you are there, in the road, in front of cross-roads, where you can't embrace all and have to take a path. But given that an experienced person like De Pasquale, that were actually involved in the business that had achieved a certain level of maturity, to even use the word bet, it reveals not only the multiple potential bets in place, but that these were in fact different strategies or perspectives, as in theses, more than anything related with gambling. In other words, his phrasing that reveals a certain degree of humility, is not enough to hide the well-informed characteristizations of their strategies. 
 
 
 
 
 
-And that brings us to the revelation of other aspects in the struggle between the more incremental approach, which is playing by the rules, or the more disruptive approach, to provoke the space, or even the possibility of a strategy that shifts from one to the other, as in to unleash the disruptive after what seems to be the incremental; which may be particularly recognized when Bill Gurley approached De Pasquale as part of the inclinations for investments, and had advised De Pasquale to step away, initially from the taxior the "yellow cabs," as known in the U.S., positioning the service closer to the category of the "limo cars" instead, deferring the full potential for a future chapter. As we know from the history of Uber - the team that end-up receiving the investment of Bill Gurley and Benchmark Capital - were actually in that limo space, or black cars; but eventually took over and impacted the space of the general taxi experience.
+
+
+
+
+In an interview given to Brad Stone, DePaschoale the then-chairman Taxi Magic, had recognized that "Uber made a risky bet that has paid off unbelievably." His observations tell how tough things were, as they were in the arena facing these cross-roads where one can't embrace all roads. His particular experience remarkably reveals the situation, when Bill Gurley, the renowed partner of Benchmark Capital (later to be known as the major investor in Uber) had engaged with them in "a prolonged courtship" (Stone, B., 2017, p. 71) that culminated in an offer of $8 million in investment [^footnote_bradstone_investment_uber], an offer which was declined. The strategy, and requirement for further investment from Benchmark, consisted in first stepping away from the traditional taxi cabs, "yellow cabs."  
+
+[^footnote_bradstone_investment_uber]: According to Brad Stone, the conversations between Taxi Magic and Bill Gurley of Benchmark Capital, had eventually arrived at an verbal offer from Bill Gurley, who proposed an $8 million investment at a $32 million valuation (Stone, B., 2017, p. 71).
+
+In other words, Brad brought to us a view of the struggle about what would appear, on the surface, to be two approachs, incremental vs. disruptive, but in fact had more to do with strategies for moving further. We shall note that Uber didn't had the full notion for how to move further, according to their original pitch deck. On the other hand, Uber founders were fine with the approach to start strategically with "limo cars," far from the yellow cabs, and then moving into the considerations to disrupt the traditional cabs in the right moment. As we know from the history of Uber - the team that end-up receiving the investment of Bill Gurley and Benchmark Capital - were actually in that limo space, or black cars; but eventually took over and impacted the space of the general taxi experience.
+
+But given that an experienced person like De Pasquale, and the maturity of its business achieved, to even use the word bet tells about a reality far from gambling, the revelation about how vulnerable the situation were and therefore of the impactful potential of decisions. 
+
+
+
 
 
 
