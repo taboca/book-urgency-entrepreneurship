@@ -151,10 +151,6 @@ To illustrate the challenges of that unique position, let us go back in time whe
 * @todo - p2 (Done) - In Space - Check the reference for the the footnote for the three in one device and link to Steve Jobs talk or article. @meta-refid 1212-2233-3344-5543
 --> 
 
-<!--
-@references 
-* @reference - Stone, B. (2017). The Upstarts: How Uber, Airbnb, and the Killer Companies of the New Silicon Valley Are Changing the World. Little, Brown and Company.
--->
 
 Now, having them looked at that well, the exciting space where the building blocks were bubbling effervescently building blocks, they had turned their head to the target space, of people living their lives, especially taking rides. Their motivation Went along as they noticed people thirsty by the sweat and the heat of the traditional taxi space: If one wanted a ride, they could "get a cab" by making a phone call to a central. Or, if they were in a busy downtown area such as in New York, waving a hand to a yellow car or to walk to a specific taxi area. After entering the cab, on the other hand, a different experience is worth remembering. I remember the day when I left my phone in the a cab in California, San Francisco. The last thing I remember was that it was yellow and not lovely and neither a Mercedes-Benz. Plus that I couldn't call the cab driver to ask him to please bring me my phone. The lesson was "that you can never leave," your things in there. Another in-the-cab experience happened in Brazil - when I were a host to fellow friends from the California-based Mozilla Foundation - as we were in the streets of Porto Alegre at 70 mph and I were afraid to ask the driver to slow down while holding my hands tight and fearing the next day big news that the "Chairwoman of Mozilla dies in car crash in Brazil." 
 
@@ -170,28 +166,52 @@ Elements like that were good motivations that prompted some entrepreneurs to ask
 
 <!-- 
 @outline @meta
-* @outline - Answer - Bridding spaces - Strategic differences
+* @outline - Answer - Bridding spaces - Between how to make and making it, struggles, challenges, of getting real. 
+
+* taximagic grew plain fair 
+* uber more young or disruptive 
+* Bill in the middle, Bill and Taximagic 
+* Uber struggle, Bill and Uber 
+* Bet according to De DePaschoale 
+* Humble 
+
 -->
 
 
 
 
+<!--
+* green light, reality is different 
+* uber young, can't see struggle 
+-->
 
-For these builders, that meant a green light to accelerate perhaps to disrupting the old ways of the hail-riding experience. Yet, not unlike all other entrepreneurial movement, the moment they start to build tells more about the reality that, in reality, things are different, as we will follow with Brad Stone of Upstarts (Stone, B., 2017). 
+The fact that some entrepreneurs had seen a green light - giving them a go-go to accelerate towards disrupting the old ways of the hail-riding experience - meant more about setting them into an entrepreneurial movement that is known - that the moment they start to bring something to the world reveals the reality that, in reality, things are different. Now, the fact that Uber grew as an iconic case - and had it pushed transformation to the hail-riding experience - can make difficult for many of us to see the struggle of these leaders trying to enter the space, how vulnerable their situation were, how challenging; which we will be supported by Brad Stone, from UpStarts (Stone, B., 2017), which brought the case of two companies that were right there and that, in a way or another and no mattering the actual business outcomes for each, were drivers in bringing transformation to the world of hail-riding as we knew. 
+
 
 <!--
 @references 
 * @reference - Stone, B. (2017). The Upstarts: How Uber, Airbnb, and the Killer Companies of the New Silicon Valley Are Changing the World. Little, Brown and Company.
 -->
 
-This is then 2008, and an iPhone app was getting popular as a new way for ordering cabs. Known as Taxi Magic and available in 25 cities in U.S., riders were actually able to to order standard taxis from their iPhones. In other words, Taxi Magic strategy trusted that the new was possible from the existing situation. Some aspects were certain being challenged, like the technological foundations to make the magic happen, while essentially they were playing fair with the taxi industry. On the other hand, other founders thought about improving the hail-hailing experience from another angle. If we look at the original business presentation from Uber - Uber's original pitch deck (2017, August 23) - there are clear considerations about the poor experience of ride taking as connected with the taxi monopolies.
+
+<!--
+* taximagic grew plain fair 
+* uber more young or disruptive 
+--> 
+
+By 2008 one of them were ahead in the game. That were TaxiMagic and they had an iPhone app was getting popular, available in 25 cities in U.S., and allowing riders to order standard cabs from their iPhones. Taxi Magic (later Curb) strategy trusted that the new was possible, knew that a lot would change in the future, but somehow the way to disrupt had to play, to a certain extent, fair with the existing situation characterized by what was referred as the taxi industry. Notice that for any "app" to get into that experience, given by the domain we had considered, it was quite challenging, such as for anyone to "plug" many modern technological methods to make the magic happen. Thus although Taxi Magic were playing fair with the taxi industry, it had to be magic to be able do that, such a big step. 
+
+On the other hand, other cofounders came in late in the game - in contrast with Taxi Magic - but nevertheless early and eager to improve the hail-hailing experience from another angle, perhaps some of us could consider them the aggressive style. If we look at the original business presentation from UberCab (later Uber) - Uber's original pitch deck (2017, August 23) - there are clear considerations that the poor experience of ride taking having associations with the taxi monopolies. What we may see, from far and from now and if trying to put these companies in buckets too quick, could suggest that they were essentially strictly executing following a strict view as in that Taxi Magic were a player executing in the incremental way while UberCab the disrupting one. 
 
 <!--
 @references 
 * Reference - Mannes, J. (2017, August 23). Here is Uber’s first pitch deck. TechCrunch. https://techcrunch.com/gallery/here-is-ubers-first-pitch-deck/
 --> 
 
-Now the fact that Uber grew as an iconic case and pushed further a transformation to the experience can make it difficult for some of the young hail-riders to feel how vulnerable and challenging were their situation. According to Brad Stone, these were examples of strategies to be considered as philosophical differences. 
+What is revealled instead, by the recollections and interviews from Brad Stone, tells more that what they were doing had to do with figuring how technology could bring a better world, a better experience, to the best possible number of parties. In other words, UberCab and TaxiMagic were certain of the challenging situation by the monopolies by the taxi industry; and their strategies had certainly a lot to do with, first, finding the best way for the world to grasp a change. And this is where Bill Gurley, the partner from the renowed Silicon Valley venture capital firm Benchmark, comes to the scene. According to Brad Stone, Bill had engaged in "a prolonged courtship" with Taxi Magic - conversations that eventually arrived at an verbal offer of $8 million investment at a $32 million valuation (Stone, B., 2017, p. 71). For the deal to happen, tough, Bill were concerned that the best way to go had to do with facing the traditional "yellow cabs" up-front. 
+
+The offer was declined; so Bill continued his ride which brought him to meet the founders of UberCab which were fine with the approach to start strategically competing with the "limo cars," or the black cars, thus not directly competing with the the yellow cabs. As we know from the history of Uber, the team that end-up receiving the investment of Bill Gurley and Benchmark Capital - they started with that "limo space" or the black cars, but eventually took over and impacted the space of the general taxi experience. They both in a way wanted to get there, but of course, and in agreement with the view of Brad Stone, they were essentially moving further with philosophical differences. In an interview given to Brad Stone, DePaschoale the then-chairman Taxi Magic, had recognized that "Uber made a risky bet that has paid off unbelievably." His observations tell how tough things were, as they were in the arena facing these cross-roads where one can't embrace all options. But given that an experienced person like De Pasquale, and the maturity that that business had achieved, to even use the word bet tells more about a reality far from gambling, the revelation about how vulnerable the situation were in terms of the potential outcomes from decisions. 
+
 
 
 
@@ -217,20 +237,6 @@ Now the fact that Uber grew as an iconic case and pushed further a transformatio
 
 
 
-In an interview given to Brad Stone, DePaschoale the then-chairman Taxi Magic, had recognized that "Uber made a risky bet that has paid off unbelievably." His observations tell how tough things were, as they were in the arena facing these cross-roads where one can't embrace all roads. His particular experience remarkably reveals the situation, when Bill Gurley, the renowed partner of Benchmark Capital (later to be known as the major investor in Uber) had engaged with them in "a prolonged courtship" (Stone, B., 2017, p. 71) that culminated in an offer of $8 million in investment [^footnote_bradstone_investment_uber], an offer which was declined. The strategy, and requirement for further investment from Benchmark, consisted in first stepping away from the traditional taxi cabs, "yellow cabs."  
-
-[^footnote_bradstone_investment_uber]: According to Brad Stone, the conversations between Taxi Magic and Bill Gurley of Benchmark Capital, had eventually arrived at an verbal offer from Bill Gurley, who proposed an $8 million investment at a $32 million valuation (Stone, B., 2017, p. 71).
-
-In other words, Brad brought to us a view of the struggle about what would appear, on the surface, to be two approachs, incremental vs. disruptive, but in fact had more to do with strategies for moving further. We shall note that Uber didn't had the full notion for how to move further, according to their original pitch deck. On the other hand, Uber founders were fine with the approach to start strategically with "limo cars," far from the yellow cabs, and then moving into the considerations to disrupt the traditional cabs in the right moment. As we know from the history of Uber - the team that end-up receiving the investment of Bill Gurley and Benchmark Capital - were actually in that limo space, or black cars; but eventually took over and impacted the space of the general taxi experience.
-
-But given that an experienced person like De Pasquale, and the maturity of its business achieved, to even use the word bet tells about a reality far from gambling, the revelation about how vulnerable the situation were and therefore of the impactful potential of decisions. 
-
-
-
-
-
-
-
 
 
 
@@ -245,7 +251,9 @@ But given that an experienced person like De Pasquale, and the maturity of its b
 
 
 
-That situation that appears to be a crossroad is essentially a revelation that, to a certain extent, they have to decide which way to take, how to proceed. In other words, what they are about to deliver the move they enter the space of the real world, with that something that needs to be built, has to come to terms with the necessity of being tangible, coherent, marketable, and understood by people, and accepted by the world. The metaphor of the brigde is then a step, and more than to push further the glamour, it celebrates the moment of vulnerability, like the vulnerability of a marriage that sets in. In this marriage, a proposition is for two forces, the How-to-do with the What-to-do, for the hopes that a new child is given, transformation and impact to the environment. Through that celebration, where the romantic notion is there and where love and energy are present, there is too the presence of other forces that are interested, like the forces of competition or the forces in favor; but basically everyone that is interested in what changes. From there, every single moment of materialization that follows essentially ask the question, again and again, "if anyone objects to these forces, please speak."
+That situation that appears to be a crossroad is essentially a revelation that, to a certain extent, they have to decide which way to take, how to proceed. In other words, what they are about to deliver the move they enter the space of the real world, with that something that needs to be built, has to come to terms with the necessity of being tangible, coherent, marketable, and understood by people, and accepted by the world. 
+
+The metaphor of the brigde is then a step, and more than to push further the glamour, it celebrates the moment of vulnerability, like the vulnerability of a marriage that sets in. In this marriage, a proposition is for two forces, the How-to-do with the What-to-do, for the hopes that a new child is given, transformation and impact to the environment. Through that celebration, where the romantic notion is there and where love and energy are present, there is too the presence of other forces that are interested, like the forces of competition or the forces in favor; but basically everyone that is interested in what changes. From there, every single moment of materialization that follows essentially ask the question, again and again, "if anyone objects to these forces, please speak."
 
 Next, we shall then celebrate how a notion of bundling [^foonote_bundling_old] gained significance in the modern business world as a result from the richer creations of entrepreneurship that gained distribution powers - i.e. the operating system or software systems bringing other systems together - essentially becoming platforms for delivery of values (plus other things) by exercising more direct influence in what the user is eating, or the user's plate. Thus, the observation that the whole world started to be concerned with the things "being bundled," within all things delivered to them, is in fact an effect from the fact that the business world had being busy exercising the potential of bundling things into things delivered. And likewise as an implication of that, we shall too consider the challenges since action of entrepreneurial world had too gained more dynamism by the existance of modular things - enabling entrepreneurs to bundle things quicker - which in turn sets them into challenges, exactly because things bundled from the world of entrepreneurial action is not untied from the entangled and existing world of prior things given. 
 
