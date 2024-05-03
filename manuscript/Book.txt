@@ -49,10 +49,10 @@
 
 ### Part 2, transactional attraction, storytelling, stortelling platforms
 
-200/220_storytelling_stages.txt
-200/250_stop_impressing.txt
-200/210_storytelling_decide.txt   
-200/200_storytelling_animation.txt
+#200/220_storytelling_stages.txt
+#200/250_stop_impressing.txt
+#200/210_storytelling_decide.txt   
+#200/200_storytelling_animation.txt
 
 ### Part 2, impressing, pleasing, and transcending feedback of urgency 
 
@@ -62,18 +62,18 @@
 
 ### Part 2, the medium's opportunity, the influence of the medium 
 
-200/700_praise_navigation_ability.txt
+#200/700_praise_navigation_ability.txt
 
-100/850_communication_space_tool.txt 
-200/800_collaboration_new_medium.txt
-200/860_role_models_design_empatia.txt
-200/090_saying_thanks_reflections.txt
+#100/850_communication_space_tool.txt 
+#200/800_collaboration_new_medium.txt
+#200/860_role_models_design_empatia.txt
+#200/090_saying_thanks_reflections.txt
 
 ### Part 2, Releasing sales present pressure 
 
-200/150_controlling_control.txt
-200/170_sales_for_entrepreneurs.txt
-200/180_irreducible_collaborator.txt
+#200/150_controlling_control.txt
+#200/170_sales_for_entrepreneurs.txt
+#200/180_irreducible_collaborator.txt
 
 ### Part 2, transactional communication 
 
@@ -85,8 +85,8 @@
 
 ### Part 3, stakeholders, investors, vision 
 
-300/070_bad_investors.txt
-300/100_partners_bad_investor.txt
+#300/070_bad_investors.txt
+#300/100_partners_bad_investor.txt
 
 ### Part 3, objectives, key results, not so radial focus  
 
@@ -94,25 +94,25 @@
 
 ### Part 3, 
 
-300/430_self_staging.txt
+#300/430_self_staging.txt
 
 ### Part 3, 
 
 300/450_narratives.txt
 300/460_narratives_lean.txt
-300/320_strategic_dissonance.txt
+#300/320_strategic_dissonance.txt
 
 ### Part 3, 
 
 ### Part 3, systems mechanization   
 ### Part 3, evaluation and pressure 
 
-300/460_pressure_vs_support.txt                             
-300/200_invisible_contracts_and_our_roles.txt
-300/210_contracts_plus.txt
-300/250_they_system_does_not_allow.txt
-300/470_culture_productivity.txt
-300/400_managing_certainty_gap.txt
+#300/460_pressure_vs_support.txt                             
+#300/200_invisible_contracts_and_our_roles.txt
+#300/210_contracts_plus.txt
+#300/250_they_system_does_not_allow.txt
+#300/470_culture_productivity.txt
+#300/400_managing_certainty_gap.txt
 
 
 000/060_afterword.txt
