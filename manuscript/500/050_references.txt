@@ -100,6 +100,9 @@ Williams, B. (2024, January 4). 64+ fascinating Airbnb statistics (Latest 2024 d
 
 Kahneman, D., Sibony, O., & Sunstein, C. R. (2021). Noise: A flaw in human judgment. Little, Brown Spark.
 
+<!--
+dup - Drucker, P. (2011). Technology, Management and Society. Routledge. (Original work published 1970)
+--> 
 
 <!-- 
 100 / 120_space.txt 
