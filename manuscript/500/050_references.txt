@@ -6,7 +6,7 @@ Drucker, P. F. (1986). The Practice of Management. Harper Business. (Original wo
 
 <!-- Foreword --> 
 
-Ulwick, T. (2017, January 12). Mapping the Job-to-be-Done. JTBD + Outcome-Driven Innovation. Retrieved from https://jobs-to-be-done.com/mapping-the-job-to-be-done-45336427b3bc
+Ulwick, T. (2017, January 12). Mapping the Job-to-be-Done. JTBD + Outcome-Driven Innovation. Retrieved from https://jobs-to-be-done.com/mapping-the-job-to-be-done-45336427b3bcA
 
 <!-- 
 
@@ -39,9 +39,12 @@ Lorenz-Spreen, P., Mørch Mønsted, B., Hövel, P., & Lehmann, S. (2019). Accele
 Global Silicon Valley. (2018, April 28). ASU GSV Summit: Main Stage Panel: The Future of Talent -- Transcending Work [Video]. YouTube. https://www.youtube.com/watch?v=GFKgJ4wkxQU&t=345s
 
 
+
 <!-- 
- 100/010_startup_you.txt 
+ 100 / Entrepreneur / 030 start up you 
 --> 
+
+Draper, B. (2016, May 31). The Rise of Sand Hill Road and Silicon Valley. Stanford. Available at https://www.youtube.com/watch?v=KxDxRUYEMXg
 
 Hoffman, R. (2023, September 12). You are Generation AI | 2023 Commencement Speech at Bologna Business School [Video]. YouTube. https://www.youtube.com/watch?v=kKC27SXeIB4. Video position 2:06-2:36.
 
