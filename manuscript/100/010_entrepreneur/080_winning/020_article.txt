@@ -1,8 +1,13 @@
 ## Beyond success 
 
-Defining success is a great way to help you check if you are serious about entrepreneurship. I will give it straight, a version of success that perhaps you already know unlike success as normally seen, perhaps a colder version, a healthy state for an entrepreneurial life, beyond your immediate entrepreneurial goal of now, the goal of being somebody. 
+In the past, pursuing success wasn't a choice. The situation, the need (not for being happy but) for pursuing success, was created by the knowledge worker [^footnote_peterdrucker_success_pursuing]. In their hurry to operationalize from options, however, they had also found distrations and other complications such as to push them away from success. They run the risk of not accepting mistakes, which prevent them from learning after mistakes. They become less creative, and more controllers, in the face of the need to adapt, given the challenges ahead.
 
-In the past, pursuing success wasn't a choice. The situation for seeking success is modern and comes after the knowledge worker. In the pursuit of success, however, it is not uncommon for us to go away from success. We run the risk of not accepting mistakes, which prevent us from learning after mistakes, we might become less creative as we become controllers in the face of the need to adapt to the challenges ahead. 
+[^footnote_peterdrucker_success_pursuing]: Peter Drucker, in *Managing Oneself* (2008), articulated that historically, success was not viewed as an option; and that the expectation for success came about from the knowledge workers in society. 
+
+<!-- 
+@references 
+* Reference - Drucker, P. (2008). Managing Oneself. Harvard Business School Press. pp. 53-54.
+--> 
 
 The complication, especially when the matter is an entrepreneurial effort such as when we dig in the startup journey, is that we find ourselves as somebody but do not nurture the being of somebody. This is not intentional, as in pre-planned, it can be result from our urgency to control the outcome, but it connects with distancing from what we care and who we are, we run the risk of losing connection with our integrity. With that, is lose a key result, or key needed element, that need to be maintained for any endeavor where a guide doesn't exist and where we need to be ready when the plan does not go as expected, such as to pivot or to give up the format.
 
@@ -14,17 +19,16 @@ Peter Drucker, the father of the adminstration [^druckerfatheradm], brought up t
 
 [^druckerfatheradm]: 
 
-> *"In a society in which success has become so terribly important, having options will become increasingly vital. Historically, there was no such thing as "success." The overwhelming majority of people did not expect anything but to stay in their "proper station," as an old English prayer has it. The only mobility was downward mobility. In a knowledge society, however, we expect everyone to be a  success. This is clearly an impossibility. For a great many people, there is at best an absence of failure. Wherever there is success there has to be failure. And then it is vitally important for the individual, and equally for the individual's family, to have an area in which he or she can contribute, make a diference, and be **somebody**. "* (Drucker, 2008, pp. 53-54)
+> *"In a society in which success has become so terribly important, having options will become increasingly vital. Historically, there was no such thing as "success." The overwhelming majority of people did not expect anything but to stay in their "proper station," as an old English prayer has it. The only mobility was downward mobility. In a knowledge society, however, we expect everyone to be a success. This is clearly an impossibility. For a great many people, there is at best an absence of failure. Wherever there is success there has to be failure. And then it is vitally important for the individual, and equally for the individual's family, to have an area in which he or she can contribute, make a diference, and be **somebody**. "* (Drucker, 2008, pp. 53-54)
 
 <!-- 
-
-Drucker, P. (2008). Managing Oneself. Harvard Business School Press. pp. 53-54.
-
+@references 
+* Reference - Drucker, P. (2008). Managing Oneself. Harvard Business School Press. pp. 53-54.
 --> 
 
-Therefore, if no one hand there is a seekness for success as one does "their job", the other viewpoint, which can be obvious but very difficult to see from the perspective of the executor, that success can't be controled. On the other hand, Peter suggests how stability can be brought to lfe of the executor in the face of the truth where execution is subject to failure. The solution lies in splitting the person: The job of the founder and the life of the person. The role of the founder and the role of the manager that supports the founder. 
+Therefore, if no one hand there is a seekness for success as one does "their job", the other viewpoint, which can be obvious but very difficult to see from the perspective of the executor, that success can't be controled. On the other hand, Peter suggests how stability can be brought to lfe of the executor in the face of the truth where execution is subject to failure. 
 
-This mechanism is not unknown to us, of course. We know that is not uncommon for one that fails big to later come back as a new person. Actually in fact, a lot of stories of actual success comes after the fact of major failures, although most of stories are so short and focusing in the achievements that the what has happened before is taken out. Perhaps the world does not have time for that. 
+The solution, which I'd rather not nam it a path for success, lies in splitting the person. The job of the founder, from life of the person, the one which sustains the founder. This, assuming a role of a founder that is inclined to control, to be the controller, one that when has a full control may get to the point of losing control. This mechanism is not unknown to us and it may explain when we fail big and we later come back as a new person. Actually, in fact, a lot of stories of actual success comes after the fact of major failures, although most of stories are so short and focusing in the achievements that the what has happened before is taken out. Perhaps the world does not have time for that. The point being, while we are setting ourselves in a path that involves failing, such as failing from a controller, we must keep alive the person, its consciousness.
 
 Therefore, when it is time to plan the activities and the stories of entrepreneurship, we can and should focus on the proper management of the self with investments in this area. Our reflective moment starts with the celebration that we control the outcome, we can't control success. At least from an extremme perspective, it is very clear, that the total controller, that wants to manipulate the results, it just speeding up towards failure. And the other extremme we know it does not work either, that the one that does not care at all about success is more like taking a road without having a destination in mind. 
 
@@ -111,19 +115,22 @@ Consider the possibility of a contract that you can write with yourself. Where I
 
 One other component based on the same principle, that what I do is published, kept alive, so that the work I do can be seen. Therefore, and since controlling success is not possible, I can at least focus on progress. I can update my résumé constantly while doing the job. I can improve myself in being on time. I can improve my writing. I can study subjects. I lean listen. I can course-correct the plan after failing. These are traits of success that can be secured, for the person, aside from the actual effort of execution. A lot of professionals are quite professionals even when they are working for companies that had funding but out of the sudden the funding dries out. These folks can still have jobs after. And these folks should have a life always. 
 
+<!--
+@meta @todo 
+* @todo - p1 ( ) - In Accounting - In "split the love" , it may be worth to check Marcio's Hackenoon article where he claimed that startup advancements should go along with résumé advancement. THis may also align with Reid's note from the Start Up of You. @meta-refid 1222-3332-4443-6667 
+-->
+
 The annedote notion for splitting the love can be treated with an enlighted view from Abraham Maslow in Maslow on Managenent. In Memorandum on Salesman and Salesmanship (1998, p. 259), Maslow ilustrates a salesperson type that is concerned with the present, a practical type, that is less aware of the consequences of what they do in time and space: 
 
-> *"The salesman type, is also more concrete (rather than abstract). He tends to be preoccupied with what is before his nose, with what he can see and touch and feel and what is right here and right now, rather than that which is unseen and which is distant and delayed. "* 
-> Maslow (1998, p. 259)
+> *"The salesman type, is also more concrete (rather than abstract). He tends to be preoccupied with what is before his nose, with what he can see and touch and feel and what is right here and right now, rather than that which is unseen and which is distant and delayed."* (Maslow, 1998, p. 259)
 
 On the other hand, when Maslow considers the ideal type, a theoretical or enlighted salesperson, it goes all the way to indicate a humanized being that cares to the customer such as to the point of not prioritizing his selling in the face of listening to the customer needs. But the enlighted view recognizes our tendency to contrast "in a dichotonomous way the practical person with the theoretical person, in the sense that we expect the theoretical person to not be practical." (1998, p.259). His point, when stressing that aspect, goes on to add that "one lesson that we have learned from the study of healthy people is that the healthy person is apt to be everything. In this instance the healthy theoretical person would be both healthy and practical, depending upon the particular situation and the objective needs of that situation." (1998, p.259)
 
-Which is an enlighted view to help us to achieve focus in the face of pursuing success, with the recognition that we are being practical, focusing on the present, but also that we need to be healthy, and seek to release our fixation to present needs, such as "sales needs" if one were in a salesperson position, to minimally be considered of what is more as in to be somebody that needs to be somebody beyond failures ahead, challenges ahead. This place of being demands, beyond all, courage, and might shift objectives and the rationale for decision making.  
+The point being, after Maslow's enlightened viewpoint and besides the fact that in the pursuing of success we are likely in a hurry, is about the importance that being practical, such as focusing on present needs, should coexist with a healthy consciousness management of the self, one that supports the release from fixations, from obsessions, such as obsessions from the present needs of the entrepreneur (not unlike the present sales needs as illustrated,) one that maintains the potential of being somebody. This precondition demands, before anything, a good deal of courage, one that shall take us to manage, to shift, our objectives, to change the rationale for decision making and the use of our time.
 
 <!--
-
-Maslow, Abraham H. (1998). Maslow on Management. Published by John Wiley & Sons, Inc.
-
+@references 
+* reference - Maslow, Abraham H. (1998). Maslow on Management. Published by John Wiley & Sons, Inc.
 --> 
 
 ### Searching integration 
@@ -153,38 +160,11 @@ The prompt that Julia Cameron promotes, which depends on nurturing that well, wo
 
 The provocation of Julia lifts us towards the reality that we can be fixed towards a "one well-realized piece" ignoring what brought us there. Notice her differentiating life from career. Ins't it a bit like the phenomenon of a company that hired somebody that had a life, before, and then develops a career? 
 
-She is asking writers, the ones that want to become good writers, do see the process beyond the present moment. When founders run their start-ups like careers, even when they join after coming from a great experience that brought them to start the project, they can't tell which places they have visited that served to them as the energy, or the source of creative power, and which helps them to be able to work, to deliver. Sometimes we can sort of bring the bits and pieces of it. And worse, when founders - such as the ones that achieved known success - are interviewed about some good job they did, they are unable to skim the subject and really tell what brought them there in the first place. We just enter entrepreneurship with some arbitrary notions of what we did before. We look into that fusion space and project bits and pieces as the things we pulled of. We enter entrepreneurship thinking that our success has nothing much to do with that well, and that that well has nothing to do with our well being. 
+She is asking writers, the ones that want to become good writers, do see the process beyond the present moment. When founders run their start-ups like careers, even when they join after coming from a great experience that brought them to start the project, they can't tell which places they have visited that served to them as the energy, or the source of creative power, and which helps them to be able to work, to deliver. Sometimes we can sort of bring the bits and pieces of it. And worse, when founders - such as the ones that achieved known success - are interviewed about some good job they did, they are unable to skim the subject and really tell what brought them there in the first place. When we enter entrepreneurship, and perhaps anything in general, we generally bring some arbitrary notions of what we did before. We look into that hat and pull some bits and pieces from it, thinking that our success has nothing to do with that well, with the creation of that well, with the steps towards that well. But worse, we miss the fact that maintaining that well is key to our state of well-being, the well-being state that is necessary for the growth and challenging stages ahead.
 
 What founders can't see, that brings them to the resulting phenomenon - or felling stalled and having perceptions such as "we are not motivated as we were" or "things are not working" or "the market is not accepting" and the many variations of that -  is that we might have another underlying reason to be there, to being somebody in that process. 
 
 Julia pointed a situation of a television executive that started as a producer with a goal of doing good to the world but caught himself in a kind of existential crisis as his "inner reality and his outer world no longer mesh" (1998, p.108). She elaborated about his mechanism of crisis management consisting of a daily writing exercise that takes in consideration his value system, where he is okay with discomfort, where he states his dreams, where he brings the reality he faces, where he can be conscious about himself. The reflective writing exercise of the executive celebrates how one checks on his integrity. 
 
 The success we seek, ultimately, is not arrive at a scene as beings that somehow had stumbled in a state of well being; so that we brought ourselves in the readiness level where we can pull an idea of the hat and then success is measured from our ability to execute and deliver to the world, keep pulling from a hat. As the matter depends on embracing the creative state of well being - which is a requirement for entrepreneurship - we must seek to understand that success is success in the long run, that we need to nurture ourselves to be able to pull solutions from the well as much as keep experiencing and act to fill that well. And that such effort has to be done also at an individual level, for everyone involved. 
-
-### Accounting networking 
-
-* lead - my friend fabricio once said that he was standing in the shoulders if Giants - in one of his blog posts I guess. Years later I was watching the following talk interview with Marc Andreessen and he said that he carries on a mini Peter Thiel in his shoulder:
-
-What are these guys saying really? Maybe Marc's explanation is a good one: mental models. Yes, they can be biased but yet the mental model carries in a strategy, it's intended to be the other and not to simply be yourself.
-
-The author Jim Collins explored also a related idea in his concept of the personal board.
-
-And Brian Chesky, cofounder or Airbnb, contrasted pretty well the case of the one that lives in a successful rich network vs the one that does not have direct access to a rich network - his advice is to get them as books because books are cheap.
-
-#### actionable mental networking
-
-* Reid Hoffman, the cofounder of linkedin, offers a networking view that is actionable. One can navigate networks such as using data and subjects and problems that important people have at their plates. Check startup of you p 197.
-
-#### jumping from resonating information to contact
-
-* Example of action in the network opting in towards contact, as presented by Reid and Ben: (< book: the startup of you ) Knowledge-and-networked actionable - resourcefulness - Reid shows an amazing example by Sheryl Sandberg on how she have approached a research task that was given to her by her boss Larry Summers at the World Bank - p 197 Reid Hoffman and then Casnocha in The Startup of You: she engaged in asking help about the subject of the research, to a historian. This is example of navigating information throught people.
-
-* Of course the example of Sheryl is of one that has contacts and was able to reach out. But a lot of people have the contacts and they tend to the reading, to the research only. So even for people with good and rich networks it demands a great deal of initiative to navigate via networking.
-
-* Yet, back to the virtual approach - is also very normal as shown in the case of Marc. He does not call all the time Peter Thiel.
-
-Bridging from the virtual to the real - in my fast clip networking idea I am exercising the possibility that the virtual electronic mental developments can eventually access the real people. One thing Is to use the network Intelligence to map out the knowledge development in time. The other is to map out people'identity to have them to update what they do and also to show what problems they seek to solve? I once experimented with crossing the barrier from archieved information to the real because I sensed the open challenge of the networker in progress: Reid Hoffman was a host in the series of lecturers for Stanford freshman students entitled Blitzscaling. In his talk with Michael Dearing I was subtitling and then I did t understood what he said. Turned to linked in, and wrote to him without having access direct to him like I so for many other people. Interesting it was that Reid replied and told me that he was busy but if I wanted he was able to put his co-author to help me to disambiguate. At that moment I learned that the subject in transit was important to him. Thus, there is the moment between the static knowledge and the dynamic knowledge that is being formed for networks.
-
-Going back to your virtual personal board, and trying to tie actions, is the way to go. Thus the real question for your board is yourself curating, revisiting, your board via actions that you think are going to help you out with your goals.
-
 
