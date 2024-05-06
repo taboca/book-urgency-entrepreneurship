@@ -8,9 +8,13 @@ In this chapter, we will consider the role of fear, especially in the fast-paced
 
 If we set a time machine to somewhere 30000 to 36000 years ago, and find a human on a tree fearing the fearless wolf that paciently waits, we can visualize - and respect - that feeling which improves the chances for survival in the face of the danger. Someone in your ancestors tree feared a treat so that you can be reading this book and somehow feeling connected with that ancestor who survived. But back to the future of now, the metaphor that fears move mountains makes sense as decisions in the knowledge economy, especially in the digital landscape, are not disconnected from what we perceive, what we think, and what we feel. The mountain of now can be the pile of resources, such as money, or time. The wolves of now can be the competitor. And your organization is the tree of now, where we can go up and down, and hoping to survive. And if you do so, I hope that you have time to come down from the tree to paint the situation in a stone wall of now.
 
-If some of that sounds far from where we are, I fear that we must confront, or celebrate, or accept, the fact that narratives driven by fear are quite naturally administered into the veins of our corporate body - even to a point where we don't make sense of how our now-networked brain responds. And all of this becomes even more serious given that the startup situation deals with threats as projections, idealized, more than real threats of the present. In other words, because growth is expected and ahead, and risks or prizes are there. Thus, there is the implied element of risk analysis and the potential that larger sums of resources are lined up to be deployed under the expectation that it will support growth to happen. In other words, a lot is based on signals, or perceptions, therefore less related to real threats or iminent risk. 
+If some of that sounds far from where we are, I fear that we must confront, or celebrate, or accept, the fact that narratives driven by fear are quite naturally administered into the veins of our corporate body - even to a point where we don't make sense of how our now-networked brain responds. And all of this becomes even more serious given that the startup situation deals with threats as projections, idealized, more than real threats of the present. In other words, because growth is expected and ahead, and risks or prizes are there; it follows an implied element of risk analysis and the potential that larger sums of resources are lined up to be deployed under the expectation that it will support growth to happen. In other words, a lot is based on signals, or perceptions, therefore less related to real threats or iminent risk. 
 
-But the complication, and the reason for us to be together, is that the entrepreneurial agenda does not allow room to discuss our fears, or the role of fear, or how fear drives productivity, such as how fear eloquently shapes the narratives that create that affects our decisions. To note, or to narrow our scope and increase the complexity of the situation, the setting of a startup starts with a few people - founders and the small team [^footnote_blitzscaling_family_stage] - which means more agility, thus more authorithy. In other words, although the mountain of resources is small, it is big enough in relative to the possibility of impact to the future. 
+<!--
+@outline - complication - no room to discussion fears, the role of fear, how fears impacts productivity and strategy.
+--> 
+
+But the complication, and the reason for us to be together, is that the entrepreneurial agenda does not allow room to discuss our fears, or the role of fear, or how fear drives productivity, such as how fear eloquently shapes the narratives that create that affects our decisions. To note, or to narrow our scope and increase the complexity of the situation, the setting of a startup starts with a few people - founders and the small team [^footnote_blitzscaling_family_stage] - which means more agility, thus more authority. In other words, although the mountain of resources is small, it is big enough in relative to the possibility of impact to the future. 
 
 [^footnote_blitzscaling_family_stage]: Within the Blitzscaling lectures, the family stage refers to a small team, and it is stage one. 
 
@@ -35,11 +39,8 @@ From a storytelling perspective, a doer in a cause can be seen as a protagonist,
 Framing from a storytelling perspective will helps us to understand how emotions, such as feelings of loss, are experienced quite strong to a point of governing decisions - thus the use of our scarce resources. The book Storynomics (2018), whose audience is marketers interested in improving their communications, shows how people's perception about things can influence decisions. The authors refer to a selection of scientific works that shows that people's perceptions about pain (or pleasure) are felt based on what is presented to them - as in narrated - influencing them from how they imagine the given narrative. The selection of studies presented (2018, p.43) does justice to this idea by supporting scientific evidence for what the world of advertising has long before cracked, and profited for a while [^editornote_robertmckee_storynomics], althought generally understood as a subject of persuasion.    
 
 <!-- 
-
-Reference 
-
-McKee, R., & Gerace, T. (2018). Storynomics: story-driven marketing in the post-advertising world. New York, Twelve.
-
+@References
+* reference - McKee, R., & Gerace, T. (2018). Storynomics: story-driven marketing in the post-advertising world. New York, Twelve.
 --> 
 
 [^editornote_robertmckee_storynomics]: 
@@ -60,14 +61,11 @@ Perhaps this association is common in the world of artists or those involved in 
 
 Thus, relevant in the entrepreneur's context is the censorship that becomes decisive, even though we don't acknowledge fears. But our fears from situations like dreaming, reflecting, or planning, can quickly engage a self-censor. In other words, our fears might act behind the scenes although it impacts a world of possibilities, which might limit what we do. Dealing with these subject it not a simple task, such as of asking technical help or even reading book, because it involves taking initiative and to engage in reflective thinking, to put things in perspective, such as what comes from reflective writing or other related processes that involves asking for help, just like one would when one enters a session with a psychoterapeut, or a coach, or board members.  
 
-Author Julia Cameron, known for her book The Artist's Way (1992), assists artists from various fields in navigating their creative potentials and blocks. Her 12-week course, which is outlined in the book, includes what is an apparently a simpple exercise of "morning pages," consisting of writing long hand-written pages every morning; an essentially liberating practice that exercises the mind, much like a gym for the body, allowing the censoring side of the mind to cease stifling creativity. It's a technique that encourages making mistakes, experiencing fears, beginning with granting oneself permission.
+Author Julia Cameron, known for her book The Artist's Way (1992), assists artists from various fields in navigating their creative potentials and blocks. Her 12-week course, which is outlined in the book, includes what is an apparently a simple exercise of "morning pages," consisting of writing long hand-written pages every morning; an essentially liberating practice that exercises the mind, much like a gym for the body, allowing the censoring side of the mind to cease stifling creativity. It's a technique that encourages making mistakes, experiencing fears, beginning with granting oneself permission.
 
 <!-- 
-
-( ) Check Reference 
-
-Cameron, J. (1992). The artist's way: A spiritual path to higher creativity. Jeremy P. Tarcher/Putnam.
-
+@references - ( ) Check Reference 
+*  Cameron, J. (1992). The artist's way: A spiritual path to higher creativity. Jeremy P. Tarcher/Putnam.
 --> 
 
 Through Julia's explanations, we can see how she discovered this technique throughout her career. She was a recognized artist in Hollywood who, at some point, had her work rejected (please verify this information around page 40 in the book). In her account of the emotions she experienced, she likened the feeling of her work's rejection to the loss of a pregnancy.
@@ -84,23 +82,28 @@ Agora, tratamos de medo que cria bloqueio ou censura, uma vez que exercitamos no
 
 #### Reflection on fears working for principles 
 
-We want to feel emotions, we want to recognize fear, we want to allow ourselves to be vulnerable. With these exercises, you can embrace fear so that you can explore possibility, mapping rissks and possible actions. The entrepreneur that embraces their fear, which allow the conflict and asks for help, is one that engages into the collaboration process; which is a big idea in the sense that it has to do with allowance for a wider view, a different perspective, which opens the door for an actual wiser view about the entreprneurship, as opposed to the constraints of the identity of the role that promotes the journey, such as the particular reality of a founder. The allowance for disucssions of fears, the conscious discussions about how fears are translated into the narratives, means a seed for the culture that is a truth seeking culture. 
+We want to feel emotions, we want to recognize fear, we want to allow ourselves to be vulnerable. With these exercises, you can embrace fear so that you can explore possibility, mapping risks and possible actions. The entrepreneur that embraces their fear, which allow the conflict and asks for help, is one that engages into the collaboration process; which is a big idea in the sense that it has to do with allowance for a wider view, a different perspective, which opens the door for an actual wiser view about the entreprneurship, as opposed to the constraints of the identity of the role that promotes the journey, such as the particular reality of a founder. The allowance for disucssions of fears, the conscious discussions about how fears are translated into the narratives, means a seed for the culture that is a truth seeking culture. 
 
-Doug Leone, partner of Sequoia Capital, explains how he keeps himself motivated and seeking for more which is challenging as he is part of one of the most sucessful venture capital firms in Silicon Valley, which would naturally put him into a situation of a comfort zone. 
+Doug Leone, partner of Sequoia Capital, explains how he keeps himself motivated and seeking for more which is challenging as he is part of one of the most successful venture capital firms in Silicon Valley, which would naturally put him into a situation of a comfort zone. 
 
 > "When you are successful a little bit, the greatest danger you have is the fact you were successful. " Doug Leone (Brazil at Silicon Valley, 2019, 7:02)
 
 He added that ""**raw fear**", is what motivates him; as he recalled the days when he would walk at the Stanford Shopping center, in 1988, making about 67000 dólares per year, knowing that he didn't have enough money to buy gifts. (Stanford Graduate School of Business, 2014, 45:22). And went on to recognizing the fears that kept him to work, such as fear of being lay-off from Sequoia, fear of messing up with the life of entrepreneurs. Thus, for Doug, fear is a motivation force. 
 
+<!--
+@references 
+* reference - Sequoia Capital's Doug Leone on Luck & Taking Risks. (2014, November 7). Stanford Graduate School of Business. Retrieved from https://www.youtube.com/watch?v=4cl8X02Xd1I
+--> 
+
 #### Reflection on fears from the factory 
 
-Andy Grove também compartilhou uma ideia parecida, de medo como força que motiva a criatividade e também a ação - medo de perder em relação ao competidor, medo do produto não ser bom para clientes, etc. Para Andy Groove, (????) existe uma sequência de emoções que são similares às emoções da perda de pessoas queridas, que podem ser vividas por pessoas questão no meio de situações que ele chamou de pontos de inflexão. [Colocar o exemplo de Andy, sequência da perda da pessoa querida, seguido da sequência no domínio da empresa que vive o ponto de inflexão. ]
+Andy Grove also shared a similar idea about fear as a force that motivates creativity and action—fear of losing to a competitor, fear that the product is not good enough for customers, etc. For Andy Grove, there exists a sequence of emotions similar to those experienced during the loss of loved ones, which can be experienced by people in the midst of what he called "inflection points." He suggests a parallel between the sequence of losing a loved one and the sequence experienced in the corporate domain during an inflection point.
 
-O próprio Andy revela que ele escreveu um dos seus livros no meio de uma dessas jornadas turbulentas que a Intel passou em torno de 198x [conferir em Let Chaos Reign] - sugerindo que naquela situação ele poderia estar escapando de reconhecer a situação.
+Grove revealed that he wrote one of his books amidst one of these turbulent journeys that Intel went through around the 1980s (to be confirmed in "Let Chaos Reign")—suggesting that in that situation, he might have been escaping from recognizing the situation.
 
-O que tiramos disso, é, mais uma vez uma ideia simples mas que não podemos ignorar - somos humanos, nos sentimos e vamos nos envolver e vamos provavelmente coordenar nossas ações de empreendedorismo em função das emoções. Mas isso não significa que não podemos tirar tempo para reconhecer e refletir sobre isso tudo. Se o ex-CEO  da Intel reconhece que estava escapando do problema maior ao escrever um livro será que nós também as vezes engajados em certas ações responsáveis como forma de bloquear ou como autodefesa para não corrermos o risco de sentir perda ou sentir emoções fortes como medo e insegurança?
+What we can take away from this, once again, is a simple idea but one that we cannot ignore—we are human, we feel, and we will likely coordinate our entrepreneurial actions based on emotions. However, this doesn't mean we can't take time to recognize and reflect on all this. If the former Intel CEO recognizes that he was escaping from a larger problem by writing a book, could it be that we also sometimes engage in certain responsible actions as a form of blocking or self-defense to avoid feeling loss or strong emotions like fear and insecurity?
 
-Andy Grove ainda articulou uma versão corporativa do potencial da perda, a auto defesa - uma situação onde empresas que estão passando pelo dito ponto de inflexão, decidem compras outras empresas. Ela perguntou, em Only the Paranoid Survive, por que será que empresas de eletrônicos do Japão, que viveram mudanças grandes em seus mercados e indústria, compraram estúdios de cinema. Para Andy, pode acontecer justamente um escapismo que acaba por tomar a atenção completa dos gestores, eles ficam ocupados demais, eles querem se ocupar.
+Andy Grove also articulated a corporate version of the potential for loss, self-defense—a situation where companies going through said inflection points decide to buy other companies. He questioned, in "Only the Paranoid Survive," why Japanese electronics companies, undergoing significant changes in their markets and industry, bought movie studios. For Grove, this could represent a form of escapism that ends up completely occupying managers' attention; they become too busy, they want to be occupied.
 
 #### Reflections on the professional identity and perceived threats 
 

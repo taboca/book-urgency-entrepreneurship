@@ -1,4 +1,14 @@
-# Running 
+# Running v0.2 
+
+Book.txt index: 
+
+100/090_running/020_article.txt - Running intro, Specialist; 
+100/090_running/020_err_is_ok.txt - Trying to be right, sounds right, but can block too; 
+100/090_running/200_article_fear.txt - Respecting fear? 
+100/090_running/070_impact/020_article.txt - Impact demands surrender?
+
+
+# Running v0.1
 
 <!-- 
 

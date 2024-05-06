@@ -1,6 +1,9 @@
 # Todo # 
 
-* @todo - p1 ( ) - In Accounting - "Accounting Networking" was taken away from the end of "Success", moved into Lost and Found within the Chapter: winning. @meta-refid 1223-3233-5553-7676
+
+* @todo - p1 ( ) - In Introduction - Perhaps after reading "Slow Productivity" of Cal Newport, something in the Introduction would gain some new style or perspective; projected through the style. @meta-refid 7575-8855-8844-9494
+
+* @todo - p1 ( ) - In Accounting - "Accounting Networking" was taken away from the end of "Success", moved into "Lost and Found" within the Chapter "Winning." @meta-refid 1223-3233-5553-7676
 
 * @todo - p1 ( ) - In Accounting - In "split the love" , it may be worth to check Marcio's Hackenoon article where he claimed that startup advancements should go along with résumé advancement. THis may also align with Reid's note from the Start Up of You. @meta-refid 1222-3332-4443-6667 
 
