@@ -27,11 +27,12 @@
 100/095_environment/024_transcending.txt
 
 ########## reconsider?
-
 #100/095_environment/030_operating_systems.txt
 #100/095_environment/040_words.txt 
 #100/095_environment/050_narratives_improving.txt
 #100/095_environment/060_rainbow_grayscale.txt
+
+### Chapter - Running 
 
 100/090_running/020_article.txt
 100/090_running/050_err_ok/10_article.txt

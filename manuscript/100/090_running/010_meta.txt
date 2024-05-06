@@ -1,3 +1,13 @@
+# Running v0.3 
+
+* Situation - Running is normal, from the specialist, we know what to fear and the right thing to do. For a while. 
+* Complication - Identification that a critic, that argues with fears and certainty of being right, does not know the growth path. 
+* Question - Can we change the perspective to feel and judge outside the being?
+* Answer - How speciaalists are made, how emotions are projected into the running being preventing running, how to transcend for impact. 
+* A1 - Specialist 
+* A2 - Controler fears
+* A3 - Transcending for impact 
+
 # Running v0.2 
 
 Book.txt index: 
@@ -6,7 +16,6 @@ Book.txt index:
 100/090_running/020_err_is_ok.txt - Trying to be right, sounds right, but can block too; 
 100/090_running/200_article_fear.txt - Respecting fear? 
 100/090_running/070_impact/020_article.txt - Impact demands surrender?
-
 
 # Running v0.1
 
