@@ -35,6 +35,7 @@
 ### Chapter - Running 
 
 100/090_running/020_article.txt
+100/090_running/040_specialist_generalist/010_article.txt
 100/090_running/050_err_ok/10_article.txt
 100/090_running/060_fear/10_article.txt
 100/090_running/070_impact/10_article.txt
