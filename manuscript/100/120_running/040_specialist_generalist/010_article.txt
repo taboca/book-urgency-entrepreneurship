@@ -5,6 +5,14 @@
 <!--
 @meta @outline 
 * @outline - answer a1 - The specialist and generalist symbiosis;
+
+* outline - Situation - everyone is a specialist 
+* outline - Situation - entrepreneurship demands the generalist 
+* outline - Complication - We miss the point that the generalist makes the specialist 
+* outline - Answer - We get into the job, to fit first. 
+* outline - Answer - We need to access the well. 
+* outline - Answer - Integration and the editor-critic 
+
 -->
 
 
@@ -12,9 +20,30 @@
 
 ## The specialist and the generalist 
 
-As we seek for the winning condition of us as human beings, I want to start with the story of how I end up working at a well-known Silicon Valley company, a few Silicon Valley chapters before the Silicon Valley as we know it. Those were the days of the Silicon Valley of the browser days [^siliconvalleyofbrowserdays]. Before I arrived in Silicon Valley I was a sort of not so normal student. Seeing by collegues as creative, wearing an unusual outfit, always in the lab. I got in in 1993, when the movie Jurrassic Park was out. At the same time the Internet was also fresh. So I had the reasons to be in the lab and not to pay attention to the classes of the Computer Science course. Then later I was sort of invited to focus and complete, as opposed to leave university, when I was approaching 8 years, by 2000. I did a lot of things in there, made too many friends, had fun and also did some of the stuff that brought me the job at the company, at the time well-known, called Netscape. When I joined Netscape I might have normalized myself. There were too many new things, and excitement, and new systems in place keeping me in the line. So I would say that a bit of normalization started to happen. And it makes sense, doesn't? And it isn't bad, isn't it? Except that somehow we decide to take that path of the work environment, as in to quickly climb our way using the stones in a big wall, as opposed to challenge the stones.  
 
-[^siliconvalleyofbrowserdays]: The phrase "Silicon Valley of the browser days" refers to the timeframe during the late 1990s to early 2000s when the web was in its early stages of development and the Silicon Valley was at the center of it. This period is noted for the creation and enhancement of web browsers, marking the dawn of a new digital era. Pioneering tech companies based in Silicon Valley, such as Netscape with its Navigator browser, played significant roles in shaping the internet as we know it today. During this time, the evolution of web browsers led to a shift from the static HTML pages of the early Internet to the dynamic, interactive web experiences we are familiar with now.
+You may call that to run, or to harvest. We seem to know what that is about. As in, within ourselves, we get that feeling, especially when we feel as being ready to do something, one ready to step up to the challenge, one that has achieved maturity to some extent. It may be because you acquired a great deal of experience in a domain, before, or maybe she were a star recognized in a field, or he is skilled or talended as seen by the eyes of an audience, or even that they feel to have some maturity level, or a self-aware readiness level anyway, to found a startup and to try run it. In other words, if we don't feel as being someone for the now-movement, in alignment with what we considered from Peter Drucker's thought in the first chapter, we won't get into the movement for getting things done anyway. 
+
+But as these founders decide to run, to execute, such as to do it in ways "no matter what," they shall too face an inescapable challenge - if they are serious in it and cares for a culture to enable scale and growth - which is the need to be generalists. According to Reid Hoffman, in *How to Build a Strong, Scalable Culture for Blitzscaling* (2019), generalists are "people who can change directions, refactor priorities, learn something new, and adapt quickly to whatever curveballs the universe throws at them." We should note that Reid is not asking us to bring people that are specialists in changing directions or obsessed with refactoring priorities or drifters in the learning world. Reid's call, actually in fact, calls for the specialist-generalist sort of mentality, as he supports the early stage to hire "contributors who are great at what they do," even to be okay to get involved with people who "aren’t going to scale into senior roles when the company grows." 
+
+<!--
+@references 
+* reference - Hoffman, R. (2019, March 14). How to build a strong, scalable culture for blitzscaling. LinkedIn. Retrieved from https://www.linkedin.com/pulse/how-build-strong-scalable-culture-blitzscaling-reid-hoffman/
+--> 
+
+Now a major problem, naturally, seems to be the complication of balancing the specialist and generalist, specially for the founder team; which deserves a calmer reflection, exactly because it may be so that, again, we first get to access that space of "becoming" a generalist from "being" a specialist first, in a way or another. And where we are going next, which I shall frame part of my story of starting as a specialist, is to exactly debug the being, the specialist, to set us to rest assured that all beings formed are formed first because the enter the becoming in the first place; although in many situations we miss the means of becoming, we generally take for granted, the movement, see fail to see the dots connecting (in alighment with Stebe Jobs point.) This is a general flaw perhaps in our educational system, in many cultures, perhaps linked to the fact that we are educated, as adults, in ways to miss the value of becoming. 
+
+As you recall I brought the theme of Netscape, although I skipped my own story of how I got into it, as of course it wasn't relevant in the chapter about the environment. But anyway you may remember that I did mention that sometimes we get to know things, words and terms and expressions and ways to do things, because we get to work, we get into the tracks of life, and somebody else throws the tool. I said that before you ask, you are told to keep cranking. That model of learning might not be wrong, it sets an intern to be working along high skilled doctors, passing complex tools in the environment of a heart surgery. Thus we are set as pieces of something that is bundled already, and when all is fast, it takes time to figure what was that setting, that team, that bundled thing, and even harder to figure how to unbundle that. 
+
+But we may too know a hint, or hold to a single thread, in a way or to some extent. We may sort of sense that the thread of what we are doing now may lead to a tapestry, that some kind of purpose is there, that a grand design may exist. The difficulty is exactly because "through the eyes of man" [^footnote_prince_egypt_heavens_eyes] we are generally executing too fast to know, as one being, and unable to see the view of one becoming. 
+
+[^footnote_prince_egypt_heavens_eyes]: http://www.musicalschwartz.com/through-heavens-eyes.htm
+
+When I was thrown at Netscape I was excited. But moments before, while in the university, I knew that I was a sort of not so normal student. Seeing by collegues as creative, in a way, wearing an unusual outfit, always in the lab. I got in in 1993, when the movie Jurrassic Park was out. At the same time the Internet was also fresh. So I had the reasons to be in the lab and not to pay attention to the classes of the Computer Science course. Then later I was sort of invited to focus and complete, as opposed to leave university, when I was approaching 8 years, by 2000. I did a lot of things in there, made too many friends, had fun and also did some of the stuff that brought me the job at the company, at that well-known, iconic, browser making company called Netscape. When I joined Netscape I might have normalized myself in a way. I felt as a being, as somebody. There were too many new things, and excitement, and new systems in place keeping me in the line, in a way. So I would say that a bit of normalization started to happen. And it makes sense, doesn't? And it isn't bad, isn't it? Except that some of us somehow starts to take a path of the work set by the environment, as in to quickly climb our way using the stones in a big wall, as opposed to challenge the stones.  
+
+
+
+
+
 
 The sort of analogous situation, or pattern, that happens with many when they face the reality of jobs, is that they embrace certain ways of operation that are tied to the culture. But the sort of embrace the mechanics of it to a point that what they do, and how they do, is affected by the mechanics. 
 
@@ -22,13 +51,27 @@ That is nothing much wrong about that except that we seem to be captivated by th
 
 It is wasn't different for me. I got a job, as I had talents of a new kind. Then I found a place where people seem to climb using other skills. And I sort tried to figure the general function of climbing. Actually, I didn't try to do that on my own, trying to hack the system, or trying to find a legit way to play the game. The system it itself were telling me to operate like that, with things such as performance reviews. By the way, the system recognized my talents, the sort of things that somehow we bring from the outside, the things that brought me into the job as well. But it is as if the system does not want to mess with that too much. I once received a compliment of a employee that said "Marcio, whatever you are smoking, please keep doing that."  
 
+
+
+
+
+<!--
+@meta @outline 
+* @outline - Attempt to transition to the Well thing? Ft. Julia Cameron?
+--> 
+
+
+
+
+
+
 But that compliment also is revealing of something else. That we don't care where and what is your well - your well of creative thinking that makes you unique. Do that and come back. Or more precisely do that before you come in. During the week, we expect you to vomit that thing onto our system and we expect that you can normalize those things into our products. 
 
 So the phenomenon, in the workplace, and it is also everywhere in our system of working, is that we run the risk of entering into certain "execution tracks," such as when we get a job. And then we run X amoung of years following an execution routine that does not involve the time to visit, or to enter, into that other experience that brought us to be who we were, before we have entered the execution track (or the job, or executing a start-up) in the first place. 
 
 <!--
 @meta @todo 
-* @todo - p2 ( ) - #dup - in Running Intro and in Winning - "execution tracks" is duplicatd. @meta-refid 1233-3423-3484-9849 
+* @todo - p2 (Moved to here) - #dup - in Running Intro and in Winning - "execution tracks" is duplicatd. @meta-refid 1233-3423-3484-9849 
 --> 
 
 This is when we start to lose that connection as the result of just being there. As a result of just working. No time to fly towards the sun and come back - if you were a birdman. No time to step over the stones that makes one unique. In the job, we follow trails; because it is how things works, the survival route, the promotion route, it's the only way. And there are other names to that, to many words that pulls our focus back to the track. 
