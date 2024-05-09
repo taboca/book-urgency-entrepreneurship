@@ -1,5 +1,7 @@
 # Todo # 
 
+* @todo - p1 ( ) - In Accounting/Success vs. In Running - Check passage from Julia which is inside Winning but may be also in Running? "Julia pointed a situation of a television executive that started as a producer with a goal of doing good to the world but caught himself in a kind of existential crisis as his "inner reality and his outer world no longer mesh" (1998, p.108)." @meta-refid 1222-2332-3232-4444 
+
 * @todo - p2 ( ) - #dup - In "Running" and in "Not so radical focus" -  Marcio brought the thing from Reid, falling and trying to assemble the airplane on the way down. @meta-refid 1232-3344-4484-9484 
 
 * @todo - p1 ( ) - In Introduction - Perhaps after reading "Slow Productivity" of Cal Newport, something in the Introduction would gain some new style or perspective; projected through the style. @meta-refid 7575-8855-8844-9494
@@ -391,8 +393,6 @@ https://chat.openai.com/share/b7eb16c5-4c18-4709-9220-bd2629f34a3d
 * @todo - p2 (Moved into Running) - #dup - in Running Intro and in Winning - "execution tracks" is duplicatd. @meta-refid 1233-3423-3484-9849 
 
 * @todo - p2 (Moved into Running ) - #dup - birdman is duplicated - @meta-refid 1223-2444-8383-8388
-
-* @todo - p1 (Moved into Running ) - #dup - In Accounting/Success vs. In Running - Check passage from Julia which is inside Winning but may be also in Running? "Julia pointed a situation of a television executive that started as a producer with a goal of doing good to the world but caught himself in a kind of existential crisis as his "inner reality and his outer world no longer mesh" (1998, p.108)." @meta-refid 1222-2332-3232-4444 
 
 * @todo - p2 (Done, dismissed) - In Environment - May consider the ref to the Tiktok documentary, as a case for how the short video patform works. @meta-refid 1222-3332-2323-4443-2383 
 

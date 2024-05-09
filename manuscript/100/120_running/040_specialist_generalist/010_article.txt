@@ -31,29 +31,63 @@ AS as they run, and execute, such as to do it in ways "no matter what," they too
 * reference - Hoffman, R. (2019, March 14). How to build a strong, scalable culture for blitzscaling. LinkedIn. Retrieved from https://www.linkedin.com/pulse/how-build-strong-scalable-culture-blitzscaling-reid-hoffman/
 --> 
 
-
-
-
-Now a major problem naturally rises, which is that we need to be balancing the specialist and generalist, specially for the founder team, which deserves a calmer reflection, exactly because it may be so that, again, we first get to access that space of "becoming" a generalist from "being" a specialist first, in a way or another. And where we are going next, which I shall frame part of my story of starting as a specialist, is to exactly debug the being, the specialist, to set us to rest assured that all beings formed are formed first because the enter the becoming in the first place; although in many situations we miss the means of becoming, we generally take for granted, the movement, see fail to see the dots connecting (in alighment with Stebe Jobs point.) This is a general flaw perhaps in our educational system, in many cultures, perhaps linked to the fact that we are educated, as adults, in ways to miss the value of becoming. 
-
-As you recall I brought the theme of Netscape, although I skipped my own story of how I got into it, as of course it wasn't relevant in the chapter about the environment. But anyway you may remember that I did mention that sometimes we get to know things, words and terms and expressions and ways to do things, because we get to work, we get into the tracks of life, and somebody else throws the tool. I said that before you ask, you are told to keep cranking. That model of learning might not be wrong, it sets an intern to be working along high skilled doctors, passing complex tools in the environment of a heart surgery. Thus we are set as pieces of something that is bundled already, and when all is fast, it takes time to figure what was that setting, that team, that bundled thing, and even harder to figure how to unbundle that. 
-
-But we may too know a hint, or hold to a single thread, in a way or to some extent. We may sort of sense that the thread of what we are doing now may lead to a tapestry, that some kind of purpose is there, that a grand design may exist. The difficulty is exactly because "through the eyes of man" [^footnote_prince_egypt_heavens_eyes] we are generally executing too fast to know, as one being, and unable to see the view of one becoming. 
-
-[^footnote_prince_egypt_heavens_eyes]: http://www.musicalschwartz.com/through-heavens-eyes.htm
-
-When I was thrown at Netscape I was excited. But moments before, while in the university, I knew that I was a sort of not so normal student. Seeing by collegues as creative, in a way, wearing an unusual outfit, always in the lab. I got in in 1993, when the movie Jurrassic Park was out. At the same time the Internet was also fresh. So I had the reasons to be in the lab and not to pay attention to the classes of the Computer Science course. Then later I was sort of invited to focus and complete, as opposed to leave university, when I was approaching 8 years, by 2000. I did a lot of things in there, made too many friends, had fun and also did some of the stuff that brought me the job at the company, at that well-known, iconic, browser making company called Netscape. When I joined Netscape I might have normalized myself in a way. I felt as a being, as somebody. There were too many new things, and excitement, and new systems in place keeping me in the line, in a way. So I would say that a bit of normalization started to happen. And it makes sense, doesn't? And it isn't bad, isn't it? Except that some of us somehow starts to take a path of the work set by the environment, as in to quickly climb our way using the stones in a big wall, as opposed to challenge the stones.  
+Now a major problem naturally rises, which not only due to the need of balancing the roles of the specialist and the generalist, specially for the founder team, which deserves a calmer reflection, exactly because it may be so that, again, it may be well the case that we get into the possibility of becoming a generalist only after being, in the first place, being somebody that does something already, perhaps more that runs more like a specialist first, in a way or another. And where we are going next, which I shall frame part of my story of starting as a specialist, is to exactly debug the being, the specialist, to set us to rest assured that all beings formed are formed first because the enter the becoming in the first place; although in many situations we miss the means of becoming, we generally take for granted, the movement, see fail to see the dots connecting (in alighment with Stebe Jobs point.) This is a general flaw perhaps in our educational system, in many cultures, perhaps linked to the fact that we are educated, as adults, in ways to miss the value of becoming. 
 
 
 
 
 
 
-The sort of analogous situation, or pattern, that happens with many when they face the reality of jobs, is that they embrace certain ways of operation that are tied to the culture. But the sort of embrace the mechanics of it to a point that what they do, and how they do, is affected by the mechanics. 
 
-That is nothing much wrong about that except that we seem to be captivated by the operational model which eventually seems to prevent us to do come out with new ideas when it is needed. The thing with the normal course of jobs is perhaps not much different of what the screenwriting professor Robert McKee said about the situation that young screenwriters face, after they learn how to use cliches, which is that they sell their soul, as in there is no return. 
 
-It is wasn't different for me. I got a job, as I had talents of a new kind. Then I found a place where people seem to climb using other skills. And I sort tried to figure the general function of climbing. Actually, I didn't try to do that on my own, trying to hack the system, or trying to find a legit way to play the game. The system it itself were telling me to operate like that, with things such as performance reviews. By the way, the system recognized my talents, the sort of things that somehow we bring from the outside, the things that brought me into the job as well. But it is as if the system does not want to mess with that too much. I once received a compliment of a employee that said "Marcio, whatever you are smoking, please keep doing that."  
+
+
+
+<!--
+@Outline 
+* @outline - Answer one, into the job, not a life. 
+-->
+
+
+
+
+
+As you recall I brought a bit from the history of Netscape when exploring the theme of bundle and unbundle. You may remember too that the idea of bundle was given to me from the action, from the field, from the job, that fast-paced place where words and terms and expressions, and ways to do things, are thrown at us, logically to somebody that is wanted, faster hands. Speaking of fast hands of the west and remembering these days in Silicon Valley, I won't ever forget the day when our team was about to change because our manager were leaving the spot. He called us to the meeting room and had technical keywords to be given to most of us. We are changing, so let us find who will do what, okay? Who knows JavaScript? The JavaScript expert was known so we all pointed to Bob, actually to the Polycom conference phone at the center of the table since Bob was in the east coast. Who knows DOM? I raised my hands fast, I loved DOM. But then all the five keywords were fired, and picked by our fast hands, except that we were six. Marie, you will be their manager. The meeting was over. We were back to our cubicles, my hands were back to the keyboard. 
+
+The prose which I am pushing here, with the story my own job at Netsscape, carries a tone of suspiction, setting the stage for the reflections that must be in order so that we can access the generalist or to unbundle our fast-paced work situation. But I am exactly bringing the story in this order, specialist first and generalist later, because this is the order of life as we know it, that we can only become after being first. In other words, we should first celebrate the opportunity where the next rises from the now. With that, an intern can be working alongside a skilled doctor and can pass a complex tool that is critically necessary for the next job step of a heart surgery. Thus, even if our spinning globe seems somewhat arbitrary, it seems plausible to celebrate the goods of life when we have the chance to be the young pieces thrown into something that is pre-bundled, running. Of course, then we will follow up later with reflections about escaping from these nets.  
+
+
+
+
+
+When I was thrown at Netscape I was excited. But moments before, while in the university, I knew that I was a sort of not so normal student. Seeing by collegues as creative being, was an optimistic viewpoint. Wearing an unusual outfit and generally in the lab, was something else. I got in in 1993, when the movie Jurrassic Park was out and the Internet was exciting plus the browser was new as we have discussed. I had reasons to be in the lab and not to pay attention to the classes. It was a Computer Science course by the way. 
+
+Approaching eight years, by 2000, after having accumulated more university friends than usual, and likely a life debt to the Brazilian government for paying the bill, I was finally invited to an internship at Netscape, that browser making company helping the world to navigate the Web. After joining Netscape, I might have normalized myself, in a way. I felt as a being, as somebody. There were too many new things, and excitement, and new systems in place keeping me in the line, in a way. I didn't want to make the same "mistake" which I did in the University, in the sense of "taking eight years" to complete the course. That was a sort of tought, so I wanted to be professional in a way. I knew my best and my beast but I was fine to be educated. I were in a new country too, right? I was okay to become a listener in a way since I respected them too much, that place which I had an opinion, a place which I trusted, since somehow Silicon Valley was like a home I knew. And it makes sense, doesn't? And it isn't bad, isn't it? 
+
+With the good things in place, and being somebody, I may have in a way entered into a path which many enter when they face the reality of jobs, when we embrace certain ways of operation tied to a culture. We sort of embrace the mechanics of it to a point that what they do, and how they do, is affected by that. That is nothing much wrong about that, perhaps, except that we seem to be captivated by the operational model which eventually seems to prevent us to do come out with new ideas when it is needed. The thing with the normal course of jobs is perhaps not much different of what the screenwriting professor Robert McKee said about the situation that young screenwriters face, after they learn how to use clichés. In an interview given to Indie Film Hustle, McKee pinpoints a critical trap that new screenwriters often fall as they craft their narratives - their reliance on clichés: While they aim to create original art they also understand that they cannot entirely reinvent the wheel. The reliance on clichés, however, leads to a phenomenon where "once they sell their soul, it's hard to get it back" (Indie Film Hustle, 2021, 10:36). 
+
+<!--
+@references 
+* reference - Indie Film Hustle. (2021, June 16). The Art of Story, Dialogue and Character with Robert McKee. [Video]. YouTube. https://youtu.be/ITSu9IbCr9Q
+-->
+
+<!--
+@note 
+McKee also points a related concern where the writer fails the writer's duty of expressing the truth of the human condition. Or, as he puts it, "they think that because it is fiction, they have a license to lie" (Indie Film Hustle, 2021, 12:02). He warns of the perils of resorting to clichés and of losing one's authentic voice in an attempt to please the audience. As McKee puts it, "Of all those things, cliches and [lack of] truthfulness, are all the byproduct of the young writer's desire to please" (Indie Film Hustle, 2021, 13:08). 
+-->
+
+That wasn't different for me. I found a place where people seem to climb using certain skills, or clichés, or ways or operational models. I sort tried to figure the general function of climbing. Actually, I didn't try to do that on my own, as in counsiously as in trying to hack the system or trying to find a legit way to play the game. The system in itself were telling me to operate, in a way, with things such as performance reviews and the nuances from the hallways that seem to be telling me what to do and how to do. But it should be noted that the system wasn't really telling me explicitelly all of that; that I was behaving in some new ways from how I saw things, from a perspective which I likely nurtured from likely not reflecting properly. 
+
+To some extent, I felt I was distancing from a being, from a being of before. A major problem was that I didn't know what was that thing I had before which I needed to keep alive. It wasn't difficult to see talents, or skills, some of the things which I brought as I were hired, things recognized by the eyes of an audience which sometimes give to us a few claps. To think of the traits and characteristics we bring, and how far (or superficial) the work places deals with these, set us at the footsteps to reflect about the paradox of one that is locked in the specialist room and struggles to escape to the generalist room. For me, that half-key which was in my mind and stuck for years, was given by a cumpliment from an employee that once said: Marcio, whatever you are smoking, please keep doing that. 
+
+If I were smoking I would know. But I wasn't. While I sensed a hint I was too focused in looking at things "through the eyes of man", generally executing life too fast, too fast to know anyway, being one in the first place, fine, but anyway not able to see through. In other words, it was difficult to see in the carpet which I was were using to fly how it was linkedin to the thread I once had in my hands. What I felt fits well the complexity of the learning situation given by Steve Jobs's speech which I brought before, when we can't see the dots while doing, while being. It was, for me, through the reflective moments which I found later, and likely the celebration that magic and flying carpets comes from prior threads, that spoke just like the saying of Stephen Schwartz speaks to us, *Through Heaven's Eyes* from The Prince of Egypt, and whispers a truth that will take us to escape from the specialist room: 
+
+> *"A single thread in a tapestry - Though its color brightly shine - Can never see its purpose - In the pattern of the grand design. And the stone that sits on the very top - Of the mountain's mighty face - Does it think it's more important - Than the stones that form the base? So how can you see what your life is worth? Or where your value lies? You can never see through the eyes of man. You must look at your life. Look at your life through heaven's eyes."* (Schwartz, n.d.)
+
+<!-- 
+@references 
+* reference - Schwartz, S. (n.d.). Through Heaven's Eyes. MusicalSchwartz.com. Retrieved May 9, 2024, from https://www.musicalschwartz.com/through-heavens-eyes.htm
+--> 
 
 
 
@@ -69,29 +103,78 @@ It is wasn't different for me. I got a job, as I had talents of a new kind. Then
 
 
 
-But that compliment also is revealing of something else. That we don't care where and what is your well - your well of creative thinking that makes you unique. Do that and come back. Or more precisely do that before you come in. During the week, we expect you to vomit that thing onto our system and we expect that you can normalize those things into our products. 
+The fact that heaven generally comes handy to tip some of us about the threads we can't see that leads to a tapestry, holds a lot more to the solution that may have less to do with our quick perceptions of us being distracted with symbols of Gods or heaven. What it holds, a punch in the face, is exactly that we looking with the "eyes of man," or the reality of now. It is impressive how we miss the point of all ideas asking us to transcend, and miss being suspicious of the realities of now. I was too eager, surfing on skills, to know and to celebrate the many single threads that brought me make a carpet. When our companies tell us to "keep doing that, whatever you are smoking," we are looking through the eyes of man. What we run, indeed, with that fast-paced life, is running the risk of missing the existance of a well.  
 
-So the phenomenon, in the workplace, and it is also everywhere in our system of working, is that we run the risk of entering into certain "execution tracks," such as when we get a job. And then we run X amoung of years following an execution routine that does not involve the time to visit, or to enter, into that other experience that brought us to be who we were, before we have entered the execution track (or the job, or executing a start-up) in the first place. 
+The well is the thing that makes you unique, the experience given by the threads we mess up with, even in arbitrary ways. My eight years in the university I likely were pouring things into that well. The rise of the browser, the movie Jurrassic Park, the prior movements and movies, the prior experiences, the personal computer rising as I were growing, the struggles, the challenges. It is, to a great extent, sad that talent and skills, the prior experience is projected in thing like a résumé. When we sort make us like a product, to fit, we set ourselves to do it, we do it then, we run, and we can vomit to some extent, indeed. It may work, for a while. But the more do not recognize the need to look at our lives not from the eyes of man - as we made it - the more we miss accounting that becoming of the new being demands a nurturing a well. We aren't products, as in of the shelf products. We are beings. And we need to preserve that so that we can pay attention to the movement that set us into the becoming from the being. In other words, we miss the notion of being aware of the dots, of appreciating the dots which are there from the being there, from the being somebody, from studying, from working, from living even if not especially when the living conditions are challenging. 
 
 <!--
 @meta @todo 
 * @todo - p2 (Moved to here) - #dup - in Running Intro and in Winning - "execution tracks" is duplicatd. @meta-refid 1233-3423-3484-9849 
 --> 
 
-This is when we start to lose that connection as the result of just being there. As a result of just working. No time to fly towards the sun and come back - if you were a birdman. No time to step over the stones that makes one unique. In the job, we follow trails; because it is how things works, the survival route, the promotion route, it's the only way. And there are other names to that, to many words that pulls our focus back to the track. 
+### Back to the well 
 
-### To the well 
 
 <!--
 @meta @todo 
 * #dup @todo - p1 ( ) -  In Winning vs. In Running - Check passage from Julia which is inside Winning but may be also in Running? "Julia pointed a situation of a television executive that started as a producer with a goal of doing good to the world but caught himself in a kind of existential crisis as his "inner reality and his outer world no longer mesh" (1998, p.108)." @meta-refid 1222-2332-3232-4444 
 --> 
 
-And that model of thinking, a phenomenon, it's everywhere even for the one that thinks she or he is working alone, such as the job of writing. According to Julia Cameron, in The Right to Write (1998, p.66), a writer that is committed to being a writer pulls things to write from a well, as in the source, and it does well for a while. But as a result of their success, of pulling things from that well and which is part of the job of writing, they find that their well goes empty.
 
-It could be that a beginner writer does not even know how dependent they are, of that well as a source. That place, if they knew well enough how it works, would be considered sacred. But like for most of us, beginners in the craft of creation, it could be that that they went there, many times, that they visited that well, and then their body of experience brought them to a readiness level. When they are apt to spit the writing to the world. 
 
-But then, with that, it is like we get involved with the mechanism our delivery and the mechanics for bringing things to the world, such as to pages, products that can be consumed by others. This part of the process, which is science and art it itself, may not help us to see that we have visited that well in the first place. We might think: How I came to write about that? How was I able to bring that product (or production, or project) to the world? 
+The situation leads to a sort of fusion with the art being done, empty, which is far from the situation known as artist's block. But the founder's block goes all the way towards the identity - they can't become the somebody new because they don't know what made their somebody present in the first place. In the search for maintaing the self across the challenging setting, we shall count with the wisdom of Julia Cameron, the author of *The Artist's Way* and *The Right to Write*. For Julia, the true writer, that is committed to being a writer, pulls her things to write from a well (1998, p.66), as in the source, which does well for a while. But as a result of their success, of pulling things from that well, which is part of the job of writing, they find that their well goes empty. 
+
+It is certainly the case of a beginner founder, like a beginner writer, especially the ones in a fast-paced movement, to not know how dependent they are of some well, in some place, of certain experiences, of certain sources, such as to a greater extent. The prompt that Julia Cameron promotes, which depends on nurturing that well, works for a writing life indeed. But it can be a good reflection for the life of an entrepreneur or anyone that wants to achieve lasting success. She wrote, from Right to Write: 
+
+> *"If we are invested in a writing life - as opposed to a writing career - then we are in it for the process and not for the product. We are in it for the body of work and not for the quick hit of one well-realized piece. This means we must treat ourselves as valued athletes who must be kept in condition and not overraced or overtrained."*  (Julia Cameron, 1998, p.66)
+
+The provocation of Julia lifts us towards the reality that we can be fixed, or obsessed, with that "one well-realized piece," ignoring what brought us there, the place and experiences we we certainly miss as likely a lot had appeared as arbitrary, as struggling moments, as chaotic too. Notice her differentiating life from career - Is that far from the phenomenon of when one is somebody hired, that had a life before, and then develops a career and then is losing it every day? She is asking writers, the ones that want to become good writers, do see the process beyond the present moment. When founders run their start-ups like careers, even when they join after coming from a great experience that brought them to start the project, they can't tell which places they have visited that served to them as the energy, or the source of creative power, and which helps them to be able to work, to deliver. 
+
+Sometimes we can sort of bring the bits and pieces of it, but it isn't enough. We need to pause and reflect on us beyond the eyes of the work, the job, the routine, the specialist tracks. And worse, when founders - such as the ones that achieved known success - are interviewed about some good job they did, they are unable to skim the subject and really tell what brought them there in the first place. When we enter entrepreneurship, and perhaps anything in general, we generally bring some arbitrary notions of what we did before. We look into that hat and pull some bits and pieces from it, thinking that our success has nothing to do with that well, with the creation of that well, with the steps towards that well. But worse, we miss the fact that maintaining that well is key to our state of well-being, the well-being state that is necessary for the growth and challenging stages ahead.
+
+What founders can't see, that brings them to the resulting phenomenon - or felling stalled and having perceptions such as "we are not motivated as we were" or "things are not working" or "the market is not accepting" and the many variations of that - is that we might have another underlying reason to be there, to being somebody, in that process. Missing that leads to missing the key into being the generalist. 
+
+Julia pointed a situation of a television executive that started as a producer with a goal of doing good to the world but caught himself in a kind of existential crisis as his "inner reality and his outer world no longer mesh" (1998, p.108). She elaborated about his mechanism of crisis management consisting of a daily writing exercise that takes in consideration his value system, where he is okay with discomfort, where he states his dreams, where he brings the reality he faces, where he can be conscious about himself. The reflective writing exercise of the executive celebrates how one checks on his integrity. 
+
+<!--
+@meta @todo 
+* #dup @todo - p1 ( ) - In Running - Bring quote? Check passage from Julia which is inside Winning but may be also in Running? "Julia pointed a situation of a television executive that started as a producer with a goal of doing good to the world but caught himself in a kind of existential crisis as his "inner reality and his outer world no longer mesh" (1998, p.108)." @meta-refid 1222-2332-3232-4444 
+--> 
+
+The success we seek, ultimately, is not arrive at a scene as beings that somehow had stumbled in a state of well being; so that we brought ourselves in the readiness level where we can pull an idea of the hat and then success is measured from our ability to execute and deliver to the world, keep pulling from a hat. As the matter depends on embracing the creative state of well being - which is a requirement for entrepreneurship - we must seek to understand that success is success in the long run, that we need to nurture ourselves to be able to pull solutions from the well as much as keep experiencing and act to fill that well. And that such effort has to be done also at an individual level, for everyone involved. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+According to Julia Cameron, in The Right to Write (1998, p.66), a writer that is committed to being a writer pulls things to write from a well, as in the source, and it does well for a while. But as a result of their success, of pulling things from that well and which is part of the job of writing, they find that their well goes empty. It could be that a beginner writer does not even know how dependent they are, of that well as a source. Like a young worker in the work place. That place, if they knew well enough how it works, would be considered sacred. But like for most of us, beginners in the craft of creation, it could be that that they went there, many times, that they visited that well, and then their body of experience brought them to a readiness level. When they are apt to spit the writing to the world. 
+
+
+
+
+
 
 We could, perhaps think like that, if we had the time to ask that question. And it is not that we are not teased to reflect about that, such as when one gives us a cumpliment of the sort "whatever you are smoking please keep doing that" and the more or less exciting variations of that. But then, as this example shows, these words are strong enough to create such a wall between that (perhaps imaginary) well and our (in fact real) jobs. In other words, most of the work environments don't have time to deal with our sources, with what makes us unique, with what brought us there in the first place, to have ideas, to be motivated, to act on something, to work with an energy that flows. And again, the more we fall into the process of focusing in the outcome, the more we can't see that the outputs that we produce are tied to an input that has to do with the life of the human being behind that. The more we do that the more we disconnect from that well, the well we didn't know it existed in the first place. 
 
@@ -152,11 +235,6 @@ In case it seems confusing that creativity now was brought into this article abo
 --> 
 
 
-### Searching integration 
-
-The sort of analogous situation of the firm believer, might happen with many when they face the reality of jobs, is that they embrace certain ways of operation that are tied to the culture. But the sort of embrace the mechanics of it to a point that what they do, and how they do, is affected by the mechanics. That is nothing much wrong about that as execution art chimes in, it is as if we start to get used and start to see. It's good news that the way towards is less blurry. 
-
-The phenomenon, in the workplace, and it is also everywhere in our system of working, is that we run the risk of entering into certain "execution tracks," such as when we get a job, we become the job. And then we run X periods of time following an execution routine that does not involve the time to visit, or to enter, into that other experience that brought us to be who we were, before we have entered the execution track (or the job, or executing a start-up) in the first place. This is when we start to lose that connection as the result of just being there. As a result of just working. No time to fly towards the sun and come back - if you were a birdman. No time to step over the stones that made you unique, such as that brought you to consider the very idea that you are motivated. When we are "in the job," we follow trails; because it is how things works, the survival route, the promotion route, it's the only way. And there are other names to that, to many words that pulls our focus in the track, we become the track. 
 
 <!--
 @meta @todo 
@@ -167,33 +245,5 @@ The phenomenon, in the workplace, and it is also everywhere in our system of wor
 @meta @todo 
 * @todo - p2 (Brought to Running) #dup - birdman is duplicated - @meta-refid 1223-2444-8383-8388
 --> 
-
-
-The situation leads to a sort of fusion with the art being done which is perhaps not unlike an artist's block. But the founder's block goes all the way towards the identity - they can't be somebody anymore. 
-
-In the search for maintaing the self across the challenging setting, we shall count with the wisdom of Julia Cameron, the author of The Artist's Way and On Writing Well. According to Julia Cameron, in The Right to Write (1998, p.66), a writer that is committed to being a writer pulls things to write from a well, as in the source, and it does well for a while. But as a result of their success, of pulling things from that well and which is part of the job of writing, they find that their well goes empty.
-
-It could be that a beginner founder, like a beginner writer, does not even know how dependent they are, of that well as a source. That place, if they knew well enough how it works, would be considered sacred. But like for most of us, beginners in the craft of creation, it could be that that we went there, many times, that they visited that well, and then their body of experience brought them to a readiness level. 
-
-But then, with that, it is like we get involved with the mechanism our delivery and the mechanics for bringing things to the world, such as to pages, products that can be consumed by others. This part of the process, which is science and art it itself, may not help us to see that we have visited that well in the first place. We might think: How I came to write about that? How was I able to bring that product (or production, or project) to the world? In other words, as any job unfolds, we don't have the time to talk about what connect us with what we do, if there are underlying values or things that inspire us, that keep us going. Such subject simply can't be part of the conversations in the job. 
-
-The prompt that Julia Cameron promotes, which depends on nurturing that well, works for a writing life indeed. But it can be a good reflection for the life of an entrepreneur or anyone that wants to achieve lasting success. She wrote, from Right to Write: 
-
-> *"If we are invested in a writing life - as opposed to a writing career - then we are in it for the process and not for the product. We are in it for the body of work and not for the quick hit one one well-realized piece. This means we must treat ourselves as valued athletes who must be kept in condition and not overraced or overtrained."*  (Julia Cameron, 1998, p.66)
-
-The provocation of Julia lifts us towards the reality that we can be fixed towards a "one well-realized piece" ignoring what brought us there. Notice her differentiating life from career. Ins't it a bit like the phenomenon of a company that hired somebody that had a life, before, and then develops a career? 
-
-She is asking writers, the ones that want to become good writers, do see the process beyond the present moment. When founders run their start-ups like careers, even when they join after coming from a great experience that brought them to start the project, they can't tell which places they have visited that served to them as the energy, or the source of creative power, and which helps them to be able to work, to deliver. Sometimes we can sort of bring the bits and pieces of it. And worse, when founders - such as the ones that achieved known success - are interviewed about some good job they did, they are unable to skim the subject and really tell what brought them there in the first place. When we enter entrepreneurship, and perhaps anything in general, we generally bring some arbitrary notions of what we did before. We look into that hat and pull some bits and pieces from it, thinking that our success has nothing to do with that well, with the creation of that well, with the steps towards that well. But worse, we miss the fact that maintaining that well is key to our state of well-being, the well-being state that is necessary for the growth and challenging stages ahead.
-
-What founders can't see, that brings them to the resulting phenomenon - or felling stalled and having perceptions such as "we are not motivated as we were" or "things are not working" or "the market is not accepting" and the many variations of that -  is that we might have another underlying reason to be there, to being somebody in that process. 
-
-<!--
-@meta @todo 
-* #dup @todo - p1 (Brought to Running) - In Winning vs. In Running - Check passage from Julia which is inside Winning but may be also in Running? "Julia pointed a situation of a television executive that started as a producer with a goal of doing good to the world but caught himself in a kind of existential crisis as his "inner reality and his outer world no longer mesh" (1998, p.108)." @meta-refid 1222-2332-3232-4444 
---> 
-
-Julia pointed a situation of a television executive that started as a producer with a goal of doing good to the world but caught himself in a kind of existential crisis as his "inner reality and his outer world no longer mesh" (1998, p.108). She elaborated about his mechanism of crisis management consisting of a daily writing exercise that takes in consideration his value system, where he is okay with discomfort, where he states his dreams, where he brings the reality he faces, where he can be conscious about himself. The reflective writing exercise of the executive celebrates how one checks on his integrity. 
-
-The success we seek, ultimately, is not arrive at a scene as beings that somehow had stumbled in a state of well being; so that we brought ourselves in the readiness level where we can pull an idea of the hat and then success is measured from our ability to execute and deliver to the world, keep pulling from a hat. As the matter depends on embracing the creative state of well being - which is a requirement for entrepreneurship - we must seek to understand that success is success in the long run, that we need to nurture ourselves to be able to pull solutions from the well as much as keep experiencing and act to fill that well. And that such effort has to be done also at an individual level, for everyone involved. 
 
 
