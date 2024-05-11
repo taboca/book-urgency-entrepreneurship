@@ -45,7 +45,7 @@ Now a major problem naturally rises, which not only due to the need of balancing
 
 <!--
 @Outline 
-* @outline - Answer one, into the job, not a life. 
+* @outline - Answer one, into the job, being again, but also draining the well.  
 -->
 
 
@@ -60,9 +60,13 @@ The prose which I am pushing here, with the story my own job at Netsscape, carri
 
 
 
+
+
 When I was thrown at Netscape I was excited. But moments before, while in the university, I knew that I was a sort of not so normal student. Seeing by collegues as creative being, was an optimistic viewpoint. Wearing an unusual outfit and generally in the lab, was something else. I got in in 1993, when the movie Jurrassic Park was out and the Internet was exciting plus the browser was new as we have discussed. I had reasons to be in the lab and not to pay attention to the classes. It was a Computer Science course by the way. Approaching eight years, by 2000, after having accumulated more university friends than usual, and likely a life debt to the Brazilian government for paying the bill, I was finally invited to an internship at Netscape, that browser making company helping the world to navigate the Web. After joining Netscape, I might have normalized myself, in a way. I felt as a being, as somebody. There were too many new things, and excitement, and new systems in place keeping me in the line, in a way. I didn't want to make the same "mistake" which I did in the University, in the sense of "taking eight years" to complete the course. That was a sort of tought, so I wanted to be professional in a way. I knew my best and my beast but I was fine to be educated. I were in a new country too, right? I was okay to become a listener in a way since I respected them too much, that place which I had an opinion, a place which I trusted, since somehow Silicon Valley was like a home I knew. And it makes sense, doesn't? And it isn't bad, isn't it? 
 
-With the good things in place, and being somebody, I may have in a way entered into a path which many enter when they face the reality of jobs, when we embrace certain ways of operation tied to a culture. We sort of embrace the mechanics of it to a point that what they do, and how they do, is affected by that. That is nothing much wrong about that, perhaps, except that we seem to be captivated by the operational model which eventually seems to prevent us to do come out with new ideas when it is needed. The thing with the normal course of jobs is perhaps not much different of what the screenwriting professor Robert McKee said about the situation that young screenwriters face, after they learn how to use clichés. In an interview given to Indie Film Hustle, McKee pinpoints a critical trap that new screenwriters often fall as they craft their narratives - their reliance on clichés: While they aim to create original art they also understand that they cannot entirely reinvent the wheel. The reliance on clichés, however, leads to a phenomenon where "once they sell their soul, it's hard to get it back" (Indie Film Hustle, 2021, 10:36). 
+With the good things in place, and being somebody, I may have in a way entered into a path which many enter when they face the reality of jobs, when we embrace certain ways of operation tied to a culture. We sort of embrace the mechanics of it to a point of integrating us into what they do and how they do, which will certainly take us in new directions and to life the struggles, to be affected in many ways, to gain experience, maturity. It's chaos to a certain extent when the prior ourselves are into the being someone. That is nothing much wrong about that, perhaps, except that we seem to be captivated by the operational model which eventually seems to prevent us to do come out with new ideas when it is needed. 
+
+Looking from this perspective of us being normalized to some extent, through the normal course of jobs as given, many outcomes may happen from the experience of running. One is that we will become good, from the effort, to operate the pen - if the environment of our working were a pen and outcomes expected to a blank sheet of paper - in certain ways. What comes may not be far from what screenwriting professor Robert McKee said, in an interview to *Indie Film Hustle*, about how new screenwriters grow their reliance on clichés: On one hand, they aim to create original art. On the other they value and understand that they cannot entirely reinvent the wheel. Thus, their reliance on clichés grows. And it may grow to the point that "once they sell their soul, it's hard to get it back" (Indie Film Hustle, 2021, 10:36). 
 
 <!--
 @references 
@@ -74,7 +78,39 @@ With the good things in place, and being somebody, I may have in a way entered i
 McKee also points a related concern where the writer fails the writer's duty of expressing the truth of the human condition. Or, as he puts it, "they think that because it is fiction, they have a license to lie" (Indie Film Hustle, 2021, 12:02). He warns of the perils of resorting to clichés and of losing one's authentic voice in an attempt to please the audience. As McKee puts it, "Of all those things, cliches and [lack of] truthfulness, are all the byproduct of the young writer's desire to please" (Indie Film Hustle, 2021, 13:08). 
 -->
 
-That wasn't different for me. I found a place where people seem to climb using certain skills, or clichés, or ways or operational models. I sort tried to figure the general function of climbing. Actually, I didn't try to do that on my own, as in counsiously as in trying to hack the system or trying to find a legit way to play the game. The system in itself were telling me to operate, in a way, with things such as performance reviews and the nuances from the hallways that seem to be telling me what to do and how to do. But it should be noted that the system wasn't really telling me explicitelly all of that; that I was behaving in some new ways from how I saw things, from a perspective which I likely nurtured from likely not reflecting properly. To some extent, I felt I was distancing from a being, from a being of before. A major problem was that I didn't know what was that thing I had before which I needed to keep alive. It wasn't difficult to see talents, or skills, some of the things which I brought as I were hired, things recognized by the eyes of an audience which sometimes give to us a few claps. To think of the traits and characteristics we bring, and how far (or superficial) the work places deals with these, set us at the footsteps to reflect about the paradox of one that is locked in the specialist room and struggles to escape to the generalist room. For me, that half-key which was in my mind and stuck for years, was given by a cumpliment from an employee that once said: Marcio, whatever you are smoking, please keep doing that. 
+
+
+<!--
+@outline 
+* outline - mechanization of the day, don't give you hints for what you are missing, in the being, the dots to the becoming. 
+--> 
+
+
+
+That wasn't different for me althought the paper were other forms of output - mostly written things anyways since I were a technical communicator. Within a world that seemed to have new rules, tools and culture or culture as a tool, I found a place where some clichés were projecting the operational models. Things like "keep cranking," and rooms that were labelled as "war rooms" and to a great extent the expectations that didn't really asked us much about how we wanted to be, our future and the future of our company. 
+
+We were essentially executing, in the first place. The reflections, from above if any, had to come from us. I felt every day consuming a sort of energy but it wasn't possible to say that outloud to me because it wasn't clear. It is not visible, especially when you are in a nice place, like within the walls of that building, building 21. I sort tried to figure the general function of climbing and somehow for us that may also conflict with some internal inner function for growing. Again, not clear that dichotomy or dissonance or two worlds separated in a way. Actually, as for trying to fit, I didn't try to do that on my own, as in counsiously as in trying to hack the system or to play the game. 
+
+The system in itself tells you that, some ways to operate, in a way, with things such as performance reviews and the nuances from the hallways and conversations of the day, that seem to be telling us the pace, the rithmn, the what to do and how to do. 
+
+But I should recount too that, in fact, the system weren't telling me explicitelly all of that. In other words, I were behaving in some new ways from how I saw things, from a perspective which I likely nurtured, from likely not reflecting properly, or not having a sort of therapeuthic moment like the kind of experience that a reflecting writing moment or coach session could do. 
+
+It was very difficult to see that inside a being was being missed. 
+
+Now looking back it is easier to see the dots. One of them were a "side startup" which I had assembled to make something new, something different. The operationalization of that consisted of weekly meetings with my friend Roger and his ocassional visits to the Bay Area. He came many times, we had design and ideas, we had consistent development happening, we had our weekend meetings, and we even did presentations of what we did, even inside of Netscape or to Netscape partners. Some of our "products" were used by the company too. We know we were really close to make a serious startup on the side. That would be an example of an activity that seemed to be balancing something I needed. But, as we know and due to the fast-paced nature, a major problem is that we will not know the thing we want to what is next, to what we want to become. 
+
+
+
+
+
+<!-- 
+@outline 
+* outline - the very mechanism of hired as a product, for its talents, and the culture of the prior move, carries no hints as well of the value before the value that made ourselves. 
+-->
+
+
+
+And too, conversely, it would too be difficult to see what were the actual prior movements that brought me in, to be seen as a specialist. It wasn't difficult to see talents, or skills, some of the things which I brought as I were hired, things recognized by the eyes of an audience which sometimes give to us a few claps. To think of the traits and characteristics we bring, and how far (or superficial) the work places deals with these, set us at the footsteps to reflect about the paradox of one that is locked in the specialist room and struggles to escape to the generalist room. For me, that half-key which was in my mind and stuck for years, was given by a cumpliment from an employee that once said: Marcio, whatever you are smoking, please keep doing that. 
 
 If I were smoking I would know. But I wasn't. While I sensed a hint I was too focused in looking at things "through the eyes of man", generally executing life too fast, too fast to know anyway, being one in the first place, fine, but anyway not able to see through. In other words, it was difficult to see in the carpet which I was were using to fly how all had links to threads I once had in my hands. What I felt fits well the complexity of figuring our lives as given by Steve Jobs's speech which I brought before, when we can't see the dots while doing, while being. It was, for me, through the reflective moments which I found later, and likely the celebration that magic and flying carpets comes from prior threads, that spoke just like the saying of Stephen Schwartz speaks to us, *Through Heaven's Eyes* from The Prince of Egypt, whispers a truth that shall take us to escape from that specialist room: 
 
@@ -94,21 +130,19 @@ If I were smoking I would know. But I wasn't. While I sensed a hint I was too fo
 * @outline - Attempt to transition to the Well thing? Ft. Julia Cameron?
 --> 
 
+### Back to the well 
 
 
 
+The fact that heaven, or other symbols of a space beyond, generally appears through communciations of a transcending order in our lives, carries a key to solve the problem from the situation of working, and in general of living, the complexity to see the dots from the on-the-go, the challenge to see that from the threads of the day there is likely a tapestry to be made. If we get distracted with the Gods or Heaven, or too impressed, we may miss. While the punch in the face, if we accept to take, is exactly the other component - that we wear the shoes of the man, the runner shows, the movement that in itself prevents growth. Using the eyes of man, as we know it, we may miss. In other words, I was too eager, surfing on skills or talents priourly acquired, too eager, just working, just running, just looking at all the work environment using the eyes of man. Just trying to climb with priour skills. And if our companies keep telling us to "keep doing that, whatever you are smoking," we are giving them more reasons to keep looking through the eyes of man and keep ignoring the calm reflection that is needed. What we run, indeed, with that fast-paced life, is running the risk of missing the existance of a well.  
 
-
-The fact that heaven generally comes handy to tip some of us about the threads we can't see that leads to a tapestry, holds a lot more to the solution that may have less to do with our quick perceptions of us being distracted with symbols of Gods or heaven. What it holds, a punch in the face if we accept to take, is exactly that we look at things with the "eyes of man," or the reality of now. It is impressive how we miss the point given by all ideas which ask us to transcend: That we miss being suspicious of the realities of now. I was too eager, surfing on skills, to know and to celebrate the many single threads that brought me make a carpet. When our companies tell us to "keep doing that, whatever you are smoking," we are looking through the eyes of man. What we run, indeed, with that fast-paced life, is running the risk of missing the existance of a well.  
-
-The well is the thing that makes you unique, the experience given by the threads we mess up with, even in arbitrary ways. My eight years in the university I likely were pouring things into that well. The rise of the browser, the movie Jurrassic Park, the prior movements and movies, the prior experiences, the personal computer rising as I were growing, the struggles, the challenges. It is, to a great extent, sad that talent and skills, the prior experience is projected and fits into little things like a résumé. When we sort of make us like a product, to fit, we set ourselves to do it, we do it then, we run, and we can indeed commit and indeed vomit, to some extent, to great extent, indeed. It may work, for a while. But the more do not recognize the need to look at our lives not from the eyes of man - as we made it - the more we miss accounting that becoming of the new being demands a nurturing a well. We aren't products, as in off-the-shelf products. We are beings. And we need to preserve that so that we can pay attention to the movement that set us into the becoming from the being. In other words, we need to not miss being aware of the dots, which involves appreciating the threads, the threads from the being from the living even when the living conditions are quite challenging. The thread is key to that tapestry, first, and to also keep noticing it, again and again. 
+The well is the thing that makes us to become. The well is a symbol of the acquired experience given by the threads we mess up with, even in arbitrary ways. My eight years in the university I likely were pouring things into that well. The rise of the browser, the movie Jurrassic Park, the prior movements and movies, the prior experiences, the personal computer rising as I were growing, the struggles, the challenges, the friends, the loves, the losses, the struggles, all. It is, to a great extent, quite sad that all that happens happens slow, but then and out of the sudden, we engage into wrapping ourselves, like taking that carpet which we refuse to see the time it took to make, which certainly shows a pattern through tiles of talents and skills, wrapping it, reducing ourselves to something too little and too powerful, like a résumé that is sent to somebody that can be impressed, that can be in a hurry, and may hire you. At that moment, we aren't only wrapping ourselves and missing the points, the threads, the dots, we are also setting ourselves to do the same, to see people as products, or pieces that fits, to ignore that all things that are, that they Become, came from a being, an experience, a life, a slow cooking if you will. For us founders, especially, is key, since to miss accounting that Becoming comes from the Being, would lead us to not be nurturing the well, would lead us to not respect that all beings need to keep nurturing that well, or conscious of that well anyway. We aren't products, as in off-the-shelf products. We are beings. And we need to preserve that so that we can pay attention to the movement that set us into the becoming from the being. In other words, we need to not miss being aware of the dots, which involves appreciating the threads, the threads from the being from the living even when the living conditions are quite challenging. The thread is key to that tapestry, first, and to also keep noticing it, again and again. 
 
 <!--
 @meta @todo 
 * @todo - p2 (Moved to here) - #dup - in Running Intro and in Winning - "execution tracks" is duplicatd. @meta-refid 1233-3423-3484-9849 
 --> 
 
-### Back to the well 
 
 
 <!--
