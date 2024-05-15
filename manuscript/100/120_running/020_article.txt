@@ -1,4 +1,22 @@
+
+<!--
+@todo @meta 
+* @todo - p2 ( ) - In Running, introduction - Should we incorporate the note from Andy and his colleague? in Let the Chaos Reign. @meta-refid 1222-3322-4433-8484 
+
+* "How can a company’s strategy-making process be designed to effectively maintain such balance so as to maximize both “fitness;” that is, adaptation to the current environment, and “evolvability;” that is, ability to adapt to a changing environment and/or to seek out new viable environments? (Kauffman, 1993; Gould, 2002). " https://www.gsb.stanford.edu/gsb-box/route-download/318706 Feat. Andy Grove. 
+
+* "the RISC team was able to get almost a third of the company’s microprocessor development resources even though top management had not made a corporate-level strategic decision to pursue RISC;"  https://www.gsb.stanford.edu/gsb-box/route-download/318706 Feat. Andy Grove. 
+
+* "It is instructive to follow this development. What started as an autonomous initiative with Centrino during the tenure of one CEO became the driving force of the induced strategy process - by the name “platformization” - under the next CEO in early 2005. "  https://www.gsb.stanford.edu/gsb-box/route-download/318706 Feat. Andy Grove. 
+
+--> 
+
+
+
+
+
 # Running 
+
 
 There are many aspects of the life of a growing startup that aren't different from the life of a worker. Some of them can be extracted from a saying that Reid Hoffman carries to characterize the challenging situation of a founder who runs a startup, where essentially "you throw yourself off a cliff and you assemble an airplane on the way down" (Hoffman & Casnocha, 2013). 
 
