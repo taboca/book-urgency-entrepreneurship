@@ -1,4 +1,6 @@
-### Fears 
+
+
+## Fears 
 
 
 <!--
@@ -37,9 +39,11 @@ Let's start with visualizing fear in the work situation first, how we experience
 @outline - A1 - Stakes are high, fears are in the language, in the enviroment, even to take us to act. 
 --> 
 
-#### Fear, fear not, the stakes are high 
+### How we expererience fears 
 
 
+
+#### Fear not, the stakes are high 
 
 
 
@@ -53,6 +57,9 @@ With these examples, I am not saying that all employees, and management, that ev
 
 
 
+<!--
+@outline - A1 - Stakes are high, fears are in the language, in the enviroment, even to take us to act. 
+--> 
 
 #### Fears in the storied context 
 
@@ -166,17 +173,34 @@ He added that ""**raw fear**", is what motivates him; as he recalled the days wh
 
 
 
-
 Andy Grove also shared a similar idea about fears as a force that motivates creativity and action—fear of losing to a competitor, fear that the product is not good enough for customers, and more. 
+
 
 For Andy, there exists a sequence of emotions similar to those experienced during the loss of loved ones, which can be experienced by people in the midst of what he called "inflection points." He suggests a parallel between the sequence of losing a loved one and the sequence experienced in the corporate domain during an inflection point. Grove revealed that he wrote one of his books amidst one of these turbulent journeys that Intel went through around the 1980s suggesting that in that situation, he might have been escaping from recognizing the situation? Perhaps?
 
 <!--
 @meta @todo 
-* @todo - p2 ( ) - In Running / Fears - Consider the #dup about Andy statement of himself writing a book while as a CEO he was needed to face major complications. The point was given somewhere else here in the book. As for the book ref, his points are given within "Let Chaos Reign" of - @meta-refid 1222-2333-4333-7666 
+* @todo - p2 ( ) - In Running / Fear - Check where Andy Grove talked about fear and the phases of grief. @meta-refid 1223-3345-8874-4844
 --> 
 
+
+
+
 What we can take away from this, once again, is a simple idea but one that we cannot ignore—we are human, we feel, and we will likely coordinate our entrepreneurial actions based on emotions. However, this doesn't mean we can't take time to recognize and reflect on all this. If the former Intel CEO recognizes that he was escaping from a larger problem by writing a book, could it be that we also sometimes engage in certain responsible actions as a form of blocking or self-defense to avoid feeling loss or strong emotions like fear and insecurity?
+
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Running / Fears - Consider the #dup about Andy statement of himself writing a book while as a CEO he was needed to face major complications. The point was given somewhere else here in the book. As for the book ref, his points are given within "Let Chaos Reign" of - @meta-refid 1222-2333-4333-7666 
+
+* We should also consider that the corporate version goes through the very exercise of transcending, such as when these companies fall into the modes of bets (check the usage of various levels of bets by the following paper article ft. Andy Grove). The consideration of a new style changing strategy, is then the realization of the need for transcending, searching a wider view - writing a book, acquision of companies, pre-mortem, you name it.  
+
+* "the RISC team was able to get almost a third of the company’s microprocessor development resources even though top management had not made a corporate-level strategic decision to pursue RISC;"  https://www.gsb.stanford.edu/gsb-box/route-download/318706 Feat. Andy Grove. 
+
+* "It is instructive to follow this development. What started as an autonomous initiative with Centrino during the tenure of one CEO became the driving force of the induced strategy process - by the name “platformization” - under the next CEO in early 2005. "  https://www.gsb.stanford.edu/gsb-box/route-download/318706 Feat. Andy Grove. 
+
+
+--> 
+
 
 Andy Grove also articulated a corporate version of the potential for loss, self-defense—a situation where companies going through said inflection points decide to buy other companies. He questioned, in "Only the Paranoid Survive," why Japanese electronics companies, undergoing significant changes in their markets and industry, bought movie studios. For Grove, this could represent a form of escapism that ends up completely occupying managers' attention; they become too busy, they want to be occupied.
 

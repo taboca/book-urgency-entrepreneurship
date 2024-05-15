@@ -1,5 +1,7 @@
 # Todo # 
 
+* @todo - p2 ( ) - In Running / Fear - Check where Andy Grove talked about fear and the phases of grief. @meta-refid 1223-3345-8874-4844
+
 * @todo - p1 ( ) - In Running / Specialist vs. Generalist - Check the relatinship between the child case of Maslow with the corporate case of Andy and his colleagues in Let the Chaos Reign. @meta-ref 1223-4494-9393-9494 
 
 * @todo - p2 ( ) - In Running, introduction - Should we incorporate the note from Andy and his colleague? in Let the Chaos Reign. @meta-refid 1222-3322-4433-8484 
