@@ -1,17 +1,21 @@
 ### Fears 
 
-<!-- scqa: subject --> 
+<!--
+@outline - subject - 
+--> 
 
 In this chapter, we will consider the role of fear, especially in the fast-paced world, and how it affects our decisions. That because fears move mountains. Well, not really, so direct. But anyway fear builds faith. 
 
-<!-- scqa: situation? --> 
+<!--
+@outline - situation - 
+--> 
 
 If we set a time machine to somewhere 30000 to 36000 years ago, and find a human on a tree fearing the fearless wolf that paciently waits, we can visualize - and respect - that feeling which improves the chances for survival in the face of the danger. Someone in your ancestors tree feared a treat so that you can be reading this book and somehow feeling connected with that ancestor who survived. But back to the future of now, the metaphor that fears move mountains makes sense as decisions in the knowledge economy, especially in the digital landscape, are not disconnected from what we perceive, what we think, and what we feel. The mountain of now can be the pile of resources, such as money, or time. The wolves of now can be the competitor. And your organization is the tree of now, where we can go up and down, and hoping to survive. And if you do so, I hope that you have time to come down from the tree to paint the situation in a stone wall of now.
 
 If some of that sounds far from where we are, I fear that we must confront, or celebrate, or accept, the fact that narratives driven by fear are quite naturally administered into the veins of our corporate body - even to a point where we don't make sense of how our now-networked brain responds. And all of this becomes even more serious given that the startup situation deals with threats as projections, idealized, more than real threats of the present. In other words, because growth is expected and ahead, and risks or prizes are there; it follows an implied element of risk analysis and the potential that larger sums of resources are lined up to be deployed under the expectation that it will support growth to happen. In other words, a lot is based on signals, or perceptions, therefore less related to real threats or iminent risk. 
 
 <!--
-@outline - complication - no room to discussion fears, the role of fear, how fears impacts productivity and strategy.
+@outline - complication - No room to discussion fears, the role of fear, how fears impacts productivity and strategy.
 --> 
 
 But the complication, and the reason for us to be together, is that the entrepreneurial agenda does not allow room to discuss our fears, or the role of fear, or how fear drives productivity, such as how fear eloquently shapes the narratives that create that affects our decisions. To note, or to narrow our scope and increase the complexity of the situation, the setting of a startup starts with a few people - founders and the small team [^footnote_blitzscaling_family_stage] - which means more agility, thus more authority. In other words, although the mountain of resources is small, it is big enough in relative to the possibility of impact to the future. 
@@ -22,18 +26,36 @@ With that, and depending on the circunstances of what is ahead, we know that peo
 
 Let's start with visualizing fear in the work situation first, how we experience it in ongoing conversation of the day - at the interpersonal level. Then we will explore how the individual is highly influenced by fears of threats - of course, not directly to their lives - but to their identities or a value that is key for their ongoing narrative. We will also consider different point of views and other reflections where fear is recognized as present from the individual level to the management situation of large organizations. As we move on, not to supress fear but to note and acknoledge, we shall identify more vividly how fear enters the communication of teams, and impacts decisions in the everyday, as it causes blockage, defense, censorship, or attack. 
 
-#### When the stakes are high - how we experience in the corporate 
+
+
+
+
+
+
+<!--
+@outline - A1 - Stakes are high, fears are in the language, in the enviroment, even to take us to act. 
+--> 
+
+#### Fear, fear not, the stakes are high 
+
+
+
+
 
 "This [project] will blow up!" Is what I once heard from my manager, shortly after I had entered the meeting room. I think that he feared a dead end, if we didn't act in a different way. Or, perhaps, he feared that weren't doing enough, or that we could put more effort, or do things in a different way, a better way, a faster way. What is interesting - now in retrospect - is that it didn't cross my mind to offer support to him, to elaborate on his fears. Perhaps that inaction was just part of the mood, and context, that we were in at the time. The mood that gave the title of "war room" to the temporary meeting place where most of us had to work for a while - a sacred space for getting things done. From that message, it was unavoidable to see a future where we would not exist, our team, and consequently myself as a worker of that well-known, and respected, Silicon Valley company. Plus, the rent. Plus, myself as an immigrant in US. 
 
 A few years later, back in another office space of another Silicon Valley company, I caught a post-it glued to the keys of my laptop. It had a written message, "Things are not working yet!" Nothing signed. Not written in blood, nothing to be too scary. But I got scared, perhaps from seeing too many movies anyway, I don't know. I know that I couldn't think twice: I picked the post-it and showed to the startup's vice president, which happen to be who hired me. Hey, Bob, see this. The minute he read the note, he immediately said that "this is unacceptable in America!" I won't ever forget the precision of his move, or his motives, his reaction. I think that Robert were, to some extent, intersted in equalizing that situation - that complication - as in within 9 seconds. 24-hours later he told me that he was not anymore working for that company. I don't know if any of that were connected, I don't even know exactly what had happened. Anyway, in retrospect, I think that he feared that the company lacked a more transparent or ethical communication. Or perhaps he feared that the note would decrease my chances to thrive in that organization, to help the organization.  
 
-With these examples, I am not saying that all employees, and management, is driven by the dramatic moves driven by fears. But it is undeniable that fear chimes in a range of levels such as a more softly perceived fear or up to what others refer as raw fear. At this stage of reflection, my intent is to position us in the place of respecting that fear in the corporate setting might be present as a beast behind the actual scene. In other words, constituents are able to feel threats from a potentially risky situation which pulls them to come up with a narrative, which can become quite colorful, quite real, and meaningful. In other words, the feeling of a painful outcomes triggers the creative mind to come up with a story, a narrative, or a calling, like tigers, which may prompt us to take a actions, to decide, like to run. 
+With these examples, I am not saying that all employees, and management, that everyone follows primarily the dramatic moves given or driven first by fears. But it is undeniable, or primal, that fear chimes, that it take us, that it goes with the flow, although it can appear in light ways or may be the kind of fear that some refer as raw fear. At this stage of reflection, my intent is to position us in the place of respecting that fear in the corporate setting might be present as a beast behind the actual scene. In other words, constituents are able to feel threats from a potentially risky situation which pulls them to come up with a narrative, which can become quite colorful, quite real, and meaningful. In other words, the feeling of a painful outcomes triggers the creative mind to come up with a story, a narrative, or a calling, like tigers, which may prompt us to take a actions, to decide, like to run. 
+
+
+
+
 
 
 #### Fears in the storied context 
 
-Some individuals, through projects in the corporate setting, are likely expressing an identity which is not a reflection of their true self of the present. The expression comes as they perform, as they see themselves as conductors for certain causes - it could be a key result ahead of a major objective. This expression might come in various ways as they see themselves in a role of supprting a cause such as of supporters, advocates, leaders, mentors, investors, angels. Naturally, the sky is the limit. 
+Some individuals, through projects in the corporate setting, are likely expressing an identity which is not a reflection of their true self of the present. The expression comes as they perform, as they see themselves as conductors for certain causes - it could be a key result ahead of a major objective. This expression might come in various ways as they see themselves in a role, or as supporters of a cause, such as a cause of other supporters, advocates, leaders, mentors, investors, angels, you name it. Naturally, the sky is the limit. 
 
 From a storytelling perspective, a doer in a cause can be seen as a protagonist, or a messenger, or a conductor. Although what they do involves a set of specialized actions and behaviors, like when one is in control of how they act, the performer displays and develop behaviors that at the same time express and shape their identities.  
 
@@ -46,17 +68,25 @@ Framing from a storytelling perspective will helps us to understand how emotions
 
 [^editornote_robertmckee_storynomics]: 
 
-Now the fact that the advertising of the west has discovered - by measuring results with customers - reveals that people decide based on narratives and stories that they are told and listen. In other words, it matters a lot - minimally for advertising agencies as we can confirm - that in the end of the day people bring to their lives, that they decide, based on what they listen, no matter if the the stories told are seen as persuasive forms of communication, or emotional communication, rhetoric, and on on. Or, from another perspective, the advertising of the west didn't discover but nevertheless understood the natural mechanism of how people decide from the perspectives from the narratives that they are told. In part three, we will explore further the subject of human communication as narration [^footnote_prelude_human_narration] but for now we will maintain the equilibrium by focusing on how fear drives us. 
+Now the fact that the advertising "of the west world" has discovered - by measuring results with customers - reveals that people decide based on narratives and stories that they are told and listen. In other words, it matters a lot - minimally for advertising agencies as we can confirm - that in the end of the day people bring to their lives, that they decide, based on what they listen, no matter if the the stories told are seen as persuasive forms of communication, or emotional communication, rhetoric, and on and on. Or, from another perspective, the advertising of the west didn't invent, indeed, as they had more like discovered, or understood, the natural mechanism of how people decide from the perspectives from the narratives that they are told. In part three, we will explore further the subject of human communication as narration [^footnote_prelude_human_narration] but for now we will maintain the equilibrium by focusing on how fear drives us, or how fears enter our narrative that drive us. 
 
 [^footnote_prelude_human_narration]: The work of Walter Fisher, Human Communication as Narration, will support us to improve our awareness of how people reason and decise based on the the experiences that they tell and listen. 
 
-But if what is told makes people fear is only does so effectively in the face of an ongoing conversaion, an ongoing train that is moving. We recognize this train of thought if we imagine a team of people in a locomotive where the destination is a city but out of the sudden the train stops right before a bridge. In this situation, if someone says that they might have stopped to appreciate the view, some people might laugh or be mad with the realization of the irony or how the observation does not fit the reality of what is happening. Thus the storied context makes the possibility for what is told to be coherent or not, to be truthful or not. 
+But if what is told makes people fear is only does so effectively in the face of an ongoing conversaion, an ongoing train that is moving. We recognize this train of thought if we imagine a team of people in a locomotive where the destination is a city but out of the sudden the train stops right before a bridge. In this situation, if someone says that they might have stopped to appreciate the view, some people might laugh or be mad with the realization of the irony or how the observation does not fit the reality of what is happening. Thus the storied context makes the possibility for what is told to be coherent or not, to be truthful or not. Thus in the tracks of our work projects, such as an entrepreneurial effort, w happens is that things go awry, or appears to be going in the bad direction, exactly as we want things to go in a certain direction, such as to stop by a key result associated with a higher-order objective or destination. All sort of situations that trigger fears such as the consideration that projects are going to be abruptly terminated, such as that layoffs as necessary, or if an entire division needs to be closed. And how certain things are triggered to our lives appears in different ways, because one may feel compassion for the people who could be affected, or when a leader feels in a position of being a messenger for a cause, a train conductor, you name it. Just as a train conductor is happy when the train is running smoothly and feels bad when it's no longer operational, the context of entrepreneurship and businesses also means a track of possibilities where the performers are protagonists who cares more than being apatic participants in a train moving to a random place. We aren't moving to an arbitrary place and we are not apatic participants. We are moving towards aspiring goals and we are humans. 
 
-Thus in the tracks of our work projects, such as an entrepreneurial effort, What happens is that things go awry, or appears to be going in the bad direction, exactly as we want things to go in a certain direction, such as to stop by a key result associated with a higher-order objective or destination. All sort of situations that trigger fears such as the consideration that projects are going to be abruptly terminated, such as that layoffs as necessary, or if an entire division needs to be closed. And how certain things are triggered to our lives appears in different ways, because one may feel compassion for the people who could be affected, or when a leader feels in a position of being a messenger for a cause, a train conductor, you name it. Just as a train conductor is happy when the train is running smoothly and feels bad when it's no longer operational, the context of entrepreneurship and businesses also means a track of possibilities where the performers are protagonists who cares more than being apatic participants of a train moving to a random place. 
+Thus the work situation, and especially the entrepreneurial situation, creates a stotied context where certain values are established and helps to create an equilibrium. These values can be acessed if we dig into reflecting within actionable ideas like "we need to keep working in this project tonight" which might be associated with expectations of significant milestones, such as expected state of happiness of the team, expected state of security to the team or the project, or any measure of success that is ahead. Thus it's natural for a person's identity to be linked as a responsible being, as a protagonist, emotionally and ethically connected to a duty. Conversely, it is natural to expect that a failure to do so, to operate towards the success, might trigger an actual real impact to their lives, like the unsolvency of their ability to work, which triggers other fears as, for example, people may need to work for money or other reason they hold as value. Suddenly, due to various factors, external or internal, experienced or perceived, the protagonists find themselves crafting narratives that are powerful in the face of the experience of fears they project. 
 
-Thus the work situation, and especially the entrepreneurial situation, creates a stotied context where certain values are established and helps to create an equilibrium. These values can be acessed if we dig into reflecting beyond actionable ideas like "we need to keep working in this project tonight" which might be associated with expectations of significant milestones, such as expected state of happiness of the team, expected state of security to the team or the project, or any measure of success that is ahead. Thus it's natural for a person's identity to be linked as a responsible being, emotionally and ethically connected to a duty as the failure to do so might trigger an actual real impact to their lives, like the unsolvency of their ability to work, which triggers other fears as, for example, people may need to work for money or other reason they hold as value. Suddenly, due to various factors, external or internal, experienced or perceived, the protagonists find themselves crafting narratives that are powerful in the face of the experience of fears and emotions they projected. 
+
+
+
+
 
 #### The works in the head - the experience in the head 
+
+
+
+
+
 
 Perhaps this association is common in the world of artists or those involved in creative works. But it serves us well to reflect that a lot of what people do start in their heads, in a black box.
 
@@ -65,38 +95,76 @@ Thus, relevant in the entrepreneur's context is the censorship that becomes deci
 Author Julia Cameron, known for her book The Artist's Way (1992), assists artists from various fields in navigating their creative potentials and blocks. Her 12-week course, which is outlined in the book, includes what is an apparently a simple exercise of "morning pages," consisting of writing long hand-written pages every morning; an essentially liberating practice that exercises the mind, much like a gym for the body, allowing the censoring side of the mind to cease stifling creativity. It's a technique that encourages making mistakes, experiencing fears, beginning with granting oneself permission.
 
 <!-- 
-@references - ( ) Check Reference 
-*  Cameron, J. (1992). The artist's way: A spiritual path to higher creativity. Jeremy P. Tarcher/Putnam.
+@references  
+* reference - Cameron, J. (1992). The artist's way: A spiritual path to higher creativity. Jeremy P. Tarcher/Putnam.
 --> 
 
-Through Julia's explanations, we can see how she discovered this technique throughout her career. She was a recognized artist in Hollywood who, at some point, had her work rejected (please verify this information around page 40 in the book). In her account of the emotions she experienced, she likened the feeling of her work's rejection to the loss of a pregnancy.
+Through Julia's explanations, we can see how she discovered this technique throughout her career. She was a recognized artist in Hollywood who, at some point, had her work rejected. In her account of the emotions she experienced, she likened the feeling of her work's rejection to the loss of a pregnancy.
+
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Running / Fear / Check Julia Cameron's The Artist's Way page 40 where she talks about her work being rejected. @meta-refid 1233-6574-8787-8383
+--> 
+
+
+
+
+
 
 #### Practicing detachment and procrastination 
 
+
+
+
+
+
 In this section we shall consider how fears can trigger us into doing something else, and the important of mitigating fears and being transparent about them in the first place. 
 
-Para resolver isso, o primeiro passo é reconhecer, observar. Também vale o exercício de refletir em momentos protegidos, não debaixo de pressão, como por exemplo usar a técnica apontada no capítulo "correntes alternadas" para permitir paralelizar exercícios que lhe ajudam a mitigar os medos e mapea-los de fato. Neste sentido vale o exercício apontado por Tim Ferriss, em Trabalhe 4 horas por semana, ... [Colocar o exercício do Tim Ferriss aqui]
+To solve this, the first step is to recognize and observe. It's also useful to reflect during calm moments, not under pressure. For example, use the technique mentioned in the chapter "alternating currents" to parallelize exercises that help you mitigate fears and map them out. In this sense, the exercise pointed out by Tim Ferriss in "The 4-Hour Workweek" is valuable... [Insert Tim Ferriss exercise here]
 
-Escrever o que pode acontecer de fato é uma forma de planejamento. Uma vez mapeado, aquilo que era medo de algo que não se sabe, torna-se um mapa mais estratégico. Nessa atividade você acaba colocando os passos intermediários que são necessários para resolver o problema.
+Writing down what can actually happen is a form of planning. Once mapped, what was a fear of the unknown becomes a more strategic map. In this activity, you end up outlining the intermediate steps necessary to solve the problem.
 
-Agora, tratamos de medo que cria bloqueio ou censura, uma vez que exercitamos nossa capacidade de sermos criativos vamos nos acostumando a ideia de escrever, rascunhar, conversar, planejar; essa atividade que nos permite sair da zona da paralisia e partir para a ação. Com isso faz sentido aquele pensamento que diz que o corajoso é o medroso que deu o passo; ou que o louco é o corajoso que não tem medo.
+Now, we deal with fear that creates blockage or censorship. As we exercise our ability to be creative, we get used to the idea of writing, drafting, discussing, and planning. This activity helps us move out of paralysis and into action. This supports the idea that the brave person is the scared one who took a step, or that the crazy one is the brave person who has no fear.
+
+
+
+
+
+
+
 
 #### Reflection on fears working for principles 
 
-We want to feel emotions, we want to recognize fear, we want to allow ourselves to be vulnerable. With these exercises, you can embrace fear so that you can explore possibility, mapping risks and possible actions. The entrepreneur that embraces their fear, which allow the conflict and asks for help, is one that engages into the collaboration process; which is a big idea in the sense that it has to do with allowance for a wider view, a different perspective, which opens the door for an actual wiser view about the entreprneurship, as opposed to the constraints of the identity of the role that promotes the journey, such as the particular reality of a founder. The allowance for disucssions of fears, the conscious discussions about how fears are translated into the narratives, means a seed for the culture that is a truth seeking culture. 
+
+
+
+
+
+
+We want to feel emotions, we want to recognize fear, we want to allow ourselves to be vulnerable. With these exercises, you can embrace fear so that you can explore possibility, mapping risks and possible actions. The entrepreneur that embraces their fears, which allow the conflict and asks for help, is one that engages into the collaboration process; which is a big idea in the sense that it has to do with allowance for a wider view, a different perspective, which opens the door for an actual wiser view about the entreprneurship, as opposed to the constraints of the identity of the role that promotes the journey, such as the particular reality of a founder. The allowance for disucssions of fears, the conscious discussions about how fears are translated into the narratives, means a seed for the culture that is a truth seeking culture. 
 
 Doug Leone, partner of Sequoia Capital, explains how he keeps himself motivated and seeking for more which is challenging as he is part of one of the most successful venture capital firms in Silicon Valley, which would naturally put him into a situation of a comfort zone. 
 
 > "When you are successful a little bit, the greatest danger you have is the fact you were successful. " Doug Leone (Brazil at Silicon Valley, 2019, 7:02)
 
-He added that ""**raw fear**", is what motivates him; as he recalled the days when he would walk at the Stanford Shopping center, in 1988, making about 67000 dólares per year, knowing that he didn't have enough money to buy gifts. (Stanford Graduate School of Business, 2014, 45:22). And went on to recognizing the fears that kept him to work, such as fear of being lay-off from Sequoia, fear of messing up with the life of entrepreneurs. Thus, for Doug, fear is a motivation force. 
+He added that ""**raw fear**", is what motivates him; as he recalled the days when he would walk at the Stanford Shopping center, in 1988, making about 67000 dollars per year, knowing that he didn't have enough money to buy gifts (Stanford Graduate School of Business, 2014, 45:22). And went on, recognizing the fears that kept him to work, such as fear of being lay-off from Sequoia, fear of messing up with the life of entrepreneurs. Thus, for Doug, fear can be connected as a motivation force. That idea might be, for us now, an invitation to reflect that his views about fears might be in fact reflections of hopes, that may be for instance ways of his interpretations, ways to frame the path he is in. 
 
 <!--
 @references 
 * reference - Sequoia Capital's Doug Leone on Luck & Taking Risks. (2014, November 7). Stanford Graduate School of Business. Retrieved from https://www.youtube.com/watch?v=4cl8X02Xd1I
 --> 
 
+
+
+
+
+
 #### Reflection on fears from the factory 
+
+
+
+
+
 
 Andy Grove also shared a similar idea about fear as a force that motivates creativity and action—fear of losing to a competitor, fear that the product is not good enough for customers, etc. For Andy Grove, there exists a sequence of emotions similar to those experienced during the loss of loved ones, which can be experienced by people in the midst of what he called "inflection points." He suggests a parallel between the sequence of losing a loved one and the sequence experienced in the corporate domain during an inflection point.
 
@@ -106,7 +174,18 @@ What we can take away from this, once again, is a simple idea but one that we ca
 
 Andy Grove also articulated a corporate version of the potential for loss, self-defense—a situation where companies going through said inflection points decide to buy other companies. He questioned, in "Only the Paranoid Survive," why Japanese electronics companies, undergoing significant changes in their markets and industry, bought movie studios. For Grove, this could represent a form of escapism that ends up completely occupying managers' attention; they become too busy, they want to be occupied.
 
+
+
+
+
+
 #### Reflections on the professional identity and perceived threats 
+
+
+
+
+
+
 
 The insight from a research cited by "Are You Afraid to Identify as a Leader?, has shown that how challenge it is to support the developement of leaders as the consideration of a self-identity of a leader, has brought reputational concerns. As an example, employees might fear being seen as autocratic, different, or unqualified, when they consider themselves to embrace the role of leaders. Their research  suggests that organizations can impact the development of leaders and support a viewpoint that affects the psychological standpoint as taking leadership roles can be viewed as positive, and can be shown to be an area that is oriented to skills, and not as an innate ability: 
 
@@ -116,6 +195,14 @@ The insight from a research cited by "Are You Afraid to Identify as a Leader?, h
 
 > "And across our studies, we found that people who reported higher levels of fear around these reputational risks were less likely to see themselves as leaders. As a result, they were less likely to act as leaders, and therefore less likely to be seen as leaders by their supervisors." - https://hbr.org/2022/09/are-you-afraid-to-identify-as-a-leader 
 
+
+
+
+
+
 #### Don't fear fear, and protections at the team level 
+
+
+
 
 Fear of missing out should be considered? Then defining the level for fear's applicability that brings value of productivity within a safe space. As in fear losing the end of the game may make one be okay to lose a specific game to make another. Thus, fear is connected with hope as it was likely recognized by One idea is to transcend the outcome, create a model where there is a meta-outcome after the outcome, thus you have a protection system so that you can also lift fears. As an example, you can be okay to destroy the sucess, as part of your success. 
