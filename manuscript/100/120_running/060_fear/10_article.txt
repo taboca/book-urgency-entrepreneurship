@@ -1,16 +1,62 @@
 
 
+
+@outline - subject - Fear make us decide. Fears make us run. We need to acknowledge fear such as fear of knowing. 
+@outline - situation - Fear is in us, humans carry. It gets into the language. 
+@outline - complication - No room to discussion fears, the role of fear, how fears impacts productivity and strategy.
+
+@outline - GA - Running is not the purpose, is getting things done which is to know. (* Fear vs. knowing which is doing - "In any case, this close relationship between knowing and doing can help us to interpret one cause of the fear of knowing as deeply a fear of doing, a fear of the consequences that flow from knowing, a fear of its dangerous responsibilities. Often it is better not to know, because if you did know, then you would *have* to act and stick your neck out. This is a little involved, a little like the man who said, "I'm so glad I don't like oysters, because if I liked oysters, I'd eat them, and I'd hate the darn things." " Maslow, p.63 
+)
+
+@outline - A1 - Experiencing in the language (Stakes are high, fears are in the language, in the enviroment, even to take us to act) 
+
+@outline - a1.1 - Exp - Storied context, narratives social 
+@outline - a1.2 - Exp - In our heads and toward the world, artists?
+
+@outline - a1.x - Struggle - Reflections - Corporate fears for 10x (Let Chaos Reign, Induced or Autonomous)
+@outline - a1.x - Struggle - Fears and principles? (Doug) ("The adult human being is far more subtle and concealed about his anxieties and fears. If they do not overwhelm him altogether, he is very apt to repress them, to deny even to himself that they exist. Frequently he does not know that he is afraid." p. 61)
+
+
+@outline - A2 - Accessing 
+@outline - a1.x - Breaking the language, for acessing knowledge? (Are you afraid, Maslow Back or Forth)
+@outline - a1.x - Detachment? Acessing knowledge? Splitting? (Reduce Anxiety (to know) vs Reduce (not known))
+ 
+
+
+
+## Considerations
+
+* GA - To get things done, you get to know. We either fear knowing it, to reduce anxiety, or we do not fear knowing it. The mechanism is to cut impulses to the know part, or to boost it. (Highly ingluenced by Maslow's model given in p.63 of Toward a Psychology of Being)
+
+* Fears vs. Faith - was broutht by Marcio. In the introduction, of the section Fears, Marcio has suggested a metaphor, that "fear can move mountains." Then, he objects to it, by saying that, perhaps not, that in fact fear can build faith. Although a bit coherent, this saying were lacking substance, or connection, as if it was metaphorical but not fundamented. But then, when reading Maslow's book "Toward a Psychology of Being," the section Entitled "Need to Know and Fear of Knowing," Maslow refers to a kind of fear that's different from the fear of knowledge, that is a fear of us becoming too great. And it seems to be that such fear is an attack, comes from an attack of the environment, of the superior, that to some, or perhaps a great, extent induces the subordinate to not become like Gods or greater. Maslow indicates that religions and other systems brings a kind of message about the dangers of allowing us to enter the space of knowledge, the dangers of letting us to become curious, the dangers of curiosity, the dangers of being Gods, or geniuses. And he suggests the trace, a preference for things like faith and belief and piety rather than knowledge. Or the feeling that some forms of knowledge were too dangerous to meddle with and had best be forbidden or reserved to a few special people.   
+
+* Protection for growth - "But we know also that curiosity and exploration are higher needs than safety, which is to say that the need to feel safe, secure, unanxious and afraid is prepotent, stronger over curiosity." and "The young child in a strange environment will characteristically hang on to its mother and only then venture out little by little from her lap to probe into things, to explore and to probe. If she disappears and he becomes frightened, the curiosity disappears until safety is restored. She explores only out of a safe harbor." p.61
+
+* To know - of the fears? what you are afraid - may explain Doug's point "The adult human being is far more subtle and concealed about his anxieties and fears. If they do not overwhelm him altogether, he is very apt to repress them, to deny even to himself that they exist. Frequently he does not know that he is afraid." p. 61 
+
+* Anxiety and knowledge - "There are many ways of coping with such anxieties and some of these are cognitive. To such a person, the unfamiliar, the vaguely perceived, the mysterious, the hidden, the unexpected are all apt to the threatening. One way of rendering them familiar, predictable, manageable, controllable, i.e., frightening and harmless is to know them and to understand them. And so, knowledge may have not only a growing forward function, but also an anxiety reduction function, a protective homeostatic function." p.61 
+
+* To know, acessing - "The moment of fright is quite understandable, but must nevertheless be overcome if creation is to be possible. Thus, to discover in oneself a great talent can certainly bring exhilaration, but it also brings a fear of the dangers and responsibilities and duties of being a leader and of being all alone. Responsibility can be seen as a heavy burden and evaded as long as possible. Think of the mixture of feelings of awe, humility, even of fright that have been reported to us, let us say, by people who have been elected president." Maslow p 58-59
+
+* Fear vs. knowing which is doing - "In any case, this close relationship between knowing and doing can help us to interpret one cause of the fear of knowing as deeply a fear of doing, a fear of the consequences that flow from knowing, a fear of its dangerous responsibilities. Often it is better not to know, because if you did know, then you would *have* to act and stick your neck out. This is a little involved, a little like the man who said, "I'm so glad I don't like oysters, because if I liked oysters, I'd eat them, and I'd hate the darn things." " Maslow, p.63 
+
+
 ## Fears 
 
 
 <!--
-@outline - subject - 
+@outline - subject - Fear make us decide. Fears make us run. We need to acknowledge fear such as fear of knowing. 
 --> 
 
-In this chapter, we will consider the role of fear, especially in the fast-paced world, and how it affects our decisions. That because fears move mountains. Well, not really, so direct. But anyway fear builds faith. 
+In this chapter, we will consider the role of fear, especially in the fast-paced world, and how it affects our decisions, and our pace, such as the pace calling us for running. That, because fear can move mountains. Well, not really, not so direct. Maybe fear can prevent us to break our faith. 
+
+<!-- 
+@note * Fears vs. Faith - was broutht by Marcio. In the introduction, of the section Fears, Marcio has suggested a metaphor, that "fear can move mountains." Then, he objects to it, by saying that, perhaps not, that in fact fear can build faith. Although a bit coherent, this saying were lacking substance, or connection, as if it was metaphorical but not fundamented. But then, when reading Maslow's book "Toward a Psychology of Being," the section Entitled "Need to Know and Fear of Knowing," Maslow refers to a kind of fear that's different from the fear of knowledge, that is a fear of us becoming too great. And it seems to be that such fear is an attack, comes from an attack of the environment, of the superior, that to some, or perhaps a great, extent induces the subordinate to not become like Gods or greater. Maslow indicates that religions and other systems brings a kind of message about the dangers of allowing us to enter the space of knowledge, the dangers of letting us to become curious, the dangers of curiosity, the dangers of being Gods, or geniuses. And he suggests the trace, a preference for things like faith and belief and piety rather than knowledge. Or the feeling that some forms of knowledge were too dangerous to meddle with and had best be forbidden or reserved to a few special people.   
+--> 
+
 
 <!--
-@outline - situation - 
+@outline - situation - Fear is in us, humans carry. It gets into the language. 
 --> 
 
 If we set a time machine to somewhere 30000 to 36000 years ago, and find a human on a tree fearing the fearless wolf that paciently waits, we can visualize - and respect - that feeling which improves the chances for survival in the face of the danger. Someone in your ancestors tree feared a treat so that you can be reading this book and somehow feeling connected with that ancestor who survived. But back to the future of now, the metaphor that fears move mountains makes sense as decisions in the knowledge economy, especially in the digital landscape, are not disconnected from what we perceive, what we think, and what we feel. The mountain of now can be the pile of resources, such as money, or time. The wolves of now can be the competitor. And your organization is the tree of now, where we can go up and down, and hoping to survive. And if you do so, I hope that you have time to come down from the tree to paint the situation in a stone wall of now.
@@ -58,7 +104,7 @@ With these examples, I am not saying that all employees, and management, that ev
 
 
 <!--
-@outline - A1 - Stakes are high, fears are in the language, in the enviroment, even to take us to act. 
+@outline - a1.1 - Storied context, narratives social 
 --> 
 
 #### Fears in the storied context 
@@ -88,6 +134,10 @@ Thus the work situation, and especially the entrepreneurial situation, creates a
 
 
 
+
+<!--
+@outline - a1.2 - In our heads and toward the world, artists?
+-->
 
 #### The works in the head - the experience in the head 
 
@@ -119,6 +169,10 @@ Through Julia's explanations, we can see how she discovered this technique throu
 
 
 
+<!--
+@outline - a1.x - Detachment? Acessing knowledge? Splitting?
+-->
+
 #### Practicing detachment and procrastination 
 
 
@@ -140,6 +194,9 @@ Now, we deal with fear that creates blockage or censorship. As we exercise our a
 
 
 
+<!--
+@outline - a1.x - Fears and principles?
+-->
 
 #### Reflection on fears working for principles 
 
@@ -151,15 +208,16 @@ Now, we deal with fear that creates blockage or censorship. As we exercise our a
 
 We want to feel emotions, we want to recognize fear, we want to allow ourselves to be vulnerable. With these exercises, you can embrace fear so that you can explore possibility, mapping risks and possible actions. The entrepreneur that embraces their fears, which allow the conflict and asks for help, is one that engages into the collaboration process; which is a big idea in the sense that it has to do with allowance for a wider view, a different perspective, which opens the door for an actual wiser view about the entreprneurship, as opposed to the constraints of the identity of the role that promotes the journey, such as the particular reality of a founder. The allowance for disucssions of fears, the conscious discussions about how fears are translated into the narratives, means a seed for the culture that is a truth seeking culture. 
 
-Doug Leone, partner of Sequoia Capital, explains how he keeps himself motivated and seeking for more which is challenging as he is part of one of the most successful venture capital firms in Silicon Valley, which would naturally put him into a situation of a comfort zone. 
+<!--
+@note
+* Doug Leone talking about fears is massging how to solve the problem, he is allowing himself. To know - of the fears? what you are afraid - may explain Doug's point "The adult human being is far more subtle and concealed about his anxieties and fears. If they do not overwhelm him altogether, he is very apt to repress them, to deny even to himself that they exist. Frequently he does not know that he is afraid." p. 61 
+-->
 
-> "When you are successful a little bit, the greatest danger you have is the fact you were successful. " Doug Leone (Brazil at Silicon Valley, 2019, 7:02)
-
-He added that ""**raw fear**", is what motivates him; as he recalled the days when he would walk at the Stanford Shopping center, in 1988, making about 67000 dollars per year, knowing that he didn't have enough money to buy gifts (Stanford Graduate School of Business, 2014, 45:22). And went on, recognizing the fears that kept him to work, such as fear of being lay-off from Sequoia, fear of messing up with the life of entrepreneurs. Thus, for Doug, fear can be connected as a motivation force. That idea might be, for us now, an invitation to reflect that his views about fears might be in fact reflections of hopes, that may be for instance ways of his interpretations, ways to frame the path he is in. 
+Doug Leone, partner of Sequoia Capital, explains how he keeps himself motivated and out of a comfort zone. He added that ""**raw fear**", is what motivates him; as he recalled the days when he would walk at the Stanford Shopping center, in 1988, making about 67000 dollars per year, knowing that he didn't have enough money to buy gifts (Stanford Graduate School of Business, 2014, 45:22). And went on, recognizing the fears that kept him to work, such as fear of being lay-off from Sequoia, fear of messing up with the life of entrepreneurs. Thus, for Doug, fear can be connected as a motivation force. That idea might be, for us now, an invitation to reflect that his views about fears might be in fact reflections of hopes, that may be for instance ways of his interpretations, ways to frame the path he is in. 
 
 <!--
 @references 
-* reference - Sequoia Capital's Doug Leone on Luck & Taking Risks. (2014, November 7). Stanford Graduate School of Business. Retrieved from https://www.youtube.com/watch?v=4cl8X02Xd1I
+* reference - Stanford Graduate School of Business. (2014, July 11). Sequoia Capital's Doug Leone on Luck & Taking Risks [Video file]. Retrieved from https://youtu.be/4cl8X02Xd1I
 --> 
 
 
@@ -167,7 +225,12 @@ He added that ""**raw fear**", is what motivates him; as he recalled the days wh
 
 
 
-#### Reflection on fears from the factory 
+
+<!--
+@outline - a1.x - Fears and the corporate feardful?
+-->
+
+#### The fearfull corageous corporate giant  
 
 
 
@@ -209,7 +272,11 @@ Andy Grove also articulated a corporate version of the potential for loss, self-
 
 
 
-#### Reflections on the professional identity and perceived threats 
+<!--
+@outline - a1.x - Breaking the language for acessing?
+-->
+
+#### Characterizations influencing courage  
 
 
 
