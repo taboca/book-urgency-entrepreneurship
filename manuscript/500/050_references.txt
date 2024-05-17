@@ -201,6 +201,17 @@ Cameron, J. (1992). The artist's way: A spiritual path to higher creativity. Jer
 
 McKee, R., & Gerace, T. (2018). Storynomics: story-driven marketing in the post-advertising world. New York, Twelve.
 
+<!-- dup --> 
+
+Grove, A. (1999). Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company. Crown Publishing.
+
+
+
+
+
+
+
+
 
 <!-- 
 * 100 / 060_identity 
@@ -536,7 +547,7 @@ Jobs, S. (2005, March 7). Steve Jobs' 2005 Stanford Commencement Address [Video]
 100 / 060_identity 
 --> 
 
-Grove, Andrew. (1999). Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company. [Só os Paranóicos Sobrevivem]. Crown Publishing.
+Grove, A. (1999). Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company. Crown Publishing.
 
 <!-- 
 

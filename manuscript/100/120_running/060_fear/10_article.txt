@@ -1,6 +1,11 @@
 
 ## Fears 
 
+<!--
+@meta @todo 
+* @todo - p1 ( ) - In Running / Fears - Consider hubris case of Maslow, which goes as another aspect, after the complexity to face honesty. The fear of greatness. @meta-refid 1222-2333-4433-5555 
+--> 
+
 
 <!--
 @outline - subject - Fear make us decide. Fears make us run. We need to acknowledge fear such as fear of knowing. 
@@ -21,15 +26,43 @@ If we set a time machine to somewhere 30000 to 36000 years ago, and find a human
 
 If some of that sounds far from where we are, I fear that we must confront, or celebrate, or accept, the fact that narratives driven by fear are quite naturally administered into the veins of our corporate body - even to a point where we don't make sense of how our now-networked brain responds. And all of this becomes even more serious given that the startup situation deals with threats as projections, idealized, more than real threats of the present. In other words, because growth is expected and ahead, and risks or prizes are there; it follows an implied element of risk analysis and the potential that larger sums of resources are lined up to be deployed under the expectation that it will support growth to happen. In other words, a lot is based on signals, or perceptions, therefore less related to real threats or iminent risk. 
 
+
+
+
+
 <!--
-@outline - complication - No room to discussion fears, the role of fear, how fears impacts productivity and strategy.
+@outline - complication - No room to discussion fears, the role of fear, how fears impacts productivity and strategy. But fear is presently influencing anyway, the moving to know more or to not be willing to know. The movement anyway, even to run, when we want to get away from problems. 
 --> 
 
-But the complication, and the reason for us to be together, is that the entrepreneurial agenda does not allow room to discuss our fears, or the role of fear, or how fear drives productivity, such as how fear eloquently shapes the narratives that create that affects our decisions. To note, or to narrow our scope and increase the complexity of the situation, the setting of a startup starts with a few people - founders and the small team [^footnote_blitzscaling_family_stage] - which means more agility, thus more authority. In other words, although the mountain of resources is small, it is big enough in relative to the possibility of impact to the future. 
+
+
+
+
+The reason for us to be together celebrating the role of fear, is that the entrepreneurial agenda does not allow room to discuss fears, or the role of fear, or how a language and dynamics oriented to fears is just part of our mechanism to be productive. In other words, fear drives productivity, fear eloquently shapes the narratives that create that affects our decisions. To note, or to narrow our scope and increase the complexity of the situation, the setting of a startup starts with a few people - founders and the small team [^footnote_blitzscaling_family_stage] - which certainly means agility, therefore increased level of authority. In other words, although the mountain of resources is small comparing with a large company, it is bigger in terms of impact to the path, to the future of the startup. 
 
 [^footnote_blitzscaling_family_stage]: Within the Blitzscaling lectures, the family stage refers to a small team, and it is stage one. 
 
-With that, and depending on the circunstances of what is ahead, we know that people can be more or less fearful. And, although we don't generally characterize teams, or divisions, as fearful, we will explore how the constituents turn fears into narratives that are powerful to change directions. Unfortunately, the matter of fear is not generally addressed, or properly, in work situation. If a team member had the courage to put straightforward such as "I am afraid of going in this direction" it would perhaps be a call for a debate. But reality is that fear chimes differently, like a movement in the backstage, such as when a local authority says "I fear that we will be killed by our competition." Therefore, in this chapter, we shall continue to respect fear as an element that pushes the entrepreneur's journey, not only the pace but also the path of innovation. 
+
+
+
+
+
+
+
+<!--
+@outline - GA - Running is not the purpose, is getting things done which is to know.
+
+* Note - To get things done, you get to know. We either fear knowing it, to reduce anxiety, or we do not fear knowing it. The mechanism is to cut impulses to the know part, or to boost it. (Highly ingluenced by Maslow's model given in p.63 of Toward a Psychology of Being)
+
+* Note - * Fear vs. knowing which is doing - "In any case, this close relationship between knowing and doing can help us to interpret one cause of the fear of knowing as deeply a fear of doing, a fear of the consequences that flow from knowing, a fear of its dangerous responsibilities. Often it is better not to know, because if you did know, then you would *have* to act and stick your neck out. This is a little involved, a little like the man who said, "I'm so glad I don't like oysters, because if I liked oysters, I'd eat them, and I'd hate the darn things." " Maslow, p.63 
+-->
+
+
+
+
+
+
+With that, and depending on the circunstances of what is ahead, we know that people can be more or less fearful. And, although we don't generally characterize teams, or divisions, as fearful, we will explore how the constituents turn fears into narratives that are powerful to change directions.If a team member had the courage to put straightforward such as "I am afraid of going in this direction" it would perhaps be a call for a debate. But reality is that fear chimes differently, like a movement in the backstage, such as when a local authority says "I fear that we will be killed by our competition." Therefore, in this chapter, we shall continue to respect fear as an element that pushes the entrepreneur's journey, not only the pace but also the path of innovation. 
 
 Let's start with visualizing fear in the work situation first, how we experience it in ongoing conversation of the day - at the interpersonal level. Then we will explore how the individual is highly influenced by fears of threats - of course, not directly to their lives - but to their identities or a value that is key for their ongoing narrative. We will also consider different point of views and other reflections where fear is recognized as present from the individual level to the management situation of large organizations. As we move on, not to supress fear but to note and acknoledge, we shall identify more vividly how fear enters the communication of teams, and impacts decisions in the everyday, as it causes blockage, defense, censorship, or attack. 
 
@@ -43,11 +76,11 @@ Let's start with visualizing fear in the work situation first, how we experience
 @outline - A1 - Stakes are high, fears are in the language, in the enviroment, even to take us to act. 
 --> 
 
-### How we expererience fears 
+### The experience of fears 
 
 
 
-#### Fear not, the stakes are high 
+#### The stakes are high, put that coffee down  
 
 
 
@@ -94,19 +127,39 @@ Thus the work situation, and especially the entrepreneurial situation, creates a
 
 
 <!--
-@outline - a1.2 - In our heads and toward the world, artists?
+@outline - a2 - Recognizing 
 -->
+
+### Recognizing fears 
+
+
+
+
+
+
+We want to feel emotions, we want to recognize fear, we want to allow ourselves to be vulnerable. These may not be statements that we get busy with, when we are there, in the arena, in the entrepreneurial scene nor the corporate scene. It sounds like words that could appear in a therapy session. So a real complicated question rises here - if the average runner is not talking, or reflective about that, do other people talk about these things? Do they consider these subjects especially when they are working on their startups? And when they grow, as they grow, and as they enter the growth stage of their companies? To consider that is relevant too? In other words, the being that feels, the being that fears, have the power to mess up the growth of of a company? And the collective being, the entity, shares pattersn from the individuals? Or the collective is free from the movement driven by fear given that the collective is more rational and less subject to touchy-feely [^footnote_andygrove_touchy_feely] issues? 
+
+[^footnote_andygrove_touchy_feely]: In his book *Only the Paranoid Survive* (1999), Andy Grove discusses, in *Let Chaos Reign*, what he calls *The Touchy-feely Issues*, that in certain situations, particularly those faced by large corporations, managers often react emotionally to crises (p. 123) as business people are humans where their personal growth and emotions are closely tied to the identity and well-being of their business.
+
+<!--
+@references 
+* reference - Grove, A. (1999). Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company. Crown Publishing.
+-->
+
+Let us then consider some of the known reflections about fears from people like practitioners in the world of startups. With these exercises, you can embrace fear so that you can explore possibility, mapping risks and possible actions. The entrepreneur that embraces their fears, which allow the conflict and asks for help, is one that engages into the collaboration process; which is a big idea in the sense that it has to do with allowance for a wider view, a different perspective, which opens the door for an actual wiser view about the entrepreneurship, as opposed to be constrained living an identity, a role, that continues to operate using the same goggles and refusing to see it from different views. The allowance for disucssions about fears, the conscious discussions about how fears are translated into the narratives, is in itself quite powerful and can be a seed for the culture that is a truth seeking culture, an activity consisting of seeking honesty.  
+
+
+
+
 
 #### The works in the head - the experience in the head 
 
 
 
 
-
-
 Perhaps this association is common in the world of artists or those involved in creative works. But it serves us well to reflect that a lot of what people do start in their heads, in a black box.
 
-Thus, relevant in the entrepreneur's context is the censorship that becomes decisive, even though we don't acknowledge fears. But our fears from situations like dreaming, reflecting, or planning, can quickly engage a self-censor. In other words, our fears might act behind the scenes although it impacts a world of possibilities, which might limit what we do. Dealing with these subject it not a simple task, such as of asking technical help or even reading book, because it involves taking initiative and to engage in reflective thinking, to put things in perspective, such as what comes from reflective writing or other related processes that involves asking for help, just like one would when one enters a session with a psychoterapeut, or a coach, or board members.  
+Thus, relevant in the entrepreneur's context is the censorship that becomes decisive, even though we don't  acknowledge fears. But our fears from situations like dreaming, reflecting, or planning, can quickly engage a self-censor. In other words, our fears might act behind the scenes although it impacts a world of possibilities, which might limit what we do. Dealing with these subject it not a simple task, such as of asking technical help or even reading book, because it involves taking initiative and to engage in reflective thinking, to put things in perspective, such as what comes from reflective writing or other related processes that involves asking for help, just like one would when one enters a session with a psychoterapeut, or a coach, or board members.  
 
 Author Julia Cameron, known for her book The Artist's Way (1992), assists artists from various fields in navigating their creative potentials and blocks. Her 12-week course, which is outlined in the book, includes what is an apparently a simple exercise of "morning pages," consisting of writing long hand-written pages every morning; an essentially liberating practice that exercises the mind, much like a gym for the body, allowing the censoring side of the mind to cease stifling creativity. It's a technique that encourages making mistakes, experiencing fears, beginning with granting oneself permission.
 
@@ -127,25 +180,14 @@ Through Julia's explanations, we can see how she discovered this technique throu
 
 
 
+
 <!--
-@outline - a1.x - Detachment? Acessing knowledge? Splitting?
+@outline - a2.0 - Struggle, understanding 
+@outline - a2.x - Fears and principles?
+@outline - a2.x - Recognition of masking or denial
 -->
 
-#### Practicing detachment and procrastination 
-
-
-
-
-
-
-In this section we shall consider how fears can trigger us into doing something else, and the important of mitigating fears and being transparent about them in the first place. 
-
-To solve this, the first step is to recognize and observe. It's also useful to reflect during calm moments, not under pressure. For example, use the technique mentioned in the chapter "alternating currents" to parallelize exercises that help you mitigate fears and map them out. In this sense, the exercise pointed out by Tim Ferriss in "The 4-Hour Workweek" is valuable... [Insert Tim Ferriss exercise here]
-
-Writing down what can actually happen is a form of planning. Once mapped, what was a fear of the unknown becomes a more strategic map. In this activity, you end up outlining the intermediate steps necessary to solve the problem.
-
-Now, we deal with fear that creates blockage or censorship. As we exercise our ability to be creative, we get used to the idea of writing, drafting, discussing, and planning. This activity helps us move out of paralysis and into action. This supports the idea that the brave person is the scared one who took a step, or that the crazy one is the brave person who has no fear.
-
+#### Masking or talking 
 
 
 
@@ -153,22 +195,17 @@ Now, we deal with fear that creates blockage or censorship. As we exercise our a
 
 
 <!--
-@outline - a1.x - Fears and principles?
--->
+@todo @meta 
+* @todo - p2 ( ) - In Running / Fears - Bring Maslow's idea that people may mask fears, even not consciously.  @meta-refid 1223-1234-4321-8487 / 
 
-#### Reflection on fears working for principles 
-
-
-
-
-
-
-
-We want to feel emotions, we want to recognize fear, we want to allow ourselves to be vulnerable. With these exercises, you can embrace fear so that you can explore possibility, mapping risks and possible actions. The entrepreneur that embraces their fears, which allow the conflict and asks for help, is one that engages into the collaboration process; which is a big idea in the sense that it has to do with allowance for a wider view, a different perspective, which opens the door for an actual wiser view about the entreprneurship, as opposed to the constraints of the identity of the role that promotes the journey, such as the particular reality of a founder. The allowance for disucssions of fears, the conscious discussions about how fears are translated into the narratives, means a seed for the culture that is a truth seeking culture. 
-
-<!--
-@note
 * Doug Leone talking about fears is massging how to solve the problem, he is allowing himself. To know - of the fears? what you are afraid - may explain Doug's point "The adult human being is far more subtle and concealed about his anxieties and fears. If they do not overwhelm him altogether, he is very apt to repress them, to deny even to himself that they exist. Frequently he does not know that he is afraid." p. 61 
+
+* Note - On fears -> anxiety -> is a prompt - "There are many ways of coping with such anxieties and some of these are cognitive. To such a person, the unfamiliar, the vaguely perceived, the mysterious, the hidden, the unexpected are all apt to the threatening. One way of rendering them familiar, predictable, manageable, controllable, i.e., frightening and harmless is to know them and to understand them. And so, knowledge may have not only a growing forward function, but also an anxiety reduction function, a protective homeostatic function." p.61 of Toward the Psychology of Being 
+
+* Note - Inertia of success, from Andy Grove in Only the Paranoid Survive, connects, perhaps, with the point from Doug, the realization that the meta movement, leading to acceptance of a principle. A reference is the quote from Andy Grove - "Senior managers got to where they are by having been good at what they do. And over time they have learned to live with their strengths. So it's not surprising that they will keep implementing the same strategic and tactical moves that worked for them during the course of their careers - especially during their 'championship season.' I call this phenomenon the inertia of success. It is extremely dangerous and it can reinforce denial." Andy Grove, Only the Paranoid Survive, The Inertia of Success, p. 127
+
+* Check - Recognition of fears, a mechanism, talk about - Letter to Doug Leone Sequoia Capital on May 16th 2024 @meta-refid 9993-9393-4444-3344
+
 -->
 
 Doug Leone, partner of Sequoia Capital, explains how he keeps himself motivated and out of a comfort zone. He added that ""**raw fear**", is what motivates him; as he recalled the days when he would walk at the Stanford Shopping center, in 1988, making about 67000 dollars per year, knowing that he didn't have enough money to buy gifts (Stanford Graduate School of Business, 2014, 45:22). And went on, recognizing the fears that kept him to work, such as fear of being lay-off from Sequoia, fear of messing up with the life of entrepreneurs. Thus, for Doug, fear can be connected as a motivation force. That idea might be, for us now, an invitation to reflect that his views about fears might be in fact reflections of hopes, that may be for instance ways of his interpretations, ways to frame the path he is in. 
@@ -185,10 +222,13 @@ Doug Leone, partner of Sequoia Capital, explains how he keeps himself motivated 
 
 
 <!--
-@outline - a1.x - Fears and the corporate feardful?
+@outline - a2.0 - Struggle, understanding 
+@outline - a2.x - Fears and the corporate feardful?
 -->
 
-#### The fearfull corageous corporate giant  
+#### The fearfull corporate beast   
+
+
 
 
 
@@ -198,6 +238,9 @@ Andy Grove also shared a similar idea about fears as a force that motivates crea
 
 
 For Andy, there exists a sequence of emotions similar to those experienced during the loss of loved ones, which can be experienced by people in the midst of what he called "inflection points." He suggests a parallel between the sequence of losing a loved one and the sequence experienced in the corporate domain during an inflection point. Grove revealed that he wrote one of his books amidst one of these turbulent journeys that Intel went through around the 1980s suggesting that in that situation, he might have been escaping from recognizing the situation? Perhaps?
+
+
+
 
 <!--
 @meta @todo 
@@ -213,12 +256,13 @@ What we can take away from this, once again, is a simple idea but one that we ca
 @meta @todo 
 * @todo - p2 ( ) - In Running / Fears - Consider the #dup about Andy statement of himself writing a book while as a CEO he was needed to face major complications. The point was given somewhere else here in the book. As for the book ref, his points are given within "Let Chaos Reign" of - @meta-refid 1222-2333-4333-7666 
 
+* "With all the rhetoric about how management is about change, the fact is that we managers loathe change, especially when it involves us. Getting to a strategic inflection point involves confusion, uncertainty and disorder, both on a personal level if you are in management and on a strategic level for the enterprise as a whole. These two levels are more intimately connected than one might think." Andy Grove, p.123, Only the Paranoid Survive. 
+
 * We should also consider that the corporate version goes through the very exercise of transcending, such as when these companies fall into the modes of bets (check the usage of various levels of bets by the following paper article ft. Andy Grove). The consideration of a new style changing strategy, is then the realization of the need for transcending, searching a wider view - writing a book, acquision of companies, pre-mortem, you name it.  
 
 * "the RISC team was able to get almost a third of the company’s microprocessor development resources even though top management had not made a corporate-level strategic decision to pursue RISC;"  https://www.gsb.stanford.edu/gsb-box/route-download/318706 Feat. Andy Grove. 
 
 * "It is instructive to follow this development. What started as an autonomous initiative with Centrino during the tenure of one CEO became the driving force of the induced strategy process - by the name “platformization” - under the next CEO in early 2005. "  https://www.gsb.stanford.edu/gsb-box/route-download/318706 Feat. Andy Grove. 
-
 
 --> 
 
@@ -231,10 +275,22 @@ Andy Grove also articulated a corporate version of the potential for loss, self-
 
 
 <!--
-@outline - a1.x - Breaking the language for acessing?
+@outline - a3 - Accessing 
 -->
 
-#### Characterizations influencing courage  
+### Reframing 
+
+
+
+
+
+
+
+<!--
+@outline - a3.x - Breaking the language for acessing? #afraid
+--> 
+
+#### Challenging the narrative 
 
 
 
@@ -249,6 +305,47 @@ The insight from a research cited by "Are You Afraid to Identify as a Leader?, h
 > "At first glance, this may seem counterintuitive. Why would perceptions of riskiness influence something as deeply ingrained as your identity? From a psychological standpoint, however, this effect is not surprising at all. No one likes to think of themselves as driven by fear, and leadership can often come with substantial challenges. So, when pursuing leadership feels risky, people subconsciously redefine their own identities to justify avoiding it. It’s a lot more comfortable to rationalize an unwillingness to lead by telling yourself that you’re “just not a leader” than to admit that you’re afraid of what others might think." - https://hbr.org/2022/09/are-you-afraid-to-identify-as-a-leader
 
 > "And across our studies, we found that people who reported higher levels of fear around these reputational risks were less likely to see themselves as leaders. As a result, they were less likely to act as leaders, and therefore less likely to be seen as leaders by their supervisors." - https://hbr.org/2022/09/are-you-afraid-to-identify-as-a-leader 
+
+
+
+
+
+
+<!--
+@outline - a1.x - Detachment? Acessing knowledge? Splitting?
+-->
+
+#### To know or not to know 
+
+
+
+
+
+
+<!--
+@meta @todo 
+
+* @todo - p2 ( ) - In Running / Accessing - Consider the corporate case reflection from Andy and how it connects with the release from the "inertia of success" and encounter with the allowance for the curious case. @meta-refid 1223-6787-5456-9393
+
+* Note - Growth up situation releases control? * Solution, to fear of growth, knowledge access - "Resolution of strategic dissonance does not come in the form of a figurative light bulb going on. It comes through experimentation. Loosen up the level of control that the organization normally is accustomed to. Let people try different techniques, review different products, exploit different sales channels, and go after different customers. Much as management has been devoted to making and keeping order in the company, at times like this they must become more tolerant of the new and the different. Only stepping out of the old ruts will bring new insights." Andy Grove, p.130, Only the Paranoid Survive 
+
+* Note - To know or not to know - feat. Maslow - "In any case, this close relationship between knowing and doing can help us to interpret one cause of the fear of knowing as deeply a fear of doing, a fear of the consequences that flow from knowing, a fear of its dangerous responsibilities. Often it is better not to know, because if you did know, then you would have to act and stick your neck out. This is a little involved, a little like the man who said, quote, I'm so glad I don't like oysters, because if I liked oysters, I'd eat them, and I'd hate the darn things, unquote." p.63 Toward the Psychology of Being. 
+
+* Note - "But we know also that curiosity and exploration are higher needs than safety, which is to say that the need to feel safe, secure, unanxious and afraid is prepotent, stronger over curiosity." and / and "The young child in a strange environment will characteristically hang on to its mother and only then venture out little by little from her lap to probe into things, to explore and to probe. If she disappears and he becomes frightened, the curiosity disappears until safety is restored. She explores only out of a safe harbor." p.61 of Toward the Psychology of Being. 
+
+* Note - * To know, acessing - "The moment of fright is quite understandable, but must nevertheless be overcome if creation is to be possible. Thus, to discover in oneself a great talent can certainly bring exhilaration, but it also brings a fear of the dangers and responsibilities and duties of being a leader and of being all alone. Responsibility can be seen as a heavy burden and evaded as long as possible. Think of the mixture of feelings of awe, humility, even of fright that have been reported to us, let us say, by people who have been elected president." Maslow p 58-59
+
+--> 
+
+
+
+In this section we shall consider how fears can trigger us into doing something else, and the important of mitigating fears and being transparent about them in the first place. 
+
+To solve this, the first step is to recognize and observe. It's also useful to reflect during calm moments, not under pressure. For example, use the technique mentioned in the chapter "alternating currents" to parallelize exercises that help you mitigate fears and map them out. In this sense, the exercise pointed out by Tim Ferriss in "The 4-Hour Workweek" is valuable... [Insert Tim Ferriss exercise here]
+
+Writing down what can actually happen is a form of planning. Once mapped, what was a fear of the unknown becomes a more strategic map. In this activity, you end up outlining the intermediate steps necessary to solve the problem.
+
+Now, we deal with fear that creates blockage or censorship. As we exercise our ability to be creative, we get used to the idea of writing, drafting, discussing, and planning. This activity helps us move out of paralysis and into action. This supports the idea that the brave person is the scared one who took a step, or that the crazy one is the brave person who has no fear.
 
 
 
