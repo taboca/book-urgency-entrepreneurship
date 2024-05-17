@@ -217,16 +217,27 @@ Through Julia's explanations, we can see how she discovered this technique throu
 
 -->
 
-Doug Leone, partner of Sequoia Capital, explains how he keeps himself motivated and out of a comfort zone. He added that ""**raw fear**", is what motivates him; as he recalled the days when he would walk at the Stanford Shopping center, in 1988, making about 67000 dollars per year, knowing that he didn't have enough money to buy gifts (Stanford Graduate School of Business, 2014, 45:22). And went on, recognizing the fears that kept him to work, such as fear of being lay-off from Sequoia, fear of messing up with the life of entrepreneurs. Thus, for Doug, fear can be connected as a motivation force. That idea might be, for us now, an invitation to reflect that his views about fears might be in fact reflections of hopes, that may be for instance ways of his interpretations, ways to frame the path he is in. 
+Doug Leone, partner at Sequoia Capital, explains how he keeps himself motivated and out of his comfort zone. He added that "raw fear" is what motivates him. Fear, put in a way like a serious motivational force? There must be something in there. His idea invites us to reflect on fears connected to hopes:
+
+> *"But to me is just raw, raw fear. I remember walking in the Stanford Mall in 1988, making 67 thousand dollars and not really having enough money to buy presents. I remember those days, and they didn't feel very good, so I have this. I still have this fear that I'm going to be poor. I still have this fear that they're going to throw me out of Sequoia Capital. I still have this fear that I'm gonna, really mess up a founder. I have a great fear, you know, I've been on thirty boards and I have to admit, I messed up one company really good. Now, thankfully, I helped a whole bunch of others, but I fear that I have a huge sense of responsibility. I think fear would be, would be my number one thing. And it's not something I do, it's not a little game I play with myself, I actually, it kind of really gets me going. And, and, it drives me."* Doug Leone (Stanford Graduate School of Business, 2014, 45:20)
 
 <!--
 @references 
 * reference - Stanford Graduate School of Business. (2014, July 11). Sequoia Capital's Doug Leone on Luck & Taking Risks [Video file]. Retrieved from https://youtu.be/4cl8X02Xd1I
 --> 
 
+When listening to Doug's note, I noticed a truth but at the same time a puzzle. How come that in some circumstances, fear sets us to engage with a whole bunch of troubles and do what it takes to face the challenges, including the challenges of changing ourselves? That, instead of that other fear that drives us to inaction, to be defensive? But another truth was there too — right there, visible and materialized by his saying — exactly from that not so typical statement from an investor, a highly qualified one. That he talked about it, that he had given to us, the recording, the recounting, his testimony and his honesty; meaning that we had a window into his process of growing as a human and as an investor. That expression is part of his process. He is talking about his fears, that is, he is breaking things down.
 
+For Maslow, what is ahead, after us being triggered by a fear, is generally two options: to know or not to know. Although our willingness to talk about our fears is not a predictor for one or the other movement, into growth or to being defensive, it is a primary element for reflection anyway. In this regard, he celebrates the role of therapists who help people face their resistances as work essentially helping them to bear the truth (2011, p. 57). In this context, he quoted Freud, "To be completely honest with oneself is the very best effort a human being can make."
 
+Thus, if to know or not to know is the next step after being fearful, then talking about fears might be a door to it, and it may also help reduce our anxieties. When Doug framed, in retrospect, raw fear as an element, and recounted potential outcomes of inaction — e.g., messing up a founder, being ousted from Sequoia Capital — these are likely shortcut reminders. He is projecting the tiger that can bring a whole bunch of outcomes if he does not engage his lion. Thank you, Mr. Leone.
 
+> *"There are many ways of coping with such anxieties and some of these are cognitive. To such a person, the unfamiliar, the vaguely perceived, the mysterious, the hidden, the unexpected are all apt to the threatening. One way of rendering them familiar, predictable, manageable, controllable, i.e., frightening and harmless is to know them and to understand them. And so, knowledge may have not only a growing forward function, but also an anxiety reduction function, a protective homeostatic function."*  (Maslow, 2011, p. 61)
+
+<!--
+@references 
+* reference - Maslow, A. H. (2011). Toward the Psychology of Being. Martino Publishing.
+--> 
 
 
 
@@ -338,7 +349,7 @@ The insight from a research cited by "Are You Afraid to Identify as a Leader?, h
 
 * Note - Inductive vs. Automous, check Andy's paper Let the Chaos Reign too - Growth up situation releases control? * Solution, to fear of growth, knowledge access - "Resolution of strategic dissonance does not come in the form of a figurative light bulb going on. It comes through experimentation. Loosen up the level of control that the organization normally is accustomed to. Let people try different techniques, review different products, exploit different sales channels, and go after different customers. Much as management has been devoted to making and keeping order in the company, at times like this they must become more tolerant of the new and the different. Only stepping out of the old ruts will bring new insights." Andy Grove, p.130, Only the Paranoid Survive 
 
-* Note - To know or not to know - feat. Maslow - "In any case, this close relationship between knowing and doing can help us to interpret one cause of the fear of knowing as deeply a fear of doing, a fear of the consequences that flow from knowing, a fear of its dangerous responsibilities. Often it is better not to know, because if you did know, then you would have to act and stick your neck out. This is a little involved, a little like the man who said, quote, I'm so glad I don't like oysters, because if I liked oysters, I'd eat them, and I'd hate the darn things, unquote." p.63 Toward the Psychology of Being. 
+* Note - To know or not to know - feat. Maslow - "In any case, this close relationship between knowing and doing can help us to interpret one cause of the fear of knowing as deeply a fear of doing, a fear of the consequences that flow from knowing, a fear of its dangerous responsibilities. Often it is better not to know, because if you did know, then you would have to act and stick your neck out. This is a little involved, a little like the man who said, "I'm so glad I don't like oysters, because if I liked oysters, I'd eat them, and I'd hate the darn things'" p.63 Toward the Psychology of Being. 
 
 * Note - "But we know also that curiosity and exploration are higher needs than safety, which is to say that the need to feel safe, secure, unanxious and afraid is prepotent, stronger over curiosity." and / and "The young child in a strange environment will characteristically hang on to its mother and only then venture out little by little from her lap to probe into things, to explore and to probe. If she disappears and he becomes frightened, the curiosity disappears until safety is restored. She explores only out of a safe harbor." p.61 of Toward the Psychology of Being. 
 
