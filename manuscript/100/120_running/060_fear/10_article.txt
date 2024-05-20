@@ -14,9 +14,8 @@
 
 
 
-We want to feel emotions, we want to recognize fear, we want to allow ourselves to be vulnerable. These aren't  statements that we generally get busy with, or think of, in the entrepreneurial or even the corporate setting, in the arena. It sounds a bit like some touchy-feely issues [^footnote_andygrove_touchy_feely], or perhaps things for a therapy session. On the other hand, it is also unfair to think that entrepreneurs don't feel and reflect about their fears. I fear that fear happens in the work day the other way around - that fear is naturally felt in the and it is seamlessly well-administered in the life of founders, their start-ups and even grown-up companies.
+On the other hand, it is also unfair to think that entrepreneurs don't feel and reflect about their fears. I fear that fear happens in the work day the other way around - that fear is naturally felt in the and it is seamlessly well-administered in the life of founders, their start-ups and even grown-up companies.
 
-[^footnote_andygrove_touchy_feely]: In his book *Only the Paranoid Survive* (1999), Andy Grove discusses, in *Let Chaos Reign*, what he calls *The Touchy-feely Issues*, that in certain situations, particularly those faced by large corporations, managers often react emotionally to crises (p. 123) as business people are humans where their personal growth and emotions are closely tied to the identity and well-being of their business.
 
 Fear might actually affect to move mountains, perhaps grain-by-grain the fast-paced world accumulating amounts of energy, deploying resources, using time, in other words, the fear that appears as a fuel and gives us direction and then the impulse to run, to do things faster. But what we don't generally consider is the possibility of the other kind of fear, the fear that sets us to go back to safety. No matter which condition stage of growth we are in, there's always a kind of fear that appears that may increase anxiety, where we don't want to know, don't want to get there and we rather stick by an unshakable faith within the course and the given perspective.
 
@@ -26,10 +25,10 @@ Fear might actually affect to move mountains, perhaps grain-by-grain the fast-pa
 
 
 <!--
-@outline - situation - Fear is in us, humans carry. It gets into the language. 
+@outline - situation - Fear is in us, humans carry, drives survival. It gets into the language. 
 --> 
 
-If we set a time machine to somewhere 30000 to 36000 years ago, and find a human on a tree fearing the fearless wolf that paciently waits, we can visualize - and respect - that feeling which improves the chances for survival in the face of the danger. Someone in your ancestors tree feared a treat so that you can be reading this book and somehow feeling connected with that ancestor who survived. But back to the future of now, the metaphor that fears move mountains makes sense as decisions in the knowledge economy, especially in the digital landscape, are not disconnected from what we perceive, what we think, and what we feel. The mountain of now can be the pile of resources, such as money, or time. The wolves of now can be the competitor. And your organization is the tree of now, where we can go up and down, and hoping to survive. And we you do so, my hope that we can have the time to reflect, first, and to come down from that tree and paint about that situation-complication, to help ourselves with a reflection and the next generation helping us. 
+If we set a time machine to somewhere 30000 to 36000 years ago, and find a human on a tree fearing the fearless wolf that paciently waits, we can visualize - and respect - that feeling which improves the chances for survival in the face of the danger. Someone in your ancestors tree feared a similar threat since you are now reading this book, feeling connected with that ancestor, next to your puppy, Wolfie. But back to the future of now, the metaphor that fears move mountains makes sense as decisions in the knowledge economy, especially in the digital landscape, are not disconnected from what we perceive, what we think, and what we feel. The mountain of now can be the pile of resources, such as money, or time. The wolves of now can be the competitor. And your organization is the tree of now, where we can go up and down, and hoping to survive. And we you do so, my hope that we can have the time to reflect, first, and to come down from that tree and paint about that situation-complication, to help ourselves with a reflection and the next generation helping us. 
 
 If some of that sounds far from where we are, I fear that we must confront, or celebrate, or accept, the fact that narratives driven by fear are quite naturally administered into the veins of our corporate body - even to a point where we don't make sense of how our now-networked brain responds. And all of this becomes even more serious given that the startup situation deals with threats as projections, idealized, more than real threats of the present. In other words, because growth is expected and ahead, and risks or prizes are there; it follows an implied element of risk analysis and the potential that larger sums of resources are lined up to be deployed under the expectation that it will support growth to happen. In other words, a lot is based on signals, or perceptions, therefore less related to real threats or iminent risk. 
 
@@ -79,12 +78,12 @@ We'll start by visualizing how fear appears in the normal, average day of work a
 
 
 <!--
-@outline - A1 - Stakes are high, fears are in the language, in the enviroment, even to take us to act. 
+@outline - Ax.x - Stakes are high, fears are in the language, in the enviroment, even to take us to act. 
 --> 
 
 
 
-### Now the stakes are high, put that coffee down!  
+### The stakes are high, put that coffee down!  
 
 
 
@@ -101,9 +100,6 @@ With these examples, I am not saying that all employees, and management, that ev
 
 
 
-<!--
-@outline - a2 - Recognizing 
--->
 
 
 
@@ -113,12 +109,10 @@ With these examples, I am not saying that all employees, and management, that ev
 
 
 <!--
-@outline - a2.0 - Struggle, understanding 
-@outline - a2.x - Fears and principles?
-@outline - a2.x - Recognition of masking or denial
+@outline - a2.x - Fear at strategic? Driven by fears and acessing knowledge? 
 -->
 
-### Fear not, fears
+#### Fear not, fears - can we talk about it?
 
 
 
@@ -168,20 +162,158 @@ The entrepreneur that embraces their fears, which allow the conflict and asks fo
 
 
 
+<!--
+@outline - a2.x - From being right to being honest (blocking fear, individual)
+-->
+
+### From being right to being honest
+
+
+
+
+
 
 
 <!--
-@outline - a2.0 - Struggle, understanding 
-@outline - a2.x - Fears and the corporate feardful?
+@outline - ax.x - Being right, standing, not outstanding - Critic that is blocking; frightened of being wrong; (Feat. Julia Cameron, Feat. Sir Ken Robinson)
+--> 
+
+
+The subject in this section considers how entrepreneurs are pressured in ways to be blocked, as they feel a need to do things right. While it may work in some circumstances, we may take that ship to interesting places, yet it may be so that something in the core of ourselves builds up, as in an internal mutilation happening that make us appear to be right, to be integer, while standing, not outstanding. 
+
+No one doing entrepreneurship expects a bad outcome, as in a product that fails, a service that is not welcomed, a solution that is poor. We all expect the best, noone doubts that - it's inescapable. And it also makes a lot of sense to not be arbitrary, although we understand the importance of zooming out to access a wider view before converging, polishing, concretizing.
+
+A challenge, though, comes our way which comes from something great we learned as humans, something that we discussed too in the prior section; that as we do, as we run, as we follow duty of the calling, we do in a way by playing nice with our audiences. In other words, we might be operating with our specialist first, being safe, pleasing as well, expecting the best of course. Thus, we want to advance, we have aspiring goals, and we know too that the path is uncertain, that path of growth for the startup and for ourselves. But we want to do it with a degree of caution, by moving with an approval system, in a way going back to the leg of our mother, the entrepreneurial mother. We constantly may be asking her permission. By trying to do it right, we may get into places that we may not even desire too, such as to places we don't want to be, places we find ourselves lacking movement, lacking creativity, lacking energy, to be bored, to not find value or meaning for ourselves or with our audiences. 
+
+
+
+> *"They're not frightened of being wrong. I don't mean to say that being wrong is the same thing as being creative. What we do know is, if you're not prepared to be wrong, you'll never come up with anything original -- if you're not prepared to be wrong. And by the time they get to be adults, most kids have lost that capacity. They have become frightened of being wrong. And we run our companies like this. We stigmatize mistakes. And we're now running national education systems where mistakes are the worst thing you can make. And the result is that we are educating people out of their creative capacities."* Sir Ken Robinson (TED Conferences, 2006)
+
+<!--
+@references 
+* reference - Robinson, K. (2006, June). Do schools kill creativity? [Video]. TED Conferences. https://www.ted.com/talks/sir_ken_robinson_do_schools_kill_creativity
+--> 
+
+
+
+
+
+To not be meaningful which is not different from a writer trying to reach a good writer by first trying to write in the right ways. Point from Julia Cameron that what "we learn in school" has to do with a prose "that actually bores a lot of us out of writing". The thinking pushes us, according to her, "If you can't say anything nice - or nicely - don't say anything at all". That, according to Julia, is what we were taught. Yes, it damages us. For writing, she urges us to move out of that thinking, and mindset, or frameset. She suggests, towars what she believes is the enligthening way of supporting oneself towards *The Right to Write*,  to engage in a new way of doing it, "if only we could give ourselves permission to write 'badly,' so many of us would write very well indeed. "
+
+Let us deepen this discussion, first by relating the entrepreneurial journey to writing, where the focus on being 'right' can lead to outcomes that are technically correct but lack soul or engagement. Next we will reflect that the key is to open up a conscious and creative pace of running; and we shall conclude reflecting that the critic will always come anyway, but that it can be a friendly one, not an enemy. 
+
+
+
+
+
+
+<!--
+@outline - startup like a game 
+--> 
+
+#### Startup can played, like a game 
+
+Here is where Julia Cameron comes to us again, her contribution set us into the enlighted ways and one that starts with permission. Permission to step into the opportunity path, permission to seek for engagement, for meaning, which may also mean that the path may appear to be wrong. By the way this opportunity path is about stepping into what would be the "bad writing that leads to good writing" or the "bad entrepreneurship of good entrepreneurshp". First, managing the possibility part, is pilar 1, supporting pilar. It's okay and real stories are not made of following the right stones and the "side B" of what it takes to do things matters. We need to grasp that first. That is that. 
+
+Complex because being right, for the startup, may not look different from trying to be right for writing, as in good grammar or trying to write what others want to listen. In the startup situation the being right can be come out differently although the essence connects with being right in the eyes of another audience. And which is one of the criteria for the "right paths"? Following the stones such as the milestones that other successful stories, such as the milestones of success, seeking approaval from customers, from investors, from a process system that is seen as a validating process, sounding right to an advisor, and more. 
+
+It is complex because in the startup situation it may be, for example, that quite exciting things are the actual things that are expected by this external system, an audience which we may want to please. The point is that colorful pathways can be these right pathways, and can be given by frameworks which can be seen as the right way of doing as told by their environment. It may be that the team sets a mat in front of them which in a way tells them where to jump - like a jump to conclusions mat [^footnote_jump_conclusions_mat], one which they can jump to, step into the right spots. 
+
+[^footnote_jump_conclusions_mat]: The "Jump to Conclusions Mat" isn't really a game but a fictional product referred in the movie *Office Space*, to symbolize that humans may come up with systems that are meant to help them; but too that their own systems can also be means for executing and deciding in ways they want, as in to exercise control and not for being used as systems for comprehension. In the game, the player can "jump" to, literally by jumping on different labeled conclusions. The humor and satire of the game serve as a metaphor for the human tendency to jump to conclusions without sufficient evidence or reasoning. This product humorously critiques our often premature or simplistic decision-making processes, reflecting the broader comedic tone of the movie in which it appears.
+
+
+
+
+
+
+
+The author Dov Seidman, in "How" (check page), introduces the concept of the Valley of Difficulty (check the name of the Valley) which describes the "paths" people go through when they face challenges; and he compares people who get a "B" grade with those who get an "A" and those who get a "C". The curve goes from "B" to "A", passing through "C". He points out, citing research (check), that between the "B" grade and the "A" grade there is a valley, a confusing and arduous place where many people get lost and end up stuck in the valley, receiving the "C" grade.
+
+This space in the middle is a confusing zone that indeed demotivates many people, a valley that can be gloomy, in the sense that many get bogged down there. But those who pass through it manage to succumb (rise) and reach a clearer space, the "A" grade.
+
+We all recognize that many things are difficult, because there is this pressure to do better - we are always comparing our work to the external world. So often the "task" to be done, the challenge, becomes nebulous precisely because our reference is the external world - for example, many of the challenges faced by entrepreneurs are guided by metrics, like the idea of being better, faster, cheaper. Often, the pilgrimage in this valley becomes indeed frustrating because it starts with parameters, becomes mediocre, when it is limited to having to differentiate from something that others do, such as competition.
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+@outline - Controlling creativity, not chaos, but transcending with chaotic possibly 
+--> 
+
+#### Controlling creativity 
+
+
+
+Maslow See the point? The real point is about trying to control success, which is not the creative mindset. The colorful and likely bad writing of a writer's path is the bad of unknown which, for one that expects to be a writing, the not allowed path. Why? Because it would be boring, too painful, not possible to grab success with that uncertainty.  
+
+It's not about doing the bad and arbitrary and even colorful which is meant for the sake of executing chaos as if chaos means creativity. Or, on the other hand, the right outcome that has not color, the extremmes. These are two faces of operating as in trying to control, a movement that is forced. In this regard, I would like to bring a concrete contribution from Maslow from *Maslow on Management*. When he refers to the creative being, the being that does not control the outcome. But see, the creative is not random too. He or she is just outside the pressure system of trying to control: 
+
+> *"Need to pick the Reference of quotation and page for this Maslow of Management article about the creative person."* 
+
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Running / Err is okay - Bring a quote from Maslow on Management about the creative. @meta-refid 1212-2323-4443-7676
 -->
 
-### The fearfull beast   
+This allowing may set the team into joyful findings, if we put ourselves into the possibility. Thus, this is about having fun too, as a path. A gentlemen which I met in the bus one day asked me to organize the company, the room, without worrying about the outcome, that things would work in the end. I felt something big there as in "do not control". In the releasing control, as an exercise of process, we can find joy too, a calmness. What if we can do that "in the day" as opposed to "in the year" or "in the week" in opposed to "in the month". See, going back to recognizing the axis of the free and creative (not right) versus the controled and right way, we can unleash us into the "moments of relaxation" which may in fact set us into having clear views about the whole thing.  
+
+
+
+
+
+Investor Paul Graham created another illustration for a different type of valley that also affects entrepreneurs, called the "Valley of Sorrow," shown below.
+
+[Figure of Paul Graham's Valley of Sorrow]
+
+In Paul Graham's version, entrepreneurs launch their products and initially gain some traction—they get media coverage and experience a sort of pre-carnival; but soon they find themselves alone, without users or customers, and no longer appear in the media. They have passed through. In this zone, many give up. Still, in the optimistic narrative, the survivors find themselves on a slow growth curve; and this is Paul Graham's advice for entrepreneurs to focus on learning and gaining real traction with their customers—the trend of "doing things that don't scale," a topic for the next section. [Check which section].
+
+[Check if this article is redundant due to another article somewhere that also talked about Paul Graham's Valley of Sorrow]
+
+But Paul made this forecast, based on experience, observation. Perhaps this version of the valley of sorrow came out with this drawing, this initial curve followed by a valley, a slow and arduous pilgrimage, precisely because at some point the world, the entrepreneurs, began to operate "on the wave" of previous successful models, from others. Paul Graham's valley is very clear on the first mountain.
+
+[Figure of an ascending curve, without the valley; versus the curve with the valley. Showing the initial problem]
+
+It can then be articulated that the problem of the valley, or relevant issue, stems from the initial urgency, in the first place - the intention to launch into the world, perhaps artificially.
 
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+        @outline - Corporate beast fearful (AG)
+-->
+
+#### Grown up blocky situations 
+
+
+
+
+We want to feel emotions, we want to recognize fear, we want to allow ourselves to be vulnerable. These aren't  statements that we generally get busy with, or think of, in the entrepreneurial space or in the corporate arena. It sounds a bit like some touchy-feely issues [^footnote_andygrove_touchy_feely], or perhaps things for a therapy session. 
+
+[^footnote_andygrove_touchy_feely]: In his book *Only the Paranoid Survive* (1999), Andy Grove discusses, in *Let Chaos Reign*, what he calls *The Touchy-feely Issues*, that in certain situations, particularly those faced by large corporations, managers often react emotionally to crises (p. 123) as business people are humans where their personal growth and emotions are closely tied to the identity and well-being of their business.
 
 So a real complicated question would not even rise here, not normally, not in the work setting in general. We know that the average runner is not talking, or reflective about that, perhaps more foused in the running by the fears that drives the movement, from the threats real or not than to consider the dynamics of themselves when they are more or less fearfull, being more or less anxious, more or less inclined to supress anxiety by either facing acessing knowleldge or living the denial of it and focusing in what is known. 
 
@@ -205,55 +337,92 @@ He suggests a parallel between the sequence of losing a loved one and the sequen
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
-@meta @todo 
-* @todo - p2 ( ) - In Running / Fear - Check where Andy Grove talked about fear and the phases of grief. @meta-refid 1223-3345-8874-4844
+@outline - a3.x - Reframing our identities
+--> 
+
+### Challenging our identities: to know or not to know 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+    @outline - Friendly critic (#autonomous #creative)
 --> 
 
 
-
-
 <!--
-Diverging or transcending?
+@meta @todo 
+* @todo - p2 ( ) - In Running / Err is okay - Bring something from Dorothea Brande - @meta-refid 1212-7876-4443-7676
 -->
 
-What we can take away from this, once again, is a simple idea but one that we cannot ignore—we are human, we feel, and we will likely coordinate our entrepreneurial actions based on emotions. However, this doesn't mean we can't take time to recognize and reflect on all this. If the former Intel CEO recognizes that he was escaping from a larger problem by writing a book, could it be that we also sometimes engage in certain responsible actions as a form of blocking or self-defense to avoid feeling loss or strong emotions like fear and insecurity?
+For writing, according to our Julia Cameron, it works and works and it is the only way, for real, to get there. Yes, fixing the grammar and a conscious path is a must. The same for entrepreneneuship, the release of control also involves allowence go the joy of the day and the release of stress of trying to control - being romantic control or systematic control. See, for founders, controlling sales, or success can also be romantic control. What matters is coordination, with time and opportunity, moving, and of course, managing goals from time to time.  
+
+
+
+
+
+
+
+If we subtract the normal growth curve from Paul Graham's curve, we have the hill of promise:
+
+[Figure of the hill of promise]
+
+Then we can formalize that entrepreneurs must be aware of their urgent steps when they enter the launch field. Because launches promise. The most important point, number one, is awareness and managing expectations - we must thank Paul Graham for reminding us that if things calm down, if they get boring, if the customer doesn't show up, etc., etc.; you weren't the first to go through this and you won't be the last. This path demands you to continue, and use the calm to learn and improve your solution, business, product, relationship, etc.
+
+Point number two, that the initial promise, the launch - call it what you will - should be seen more coldly, as an experiment. This is a mindset and doing so not only creates less frustration but also helps in structuring the episode with more rigor and less bet, like thinking it will work out. This model of strategizing says that there is an overarching meta control - as if it were a premeditated battle where the outcome, positive or negative, is always positive, an experiment.
+
+Now, looking at a more generalized issue regarding these two valleys - all of them and those who created them are warning us so that we can proceed, to be resilient. That is the main message allied to the message that says we were not the first and we will not be the last who will face these valleys.
+
+But connected to this idea is an optimistic view, if we assume that the investment is precisely in the field of the valley, if we think it is worth it. The valley, in the optimistic view, of that entrepreneur or group that sees it as a challenge - and that allows time and invests in the situation - is the great opportunity. The valley is the real work that must be done, and the process of walking through it needs to be nurtured. It all starts with permission and time allocated. It's not to say that time pressure should be eliminated, that no schedule is needed. But it is to say that the solution should not be dominated by a time schedule only and that sometimes the group needs to launch into the valley with positive energy, with an attitude of understanding the problem and with curiosity as its guide.
+
+The valley is the opportunity, not the death.
+
+
+
+
+
+
+
+
+
+
 
 <!--
-@meta @todo 
-* @todo - p2 ( ) - In Running / Fears - Consider the #dup about Andy statement of himself writing a book while as a CEO he was needed to face major complications. The point was given somewhere else here in the book. As for the book ref, his points are given within "Let Chaos Reign" of - @meta-refid 1222-2333-4333-7666 
-
-* "With all the rhetoric about how management is about change, the fact is that we managers loathe change, especially when it involves us. Getting to a strategic inflection point involves confusion, uncertainty and disorder, both on a personal level if you are in management and on a strategic level for the enterprise as a whole. These two levels are more intimately connected than one might think." Andy Grove, p.123, Only the Paranoid Survive. 
-
-* We should also consider that the corporate version goes through the very exercise of transcending, such as when these companies fall into the modes of bets (check the usage of various levels of bets by the following paper article ft. Andy Grove). The consideration of a new style changing strategy, is then the realization of the need for transcending, searching a wider view - writing a book, acquision of companies, pre-mortem, you name it.  
-
-* "the RISC team was able to get almost a third of the company’s microprocessor development resources even though top management had not made a corporate-level strategic decision to pursue RISC;"  https://www.gsb.stanford.edu/gsb-box/route-download/318706 Feat. Andy Grove. 
-
-* "It is instructive to follow this development. What started as an autonomous initiative with Centrino during the tenure of one CEO became the driving force of the induced strategy process - by the name “platformization” - under the next CEO in early 2005. "  https://www.gsb.stanford.edu/gsb-box/route-download/318706 Feat. Andy Grove. 
-
---> 
-
-
-Andy Grove also articulated a corporate version of the potential for loss, self-defense—a situation where companies going through said inflection points decide to buy other companies. He questioned, in "Only the Paranoid Survive," why Japanese electronics companies, undergoing significant changes in their markets and industry, bought movie studios. For Grove, this could represent a form of escapism that ends up completely occupying managers' attention; they become too busy, they want to be occupied.
-
-
-
-
-
-
-
-
-<!--
-@outline - a3.x - Breaking the language for acessing? #afraid
---> 
-
-### Challenging the narrative 
-
-
-
-
-
-
+    @outline - Reframing or breaking the language for acessing? (Allowance fits?)
+-->
 
 The insight from a research cited by "Are You Afraid to Identify as a Leader?, has shown that how challenge it is to support the developement of leaders as the consideration of a self-identity of a leader, has brought reputational concerns. As an example, employees might fear being seen as autocratic, different, or unqualified, when they consider themselves to embrace the role of leaders. Their research  suggests that organizations can impact the development of leaders and support a viewpoint that affects the psychological standpoint as taking leadership roles can be viewed as positive, and can be shown to be an area that is oriented to skills, and not as an innate ability: 
 
@@ -267,12 +436,18 @@ The insight from a research cited by "Are You Afraid to Identify as a Leader?, h
 
 
 
+
+
+
+
+
+
+
+
+
 <!--
-@outline - a1.1 - Storied context, narratives social 
+@outline - Challenging the values shaping our identity and language
 --> 
-
-### Homeostatic regulation of identity, to know or not to know 
-
 
 
 
@@ -314,6 +489,71 @@ Now the fact that the advertising "of the west world" has discovered - by measur
 
 But if what is told makes people fear is only does so effectively in the face of an ongoing conversaion, an ongoing train that is moving. We recognize this train of thought if we imagine a team of people in a locomotive where the destination is a city but out of the sudden the train stops right before a bridge. In this situation, if someone says that they might have stopped to appreciate the view, some people might laugh or be mad with the realization of the irony or how the observation does not fit the reality of what is happening. Thus the storied context makes the possibility for what is told to be coherent or not, to be truthful or not. Thus in the tracks of our work projects, such as an entrepreneurial effort, w happens is that things go awry, or appears to be going in the bad direction, exactly as we want things to go in a certain direction, such as to stop by a key result associated with a higher-order objective or destination. All sort of situations that trigger fears such as the consideration that projects are going to be abruptly terminated, such as that layoffs as necessary, or if an entire division needs to be closed. And how certain things are triggered to our lives appears in different ways, because one may feel compassion for the people who could be affected, or when a leader feels in a position of being a messenger for a cause, a train conductor, you name it. Just as a train conductor is happy when the train is running smoothly and feels bad when it's no longer operational, the context of entrepreneurship and businesses also means a track of possibilities where the performers are protagonists who cares more than being apatic participants in a train moving to a random place. We aren't moving to an arbitrary place and we are not apatic participants. We are moving towards aspiring goals and we are humans. 
 
-Thus the work situation, and especially the entrepreneurial situation, creates a stotied context where certain values are established and helps to create an equilibrium. These values can be acessed if we dig into reflecting within actionable ideas like "we need to keep working in this project tonight" which might be associated with expectations of significant milestones, such as expected state of happiness of the team, expected state of security to the team or the project, or any measure of success that is ahead. Thus it's natural for a person's identity to be linked as a responsible being, as a protagonist, emotionally and ethically connected to a duty. Conversely, it is natural to expect that a failure to do so, to operate towards the success, might trigger an actual real impact to their lives, like the unsolvency of their ability to work, which triggers other fears as, for example, people may need to work for money or other reason they hold as value. Suddenly, due to various factors, external or internal, experienced or perceived, the protagonists find themselves crafting narratives that are powerful in the face of the experience of fears they project. 
+Thus the work situation, and especially the entrepreneurial situation, creates a storied context where certain values are established and helps to create an equilibrium. These values can be acessed if we dig into reflecting within actionable ideas like "we need to keep working in this project tonight" which might be associated with expectations of significant milestones, such as expected state of happiness of the team, expected state of security to the team or the project, or any measure of success that is ahead. Thus it's natural for a person's identity to be linked as a responsible being, as a protagonist, emotionally and ethically connected to a duty. Conversely, it is natural to expect that a failure to do so, to operate towards the success, might trigger an actual real impact to their lives, like the unsolvency of their ability to work, which triggers other fears as, for example, people may need to work for money or other reason they hold as value. Suddenly, due to various factors, external or internal, experienced or perceived, the protagonists find themselves crafting narratives that are powerful in the face of the experience of fears they project. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+    @outline - Transcending moment is complex to know (AG) 
+--> 
+
+
+
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Running / Fear - Check where Andy Grove talked about fear and the phases of grief. @meta-refid 1223-3345-8874-4844
+--> 
+
+
+
+
+<!--
+Diverging or transcending?
+-->
+
+What we can take away from this, once again, is a simple idea but one that we cannot ignore—we are human, we feel, and we will likely coordinate our entrepreneurial actions based on emotions. However, this doesn't mean we can't take time to recognize and reflect on all this. If the former Intel CEO recognizes that he was escaping from a larger problem by writing a book, could it be that we also sometimes engage in certain responsible actions as a form of blocking or self-defense to avoid feeling loss or strong emotions like fear and insecurity?
+
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Running / Fears - Consider the #dup about Andy statement of himself writing a book while as a CEO he was needed to face major complications. The point was given somewhere else here in the book. As for the book ref, his points are given within "Let Chaos Reign" of - @meta-refid 1222-2333-4333-7666 
+
+* "With all the rhetoric about how management is about change, the fact is that we managers loathe change, especially when it involves us. Getting to a strategic inflection point involves confusion, uncertainty and disorder, both on a personal level if you are in management and on a strategic level for the enterprise as a whole. These two levels are more intimately connected than one might think." Andy Grove, p.123, Only the Paranoid Survive. 
+
+* We should also consider that the corporate version goes through the very exercise of transcending, such as when these companies fall into the modes of bets (check the usage of various levels of bets by the following paper article ft. Andy Grove). The consideration of a new style changing strategy, is then the realization of the need for transcending, searching a wider view - writing a book, acquision of companies, pre-mortem, you name it.  
+
+* "the RISC team was able to get almost a third of the company’s microprocessor development resources even though top management had not made a corporate-level strategic decision to pursue RISC;"  https://www.gsb.stanford.edu/gsb-box/route-download/318706 Feat. Andy Grove. 
+
+* "It is instructive to follow this development. What started as an autonomous initiative with Centrino during the tenure of one CEO became the driving force of the induced strategy process - by the name “platformization” - under the next CEO in early 2005. "  https://www.gsb.stanford.edu/gsb-box/route-download/318706 Feat. Andy Grove. 
+
+--> 
+
+
+Andy Grove also articulated a corporate version of the potential for loss, self-defense—a situation where companies going through said inflection points decide to buy other companies. He questioned, in "Only the Paranoid Survive," why Japanese electronics companies, undergoing significant changes in their markets and industry, bought movie studios. For Grove, this could represent a form of escapism that ends up completely occupying managers' attention; they become too busy, they want to be occupied.
+
+
+
+
+
+
+
+
+
+
 
 
