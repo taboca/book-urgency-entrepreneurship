@@ -9,16 +9,14 @@
     @outline - a2.x - Fear at strategic? Driven by fears and acessing knowledge? 
 
 @outline - a2.x - From being right to being honest 
-        @outline - Being right, standing, not outstanding (JC) 
-        @outline - Startup like a game (Risk of bring right startup, leading to blocking) 
-        @outline - Controlling creativity, not chaos, but transcending with chaotic possibly (Sorrow)
-        @outline - Corporate beast fearful (AG)
+    @outline - Being right, standing, not outstanding (JC) 
+    @outline - Startup like a game (Risk of bring right startup, leading to blocking) 
+    @outline - Controlling creativity, not chaos, but transcending with chaotic possibly (Sorrow)
+    @outline - Corporate beast fearful (AG)
 
 @outline - a3.x - Reframing out identities
-
     (Final considerations of identity, of senior identity challenges, and specialists challenges roles lost)
     (Do you have the time to invest in change for who?)
-
     @outline - Friendly critic (#autonomous #creative)
     @outline - Reframing or breaking the language for acessing? (Allowance fits?)
     @outline - Challenging the values shaping our identity and language
