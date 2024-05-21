@@ -210,9 +210,13 @@ Maslow, A. H. (2011). Toward the Psychology of Being. Martino Publishing.
 Grove, A. (1999). Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company. Crown Publishing.
 
 
+Fisher, M. (2023). A Máquina do Caos: Como as Redes Sociais Reprogramaram Nossa Mente e Nosso Mundo. Todavia.
 
+Graham, P. (2014, September 23). Lecture 3 - Before the Startup [Video]. YouTube. Y Combinator: The Vault. https://www.youtube.com/watch?v=ii1jcLg-eIQ
 
+Charman, T. (2015, June 18). The difference between Bootcamps, Incubators and Accelerators. Tom Charman. Retrieved from https://medium.com/business-startup-development-and-more/the-difference-between-bootcamps-incubators-and-accelerators-632a4d4e8bd8
 
+Dov Seidman. (2007). How: Why How We Do Anything Means Everything. Wiley.
 
 
 
@@ -472,21 +476,7 @@ Stone, B. (2017). The Upstarts: How Uber, Airbnb, and the Killer Companies of th
 
 Blank, S. (2021, November 4). How to Find a Market? Use Jobs-To-Be-Done as the Front End of Customer Discovery. Steve Blank. https://steveblank.com/2021/11/04/market-definition-its-the-front-end-of-customer-discovery/
 
-<!-- 
 
-     From 210_self_staging.txt
-
--->
-
-Charman, T. (2015, June 18). The difference between Bootcamps, Incubators and Accelerators. Business Daily: Startups, Business Development, Management. Retrieved from https://medium.com/business-startup-development-and-more/the-difference-between-bootcamps-incubators-and-accelerators-632a4d4e8bd8
-
-Chen, A. (n.d.). After the TechCrunch bump: Life in the “Trough of Sorrow". Andrew Chen. Retrieved from https://andrewchen.com/after-the-techcrunch-bump-life-in-the-trough-of-sorrow/
-
-<!-- Arrumar edição, Marcio tem o livro --> 
-
-Fisher, M. (2023). A Máquina do Caos: Como as Redes Sociais Reprogramaram Nossa Mente e Nosso Mundo. Todavia.
-
-Graham, P. (2014, September 23). Lecture 3 - Before the Startup [Video]. YouTube. Y Combinator: The Vault. https://www.youtube.com/watch?v=ii1jcLg-eIQ
 
 <!-- 
 * From 450_passing_on_stories.txt 

@@ -4,25 +4,24 @@
 @outline - Startup trying to be right 
 --> 
 
-#### On the right side (of the bad road) 
+#### On the right side (of a bad road) 
 
-Here is where Julia Cameron comes to us again, her contribution set us into the enlighted ways and one that starts with permission. Permission to step into the opportunity path, permission to seek for engagement, for meaning, which may also mean that the path may appear to be wrong. By the way this opportunity path is about stepping into what would be the "bad writing that leads to good writing" or the "bad entrepreneurship of good entrepreneurshp". First, managing the possibility part, is pilar 1, supporting pilar. It's okay and real stories are not made of following the right stones and the "side B" of what it takes to do things matters. We need to grasp that first. That is that. 
+What Julia suggests to the yet-to-become good and great writers is a path that starts with permission. Permission that will certainly bring a criticism of being wrong. Nevertheless, asking us into the stepping into what would be the "bad writing that leads to good writing" or the bad entrepreneurial actions that leads to good entrepreneurship may too suffer from a space of interactions with the environment, given that we are in a path of interactions with audiences and also with the environment that speaks to us as we have discussed.  
 
-Complex because being right, for the startup, may not look different from trying to be right for writing, as in good grammar or trying to write what others want to listen. In the startup situation the being right can be come out differently although the essence connects with being right in the eyes of another audience. And which is one of the criteria for the "right paths"? Following the stones such as the milestones that other successful stories, such as the milestones of success, seeking approaval from customers, from investors, from a process system that is seen as a validating process, sounding right to an advisor, and more. 
-
-It is complex because in the startup situation it may be, for example, that quite exciting things are the actual things that are expected by this external system, an audience which we may want to please. The point is that colorful pathways can be these right pathways, and can be given by frameworks which can be seen as the right way of doing as told by their environment. It may be that the team sets a mat in front of them which in a way tells them where to jump - like a jump to conclusions mat [^footnote_jump_conclusions_mat], one which they can jump to, step into the right spots. 
-
-[^footnote_jump_conclusions_mat]: The "Jump to Conclusions Mat" isn't really a game but a fictional product referred in the movie *Office Space*, to symbolize that humans may come up with systems that are meant to help them; but too that their own systems can also be means for executing and deciding in ways they want, as in to exercise control and not for being used as systems for comprehension. In the game, the player can "jump" to, literally by jumping on different labeled conclusions. The humor and satire of the game serve as a metaphor for the human tendency to jump to conclusions without sufficient evidence or reasoning. This product humorously critiques our often premature or simplistic decision-making processes, reflecting the broader comedic tone of the movie in which it appears.
+In other words, the startup pathways can indeed bring so many exciting confirmations, or validations, given by the external systems, an audience which we may want to please or one which are might be somewhat pleasing, so actual colorful things may come our ways, if not support that we are right by the frameworks - like accelerators, incubators, mentors, early customers, which can be seen as the right way of doing as told by this environment.
 
 
+<!-- 
+@meta @todo 
+* @todo - p2 ( ) - In Running / Fears - Check concept, check page, and check the name of the valley, given by Dov Seidman in How. @meta-refid 1212-3323-7676-8484
+--> 
 
+The author Dov Seidman, in *How: Why How We Do Anything Means Everything*, introduces the concept of the *Valley of Confusion* which describes the "paths" people go through when they face challenges. He compares people who get a "B" grade with those who get an "A" and those who get a "C". The curve that many do is that in their attempt to go from "B" to "A" they end up falling into the "C" grade. This space in the middle is a confusing zone that indeed many get lost. I can certain see myself, now in restrospect, having being there for the journey of this book. I got stuck, certainly, between the initial days of learning the Blitzscaling lectures, mostly annotating, then I had set a B-target to write a book, then it took me a C-stage for years, with slow updates not knowing that the book were possible. Somehow I got back, about 200 days ago, and a major element in my return was when I set to myself - thanks to Julia Cameron - that I had to write using my words, to make mistakes, to keep the flow going. That allowance, brought to places that feared all were wrong - like when I passed 300 pages and felt that I had to be within 300 pages. But then other professional writers gave me permission to keep going - such as when I learned that a lot could be removed later - so I passed 400 mark, 500 mark, 600 mark (not counting the pages removes every day each of the 200 days of joy). A lot of what these serious writers had said became true. I felt I was able to access more interesting places, after the allowance to make mistakes and bad writing by Julia Cameron. I also saw myself transcending, such as in ways to allow myself to leave ideas behind. At a certain point, I removed about five chapters at once. How? I used the delete key of the computer. But to do that, to allow that kind of movement, would be impossible in the beginning when I wanted all things to be in there and to a certain extent all things to be right. 
 
-
-
-
-The author Dov Seidman, in "How" (check page), introduces the concept of the Valley of Difficulty (check the name of the Valley) which describes the "paths" people go through when they face challenges; and he compares people who get a "B" grade with those who get an "A" and those who get a "C". The curve goes from "B" to "A", passing through "C". He points out, citing research (check), that between the "B" grade and the "A" grade there is a valley, a confusing and arduous place where many people get lost and end up stuck in the valley, receiving the "C" grade.
-
-This space in the middle is a confusing zone that indeed demotivates many people, a valley that can be gloomy, in the sense that many get bogged down there. But those who pass through it manage to succumb (rise) and reach a clearer space, the "A" grade.
+<!--
+@references 
+* reference - Dov Seidman. (2007). How: Why How We Do Anything Means Everything. Wiley.
+--> 
 
 We all recognize that many things are difficult, because there is this pressure to do better - we are always comparing our work to the external world. So often the "task" to be done, the challenge, becomes nebulous precisely because our reference is the external world - for example, many of the challenges faced by entrepreneurs are guided by metrics, like the idea of being better, faster, cheaper. Often, the pilgrimage in this valley becomes indeed frustrating because it starts with parameters, becomes mediocre, when it is limited to having to differentiate from something that others do, such as competition.
 
