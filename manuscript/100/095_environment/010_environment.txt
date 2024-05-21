@@ -5,6 +5,9 @@
 * outline - Situation - Entrepreneurship shapes our environment, we get into it, it is the way to get things done. 
 --> 
 
+<!--
+* @todo - p2 ( ) In Identity or In Environment - Consider the note from Maslow from Toward the Psychology of Being which may support something that "we know" from inside about the dependency from others. He wrote, in p. 48-49, "If this is also if the child himself must finally make the choice by which he grows forward, since only he can know his subjective delight experience, then how can we reconcile this ultimate necessity for trust in the inner individual with the necessity for help from the environment? For he does need help. Without help he will be too frightened to dare. How can we help him to grow? Equally important, how can we endanger his growth? The opposite of the subjective experience of delight, trusting himself so far as the child is concerned, is the opinion of other people. Love, respect, approve, admiration, reward from others, trusting others rather than himself. Since others are so important and vital for the helpless baby and child, fear of losing them, as providers of safety, food, love, respect, etc., is primal, terrifying danger. Therefore, the child, faced with the difficult choice between his own delight experience and the experience of approval from others, must generally choose approval from others and then handle his delight by repression or letting it die, or not noticing it or controlling it by willpower." @meta-refid 1234-8585-9595-9595
+-->
 
 
 
