@@ -36,8 +36,19 @@
 
 100/120_running/020_article.txt
 100/120_running/040_specialist_generalist/010_article.txt
+
+
 #100/120_running/050_err_ok/10_article.txt
-100/120_running/060_fear/10_article.txt
+#100/120_running/060_fear/10_article.txt
+100/120_running/060_fear/10_article_100_intro.txt
+100/120_running/060_fear/10_article_110_put_coffee_down.txt
+100/120_running/060_fear/10_article_120_fear_not_fears.txt
+100/120_running/060_fear/10_article_130_being_right_honest.txt
+100/120_running/060_fear/10_article_140_right_side_controlling.txt
+100/120_running/060_fear/10_article_150_startup_right_sorrow.txt
+100/120_running/060_fear/10_article_160_grown_up_blocky.txt
+100/120_running/060_fear/10_article_170_transcending.txt
+
 100/120_running/070_impact/10_article.txt
 
 #100/900_personal_board-en-us.txt
