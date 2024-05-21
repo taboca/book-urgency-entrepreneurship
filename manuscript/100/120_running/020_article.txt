@@ -1,6 +1,13 @@
+<!-- 
+@meta @todo 
+
+* @todo - p1 ( ) - Inducing vs Autonomous - Consider correlation of the being with the corporate - From Let Chaos Reign - "Alert strategic leadership is cognizant of the important role of both induced and autonomous processes in strategy-making, tolerates a sufficient level of uncommitted resources and looseness in control to continue to maintain a portfolio of autonomous initiatives, and is able to select at the right time those that need to be converted to the discipline of the induced process in order to cope with nonlinear strategic dynamics. " https://www.gsb.stanford.edu/gsb-box/route-download/318706 Feat. Andy Grove.  Reference - Burgelman, R. A., & Grove, A. S. (2007). Let chaos reign, then rein in chaos – repeatedly: Managing strategic dynamics for corporate longevity (Research Paper No. 1954). Stanford Graduate School of Business. https://www.gsb.stanford.edu/gsb-box/route-download/318706
+
+--> 
 
 <!--
 @todo @meta 
+
 * @todo - p2 ( ) - In Running, introduction - Should we incorporate the note from Andy and his colleague? in Let the Chaos Reign. @meta-refid 1222-3322-4433-8484 
 
 * "How can a company’s strategy-making process be designed to effectively maintain such balance so as to maximize both “fitness;” that is, adaptation to the current environment, and “evolvability;” that is, ability to adapt to a changing environment and/or to seek out new viable environments? (Kauffman, 1993; Gould, 2002). " https://www.gsb.stanford.edu/gsb-box/route-download/318706 Feat. Andy Grove. 
