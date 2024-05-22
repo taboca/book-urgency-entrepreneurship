@@ -92,6 +92,21 @@
 # letters
 
 ## ----------------------------------------------------
+## Letter to Bill and Melinda Gates foundation site 
+
+* Through form. 
+
+```
+Hi there, Mr. Gates, or associate colleague supporting founders,
+
+This is Marcio, a brazilian that long time ago worked for Netscape. I returned to Brazil, failed, and watching the Blitzscaling lectures, I noticed that the leaders interviewed were special - and had a readiness level - that seemed to make a difference. 
+
+The book I work, Slow Down to Startup, is to help founders to be conscious of their well-being. I wonder if I may send to you additional info about the book progress. 
+
+Marcio
+```
+
+## ----------------------------------------------------
 ## Letter to Eric Krock who gave me The Elements of Style and hired me at Netscape
 
 * https://mail.google.com/mail/u/0/#sent/QgrcJHsHqfTHbnWqCFTFfqmMrMXJXSKQlPL
