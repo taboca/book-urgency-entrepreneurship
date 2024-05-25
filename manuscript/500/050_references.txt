@@ -214,11 +214,22 @@ Fisher, M. (2023). A Máquina do Caos: Como as Redes Sociais Reprogramaram Nossa
 
 Graham, P. (2014, September 23). Lecture 3 - Before the Startup [Video]. YouTube. Y Combinator: The Vault. https://www.youtube.com/watch?v=ii1jcLg-eIQ
 
+
+<!-- out of order --> 
+
+Leone, D. (2017). Doug Leone. Sequoia Capital. Retrieved from https://web.archive.org/web/20171116053437/https://www.sequoiacap.com/people/doug-leone/
+
 Charman, T. (2015, June 18). The difference between Bootcamps, Incubators and Accelerators. Tom Charman. Retrieved from https://medium.com/business-startup-development-and-more/the-difference-between-bootcamps-incubators-and-accelerators-632a4d4e8bd8
+
+<!-- dup --> 
+
+Cameron, J. (1998). The Right to Write. TarcherPerigee.
 
 Dov Seidman. (2007). How: Why How We Do Anything Means Everything. Wiley.
 
+Leone, D. (2022). Doug Leone. Sequoia Capital. Retrieved from https://web.archive.org/web/20220527121317/https://www.sequoiacap.com/people/doug-leone/
 
+Brande, D. (2019). Becoming a Writer. General Press.
 
 
 <!-- 

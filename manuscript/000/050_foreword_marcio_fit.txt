@@ -70,5 +70,10 @@ I think that the intention of this book is not different from a perspective from
 
 > *"There are some handbooks so valuable that no writer should be without them. .. This book is not even a companion volume to such works as those; it is a preliminary to them. If it is successful it will teach the beginner not how to write, but how to be a writer; and that is quite another thing."* Brand, Dorothea (General Press, 2019, p.19)
 
+<!--
+@references
+* reference - Brande, D. (2019). Becoming a Writer. General Press.
+-->
+
 Likewise, I feel that this book has no place among many play books that teaches how to execute a startup. But I do think that it works across the board, for all audiences interested in the entrepreneurial world and the startup ecosystem. Thus, it's for entrepreneurs which are beginners but for the grown up others that recognize that the true entrepreneur is always a learner, an apprentice. 
 
