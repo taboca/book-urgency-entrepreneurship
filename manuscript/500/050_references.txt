@@ -209,8 +209,11 @@ Maslow, A. H. (2011). Toward the Psychology of Being. Martino Publishing.
 
 Grove, A. (1999). Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company. Crown Publishing.
 
+Fisher, M. (2022). The Chaos Machine: The Inside Story of How Social Media Rewired Our Minds and Our World. Little, Brown and Company.
 
+<!--
 Fisher, M. (2023). A Máquina do Caos: Como as Redes Sociais Reprogramaram Nossa Mente e Nosso Mundo. Todavia.
+-->
 
 Graham, P. (2014, September 23). Lecture 3 - Before the Startup [Video]. YouTube. Y Combinator: The Vault. https://www.youtube.com/watch?v=ii1jcLg-eIQ
 
@@ -230,6 +233,10 @@ Dov Seidman. (2007). How: Why How We Do Anything Means Everything. Wiley.
 Leone, D. (2022). Doug Leone. Sequoia Capital. Retrieved from https://web.archive.org/web/20220527121317/https://www.sequoiacap.com/people/doug-leone/
 
 Brande, D. (2019). Becoming a Writer. General Press.
+
+<!-- out of order --> 
+
+Dearing, M. (2015, October 8). Blitzscaling 03: Michael Dearing on Capitalism, Creativity, and Creative Destruction [Video]. Greylock. https://www.youtube.com/watch?v=3vCdfa_aeI8
 
 
 <!-- 
