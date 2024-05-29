@@ -1,29 +1,70 @@
 
 <!--
+
+@outline - Big corporations can be blocked? (AG) - 
+
+        * On release and transcending - Leadership deals with the phases, struggle, the paranormal" activities, and more; the subordinates, like specialists, like divisions, may represent the action-driven specialists, not subject to change in the condition of hurrinesst; thus specialists are replaced, thus heads replaced. (AG)
+
+-->
+
+<!--
         @outline - Corporate beast fearful (AG)
 -->
 
-#### Grown up blocky situations 
+#### The grown up situation
 
 
 
 
-We want to feel emotions, we want to recognize fear, we want to allow ourselves to be vulnerable. These aren't  statements that we generally get busy with, or think of, in the entrepreneurial space or in the corporate arena. It sounds a bit like some touchy-feely issues [^footnote_andygrove_touchy_feely], or perhaps things for a therapy session. 
+##### PItch - feeling emotions? Touchy feely?
+
+
+We want to feel emotions, we want to recognize fear, we want to allow ourselves to be vulnerable. These aren't  statements that we generally get busy with, or even think of, especially in the entrepreneurial or the corporate work setting. It sounds as things for a therapy session. But there is a reason for us to insist, besides our general inclination. It turns out that there are touchy-feely issues [^footnote_andygrove_touchy_feely] that are real throughout the entrepreneurial journey, not matter the size of the organization, exactly because these are organizations that grows from humans driving them, humans in a jorney for success, humans that will eventually follow their own success, and will eventually fear change. In this section, we will take a ride with Andy Grove, the late CEO of Intel that had the chance to consider reflecting about this subject, as he said *touchy-feely* issues, through the journey of Intel. Andy had the opportunity to reflected about this when he were leading Intel, when Intel was already a grown up company - the world's largest memory manufacturer - and when Intel were facing a struggle in front of a possibility of dying (being the same) or changing (becoming Intel again) - again to be or not to be. 
 
 [^footnote_andygrove_touchy_feely]: In his book *Only the Paranoid Survive* (1999), Andy Grove discusses, in *Let Chaos Reign*, what he calls *The Touchy-feely Issues*, that in certain situations, particularly those faced by large corporations, managers often react emotionally to crises (p. 123) as business people are humans where their personal growth and emotions are closely tied to the identity and well-being of their business.
 
-So a real complicated question would not even rise here, not normally, not in the work setting in general. We know that the average runner is not talking, or reflective about that, perhaps more foused in the running by the fears that drives the movement, from the threats real or not than to consider the dynamics of themselves when they are more or less fearfull, being more or less anxious, more or less inclined to supress anxiety by either facing acessing knowleldge or living the denial of it and focusing in what is known. 
 
-Let us dig into some well-known reflections about fears, and feelings related to fears such as fear of loss, from mindful doers that went through and witnessed and reflected about the challenging space of humans operating organizations for growth. This will certainly help us to recognize fear in our language, and anxiety that takes over which take us to know more or to deny knowledge, but to value that the theme is valid and it supports our conscious view; that to be aware and to not dismiss the subject as a serious subject. The allowance for disucssions about fears, the conscious discussions about how fears which gets translated into the narratives, is in itself powerful and can be a seed for the culture that is a truth seeking culture, an activity consisting of seeking honesty.  
-
+##### All the same 
 
 
+What we will see next, does not require a lot of flexible or distorted thinking, for us to see the commonality among the grown up (corporate) situation and the startup and the individual situation that we have discussed. If we think that all of these are entities, we can think of them in a jorney of getting things done, and then in a journey of getting things done doing things in the right way. As we have seen, in the early stage, the start may set a struggle such as when the critic, which is certain a conscious being, attacks the attempt for work of the creative being. The same situation, in a way, we have seen too in the early startup stage, with the illustrations of a team trying to do the right moves, such as being driven by social interactions, and even PR which investor-professor Michael Dearing referred as freaking PR. In both situations, the being or the team or the entity had found the block situation which was an opportunity for us to reflect about a potential reality that they would need to face change, to find a working model again, to find a way to bring joy or to enjoy the work to pass the struggle. This certainly involves recognizing that a balance is needed - such as one that separates what is right in the eyes of the beholder with what is honest given the moment, an honesty that may allow the doer to work, the creative flow to flow, the startup team to continue to work. 
+
+Now, for the big or grown up situation there is nothing much different, except the size and some particular characterizations of the hierachical setting that sets them to move slow but with heavy and leaving strong footprints. These grown entities need to go through change too just like their smaller forms. And like any other form they too will be frightened of being wrong. That thought from Sir Ken Robison, that "by the time they get to be adults, most kids have lost that capacity," applies even more to the corporate beast. It only adds, with success, with the inertia of success [^footnote_andygrove_inertia_of_success].
+
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Running, Fear, Being Right, Grown Up Situation - Review the Inertia of Success, likely in the book Only the Paranoid Survive. @meta-refid 1212-2323-3334-7474
+--> 
+
+[^footnote_andygrove_inertia_of_success]: In business, the concept of "inertia of success" refers to the tendency of successful companies to become complacent and resistant to change, ultimately leading to their downfall. Andy Grove, a former CEO of Intel, famously highlighted this phenomenon, warning that past successes can create a false sense of security, making organizations less agile and adaptable to new challenges and market conditions.
 
 
-Andy Grove also shared a similar idea about fears as a force that motivates creativity and action—fear of losing to a competitor, fear that the product is not good enough for customers, and more. 
 
 
-For Andy, there exists a sequence of emotions that is not too different from those experienced during the loss of loved ones, which can be experienced by people, like leaders in the corporate setting, in the midst of what he called "inflection points." Let us first bring about his definition of an inflection point in the context of a major organization - Intel went through a few of those but the iconic moment was the moment when Intel had to drop its identity from *Being* a memory chip manufacturing to embrace *Becoming* a microprocessor manufacturer. Since Intel survived the inflection point, then we have good thoughts from Andy to reccount. The following passage gives us a view: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##### Grief? 
+
+<!--
+@outline - Andy on fear, or loss, similar to grief
+--> 
+
+
+
+
+Let us first bring about his definition of an inflection point in the context of a major organization. According to Andy, Intel went through a few of those but likely the most iconic passage were when Intel had to drop its identity from *being* a memory chip manufacturer, and went to the the struggle, to embrace *becoming*, a microprocessor manufacturer. Since Intel survived that inflection point, Intel became known as the largest manufacturer of microprocessors, and then too so many managers got to know the so manygood thoughts from Andy. The following passage gives us a view: 
 
 > *""* 
 
@@ -35,19 +76,174 @@ He suggests a parallel between the sequence of losing a loved one and the sequen
 
 
 
+##### Business people are managers 
 
 
-> *"Business people are not just managers, they are also human. They have emotions and a lot of their emotions are tied up in the identity and well-being of their businesses. If you are a senior manager, you probably got to where you are because you have devoted a large portion of your life to your trade, to your industry and to your company. In many instances, your personal identity is inseparable from your life work. So, when your business gets into serious difficulties, in spite of the best attempts of business schools and management training courses to make you a rational analyzer of data, objective analysis will take second seat to personal and emotional reactions almost every time."* 
+> *"Business people are not just managers, they are also human. They have emotions and a lot of their emotions are tied up in the identity and well-being of their businesses. If you are a senior manager, you probably got to where you are because you have devoted a large portion of your life to your trade, to your industry and to your company. In many instances, your personal identity is inseparable from your life work. So, when your business gets into serious difficulties, in spite of the best attempts of business schools and management training courses to make you a rational analyzer of data, objective analysis will take second seat to personal and emotional reactions almost every time."* (Grove, A., 1999, pp. 123-124)
 
-> *"If you are a middle manager, many of the same considerations apply, but very often your job is also at stake. How your corporation succeeds in working its way through a strategic inflection point may determine what happens to your career."*
+<!-- 
+@meta @references 
+* reference - Grove, Andrew. (1999). Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company. [Só os Paranóicos Sobrevivem]. Crown Publishing.
+--> 
+
+
+
+
+
+##### Grief 
+
+
+
+<!--
+@outline - Stages of grief 
+--> 
+
+
+For Andy, there exists a sequence of emotions that is not too different from those experienced during the loss of loved ones, which can be experienced by people, like leaders in the corporate setting, in the midst of what he called "inflection points." 
+
+
 
 > *"A manager in a business that is undergoing a strategic inflection point is likely to experience a variation of the well-known stages of what individuals go through when dealing with a serious loss. This is not surprising because the early stages of a strategic inflection point are fraught with loss. Loss of your company's preeminence in the industry, of its identity, of a sense of control of your company's destiny, of job security and, perhaps the most wrenching, the loss of being affiliated with a winner. However, unlike the accepted model of the sequence of emotions associated with grief, i.e., denial, anger, bargaining, depression and, ultimately, acceptance, in the case of a strategic inflection point, the sequence goes more as follows, denial, escape or diversion and, finally, acceptance and pertinent action."* 
+
+
+
+
+
+
+
+
+
+<!--
+@outline - The leadership struggling 
+--> 
+
+
+
+##### Diverging?
+
+> *"He is by no means unique, frankly, as I look back, I have to wonder if it was an accident that I've devoted a significant amount of my time in the years preceding our memory episode, years during which the storm clouds were already very evident to writing a book. As I write this, I wonder what storm clouds I might be ducking now, I'll probably know in a few years."* 
+
+
 
 > *"Escape, or diversion, refers to the personal actions of the senior manager. When companies are facing major changes in their car business, they seem to plunge into what seem to be totally unrelated acquisitions and mergers. In my view, a lot of these activities are motivated by the need of senior management to occupy themselves respectively with something that clearly and legitimately requires their attention day in and day out, something that they can justify spending their time on and make progress in instead of figuring out how to cope with an impeding strategic destructive force. At such times, senior managers often involve themselves in feverish, charitable fundraising. A lot of outside board activities are pet projects. Take a look at a representative calendar of the CEO of a major corporation that was in the middle of a strategic inflection point, page 126. Does his allocation of time, his most precious reserves, reflect his strategic crisis? I don't think so."* 
 
 
 
-> *"He is by no means unique, frankly, as I look back, I have to wonder if it was an accident that I've devoted a significant amount of my time in the years preceding our memory episode, years during which the storm clouds were already very evident to writing a book. As I write this, I wonder what storm clouds I might be ducking now, I'll probably know in a few years."* 
+
+
+
+
+
+
+
+
+
+
+
+<!--
+@meta @outline 
+* Outline - Escape Hatch - Awareness of gown up ship and identity - [feat. AG] 
+-->
+
+##### Releasing - from the successful duty 
+
+
+
+Fortunately, like the case of Steve Jobs, I would think that other reflections are alive to us because they had survived that call for change. Now let us then consider the reflections from Andy Grove about the moments that have called for change, as Intel were going through what he had referred as 10x force - when the major ship needed to change when and the challenging situation of being leaders of a major organization that were very successful and where a force, quite natural, would call for inaction instead of a call that calls for reinventing, which took Intel to be a company we know of today, to be a microprocessor company, instead of just yet another example of a company that were buried and taken by the japanese. 
+
+I enjoyed Andy's reflections because he kept going back to the being - to the self - and to consider the states of emotion of executives driving large organizations, even brought up an analogy for how one can go through the phases of grief. The recognition of the case of Andy about Intel's challenge to rethink the identity of the executive team, their position, and the theme that Andy brought where they were able to challenge themselves, himself and Gordon, the conversation in the office when they looked at the Great America ferriswheel. 
+
+If we set our time machine to 1985, and land ourselves in the Ferris wheel of the Great America park in Santa Clara California, we would be able to point our binoculars to Intel's headquarters and witness that special conversation between Andy Grove and Gordon Moore, as documented in *Only The Paranoid Survive*, the conversation that marks a moment of transcendence from Intel management that took them to "The bold decision to commit Intel’s future to microprocessors," [^foonote_hbr_intel_1996] which brought Intel a major transformation to the world, that consumers get that Intel meant the computer's brains: 
+
+[^foonote_hbr_intel_1996]: The article from HBR titled "Inside Intel" by Adam Brandenburger and Barry Nalebuff (1996), underscores the importance of adaptability in the face of industry crises and technological shifts. In essence, the article considers Intel's journey through significant challenges, including the competitive pressure from Japanese semiconductor manufacturers in the mid-1980 which led to a strategic pivot from memory chips to microprocessors, and how the success from transformation brings new challenges, like a totally new game or sport where the organization has to transcend in order to survive.  
+
+> *"I remember a time in the middle of 1985, after this aimless wandering had been going on for almost a year. I was in my office with Intel's chairman and CEO, Gordon Moore, and we were discussing our quandary. Our mood was downbeat. I looked out the window at the Ferris wheel of the Great America amusement park revolving in the distance, then I turned back to Gordon and asked, 'If we got kicked out and the board brought in a new CEO, what do you think he would do?' Gordon answered without hesitation, 'He would get us out of memories.' I stared at him, numb, then said, "Why shouldn't you and I walk out the door, come back and do it ourselves?'"* (Grove, A., 1999, p. 89)  
+
+<!-- 
+@meta @references 
+* reference - Grove, Andrew. (1999). Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company. [Só os Paranóicos Sobrevivem]. Crown Publishing.
+--> 
+
+<!--
+@meta @todo 
+* @todo - p2 (Done) - In Identity - Bring the case of Great America, is the main point needed - @meta-refid 3332-7866-3232-1222
+--> 
+
+
+
+
+
+
+
+<!--
+@meta @outline 
+* Outline - Escape Hatch - Awareness of being busy - [feat. AG] 
+-->
+
+Now if that moment had gained that picture; it is the picture of invitation that recognizes the roles of the being into the major problem and how the marutity that we achive, especially in the situations of the major ship, become acting forces on us. We flip this postal and it would like Andy is asking us - keep here with me, let us talk about a lot else that happens with us, and the subtitle things that we may not even note if we are not aware. One aspect to consider is what Andy had notice - our willingness to escape: 
+
+> *"Escape, or diversion, refers to the personal actions of the senior manager. .. In my view, a lot of these activities are motivated by the need of senior management to occupy themselves respectably with something that clearly and legitimately requires their attention day in and day out, something that they can justify spending their time on and make progress in instead of figuring out how to cope with an impeding, strategic, destructive force."*  (Grove, A., 1999, pp. 124-125)
+
+That is a different kind of photo and reflection to us. To notice how we might show signs when we have a puzzle in front of us. He went on to celebrate that "At such times, senior managers often involve themselves in feverish charitable fundraising, a lot of outside board activities  or pet projects." (Grove, A., 1999, p. 125)
+
+
+<!-- 
+@meta @references 
+
+> *"At such times, senior managers often involve themselves in feverish charitable fundraising, a lot of outside board activities  or pet projects. Take a look at a representative calendar of the CEO of a major corporation that was in the middle of a strategic inflection point (page 126). Does his allocation of time, his most precious resource, reflect the strategic crisis? I don't think so."*  (Grove, A., 1999, p. 125)
+
+* reference - Grove, Andrew. (1999). Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company. [Só os Paranóicos Sobrevivem]. Crown Publishing.
+--> 
+
+
+One other special observation from Andy have to do with his observation to make a parallel between the writing his book with the challenging situation of Intel. Now, it serves for us here too how his reflection which consited of revisiting his history and reflecting on his prior book writing time served too as a reflection for him later - the moment when he were writing the above book, Only The Paranoid Survive:
+
+> *"Frankly, as I look back, I have to wonder if it was an accident that I devoted a significant amount of my time in the years preceding our memory episode, years during which the storm clouds were already very evident, to writing a book. As I write this, I wonder what storm clouds I might be ducking now. I will probably know in a few years."*  (Grove, A., 1999, p. 125)
+
+<!-- 
+@meta @references 
+* reference - Grove, Andrew. (1999). Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company. [Só os Paranóicos Sobrevivem]. Crown Publishing.
+--> 
+
+Certainly his reflections gave him the means to be asking - wait a minute, am I here again engaging in these activivities of another nature, like writing? From these observations, I think that first and inescapable is the duty the necessity of being thankful to Andy, for getting involved to reflect and to write it, to put it as words, to all of us, and as he shown to give us an enlightening one as he set himself open. It is unescapable the self in the action, the being, in both High Output Management and and Only the Paranoid Survive. Moreover, we shall too observe that Andy's insatisfaction from his "allocation of time, his most precious resource," and the situation of crisis that Intel were going through, were the actual tip for how the situation goes, naturally as while things are happening there is not a sign of the major crisis written in flags and elsewhere. 
+
+Thus, the disconnect given in retrospect is only the invitation for us to celebrate that us to be engaging in the new, in divergent activities, might be the sign of us in front of the unsolvable, the realization that would call for change. It may be even considered, although he didn't write about that, that the very activities of writing served for him as a reflection. 
+
+
+Andy had considered too the connection betweem the situation of challenging for changing, with the very prior steps of success. For him, he referred to it as a phenomenon, "I will call this phenomenon the inertia of success. It is extremely dangerous and it can reinforce denial. "* (Grove, A., 1999, p. 125). ANd went on to give us enough information to celebrate that our movement towards growing also shapes maturity and inertia in us, and how that may well add to the challenging situations for us to change ourselves: 
+
+> *"Senior managers got to where they are by having been good at what they do. And over time they have learned to lead with their strengths. So it's not surprising that they will keep implementing the same strategic and tactical moves that worked for them during the course of their careers, especially during their 'championship season.'"* (Grove, A., 1999, p. 125)
+
+<!-- 
+@meta @references 
+* reference - Grove, Andrew. (1999). Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company. [Só os Paranóicos Sobrevivem]. Crown Publishing.
+--> 
+
+To note: We are talking about a senior manager, an educator, a chemical engineer, a reader of manager to name some characterizations of Andy. Clearly telling us that it happens like that, that we become and by becoming we get stuck. And when we get stuck, we defend ourselves. And when we defend, it may appear - although in retrospect - to be movements of a child:  
+
+> *"When the environment changees in such a way as to render the old skills and strenghts less relevant, we almost instinctively cling to our past. We refuse to acknowledge changes around us, almost like a child who doesn't like what he's seeing so he closes his eyes and counts to 100 and figures that what bothered him will go away. We too close our eyes and are willing to work harder, to dedicate ourselves to our traditional tasks or skills, in the hope that they and hard work will get us there by the count of 100. "* (Grove, A., 1999, p. 125)
+
+<!-- 
+@meta @references 
+* reference - Grove, Andrew. (1999). Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company. [Só os Paranóicos Sobrevivem]. Crown Publishing.
+--> 
+
+
+
+
+
+
+
+
+
+##### Middle manager fired 
+
+<!--
+@outline - The conscious top-level leadership deals, the action-doer element can indeed be taken by surprise 
+--> 
+
+
+> *"If you are a middle manager, many of the same considerations apply, but very often your job is also at stake. How your corporation succeeds in working its way through a strategic inflection point may determine what happens to your career."*
 
 
 
