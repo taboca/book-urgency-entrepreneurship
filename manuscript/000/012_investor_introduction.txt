@@ -1,4 +1,184 @@
-# Book presentation #
+# Book presentation v3.0 
+
+Slow Down to Startup - by Marcio S. Galli 
+Introduction to book, version 3.0, updated May 30th 2024
+
+In short  - In today's fast-paced startup world, the focus is often on speed and execution. But "Slow Down to Start Up" celebrates the importance of taking time - as part of work time - for listening first, reflecting, and developing a conscious view. Management of the entrepreneurial activity isn't a luxury - it's a necessity - especially when we are teased to get things done fast, faster. The price we pay is that we disconnect from a well-being state (as individuals and organizations) and that we can be blocked. We drain our funds, our energy, our creativity, our ability to listen, to reflect, and to grow. The startup path is a path that demands a balanced well-being. 
+
+Audience
+
+It works well for entrepreneurs, senior or early managers, practitioners, investors, and parents too, that care about our kids. The initial target audience is the entrepreneur, who wants to, or is already, in the midst of the startup process as defined by viewpoints such as of Paul Graham where startup equals to growth. This audience is a small segment but they carry the responsibility to make an impact on the world. In the foreword I quote Maslow and his interest in entrepreneurs when he considered that “If you had a challenge to bring 100 people to a deteriorating society, the best category of professionals to bring are certainly entrepreneurs, in contrast with politicians, professors, engineers, etc.” We may know that truth but we too overlook the situation when we (our environment) set this potential group into very bad places. In other words, this is the group that gets things done and are remembered but too the group that aren’t when things do not work. And like blocked artists, they too deserve to continue their quest. Perhaps on their second attempt, not trying to control too much, not boosting their performances, perhaps being honest with themselves and doing it in a balanced way. For them, this book supports them, to be conscious, to carry on execution, of course, but maintaining a balanced mindset which is a must in a world that asks them to just do it. 
+
+Why a small audience at this time?
+
+Why not a wider audience? I have decided to keep in the context of entrepreneurs doing startups. A first-time writer, like me, would be tempted to go broad. Fortunately I have learned, from the late William Zinsser, that being specific can, and should, bring a broad and meaningful message. From the narrow to the broader: We depart from the situation that startups are entities, designed for growth. Then we move into the space which demands the growth of the individual, especially given the potential for getting things done as they become powerful. Then we celebrate the powerful role that needs to be a humble role, and how that helps them to transcend from the pressures of the present facing the challenges of the future in better shape. More broadly, conscious and healthy entrepreneurship demands conscious and healthy beings and all of that supports humanity.
+
+Theme (Test, by Chatgpt)
+
+ "The narrative argues that amidst the abundance of solutions and the urgency for results, it is crucial for entrepreneurs to connect with an essence where decisions reflect a thoughtful understanding of their actions and how these ripple through the startup's structure to society at large. Success, therefore, is redefined not as an end - where the ends justify the means - but as the outcome of conscious entrepreneurship that is aligned with the well-being of the entrepreneur, the venture, and society." (ChatGPT, minor style corrections by Marcio)
+
+Introduction - why and structure 
+
+A situation - The abundance of options - or solutions - to make a startup does not appear to be confusing, not initially. A hungry entrepreneur, or team, can run into the hypermarket where there are too many aisles for all the themes and stages of a startup. There, they are teased and can quickly pick all kinds of solutions for their needs: playbooks, tools, frameworks, methodologies, and more. They can subscribe to networks and platforms such as accelerators, incubators, and other interactive experiences from networks. They can be inspired too, by stories. They can have fun. All that is offered offers a nice narrative, richer, that all promises growth. All these off-the-shelf solutions resonate in a way or another with what top-tier investors and growth advisors say, all solutions sound coherent.
+
+A complication - Founders can be lost in abundance, as in lost in translation. And it is not that every single offering is misleading them. The offerings aren’t that smart, or evil in nature as it comes from the richer setting which generally informs us that more and cheaper means potential. The supermarket is just bigger now, and products are mainly cheaper now. This space may set founders to being generalist-specialists too - thinking that they are generalists but eventually following the playbook. This is a path, a setting, that can convey them to move, to act, to run, and then too to burn their most precious resources, their consciousness, their ability to see from above, their ability to do things in a balanced way. 
+
+The plan - A serious founder, a conscious founder, is the path. And it is a must, for a startup intended to grow. A particular finding in this work is that the actual answer for doing it right is everywhere - although not easy to see when we are doing it in urgent mode. In other words, the information is documented, recorded, voiced, said, by top-tier investors, practitioners, methodologies and more. In fact, the good advice is there but it is as in on the back of the products of the shelves - legally or properly informing the shopper of the risks of consumption or how to or what it takes to consume properly with consciousness. But given that the entrepreneur-shopper reads mainly the title, sees the photo, and jumps to use too quick, this book invites the reader to an experience, to read about themselves, about when doing it, to see themselves from the perspective of one in the audience, to consider to break the urgency to grab outcomes. The goal is to improve their awareness about the importance of moving consciously, as individual beings, and how that reflects in the startup and the future of their organizations. 
+
+In the first part, Urgency of the Self, we recognize that we are beings that are first thrown into the field, that we jump into the fast-paced setting of the startup ecosystem, and set ourselves to being driven by the winds (forces of their market, their culture, the economy). The first chapter (Accounting) recognizes the being, the entrepreneur, and what drives them, energy and time, and how they should respect these elements which are essential to the journey. Then we will consider the challenges of us from being to becoming, considering how the movement shapes who we become (Identity), how the environment shapes what we do (Environment) and how our fast-paced approach takes us to run fast but in many situations into being blocked (Running).
+
+In the second part, Urgency of the Team, we look at the characterizations of the fast-paced team that gets busy, doing, and misses the opportunity to see things from perspective. In this context, we start with how urgent things become so urgent (The Feedback of Urgency) to a point of taking us to be controllers and less creative. Then we move to consider the pitfalls of executing a startup with the lean methods where we are taken into a situation of controlling what we do lean (Lean Attention Deficit) and to miss the view of purpose. We end this part (In Peace with Communications) exploring how we misuse communications - as a tool for outcomes - and how we miss the opportunity to use communications in ways that can actually help our teams grow. 
+
+In the third part, Urgency in the System,  we continue to explore other dynamics of the urgent world that affect movements and the steps of our organizations through our culture. We will consider a reflection about the themes of goal-setting (Not so Radical Focus),  or the world driven by narratives (The Narrative Dilemma), and then again consider the dangers of using lean methods without a conscious view (The Lean Dilemma) . 
+
+Origins of work - The Blitzscaling Lectures 
+
+Blitzscaling, the course, has covered many aspects of how to scale a startup. Among possible agendas, one is the actual agenda of Blitzscaling - the growth of a startup according to Blitzscaling - which would naturally position the Blitzscaling leadership team to focus and honor these higher-order aspects. In other words, they need to take care of the big and urgent things first. 
+
+But other agendas exist from there and are not hidden and can be observed with a careful eye. One agenda in particular relates to the identity of these doers, the behavioral aspects, what it takes to be a good entrepreneur. When watching the lectures, I started to notice the possibility of a readiness level in the sense of conditions for growth (of their organizations) to be connected with pre-conditions of the being.  
+
+In other words, we are considering reconciling the model that a) Blitzscaling and startup as growth exists with the situation that b) possibilities are improving in terms of entrance points for people to make startups which continue to grow with the abundance and richness of the modern ecosystems, with c) the special attention that must be paid to self-awareness and conscious entrepreneurship and the said readiness level. 
+
+Since the author started from the realm of entrepreneurship, and not philosophy or psychology, the book carries the reader from a world as it seems, In other words, we start with the "train in movement", an urgent train and the book attempts to carry the reader out of it and in it, thus establishing a reflective thinking, or reflective tour, so that reflections about behaviors can be brought to our attention and a wider context of abstraction is aimed towards conscious entrepreneurship that respects humans.
+
+Initial body of influences
+
+Crew of Blitzscaling - Chris Yeh, John Lilly, Reid Hoffman, Allen Blue - and Michael Dearing, Barbara Minto, Brian Chesky, Paul Graham, Jeff Weiner, Fred Kofman, Julia Cameron, Sam Altman, Eric Ries, Steve Blank, Tony Ulwick, Eric von Hippel, Marc Andreessen, Maury Klein, Robert McKee, Adam Grant, James Green, Scott Belsky, Max Fisher, Walter Fisher, Fried, J., & Hansson, D. H of Basecamp, Jason Child, and others. In addition, Abraham Maslow, Andy Grove, Peter Drucker, Ogilvy, William Zinsser.
+
+References (may contain duplicated) 
+Drucker, P. F. (1986). The Practice of Management. Harper Business. (Original work published 1954)
+Ulwick, T. (2017, January 12). Mapping the Job-to-be-Done. JTBD + Outcome-Driven Innovation. Retrieved from https://jobs-to-be-done.com/mapping-the-job-to-be-done-45336427b3bcA
+Andreessen, M. (2023, October 16). The Techno-Optimist Manifesto. a16z. https://a16z.com/the-techno-optimist-manifesto
+Hari, J. (2023). Foco roubado: Os ladrões de atenção da vida moderna. (L. Reyes Gil, Trad.). Vestígio.
+Global Silicon Valley. (2018, April 28). ASU GSV Summit: Main Stage Panel: The Future of Talent -- Transcending Work [Video]. YouTube. https://www.youtube.com/watch?v=GFKgJ4wkxQU&t=345s
+Draper, B. (2016, May 31). The Rise of Sand Hill Road and Silicon Valley. Stanford. Available at https://www.youtube.com/watch?v=KxDxRUYEMXg
+Hoffman, R. (2023, September 12). You are Generation AI | 2023 Commencement Speech at Bologna Business School [Video]. YouTube. https://www.youtube.com/watch?v=kKC27SXeIB4
+Ogilvy, D. (1983). Ogilvy on Advertising. Welbeck.
+Graham, P. [PaulGraham.com]. (2014, October). Before the Startup. Retrieved from http://www.paulgraham.com/before.html
+Greylock. (2015, November 30). Blitzscaling 18: Brian Chesky on Launching Airbnb and the Challenges of Scale [Video]. YouTube. https://www.youtube.com/watch?v=W608u6sBFpo
+Ulwick, A. W. (2016). Jobs to be Done: Theory to Practice. Idea Bite Press.
+McGonigal, J. (2011). Reality is Broken: Why Games Make Us Better and How They Can Change the World. Penguin Books.
+Kim, A. J. (2018). Game Thinking: Innovate smarter & drive deep engagement with design techniques from hit games. Idea Bite Press.
+Levine, U. (2023). Fall in love with the problem, not the solution: A handbook for entrepreneurs. Matt Holt.
+Drucker, P. (2011). Technology, Management and Society. Routledge. (Original work published 1970)
+Altman, S. (2017, December 14). E Pur Si Muove. Retrieved from https://blog.samaltman.com/e-pur-si-muove
+Williams, B. (2024, January 4). 64+ fascinating Airbnb statistics (Latest 2024 data). Dream Big Travel Far. https://www.dreambigtravelfarblog.com/blog/airbnb-statistics
+Kahneman, D., Sibony, O., & Sunstein, C. R. (2021). Noise: A flaw in human judgment. Little, Brown Spark.
+von Hippel, E. (2005). Democratizing Innovation. The MIT Press.
+CNN. (2012, June 29). 2007: First iPhone announcement [Video]. YouTube. https://www.youtube.com/watch?v=_NE1hp_uDT0
+Play Bigger Team. (2020, February 4). What problem is Category Design solving? Play Bigger. https://www.playbigger.com/media/what-problem-is-category-design-solving
+Stone, B. (2017). The Upstarts: How Uber, Airbnb, and the Killer Companies of the New Silicon Valley Are Changing the World. Little, Brown and Company.
+Mannes, J. (2017, August 23). Here is Uber’s first pitch deck. TechCrunch. https://techcrunch.com/gallery/here-is-ubers-first-pitch-deck/
+Safire, W. (2000, June 11). Bundling. The New York Times. Retrieved from https://archive.nytimes.com/www.nytimes.com/library/magazine/home/20000611mag-onlanguage.html
+Christensen, C. M., Cook, S., & Hall, T. (2005, December). Marketing malpractice: The cause and the cure. Harvard Business Review. https://hbr.org/2005/12/marketing-malpractice-the-cause-and-the-cure
+Wikipedia contributors. (2024). Traitorous Eight. Wikipedia. Retrieved March 19, 2024, from https://en.wikipedia.org/wiki/Traitorous_eight
+Laws, D. (2016, December 20). Fairchild, Fairchildren, and the Family Tree of Silicon Valley. Computer History Museum. https://computerhistory.org/blog/fairchild-and-the-fairchildren/
+Grove, A. (1999). Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company. Crown Publishing.
+Wikipedia contributors. (n.d.). Netscape. In Wikipedia, The Free Encyclopedia. Retrieved April 23, 2024, from https://en.wikipedia.org/wiki/Netscape
+Fox, J. (2014). How to Succeed in Business by Bundling – and Unbundling. Harvard Business Review. Retrieved from https://hbr.org/2014/06/how-to-succeed-in-business-by-bundling-and-unbundling
+Greylock Partners, 2017, Growth Panel with Gustaf Alströmer and Ed Baker, moderated by Josh Elman | The Scaleup Offsite 2017. https://youtu.be/PybOg3uS-FA?t=14m9s
+Johnson, S. (2010, September 21). Where good ideas come from [Video]. TED. https://www.youtube.com/watch?v=0af00UcTO-c
+Blank, S. (2021, November 4). How to Find a Market? Use Jobs-To-Be-Done as the Front End of Customer Discovery. Steve Blank. https://steveblank.com/2021/11/04/market-definition-its-the-front-end-of-customer-discovery/
+The Documentary Network. (2013, August 12). Project Code Rush - The Beginnings of Netscape / Mozilla Documentary [Video]. YouTube. https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
+Greylock. (2015, October 13). Blitzscaling 05: John Lilly on Leveraging Community to Scale Mozilla [Video]. YouTube. https://www.youtube.com/watch?v=Fm7mN9ERp4o
+Miller, D. (2017). Building a StoryBrand: Clarify Your Message So Customers Will Listen. HarperCollins Leadership.
+Ramadan, A., Peterson, D., Lochhead, C., & Maney, K. (2016). Play Bigger: How Pirates, Dreamers, and Innovators Create and Dominate Markets. Harper Business.
+Harrison, G., & Grosz, F. (2021). The Mutually Beneficial Trading Tree. Harrison Metal Press.
+Hoffman, R., Yeh, C., & Gates, B. (2018). Blitzscaling: The lightning-fast path to building massively valuable companies. Crown Currency.
+Schumpeter, J. A. (2008). Capitalism, socialism, and democracy. Harper Perennial Modern Thought. (Original work published 1942)
+Robinson, K. (2006, June). Do schools kill creativity? [Video]. TED Conferences. https://www.ted.com/talks/sir_ken_robinson_do_schools_kill_creativity
+Hoffman, R. (2019, March 14). How to build a strong, scalable culture for blitzscaling. LinkedIn. Retrieved from https://www.linkedin.com/pulse/how-build-strong-scalable-culture-blitzscaling-reid-hoffman/
+Schwartz, S. (n.d.). Through Heaven's Eyes. MusicalSchwartz.com. Retrieved May 9, 2024, from https://www.musicalschwartz.com/through-heavens-eyes.htm
+Cameron, J. (1992). The artist's way: A spiritual path to higher creativity. Jeremy P. Tarcher/Putnam.
+McKee, R., & Gerace, T. (2018). Storynomics: story-driven marketing in the post-advertising world. New York, Twelve.
+Maslow, A. H. (2011). Toward the Psychology of Being. Martino Publishing.
+Fisher, M. (2022). The Chaos Machine: The Inside Story of How Social Media Rewired Our Minds and Our World. Little, Brown and Company.
+Graham, P. (2014, September 23). Lecture 3 - Before the Startup [Video]. YouTube. Y Combinator: The Vault. https://www.youtube.com/watch?v=ii1jcLg-eIQ
+Leone, D. (2017). Doug Leone. Sequoia Capital. Retrieved from https://web.archive.org/web/20171116053437/https://www.sequoiacap.com/people/doug-leone/
+Charman, T. (2015, June 18). The difference between Bootcamps, Incubators and Accelerators. Tom Charman. Retrieved from https://medium.com/business-startup-development-and-more/the-difference-between-bootcamps-incubators-and-accelerators-632a4d4e8bd8
+Dov Seidman. (2007). How: Why How We Do Anything Means Everything. Wiley.
+Brande, D. (2019). Becoming a Writer. General Press.
+Dearing, M. (2017, March 26). The cognitive distortions of founders. Medium. https://medium.com/@mcgd/the-cognitive-distortions-of-founders-8e96c1edf60b
+Chen, A. (2024). How to break into Silicon Valley. Retrieved February 26, 2024, from https://andrewchen.com/how-to-break-into-silicon-valley/
+Galli, M. (2023, March 13). The History of Web Developers Tied to Browser Development. Hackernoon. https://hackernoon.com/the-history-of-web-developers-tied-to-browser-development
+Strategyn. (2024). The JTBD Framework. Retrieved February 15, 2024, from https://strategyn.com/jobs-to-be-done/customer-centered-innovation-map/
+Blank, S. (2011, March 31). Entrepreneurship is an Art not a Job. Steve Blank. https://steveblank.com/2011/03/31/entrepreneurship-is-an-art-not-a-job/
+Blank, S. (2010, November 1st). No Business Plan Survives First Contact With A Customer – The 5.2 billion dollar mistake. Retrieved from https://steveblank.com/2010/11/01/no-business-plan-survives-first-contact-with-a-customer-%E2%80%93-the-5-2-billion-dollar-mistake/
+Blank, S. (2014, March 13). MAP14 Public Forum: Steve Blank [Video]. YouTube. https://www.youtube.com/watch?v=UFx2CQUTpYo
+Draper, B. (2017, November 9). Bill Draper: The Origins of Venture Capital in Silicon Valley. [Video]. YouTube. https://www.youtube.com/watch?v=QqwKuKKWiJ4
+Sen, A. (2006). Identity and Violence: The Illusion of Destiny. W. W. Norton & Company, Inc.
+Benjamin J. Warnicka, Charles Y. Murnieks, Jeffery S. McMullen, Wade T. Brooks. (2018). Passion for entrepreneurship or passion for the product? A conjoint analysis of angel and VC decision-making. Journal of Business Venturing Volume 33, Issue 3, May 2018, Pages 315-332. Retrieved from https://doi.org/10.1016/j.jbusvent.2018.01.002
+Stanford. (2013). Entrepreneurship Through the Lens of Venture Capital [Video]. Interview with Howard Hartenbaum. Available at: https://www.youtube.com/watch?v=zRIPiISZucY
+Bouizegarene, N., Bourdeau, S., Leduc, C., Gousse-Lessard, A.-S., Houlfort, N., & Vallerand, R. J. (2018). We are our passions: The role of identity processes in harmonious and obsessive passion and links to optimal functioning in society. Self and Identity, 17(1), 56–74. https://doi.org/10.1080/15298868.2017.1321038
+Klein, M. (2009). The power makers: steam, electricity, and the men who invented modern America. Bloomsbury Press. First U.S. edition.
+Duggan, K. (2015, August 11). Using OKRs to Drive Results aka “Secrets to Crushing Your Goals” [Video]. HeavyBit. Retrieved from https://www.heavybit.com/library/video/using-okrs-to-drive-results-aka-secrets-to-crushing-your-goals
+Gallo, C. (2016, March 21). Andy Grove's Fundamental Rule Of Communication. Forbes. https://www.forbes.com/sites/carminegallo/2016/03/21/andy-groves-fundamental-rule-of-communication/
+Nightingale, J. (2017). How Fucked Up Is Your Management. Raw Signal Press.
+Dearing, M. (2019, July 2). Thank you, Daniel McCallum. Retrieved from https://medium.com/@mcgd/thank-you-daniel-mccallum-133d27e98468
+MIT (Producer). (2015, May 19). User Innovation: A Path to Entrepreneurship [Video]. edX. Retrieved from https://www.youtube.com/watch?v=LpBSY9_RyCgl
+Blank, S. (2014, March 13). [Video]. MAP Unimelb. https://www.youtube.com/watch?v=UFx2CQUTpYo
+Blitzscaling 20: Final Recap and Student Discussion. (2015, December 9). [Video]. YouTube. https://www.youtube.com/watch?v=IyY3t4loUig
+Chen, A. (2021). The Cold Start Problem: How to Start and Scale Network Effects. Harper Business.
+Nightingale, M. (2016). Why it’s a Mistake to be a Startup Superhero. Medium. Recuperado de https://medium.com/the-copour/why-its-a-mistake-to-be-a-startup-superhero-e221b0969ec9
+Wong, K. (2015, August 9th). Making It Through The Startup 'Trough Of Sorrow'. Retrieved from https://www.forbes.com/sites/kylewong/2015/08/09/making-it-through-the-startup-trough-of-sorrow/#3d282a0990e0
+Hoffman, R., & Casnocha, B. (2012). The start-up of you: adapt to the future, invest in yourself, and transform your career. New York: Crown Business.
+How to Start a Startup. (October 2nd, 2014). Lecture 4 - Building Product, Talking to Users, and Growing (Adora Cheung). Retrieved fom https://www.youtube.com/watch?v=yP176MBG9Tk
+Grant, A. Originais. Editora.
+Green, J. (2015). The Opportunity Analysis Canvas.
+Belsky, S. Making Ideas Happen.
+Stanford Graduate School of Business. (2014, July 11). Sequoia Capital's Doug Leone on Luck & Taking Risks [Video file]. Retrieved from https://youtu.be/4cl8X02Xd1I
+Dalio, R. (2017). Principles: Life and work. Avid Reader Press/Simon & Schuster.
+Collins, J. (1994). Built to Last: Successful Habits of Visionary Companies. Harper Business; 3rd ed. edition.
+Osherove, R. (2016). Elastic Leadership: Growing Self-Organizing Teams. Manning Publications.
+Leanpub. (April 4, 2012). Interview with Roy Osherove, author of Notes to a Software Team Leader [Video]. YouTube. https://www.youtube.com/watch?v=Hr6YoQH1cEs
+Blank, S. (2013). Why the Lean Start-Up Changes Everything. Harvard Business Review. Retrieved from https://hbr.org/2013/05/why-the-lean-start-up-changes-everything
+Altman, S. (2015, September 30). Blitzscaling 02: Sam Altman on Y Combinator and What Makes The Best Founders [Video]. Greylock. https://www.youtube.com/watch?v=CxKXJWf-WMg&t=456s
+Blank, S. (2010, January 14). A Startup is Not a Smaller Version of a Large Company. Retrieved from https://steveblank.com/2010/01/14/a-startup-is-not-a-smaller-version-of-a-large-company/
+Google for Startups. (2014, July 17). Lean Startup Meets Design Thinking [Video]. YouTube. https://youtu.be/bvFnHzU4_W8
+Y Combinator. (2016, October 25). Marc Andreessen at Startup School SV 2016 [Video]. Retrieved from https://www.youtube.com/watch?v=NEOR0AJsziE
+Peterson, J. (2021, March 13). Beyond Order: Another 12 Rules for Life. [Video]. YouTube. https://www.youtube.com/watch?v=I5hgil3fJu0
+Stanford. (2013, February 20). Entrepreneurship through the lens of venture capital | Team [Video]. YouTube. https://www.youtube.com/watch?v=zRIPiISZucY
+Valuetainment. (2018, October 18). Jordan Peterson - UNCENSORED [Video]. YouTube. https://www.youtube.com/watch?v=dvBbxbjFRw4
+Wikipedia contributors. (n.d.). Business Model Canvas. Wikipedia. Retrieved December 6, 2023, from https://en.wikipedia.org/wiki/Business_Model_Canvas
+Graham, P. (2012, September). Startup = Growth. Retrieved August 29, 2023, from http://www.paulgraham.com/growth.html
+Fisher, W. (1989). Human communication as narration. University of South Carolina Press.
+Ries, E. (2011). The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses. Crown Business.
+Ries, E. (2017). The Startup Way: How Modern Companies Use Entrepreneurial Management to Transform Culture and Drive Long-Term Growth. Currency.
+Ulwick, T. (2017). Outcome-Driven Innovation: JTBD Theory in Practice. Medium. https://jobs-to-be-done.com/outcome-driven-innovation-odi-is-jobs-to-be-done-theory-in-practice-2944c6ebc40e
+Hoffman, R., & Casnocha, B. (2013, July 15). The Startup of You. CreativeLive. Retrieved January 18, 2024, from https://youtu.be/e2X54ALRkZg?si=OF_2-LTUk6KR17ip
+Harrison Metal. (2016, October 25). Objectives & Key Results [Video]. Vimeo. https://vimeo.com/188846225
+Fried, J., & Hansson, D. H. (2018). It doesn't have to be crazy at work. HarperCollins.
+Jobs, S. (2005, March 7). Steve Jobs' 2005 Stanford Commencement Address [Video]. Stanford University. https://www.youtube.com/watch?v=UF8uR6Z6KLc
+Dearing, M. (2013, July 16). Pricing [Video]. HeavyBit. https://www.heavybit.com/library/video/harrison-metals-michael-dearing-on-pricing
+Covey, S. (1989). The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change. Fireside.
+Drucker, P. (2008). Managing Oneself. Harvard Business School Press.
+Spero Ventures. (2018, February 13). Michael Dearing at the 2018 NYC Product Leader Summit: "Two Blasts from the Past" [Video]. YouTube. https://www.youtube.com/watch?v=oBOOcBgHxTU
+Dearing, M. (2016, September 10). Competitive micro-markets for product development. Medium. https://medium.com/@mcgd/competitive-micro-markets-for-product-development-e74fe56b1c02
+Hoffman, R. (2017, August 30). Reid Hoffman: Build A World-Changing Business | Chase Jarvis LIVE [Video]. YouTube. https://www.youtube.com/watch?v=ka--XKeI-o8
+Doerr, J. (2018). Measure What Matters. Portfolio/Penguin, p. 46.
+Rekhi, S. (n.d.). 6 Steps for setting high-leverage OKRs. Reforge. Retrieved January 12, 2024, from https://www.reforge.com/previews/growth/okr-guide
+Wodtke, C. (2022, February 4). Are You Sure You Want to Use OKRs? Retrieved from https://cwodtke.medium.com/you-cant-handle-okrs-5465cf161e81
+Wodtke, C. (2023, March 16). The ultimate guide to OKRs | Christina Wodtke. Lenny's Podcast. Retrieved from https://www.youtube.com/watch?v=kvkL18Ue0dE&t=886s
+Head, K. (2024). Output vs. Outcome with OKRs. What Matters. Retrieved January 29, 2024, from https://www.whatmatters.com/faqs/outputs-vs-outcome-okr
+Doerr, J., Panchadsaram, R., & Shufro, L. (2024). OKR Certification: Leadership and Goal Setting. Coursera. Retrieved January 29, 2024, from https://www.coursera.org/learn/okr
+Panchadsaram, R. [What Matters]. (2020, September 8). OKRs 101 - Lesson 3.2: Inputs, Outputs and Outcomes - Learn how to set and achieve audacious goals [Video]. YouTube. https://www.youtube.com/watch?v=Y6YuldODk3E
+Seiden, J. (2019, July 16). To write better OKRs, use outcomes. Medium. Retrieved from https://medium.com/@jseiden/to-write-better-okrs-use-outcomes-e82be6e7b460
+Nightingale, J. (2017, February 8). Leadership is not about your good intentions: Managing junior vs senior staff, and why you might be an ass. The Co-pour. Retrieved from https://mfbt.ca/leadership-is-not-about-your-good-intentions-5e21666cb01b
+Ries, E. [Talks at Google]. (2011). The Lean Startup [Video]. YouTube. https://www.youtube.com/watch?v=fEvKo90qBns
+Zinsser, W. (2006). On Writing Well: The Classic Guide to Writing Nonfiction (7th ed.). Harper Perennial.
+Kofman, F. (2006). Conscious business: How to build value through values. Boulder, CO.
+Gendler, T. (2012, April 5). Weakness of the Will and Procrastination. YaleCourses. Retrieved February 2, 2024, from https://www.youtube.com/watch?v=xp3m7e9T72k
+Greylock. (2017, June 20). The Job of a CFO at a Scaling Company with Sarah Friar and Jason Child | The Scaleup Offsite 2017 [Video]. YouTube. https://www.youtube.com/watch?v=[VideoID]
+Zander, B. (2008, February). The transformative power of classical music [Video]. TED Conferences. https://www.ted.com/talks/benjamin_zander_the_transformative_power_of_classical_music
+
+Stage of writing
+
+Origins: 2017. 
+Active: 2023, now around episode 200 (3-5h a day)
+
+
+
+# Book presentation v2.7 
 
 * Version v2.7
 * By Marcio S Galli 

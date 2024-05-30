@@ -91,6 +91,122 @@
 
 # letters
 
+
+## ----------------------------------------------------
+## Letter to Chris Hoffman, May 30th 2024 
+
+* https://mail.google.com/mail/u/0/#sent/KtbxLwgZVwjDDccMZJKdWcPBwPDlzZFlzL?compose=GTvVlcRwRrwKWhtFmPQsdHQZsSsCmSFvzgDQgFJJgBmCnpbsxdzNpfvMsftJGFJbfQvRMLFLqfmxL
+
+```
+Hi Chris,
+
+I had updated today the v2.8 of the intro to the book, attached, after
+doing other cycles of writing/editing in the whole material, not
+exactly this one. The total sum of days are not around 200 days
+writing.Today, I did a pass in this one, although not with careful
+editing as needed.
+
+Anyway, in terms of the updates, I kept that "Introduction", yet using
+SCqA, as a part or a placeholder to explain the structure of the book,
+and why. This is for the case that the
+reader-investor-partner-supporter wants to know the logical structure
+of the book. In theory, the very first paragraph wants to be a
+placeholder for a short introduction. The other sections are in a way
+supporting points as in "more info". I had removed some parts at the
+bottom and dumped a set of references I have used which I learned that
+it tells a lot to the kind of audience of supporters at this stage.
+Notice that among the audience of supporters we have people like Chris
+Yeh (coauthor of Reid Hoffman), Steve Blank (Lean Startup Movement).
+
+I am approaching a phase where I am fine with what I wrote for about
+10 chapters.Not meaning that they are good but to some extent that
+they are enough in the sense of what an author wanted to put it out.
+In my words, I had assembled many chickens; although some of them have
+3 eyes, others have no feathers. But they seem to stand. Considering
+that, I am not so far from what I believe is a manuscript that could
+be, perhaps, read by this first group, perhaps mutilated. Of course,
+this will be a careful and strategic work when this gets in the hands
+of a professional editor, since it is known that editors
+(professionals included) can miss the style or language. Even the top
+ones can miss things, can cut things first and think later.
+
+For many of these materials (sections) it seems to be a non-linear
+process, so it seems to be the case that the aggregated sum of
+knowledge ends up taking the writer-editor to revisit the materials.
+As an example, I removed 120 pages in a day after achieving clarity
+about certain things. I would, for now, and if I can, and if you can,
+invite or ask you to read one of these chapters, or a section of a
+chapter, or perhaps something like a foreword. As in, to alternate a
+bit the focus due to the non-linearity and given that all sections
+should stand on their own - the chicken should look like a chicken.
+
+Of course, if you have time and If you are interested in considering
+some of these chapters. Then, I could perhaps send the index with the
+title and a short summary of each. Perhaps, as a suggestion, one to
+take a look (which I would think of you) is the one I connect with
+Silicon Valley entitled Environment under the Part 1 where I explore
+how the rich environment, fast and furious sometimes, set us in a
+direction, how tools and methods tell us what to do, how to do and why
+to do it; especially now in the networked world.
+
+For now, I say thanks a lot, again, for the comment that you have
+given, which is open in my goal setting table. I am revisiting them
+again. Nevertheless, you are welcome to print the following, I
+recommend printing with 75% and notes on the side. You can mail it.
+Or, you can do it in any way you like. In case you are unable to
+follow up in any way, at this point, keep in mind that you have helped
+me so many times already and the fact that you are there in the
+"thanks" section is just another way for me to say thanks. And if the
+book gives a chunk of million dollars, I must find a way to sail to
+your place and leave the boat.
+
+```
+
+## ----------------------------------------------------
+## Letter to Erick Krock, intro of book, May 30th 2024 
+
+* https://mail.google.com/mail/u/0/#search/erichasblueeyes%40gmail.com/QgrcJHsHqfTHbnWqCFTFfqmMrMXJXSKQlPL?compose=GTvVlcRwRrwKWhtFmPQsdHQZsSsCmSFvzgDQgFJJgBmCnpbsxdzNpfvMsftJGFJbfQvRMLFLqfmxL
+
+```
+Thanks Eric. I am attaching the intro of the book for now. In case you
+have a chance to read it. Feel free to comment in any way, strategic
+or high level or not. Up to you. Above all is to let you know too.
+This is the kind of document which I use to pitch supporters, I guess,
+or so far.
+
+MG
+```
+
+
+## ----------------------------------------------------
+## Letter to friend Dan Barry, Enterprise Ireland, May 30th 2024
+
+* https://mail.google.com/mail/u/0/#sent/FFNDWLHpljhTvNDftJNGQxvZxMLTbnPB?compose=GTvVlcRwRrwKWhtFmPQsdHQZsSsCmSFvzgDQgFJJgBmCnpbsxdzNpfvMsftJGFJbfQvRMLFLqfmxL
+
+```
+Only if you have time, to print in a coffee shop. And if so, feel free
+to (at this time) suggest what you think has worked. As in elements
+that helped the audience to form an image, a diagram, then follow a
+logic. Notice that this is a very tiny portion of a chapter. Actual
+the test to see if a section stands on its own is, actually in fact, a
+test.
+```
+
+
+## ----------------------------------------------------
+## Letter to friend Arun Ranganathan, Roon (Sequoia invested), May 30th 2024
+
+* https://mail.google.com/mail/u/0/#sent/KtbxLvhNRsPpnksDkwSbXfDgNPWBZqMztg?compose=GTvVlcRwRrwKWhtFmPQsdHQZsSsCmSFvzgDQgFJJgBmCnpbsxdzNpfvMsftJGFJbfQvRMLFLqfmxL
+
+```
+Only if you have time, to print in a coffee shop. And if so, feel free
+to (at this time) suggest what you think has worked. As in elements
+that helped the audience to form an image, a diagram, then follow a
+logic. Notice that this is a very tiny portion of a chapter. Actual
+the test to see if a section stands on its own is, actually in fact, a
+test.
+```
+
 ## ----------------------------------------------------
 ## Letter to Bill and Melinda Gates foundation site 
 
