@@ -8,7 +8,7 @@
 -->
 
 <!--
-        @outline - Corporate beast fearful (AG)
+@outline - We don't talk, emotions in the corporate. 
 -->
 
 #### The grown up situation
@@ -16,27 +16,65 @@
 
 
 
-##### PItch - feeling emotions? Touchy feely?
+We want to feel emotions, we want to recognize fear, we want to allow ourselves to be vulnerable. These aren't  statements that we generally get busy with, or even think of, especially in the entrepreneurial or the corporate work setting. It sounds as things for a therapy session. But the fact that the work setting doesn't give us the space for this reflection doesn't mean that we're not impacted by emotions, and that these aren't impacting the future of our organizations, and with that too of ourselves as beings. We know too, that somewhere it is in there, it's just hidden, this connection, exactly shaded from the reflections not taking place.
 
-
-We want to feel emotions, we want to recognize fear, we want to allow ourselves to be vulnerable. These aren't  statements that we generally get busy with, or even think of, especially in the entrepreneurial or the corporate work setting. It sounds as things for a therapy session. But there is a reason for us to insist, besides our general inclination. It turns out that there are touchy-feely issues [^footnote_andygrove_touchy_feely] that are real throughout the entrepreneurial journey, not matter the size of the organization, exactly because these are organizations that grows from humans driving them, humans in a jorney for success, humans that will eventually follow their own success, and will eventually fear change. In this section, we will take a ride with Andy Grove, the late CEO of Intel that had the chance to consider reflecting about this subject, as he said *touchy-feely* issues, through the journey of Intel. Andy had the opportunity to reflected about this when he were leading Intel, when Intel was already a grown up company - the world's largest memory manufacturer - and when Intel were facing a struggle in front of a possibility of dying (being the same) or changing (becoming Intel again) - again to be or not to be. 
+It takes a great human and a great deal of courage for a leader to recognize, to bring any subject closer to that, especially in the context of grown up organizations. For the one that reflects, and furthermore that speaks about these touchy-feely [^footnote_andygrove_touchy_feely] issues, right there struggles. Because it's not a movement toward success as it is seen. Because it sounds like going back to the beginning. This is the case of Andy Grove, the late CEO of Intel Corporation, that had, in fact, looked at what he were doing, and had balanced his duties, as the then CEO of Intel Corporation. Andy set himself into the reflection and considered this subject, these said touchy-feely issues, entered the effort to reconcile these aspects and the dynamics of emotional humans and how that affects any organization, especially when the grown up organization faces a need to change.
 
 [^footnote_andygrove_touchy_feely]: In his book *Only the Paranoid Survive* (1999), Andy Grove discusses, in *Let Chaos Reign*, what he calls *The Touchy-feely Issues*, that in certain situations, particularly those faced by large corporations, managers often react emotionally to crises (p. 123) as business people are humans where their personal growth and emotions are closely tied to the identity and well-being of their business.
 
 
-##### All the same 
 
 
-What we will see next, does not require a lot of flexible or distorted thinking, for us to see the commonality among the grown up (corporate) situation and the startup and the individual situation that we have discussed. If we think that all of these are entities, we can think of them in a jorney of getting things done, and then in a journey of getting things done doing things in the right way. As we have seen, in the early stage, the start may set a struggle such as when the critic, which is certain a conscious being, attacks the attempt for work of the creative being. The same situation, in a way, we have seen too in the early startup stage, with the illustrations of a team trying to do the right moves, such as being driven by social interactions, and even PR which investor-professor Michael Dearing referred as freaking PR. In both situations, the being or the team or the entity had found the block situation which was an opportunity for us to reflect about a potential reality that they would need to face change, to find a working model again, to find a way to bring joy or to enjoy the work to pass the struggle. This certainly involves recognizing that a balance is needed - such as one that separates what is right in the eyes of the beholder with what is honest given the moment, an honesty that may allow the doer to work, the creative flow to flow, the startup team to continue to work. 
 
-Now, for the big or grown up situation there is nothing much different, except the size and some particular characterizations of the hierachical setting that sets them to move slow but with heavy and leaving strong footprints. These grown entities need to go through change too just like their smaller forms. And like any other form they too will be frightened of being wrong. That thought from Sir Ken Robison, that "by the time they get to be adults, most kids have lost that capacity," applies even more to the corporate beast. It only adds, with success, with the inertia of success [^footnote_andygrove_inertia_of_success].
+
+<!--
+@outline - context, Intel? 10x and inflection?
+-->
+
+Now before we go on into this ride, we should contextualize first the situation which had brought Andy to dig into this, which starts with the 10x force and the inflection points. 
+
+
+
+
+
+
+
+
+
+<!--
+@outline - Passage 
+--> 
+
+
+If we set our time machine to 1985, and land ourselves in the Ferris wheel of the Great America park in Santa Clara California, we would be able to point our binoculars to Intel's headquarters and witness that special conversation between Andy Grove and Gordon Moore, as documented in *Only The Paranoid Survive*, the conversation that marks a moment of transcendence from Intel management that took them to "The bold decision to commit Intel’s future to microprocessors," [^foonote_hbr_intel_1996] which brought Intel a major transformation to the world, that consumers get that Intel meant the computer's brains: 
+
+[^foonote_hbr_intel_1996]: The article from HBR titled "Inside Intel" by Adam Brandenburger and Barry Nalebuff (1996), underscores the importance of adaptability in the face of industry crises and technological shifts. In essence, the article considers Intel's journey through significant challenges, including the competitive pressure from Japanese semiconductor manufacturers in the mid-1980 which led to a strategic pivot from memory chips to microprocessors, and how the success from transformation brings new challenges, like a totally new game or sport where the organization has to transcend in order to survive.  
+
+> *"I remember a time in the middle of 1985, after this aimless wandering had been going on for almost a year. I was in my office with Intel's chairman and CEO, Gordon Moore, and we were discussing our quandary. Our mood was downbeat. I looked out the window at the Ferris wheel of the Great America amusement park revolving in the distance, then I turned back to Gordon and asked, 'If we got kicked out and the board brought in a new CEO, what do you think he would do?' Gordon answered without hesitation, 'He would get us out of memories.' I stared at him, numb, then said, "Why shouldn't you and I walk out the door, come back and do it ourselves?'"* (Grove, A., 1999, p. 89)  
+
+<!-- 
+@meta @references 
+* reference - Grove, Andrew. (1999). Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company. [Só os Paranóicos Sobrevivem]. Crown Publishing.
+--> 
 
 <!--
 @meta @todo 
-* @todo - p2 ( ) - In Running, Fear, Being Right, Grown Up Situation - Review the Inertia of Success, likely in the book Only the Paranoid Survive. @meta-refid 1212-2323-3334-7474
+* @todo - p2 (Done) - In Identity - Bring the case of Great America, is the main point needed - @meta-refid 3332-7866-3232-1222
 --> 
 
-[^footnote_andygrove_inertia_of_success]: In business, the concept of "inertia of success" refers to the tendency of successful companies to become complacent and resistant to change, ultimately leading to their downfall. Andy Grove, a former CEO of Intel, famously highlighted this phenomenon, warning that past successes can create a false sense of security, making organizations less agile and adaptable to new challenges and market conditions.
+
+
+
+
+
+
+Now if that moment had gained that picture; it is the picture of invitation that recognizes the roles of the being into the major problem and how the marutity that we achive, especially in the situations of the major ship, become acting forces on us. We flip this postal and it would like Andy is asking us - keep here with me, let us talk about a lot else that happens with us, and the subtitle things that we may not even note if we are not aware. This invitation holds three themes. 
+
+One is the consideration of emotions and the state of grief, in the face of change, which involves loss, associated from the success. 
+
+The other is our reaction, as we fear, or as the organization set us into a movement, and our natural tendency to defend and fear knowing, and which involves diversion. 
+
+And then we shall conclude with observations of effects in the aggregated organization and stages of allowance. 
 
 
 
@@ -53,16 +91,22 @@ Now, for the big or grown up situation there is nothing much different, except t
 
 
 
-
-
-##### Grief? 
 
 <!--
-@outline - Andy on fear, or loss, similar to grief
+@outline - Stages of grief 
 --> 
 
 
+##### Grief 
 
+For Andy, there exists a sequence of emotions that is not too different from those experienced during the loss of loved ones, which can be experienced by people, like leaders in the corporate setting, in the midst of what he called "inflection points." 
+
+
+
+> *"A manager in a business that is undergoing a strategic inflection point is likely to experience a variation of the well-known stages of what individuals go through when dealing with a serious loss. This is not surprising because the early stages of a strategic inflection point are fraught with loss. Loss of your company's preeminence in the industry, of its identity, of a sense of control of your company's destiny, of job security and, perhaps the most wrenching, the loss of being affiliated with a winner. However, unlike the accepted model of the sequence of emotions associated with grief, i.e., denial, anger, bargaining, depression and, ultimately, acceptance, in the case of a strategic inflection point, the sequence goes more as follows, denial, escape or diversion and, finally, acceptance and pertinent action."* 
+
+
+##### More on grief 
 
 Let us first bring about his definition of an inflection point in the context of a major organization. According to Andy, Intel went through a few of those but likely the most iconic passage were when Intel had to drop its identity from *being* a memory chip manufacturer, and went to the the struggle, to embrace *becoming*, a microprocessor manufacturer. Since Intel survived that inflection point, Intel became known as the largest manufacturer of microprocessors, and then too so many managers got to know the so manygood thoughts from Andy. The following passage gives us a view: 
 
@@ -73,8 +117,16 @@ But then, as the major corporation is passing through that, is perhaps a reflect
 He suggests a parallel between the sequence of losing a loved one and the sequence experienced in the corporate domain during an inflection point. Grove revealed that he wrote one of his books amidst one of these turbulent journeys that Intel went through around the 1980s suggesting that in that situation, he might have been escaping from recognizing the situation? Perhaps?
 
 
+##### Inertia of success 
 
+Now, for the big or grown up situation there is nothing much different, except the size and some particular characterizations of the hierachical setting that sets them to move slow but with heavy and leaving strong footprints. These grown entities need to go through change too just like their smaller forms. And like any other form they too will be frightened of being wrong. That thought from Sir Ken Robison, that "by the time they get to be adults, most kids have lost that capacity," applies even more to the corporate beast. It only adds, with success, with the inertia of success [^footnote_andygrove_inertia_of_success].
 
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Running, Fear, Being Right, Grown Up Situation - Review the Inertia of Success, likely in the book Only the Paranoid Survive. @meta-refid 1212-2323-3334-7474
+--> 
+
+[^footnote_andygrove_inertia_of_success]: In business, the concept of "inertia of success" refers to the tendency of successful companies to become complacent and resistant to change, ultimately leading to their downfall. Andy Grove, a former CEO of Intel, famously highlighted this phenomenon, warning that past successes can create a false sense of security, making organizations less agile and adaptable to new challenges and market conditions.
 
 ##### Business people are managers 
 
@@ -90,20 +142,14 @@ He suggests a parallel between the sequence of losing a loved one and the sequen
 
 
 
-##### Grief 
 
 
 
-<!--
-@outline - Stages of grief 
---> 
-
-
-For Andy, there exists a sequence of emotions that is not too different from those experienced during the loss of loved ones, which can be experienced by people, like leaders in the corporate setting, in the midst of what he called "inflection points." 
 
 
 
-> *"A manager in a business that is undergoing a strategic inflection point is likely to experience a variation of the well-known stages of what individuals go through when dealing with a serious loss. This is not surprising because the early stages of a strategic inflection point are fraught with loss. Loss of your company's preeminence in the industry, of its identity, of a sense of control of your company's destiny, of job security and, perhaps the most wrenching, the loss of being affiliated with a winner. However, unlike the accepted model of the sequence of emotions associated with grief, i.e., denial, anger, bargaining, depression and, ultimately, acceptance, in the case of a strategic inflection point, the sequence goes more as follows, denial, escape or diversion and, finally, acceptance and pertinent action."* 
+
+
 
 
 
@@ -133,54 +179,7 @@ For Andy, there exists a sequence of emotions that is not too different from tho
 
 
 
-
-
-
-
-
-
-
-<!--
-@meta @outline 
-* Outline - Escape Hatch - Awareness of gown up ship and identity - [feat. AG] 
--->
-
-##### Releasing - from the successful duty 
-
-
-
-Fortunately, like the case of Steve Jobs, I would think that other reflections are alive to us because they had survived that call for change. Now let us then consider the reflections from Andy Grove about the moments that have called for change, as Intel were going through what he had referred as 10x force - when the major ship needed to change when and the challenging situation of being leaders of a major organization that were very successful and where a force, quite natural, would call for inaction instead of a call that calls for reinventing, which took Intel to be a company we know of today, to be a microprocessor company, instead of just yet another example of a company that were buried and taken by the japanese. 
-
-I enjoyed Andy's reflections because he kept going back to the being - to the self - and to consider the states of emotion of executives driving large organizations, even brought up an analogy for how one can go through the phases of grief. The recognition of the case of Andy about Intel's challenge to rethink the identity of the executive team, their position, and the theme that Andy brought where they were able to challenge themselves, himself and Gordon, the conversation in the office when they looked at the Great America ferriswheel. 
-
-If we set our time machine to 1985, and land ourselves in the Ferris wheel of the Great America park in Santa Clara California, we would be able to point our binoculars to Intel's headquarters and witness that special conversation between Andy Grove and Gordon Moore, as documented in *Only The Paranoid Survive*, the conversation that marks a moment of transcendence from Intel management that took them to "The bold decision to commit Intel’s future to microprocessors," [^foonote_hbr_intel_1996] which brought Intel a major transformation to the world, that consumers get that Intel meant the computer's brains: 
-
-[^foonote_hbr_intel_1996]: The article from HBR titled "Inside Intel" by Adam Brandenburger and Barry Nalebuff (1996), underscores the importance of adaptability in the face of industry crises and technological shifts. In essence, the article considers Intel's journey through significant challenges, including the competitive pressure from Japanese semiconductor manufacturers in the mid-1980 which led to a strategic pivot from memory chips to microprocessors, and how the success from transformation brings new challenges, like a totally new game or sport where the organization has to transcend in order to survive.  
-
-> *"I remember a time in the middle of 1985, after this aimless wandering had been going on for almost a year. I was in my office with Intel's chairman and CEO, Gordon Moore, and we were discussing our quandary. Our mood was downbeat. I looked out the window at the Ferris wheel of the Great America amusement park revolving in the distance, then I turned back to Gordon and asked, 'If we got kicked out and the board brought in a new CEO, what do you think he would do?' Gordon answered without hesitation, 'He would get us out of memories.' I stared at him, numb, then said, "Why shouldn't you and I walk out the door, come back and do it ourselves?'"* (Grove, A., 1999, p. 89)  
-
-<!-- 
-@meta @references 
-* reference - Grove, Andrew. (1999). Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company. [Só os Paranóicos Sobrevivem]. Crown Publishing.
---> 
-
-<!--
-@meta @todo 
-* @todo - p2 (Done) - In Identity - Bring the case of Great America, is the main point needed - @meta-refid 3332-7866-3232-1222
---> 
-
-
-
-
-
-
-
-<!--
-@meta @outline 
-* Outline - Escape Hatch - Awareness of being busy - [feat. AG] 
--->
-
-Now if that moment had gained that picture; it is the picture of invitation that recognizes the roles of the being into the major problem and how the marutity that we achive, especially in the situations of the major ship, become acting forces on us. We flip this postal and it would like Andy is asking us - keep here with me, let us talk about a lot else that happens with us, and the subtitle things that we may not even note if we are not aware. One aspect to consider is what Andy had notice - our willingness to escape: 
+ One aspect to consider is what Andy had notice - our willingness to escape: 
 
 > *"Escape, or diversion, refers to the personal actions of the senior manager. .. In my view, a lot of these activities are motivated by the need of senior management to occupy themselves respectably with something that clearly and legitimately requires their attention day in and day out, something that they can justify spending their time on and make progress in instead of figuring out how to cope with an impeding, strategic, destructive force."*  (Grove, A., 1999, pp. 124-125)
 
@@ -227,6 +226,73 @@ To note: We are talking about a senior manager, an educator, a chemical engineer
 @meta @references 
 * reference - Grove, Andrew. (1999). Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company. [Só os Paranóicos Sobrevivem]. Crown Publishing.
 --> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+But there is a reason for us to insist, besides our general inclination. It turns out that there are touchy-feely issues [^footnote_andygrove_touchy_feely] that are real throughout the entrepreneurial journey, not matter the size of the organization, exactly because these are organizations that grows from humans driving them, humans in a jorney for success, humans that will eventually follow their own success, and will eventually fear change. In this section, we will take a ride with Andy Grove, the late CEO of Intel that had the chance to consider reflecting about this subject, as he said *touchy-feely* issues, through the journey of Intel. Andy had the opportunity to reflected about this when he were leading Intel, when Intel was already a grown up company - the world's largest memory manufacturer - and when Intel were facing a struggle in front of a possibility of dying (being the same) or changing (becoming Intel again) - again to be or not to be. 
+
+[^footnote_andygrove_touchy_feely]: In his book *Only the Paranoid Survive* (1999), Andy Grove discusses, in *Let Chaos Reign*, what he calls *The Touchy-feely Issues*, that in certain situations, particularly those faced by large corporations, managers often react emotionally to crises (p. 123) as business people are humans where their personal growth and emotions are closely tied to the identity and well-being of their business.
+
+
+##### All the same 
+
+
+What we will see next, does not require a lot of flexible or distorted thinking, for us to see the commonality among the grown up (corporate) situation and the startup and the individual situation that we have discussed. If we think that all of these are entities, we can think of them in a jorney of getting things done, and then in a journey of getting things done doing things in the right way. As we have seen, in the early stage, the start may set a struggle such as when the critic, which is certain a conscious being, attacks the attempt for work of the creative being. The same situation, in a way, we have seen too in the early startup stage, with the illustrations of a team trying to do the right moves, such as being driven by social interactions, and even PR which investor-professor Michael Dearing referred as freaking PR. In both situations, the being or the team or the entity had found the block situation which was an opportunity for us to reflect about a potential reality that they would need to face change, to find a working model again, to find a way to bring joy or to enjoy the work to pass the struggle. This certainly involves recognizing that a balance is needed - such as one that separates what is right in the eyes of the beholder with what is honest given the moment, an honesty that may allow the doer to work, the creative flow to flow, the startup team to continue to work. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+@meta @outline 
+* Outline - Escape Hatch - Awareness of gown up ship and identity - [feat. AG] 
+-->
+
+##### Releasing - from the successful duty 
+
+
+
+Fortunately, like the case of Steve Jobs, I would think that other reflections are alive to us because they had survived that call for change. Now let us then consider the reflections from Andy Grove about the moments that have called for change, as Intel were going through what he had referred as 10x force - when the major ship needed to change when and the challenging situation of being leaders of a major organization that were very successful and where a force, quite natural, would call for inaction instead of a call that calls for reinventing, which took Intel to be a company we know of today, to be a microprocessor company, instead of just yet another example of a company that were buried and taken by the japanese. 
+
+I enjoyed Andy's reflections because he kept going back to the being - to the self - and to consider the states of emotion of executives driving large organizations, even brought up an analogy for how one can go through the phases of grief. The recognition of the case of Andy about Intel's challenge to rethink the identity of the executive team, their position, and the theme that Andy brought where they were able to challenge themselves, himself and Gordon, the conversation in the office when they looked at the Great America ferriswheel. 
+
+
+
+
 
 
 
