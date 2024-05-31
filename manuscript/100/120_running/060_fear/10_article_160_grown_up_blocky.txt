@@ -1,12 +1,3 @@
-
-<!--
-
-@outline - Big corporations can be blocked? (AG) - 
-
-        * On release and transcending - Leadership deals with the phases, struggle, the paranormal" activities, and more; the subordinates, like specialists, like divisions, may represent the action-driven specialists, not subject to change in the condition of hurrinesst; thus specialists are replaced, thus heads replaced. (AG)
-
--->
-
 <!--
 @outline - We don't talk, emotions in the corporate. 
 -->
@@ -16,13 +7,18 @@
 
 
 
-We want to feel emotions, we want to recognize fear, we want to allow ourselves to be vulnerable. These aren't  statements that we generally get busy with, or even think of, especially in the entrepreneurial or the corporate work setting. It sounds as things for a therapy session. But the fact that the work setting doesn't give us the space for this reflection doesn't mean that we're not impacted by emotions, and that these aren't impacting the future of our organizations, and with that too of ourselves as beings. We know too, that somewhere it is in there, it's just hidden, this connection, exactly shaded from the reflections not taking place.
+
+
+We want to feel emotions, we want to recognize fear, we want to allow ourselves to be vulnerable. These aren't statements observed generally in any entrepreneurial setting or the corporate work. It it may appear in the therapy session of a worker that does not fear these kind of sessions, especially given that corporate decisions impacts our emotions, and vice-versa, and that dynamics impacts the future of our organizations, and circularly of ourselves as human beings. So we know, that somewhere the subject is there. 
 
 It takes a great human and a great deal of courage for a leader to recognize, to bring any subject closer to that, especially in the context of grown up organizations. For the one that reflects, and furthermore that speaks about these touchy-feely [^footnote_andygrove_touchy_feely] issues, right there struggles. Because it's not a movement toward success as it is seen. Because it sounds like going back to the beginning and then it is certainly unavoidable as a theme justifying the avoidable. As focusing in the courageous matters more, it is the case of Andy Grove, the late CEO of Intel Corporation, that had in fact considered this theme, actually from doing it. In other words, part of this struggle had to do with balancing his activities to reflect on what was going on when Intel were grown up but were faced with the opportunity to become, again, as oppose to be defensive, and die. 
 
 Andy set himself into the reflection which involved aspects of the said touchy-feely issues. He had entered the reflective space to reconcile the dynamics of emotional humans, senior management, and how they were affected by the prior success of their work and of their organization, and how that setting had set their own fate in the face of the needed to change and to adapt. 
 
 [^footnote_andygrove_touchy_feely]: In his book *Only the Paranoid Survive* (1999), Andy Grove discusses, in *Let Chaos Reign*, what he calls *The Touchy-feely Issues*, that in certain situations, particularly those faced by large corporations, managers often react emotionally to crises (p. 123) as business people are humans where their personal growth and emotions are closely tied to the identity and well-being of their business.
+
+
+
 
 
 
@@ -48,9 +44,34 @@ Now before we go on into this ride, we should contextualize the situation where 
 
 
 
+
+
+
+
+
+<!-- 
+@outline - The valley of death, according to Andy Grove 
+-->
+
+
+
+> *"But right now, it's a bunch of bits in a confused fashion, and we are just entering the valley of death. It is very confusing in the middle of it. That's not unusual. That is what it's like because the new business model doesn't take shape very clearly. And a lot of people have different ideas on how it's going to be."* (Grove, A., 2019)
+
+
 <!--
-@outline - Passage 
---> 
+@reference 
+* reference - Grove, A. (2019, May 31). Andrew Grove, "Strategic Inflection Points" - 1996 MIT Industry Leaders Program Lecture. MIT Video Productions. https://www.youtube.com/watch?v=LfU2Qu4MzZk
+-->
+
+
+
+
+
+
+
+
+
+
 
 
 If we set our time machine to 1985, and land ourselves in the Ferris wheel of the Great America park in Santa Clara California, we would be able to point our binoculars to Intel's headquarters and witness that special conversation between Andy Grove and Gordon Moore, as documented in *Only The Paranoid Survive*, the conversation that marks a moment of transcendence from Intel management that took them to "The bold decision to commit Intel’s future to microprocessors," [^foonote_hbr_intel_1996] which brought Intel a major transformation to the world, that consumers get that Intel meant the computer's brains: 
@@ -72,16 +93,30 @@ If we set our time machine to 1985, and land ourselves in the Ferris wheel of th
 
 
 
-
-
-
 Now if that moment had gained that picture; it is the picture of invitation that recognizes the roles of the being into the major problem and how the marutity that we achive, especially in the situations of the major ship, become acting forces on us. We flip this postal and it would like Andy is asking us - keep here with me, let us talk about a lot else that happens with us, and the subtitle things that we may not even note if we are not aware. This invitation holds three themes. 
 
-One is the consideration of emotions and the state of grief, in the face of change, which involves loss, associated from the success. 
+One is the consideration of emotions and the state of grief, in the face of change, which involves loss, associated from the success. The other is our reaction, as we fear, or as the organization set us into a movement, and our natural tendency to defend and fear knowing, and which involves diversion.  And then we shall conclude with observations of effects in the aggregated organization and stages of allowance. 
 
-The other is our reaction, as we fear, or as the organization set us into a movement, and our natural tendency to defend and fear knowing, and which involves diversion. 
 
-And then we shall conclude with observations of effects in the aggregated organization and stages of allowance. 
+
+
+
+
+
+##### Abstraction or complication
+
+
+
+<!-- 
+@outline - Mapping out all the situations? 
+--> 
+
+A note to consider the comparison between the being right case of the individual and the true of sorrow case of their startup and the valley of death case of Andy Grove. In all the situations we have the phenomenon where the doer, the one that get things done, the entity, the being that get things done is involved in following the market. Here the young writer establishing the critics on top of the potential being, the creative being, the startup by interacting with external environment, seeking approval, struggles with the realities where the outcome producing may not truly satisfy in the struggles of presenting and adapting to the critics, forcing themselves in the block situation and in similar ways the case of Andy Grove of a major corporation going through the valley of death is essentially about what Andy Grove referred as a corporation that achieved a degree of success or what he calls the inertia of success and then the inflection point required because of the 10x force which might be a new configuration to the environment given by the new setting of the competitive forces. In other words, a movement, a prior movement given by competitive forces is insufficient given that the audience demands are reconfigured. It is the attempt to control success and how we regulate that control that tells what's going to happen essentially.
+
+
+It may not be so far anyway from the trough of sorrow brought before, that situation of a startup essentially talking with the market, projecting its offering, being excited and then realizing the need to commit to a sort of doing again. But while that valley involves a story in the early stage, this valley of death is the equivalent the huge entity - like Intel - which happens to be already living its maturity, had lived from its prior successes, which essentially goes well with the proper possibility as an output - potential death. 
+
+
 
 
 
