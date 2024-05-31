@@ -1,0 +1,138 @@
+## Happiness and animation 
+
+<!-- 
+
+v2.2
+
+[v2.1 - final, exercício reflexivo está na versão portugues]
+[!] Verificar, abaixo, inserir complicação. 
+
+
+### About supermarket of lean 
+
+* Ref - https://chat.openai.com/share/a5e0875c-6279-490a-8997-94c4c14313fc
+  
+-->
+
+On a beautiful day, I, not particularly hungry, was on my way to the bakery to fetch some bread for my mother-in-law. I am not especially drawn to sweets, but somehow I became curious about the variety of cakes and desserts in the display, one in particular. As my eyes scanned the options, they fixed on a peculiar item that made my pupils dilate. It was a kind of cupcake in a transparent plastic cup, very similar to a beer glass, composed of several layers of something. Up to that point, it seemed normal. But then, there was another common dessert on top - a condensed milk pudding. It seemed to be the kind of item that provokes a saying of nowadays that "Brazilians need to be studied."
+
+![Imagem do cupcake com pudem de leite condensado](images/second-layer-cake.jpg)
+
+One would not apparently see that as a problem, but that sweet thing on top was actually a whole dessert, one particularly well-known which would normally stand on its own, sold as it is as it has always existed in isolation and not needed of support of or of supporting other desserts. Apparently, therefore, someone thought that placing that condensed milk pudding on top of a cupcake would make sense. As I wasn't there to deal with it as a consumer, and happened to be intrigued, I couldn't resist asking the attendant what was that thing. That's when she revealed it as "The Pot of Happiness." At that moment, I could feel the charm given by the pot and its title, and effect it could have on the life of a mortal passing by perhaps hungry, found of sweet, and in a hurry. But I didn't went far on that day. I left nervously, kicking the air, right before a few pigeons nearby had decided fly away vigorously. 
+
+<!-- 
+
+## todo 
+
+* p1 ( ) Happyness and animation - #editor-style #editor-humor - I had an insight that may support the line about kicking the air and scarynig the pigeons, to be maintained. Currently it is an arbitrary story as in "I am mad," with "But I didn't went far on that day. I left nervously, kicking the air, right before a few pigeons nearby had decided fly away vigorously. " But what if: When Marcio leaves the bakery and does his nervous movement, kicking the air in desperation, likewise has scared the pigeons that were calmy eating the scraps in the sidewalk. The truth behind the situation - Marcio did the same, too vigorous, too animated, for the pigeons. / 48329483948-43984398-493849384-483084843
+
+--> 
+
+Later, when everything calmed down, I had created an imaginary situation - if pots could talk - which brought to me the a sad realization which forms the basis for this reflection that the pots are already speaking. And even later, when reviewing this section, I happened to go further and consider an exercise assuming that a few more layers of technology existed. In other words, if these cups could be animated, I wondered what if a cup could sell itself as in "hey, buddy, I am the pot of happiness! I'm here to enchant you, to brighten your day." Which brought me to give the following prompt to an AI writing tool: 
+
+> *"My dear chatgpt friend, we are now in 2030 and a new technology of plastic cups are happening where the actual plastic is made of a flexible food-grade LCD-like display and a movement mechanism can also create movement to the cup, although not too much. The pot can also make sounds, speak in other words. And I have a bakery with currently a cupcake, which I happened to gave a great idea of putting a Brazilian condended milk puddim on top, like the granola that goes on top of an yourt. Anyway I want my cup to speak to customers as they pass by, since the cup dynamic animation can be triggered by my other system that detects the presence of the customers. Apologies for the wrong openning. Well, make a saying where the cup greets the customer and tries to sell itself. "* Marcio 
+
+To which the response is the following which I hate to say that I loved it: 
+
+> *"Hello there, sweet tooth adventurer! I'm not just a cup; I'm a delightful experience waiting to happen. Inside me is a scrumptious cupcake topped with the creamy, dreamy Brazilian condensed milk pudding, a treat so unique it's like a carnival in a cup! Don't just walk by; give yourself a moment of delicious joy. Come, take a closer look, and let your taste buds dance to the rhythm of our bakery's special creations!"* ChatGPT 4. 
+
+Many items, products, services, or methods are in front of us, in the showcases of life; when we go out in search of something. My motivation for this article arises from this alarming reality. It starts the moment we go out, because we are looking for something. We no longer go out just to do nothing. And this predisposition is the hook for us to be besieged in spaces, in front of shop windows, websites, search results, and more.
+
+<!-- 
+
+[!] Inserir - Complicação - aqui precisamos de um melhor lead que fala da complicação, razão para o leitor ficar
+--> 
+
+Com essa predisposição nossa - uma necessidade e uma busca - e o assédio psicológico que experimentamos ao presenciar esses "produtos comunicantes", estamos a meio caminho do que vem a seguir - o potencial transacional - que é a nossa tendência de agir, comprar, envolver-se, ler, decidir, você escolhe. O movimento para frente que todo vendedor quer, que toda solução precisa, se pudessem falar. Como eles fazem.
+
+A Situação
+
+Estamos constantemente cercados por opções que prometem nos ajudar a realizar tarefas, resolver problemas e atingir nossos objetivos. Consider o forno elétrico que é pronto para assar uma pizza. Ou um quarto de hotel, que está disponível para uma estadia confortável. Ou aquele Pote da Felicidade que promete satisfazer nossa fome e desejo por doces. Aparentemente a situação não tem nada de mais em um mundo que nem mais ficamos assustados com o que as vitrines prometem. Mas outra situação ou fenômeno (checar sobre chamar de fenômeno), embutida nessa situação, vem da competição pela atenção do consumidor. Os potes estão competindo pela atenção do consumidor. Potes, quartos, fornos e outros produtos, serviços, processos, métodos, etc.   
+
+De fato, não poderia ser diferente em um mundo de soluções que competem. Uma empresa pode criar uma serra melhor caso ela souber melhor o trabalho-a-ser-realizado (job-to-be-done) [^jobtobedone] de um marceneiro diante de uma necessidade. Uma vez que esse produto atende melhor, torna-se uma solução disponível. Essa solução disponível pode então ser disponibilizada para possíveis clientes. Para isso é importante um posicionamento, uma mensagem. Quando o produto é apresentado nas vitrines reais ou digitais, esse produto está contextualizado dentro de uma história, uma história que promete. 
+
+[^jobtobedone]: O conceito de "Job-to-be-Done", na visão do praticante Tony Ulwick, é uma abordagem focada na necessidade do cliente. Em vez de se concentrar em características demográficas ou comportamentais tradicionais, o "Job-to-be-Done" se concentra na ideia de que os clientes "contratam" produtos ou serviços para realizar um "trabalho" específico que persiste no tempo. Este "trabalho" é a necessidade fundamental que o cliente está tentando satisfazer ou o problema que está tentando resolver. Ao entender o "trabalho" que os clientes estão tentando realizar, as empresas podem projetar produtos e serviços que atendam melhor a essas necessidades. Isso permite identificar e atender a um mercado não tradicional, baseado na necessidade persistente, em vez de características demográficas ou comportamentais.
+
+Mas voltando ao usuário, ou cliente, considere a pessoa que anda pela vida resolvendo seus problemas; ou melhor, realizando um trabalho. Elas podem, quase que automaticamente, se verem diante de pressão para escolher. Lógico que essa pressão não vem do fato que produtos e serviços estão de fato gritando por nossa atenção; mas porque eles apresentam um potencial transacional que é apelativo. 
+
+Considere o serviço de aplicativo Uber, por exemplo. Não estamos mais apenas escolhendo entre pegar um táxi ou dirigir nós mesmos. Agora, temos uma miríade de opções Uber à nossa disposição, cada uma prometendo uma experiência de viagem ligeiramente diferente. Temos o UberX, a opção mais acessível para viagens diárias. O Uber Comfort, que oferece carros mais novos e espaçosos para um passeio mais confortável. O Uber Black, para quando queremos viajar com estilo em um carro preto de luxo. O UberXL, para quando precisamos de um carro maior para acomodar um grupo maior. O UberSUV, para quando queremos o luxo do Uber Black, mas em um SUV. O UberPOOL, onde compartilhamos nossa viagem com outros passageiros para economizar dinheiro. O Uber Green, para quem prefere veículos elétricos ou híbridos. O Uber Pet, para quando estamos viajando com nossos amigos peludos. O Uber Assist, para aqueles que precisam de assistência extra para entrar e sair do veículo. E o Uber WAV, para passageiros que precisam de um veículo acessível para cadeira de rodas. E isso é apenas para citar alguns.
+
+Agora, imagine estar diante dessa lista de opções cada vez que você precisa de uma carona. Muitas vezes, a decisão que tomamos não é baseada no que realmente precisamos, mas sim no que é mais atraente ou conveniente no momento.
+
+### Sem tempo para despertar
+
+O verdadeiro despertar poderia ocorrer caso pudéssemos ver além das promessas sedutoras, caso pudéssemos questionar o valor real que essas ferramentas e sistemas trazem para nossas vidas. Se tivessmos tempo para perceber que estamos sendo constantemente bombardeados por apelos e promessas, poderíamos começar a resistir a essa pressão e a fazer escolhas mais conscientes. Mas o fator mais complicado dessa pressão é que ela não tem tom de pressão. Não sentimos. Naquele dia que assustei as pombas, alguém pediu o Pote da Felicidade e nem percebeu a pressão, a narrativa, os gritos do pote. 
+
+### Os Três Níveis de Assédio
+
+Esses itens lutam e de certa forma exercem um assédio em nossas mentes, dado que os encontramos depois que saímos para resolver uma necessidade. O primeiro nível de assédio - vou chamar de assédio da promessa - está ligado ao fato que os itens comunicam, promete, resultados imediatos. Somos atraídos pela ideia de que podemos obter uma solução para o que queremos, agora, sem a necessidade de esperar ou trabalhar para isso. Muitos dos potes de prateleiras das padarias estão prontos para consumo. Da mesma forma, quem quer fazer um bolo pode irá encontrar, no corredor de bolos do supermercado, uma solução pronta para cookies. 
+
+O segundo nível de assédio - o assédio das oções - acontece quando estamos navegando dentro de uma categoria, por exemplo a vitrine dos doces da padaria ou o menu de pizzas. Neste contexto, estamos cativados em uma vontade de encontrar a melhor opção dentro das opções, ponderando sobre qual opção será vencedora sem ter tempo de refletir se você precisava daquilo em primeiro lugar. Ainda, esse local onde somos colocados foi muito já estudado por psicólogos e especialistas em vendas e precificação. Considere, por exemplo, o menu de lanches abaixo, se a presença do lanche caro de R$ 56,00 poderia influenciar o usuário a pedir o lanche "barato" de R$ 25,00. 
+
+![](menu-lanches.jpg)
+
+O terceiro nível - o assédio da decisão - está ligado ao potencial de engajar, da decisão. Queremos decisão, sabemos que é bom decidir. O mundo nos parabeniza por isso. Porém de outro lado existem mensagens presentes na comunicação desses itens, trazendo sua mente para o ponto de decisão. Considere, por exemplo, que vendedores e criadores de *landing pages* são especialistas na criação do botão ou frase intitulada CTA ou *call to action*. Donald Miller, especialista em storytelling de marketing e autor do método StoryBrand, indica que a falta do *Call to Action* é como um episódio de namoro que deu certo mas que faltou a frase "Vamos casar?" 
+
+#### Consider the interaction with ChatGPT about available solutions in the supermarket of entrepreneurship
+
+* Ref - https://chat.openai.com/share/a5e0875c-6279-490a-8997-94c4c14313fc
+
+Is business model canvas good for entrepreneurs? And what about customer discovery? And qualitative interviews? And other lean methods. Make a table with short response. 
+ChatGPT
+Certainly, the following table provides a brief insight into some of the methodologies and tools that entrepreneurs might use for planning and validating their business ideas.
+
+Method/Tool	Short Response
+Business Model Canvas	Yes. It's an excellent visual tool that provides a structured way for entrepreneurs to outline how their business creates, delivers, and captures value. It's user-friendly and helps in ensuring that all the key components of a business are considered.
+Customer Discovery	Essential. It is crucial for understanding customer needs, validating product-market fit, and ensuring the product/service solves real-world problems. Allows for the validation of assumptions and minimizes risks associated with product development.
+Qualitative Interviews	Very useful. Conducting qualitative interviews provides in-depth insights into customer needs, preferences, and pain points, allowing for a detailed understanding that can inform product development and marketing strategy.
+Lean Startup Methods	Highly effective. Lean methods prioritize efficient use of resources, rapid prototyping, and iterative development to quickly validate business hypotheses and adapt to customer needs, minimizing waste and increasing the chances of success.
+Minimum Viable Product (MVP)	Essential for lean startups. Allows entrepreneurs to launch a product with the minimum features necessary to satisfy early adopters, thereby validating the business idea with actual users before investing heavily in full product development.
+SWOT Analysis	Valuable. A SWOT analysis helps entrepreneurs understand the Strengths, Weaknesses, Opportunities, and Threats related to their business, enabling strategic planning and helping to mitigate potential risks.
+Pivot	Relevant. The ability to pivot refers to adapting the business model or product in response to feedback and changing market conditions. This agility can be critical to finding a sustainable business model and achieving long-term success.
+
+### Conclusão reflexiva 
+
+Em um mundo cheio de opções, é fácil ser atraído pela promessa de resultados imediatos. No entanto, é importante lembrar que nem sempre a opção mais atraente ou mais conveniente é a melhor para nós. A ideia de parar, refletir e fazer escolhas conscientes; simplesmente não é mais popular. Poderia soar como inapropriada, ainda mais diante do potencial da decisão, a pressão que começa em nós por estarmos girando na engrenagem da vida, do trabalho. Isso porque afinal de contas, ninguém sai para comprar pão porque está passeando.
+
+Nessas horas, diante dos potes da felicidade e diante das listas de opções no menu do transporte por aplicativo, seriam bom podermos parar, pausar sobre nossa inclinação quase automática para o escolher e decidir. Imagine se pudéssemos nos perguntar: 
+
+* Nível de objetivo - Se isso realmente atende às minhas necessidades?
+* Nível de objetivo - Isso realmente vai me ajudar a atingir meus objetivos?
+* Nível de objetivo - Ou estou apenas sendo atraído pela promessa de resultados imediatos?
+* Nível de comparação - Será que estou ponderando escolhas dentre um mar de opções irrelevantes? 
+* Nível de decisão - Eu preciso engajar? 
+* Nível de decisão - Se eu engajar, haverão efeitos colaterais? 
+
+Ao fazer perguntas como essas, você já estaria desacelerando. E talvez, apenas talvez, você possa começar a ver esses produtos e serviços "vivos" com um novo olhar, mais crítico, não de um consumidor que não sente a pressão natural do momento. 
+
+Eu não posso dizer que estava consciente, intencionado, quando encontrei o pote bizarro. Lembre-se que eu não fui lá para comer doces, nem mesmo para comer. Minha chance de ver o pote gritando veio do fato que não era um consumidor no momento certo na hora certa. Só pude olhar e analisar a situação com um olhar externo. 
+
+Para "lacrar" um pensamento e talvez até uma oportunidade. Considere se você pudesse, um dia, ir ao supermercado depois de comer muito no almoço. Nessa ida, tente forçar uma missão de comprar coisas. Tente ficar 5 minutos em cada gôndola, refletindo sobre como os produtos estão conversando, como os produtos estão gritando. Tente olhar os produtos, por cima, aqueles vários que dizem "me compre, me coma, me use." E veja que hoje eles não mais clamam por sua atenção com meros gritos. Eles projetam promessas de forma direta, sem gritos. 
+
+Agora, esses potes de soluções estão por toda parte. Reflita sobre os serviços, metodologias, sistemas. Perceba como tudo ao seu redor está prometendo algo. Perceba como tudo é atraente. Como tudo, como diria o brasileiro, chama atenção. Note como você provavelmente está preso na categoria de uma promessa, como um carro, uma pizza ou uma metodologia para expandir sua startup. Perceba como provavelmente estamos comparando opções e nos orgulhando de procurar a melhor oferta entre elas. Perceba como somos puxados para tomar decisões, para seguir em frente. Perceba como as consequências de decidir têm menos a ver com a promessa original e como soluções e decisões geram outros eventos.
+
+### Considerações e exercício reflexivo 
+
+Faça uma reflexão sobre como os produtos como metodologias se vendem. Exemplos: 
+
+* Artigos sobre empreendedorismo 
+* Business model canvas 
+* Lean start-up
+* Aceleradoras
+* Incubadoras 
+* Customer Discovery 
+
+### The mechanization of the paradise  
+
+The shack was practically deserted; only the owner and an employee were there. We arrived there just for the stroll, looking for a break and something simple, like a glass of water. The vendor broke the sound of the wind and the motion of the sea with a "My king, I'll set up a hammock for you." I lightly felt an attack but responded with something along the lines of "we're just passing through quickly." Then another comment landed, "Are you in a hurry?" This other remark had a gentle tone but carried a certain kind of look, if not weight. From there, a conversational tone became clear - yes, slow-paced, in the Bahian style, with its hues or coherence, which almost felt like truth, or love, or as colorful as life should be. But it was a narrative that would present itself to those who paused for a brief reflection. It unfolded as a passive-aggressive sales story that actually framed us, the visitors, in a position of superiority, the ones who should be subordinate, at least in that moment. And this is hard to explain. But it happens in many ways, and I believe it's a clever maneuver. Like velociraptors with a strategy, approaching from the sides with coordinated movements. They throw out narratives like "Do it for her," and words that project values or truths, like "family," "doctor," and affirmations that gently persuade along the lines of "you can," or questions that position us, such as "Are you in a hurry?" And refrains that transcend like "Smile, you're in Bahia." An outsider might see these as mere narratives or dramatizations. But the same person, seeing them as performances, won't allow themselves to, in the face of their critical self, extinguish their own fire by telling themselves, "how can you not come here to rest?" Stay here, calm down, at least for now; turn off your constant monitoring. After all, you shouldn’t act logical or analytical here. It's a time to enjoy. The pressure then truly comes from within. And alongside you, the velociraptors are still there, surrounding us, positioning us as passive and subordinate.
+
+I wasn't going to wake up. Even with a strong support from my many critics, saying I was the privileged one, the rushed, the analyst, the stressed out one.
+
+But I confess I did have a brief awakening, truly, at the moment when I felt like prey, without rush but also without the time to even tell my love next to me, "I love you." It was when an older lady approached the shack and asked, "Can I use the restroom?"
+
+It was at that moment that a voice, without accent and swift or brutal, like a raptor's strike, cut through like a blade with "Restroom's for customers only." In that response, there was no family, no smiles, no rhymes to slow things down. It was an instinctive move, an animalistic response. In the end, that lady gained restroom access for the price of a water.
+
+
+
+
+
