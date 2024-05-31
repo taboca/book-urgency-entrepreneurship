@@ -96,10 +96,22 @@ And then we shall conclude with observations of effects in the aggregated organi
 @outline - Stages of grief 
 --> 
 
+<!--
+@meta @todo
+* @todo - p1 ( ) - Strategic, general - Consider a word about "Strategic Inflection Points" in the context of the entrepreneur being. @meta-refid 1212-2292-9393-9449
+-->
 
-##### Grief 
+##### Loss and grief 
 
-For Andy, there exists a sequence of emotions that is not too different from those experienced during the loss of loved ones, which can be experienced by people, like leaders in the corporate setting, in the midst of what he called "inflection points." 
+For Andy, there exists a sequence of emotions that runs through an organization that goes through the said inflection points. These emotions, which can be experienced by people in senior management, aren't too different from those experienced during the loss of loved ones. 
+
+
+
+<!--
+@references 
+* reference - Grove, A. (2019, May 31). Andrew Grove, "Strategic Inflection Points" - 1996 MIT Industry Leaders Program Lecture. MIT Video Productions. https://www.youtube.com/watch?v=LfU2Qu4MzZk
+--> 
+
 
 
 
