@@ -1,67 +1,22 @@
 <!--
 @outline - We don't talk, emotions in the corporate. 
+
+
+
 -->
 
 #### The grown up situation
 
 
 
+We want to feel emotions, recognize our fears, and allow ourselves to be vulnerable. If these aren't statements generally observed in the prior situations of individuals or startup teams, even when struggling, not so differently we won't find these reflections in the working situation, of workers getting things done in the setting of grown-up organizations. But the fact that the subject is not brought, not in the workplace, doesn't mean that some of these workers, a lesser extent anyway, aren't bringing these subjects to the room of their therapy sessions or that they arent't anxious because of work, that they aren't free from the their fears, that their well-being as individuals are not impacted by the work setting, and accordinly that the well-being of their organizations aren't being impacted by their lack of consciousness about how these and related themes.  
 
+Therefore, in this section, we are going to celebrate in the first place the level of courage of a leader that recognizes these questions and recognizes that our drive into being right and us being frightened of being wrong continues to impact not only ourselves, our teams, but also our grown-up organizations.
 
-
-We want to feel emotions, we want to recognize fear, we want to allow ourselves to be vulnerable. These aren't statements observed generally in any entrepreneurial setting or the corporate work. It it may appear in the therapy session of a worker that does not fear these kind of sessions, especially given that corporate decisions impacts our emotions, and vice-versa, and that dynamics impacts the future of our organizations, and circularly of ourselves as human beings. So we know, that somewhere the subject is there. 
-
-It takes a great human and a great deal of courage for a leader to recognize, to bring any subject closer to that, especially in the context of grown up organizations. For the one that reflects, and furthermore that speaks about these touchy-feely [^footnote_andygrove_touchy_feely] issues, right there struggles. Because it's not a movement toward success as it is seen. Because it sounds like going back to the beginning and then it is certainly unavoidable as a theme justifying the avoidable. As focusing in the courageous matters more, it is the case of Andy Grove, the late CEO of Intel Corporation, that had in fact considered this theme, actually from doing it. In other words, part of this struggle had to do with balancing his activities to reflect on what was going on when Intel were grown up but were faced with the opportunity to become, again, as oppose to be defensive, and die. 
-
-Andy set himself into the reflection which involved aspects of the said touchy-feely issues. He had entered the reflective space to reconcile the dynamics of emotional humans, senior management, and how they were affected by the prior success of their work and of their organization, and how that setting had set their own fate in the face of the needed to change and to adapt. 
+We will take this ride with Andy Grove, the late CEO of Intel Corporation, that brought these reflections after he had balanced his own activities and were able to identify not only the challenges that Intel were facing between growth and adapt and reinvent itself or be defensive and die, and how that macro situation were actually connected with the dynamics of emotional beings and the struggling between the forces to be right and the confusion space of reinventing and the questions that he referred as touch-feely [^footnote_andygrove_touchy_feely] issues.
 
 [^footnote_andygrove_touchy_feely]: In his book *Only the Paranoid Survive* (1999), Andy Grove discusses, in *Let Chaos Reign*, what he calls *The Touchy-feely Issues*, that in certain situations, particularly those faced by large corporations, managers often react emotionally to crises (p. 123) as business people are humans where their personal growth and emotions are closely tied to the identity and well-being of their business.
 
-
-
-
-
-
-
-
-
-<!--
-@outline - context, Intel? 10x and inflection?
--->
-
-Now before we go on into this ride, we should contextualize the situation where a grown up organization is challenged, as a result of its prior success, to face an adaptation which will likely take them to either grow, or re-invent and commit to the new, or to die and stick with the old. This period, Andy refers as Strategic Inflection Points. Andy thought that the theme was applicable to the general audience, which is why his reflection is here in the first place, and because of that [^foonote_andygrove_strategic_inflection_points] he wanted that to be the actual title, instead of *Only the Paranoid Survive* .
-
-[^foonote_andygrove_strategic_inflection_points]: Andy Grove discussed the intended title of his book Only the Paranoid Survive, stating, "I wanted to call this book, Strategic Inflection Points. And it's meant for general purpose audiences, and my publisher wouldn't hear of it. And to make a long story short, it got a catchier title. But that is what the book is about. Strategic inflection point is my way of visualizing and describing a fundamental change in the well-being of a business. Fundamental change in the well-being of an industry" (Grove, 2019).
-
-<!--
-@reference 
-* reference - Grove, A. (2019, May 31). Andrew Grove, "Strategic Inflection Points" - 1996 MIT Industry Leaders Program Lecture. MIT Video Productions. https://www.youtube.com/watch?v=LfU2Qu4MzZk
--->
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- 
-@outline - The valley of death, according to Andy Grove 
--->
-
-
-
-> *"But right now, it's a bunch of bits in a confused fashion, and we are just entering the valley of death. It is very confusing in the middle of it. That's not unusual. That is what it's like because the new business model doesn't take shape very clearly. And a lot of people have different ideas on how it's going to be."* (Grove, A., 2019, 16:6)
-
-
-<!--
-@reference 
-* reference - Grove, A. (2019, May 31). Andrew Grove, "Strategic Inflection Points" - 1996 MIT Industry Leaders Program Lecture. MIT Video Productions. https://www.youtube.com/watch?v=LfU2Qu4MzZk
--->
 
 
 
@@ -103,18 +58,7 @@ One is the consideration of emotions and the state of grief, in the face of chan
 
 
 
-##### Abstraction or complication
 
-
-
-<!-- 
-@outline - Mapping out all the situations? 
---> 
-
-A note to consider the comparison between the being right case of the individual and the true of sorrow case of their startup and the valley of death case of Andy Grove. In all the situations we have the phenomenon where the doer, the one that get things done, the entity, the being that get things done is involved in following the market. Here the young writer establishing the critics on top of the potential being, the creative being, the startup by interacting with external environment, seeking approval, struggles with the realities where the outcome producing may not truly satisfy in the struggles of presenting and adapting to the critics, forcing themselves in the block situation and in similar ways the case of Andy Grove of a major corporation going through the valley of death is essentially about what Andy Grove referred as a corporation that achieved a degree of success or what he calls the inertia of success and then the inflection point required because of the 10x force which might be a new configuration to the environment given by the new setting of the competitive forces. In other words, a movement, a prior movement given by competitive forces is insufficient given that the audience demands are reconfigured. It is the attempt to control success and how we regulate that control that tells what's going to happen essentially.
-
-
-It may not be so far anyway from the trough of sorrow brought before, that situation of a startup essentially talking with the market, projecting its offering, being excited and then realizing the need to commit to a sort of doing again. But while that valley involves a story in the early stage, this valley of death is the equivalent the huge entity - like Intel - which happens to be already living its maturity, had lived from its prior successes, which essentially goes well with the proper possibility as an output - potential death. 
 
 
 
@@ -144,6 +88,47 @@ It may not be so far anyway from the trough of sorrow brought before, that situa
 
 
 
+
+
+
+
+
+<!-- 
+@outline - The valley of death, according to Andy Grove 
+-->
+
+Now before we go on into this ride, we should contextualize the situation where a grown up organization is challenged, as a result of its prior success, to face an adaptation which will likely take them to either grow, or re-invent and commit to the new, or to die and stick with the old. 
+
+
+> *"But right now, it's a bunch of bits in a confused fashion, and we are just entering the valley of death. It is very confusing in the middle of it. That's not unusual. That is what it's like because the new business model doesn't take shape very clearly. And a lot of people have different ideas on how it's going to be."* (Grove, A., 2019, 16:6)
+
+
+
+
+<!--
+@outline - context, Intel? 10x and inflection?
+-->
+
+
+
+
+This period, Andy refers as Strategic Inflection Points. Andy thought that the theme was applicable to the general audience, which is why his reflection is here in the first place, and because of that [^foonote_andygrove_strategic_inflection_points] he wanted that to be the actual title, instead of *Only the Paranoid Survive* .
+
+[^foonote_andygrove_strategic_inflection_points]: Andy Grove discussed the intended title of his book Only the Paranoid Survive, stating, "I wanted to call this book, Strategic Inflection Points. And it's meant for general purpose audiences, and my publisher wouldn't hear of it. And to make a long story short, it got a catchier title. But that is what the book is about. Strategic inflection point is my way of visualizing and describing a fundamental change in the well-being of a business. Fundamental change in the well-being of an industry" (Grove, 2019).
+
+<!--
+@reference 
+* reference - Grove, A. (2019, May 31). Andrew Grove, "Strategic Inflection Points" - 1996 MIT Industry Leaders Program Lecture. MIT Video Productions. https://www.youtube.com/watch?v=LfU2Qu4MzZk
+-->
+
+
+
+
+
+
+
+
+
 For Andy, there exists a sequence of emotions that runs through an organization that goes through the said inflection points. These emotions, which can be experienced by people in senior management, aren't too different from those experienced during the loss of loved ones. 
 
 
@@ -159,19 +144,7 @@ For Andy, there exists a sequence of emotions that runs through an organization 
 --> 
 
 
-
-
 > *"A manager in a business that is undergoing a strategic inflection point is likely to experience a variation of the well-known stages of what individuals go through when dealing with a serious loss. This is not surprising because the early stages of a strategic inflection point are fraught with loss. Loss of your company's preeminence in the industry, of its identity, of a sense of control of your company's destiny, of job security and, perhaps the most wrenching, the loss of being affiliated with a winner. However, unlike the accepted model of the sequence of emotions associated with grief, i.e., denial, anger, bargaining, depression and, ultimately, acceptance, in the case of a strategic inflection point, the sequence goes more as follows, denial, escape or diversion and, finally, acceptance and pertinent action."* (Grove, A., 1999)
-
-
-
-Let us first bring about his definition of an inflection point in the context of a major organization. According to Andy, Intel went through a few of those but likely the most iconic passage were when Intel had to drop its identity from *being* a memory chip manufacturer, and went to the the struggle, to embrace *becoming*, a microprocessor manufacturer. Since Intel survived that inflection point, Intel became known as the largest manufacturer of microprocessors, and then too so many managers got to know the so manygood thoughts from Andy. The following passage gives us a view: 
-
-> *""* 
-
-But then, as the major corporation is passing through that, is perhaps a reflection of what a human passes as they need to move from being and into becoming especially when they are challenged, their views, their perspectives, their views about their identities. 
-
-He suggests a parallel between the sequence of losing a loved one and the sequence experienced in the corporate domain during an inflection point. Grove revealed that he wrote one of his books amidst one of these turbulent journeys that Intel went through around the 1980s suggesting that in that situation, he might have been escaping from recognizing the situation? Perhaps?
 
 
 
@@ -210,24 +183,6 @@ Andy had considered too the connection betweem the situation of challenging for 
 
 
 
-
-
-
-
-To note: We are talking about a senior manager, an educator, a chemical engineer, a reader of manager to name some characterizations of Andy. Clearly telling us that it happens like that, that we become and by becoming we get stuck. And when we get stuck, we defend ourselves. And when we defend, it may appear - although in retrospect - to be movements of a child:  
-
-> *"When the environment changees in such a way as to render the old skills and strenghts less relevant, we almost instinctively cling to our past. We refuse to acknowledge changes around us, almost like a child who doesn't like what he's seeing so he closes his eyes and counts to 100 and figures that what bothered him will go away. We too close our eyes and are willing to work harder, to dedicate ourselves to our traditional tasks or skills, in the hope that they and hard work will get us there by the count of 100. "* (Grove, A., 1999, p. 125)
-
-<!-- 
-@meta @references 
-* reference - Grove, Andrew. (1999). Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company. [Só os Paranóicos Sobrevivem]. Crown Publishing.
---> 
-
-
-
-
-
-###### Business managers are people too 
 
 
 > *"Business people are not just managers, they are also human. They have emotions and a lot of their emotions are tied up in the identity and well-being of their businesses. If you are a senior manager, you probably got to where you are because you have devoted a large portion of your life to your trade, to your industry and to your company. In many instances, your personal identity is inseparable from your life work. So, when your business gets into serious difficulties, in spite of the best attempts of business schools and management training courses to make you a rational analyzer of data, objective analysis will take second seat to personal and emotional reactions almost every time."* (Grove, A., 1999, pp. 123-124)
@@ -271,6 +226,19 @@ To note: We are talking about a senior manager, an educator, a chemical engineer
 
 
 
+To note: We are talking about a senior manager, an educator, a chemical engineer, a reader of manager to name some characterizations of Andy. Clearly telling us that it happens like that, that we become and by becoming we get stuck. And when we get stuck, we defend ourselves. And when we defend, it may appear - although in retrospect - to be movements of a child:  
+
+> *"When the environment changees in such a way as to render the old skills and strenghts less relevant, we almost instinctively cling to our past. We refuse to acknowledge changes around us, almost like a child who doesn't like what he's seeing so he closes his eyes and counts to 100 and figures that what bothered him will go away. We too close our eyes and are willing to work harder, to dedicate ourselves to our traditional tasks or skills, in the hope that they and hard work will get us there by the count of 100. "* (Grove, A., 1999, p. 125)
+
+<!-- 
+@meta @references 
+* reference - Grove, Andrew. (1999). Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company. [Só os Paranóicos Sobrevivem]. Crown Publishing.
+--> 
+
+
+
+
+
 
 
 <!-- 
@@ -292,25 +260,22 @@ The struggle, notion of the protective bubble, the conditions, we know it exists
 
 
 
+> *"I have this deep-seated suspicion that the predominant reason people engage in big-time acquisitions is to escape from dealing with a strategic inflection point in their own business - in their own core business. Because nothing is as seductive as teeing up and flying from one place to the other. Staying up all night with your lawyers and your investment bankers and calling a press conference and being on the front page of the newspaper the next day. How does that compare with figuring out which factory to shut down?"* (Grove, A., 2019, 40:22-40:51).
 
 
-> *"Escape, or diversion, refers to the personal actions of the senior manager. When companies are facing major changes in their car business, they seem to plunge into what seem to be totally unrelated acquisitions and mergers. In my view, a lot of these activities are motivated by the need of senior management to occupy themselves respectively with something that clearly and legitimately requires their attention day in and day out, something that they can justify spending their time on and make progress in instead of figuring out how to cope with an impeding strategic destructive force. At such times, senior managers often involve themselves in feverish, charitable fundraising. A lot of outside board activities are pet projects. Take a look at a representative calendar of the CEO of a major corporation that was in the middle of a strategic inflection point, page 126. Does his allocation of time, his most precious reserves, reflect his strategic crisis? I don't think so."* 
+> *"Escape, or diversion, refers to the personal actions of the senior manager. When companies are facing major changes in their core business, they seem to plunge into what seem to be totally unrelated acquisitions and mergers. In my view, a lot of these activities are motivated by the need of senior management to occupy themselves respectively with something that clearly and legitimately requires their attention day in and day out, something that they can justify spending their time on and make progress in instead of figuring out how to cope with an impeding strategic destructive force. At such times, senior managers often involve themselves in feverish, charitable fundraising. A lot of outside board activities are pet projects. Take a look at a representative calendar of the CEO of a major corporation that was in the middle of a strategic inflection point, page 126. Does his allocation of time, his most precious reserves, reflect his strategic crisis? I don't think so."*  (Grove, A., 1999, pp. 124-125)
 
 > *"Escape, or diversion, refers to the personal actions of the senior manager. .. In my view, a lot of these activities are motivated by the need of senior management to occupy themselves respectably with something that clearly and legitimately requires their attention day in and day out, something that they can justify spending their time on and make progress in instead of figuring out how to cope with an impeding, strategic, destructive force."*  (Grove, A., 1999, pp. 124-125)
-
 
 
 
 That is a different kind of photo and reflection to us. To notice how we might show signs when we have a puzzle in front of us. He went on to celebrate that "At such times, senior managers often involve themselves in feverish charitable fundraising, a lot of outside board activities  or pet projects." (Grove, A., 1999, p. 125)
 
 
-<!-- 
-@meta @references 
 
-> *"At such times, senior managers often involve themselves in feverish charitable fundraising, a lot of outside board activities  or pet projects. Take a look at a representative calendar of the CEO of a major corporation that was in the middle of a strategic inflection point (page 126). Does his allocation of time, his most precious resource, reflect the strategic crisis? I don't think so."*  (Grove, A., 1999, p. 125)
 
-* reference - Grove, Andrew. (1999). Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company. [Só os Paranóicos Sobrevivem]. Crown Publishing.
---> 
+
+
 
 
 One other special observation from Andy have to do with his observation to make a parallel between the writing his book with the challenging situation of Intel. Now, it serves for us here too how his reflection which consited of revisiting his history and reflecting on his prior book writing time served too as a reflection for him later - the moment when he were writing the above book, Only The Paranoid Survive:
@@ -358,6 +323,41 @@ Now,
 
 
 > *"If you are a middle manager, many of the same considerations apply, but very often your job is also at stake. How your corporation succeeds in working its way through a strategic inflection point may determine what happens to your career."*
+
+
+
+What the whole-being business may do, in its urgent fashion, is not to take of very specific entity under it, which may likely mean a fire and replace the beings since they are replaceable and likely they are too involved, as specialists. 
+
+
+<!-- 
+
+## Research note - Andy on career strategic inflection points 
+
+> *"So enterprises are far more preoccupied with their own survival today than they were a generation ago. And therefore, they are less able physically, less able emotionally and interest-wise, and concentration-wise, less able to deal with the survival of the many little careers, the many little businesses that their employees represent. This subtle favorite cliches of business life today make this problem worse. We love globalization. Globalization means that the world is our oyster. We can sell a product everywhere from here to Jindong. Globalization also means that every person, every working person of the same general training, same general business occupation in the world competes with you. That they work for companies that compete for your company. In a brief period of 30 years, from the '60s to the '90s, the United States in the aggregate has gone from an almost dominant industrial power to one of the leading industrial powers. If you look at that as a market analysis, being a dominant industrial power, a dominant power in your industry versus being one of the contenders back into the Porter model dealing with substitution, dealing with new entrants, dealing with intense intra-industry rivalry, life has gotten a lot tougher for the United States economy. Consequently, life has gotten a lot tougher for companies that make up the United States economy. Consequently, those companies are much less able to. It's not that they became venal, not that they became evil. They're simply less able to provide this style of career development and career maintenance that they used to do it. Now if they don't do it, who's going to do it? And I'm advocating basically doing the same concept of strategic analysis and apply it to your career. And foremost among those is watch for strategic inflection points. Work on separating the signal from the noise. And we complete, conclude that it's signal. Experiment first and then pull in the reins and commit yourself. And discipline yourself to overcome the denial and the various other human foibles that will come in the way in your own career, as well as in your business"* (Grove, 2019, 43:07-46:03).
+
+@reference 
+* reference - Grove, A. (2019, May 31). Andrew Grove, "Strategic Inflection Points" - 1996 MIT Industry Leaders Program Lecture. MIT Video Productions. https://www.youtube.com/watch?v=LfU2Qu4MzZk
+-->
+
+
+
+
+
+
+
+##### Abstraction or complication
+
+
+
+<!-- 
+@outline - Mapping out all the situations? 
+--> 
+
+A note to consider the comparison between the being right case of the individual and the true of sorrow case of their startup and the valley of death case of Andy Grove. In all the situations we have the phenomenon where the doer, the one that get things done, the entity, the being that get things done is involved in following the market. Here the young writer establishing the critics on top of the potential being, the creative being, the startup by interacting with external environment, seeking approval, struggles with the realities where the outcome producing may not truly satisfy in the struggles of presenting and adapting to the critics, forcing themselves in the block situation and in similar ways the case of Andy Grove of a major corporation going through the valley of death is essentially about what Andy Grove referred as a corporation that achieved a degree of success or what he calls the inertia of success and then the inflection point required because of the 10x force which might be a new configuration to the environment given by the new setting of the competitive forces. In other words, a movement, a prior movement given by competitive forces is insufficient given that the audience demands are reconfigured. It is the attempt to control success and how we regulate that control that tells what's going to happen essentially.
+
+
+It may not be so far anyway from the trough of sorrow brought before, that situation of a startup essentially talking with the market, projecting its offering, being excited and then realizing the need to commit to a sort of doing again. But while that valley involves a story in the early stage, this valley of death is the equivalent the huge entity - like Intel - which happens to be already living its maturity, had lived from its prior successes, which essentially goes well with the proper possibility as an output - potential death. 
+
 
 
 
