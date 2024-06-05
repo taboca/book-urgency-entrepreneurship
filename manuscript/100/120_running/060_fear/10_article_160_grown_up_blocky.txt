@@ -35,7 +35,7 @@ If we set our time machine to 1985, and land ourselves in the Ferris wheel of th
 --> 
 
 
-We may think, perhaps if reading too fast, of that as an eloquent narrative that goes well with the long and complex discussions happening before these managers undertook "The bold decision to commit Intel’s future to microprocessors," [^foonote_hbr_intel_1996] which brought Intel to the other side, to become the largest manufacturer of computer processors. But for me, Andy is giving us an opportunity to see through a window into the process. This postcard has a view of the present and a viewpoint for the future. And it celebrates the greater thing about America and a certain America's spirit that had amazed he. That all things built, no matter how great they are, can revolve. A spirit that invites anyone to do it, and does not require them to ask for permission. It only interviews the doer, waiting to hear his corageous and honest words, waiting to hear his from his heart that she or he is willing to swim, to hear their energy and courage. That should take them to swim across. To even talk in that way, to be open to do it that way, and to bring about these touchy-feely issues in the middle of management, that is Andy Grove remembering us that hard work should goes along with honesty. 
+We may think, perhaps if reading too fast, of that as an eloquent narrative that goes well with the long and complex discussions happening before these managers undertook "The bold decision to commit Intel’s future to microprocessors," [^foonote_hbr_intel_1996] which brought Intel to the other side, to become the largest manufacturer of computer processors. But for me, Andy is giving us an opportunity to see through a window into the process. This postcard has a view of the present and a viewpoint for the future. And it celebrates the greater thing about America and a certain America's spirit that had amazed he. That all things built, no matter how great they are, can revolve. A spirit that invites anyone to do it, and does not require them to ask for permission. It only interviews the doer, waiting to hear his corageous and honest words, waiting to hear his from his heart that she or he is willing to swim, to hear their energy and courage. That should take them to swim across. To even talk in that way, to be open to do it that way, and to bring about these touchy-feely issues before management, that is Andy Grove remembering us that hard work goes along with being honest. 
 
 Let us ride with Andy through a few stations. First, we will start from a departure of a full-blownorganization that grows successfully and it is bold and strong but out of the blue enters what he referred to as the *The Valley of Death*. From that darker space, we will follow a light from Andy that reconciles how our successful beings, our organizations and individual identities built from our prior successes, struggles just like any human being struggle in the face of growth towards what is unknown. 
 
@@ -116,46 +116,24 @@ The particular situation of the *The Valley of Death* is applicable for general 
 
 
 
-For Andy, there exists a sequence of emotions that runs through an organization that goes through the said inflection points. These emotions, which can be experienced by people in senior management, aren't too different from those experienced during the loss of loved ones. 
+For Andy, there exists a sequence of emotions that runs through an organization that goes through the said inflection points. These emotions, which can be experienced by people in senior management, aren't too different from those experienced during the loss of loved ones: 
 
-
+> *"A manager in a business that is undergoing a strategic inflection point is likely to experience a variation of the well-known stages of what individuals go through when dealing with a serious loss. This is not surprising because the early stages of a strategic inflection point are fraught with loss. Loss of your company's preeminence in the industry, of its identity, of a sense of control of your company's destiny, of job security and, perhaps the most wrenching, the loss of being affiliated with a winner. However, unlike the accepted model of the sequence of emotions associated with grief, i.e., denial, anger, bargaining, depression and, ultimately, acceptance, in the case of a strategic inflection point, the sequence goes more as follows, denial, escape or diversion and, finally, acceptance and pertinent action."* (Grove, A., 1999)
 
 <!--
 @meta @todo
 * @todo - p1 ( ) - Strategic, general - Consider a word about "Strategic Inflection Points" in the context of the entrepreneur being. @meta-refid 1212-2292-9393-9449
 -->
 
-<!--
-@references 
-* reference - Grove, A. (2019, May 31). Andrew Grove, "Strategic Inflection Points" - 1996 MIT Industry Leaders Program Lecture. MIT Video Productions. https://www.youtube.com/watch?v=LfU2Qu4MzZk
---> 
-
-
-> *"A manager in a business that is undergoing a strategic inflection point is likely to experience a variation of the well-known stages of what individuals go through when dealing with a serious loss. This is not surprising because the early stages of a strategic inflection point are fraught with loss. Loss of your company's preeminence in the industry, of its identity, of a sense of control of your company's destiny, of job security and, perhaps the most wrenching, the loss of being affiliated with a winner. However, unlike the accepted model of the sequence of emotions associated with grief, i.e., denial, anger, bargaining, depression and, ultimately, acceptance, in the case of a strategic inflection point, the sequence goes more as follows, denial, escape or diversion and, finally, acceptance and pertinent action."* (Grove, A., 1999)
 
 
 
 
 
 
-
-
-###### Inertia of success 
-
-Now, for the big or grown up situation there is nothing much different, except the size and some particular characterizations of the hierachical setting that sets them to move slow but with heavy and leaving strong footprints. These grown entities need to go through change too just like their smaller forms. And like any other form they too will be frightened of being wrong. That thought from Sir Ken Robison, that "by the time they get to be adults, most kids have lost that capacity," applies even more to the corporate beast. It only adds, with success, with the inertia of success [^footnote_andygrove_inertia_of_success].
-
-<!--
-@meta @todo 
-* @todo - p2 ( ) - In Running, Fear, Being Right, Grown Up Situation - Review the Inertia of Success, likely in the book Only the Paranoid Survive. @meta-refid 1212-2323-3334-7474
---> 
+Andy had considered too the connection betweem the situation of challenging for changing, with the very prior steps of success. For him, he referred to it as a phenomenon, "I will call this phenomenon the inertia of success [^footnote_andygrove_inertia_of_success]. It is extremely dangerous and it can reinforce denial. "* (Grove, A., 1999, p. 125). And went on to celebrate the connection between the inertia of success of the corporate beast with the inertia in ourselves: 
 
 [^footnote_andygrove_inertia_of_success]: In business, the concept of "inertia of success" refers to the tendency of successful companies to become complacent and resistant to change, ultimately leading to their downfall. Andy Grove, a former CEO of Intel, famously highlighted this phenomenon, warning that past successes can create a false sense of security, making organizations less agile and adaptable to new challenges and market conditions.
-
-
-
-
-
-Andy had considered too the connection betweem the situation of challenging for changing, with the very prior steps of success. For him, he referred to it as a phenomenon, "I will call this phenomenon the inertia of success. It is extremely dangerous and it can reinforce denial. "* (Grove, A., 1999, p. 125). And went on to celebrate the connection between the inertia of success of the corporate beast with the inertia in ourselves: 
 
 > *"Senior managers got to where they are by having been good at what they do. And over time they have learned to lead with their strengths. So it's not surprising that they will keep implementing the same strategic and tactical moves that worked for them during the course of their careers, especially during their 'championship season.'"* (Grove, A., 1999, p. 125)
 
@@ -166,11 +144,12 @@ Andy had considered too the connection betweem the situation of challenging for 
 
 
 
+For me it is inescapable to think of the adult form, or the educated ones, which we have considered from Sir Ken Robison, the notion that "by the time they get to be adults, most kids have lost that capacity." That too, the not unlike us beings, our corporate beast or being, will grow its own educated form, from its prior sucesses, and will set themselves into being frightened of being wrong: 
 
-
-
-
-
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Running, Fear, Being Right, Grown Up Situation - Review the Inertia of Success, likely in the book Only the Paranoid Survive. @meta-refid 1212-2323-3334-7474
+--> 
 
 > *"Business people are not just managers, they are also human. They have emotions and a lot of their emotions are tied up in the identity and well-being of their businesses. If you are a senior manager, you probably got to where you are because you have devoted a large portion of your life to your trade, to your industry and to your company. In many instances, your personal identity is inseparable from your life work. So, when your business gets into serious difficulties, in spite of the best attempts of business schools and management training courses to make you a rational analyzer of data, objective analysis will take second seat to personal and emotional reactions almost every time."* (Grove, A., 1999, pp. 123-124)
 
@@ -228,25 +207,6 @@ To note: We are talking about a senior manager, an educator, a chemical engineer
 
 
 
-<!-- 
-@outline - protective bubble opportunity missed 
---> 
-
-The struggle, notion of the protective bubble, the conditions, we know it exists somewhere, we have seen it from our life as beings too - the mother that commits, provides the support, let the baby explore and come back. But we know it too when the parent role does not fully commit to the support that is needed. The corporate life of the giant beast, talking care of its little beasty entities, is nothing much different: 
-
-> *"And every general manager is going to jump on me, how can you pull him out of the business that pays all of our salaries? He says, OK, no, no, no, I was kidding. I was kidding. It was a bad idea. Bad idea. Let me take him. And he came up way below him, the other guy in the ranking. Let him do the new business. And he is really not very good. We are only keeping him for tradition's sake. Nothing personal. Then we put him on the new area. And guess what, the new area is not going to succeed. Now, is it not going to succeed because it was a bad idea in the first place? Or is it not going to succeed because we put our second class people on developing it? That's how it goes in real life."* (Grove, 2019, 32:55-33:36).
-
-
-<!--
-@reference 
-* reference - Grove, A. (2019, May 31). Andrew Grove, "Strategic Inflection Points" - 1996 MIT Industry Leaders Program Lecture. MIT Video Productions. https://www.youtube.com/watch?v=LfU2Qu4MzZk
--->
-
-
-
-
-
-
 > *"I have this deep-seated suspicion that the predominant reason people engage in big-time acquisitions is to escape from dealing with a strategic inflection point in their own business - in their own core business. Because nothing is as seductive as teeing up and flying from one place to the other. Staying up all night with your lawyers and your investment bankers and calling a press conference and being on the front page of the newspaper the next day. How does that compare with figuring out which factory to shut down?"* (Grove, A., 2019, 40:22-40:51).
 
 
@@ -278,6 +238,32 @@ One other special observation from Andy have to do with his observation to make 
 Certainly his reflections gave him the means to be asking - wait a minute, am I here again engaging in these activivities of another nature, like writing? From these observations, I think that first and inescapable is the duty the necessity of being thankful to Andy, for getting involved to reflect and to write it, to put it as words, to all of us, and as he shown to give us an enlightening one as he set himself open. It is unescapable the self in the action, the being, in both High Output Management and and Only the Paranoid Survive. Moreover, we shall too observe that Andy's insatisfaction from his "allocation of time, his most precious resource," and the situation of crisis that Intel were going through, were the actual tip for how the situation goes, naturally as while things are happening there is not a sign of the major crisis written in flags and elsewhere. 
 
 Thus, the disconnect given in retrospect is only the invitation for us to celebrate that us to be engaging in the new, in divergent activities, might be the sign of us in front of the unsolvable, the realization that would call for change. It may be even considered, although he didn't write about that, that the very activities of writing served for him as a reflection. 
+
+
+
+
+
+
+
+
+
+<!-- 
+@outline - protective bubble opportunity missed 
+--> 
+
+The struggle, notion of the protective bubble, the conditions, we know it exists somewhere, we have seen it from our life as beings too - the mother that commits, provides the support, let the baby explore and come back. But we know it too when the parent role does not fully commit to the support that is needed. The corporate life of the giant beast, talking care of its little beasty entities, is nothing much different: 
+
+> *"And every general manager is going to jump on me, how can you pull him out of the business that pays all of our salaries? He says, OK, no, no, no, I was kidding. I was kidding. It was a bad idea. Bad idea. Let me take him. And he came up way below him, the other guy in the ranking. Let him do the new business. And he is really not very good. We are only keeping him for tradition's sake. Nothing personal. Then we put him on the new area. And guess what, the new area is not going to succeed. Now, is it not going to succeed because it was a bad idea in the first place? Or is it not going to succeed because we put our second class people on developing it? That's how it goes in real life."* (Grove, 2019, 32:55-33:36).
+
+
+<!--
+@reference 
+* reference - Grove, A. (2019, May 31). Andrew Grove, "Strategic Inflection Points" - 1996 MIT Industry Leaders Program Lecture. MIT Video Productions. https://www.youtube.com/watch?v=LfU2Qu4MzZk
+-->
+
+
+
+
 
 
 
