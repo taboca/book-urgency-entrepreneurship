@@ -18,15 +18,6 @@ The situation sets us in the right place to wonder if there are any courageous l
 
 
 
-
-
-
-
-
-
-
-
-
 If we set our time machine to 1985, and land ourselves in the Ferris wheel of the Great America park in Santa Clara California, and set our binoculars to Intel's headquarters, we would be able to see a special conversation between Andy Grove and Gordon Moore. Intel was going through what Andy called the Valley of Death and Gordon were the CEO. In short, they were in front of a gray ocean, on the side known to them. They could stay there, in the land where they were known as the captains of the largest producer of computer memory chips:  
 
 [^foonote_hbr_intel_1996]: The article from HBR titled "Inside Intel" by Adam Brandenburger and Barry Nalebuff (1996), underscores the importance of adaptability in the face of industry crises and technological shifts. In essence, the article considers Intel's journey through significant challenges, including the competitive pressure from Japanese semiconductor manufacturers in the mid-1980 which led to a strategic pivot from memory chips to microprocessors, and how the success from transformation brings new challenges, like a totally new game or sport where the organization has to transcend in order to survive.  
@@ -46,8 +37,7 @@ If we set our time machine to 1985, and land ourselves in the Ferris wheel of th
 
 We may think, perhaps if reading too fast, of that as an eloquent narrative that goes well with the long and complex discussions happening before these managers undertook "The bold decision to commit Intel’s future to microprocessors," [^foonote_hbr_intel_1996] which brought Intel to the other side, to become the largest manufacturer of computer processors. But for me, Andy is giving us an opportunity to see through a window into the process. This postcard has a view of the present and a viewpoint for the future. And it celebrates the greater thing about America and a certain America's spirit that had amazed he. That all things built, no matter how great they are, can revolve. A spirit that invites anyone to do it, and does not require them to ask for permission. It only interviews the doer, waiting to hear his corageous and honest words, waiting to hear his from his heart that she or he is willing to swim, to hear their energy and courage. That should take them to swim across. To even talk in that way, to be open to do it that way, and to bring about these touchy-feely issues in the middle of management, that is Andy Grove remembering us that hard work should goes along with honesty. 
 
-Let us walk with Andy, through three stations, to follow his lights. First, we will start with the situation of the successful organization that from its right movement enters the valley of death - and the reflection of how we feel when we enter into that path of confusion. Into that ride, we follow the light fro Andy through a reflection that reconciles our drive to continue to be successful and bring right, and how that set us to feel, and fear to challenge our views. 
-
+Let us ride with Andy through a few stations. First, we will start from a departure of a full-blownorganization that grows successfully and it is bold and strong but out of the blue enters what he referred to as the *The Valley of Death*. From that darker space, we will follow a light from Andy that reconciles how our successful beings, our organizations and individual identities built from our prior successes, struggles just like any human being struggle in the face of growth towards what is unknown. 
 
 
 
@@ -94,10 +84,22 @@ Let us walk with Andy, through three stations, to follow his lights. First, we w
 @outline - The valley of death, according to Andy Grove 
 -->
 
-Now before we go on into this ride, we should contextualize the situation where a grown up organization is challenged, as a result of its prior success, to face an adaptation which will likely take them to either grow, or re-invent and commit to the new, or to die and stick with the old. 
 
+
+The particular situation which Andy invite us to consider, *The Valley of Death*, is applicable for general audiences. But Andy wanted his book, *Only the Paranoid Survive* which is a catchier title, to be called *Strategic Inflection Points* [^foonote_andygrove_strategic_inflection_points]. For Andy, that can be pictured as a curve that goes from the convex to the concave - or from the concave to the convex - and it is his "way of visualizing and describing a fundamental change in the well-being of a business." He points to that point, where the nature of a business changes, although it may be subtle, in a way that is profound and lasting. He invite us to think about that moment, when things are not yet clear: 
 
 > *"But right now, it's a bunch of bits in a confused fashion, and we are just entering the valley of death. It is very confusing in the middle of it. That's not unusual. That is what it's like because the new business model doesn't take shape very clearly. And a lot of people have different ideas on how it's going to be."* (Grove, A., 2019, 16:6)
+
+
+[^foonote_andygrove_strategic_inflection_points]: Andy Grove discussed the intended title of his book Only the Paranoid Survive, stating, "I wanted to call this book, Strategic Inflection Points. And it's meant for general purpose audiences, and my publisher wouldn't hear of it. And to make a long story short, it got a catchier title. But that is what the book is about. Strategic inflection point is my way of visualizing and describing a fundamental change in the well-being of a business. Fundamental change in the well-being of an industry" (Grove, 2019).
+
+<!--
+@reference 
+* reference - Grove, A. (2019, May 31). Andrew Grove, "Strategic Inflection Points" - 1996 MIT Industry Leaders Program Lecture. MIT Video Productions. https://www.youtube.com/watch?v=LfU2Qu4MzZk
+-->
+
+
+
 
 
 
@@ -109,14 +111,6 @@ Now before we go on into this ride, we should contextualize the situation where 
 
 
 
-This period, Andy refers as Strategic Inflection Points. Andy thought that the theme was applicable to the general audience, which is why his reflection is here in the first place, and because of that [^foonote_andygrove_strategic_inflection_points] he wanted that to be the actual title, instead of *Only the Paranoid Survive* .
-
-[^foonote_andygrove_strategic_inflection_points]: Andy Grove discussed the intended title of his book Only the Paranoid Survive, stating, "I wanted to call this book, Strategic Inflection Points. And it's meant for general purpose audiences, and my publisher wouldn't hear of it. And to make a long story short, it got a catchier title. But that is what the book is about. Strategic inflection point is my way of visualizing and describing a fundamental change in the well-being of a business. Fundamental change in the well-being of an industry" (Grove, 2019).
-
-<!--
-@reference 
-* reference - Grove, A. (2019, May 31). Andrew Grove, "Strategic Inflection Points" - 1996 MIT Industry Leaders Program Lecture. MIT Video Productions. https://www.youtube.com/watch?v=LfU2Qu4MzZk
--->
 
 
 
