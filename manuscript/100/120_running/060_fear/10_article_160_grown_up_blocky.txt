@@ -82,11 +82,12 @@ Let us ride with Andy through a few stations. First, we will start from a depart
 
 <!-- 
 @outline - The valley of death, according to Andy Grove 
+@outline - context, Intel? 10x and inflection?
 -->
 
 
 
-The particular situation which Andy invite us to consider, *The Valley of Death*, is applicable for general audiences. But Andy wanted his book, *Only the Paranoid Survive*, to be called *Strategic Inflection Points* [^foonote_andygrove_strategic_inflection_points]. For Andy, that moment can be pictured from a curve that goes from the convex to the concave - or from the concave to the convex. That it is his "way of visualizing and describing a fundamental change in the well-being of a business." He points to that moment of inflection, where the nature of a business changes. But he is zooming, to help us see that the when the inflection happens it may happen in subtle ways, but as it forms, and as we zoom out, we can see how profound and lasting the changes are. This is a situation that, for any well-being riding that curve, missing the adaptation (to adjust) means they go into decline. There are no signs for which way to go so you may not even know when you are on it. But he is making a point that the space of confusion might be a sign: 
+The particular situation of the *The Valley of Death* is applicable for general audiences. But Andy wanted his book, *Only the Paranoid Survive*, to be called *Strategic Inflection Points* [^foonote_andygrove_strategic_inflection_points], because it helps him to picture a curve that goes from a curvature that is convex to one that is concave - or from the concave to the convex. This is his "way of visualizing and describing a fundamental change in the well-being of a business." From far, and in retrospect, we can visualize how the nature of a business change. But his invitation is to zoom in, to realize how difficult it is to detect the change when things are happening in subtle ways. There are no signs, as for which way to go. And we may not even know either we are on it. But his point shouldn't be missed, that the space of confusion might be a sign: 
 
 > *"But right now, it's a bunch of bits in a confused fashion, and we are just entering the valley of death. It is very confusing in the middle of it. That's not unusual. That is what it's like because the new business model doesn't take shape very clearly. And a lot of people have different ideas on how it's going to be."* (Grove, A., 2019, 16:6)
 
@@ -102,10 +103,6 @@ The particular situation which Andy invite us to consider, *The Valley of Death*
 
 
 
-
-<!--
-@outline - context, Intel? 10x and inflection?
--->
 
 
 
