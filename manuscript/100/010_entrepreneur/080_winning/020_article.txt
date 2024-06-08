@@ -1,3 +1,8 @@
+<!--
+@meta @todo 
+* @todo - p1 ( ) - Strategic - In Success -  The following quote is from Dorothea Brandy from 1936, page 14, of Wake Up and live, there is a concept which may be applicable to the section Success: "Now this is something which we seldom see at once. Because we commonly think of failure as the conventional opposite of success, we continue to make false antithesis of the qualities which attend success and failure. Success is bracing, active, alert; so the typical attitude of failure, we believe, must be lethargy, inertia, a supine position. True enough; but that does not mean that no energy is being used. Let any psychologist tell you how much energy a mature person must expend to resist motion. A powerful struggle must be waged against the forces of life and movement in order to remain inert, although this struggle takes place so far beneath the surface of our lives that we do not always become aware of it. Physical inaction is no true sign that life-force is not being burned away. So even the idler is using fuel while they dream." (Brande, Dorothea., 2014/1936, p.14) @meta-refid 1212-2323-8838-4848
+--> 
+
 ## Beyond success 
 
 In the past, pursuing success wasn't a choice. The situation, the need (not for being happy but) for pursuing success, was created by the knowledge worker [^footnote_peterdrucker_success_pursuing]. In their hurry to operationalize from options, however, they had also found distrations and other complications such as to push them away from success. They run the risk of not accepting mistakes, which prevent them from learning after mistakes. They become less creative, and more controllers, in the face of the need to adapt, given the challenges ahead.

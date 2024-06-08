@@ -276,6 +276,12 @@ And this is not different from the individual situation and circumstances of lif
 
 > *"If we manage to be fairly comfortable, to get some respect and admiration, a taste of 'a little brief authority,' and some love, we think we have made a good bargain, we acquiesce in the will to fail. We even pride ourselves on our shrewdness, not suspecting how badly we have been cheated, that we have settled for the compensations of death, not the rewards of life."* (Brande, Dorothea., 2014, p. 21)
 
+
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Running, Fear, Grown Up Situation - This is supporting note from Dorothea Brande, exploring the thesis that we are goog in investing time to the failure path. "When failure comes about through devoting precious hours to time-killing pursuits, we can all see that energy is being diverted from its proper channel. But there are ways of killing time which do not look like a dissipation. They can seem, on the contrary, like conscientious and dutiful hard work, they often draw praise and approval from onlookers, and arouse a sense of complacency in us. It is only by looking more closely, by discovering that this work gets us nowhere, that it both tires us and leaves us unsatisfied, that we see here again energy is being devoted to the pursuit of failure." (Brande, Dorothea., p.14, Wake Up and Live) @meta-refid 1222-3334-9999-8888
+-->
+
 <!--
 @references 
 * reference - Brande, D. (2014). Wake up and live. BN Publishing.
