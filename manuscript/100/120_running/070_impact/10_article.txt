@@ -1,3 +1,15 @@
+
+<!--
+@meta @todo 
+
+@todo - p2 ( ) - In Impact - On Redefition of Self-Actualization from Maslow - Consider the quote "This makes it possible for us to redefine self-actualization in such a way as to purge it of its static and typological shortcomings, and to make it less a kind of all-or-none pantheon into which some rare people enter at the age of 60. We may define it as an episode, or a spurt in which the powers of the person come together in a particularly eficient and intensely enjoyable way, and in which he is more integrated and less split, more open for experience, more idiosyncratic, more perfectly expressive or spontaneous, or fully funcioning, more creative, more humorous, more ego-transcending, more independent of this lower needs, etc. He becomes in these episodes more truly himself, more perfectly actualizing his potentialitiws, closer to the core of his Being. " (Abraham, Maslow., 2011, p.91) / @meta-refid 1222-2333-4333-5666 
+
+* @todo - p1 ( ) - Strategic, general - Consider a word about "Strategic Inflection Points" in the context of the entrepreneur being. @meta-refid 1212-2292-9393-9449
+
+* @todo - p1 ( ) - In Part One, Impact - A note, consideration for an insight to be used within the chapter entitled Impact. When writing Morning Pages, I have considered an insight, an idea that aligns with what Dorothea Brande said which perhaps aligns with that path that we get in line with what she called The Will to Fail. But I think I came upon another perspective for the same truth, which is that we're unwilling to kill our lions when it is time to reset ourselves into growth. Thus, it is not that we accept death, as in that we guide ourselves to the death slowly, as in pushing ourselves slowing from the cliff. But, in alignment with her thinking, we may accept death or the Will to Fail as we do not accept to reborn again, reinvent ourselves again, to be open again, to make mistakes again, and that's basically maybe there is an alignment with being naked, an idea from Steve Jobs, and also correlates with the Raw Fear ideas from Doug Leone. This idea may be supportive to our chapter Impact because it may have a correlation with the story from Michael Dearing (Harriet and scaling model). @meta-refid 1234-4354-7474-8383
+
+-->
+
 ## For impact 
 
 Tati Ferreira, from the channel AcidezFeminina, raised a question during a debate in the 2018 elections, asking, "If all the money that was siphoned off had been invested in the state, would we be looking at a different scenario? I think this is a question on many people's minds, though I'm not sure if there are any definitive answers."
@@ -275,12 +287,4 @@ Thus the work situation, and especially the entrepreneurial situation, creates a
 
 
 
-<!--
-@todo - p2 ( ) - In Impact - On Redefition of Self-Actualization from Maslow - Consider the quote "This makes it possible for us to redefine self-actualization in such a way as to purge it of its static and typological shortcomings, and to make it less a kind of all-or-none pantheon into which some rare people enter at the age of 60. We may define it as an episode, or a spurt in which the powers of the person come together in a particularly eficient and intensely enjoyable way, and in which he is more integrated and less split, more open for experience, more idiosyncratic, more perfectly expressive or spontaneous, or fully funcioning, more creative, more humorous, more ego-transcending, more independent of this lower needs, etc. He becomes in these episodes more truly himself, more perfectly actualizing his potentialitiws, closer to the core of his Being. " (Abraham, Maslow., 2011, p.91) / @meta-refid 1222-2333-4333-5666 
--->
-
-<!--
-@meta @todo
-* @todo - p1 ( ) - Strategic, general - Consider a word about "Strategic Inflection Points" in the context of the entrepreneur being. @meta-refid 1212-2292-9393-9449
--->
 
