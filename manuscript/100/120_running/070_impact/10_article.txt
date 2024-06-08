@@ -196,3 +196,81 @@ The identified component of the playbook becomes the exercise of value, as it ha
 * @reference - Dearing, M. (2018, February 13). Michael Dearing at the 2018 NYC Product Leader Summit: "Two Blasts from the Past" [Video]. YouTube. Spero Ventures. https://www.youtube.com/watch?v=oBOOcBgHxTU
 -->
 
+
+
+
+
+
+
+<!--
+    @outline - Friendly critic (#autonomous #creative)
+--> 
+
+If we seek a friendly critic, we shall consider a somewhat cold critic eye on top of the performers that may at times be able to experiment, to play too. The whole idea of this cold supervisor may be about to be calmer, as opposed to applauding the kids too quick all the time and making a parade for their movements. He gives the leg, the arm, supports. But he or she is cold, keeps her child informed about potential risks too. Keeps the team aware. Thus to enable a path of less frustration but also helps in structuring the episode with more rigor and less bet, like thinking it will work out. This model of strategizing says that there is an overarching meta control - as if it were a premeditated battle where the outcome, positive or negative, is always positive, an experiment. This parent, growth educator, and therapeut coach, is there to support curiosity and to let the team to be calm with a good critic. The valley, call it the throgh of sorrow or the valley of confusion, is valley of opportunity, is where life rises, is where the team can be enlightened. The path is the solution. 
+
+
+
+
+
+
+
+
+<!--
+    @outline - Reframing or breaking the language for acessing? (Allowance fits?)
+-->
+
+The insight from a research cited by "Are You Afraid to Identify as a Leader?, has shown that how challenge it is to support the developement of leaders as the consideration of a self-identity of a leader, has brought reputational concerns. As an example, employees might fear being seen as autocratic, different, or unqualified, when they consider themselves to embrace the role of leaders. Their research  suggests that organizations can impact the development of leaders and support a viewpoint that affects the psychological standpoint as taking leadership roles can be viewed as positive, and can be shown to be an area that is oriented to skills, and not as an innate ability: 
+
+> "In one study, we found that participants who listened to a podcast in which we framed leadership as risky were less likely to identify or act as leaders than those who listened to a podcast that described leadership as low-risk. This suggests that simply by presenting leadership as less risky and lower-stakes (for example, by clarifying that leadership mistakes are expected and will not be a black mark on an employee’s record), managers can help employees feel more comfortable seeing themselves as leaders." https://hbr.org/2022/09/are-you-afraid-to-identify-as-a-leader
+
+> "At first glance, this may seem counterintuitive. Why would perceptions of riskiness influence something as deeply ingrained as your identity? From a psychological standpoint, however, this effect is not surprising at all. No one likes to think of themselves as driven by fear, and leadership can often come with substantial challenges. So, when pursuing leadership feels risky, people subconsciously redefine their own identities to justify avoiding it. It’s a lot more comfortable to rationalize an unwillingness to lead by telling yourself that you’re “just not a leader” than to admit that you’re afraid of what others might think." - https://hbr.org/2022/09/are-you-afraid-to-identify-as-a-leader
+
+> "And across our studies, we found that people who reported higher levels of fear around these reputational risks were less likely to see themselves as leaders. As a result, they were less likely to act as leaders, and therefore less likely to be seen as leaders by their supervisors." - https://hbr.org/2022/09/are-you-afraid-to-identify-as-a-leader 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+@outline - Becoming an identity 
+--> 
+
+
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Running, fears - Andy Grove talks about our success of a role, that we become. We can bring this from the inertia of success from Only the Paranoid Survive. @meta-refid 1222-2223-3334-4448
+--> 
+
+
+Some individuals, through projects in the corporate setting, are likely expressing an identity which is not a reflection of their true self of the present. The expression comes as they perform, as they see themselves as conductors for certain causes - it could be a key result ahead of a major objective. This expression might come in various ways as they see themselves in a role, or as supporters of a cause, such as a cause of other supporters, advocates, leaders, mentors, investors, angels, you name it. Naturally, the sky is the limit. From a storytelling perspective, a doer in a cause can be seen as a protagonist, or a messenger, or a conductor. Although what they do involves a set of specialized actions and behaviors, like when one is in control of how they act, the performer displays and develop behaviors that at the same time express and shape their identities.  
+
+Framing from a storytelling perspective will helps us to understand how emotions, such as feelings of loss, are experienced quite strong to a point of governing decisions - thus the use of our scarce resources. The book Storynomics (2018), whose audience is marketers interested in improving their communications, shows how people's perception about things can influence decisions. The authors refer to a selection of scientific works that shows that people's perceptions about pain (or pleasure) are felt based on what is presented to them - as in narrated - influencing them from how they imagine the given narrative. The selection of studies presented (2018, p.43) does justice to this idea by supporting scientific evidence for what the world of advertising has long before cracked, and profited for a while [^editornote_robertmckee_storynomics], althought generally understood as a subject of persuasion.    
+
+<!-- 
+@References
+* reference - McKee, R., & Gerace, T. (2018). Storynomics: story-driven marketing in the post-advertising world. New York, Twelve.
+--> 
+
+[^editornote_robertmckee_storynomics]: 
+
+Now the fact that the advertising "of the west world" has discovered - by measuring results with customers - reveals that people decide based on narratives and stories that they are told and listen. In other words, it matters a lot - minimally for advertising agencies as we can confirm - that in the end of the day people bring to their lives, that they decide, based on what they listen, no matter if the the stories told are seen as persuasive forms of communication, or emotional communication, rhetoric, and on and on. Or, from another perspective, the advertising of the west didn't invent, indeed, as they had more like discovered, or understood, the natural mechanism of how people decide from the perspectives from the narratives that they are told. In part three, we will explore further the subject of human communication as narration [^footnote_prelude_human_narration] but for now we will maintain the equilibrium by focusing on how fear drives us, or how fears enter our narrative that drive us. 
+
+[^footnote_prelude_human_narration]: The work of Walter Fisher, Human Communication as Narration, will support us to improve our awareness of how people reason and decise based on the the experiences that they tell and listen. 
+
+But if what is told makes people fear is only does so effectively in the face of an ongoing conversaion, an ongoing train that is moving. We recognize this train of thought if we imagine a team of people in a locomotive where the destination is a city but out of the sudden the train stops right before a bridge. In this situation, if someone says that they might have stopped to appreciate the view, some people might laugh or be mad with the realization of the irony or how the observation does not fit the reality of what is happening. Thus the storied context makes the possibility for what is told to be coherent or not, to be truthful or not. Thus in the tracks of our work projects, such as an entrepreneurial effort, w happens is that things go awry, or appears to be going in the bad direction, exactly as we want things to go in a certain direction, such as to stop by a key result associated with a higher-order objective or destination. All sort of situations that trigger fears such as the consideration that projects are going to be abruptly terminated, such as that layoffs as necessary, or if an entire division needs to be closed. And how certain things are triggered to our lives appears in different ways, because one may feel compassion for the people who could be affected, or when a leader feels in a position of being a messenger for a cause, a train conductor, you name it. Just as a train conductor is happy when the train is running smoothly and feels bad when it's no longer operational, the context of entrepreneurship and businesses also means a track of possibilities where the performers are protagonists who cares more than being apatic participants in a train moving to a random place. We aren't moving to an arbitrary place and we are not apatic participants. We are moving towards aspiring goals and we are humans. 
+
+Thus the work situation, and especially the entrepreneurial situation, creates a storied context where certain values are established and helps to create an equilibrium. These values can be acessed if we dig into reflecting within actionable ideas like "we need to keep working in this project tonight" which might be associated with expectations of significant milestones, such as expected state of happiness of the team, expected state of security to the team or the project, or any measure of success that is ahead. Thus it's natural for a person's identity to be linked as a responsible being, as a protagonist, emotionally and ethically connected to a duty. Conversely, it is natural to expect that a failure to do so, to operate towards the success, might trigger an actual real impact to their lives, like the unsolvency of their ability to work, which triggers other fears as, for example, people may need to work for money or other reason they hold as value. Suddenly, due to various factors, external or internal, experienced or perceived, the protagonists find themselves crafting narratives that are powerful in the face of the experience of fears they project. 
+
+
+
+
+
