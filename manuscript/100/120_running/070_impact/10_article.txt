@@ -8,6 +8,7 @@
 
 * @todo - p1 ( ) - In Part One, Impact - A note, consideration for an insight to be used within the chapter entitled Impact. When writing Morning Pages, I have considered an insight, an idea that aligns with what Dorothea Brande said which perhaps aligns with that path that we get in line with what she called The Will to Fail. But I think I came upon another perspective for the same truth, which is that we're unwilling to kill our lions when it is time to reset ourselves into growth. Thus, it is not that we accept death, as in that we guide ourselves to the death slowly, as in pushing ourselves slowing from the cliff. But, in alignment with her thinking, we may accept death or the Will to Fail as we do not accept to reborn again, reinvent ourselves again, to be open again, to make mistakes again, and that's basically maybe there is an alignment with being naked, an idea from Steve Jobs, and also correlates with the Raw Fear ideas from Doug Leone. This idea may be supportive to our chapter Impact because it may have a correlation with the story from Michael Dearing (Harriet and scaling model). @meta-refid 1234-4354-7474-8383
 
+
 -->
 
 ## For impact 
@@ -286,5 +287,18 @@ Thus the work situation, and especially the entrepreneurial situation, creates a
 
 
 
+
+
+
+<!--
+@note  editor-critics healthy 
+
+Of course, especially for the case of writers but not limited, we should realize that intermediary conflict celebrate its existence as in respecting and noticing when that creative doer fights with our know-it-all critic. Indeed, these personalities are roles in the same room, especially in the beginning of professional journeys, where we engage in a fight and it looks like a struggle and it's a struggle that confuses us. The light, at the end of the tunnel, if we accept to see it, is an enlightened place where they can collaborate and as well said by Dorothea Brandy from *Becoming a Writer*. Dorothe Brand, in 1934, pulled that truth from her well, to tell yet-to-become writers about the peaceful place where these personalities do not have to attack each other in realtime. I think that this is applicable to the life of a writer, to the life of a developer writing code, to an individual going through projects and writing the narrative of their lives and their startups:  
+
+> *"He has trained himself so that the physical effort of writing does not tire him out of all proportion to the effect he achieves. His intellect directs, criticizes, and discriminates whatever two possible courses present themselves in such a way as to leave the more sensitive elements of his nature free to bring forth its best fruit. He learns to use his intellect both cursively, as he works, and later, as he considers what he has done during the period of the creative flow. He replaces by conscious intention, and day by day, the drawings made on his fonts of images, sensations, and ideas by keeping awake to the observations. Ideally, the two sides of his nature are at peace with each other and work in harmony. At the least, he must be able to suppress one or other at discretion. Each side of his character must learn to be able to trust the other, to do what is in its field, and to carry the full responsibility for its own work. He restrains each side of his mind to its own functions, never allowing the conscious to usurp the privilege of the unconscious, and vice versa.*" Brand, Dorothea (General Press, 2019, p.19)
+
+@references
+* reference - Brande, D. (2019). Becoming a Writer. General Press.
+-->
 
 

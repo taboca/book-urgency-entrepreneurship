@@ -17,6 +17,7 @@
 @outline - ax.x - Being right, standing, not outstanding - Critic that is blocking; frightened of being wrong; (Feat. Julia Cameron, Feat. Sir Ken Robinson)
 --> 
 
+To recapitulate, we have just considered two kinds of fears driving a movement. First, celebrating a language of action following a narrative where fears may set us to run from failure. This one I had called it as pre-cooked fear. Then, we have considered another kind, that raw fear kind, inspired by thoughts from Doug Leone, where one might be open to think through, perhaps to consider strategies, but not so fast as the cooked version. If these are kinds of fears driving a movement, we may then turn to perspectives where fear which set us into a defensive position, which in the fast-paced world may not even look defensive since the rich world can too offers fast-paced ways to do nothing, or worse, to move into what seems right. 
 
 No one expects a bad outcome, a product that fails, a service that is not welcomed and likely us to become doers unable to do it. We expect the best - it's an inescapable truth when we are navigating that ocean of entrepreneurship. In this journey, as captains, we know it can't be arbitrary. That's why we trust the ship, we trust our tools, our maps, and our fellow sailor-colleagues that joined the boat. In this journey, in expecting the "land ho!" We accept the storms, the challenges of the open sea, and accept acceptable losses. What we don't accept, as captains, is to abandon the ship. Even when everything changes, on the way, when parts of our ship are mutilated, our duty is to set the pieces, back to the places, to keep the ship integral, in its duty, mainly to navigate the ocean.
 
@@ -104,14 +105,5 @@ In closing our thoughts for this section and yet thinking about grades, I ask us
 @references
 * reference  - Leone, D. (2022). Doug Leone. Sequoia Capital. Retrieved from https://web.archive.org/web/20220527121317/https://www.sequoiacap.com/people/doug-leone/
 --> 
-
-Of course, especially for the case of writers but not limited, we should realize that intermediary conflict celebrate its existence as in respecting and noticing when that creative doer fights with our know-it-all critic. Indeed, these personalities are roles in the same room, especially in the beginning of professional journeys, where we engage in a fight and it looks like a struggle and it's a struggle that confuses us. The light, at the end of the tunnel, if we accept to see it, is an enlightened place where they can collaborate and as well said by Dorothea Brandy from *Becoming a Writer*. Dorothe Brand, in 1934, pulled that truth from her well, to tell yet-to-become writers about the peaceful place where these personalities do not have to attack each other in realtime. I think that this is applicable to the life of a writer, to the life of a developer writing code, to an individual going through projects and writing the narrative of their lives and their startups:  
-
-> *"He has trained himself so that the physical effort of writing does not tire him out of all proportion to the effect he achieves. His intellect directs, criticizes, and discriminates whatever two possible courses present themselves in such a way as to leave the more sensitive elements of his nature free to bring forth its best fruit. He learns to use his intellect both cursively, as he works, and later, as he considers what he has done during the period of the creative flow. He replaces by conscious intention, and day by day, the drawings made on his fonts of images, sensations, and ideas by keeping awake to the observations. Ideally, the two sides of his nature are at peace with each other and work in harmony. At the least, he must be able to suppress one or other at discretion. Each side of his character must learn to be able to trust the other, to do what is in its field, and to carry the full responsibility for its own work. He restrains each side of his mind to its own functions, never allowing the conscious to usurp the privilege of the unconscious, and vice versa.*" Brand, Dorothea (General Press, 2019, p.19)
-
-<!--
-@references
-* reference - Brande, D. (2019). Becoming a Writer. General Press.
--->
 
 

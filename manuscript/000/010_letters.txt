@@ -9,13 +9,10 @@
 * (WAITING) #Communications - Barbara Minto, and Adrian @meta-refids 7676-8585-9823-1200, 6575-8787-0987-7584
 * (WAITING) #OKR  - Andre to give another review Ref https://mail.google.com/mail/u/0/#inbox/QgrcJHsbcVCVdjlpqTFRVtvfFhtBPvFSBHg 
 
-## Chapter - Part 1, Environment
-
-* (WAITING, ACCEPTED, ) Andre Figueiredo @ be2e55e7-3d3d-4caa-9a8e-b37d5023f924
-
-## Chapter - Not So Radical Focus 02-2024
-
-* (WAITING, Accepted, received, invited, helped)  #OKR Thiago Christoph @ 423098490238490-2/6/24, 45390254902385908-1/31/24 
+* (ACCEPTED, WAITING, physical letter) - [ ] Pick selection, Dan Barry @ meta-refid 4445-6565-4989-9898
+* (ACCEPTED, WAITING, physical letter) - [ ] Pick selection, Armand Neto @ @meta-refid 1212-7765-4989-9898 
+* (ACCEPTED, WAITING, physical letter) - [ ] Environment?, Andre Figueiredo @ be2e55e7-3d3d-4caa-9a8e-b37d5023f924 [Done, Feedback of Urgency?]
+* (ACCEPTED, WAITING, physical letter) - [ ] #OKR, Thiago Christoph @ 423098490238490-2/6/24, 45390254902385908-1/31/24 
 
 ## Chapter - Letter of introduction 
 
@@ -92,7 +89,7 @@
 # letters
 
 ## ----------------------------------------------------------------------------
-## Letter to Armando Neto, June 8th, 2024 
+## Letter to Armando Neto, June 8th, 2024 @meta-refid 1212-7765-4989-9898
 
 * https://mail.google.com/mail/u/0/#sent/QgrcJHsNjpwVXwRklNXjDXfxdZdDSXgjwtL
 
@@ -113,6 +110,7 @@ Marcio
 ## -----------------------------------------------------------------------
 ## to Susie Wyshak, colleague and friend, from Netscape, author , June 8th 2024 
 
+* (Not engaged, busy)
 * https://mail.google.com/mail/u/0/#sent/QgrcJHsHsHNvwnqPTjcNpztRQcNDvFkJnsL
 
 ```
@@ -152,7 +150,7 @@ Marcio
 ```
 
 ## -----------------------------------------------------------------
-## To Dan Barry, 8th June 2024, request for reading and feedback 
+## To Dan Barry, 8th June 2024, request for reading and feedback @meta-refid 4445-6565-4989-9898
 
 * https://mail.google.com/mail/u/0/#sent/QgrcJHsbdwdlXhnNlccQdhFcMpwGvNbtRNV
 
