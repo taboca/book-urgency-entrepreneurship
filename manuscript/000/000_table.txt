@@ -1,5 +1,6 @@
 # Todo # 
 
+* @todo - p2 ( ) - In Identity - Fix the reference to "A Máquina do Caos" to use the english one. @meta-refid 5544-3434-1212-2345
 * @todo - p2 ( ) - In Identity - Check the english quote - Marcio has the pt-br book - @meta-refid 7676-9898-7364-8764
 
 * @todo - p2 ( ) - In Running, Fear, Sorrow - Check the dup ref to Max Fisher as Fisher and the Wyrathu story was brought in the context of social and identity. Now, again, but the point now is the Like Button. So now this second occurence may actually explore better or not reference so much in detail. Print both side by side. @meta-refid 1222-2333-4444-5555
@@ -171,8 +172,6 @@
 * @todo - p2 ( ) - In Identity - Check the quote about Andy from Carmine in the context, motivation for tops-down. @meta-refid 1232-2233-4343-6768
 
 * todo - p2 ( ) - In Identity - Intro Complication - Check map14 material of steve question if entrepreneurship can be taught? / @meta-refid 8877-1233-8474-4444
-
-* @todo - p2 ( ) - In Identity - Fix the reference to "A Máquina do Caos" to use the english one. @meta-refid 5544-3434-1212-2345
 
 * @todo - p3 ( ) - In Identity - research editor review - passions of entrepreneurs vs. VC - seek 9248984-34902849284-348928428-4829849 within 610_driven_by_love and review this section against the research. 
 

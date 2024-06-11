@@ -973,7 +973,7 @@ If that happens, it may be so too because we are too fast to buy-in into tools b
 * Outline - Social Capital - Affected by fame
 -->
 
-#### Challenging the club of fame     
+#### The Challenging Club of Fame     
 
 
 
@@ -985,25 +985,24 @@ If that happens, it may be so too because we are too fast to buy-in into tools b
 * Chatgpt - https://chat.openai.com/share/2cca3573-5c8a-4526-8afe-1498acabdd7d
 --> 
 
-In the book *The Chaos Machine: How Social Networks Reprogrammed Our Mind and Our World*, Max Fisher (2023) recounts the story of a monk named Wirathu, who was catapulted to fame in Myanmar after the country emerged from a long period of isolation and embraced the Internet and social media. Wirathu's rise and his ability to influence a newly connected nation illustrate the intricate relationship between connectivity, identity, and the potentially destructive power of an unchallenged alternate reality.
+In the book *The Chaos Machine: The Inside Story of How Social Media Rewired Our Minds and Our World*, Max Fisher (2022) recounts the story of a monk named Wirathu, who was catapulted to fame in Myanmar after the country emerged from a long period of isolation and embraced the Internet and social media. Wirathu's rise and his ability to influence a newly connected nation illustrate the intricate relationship between connectivity, identity, and the potentially destructive power of an unchallenged alternate reality.
 
 <!-- 
 @meta @references 
-* Reference - Fisher, M. (2023). A Máquina do Caos: Como as Redes Sociais Reprogramaram Nossa Mente e Nosso Mundo. Todavia.
+* reference Fisher, M. (2022). The Chaos Machine: The Inside Story of How Social Media Rewired Our Minds and Our World. Little, Brown.
 --> 
 
-<!--
-@meta @todo
-* @todo - p2 ( ) - In Identity - Fix the reference to "A Máquina do Caos" to use the english one. @meta-refid 5544-3434-1212-2345
---> 
 
 According to Fisher, Wirathu's story begins with a dark past, confined to an environment of hate during his detention. Meanwhile, his homeland, Myanmar, underwent significant transformation. Which I like to referr to it as Myanmar had received the *Quick and Colorful Internet and Social Media kit*, which came out powered by the United States, Powered by Barack Obama, and powered by Silicon Valley. Now, let us pause here to celebrate how easy it is for one to put a stamp "Powered by Silicon Valley" in a product and ship it. I sometimes think that silicone is what people really order. Anyway's the point from Fisher is a more formal version of Myanmar having had opened itself by the introduction of the Internet with Social Media, in fast and soft ways. As a result of that launch package, which included Facebook with YouTube, Wirathu's influence had increased in size and enjoyed a popularity that propelled his communication deeper in unimaginable ways in comparison with the world before the internet era. Previously, he would have to move across the land, from village to village, and face the hard no. 
 
-But in the world of followers within the walls of social media and the echoes of people that wanted to hear what they wanted to hear, the problem and culminated in a major events after he "accused the country's Muslim minority of terrifying crimes, blending rumor with shameles fabrication." (Fisher, p.x). Fisher concludes the possibility that a reality was created, strengthened by his celebrity status. Therefore, users enjoyed the popularity of a post of figure like Wirathu as a validation of their beliefs and perceptions, strengthening their identity while simultaneously creating a cycle of bias confirmation that amplified the alternative narrative. 
+But in the world of followers within the walls of social media and the echoes of people that wanted to hear what they wanted to hear, the problem and culminated in a major events after he "accused the country's Muslim minority of terrifying crimes, blending rumor with shameles fabrication." (Fisher, Max., 2022, p.xx). Fisher concludes the possibility that a reality was created, strengthened by his celebrity status. Therefore, users enjoyed the popularity of a post of figure like Wirathu as a validation of their beliefs and perceptions, strengthening their identity while simultaneously creating a cycle of bias confirmation that amplified the alternative narrative. 
 
 <!--
-@meta @todo 
+@meta @todo
+
+* @todo - p2 ( ) - In Identity - Fix the reference to "A Máquina do Caos" to use the english one. @meta-refid 5544-3434-1212-2345
 * @todo - p2 ( ) - In Identity - Check the english quote - Marcio has the pt-br book - @meta-refid 7676-9898-7364-8764
+
 --> 
 
 In a notably sad episode, this dynamic culminated in violent attacks on the Muslim minority, motivated by information spread through social media. What were once unconfirmed fragments of beliefs became, in the digital age, mass validation of an alternative identity and narrative, providing users with a distorted sense of reality and morality. 
