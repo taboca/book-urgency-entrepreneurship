@@ -1,3 +1,32 @@
+@meta @suggestion 
+* Suggestion - Should MD goggles, distortion, holistic view project science 
+* Suggestion - Consider transitions of Michael 
+* Suggestion - Consider pre mortem 
+
+@meta @outline 
+* Outline - Escape Hatch - Considerations on changing goggles (suggestion - add case of cognitive distortions)
+
+@meta @todo
+* @todo - p2 ( ) - In Impact - Treat objection of hero, and case for hero's time for non-heroic transcending, When we recognize the hero's case, in p.113 ("In theory, this should be good, ... ) we need to do so also acknowledgingg the potential objection (Like Paulo colleage of PM world has given to Marcio once) that the a state of flow that allows one to give superpowers can be good; thus we recognize that supporting confidence for a human, like the self, towards growth is key, but the reason for acknowledging this is to allow moving on, while be specific that reflections on ways to support confidence and development are being discussed elesewhere, such as in wantrepreneur, which points back our frame goal of the future, which has a start to grow, which naturally requires transcending which does not mean killing the "self in progress" and means more to allow the "self representing the whole in progress", some time to that. Thus, this statement shapes the A, general line for points given. 478248274-4294924729-983953-43984983
+
+@meta @todo 
+* @todo - p1 ( ) - In Identity - Growth feat. PG accross chapters - Marcio have copied a quote from Paul Graham that was way ahead, in chapter 3, to now; because it needs to be evident, from the beginning of the book, that growth is the situation we are talking; this creates a match with the audience. Moreover, we need to make sure that the audience gets to this point with a full awareness of the growth situation. @meta-refid 1212-3212-3328-3834
+
+@meta @todo 
+* @todo - p1 (Done, dup of 12-3212-3328-3834) - In Identity - Check if the situation of growth should be brought to the beginning, as the situation or the complication of the intro; and if this was introduced in the book before, such as in Wantrepreneur. @meta-refid 1212-3231-3349-9393
+
+* Note - Check outline, because under Vision we had a section with the case of Brian and learner. "* Answer - Infinite learner? Situation is of New Sport. Complication is Transition needs. Solution is humble. More than infinite learner, infinite apprentice. (p. 169)"
+
+* points from Lost and found 
+
+
+
+@todo - p2 ( ) - In Impact - On Redefition of Self-Actualization from Maslow - Consider the quote "This makes it possible for us to redefine self-actualization in such a way as to purge it of its static and typological shortcomings, and to make it less a kind of all-or-none pantheon into which some rare people enter at the age of 60. We may define it as an episode, or a spurt in which the powers of the person come together in a particularly eficient and intensely enjoyable way, and in which he is more integrated and less split, more open for experience, more idiosyncratic, more perfectly expressive or spontaneous, or fully funcioning, more creative, more humorous, more ego-transcending, more independent of this lower needs, etc. He becomes in these episodes more truly himself, more perfectly actualizing his potentialitiws, closer to the core of his Being. " (Abraham, Maslow., 2011, p.91) / @meta-refid 1222-2333-4333-5666 
+
+* @todo - p1 ( ) - Strategic, general - Consider a word about "Strategic Inflection Points" in the context of the entrepreneur being. @meta-refid 1212-2292-9393-9449
+
+* @todo - p1 ( ) - In Part One, Impact - A note, consideration for an insight to be used within the chapter entitled Impact. When writing Morning Pages, I have considered an insight, an idea that aligns with what Dorothea Brande said which perhaps aligns with that path that we get in line with what she called The Will to Fail. But I think I came upon another perspective for the same truth, which is that we're unwilling to kill our lions when it is time to reset ourselves into growth. Thus, it is not that we accept death, as in that we guide ourselves to the death slowly, as in pushing ourselves slowing from the cliff. But, in alignment with her thinking, we may accept death or the Will to Fail as we do not accept to reborn again, reinvent ourselves again, to be open again, to make mistakes again, and that's basically maybe there is an alignment with being naked, an idea from Steve Jobs, and also correlates with the Raw Fear ideas from Doug Leone. This idea may be supportive to our chapter Impact because it may have a correlation with the story from Michael Dearing (Harriet and scaling model). @meta-refid 1234-4354-7474-8383
+
 ## Outline
 
 * Theme - concerned with the impact, not to be impacted by the flow. 

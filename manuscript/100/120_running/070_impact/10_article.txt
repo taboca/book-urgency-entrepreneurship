@@ -1,46 +1,29 @@
 
-<!--
-@meta @todo 
 
-@todo - p2 ( ) - In Impact - On Redefition of Self-Actualization from Maslow - Consider the quote "This makes it possible for us to redefine self-actualization in such a way as to purge it of its static and typological shortcomings, and to make it less a kind of all-or-none pantheon into which some rare people enter at the age of 60. We may define it as an episode, or a spurt in which the powers of the person come together in a particularly eficient and intensely enjoyable way, and in which he is more integrated and less split, more open for experience, more idiosyncratic, more perfectly expressive or spontaneous, or fully funcioning, more creative, more humorous, more ego-transcending, more independent of this lower needs, etc. He becomes in these episodes more truly himself, more perfectly actualizing his potentialitiws, closer to the core of his Being. " (Abraham, Maslow., 2011, p.91) / @meta-refid 1222-2333-4333-5666 
-
-* @todo - p1 ( ) - Strategic, general - Consider a word about "Strategic Inflection Points" in the context of the entrepreneur being. @meta-refid 1212-2292-9393-9449
-
-* @todo - p1 ( ) - In Part One, Impact - A note, consideration for an insight to be used within the chapter entitled Impact. When writing Morning Pages, I have considered an insight, an idea that aligns with what Dorothea Brande said which perhaps aligns with that path that we get in line with what she called The Will to Fail. But I think I came upon another perspective for the same truth, which is that we're unwilling to kill our lions when it is time to reset ourselves into growth. Thus, it is not that we accept death, as in that we guide ourselves to the death slowly, as in pushing ourselves slowing from the cliff. But, in alignment with her thinking, we may accept death or the Will to Fail as we do not accept to reborn again, reinvent ourselves again, to be open again, to make mistakes again, and that's basically maybe there is an alignment with being naked, an idea from Steve Jobs, and also correlates with the Raw Fear ideas from Doug Leone. This idea may be supportive to our chapter Impact because it may have a correlation with the story from Michael Dearing (Harriet and scaling model). @meta-refid 1234-4354-7474-8383
-
-
--->
 
 ## For impact 
 
 
+In a previous chapter, in the section *Infinite Apprentice*, we have considered an advice from Brian Chesky and Reid Hoffman, the idea of the infinite learner. When one as a leader does not grow as in to be skilled in an art. Instead, has to learn a new sport. 
 
+Brian, therefore, might be a good example that the infinite apprentice is connected with the an inner and humble spirit that enables transformation. But then by recognizing the situation of Brian, we should take in the consideration the context too, to force ourselves to recognize what he had revealed too about the network of knowledge and learning how to learn - the idea of accessing the best books would be an element - either people or by great books. Also the location and timing - that he and his cofounders were in a space that were considered top-tier, YCombinator, which brough them to know Reid Hoffman, so he too brought himself closer to a good network. 
 
-
-
-
-
-
-
-
-
-
-
-
-<!--
-@meta @outline 
-* Outline - Escape Hatch - Considerations on changing goggles (suggestion - add case of cognitive distortions)
--->
-
-<!--
-@meta @suggestion 
-* Suggestion - Should MD goggles, distortion, holistic view project science 
-* Suggestion - Consider transitions of Michael 
-* Suggestion - Consider pre mortem 
+<!-- 
+Reference 
+* what got you here won't get you there - Seems to be a topic that was covered in this interview. https://www.youtube.com/watch?v=ka--XKeI-o8 
+* Seems also to be in the Blitzscaling 
 --> 
 
 
-### Changing goggles 
+
+
+
+
+Now, the celebration of that truth in entrepreneurship unlocks a complication. That is what means there and the how to get there? And it becomes quite complicated because if the team is small, consider that many startups started with one before the other, and especially if vision - or love or passion or you name it - is present, it is naturally expected a kind of vision that creates a roadmap for the there which naturally pushes them to gamble since "what got you here won't get you there" reveals that they might be in seeking the objective as much as the how to get to the objective. Thus the complication prompts us to find what is the key that unlocks the self into being open so that to be aware, to embrace the unknown, such as developing ways to balancing the activities, for what it takes to get to there, to which only really after the movement happens one can truly say, in retrospect, how to get there. 
+
+To solve the problem, which is likely impossible from the view of the executor of now, we might consider to resort in developing a humble view for what happens. Thus, first, we will recognize what we are experiencing, as executors of entrepreneurship, is a drive with intents, and the complex art of dealing with being efficient. 
+
+The second aspect, after the recognition of the condition, involves being compassionate with your other self, the self that does not know, the self that is the only self that can let you escape from the self, the one which enters the space of learning, or the state of bring an apprentice. 
 
 
 
@@ -49,11 +32,23 @@
 
 
 
-It could be considered that I went too far to formulate our problem as a problem of an identity that is formed from the entrepreneurial action and with that that the success can also be a source of problems.  But if I did that, it may be in part excused to a certain extent by a naïve element from entrepreneurship that sometimes we see a bridge but one is temporary to set us to reach an end; which led me to consider that our attachments with groups or entities or frameworks or tools and more can take us feel connected, to feel encouraged, to feel supported. In other words, to consider that what we become, the characterizations that we acquire, are tied them. 
+
+
+
+#### The trust engine 
+
+
+
+We are somehow programmed and it seems that it took us to where we are that we trust the things that works. With the only problem is that we do not know what works better which take us to not trust our true potential. 
 
 Having considered that, I shall also say that I we shouldn't honour our the good side of that. That if any potential trap happens to be configured, if might do so because we happen to trust an engine that works. In other words, that our operating system is donig what it were programmed to do, to seek for improved efficiency given our goals; the engine that allow us to measure the feedback and to conceptualize from the experiential action and account values and that by the evaluations of our behaviors we then may encounter, only in retrospect, ourselves fultilling our own prophecies or to take what happens more lightly to be essentially scoring how we are doing under the goal to be moving in the right direction. As for the good things, I would assume that those could be estrapolated from the flipside of this chapter and the abundance of materials, the exact environment around that is always ready to tease us to keep feeding our beasts. 
 
 But now the concerns of this chapter are valid - the flipside of the successful doer the moment that they become - it is because we are essentially trying to save ourselves from the traps of being over-focused in one or other perspective, under the hope that we can embrace perspectives that can save us from trouble; especially in the face of the growth situation of their startups as we have considered in a prior chapter, the things which are excepted of a startup; the situation as supported by Paul Graham: 
+
+<!--
+@meta @todo 
+* @todo - p1 ( ) - In Identity - Growth feat. PG accross chapters - Marcio have copied a quote from Paul Graham that was way ahead, in chapter 3, to now; because it needs to be evident, from the beginning of the book, that growth is the situation we are talking; this creates a match with the audience. Moreover, we need to make sure that the audience gets to this point with a full awareness of the growth situation. @meta-refid 1212-3212-3328-3834
+--> 
 
 > *"A startup is a company designed to grow fast. Being newly founded does not in itself make a company a startup. Nor is it necessary for a startup to work on technology, or take venture funding, or have some sort of 'exit.' The only essential thing is growth. Everything else we associate with startups follows from growth."* (Graham, 2012)
 
@@ -62,27 +57,18 @@ But now the concerns of this chapter are valid - the flipside of the successful 
 * Reference -  Graham, P. (2012, September). Startup = Growth. Retrieved August 29, 2023, from http://www.paulgraham.com/growth.html
 --> 
 
-<!--
-@meta @todo 
-* @todo - p1 ( ) - In Identity - Growth feat. PG accross chapters - Marcio have copied a quote from Paul Graham that was way ahead, in chapter 3, to now; because it needs to be evident, from the beginning of the book, that growth is the situation we are talking; this creates a match with the audience. Moreover, we need to make sure that the audience gets to this point with a full awareness of the growth situation. @meta-refid 1212-3212-3328-3834
---> 
 
-<!-- 
-@meta @todo 
-* @todo - p1 (Done, dup of 12-3212-3328-3834) - In Identity - Check if the situation of growth should be brought to the beginning, as the situation or the complication of the intro; and if this was introduced in the book before, such as in Wantrepreneur. @meta-refid 1212-3231-3349-9393
+So there I am, when I read that, I somehow trust too fast what works to think of the startup that grows fast is a startup that is faster to anything. This is not what Paul is reminding us. He is referring to the hypothetical one that *grows* fast. 
 
-* Note - Check outline, because under Vision we had a section with the case of Brian and learner. "* Answer - Infinite learner? Situation is of New Sport. Complication is Transition needs. Solution is humble. More than infinite learner, infinite apprentice. (p. 169)"
 
-* points from Lost and found 
 
-In a previous chapter, especifically in the section Infinite Apprentice, we have considered the advice from Brian Chesky and Reid Hoffman, the idea of the infinite learner, which brought up the challenges of a leader accross the growth stages. Brian reminded us that is not like one becoming more skilled in an art; and instead it has more to do with having to learn a new sport. Brian, therefore, might be a good example that the infinite apprentice is connected with the an inner and humble spirit that enables transformation.
 
-But then by recognizing the situation of Brian, we should take in the consideration the context too, to force ourselves to recognize what he had revealed too about the network of knowledge and learning how to learn - the idea of accessing the best books would be an element - either people or by great books. 
 
-Also the location and timing - that he and his cofounders were in a space that were considered top-tier, YCombinator, and the eventual connection with Reid Hoffman too. Now notice the complexity as Brian and his team moved up the ladder - having entered YCombinator - and the point where they recognized that YC almost didn't invest. 
 
---> 
 
+
+
+#### Complication of holistic  or the initial situation? 
 
 
 There are a lot of enlightened formulations that are giving us the understanding and colors to the challenging situation of being a leader when the startup goes through growth. Throughout the Blitzscaling lectures, Reid Hoffman kept on focusing on essentially asking most of the interviewed leaders about the challenges of scaling but making sure to focus in the challenges from the perspective of the leader that essentially is going through "what got you here is not what will get you there."[^footnote_blizscaling_brianchesky_got_you_there] To point an example consider the how Michael Dearing prioritized talking about the challenges of the growth phases when Reid asked how founders can evaluate themselves as founders: 
@@ -111,6 +97,9 @@ There are a lot of enlightened formulations that are giving us the understanding
 
 
 
+#### Answer?
+
+
 
 The inescapable truth from looking from above, the whole situation of the startup exists on one hand, and on the other hand, the growth situation for the founder and the leadership team should go along with. And naturally, it is implied that if we don't know where we're going - not exactly and not entirely and nor the means to make that growth happen - then we are essentially navigating a space by doing from our position of learning - and the implied establishment of perspectives - given that we are seeking outcomes; which set us to then be concerned with provoking our views with real views such as the views of how market will respond. 
 
@@ -122,98 +111,68 @@ Furthermore, if we find ourselves inclined to accept listening and seeking out n
 
 But of course, we understand too - from our culture and fast-paced inclination to fix things after the fact - that we are generally induced to keep on learning in retrospect - after we knock our aheads - which is why we shall close this chapter with a few more celebrations about the challenges of change or the challenges of challenging ourselves. 
 
-As for the final illustration of this chapter, I want to go back to the situation of us and tools - or us versus tools under the new terms - or the situation where we can be enamorated with tools which is what had happened with me through my own jorney as I became a writer throught the development of this book. And then, to close with the wider and wiser views that can inspire us to seek inside in us the beginner the naive the humble or to keep ourselves in the state that Steve Jobs took from "The Whold Earth Catalog," his plea to "Stay Hungry, stay foolish." 
-
-#### Dancing with the AI writer robot 
-
-When I had explored the affairs between us and tools - trying to explore if any identity could be formed from interacting with tools - I wasn't 100% into the direct and indirect potential effects from the simple situation when the human is acquainted with a tool. Think about what comes - as a bonus - if we take a time machine and witness a father making a hammer to his kid in the late 1700s. And then, let us move forward to another father passing on Smith & Wesson pistol to his kid in the late 1800s. Or yet in the late 1800s another kid gets a Remington No. 1 typewriter. And then another kid gets an Apple II computer in the late 1900s. Likely nothing much comes as a bonus. These are tools that can do nothing. These fathers, on the other hand, had told them what to do with the tools. And have likely guided them a bit not only in terms of how to use but they too have illustrated to them, have given to them, some narratives as for what to do with these tools and who they could become. These narratives were part of the process, the guidance, the manual. Now we are in a world where a lot of tools exist but also the guidance part gets to be communicated in new ways. In other words, as we have considered, tools are telling us how to do and who we can become. 
-
-Setting our time machine to my own story not so long ago, we will witness how I turned out to become skilled with a tool and how I had achieved success that may have influenced my actions and perspectives as a writer. Somehow I got motivated about my developments with a tool, I saw myself as one that is skilled with this tool, right when I was facing the struggles of the development of my career as a writer, which I believe might be one of my identities by now. These were the days when I happened to meet this tool, this artificial intelligence tool entitled Chaffee PT made by OpenAI. I first found it fascinating that I could ask the tool to write. After I had put some bits and pieces of logic and asked it to produce an article, I was fascinated even more, especially given that I had suggested a logic for the structure as for how their story then goes. I caught myself ordering it to do things and having fun as well, like, no, that's not what I have asked of you, I want you to use a more scientific tone and less marketing orientation. I want you to use a plain and simple English, like the kind of English that William Zinsser would accept as interesting. And then I have given further instructions for the logic of my articles as well, like reminding the tool of how important it is to show a problem, to bring up a complication in the beginning as part of the introductions of the articles, and a lot more. The tool did an amazing job, even to a point of making me work a lot more than I would normally do. I'm especially proud that the artificial intelligence tool made me work.
-
-So then I was able to also publish a couple in an online publication and even received a promotion. It should be noted that this promotion was a badge, a recognition. To defend myself, I wasn't cheating; and I had developed an extensive interaction and kept the control for all the words it had produced either by asking it to edit to the level of paragraphs and then editing myself the final paragraphs. Anyway the point is that the tool had led me to write better articles - where I didn't need anything else to support the view of myself becoming a better writer - but the result from using it had given to me support to that too, through the badge of being a contributor to that publication. 
-
-But then, I might have brought myself to find some trouble from that too. I was, out of the sudden and likely after having given that "raise" or "promotion", passionated or feeling proud of myself. I had considered who I were and then I felt like being a sort of composer, being able to tell the robot to engage in many specific activities. And then I felt too that I was getting better in the art and science of controlling that robot. Moreover, I may have evolved into the movement I also caught myself struggling, and being a bit confused, or to be working for the robot too, or being influenced by the interactions that it had created. Through my interactions, yet when I was yet promoting the robot's amazing work and being proud of my ability to control it,  I happened to share thoughts about my discoveries with a great professional writer. At some point, she told me to "not make a dance or song about a simple activity." She didn't like how I was focusing in explaining to her about how I happened to be using the tool asking the tool to do things for me. She has told me to "think it through," and she reminded me that my brain was tool. That was an inflection point for me, an awakening. For me writing wasn't simple. 
-
-But as I provoked her to point that I was becoming a sort of master of a an AI writing tool, she too provoked me by saying that the writing were simple. For me, a couple lessons followed: One, that I have left the position or the consideration to think of myself as someone like a master of a tool. In other words, I took myself out from the trap of thinking that I were a champion by being able to have full control over the tool. After having liberated myself from that notion, I then realized that was  essentially getting used, or lost, of confused, by the communication interactions with the tool. In other words, as my trust created a perspective of being a master, I was taking myself to be controlled by the tool and to be stuck into that perspective, not being able to release myself from it such as to be able to write and to see writing a simple activity. 
-
-Naturally other thoughts too had helped me to release myself from that spot, such as when I read from Julia Cameron - from The Right to Write - great thoughts about the importance of writing by asking my editor-critic to stay aside which took me to give full permission to write with errors which had taken my writing to be closer to myself which had taken me to write things from my heart instead of being busy trying to write what is right. Having liberated myself from the situation of being the controller of a tool - and the effects of being controlled by the tool - I kept on using the tool but with a whole new perspective. To give you an example, I had asked the tool to give me the dates for a well-known pistol manufacturing company around the American Civil War, the dates for when Apple II was released, that kind of thing. Plus, I had asked the tool to read some of my drafts and to make a summary - as in trying to simulate what a specific kind of audience would take from an essay. Notice the difference - I kept in the space not of a controller or a master. I moved myself to the position of a being open. I have accepted that writing is a simple activity, to a certain extent. I have accepted that I could write with errors, to a certain extent. I have accepted that this AI tool is amazing, to a certain extent. In other words, I moved from the spot of being a controller to being humble. It took me to write for more than 150 days as a job and to grow the draft from 300 pages to 600 pages. I took me to understand better the themes too, to connect with the audience, to connect with myself, to connect with these so many sources that are helping me - sources from inside of me and outside, like these great authors. 
-
-Now if I were in fact forming an identity - such as of an AI writer-master - I can't say and it would be again an attempt to go too far. But I would say that the awakening - the call from that great writer - was enough to let me get away from that idea of an identity as a value, or to get away from a status that had a strong dependence with that tool. The liberation from that potential position brought me back to just be okay with myself being the whole Marcio which is more useful to a book than an specific Marcio. To detach myself from that identity or personality or character- you name it - it felt like I had supported myself to be back to my own whole self which may go along with the thinking of Amarthya Sen in Identity and Violence: 
-
-> *"In our normal lives, we see ourselves as members of a variety of groups - we belong to all of them. A person's citizenship, residence, geographic origin, gender, class, politics, profession, employment, food habits, sports interestsm taste in music, social commitments, etc., make us members of a variety of groups. Each of these collectivities, to all of which this person simultaneously belongs, gives her a particular identity. None of them can be taken to be the person's only identity or singular membership category."* (Sen, 2006, p.2) 
-
-
-<!-- 
-@meta @references 
-* reference - Sen, A. (2006). Identity and Violence: The Illusion of Destiny. W. W. Norton & Company, Inc.
---> 
-
-
-#### Unbundle 
-
-
-Now, to close, and going back to thoughts from Michael Dearing, I would like to celebrate this calling where he is inviting founders to be aware of their behaviors, especially given the space where we can be pressured to execute, that calling that we may do what we do and may do it too in love with what we do:  
-
-> *"Human beings have a knack for observing, forming judgments, and taking action. When you state it like this it seems pretty linear and rational, whether you’re talking about individuals or people working in teams. Cognitive behavior theory says automatic thoughts color and distort our observations, our judgments, and our actions."* (Dearing, M., 2017)
-
-<!-- 
-@meta @references 
-* @reference - Dearing, M. (2017, March 26). The cognitive distortions of founders. Medium. https://medium.com/@mcgd/the-cognitive-distortions-of-founders-8e96c1edf60b
---> 
-
-As Michael had looked at the work of Aaron Beck - cognitive behavior theory - he had found something for us to do about ourselves instead of letting us do what we do as if we were static, as if we were just a personality that fits or not in a position:
-
-> *"Beck’s theory of cognitive behavior described how observations, judgments, and actions are tinted and changed by automatic thoughts. These automatic thoughts come to mind without even trying. They reflect deep beliefs about self, past experiences, and expectations for the future, and they have a profound impact on judgment and behavior."* (Dearing, M., 2017)
-
-<!-- 
-@meta @references 
-* @reference - Dearing, M. (2017, March 26). The cognitive distortions of founders. Medium. https://medium.com/@mcgd/the-cognitive-distortions-of-founders-8e96c1edf60b
---> 
-
-If I couldn't link to the article, I would summarize the above as "if we are too fast to do, consider how fast you are in assuming that you are what you are." But, I can link and I strongly invite you to read Michael's article because it will set us in a new place, to gain a perspective such as that a lot of superpowers of founders can be seen from a different perspective, such as to be distortions and that they can be constructed. It may indeed be uncomfortable - such as to account as well that to be calling a superpower is just the perspective of one that is in the hurry and does not have time to see the half empty glass - but I take that it is a happy news for us that we can gain a perspective from cognitive behavior theory and to know that we are essentially  nurturing ourselves and that while we may generally think that we can't do much in terms of who we are - as in when we think that we would need to take a detour to treat our beings psychologically - it matters then even more to know that there are real things that we can do in terms of improving our behaviors and that to be concerned with that can be and should be part of management, the management of the self that is essential to lead the management of the whole. 
-
-<!--
-@meta @todo 
-* @todo - p2 (Removed) - In Identity - Entrepreneurship can be taught too, Steve agreed later, and Scott (check letter from Marcio to Scott @letter @meta-refid 6565-0202-9383-1233) had provided a prompt too. @meta-refid 6565-7575-0988-1234
--->
-
-<!--
-@meta @todo 
-* todo - p2 (Done) - In Identity - Check the split that Steve Blank made between Composers and Performers of an Orchestra from "Entrepreneurship is an Art not a Job" which from the inspiring and metaphorical aspect connects with that Benjamin Zander had said in his "The Transformative Power of Classical Music" TED talk. and  https://steveblank.com/2011/03/31/entrepreneurship-is-an-art-not-a-job/ https://steveblank.com/2011/04/09/entrepreneurs-are-artists/ and the comments from his commentators / @meta-refid 1222-3332-1212-3234
-* @todo - p2 (Done) - On Identity - Check cross use of composer case around the book which had referred to Steve Blank. 3290849824-49284928-4290849284901-4988234982394
---> 
 
 
 
 
-#### Iceberg 
 
 
-Tati Ferreira, from the channel AcidezFeminina, raised a question during a debate in the 2018 elections, asking, "If all the money that was siphoned off had been invested in the state, would we be looking at a different scenario? I think this is a question on many people's minds, though I'm not sure if there are any definitive answers."
-
-Eduardo Oinegue responded, "Absolutely not. Even if you redirected every penny of corrupt funds into public policies, it would not result in any tangible improvement in public policies. However, the energy that these managers expend to orchestrate a corruption framework represents time not spent addressing societal issues." He concluded, "By not working for society, it's as if their answer is yes, because their dedication lies with their own interests, not those of society."
-
-The metaphor of the "Iceberg of Corruption" was used to illustrate the point:
-
-The tip above the water represents the stolen funds.
-Beneath the surface lies the time corrupt individuals spend scheming about theft, which could otherwise be spent on positive endeavors.
 
 
-This deeper reflection on the true cost of corruption, can be an invitation for us to consider the management of the activities in any entrepreneurial effort. It tells us that we need to execute with consciousness to the business of entrepreneurship, which logically starts with the implied notion that the time we invest in one thing is time we aren't dedicating to other things; but the reason that this matters, especially for entrepreneurs is that it connects with the idea expressed by Reid Hoffman which is key to the scaling needs in the startup ground which is "What brought you here is not what takes you there:" 
 
-> *""* Reid Hoffman, 
 
-<!-- 
-Reference 
-* what got you here won't get you there - Seems to be a topic that was covered in this interview. https://www.youtube.com/watch?v=ka--XKeI-o8 
-* Seems also to be in the Blitzscaling 
---> 
 
-Now, the celebration of that truth in entrepreneurship unlocks a complication. That is what means there and the how to get there? And it becomes quite complicated because if the team is small, consider that many startups started with one before the other, and especially if vision - or love or passion or you name it - is present, it is naturally expected a kind of vision that creates a roadmap for the there which naturally pushes them to gamble since "what got you here won't get you there" revels that they might be in seeking the objective as much as the how to get to the objective. Thus the complication prompts us to find what is the key that unlocks the self into being open so that to be aware, to embrace the unknown, such as developing ways to balancing the activities, for what it takes to get to there, to which only really after the movement happens one can truly say, in retrospect, how to get there. 
 
-To solve the problem, which is likely impossible from the view of the executor of now, we might consider to resort in developing a humble view for what happens. Thus, first, we will recognize what we are experiencing, as executors of entrepreneurship, is a drive with intents, and the complex art of dealing with being efficient. The second aspect, after the recognition of the condition, involves being compassionate with your other self, the self that does not know, the self that is the only self that can let you escape from trouble, and enter learning, or the state of bring an apprentice which links to the state of the infinite learner that we have touched upon in the very first chapter. 
 
-### How we experience the performer 
+
+
+
+#### a1 - Situation of specialists 
+
+
+
+Envisioning a typical scenario - an entrepreneur spends time planting, preparing the ground, nurturing fertile soil. They water their creation and soon engage in harvest-related tasks - focusing on sales, customer support, and crisis management. They note that their initial strategic actions were successful, understanding how to measure their success. At the same time, they notice some issues, hence planning for operational processes or fruit-harvesting actions to be efficient; thus, their actions now need to address minor crises like merchandise exchange issues due to a percentage of spoiled products, non-paying customers, communication problems with suppliers, etc. However, in a governance mode, alert and aware, they accept these actions as part of the process - there's no reevaluation, no time for it. The conclusion they arrive at is something like - I'll increase sales, and sales will, in turn, bring the results I need. With more profit, I'll have a greater margin to address these problems - I can place an intern there, I can hire another professional to handle support calls with problematic clients.
+
+This is a notion that suggests - if I earn more, I can use that extra money to compensate. This way of acting might be more natural than we think, perhaps because our tendency is to separate the strategic process (planting) from the tactical (harvesting). Perhaps we are still anxious, in a hurry, and that's where the danger lies for entrepreneurs, because they account for losses as part of the process, start managing inconsistencies and emergencies as responsibilities - after all, it would be irresponsible not to address harvest issues. The problem? We forget that certain fires and issues need not exist in the first place, no longer believe we can change reality, the entrepreneur becomes a victim of their initial success because the governance mindset, alert and conscious, does not make room for creativity.
+
+The entrepreneur never accepts, for example, to reconsider whether their customers are the right ones. Once the harvest is done, reality becomes immutable.
+
+With this mindset, they further accelerate these actions and officially decide that they must increase revenue, even while officially accounting for emergencies. The business relies on a bit of fat, a profit that pays for these emergencies. Then, with scale comes a critical problem. The entrepreneur spends much of their time managing crisis resolution, and this time, or part of it, could be time for liberation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### a1 - the high-performer 
+
+
+
+
+When Marcio had insight and told Michael that the major problem was of a party, for what was nice, like flow. And not the denial to do the boring. So the doing the so good things led to use of energy in excess. Insigh of Marcio - "Thank you Michael. Your reply resonated so much with things in my head, concerns, sometimes not clear; it adds so much clarity. A few months ago, I had, virtually speaking, screamed — ah! It's that freaking party the problem. The party would be, for example, a 4h engineering activity that goes over the time of other important things (not seen as critical of course). The benefit was so great that a sort of specialized mindset acts. I was not conscious and would never judge that as a potential evil act. Well, how could it be? The very greatness, supposedly my creative engine, the productive engine. And worse, the general brain command was — continue! Do it, Marcio, advance that. You can fix other things later. I was assuming that a great actor would compensate for the other stuff running slow. "
+
+Insight of Michael, not a public quote yet, that "Categorization --> clusters --> patterns --> priorities -- that's it exactly. Natural multi-taskers with a strong work ethic (that's what I hear in your opening above) can easily lose site of what matters most because getting things done feels terrific and is comparatively easy / cheap for them. That's a problem if you compound the implicit deprioritization of the few most important things, in favor of many things because we love to get lots of things done, over a long period of time. Thank you for the note. It's very helpful to see through your goggles." 
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### a1  we experience the performer 2
 
 Consider a founder that focuses so much the engineering of a prototype that does not open space to strategize that she will need to let it go, so to consider the aspects necessary to turn that project into an innovation in the real world. As an example, consider the one that puts out fires as she fears not doing to entirely, mainly, will create other problems for the future of the organization. Thus, the belief would be of - if I let the fire spread, I will lose the entire thing. In other words, actions without strategy can lead to a routine of execution that doesn't address the deeper issues, or better, higher-order issues. 
 
@@ -226,65 +185,24 @@ Another point of view to open the analysis of the situation can be appreciated i
 > (Dearing, 2015, 47:18-48:02)
 
 <!-- 
-
-Dearing, M. (2015). Blitzscaling 03: Michael Dearing on Capitalism, Creativity, and Creative Destruction [Video]. Greylock. https://www.youtube.com/watch?v=3vCdfa_aeI8
-
+@meta @references 
+* Reference - Dearing, M. (2015). Blitzscaling 03: Michael Dearing on Capitalism, Creativity, and Creative Destruction [Video]. Greylock. https://www.youtube.com/watch?v=3vCdfa_aeI8
 --> 
 
 There is a natural force, especially for entrepreneurs that see themselves as specialists, a tendency into a execution where the entrepreneur hopes that reactive execution - to any focus goal as set - will solve structural problems, or it will pay for the any potential risks at the moment, and will anyway likely open the opportunity ahead anyway. This condition may be more or less evident, and strong - as in defining a role of a hero - depending on the actual person. Nevertheless, it becomes a reactive execution as it takes the entrepreneur in a way of execution that governs their own way of thinking, it envelops, embraces. 
 
-In theory, this should be good, but it results in the entrepreneur. <!-- elaborate 
-
-*  ( ) Treat objection of hero and case for hero's time for non-heroic transcending - When we recognize the hero's case, in p.113 ("In theory, this should be good, ... ) we need to do so also acknowledgingg the potential objection (Like Paulo colleage of PM world has given to Marcio once) that the a state of flow that allows one to give superpowers can be good; thus we recognize that supporting confidence for a human, like the self, towards growth is key, but the reason for acknowledging this is to allow moving on, while be specific that reflections on ways to support confidence and development are being discussed elesewhere, such as in wantrepreneur, which points back our frame goal of the future, which has a start to grow, which naturally requires transcending which does not mean killing the "self in progress" and means more to allow the "self representing the whole in progress", some time to that. Thus, this statement shapes the A, general line for points given. 478248274-4294924729-983953-43984983
-
---> 
+In theory, this should be good, but it results in the entrepreneur. 
 
 
-In abstract terms, it becomes reactive to a goal of now and the risk naturally is mainly about the neglecting of the managerial effort that would put things in perspective.  
 
-#### Illustration case 
 
-Envisioning a typical scenario - an entrepreneur spends time planting, preparing the ground, nurturing fertile soil. They water their creation and soon engage in harvest-related tasks - focusing on sales, customer support, and crisis management. They note that their initial strategic actions were successful, understanding how to measure their success. At the same time, they notice some issues, hence planning for operational processes or fruit-harvesting actions to be efficient; thus, their actions now need to address minor crises like merchandise exchange issues due to a percentage of spoiled products, non-paying customers, communication problems with suppliers, etc. However, in a governance mode, alert and aware, they accept these actions as part of the process - there's no reevaluation, no time for it. The conclusion they arrive at is something like - I'll increase sales, and sales will, in turn, bring the results I need. With more profit, I'll have a greater margin to address these problems - I can place an intern there, I can hire another professional to handle support calls with problematic clients.
 
-This is a notion that suggests - if I earn more, I can use that extra money to compensate. This way of acting might be more natural than we think, perhaps because our tendency is to separate the strategic process (planting) from the tactical (harvesting). Perhaps we are still anxious, in a hurry, and that's where the danger lies for entrepreneurs, because they account for losses as part of the process, start managing inconsistencies and emergencies as responsibilities - after all, it would be irresponsible not to address harvest issues. The problem? We forget that certain fires and issues need not exist in the first place, no longer believe we can change reality, the entrepreneur becomes a victim of their initial success because the governance mindset, alert and conscious, does not make room for creativity.
 
-The entrepreneur never accepts, for example, to reconsider whether their customers are the right ones. Once the harvest is done, reality becomes immutable.
 
-With this mindset, they further accelerate these actions and officially decide that they must increase revenue, even while officially accounting for emergencies. The business relies on a bit of fat, a profit that pays for these emergencies. Then, with scale comes a critical problem. The entrepreneur spends much of their time managing crisis resolution, and this time, or part of it, could be time for liberation.
 
-### When the ethical worker is also a high-performer 
 
-When Marcio had insight and told Michael that the major problem was of a party, for what was nice, like flow. And not the denial to do the boring. So the doing the so good things led to use of energy in excess. Insigh of Marcio - "Thank you Michael. Your reply resonated so much with things in my head, concerns, sometimes not clear; it adds so much clarity. A few months ago, I had, virtually speaking, screamed — ah! It's that freaking party the problem. The party would be, for example, a 4h engineering activity that goes over the time of other important things (not seen as critical of course). The benefit was so great that a sort of specialized mindset acts. I was not conscious and would never judge that as a potential evil act. Well, how could it be? The very greatness, supposedly my creative engine, the productive engine. And worse, the general brain command was — continue! Do it, Marcio, advance that. You can fix other things later. I was assuming that a great actor would compensate for the other stuff running slow. "
 
-Insight of Michael, not a public quote yet, that "Categorization --> clusters --> patterns --> priorities -- that's it exactly. Natural multi-taskers with a strong work ethic (that's what I hear in your opening above) can easily lose site of what matters most because getting things done feels terrific and is comparatively easy / cheap for them. That's a problem if you compound the implicit deprioritization of the few most important things, in favor of many things because we love to get lots of things done, over a long period of time. Thank you for the note. It's very helpful to see through your goggles." 
-
-#### The romantic 
-
-An experienced and professional writer has written to me, in replying after what I have wrote to her, and she went direct to a point of pain: Marcio, do not make a dance or a song about something that is simple. She has asked me to go for the problem, to consider that the problem is simple. For the matter of working. I never thought that working was simple - which is an old idea I carry on, a sort of governing principle, a sort of operating model, influencing and always, how I engage with writing and other activities. 
-
-Perhaps because of fears, perhaps because the idea of a judgement, related to the many aspects involved that I could be judged, such as grammar, typos, what I today think as of dislexia, a lot. All of these elements are like fireworks, not necessarily bringing the visual excitement but in the sense of a bombastic incident that always come my way, informing, signaling, of my fears, of my sense of protection, and even a projected sense of identity. 
-
-In other words, I think, or feel, that I am not a person to write. Then, an almost rage comes my way, it would almost bring myself to be mad, but why would I do that? Actually, perhaps, it is a human trait to either go mad or go to other direction when the matter has to do with not engaging. 
-
-I perhaps was the case that I had prior moments of frustrations, when older or elderly folks have called my attention about my mistakes. But over time, I didn't show those. Then, perhaps, I figured that I could move towards another space, another place, to be somebody in another setting. Thus, it appears that the human can specialize in their need to be somebody, to be effective or efficient, somewhere. 
-
-( After note, when typing - I just remembered some of the ideas I have read from Adam Grant, from Originals, where he wrote that the brothers have a tendency to differentiate themselves. Such as the younger, that is generally taken as the one that is not going to be successful; he adds that yes he goes different, like a rebel, but he can also do really well when he goes for success. )
-
-So we can come back to the case where the professional author advice seemed to touch a pain point in me - what was going on with Marcio - the act or attempt to make a song or engaging in a sort of dance. And even seeking joy.  
-
-#### Am I looking to put fun? Or is just about the being of somebody or really about finding stories or creative way to help ourselves? 
-
-The detours to enhance a boring, or calm, work, with a set of animation seems to be quite possible. I wonder the actual origin of that idea, and also the complexities, how far one can do that. And also, it should be accounted, I wonder about the positive effects of the hyper investment in the detours or the whole tour. 
-
-#### The tour off duty 
-
-The notion could be expanded as the tour off duty. When one entirely denies, and anchor himself in a new track. It might take to interesting places, undeniable. Of course, why not, right? Now, I am motivated, having fun, feeling energetic, no boundaries can come up with many sub tours as possible. 
-
-Now, within the realm of the off tour, I am quite free, or arbitrary, mostly selecting what I want to do based on what captivates me. How far would that go and also how effective could that be for the actual goal? Like a planned wider, or long-term goal. Yes, some credible creations might happen, in the middle of all, but are these credible creations works that one could count on, involving progress? And the nature, regarding the nature of these works, when these projects become complex, would the protagonist be able to go through the ups and downs, like with perseverance? 
-
-Or, again, would that be a pattern that repeats with the storied context, as the narrative of the project unfolds? It appears that the act of progressing for any project may actually be about writing upfront some goal, being able to select activities that pulls the goal closer, closes the gap, allowing room for precise work, for some aspiring work (check the balance) and be okay when the project ends with no perfect results achieved. Results, therefore, aren't the most important. 
-
-#### The responsible guardian 
+#### a1 - The responsible guardian 
 
 <!-- 
 @meta @todo 
@@ -329,7 +247,15 @@ This reactionary execution essentially tells the entrepreneur to do more of the 
 
 
 
-### Transcending for impact 
+
+
+
+
+
+
+
+
+#### a2 - Transcending for impact 
 
 * Check Reid on https://youtu.be/ka--XKeI-o8?si=nPKD3gRtjmCEUNtm&t=3047
 
@@ -350,6 +276,57 @@ Hoffman, R. (2017, August 30). *Reid Hoffman: Build A World-Changing Business | 
 Although this principle of management is ease to visualize as operational in an organization, is becomes applicable to the startup in the sense that individuals are likely involved in a dynamic role, although one that - as we have discussed - might not be aware about other important things at other abstract levels. Thus any exercise that transcends the views of an individual bring bring up the possibility of a managerial role that is conscious for the larger organization - even if the larger organization does not entire exist.   
 
 In other words, by embracing compassion for the organization in development, we bring in the notion that recognizes failure and adaptation as dependend on prior movement, more than to be formed by conclusions in retrospect. The driver that only learns after analysis in retrospect - logically better than no analysis at all - looses the humble viewpoint that can keep their consciousness for the business open. 
+
+
+
+
+
+
+
+#### Transcending Unbundle 
+
+
+Now, to close, and going back to thoughts from Michael Dearing, I would like to celebrate this calling where he is inviting founders to be aware of their behaviors, especially given the space where we can be pressured to execute, that calling that we may do what we do and may do it too in love with what we do:  
+
+> *"Human beings have a knack for observing, forming judgments, and taking action. When you state it like this it seems pretty linear and rational, whether you’re talking about individuals or people working in teams. Cognitive behavior theory says automatic thoughts color and distort our observations, our judgments, and our actions."* (Dearing, M., 2017)
+
+<!-- 
+@meta @references 
+* @reference - Dearing, M. (2017, March 26). The cognitive distortions of founders. Medium. https://medium.com/@mcgd/the-cognitive-distortions-of-founders-8e96c1edf60b
+--> 
+
+As Michael had looked at the work of Aaron Beck - cognitive behavior theory - he had found something for us to do about ourselves instead of letting us do what we do as if we were static, as if we were just a personality that fits or not in a position:
+
+> *"Beck’s theory of cognitive behavior described how observations, judgments, and actions are tinted and changed by automatic thoughts. These automatic thoughts come to mind without even trying. They reflect deep beliefs about self, past experiences, and expectations for the future, and they have a profound impact on judgment and behavior."* (Dearing, M., 2017)
+
+<!-- 
+@meta @references 
+* @reference - Dearing, M. (2017, March 26). The cognitive distortions of founders. Medium. https://medium.com/@mcgd/the-cognitive-distortions-of-founders-8e96c1edf60b
+--> 
+
+If I couldn't link to the article, I would summarize the above as "if we are too fast to do, consider how fast you are in assuming that you are what you are." But, I can link and I strongly invite you to read Michael's article because it will set us in a new place, to gain a perspective such as that a lot of superpowers of founders can be seen from a different perspective, such as to be distortions and that they can be constructed. It may indeed be uncomfortable - such as to account as well that to be calling a superpower is just the perspective of one that is in the hurry and does not have time to see the half empty glass - but I take that it is a happy news for us that we can gain a perspective from cognitive behavior theory and to know that we are essentially  nurturing ourselves and that while we may generally think that we can't do much in terms of who we are - as in when we think that we would need to take a detour to treat our beings psychologically - it matters then even more to know that there are real things that we can do in terms of improving our behaviors and that to be concerned with that can be and should be part of management, the management of the self that is essential to lead the management of the whole. 
+
+<!--
+@meta @todo 
+* @todo - p2 (Removed) - In Identity - Entrepreneurship can be taught too, Steve agreed later, and Scott (check letter from Marcio to Scott @letter @meta-refid 6565-0202-9383-1233) had provided a prompt too. @meta-refid 6565-7575-0988-1234
+-->
+
+<!--
+@meta @todo 
+* todo - p2 (Done) - In Identity - Check the split that Steve Blank made between Composers and Performers of an Orchestra from "Entrepreneurship is an Art not a Job" which from the inspiring and metaphorical aspect connects with that Benjamin Zander had said in his "The Transformative Power of Classical Music" TED talk. and  https://steveblank.com/2011/03/31/entrepreneurship-is-an-art-not-a-job/ https://steveblank.com/2011/04/09/entrepreneurs-are-artists/ and the comments from his commentators / @meta-refid 1222-3332-1212-3234
+* @todo - p2 (Done) - On Identity - Check cross use of composer case around the book which had referred to Steve Blank. 3290849824-49284928-4290849284901-4988234982394
+--> 
+
+
+
+
+
+
+
+
+
+
+
 
 #### Considerations the dynamic nature of objectives in the growth situation 
 
@@ -389,19 +366,6 @@ The identified component of the playbook becomes the exercise of value, as it ha
 
 
 
-#### Friendly critic 
-
-<!--
-    @outline - Friendly critic (#autonomous #creative)
---> 
-
-If we seek a friendly critic, we shall consider a somewhat cold critic eye on top of the performers that may at times be able to experiment, to play too. The whole idea of this cold supervisor may be about to be calmer, as opposed to applauding the kids too quick all the time and making a parade for their movements. He gives the leg, the arm, supports. But he or she is cold, keeps her child informed about potential risks too. Keeps the team aware. Thus to enable a path of less frustration but also helps in structuring the episode with more rigor and less bet, like thinking it will work out. This model of strategizing says that there is an overarching meta control - as if it were a premeditated battle where the outcome, positive or negative, is always positive, an experiment. This parent, growth educator, and therapeut coach, is there to support curiosity and to let the team to be calm with a good critic. The valley, call it the throgh of sorrow or the valley of confusion, is valley of opportunity, is where life rises, is where the team can be enlightened. The path is the solution. 
-
-
-
-
-
-
 
 
 <!--
@@ -425,42 +389,19 @@ The insight from a research cited by "Are You Afraid to Identify as a Leader?, h
 
 
 
-
-
-
-
-#### Storytelling?
-
+#### Friendly critic 
 
 <!--
-@outline - Becoming an identity 
+    @outline - Friendly critic (#autonomous #creative)
 --> 
 
-
-<!--
-@meta @todo 
-* @todo - p2 ( ) - In Running, fears - Andy Grove talks about our success of a role, that we become. We can bring this from the inertia of success from Only the Paranoid Survive. @meta-refid 1222-2223-3334-4448
---> 
+If we seek a friendly critic, we shall consider a somewhat cold critic eye on top of the performers that may at times be able to experiment, to play too. The whole idea of this cold supervisor may be about to be calmer, as opposed to applauding the kids too quick all the time and making a parade for their movements. He gives the leg, the arm, supports. But he or she is cold, keeps her child informed about potential risks too. Keeps the team aware. Thus to enable a path of less frustration but also helps in structuring the episode with more rigor and less bet, like thinking it will work out. This model of strategizing says that there is an overarching meta control - as if it were a premeditated battle where the outcome, positive or negative, is always positive, an experiment. This parent, growth educator, and therapeut coach, is there to support curiosity and to let the team to be calm with a good critic. The valley, call it the throgh of sorrow or the valley of confusion, is valley of opportunity, is where life rises, is where the team can be enlightened. The path is the solution. 
 
 
-Some individuals, through projects in the corporate setting, are likely expressing an identity which is not a reflection of their true self of the present. The expression comes as they perform, as they see themselves as conductors for certain causes - it could be a key result ahead of a major objective. This expression might come in various ways as they see themselves in a role, or as supporters of a cause, such as a cause of other supporters, advocates, leaders, mentors, investors, angels, you name it. Naturally, the sky is the limit. From a storytelling perspective, a doer in a cause can be seen as a protagonist, or a messenger, or a conductor. Although what they do involves a set of specialized actions and behaviors, like when one is in control of how they act, the performer displays and develop behaviors that at the same time express and shape their identities.  
 
-Framing from a storytelling perspective will helps us to understand how emotions, such as feelings of loss, are experienced quite strong to a point of governing decisions - thus the use of our scarce resources. The book Storynomics (2018), whose audience is marketers interested in improving their communications, shows how people's perception about things can influence decisions. The authors refer to a selection of scientific works that shows that people's perceptions about pain (or pleasure) are felt based on what is presented to them - as in narrated - influencing them from how they imagine the given narrative. The selection of studies presented (2018, p.43) does justice to this idea by supporting scientific evidence for what the world of advertising has long before cracked, and profited for a while [^editornote_robertmckee_storynomics], althought generally understood as a subject of persuasion.    
 
-<!-- 
-@References
-* reference - McKee, R., & Gerace, T. (2018). Storynomics: story-driven marketing in the post-advertising world. New York, Twelve.
---> 
 
-[^editornote_robertmckee_storynomics]: 
 
-Now the fact that the advertising "of the west world" has discovered - by measuring results with customers - reveals that people decide based on narratives and stories that they are told and listen. In other words, it matters a lot - minimally for advertising agencies as we can confirm - that in the end of the day people bring to their lives, that they decide, based on what they listen, no matter if the the stories told are seen as persuasive forms of communication, or emotional communication, rhetoric, and on and on. Or, from another perspective, the advertising of the west didn't invent, indeed, as they had more like discovered, or understood, the natural mechanism of how people decide from the perspectives from the narratives that they are told. In part three, we will explore further the subject of human communication as narration [^footnote_prelude_human_narration] but for now we will maintain the equilibrium by focusing on how fear drives us, or how fears enter our narrative that drive us. 
-
-[^footnote_prelude_human_narration]: The work of Walter Fisher, Human Communication as Narration, will support us to improve our awareness of how people reason and decise based on the the experiences that they tell and listen. 
-
-But if what is told makes people fear is only does so effectively in the face of an ongoing conversaion, an ongoing train that is moving. We recognize this train of thought if we imagine a team of people in a locomotive where the destination is a city but out of the sudden the train stops right before a bridge. In this situation, if someone says that they might have stopped to appreciate the view, some people might laugh or be mad with the realization of the irony or how the observation does not fit the reality of what is happening. Thus the storied context makes the possibility for what is told to be coherent or not, to be truthful or not. Thus in the tracks of our work projects, such as an entrepreneurial effort, w happens is that things go awry, or appears to be going in the bad direction, exactly as we want things to go in a certain direction, such as to stop by a key result associated with a higher-order objective or destination. All sort of situations that trigger fears such as the consideration that projects are going to be abruptly terminated, such as that layoffs as necessary, or if an entire division needs to be closed. And how certain things are triggered to our lives appears in different ways, because one may feel compassion for the people who could be affected, or when a leader feels in a position of being a messenger for a cause, a train conductor, you name it. Just as a train conductor is happy when the train is running smoothly and feels bad when it's no longer operational, the context of entrepreneurship and businesses also means a track of possibilities where the performers are protagonists who cares more than being apatic participants in a train moving to a random place. We aren't moving to an arbitrary place and we are not apatic participants. We are moving towards aspiring goals and we are humans. 
-
-Thus the work situation, and especially the entrepreneurial situation, creates a storied context where certain values are established and helps to create an equilibrium. These values can be acessed if we dig into reflecting within actionable ideas like "we need to keep working in this project tonight" which might be associated with expectations of significant milestones, such as expected state of happiness of the team, expected state of security to the team or the project, or any measure of success that is ahead. Thus it's natural for a person's identity to be linked as a responsible being, as a protagonist, emotionally and ethically connected to a duty. Conversely, it is natural to expect that a failure to do so, to operate towards the success, might trigger an actual real impact to their lives, like the unsolvency of their ability to work, which triggers other fears as, for example, people may need to work for money or other reason they hold as value. Suddenly, due to various factors, external or internal, experienced or perceived, the protagonists find themselves crafting narratives that are powerful in the face of the experience of fears they project. 
 
 
 
