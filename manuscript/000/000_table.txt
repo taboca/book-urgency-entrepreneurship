@@ -1,5 +1,7 @@
 # Todo # 
 
+* @todo - p1 ( ) - In Identity - Growth feat. PG accross chapters - Marcio have copied a quote from Paul Graham that was way ahead, in chapter 3, to now; because it needs to be evident, from the beginning of the book, that growth is the situation we are talking; this creates a match with the audience. Moreover, we need to make sure that the audience gets to this point with a full awareness of the growth situation. @meta-refid 1212-3212-3328-3834
+
 * @todo - p2 ( ) - From Running, Fear, Trough of Sorrow - Check the quote from Fisher's book which connects with the https://en.wikipedia.org/wiki/Sociometer theory. @meta-refid 1222-2223-3344-4555 
 
 * @todo - p2 ( ) - In Identity - Fix the reference to "A Máquina do Caos" to use the english one. @meta-refid 5544-3434-1212-2345
@@ -131,8 +133,6 @@
 
 * @todo - p1 ( ) - In Identity - Check back from the video which part refers to naiveness or passion. @meta-refid 9393-9394-9312-9332
 
-* @todo - p1 () - In Identity - Check if the situation of growth should be brought to the beginning, as the situation or the complication of the intro; and if this was introduced in the book before, such as in Wantrepreneur. @meta-refid 1212-3231-3349-9393
-
 * @todo - ( ) p1 - In Identity - Shorten the following, Editing before connecting with investors. @meta-refid 1212-3333-4443-1244
 
 * @todo - p1 ( ) - Wantrepreneur vs. In Identity - Check the https://steveblank.com/2011/03/31/entrepreneurship-is-an-art-not-a-job/ against the two chapters to see if we can say something about the learner vs. performer. 
@@ -144,8 +144,6 @@
 * @todo - p2 ( ) - In Identity - Check let's pivot, and let's pivot again line by Steve. @meta-refid 1212-3223-4212-3467
 
 * @todo - p2 ( ) - In Identity - Check Maslow date for Non-linear work - @meta-refid 7767-0909-1233-3344 
-
-* @todo - p2 ( ) - In Identity - Marcio have copied a quote from Paul Graham that was way ahead, in chapter 3, to now; because it needs to be evident, from the beginning of the book, that growth is the situation we are talking; this creates a match with the audience. Moreover, we need to make sure that the audience gets to this point with a full awareness of the growth situation. @meta-refid 1212-3212-3328-3834
 
 * @todo - p2 ( ) - In Identity - Check reference to where Jordan Peterson said about leavinng 80% behind. @meta-refid 8383-1212-2339-9333 
 
@@ -439,6 +437,8 @@ https://chat.openai.com/share/b7eb16c5-4c18-4709-9220-bd2629f34a3d
 * Culture 
 
 ## Done
+
+* @todo - p1 (Done, dup of 12-3212-3328-3834) - In Identity - Check if the situation of growth should be brought to the beginning, as the situation or the complication of the intro; and if this was introduced in the book before, such as in Wantrepreneur. @meta-refid 1212-3231-3349-9393
 
 * @todo - p2 (Done) - In Running / Fears / 3rd section #grove #intel #fears #growth - Supporting footnote for the exercise of Grove and Moore - The one in the conditions, able to grow or defend, may engage in projecting gains for the growth option. Consider the quote from page 56 from chapter Defense and Growth from the book Toward the Psychology of Been, by Abraham Maslow: "12. In this process the environment (parents, therapists, teachers) is important in various ways, even though the ultimate choice must be made by the child: a) it can gratify his basic needs for safety, belongingness, love and respect, so that he can feel unthreatened, autonomous, interested and spontaneous and thus dare to choose the unknown. b) it can help by making the growth choice positively attractive and less dangerous, and by making the regressive choice less attractive and more costly." Note: I think this in a way aligns with the mental exercise that Grove has given, when he considered them to be out, fired, and what the other CEO would do. @meta-refid 1212-3232-7676-7474
 

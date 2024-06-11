@@ -26,8 +26,8 @@ Now, for this magical possibility to happen we need to consider some of the elem
 
 <!--
 @references 
-* reference - Fisher, M. (2023). A Máquina do Caos: Como as Redes Sociais Reprogramaram Nossa Mente e Nosso Mundo. Todavia.
 * reference - Fisher, M. (2022). The Chaos Machine: The Inside Story of How Social Media Rewired Our Minds and Our World. Little, Brown and Company.
+* reference - Fisher, M. (2023). A Máquina do Caos: Como as Redes Sociais Reprogramaram Nossa Mente e Nosso Mundo. Todavia.
 --> 
 
 
