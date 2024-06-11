@@ -1,5 +1,7 @@
 # Todo # 
 
+* @todo - p2 ( ) - In Identity - Check the english quote - Marcio has the pt-br book - @meta-refid 7676-9898-7364-8764
+
 * @todo - p2 ( ) - In Running, Fear, Sorrow - Check the dup ref to Max Fisher as Fisher and the Wyrathu story was brought in the context of social and identity. Now, again, but the point now is the Like Button. So now this second occurence may actually explore better or not reference so much in detail. Print both side by side. @meta-refid 1222-2333-4444-5555
 
 * @todo - p2 ( ) - In Running, Fear, Sorrow - Check if these reflections about Social Media ref Fisher may be also used in The Feedback of Urgency. Differentiate but hold on to remove too fast because these are well connected with The Valley of Sorrow and MD s PR point. @meta-refid 1222-5566-3344-7755 
@@ -189,8 +191,6 @@
 * @todo - p2 ( ) - In Identity - Consider some ideas from the Design of Your Life book by Stanford professors which used design thinking for career / @meta-refid 3234-5546-3333-8474
 
 * @todo - p2 ( ) - In Identity - Consider the thought from Andy Grove about performance of people tied to motivation - which is a management concern as indicated - which connects with Maslow / @meta-refid 6464-8373-9873-8474
-
-* @todo - p2 ( ) - In Identity - Check the english quote - Marcio has the pt-br book - @meta-refid 7676-9898-7364-8764
 
 * @todo - p2 ( ) - In The Feedback of Urgency - Should we bring a illustration of floor clearning and counter-effect? / @meta-refid 7565-9586-2233-4432
 
