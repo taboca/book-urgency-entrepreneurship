@@ -9,9 +9,8 @@ In a previous chapter, in the section *Infinite Apprentice*, we have considered 
 Brian, therefore, might be a good example that the infinite apprentice is connected with the an inner and humble spirit that enables transformation. But then by recognizing the situation of Brian, we should take in the consideration the context too, to force ourselves to recognize what he had revealed too about the network of knowledge and learning how to learn - the idea of accessing the best books would be an element - either people or by great books. Also the location and timing - that he and his cofounders were in a space that were considered top-tier, YCombinator, which brough them to know Reid Hoffman, so he too brought himself closer to a good network. 
 
 <!-- 
-Reference 
-* what got you here won't get you there - Seems to be a topic that was covered in this interview. https://www.youtube.com/watch?v=ka--XKeI-o8 
-* Seems also to be in the Blitzscaling 
+@Reference 
+* reference - Hoffman, R. (2017, August 30). *Reid Hoffman: Build A World-Changing Business | Chase Jarvis LIVE* [Video]. YouTube. https://www.youtube.com/watch?v=ka--XKeI-o8
 --> 
 
 
@@ -172,34 +171,6 @@ Insight of Michael, not a public quote yet, that "Categorization --> clusters --
 
 
 
-#### a1  we experience the performer 2
-
-Consider a founder that focuses so much the engineering of a prototype that does not open space to strategize that she will need to let it go, so to consider the aspects necessary to turn that project into an innovation in the real world. As an example, consider the one that puts out fires as she fears not doing to entirely, mainly, will create other problems for the future of the organization. Thus, the belief would be of - if I let the fire spread, I will lose the entire thing. In other words, actions without strategy can lead to a routine of execution that doesn't address the deeper issues, or better, higher-order issues. 
-
-Here is where anyone will easily consider the idea of urgent versus important and the idea that continuing as in performing might support the self to the denial of the analysis of what is being done, and any impact. We might be enchanted, following an illusion of productivity. Perhaps at some point, entrepreneurs shift from being proactive to reactive, or proactive in a realm of an specific activity or concern, which would mean not being proactive from other points of view. As an example, consider that they begin to tend to what's "in the air," such as what's working with customers, to responding to demands, or to comply with an effort that seems to show results ahead, something that is relevant and commendable, for execution is important.
-
-Another point of view to open the analysis of the situation can be appreciated if we think of a founder that focuses so much the engineering of a prototype that does not open space to strategize that she will need open time to consider the aspects necessary in terms of what is ahead to turn that project into a innovative business in the real world. In an interview with Michael Dearing, Reid Hoffman has framed the aspects of evaluation and asked "How do you think people should think about evaluating themselves as founders?" 
-
-> "First you have to have an insight, a technical insight. Second you have to turn that insight into a product, and third you have to hopefully - God willing - turn that product into a business. Those are about as different sets of pursuits with very little in common with each other. And so if you are energized by the idea of coming up with a technical insight and then moving to productization and then moving to the business building phase, that journey will be satisfying and exciting to you. If you find yourself totally in love with the technical insight manufacturing process, that is a real problem. And then you end up having science projects, not companies. If you find yourself endlessly prototyping and tinkering with the product without regard to the business economics, then that's a warning flag as well." 
-> 
-> (Dearing, 2015, 47:18-48:02)
-
-<!-- 
-@meta @references 
-* Reference - Dearing, M. (2015). Blitzscaling 03: Michael Dearing on Capitalism, Creativity, and Creative Destruction [Video]. Greylock. https://www.youtube.com/watch?v=3vCdfa_aeI8
---> 
-
-There is a natural force, especially for entrepreneurs that see themselves as specialists, a tendency into a execution where the entrepreneur hopes that reactive execution - to any focus goal as set - will solve structural problems, or it will pay for the any potential risks at the moment, and will anyway likely open the opportunity ahead anyway. This condition may be more or less evident, and strong - as in defining a role of a hero - depending on the actual person. Nevertheless, it becomes a reactive execution as it takes the entrepreneur in a way of execution that governs their own way of thinking, it envelops, embraces. 
-
-In theory, this should be good, but it results in the entrepreneur. 
-
-
-
-
-
-
-
-
 
 
 #### a1 - The responsible guardian 
@@ -342,11 +313,11 @@ https://www.harrisonmetal.com/classes/gm3-managing-engineers-and-artists
 -->
 
 
-In the path to solve the entrepreneurial's dilemma, which can be paradox, I ask us to consider what I call the *Minty-Tubman Growth Path*, as just a way for us to carry the quest to understand the transformation of Harriet Tubman - The Moses of Her People - rising from her past self, the enslaved Minty, Araminta Ross. In this ride we will be conduced by Michael Dearing as he had the interest in Harriet's story and make clear observations for a scaling model that support growth of startups their teams and founders. 
+In the path to solve the entrepreneurial's dilemma, which can be paradox, I ask us to consider what I call the *Minty-Tubman Growth Path*, as just a way for us to carry the quest to understand the transformation of Harriet Tubman - The Moses of Her People - rising from her past self, the enslaved Minty, Araminta Ross. In this ride we will be conduced by Michael Dearing as he had the interest in Harriet's story and drew good insights from that proposing a scaling model that supports growth of startups their teams and founders. 
 
-In other words, Michael had identified characterizations from her story suggesting a model for scaling of a startup in the face of a world that needs a major change, and aims for a potential better place for the world, which by that recognizes the idea that certain supporting forces exists or are growing. Back to the days of Harriet, these could be simplified as the forces from the North - forces supporting freedom and end of slavery - intended to fight the forces from the South - forces supporting the situation as it were. 
+The first thing to be observed, which matters for anyone in the business of getting things done but more important for startups, is the recognition that the startup exists to grow and to grow in a world that is embracing a change. The setting of a better world is a good one because it sets us to be energized. With that, it follows too the recognition of the supporting forces. Back to the days of Harriet, we could over simplify that there were certain forces from the North - forces supporting freedom and end of slavery - and on the other hand the forces from the South - forces supporting the situation as it were. 
 
-To recount points from Michael, observations in retrospect and based his history research and analysis, he had identified steps. First, the identificatin of her values. Thus, her movement to free herself can be seen as a key result but of course not the ultimate outcome she wanted - it showed a connection with wish for freedom for enslaved people. As she escaped she had tested a model, and from that she saved her friends and family so all of that can be simplified now as herself exercising her values. Thus she found a model from her successes and, from that, according to Michael's second point, she exercised "quick wins building trust" and from that "recruiting allies and building a network." 
+Michael's observations, in retrospect and based his history research and analysis, he had identified characterizations of Harriet's actions taking herself to ride along the movement of freeing enslaved people which required her to grow. He maps the steps. First, the identificatin of her values. Her movement to free herself can be seen as a key result but of course not the ultimate outcome she wanted - it showed a connection with wish for freedom for enslaved people. As she escaped she had tested a model, and from that she saved her friends and family so all of that can be simplified now as herself exercising her values. Thus she found a model from her successes and, from that, according to Michael's second point, she exercised "quick wins building trust" and from that "recruiting allies and building a network." 
 
 To celebrate her improvement of methods, and access to that scaling power, Michael in *Two Blasts from the Past* (2018) highlights a period around "about ten years after she had really seized her own freedom," when she became a favorite secret agent for the North. The following is a letter, which she carried in the pocket, which meant free pass in terms of transport, ability to buy supplies, and more. The letter was signed by David Hunter, a Union general and represented one of many acts of trust and support to her mission as she were at this point building a strong network of information and gathering information: 
 
@@ -364,7 +335,7 @@ To celebrate her improvement of methods, and access to that scaling power, Micha
 * reference - Dearing, M. (2018, February 13). Michael Dearing at the 2018 NYC Product Leader Summit: "Two Blasts from the Past" [Video]. YouTube. Spero Ventures. https://www.youtube.com/watch?v=oBOOcBgHxTU
 --> 
 
-In other words, she were growing as one of the conductors of the Underground Railroad [^footnote_wikipedia_undergroundrailroad], a secret organization responsible for freeing slaves during the times of the American Civil War. In a nutshell, at the risk of being nuts to oversimplify, she were the bearer of herselve from being a grain in a shell into becoming a pearl and to be known as the *Moses of Her People* and kept on going even after the war helping them as entrepreneurs. One event in particular, which Michael sees it as Harriet's 10x project which took place after 15 to 20 years of her involvement into this business, happened when she joined forces with others to free more than 800 slaves in one night, where they escaped in steamboats (2018, 9:48).
+In other words, she were growing as one of the conductors of the Underground Railroad [^footnote_wikipedia_undergroundrailroad], a secret organization responsible for freeing slaves during the times of the American Civil War. In a nutshell, at the risk of being nuts to oversimplify, she were the bearer of herself from being a little grain in a shell into becoming a pearl and to be known as the *Moses of Her People*. And she kept on doing it, even after the Civil War, helping people to become entrepreneurs. 
 
 [^footnote_wikipedia_undergroundrailroad]: The Underground Railroad was a secret network of routes and safe houses used by enslaved African Americans to escape to free states and Canada with the help of abolitionists and allies. This clandestine effort was most active during the early to mid-19th century, leading up to the American Civil War. For more information, see Wikipedia contributors, "Underground Railroad," Wikipedia, The Free Encyclopedia, last modified June 13, 2024, https://en.wikipedia.org/wiki/Underground_Railroad.
 
