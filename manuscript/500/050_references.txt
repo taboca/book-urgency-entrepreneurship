@@ -251,6 +251,11 @@ Burgelman, R. A., & Grove, A. S. (2007). Let chaos reign, then rein in chaos –
 Maslow, A. H. (2011). Toward the Psychology of Being. Martino Publishing. (Original work published 1962)
 
 
+<!-- Impact Dup --> 
+
+Dearing, M. (2018, February 13). Michael Dearing at the 2018 NYC Product Leader Summit: "Two Blasts from the Past" [Video]. YouTube. Spero Ventures. https://www.youtube.com/watch?v=oBOOcBgHxTU
+
+Bradford, S. H. (2018). Harriet: The Moses of her people. Forgotten Books.
 
 
 
@@ -641,6 +646,7 @@ Dearing, M. (2016, September 10). Competitive micro-markets for product developm
 
 Hoffman, R. (2017, August 30). *Reid Hoffman: Build A World-Changing Business | Chase Jarvis LIVE* [Video]. YouTube. https://www.youtube.com/watch?v=ka--XKeI-o8
 
+<!-- dup? --> 
 Dearing, M. (2018, February 13). Michael Dearing at the 2018 NYC Product Leader Summit: "Two Blasts from the Past" [Video]. YouTube. Spero Ventures. https://www.youtube.com/watch?v=oBOOcBgHxTU
 
 

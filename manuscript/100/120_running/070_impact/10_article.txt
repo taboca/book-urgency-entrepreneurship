@@ -328,29 +328,64 @@ If I couldn't link to the article, I would summarize the above as "if we are too
 
 
 
-#### Considerations the dynamic nature of objectives in the growth situation 
+#### Considerations the dynamic nature of objectives and key results in the growth situation 
 
 <!--
 It might be necessary to do the course of Michael GM3 
 https://www.harrisonmetal.com/classes/gm3-managing-engineers-and-artists
 -->
 
-The story of Harriet Tubman, as contextualized and learned by Michael Dearing, shows the effort of an individual that were able to scale herself, to adapt, into embracing new objectives and acessing a change into herself. Harriet became known as a hero fighting for human rights, actually recognized as one of the conductors of the underground railroad secret organization responsible for freeing slaves during the times of the American Civil War. But beyond that, Michael has brillantly pullet a complication in Harrie's life which can be used to life a condition and challenge in the life of entrepreneurs as their journey takes them into the possibility of embracing the higher-order objective, which they might even not initially fully visualize as they start. 
 
-In a nutshel, she raised from freeing herself into becoming a leader in helping slaves to free themselves and beyond that, to work as entrepreneurs. According to Michael, she spent were in the role of freeing slaves for 15 to 20 years before she undertook a project to free 10x the amount of slaves that she has frred for the past years, a sum total of more than 800 slaves had escaped in steamboats and a plan initially thought by Harriet. (2018, 9:48)
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Impact - Bring the scaling model for startups through the story from Michael Dearing, and do a round of reflection from it, which may even reconcile religion but using the model of Dorothea Brande to point that for one to scale and grow, some philosophical model may be present to support transcending and focusing in the new. @meta-refid 1222-2333-4444-9994
+-->
 
-The story of Harriet became for Michael a landscape to reflect about the challenges when one is in a mission that becomes larger, an objective that unfolds with larger key results. The model, entitled "Harriet's model for scaling," is provocation for founders, to a reflection, quite synchronized with the Reid's thinking of "What brought you here is not what takes you there." [^editornote_reid_stages]. 
+
+In the path to solve the entrepreneurial's dilemma, which can be paradox, I ask us to consider what I call the *Minty-Tubman Growth Path*, as just a way for us to carry the quest to understand the transformation of Harriet Tubman - The Moses of Her People - rising from her past self, the enslaved Minty, Araminta Ross. In this ride we will be conduced by Michael Dearing as he had the interest in Harriet's story and make clear observations for a scaling model that support growth of startups their teams and founders. 
+
+In other words, Michael had identified characterizations from her story suggesting a model for scaling of a startup in the face of a world that needs a major change, and aims for a potential better place for the world, which by that recognizes the idea that certain supporting forces exists or are growing. Back to the days of Harriet, these could be simplified as the forces from the North - forces supporting freedom and end of slavery - intended to fight the forces from the South - forces supporting the situation as it were. 
+
+To recount points from Michael, observations in retrospect and based his history research and analysis, he had identified steps. First, the identificatin of her values. Thus, her movement to free herself can be seen as a key result but of course not the ultimate outcome she wanted - it showed a connection with wish for freedom for enslaved people. As she escaped she had tested a model, and from that she saved her friends and family so all of that can be simplified now as herself exercising her values. Thus she found a model from her successes and, from that, according to Michael's second point, she exercised "quick wins building trust" and from that "recruiting allies and building a network." 
+
+To celebrate her improvement of methods, and access to that scaling power, Michael in *Two Blasts from the Past* (2018) highlights a period around "about ten years after she had really seized her own freedom," when she became a favorite secret agent for the North. The following is a letter, which she carried in the pocket, which meant free pass in terms of transport, ability to buy supplies, and more. The letter was signed by David Hunter, a Union general and represented one of many acts of trust and support to her mission as she were at this point building a strong network of information and gathering information: 
+
+> *"Pass the bearer, Harriet Tubman, to Beaufort and back to this place, and wherever she wishes to go; and give her free passage at all times, on all Government transports. Harriet was sent to me from Boston by Governor Andrew, of Massachusetts, and is a valuable woman. She has permission, as a servant of the Government, to purchase such provisions from the Commissary as she may need."* (Bradford, 2018, p. XX).
+
+<!--
+@meta @todo 
+* @todo - p2 ( ) - Fix page, find page, or check with Michael or buy the book. @meta-refid 1222-3233-4949-9494
+--> 
+
+<!--
+@references 
+* reference - Bradford, S. H. (2018). Harriet: The Moses of her people. Forgotten Books.
+
+* reference - Dearing, M. (2018, February 13). Michael Dearing at the 2018 NYC Product Leader Summit: "Two Blasts from the Past" [Video]. YouTube. Spero Ventures. https://www.youtube.com/watch?v=oBOOcBgHxTU
+--> 
+
+In other words, she were growing as one of the conductors of the Underground Railroad [^footnote_wikipedia_undergroundrailroad], a secret organization responsible for freeing slaves during the times of the American Civil War. In a nutshell, at the risk of being nuts to oversimplify, she were the bearer of herselve from being a grain in a shell into becoming a pearl and to be known as the *Moses of Her People* and kept on going even after the war helping them as entrepreneurs. One event in particular, which Michael sees it as Harriet's 10x project which took place after 15 to 20 years of her involvement into this business, happened when she joined forces with others to free more than 800 slaves in one night, where they escaped in steamboats (2018, 9:48).
+
+[^footnote_wikipedia_undergroundrailroad]: The Underground Railroad was a secret network of routes and safe houses used by enslaved African Americans to escape to free states and Canada with the help of abolitionists and allies. This clandestine effort was most active during the early to mid-19th century, leading up to the American Civil War. For more information, see Wikipedia contributors, "Underground Railroad," Wikipedia, The Free Encyclopedia, last modified June 13, 2024, https://en.wikipedia.org/wiki/Underground_Railroad.
+
+
+<!--
+@references 
+* reference - Dearing, M. (2018, February 13). Michael Dearing at the 2018 NYC Product Leader Summit: "Two Blasts from the Past" [Video]. YouTube. Spero Ventures. https://www.youtube.com/watch?v=oBOOcBgHxTU
+-->
+
+The story of Harriet became for Michael a landscape for a reflect about the challenges of scaling. He came up with a map (2018, 12:42) for when teams are small leading them to get bigger. Starting with the small, we use our energy and check with our values. Achieve quick wins, you are build trust. Recruit allies, you are building your network. Michael pointed out that "she took what she knew and she taught other people how to be good conductors on the road," which meant she were crafting a play book. The outcome was that she were making small batches of sucesses, she were iterating. When bigger, the first step again which now turns her self energy and her values translated as other people's energy, people who shared the same values. Michael reminds us that Harriet was trusted with other people's resources and skills, that she were walking aroung with the equivalent of a year's salary of a senior officer. With that stronger trust network, she could approach supporters now with bolder ideas which in normal circumstances could be seen as crazy and unrealistic. Through the growth iteratins, "her networks became quite literally armies." And she kept on iterating the playbook, in other words, passing on the playbook. 
+
+This model, is for Michael how startups should be scaling. He too sets a provocation, for founders and their teams,asks for a reflection, about when the gas is available, how eager founders go into pouring their resources while they aren't quite ready for it. What Michael is taking us is an opportunity to reconcicle with something we have celebrated before - a thinking from Reid Hoffman which he refers to it as the challenge of growth and where essentially "what brought you here is not what takes you there." [^editornote_reid_stages]. 
 
 [^editornote_reid_stages]: Check the quote from Reid, perhaps from the above interview video if not from the Blitzscaling one. 
 
-The model starts with the recognition of strategic behaviors that while applicable at the small stage can prepare the situation for the larger goal (2018, 12:42):
+<!--
+@meta @todo 
+* @todo - p2 ( ) - Check the above footnote, and also the context of Blitzscaling "what got you here does not take you there" and the stages, if it were in fact referred to it before since I am bringing that back, trying to reconcile. @meta-refid 7676-9494-8884-3333
+-->
 
-* "Own your values, energy." 
-* "Quick wins build trust. " 
-* "Recruit allies -> networks. " 
-* "Draft a playbook, iterate. " 
-
-The identification of values shows a good startint point for founders. Exactly because in many endeavours that people get into, they might right there have not a clear picture of values. Thus, it becomes vital for any entrepreneur to use time in this regard. And it is not that founders's envisioned project don't have values - a lot of projects created with passion, and vision, actually connect with strong values. It is just that the energy to make the project real sometimes, can hide values that could also improve the founder's chances towards freeing themselves from constraints that can, in the lack of values analysis, lock them and even bring premature ends to what they do. The search for values is then a great exercise that opens the realm of possibilities beyond one or another current project, experiment or activity that is being undertaken. 
+The identification of values shows a good startint point for founders. Exactly because in many endeavours that people get into, they might right there have not a clear picture of values. Thus, it becomes vital for any entrepreneur to use time in this regard - work time. And it is not that founders's envisioned project don't have values - a lot of projects created with passion, and vision, actually connect with strong values. It is just that the energy to make the project real sometimes, can hide values that could also improve the founder's chances towards freeing themselves. When lacking values analysis, they can lock themselves and even bring premature ends to what they do. The search for values is then a great exercise that opens the realm of possibilities beyond one or another current project, experiment or activity that is being undertaken. 
 
 Another aspect goes straight to the discovery of the next stage. As one is experimenting with ideas, thus of course it should be recognized hands on projects, still the entrepreneur is also openning herself to the validating the system to be in place for the world ahead which of course synchronizes with values but should not be lock in a form or another. This very approach to what is being done opens a reflective model of management for the startup which seeks to validate or "to recruit" allies which are resources that signal, or funds, larger experiments and at the same time the evaluation of the larger goal. 
 
@@ -369,9 +404,14 @@ The identified component of the playbook becomes the exercise of value, as it ha
 
 
 <!--
-    @outline - Reframing or breaking the language for acessing? (Allowance fits?)
+    @outline - Fear that comes with the new condition? I am up to it? This may connect with the point of finding support from Michael. 
 -->
 
+
+<!--
+@meta @todo 
+* @todo - p1 ( ) - In Impact vs. Identity - The work "Are you afraid of identitying yourself as a leader" could be brought into identity but it seems that it fails to pass the very point of the chapter, that our identities aren't about that willingness to identity as a leader. So then could this be brought into Impact just to make a point of how we can reframe our views? 
+--> 
 
 #### Afraid identity leader 
 
