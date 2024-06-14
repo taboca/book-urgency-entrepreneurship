@@ -253,15 +253,17 @@ Maslow, A. H. (2011). Toward the Psychology of Being. Martino Publishing. (Origi
 
 <!-- Impact --> 
 
-<!-- dup --> 
+<!-- dup, leading  --> 
 Dearing, M. (2015, October 8). Blitzscaling 03: Michael Dearing on Capitalism, Creativity, and Creative Destruction [Video]. Greylock. https://www.youtube.com/watch?v=3vCdfa_aeI8
 
-<!-- dup --> 
+<!-- dup, leading  --> 
 Dearing, M. (2018, February 13). Michael Dearing at the 2018 NYC Product Leader Summit: "Two Blasts from the Past" [Video]. YouTube. Spero Ventures. https://www.youtube.com/watch?v=oBOOcBgHxTU
 
-<!-- dup --> 
+<!-- dup, leading --> 
 Dearing, M. (2019, July 30). Executive communication w/ Harrison Metal [Video]. Heavybit. Retrieved from https://www.heavybit.com/library/video/executive-communication
 
+<!-- dup, time machine --> 
+Dearing, M. (2015, October 8). Blitzscaling 03: Michael Dearing on Capitalism, Creativity, and Creative Destruction [Video]. Greylock. https://www.youtube.com/watch?v=3vCdfa_aeI8
 
 <!-- dup --> 
 
