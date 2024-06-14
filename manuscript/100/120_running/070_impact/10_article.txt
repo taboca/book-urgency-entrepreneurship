@@ -4,33 +4,12 @@
 ## For impact 
 
 
-In a previous chapter, in the section *Infinite Apprentice*, we have considered some reflections from Brian Chesky and Reid Hoffman, an idea of the infinite learner which was key to solve the growth complication of entrepreneurship which as framed by Reid sets us to recognize that "what got you here won't get you there." Brian's opinion was that through the stages of growth one is not in it to become skilled in a sport. Instead, one has to enjoy and get into a whole new sport. 
 
-But of course, some other considerations must be embraced if we are to use the situation of Brian. We should take in the consideration the context which he were in. Consider, for example, how he valued as key the effort of accessing the best books which sets right away the challenging of knowing which are the best books. We should keep in mind too that Brian's team had been accepted by YCombinator, which was already considered in Silicon Valley as a top-tier network of knowleged, and the path that his team went through, being supported by networks from top VC firms and investors like Reid Hoffman. 
 
-<!-- 
-@Reference 
-* reference - Hoffman, R. (2017, August 30). *Reid Hoffman: Build A World-Changing Business | Chase Jarvis LIVE* [Video]. YouTube. https://www.youtube.com/watch?v=ka--XKeI-o8
+
+<!--
+@outline - situation 
 --> 
-
-
-
-
-
-
-Now, the celebration of that truth in entrepreneurship unlocks a complication. That is what means there and the how to get there? And it becomes quite complicated because if the team is small, consider that many startups started with one before the other, and especially if vision - or love or passion or you name it - is present, it is naturally expected a kind of vision that creates a roadmap for the there which naturally pushes them to gamble since "what got you here won't get you there" reveals that they might be in seeking the objective as much as the how to get to the objective. Thus the complication prompts us to find what is the key that unlocks the self into being open so that to be aware, to embrace the unknown, such as developing ways to balancing the activities, for what it takes to get to there, to which only really after the movement happens one can truly say, in retrospect, how to get there. To solve the problem, which is likely impossible from the view of the executor of now, we might consider to resort in developing a humble view for what happens. Would that solve? It may be a good advice as in for us to carry on an extra eye, watching ourselves.  The second aspect, after the recognition of the condition, involves being compassionate with your other self, the self that does not know, the self that is the only self that can let you escape from the self, the one which enters the space of learning, or the state of bring an apprentice. 
-
-
-
-
-
-
-
-
-
-
-
-#### The trust engine 
 
 
 
@@ -59,11 +38,38 @@ So there I am, when I read that, I somehow trust too fast what works to think of
 
 
 
+#### Complication - 1 paragraph
+
+
+In a previous chapter, in the section *Infinite Apprentice*, we have considered some reflections from Brian Chesky and Reid Hoffman, an idea of the infinite learner which was key to solve the growth complication of entrepreneurship which as framed by Reid sets us to recognize that "what got you here won't get you there." Brian's opinion was that through the stages of growth one is not in it to become skilled in a sport. Instead, one has to enjoy and get into a whole new sport. 
+
+But of course, some other considerations must be embraced if we are to use the situation of Brian. We should take in the consideration the context which he were in. Consider, for example, how he valued as key the effort of accessing the best books which sets right away the challenging of knowing which are the best books. We should keep in mind too that Brian's team had been accepted by YCombinator, which was already considered in Silicon Valley as a top-tier network of knowleged, and the path that his team went through, being supported by networks from top VC firms and investors like Reid Hoffman. 
+
+<!-- 
+@Reference 
+* reference - Hoffman, R. (2017, August 30). *Reid Hoffman: Build A World-Changing Business | Chase Jarvis LIVE* [Video]. YouTube. https://www.youtube.com/watch?v=ka--XKeI-o8
+--> 
 
 
 
 
-#### Complication of holistic  or the initial situation? 
+
+
+Now, the celebration of that truth in entrepreneurship unlocks a complication. That is what means there and the how to get there? And it becomes quite complicated because if the team is small, consider that many startups started with one before the other, and especially if vision - or love or passion or you name it - is present, it is naturally expected a kind of vision that creates a roadmap for the there which naturally pushes them to gamble since "what got you here won't get you there" reveals that they might be in seeking the objective as much as the how to get to the objective. Thus the complication prompts us to find what is the key that unlocks the self into being open so that to be aware, to embrace the unknown, such as developing ways to balancing the activities, for what it takes to get to there, to which only really after the movement happens one can truly say, in retrospect, how to get there. To solve the problem, which is likely impossible from the view of the executor of now, we might consider to resort in developing a humble view for what happens. Would that solve? It may be a good advice as in for us to carry on an extra eye, watching ourselves.  The second aspect, after the recognition of the condition, involves being compassionate with your other self, the self that does not know, the self that is the only self that can let you escape from the self, the one which enters the space of learning, or the state of bring an apprentice. 
+
+
+
+
+
+
+#### Complication elaboration 
+
+
+
+
+
+
+
 
 
 There are a lot of enlightened formulations that are giving us the understanding and colors to the challenging situation of being a leader when the startup goes through growth. Throughout the Blitzscaling lectures, Reid Hoffman kept on focusing on essentially asking most of the interviewed leaders about the challenges of scaling but making sure to focus in the challenges from the perspective of the leader that essentially is going through "what got you here is not what will get you there."[^footnote_blizscaling_brianchesky_got_you_there] To point an example consider the how Michael Dearing prioritized talking about the challenges of the growth phases when Reid asked how founders can evaluate themselves as founders: 
@@ -290,7 +296,15 @@ In the path to solve the entrepreneurial's dilemma, which can be paradox, I ask 
 
 The first thing to be observed, which matters for anyone in the business of getting things done but more important for startups, is the recognition that the startup exists to grow and to grow in a world that is embracing a change. The setting of a better world is a good one because it sets us to be energized. With that, it follows too the recognition of the supporting forces. Back to the days of Harriet, we could over simplify that there were certain forces from the North - forces supporting freedom and end of slavery - and on the other hand the forces from the South - forces supporting the situation as it were. 
 
-Michael's observations, in retrospect and based his history research and analysis, he had identified characterizations of Harriet's actions taking herself to ride along the movement of freeing enslaved people which required her to grow. He maps the steps. First, the identificatin of her values. Her movement to free herself can be seen as a key result but of course not the ultimate outcome she wanted - it showed a connection with wish for freedom for enslaved people. As she escaped she had tested a model, and from that she saved her friends and family so all of that can be simplified now as herself exercising her values. Thus she found a model from her successes and, from that, according to Michael's second point, she exercised "quick wins building trust" and from that "recruiting allies and building a network." 
+Michael's observations, in retrospect and based his history research and analysis, he had identified characterizations of Harriet's actions taking herself to ride along the movement of freeing enslaved people which required her to grow. He maps the steps. 
+
+
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Impact - Check Michael's GM2 objective definition with Harriet's model - Harriet's objective, although not clear from the beginning, goes inline with Michael's GM2 definition of what what is an objective: consistent with your values, reflects your first principles, world-view, generates pride, sense of accomplishment. 
+--> 
+
+First, the identificatin of her values. Her movement to free herself can be seen as a key result but of course not the ultimate outcome she wanted - it showed a connection with wish for freedom for enslaved people. As she escaped she had tested a model, and from that she saved her friends and family so all of that can be simplified now as herself exercising her values. Thus she found a model from her successes and, from that, according to Michael's second point, she exercised "quick wins building trust" and from that "recruiting allies and building a network." 
 
 To celebrate her improvement of methods, and access to that scaling power, Michael in *Two Blasts from the Past* (2018) highlights a period around "about ten years after she had really seized her own freedom," when she became a favorite secret agent for the North. The following is a letter, which she carried in the pocket, which meant free pass in terms of transport, ability to buy supplies, and more. The letter was signed by David Hunter, a Union general and represented one of many acts of trust and support to her mission as she were at this point building a strong network of information and gathering information: 
 
