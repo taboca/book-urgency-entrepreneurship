@@ -251,7 +251,19 @@ Burgelman, R. A., & Grove, A. S. (2007). Let chaos reign, then rein in chaos –
 Maslow, A. H. (2011). Toward the Psychology of Being. Martino Publishing. (Original work published 1962)
 
 
-<!-- Impact Dup --> 
+<!-- Impact --> 
+
+<!-- dup --> 
+Dearing, M. (2015, October 8). Blitzscaling 03: Michael Dearing on Capitalism, Creativity, and Creative Destruction [Video]. Greylock. https://www.youtube.com/watch?v=3vCdfa_aeI8
+
+<!-- dup --> 
+Dearing, M. (2018, February 13). Michael Dearing at the 2018 NYC Product Leader Summit: "Two Blasts from the Past" [Video]. YouTube. Spero Ventures. https://www.youtube.com/watch?v=oBOOcBgHxTU
+
+<!-- dup --> 
+Dearing, M. (2019, July 30). Executive communication w/ Harrison Metal [Video]. Heavybit. Retrieved from https://www.heavybit.com/library/video/executive-communication
+
+
+<!-- dup --> 
 
 Dearing, M. (2018, February 13). Michael Dearing at the 2018 NYC Product Leader Summit: "Two Blasts from the Past" [Video]. YouTube. Spero Ventures. https://www.youtube.com/watch?v=oBOOcBgHxTU
 
@@ -385,7 +397,7 @@ von Hippel, E. (2005). Democratizing Innovation. The MIT Press. DOI: https://doi
 
 Drucker, P. (2011). Technology, management, and society. Routledge.
 
-Heavybit. (2019, July 30). Executive communication w/ Harrison Metal [Video]. Retrieved from https://www.heavybit.com/library/video/executive-communication
+Dearing, M. (2019, July 30). Executive communication w/ Harrison Metal [Video]. Heavybit. Retrieved from https://www.heavybit.com/library/video/executive-communication
 
 Minto, B. (1996). The Minto Pyramid Principle: Logic in Writing, Thinking, & Problem Solving. Minto International.
 

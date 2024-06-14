@@ -13,9 +13,38 @@
 
 
 
-We are somehow programmed and it seems that it took us to where we are that we trust the things that works. With the only problem is that we do not know what works better which take us to not trust our true potential. 
 
-Having considered that, I shall also say that I we shouldn't honour our the good side of that. That if any potential trap happens to be configured, if might do so because we happen to trust an engine that works. In other words, that our operating system is donig what it were programmed to do, to seek for improved efficiency given our goals; the engine that allow us to measure the feedback and to conceptualize from the experiential action and account values and that by the evaluations of our behaviors we then may encounter, only in retrospect, ourselves fultilling our own prophecies or to take what happens more lightly to be essentially scoring how we are doing under the goal to be moving in the right direction. As for the good things, I would assume that those could be estrapolated from the flipside of this chapter and the abundance of materials, the exact environment around that is always ready to tease us to keep feeding our beasts. 
+
+Silicon Valley investor Michael Dearing, of Harrison Metal, consistently starts his special talks - such as *Capitalism, Creativity, and Creative Destruction* (Greylock, 2015) and *Two Blasts from the Past* (Spero Ventures, 2018) and *Executive Communication* (Heavybit, 2019) - showing a curve. And he always says that that  is his favorite curve. And he always say thanks to professor Brad Delong, from Berkeley, for setting up that nice curve. It's a graph that shows the GDP per capita, through time, from One Million B.C. to the present [^footnote_braddelong_graph_curve]. In addition, Michael chops off the period between 1 million B.C. and 1000, concluding that he didn't find anything good happening. (Dearing, Michael., 2018, 1:58) 
+
+[^footnote_braddelong_graph_curve]: Michael's favorite graph refers to the work of professor Brad Delong. You can see comments about his graph from https://www.bradford-delong.com/2014/05/estimates-of-world-gdp-one-million-bc-present-1998-my-view-as-of-1998-the-honest-broker-for-the-week-of-may-24-2014.html
+
+<!--
+@note #research 
+* Wrote letter to Brad Delong, @ref-metaid 1212-3232-4343-5566
+--> 
+
+<!--
+@references
+* reference - Dearing, M. (2015, October 8). Blitzscaling 03: Michael Dearing on Capitalism, Creativity, and Creative Destruction [Video]. Greylock. https://www.youtube.com/watch?v=3vCdfa_aeI8
+* reference - Dearing, M. (2018, February 13). Michael Dearing at the 2018 NYC Product Leader Summit: "Two Blasts from the Past" [Video]. YouTube. Spero Ventures. https://www.youtube.com/watch?v=oBOOcBgHxTU
+* reference - Dearing, M. (2019, July 30). Executive communication w/ Harrison Metal [Video]. Heavybit. Retrieved from https://www.heavybit.com/library/video/executive-communication
+--> 
+
+So he points to what had happened during the industrial revolution, not exactly entering the potentially heated discussion about the good and bad things happening but making a point that the curve does pays for everything that is happening. Now the curve, we like it or not,  is part of the path of founders, and things from that curve will affect what we do. That curve has a lot to tell us, as it tell us too, right of the bat that the space is quite active, that things are too fast, that things can be quite heated. The curve also set us to consider that the many things we can do can be done by using resources and ideas from others. And with that that we do by using management. Now there is a catch with the curve not a message encrusted in it but something we may think of the curve if we look too fast. We may think that a prior movement of success may actually pay for what is next, that is a puzzle if we think of it too fast and to not recognize that the curve only moves up fast because of an intrnsic process of destruction which does not seem to be accounted visualilly perhaps exaclty because history and accounting generally accounts the positive outcome and not the negative, the price to pay, the learnings. Here, as we consider impact, we are onto something, onto considering the curve of the self that is not expendable and how the team can be alive. Implictly, we are going through all this to celebrate that we must grow and move accross, be free from the heated space.  
+
+In other words, the success that you acquire by your movements, will sum up, certainly. But it will sum up up to a point. And to continue to sum up, to scale, you will need to see things from a perspective. Let us dive into the reflection that may help us into that zone of impact. First, let us consider the setting we are - startups as entities to grow and the individuals challenges to move through the stages which requires them to grown. Then we will reflect about a model for scaling that works for the individual, teams, and startups. And finally we will consider the importance of being friendly with that challenging growth path. 
+
+
+
+
+<!--
+@outline - a1 - Growth path and the challenge 
+-->
+
+
+
+We are somehow programmed and it seems that it took us to where we are that we trust the things that works. With the only problem is that we do not know what works better which take us to not trust our true potential.  Having considered that, I shall also say that I we shouldn't honour our the good side of that. That if any potential trap happens to be configured, if might do so because we happen to trust an engine that works. In other words, that our operating system is donig what it were programmed to do, to seek for improved efficiency given our goals; the engine that allow us to measure the feedback and to conceptualize from the experiential action and account values and that by the evaluations of our behaviors we then may encounter, only in retrospect, ourselves fultilling our own prophecies or to take what happens more lightly to be essentially scoring how we are doing under the goal to be moving in the right direction. As for the good things, I would assume that those could be estrapolated from the flipside of this chapter and the abundance of materials, the exact environment around that is always ready to tease us to keep feeding our beasts. 
 
 But now the concerns of this chapter are valid - the flipside of the successful doer the moment that they become - it is because we are essentially trying to save ourselves from the traps of being over-focused in one or other perspective, under the hope that we can embrace perspectives that can save us from trouble; especially in the face of the growth situation of their startups as we have considered in a prior chapter, the things which are excepted of a startup; the situation as supported by Paul Graham: 
 
@@ -38,8 +67,10 @@ So there I am, when I read that, I somehow trust too fast what works to think of
 
 
 
-#### Complication - 1 paragraph
 
+<!--
+@outline 
+-->
 
 In a previous chapter, in the section *Infinite Apprentice*, we have considered some reflections from Brian Chesky and Reid Hoffman, an idea of the infinite learner which was key to solve the growth complication of entrepreneurship which as framed by Reid sets us to recognize that "what got you here won't get you there." Brian's opinion was that through the stages of growth one is not in it to become skilled in a sport. Instead, one has to enjoy and get into a whole new sport. 
 
@@ -56,18 +87,6 @@ But of course, some other considerations must be embraced if we are to use the s
 
 
 Now, the celebration of that truth in entrepreneurship unlocks a complication. That is what means there and the how to get there? And it becomes quite complicated because if the team is small, consider that many startups started with one before the other, and especially if vision - or love or passion or you name it - is present, it is naturally expected a kind of vision that creates a roadmap for the there which naturally pushes them to gamble since "what got you here won't get you there" reveals that they might be in seeking the objective as much as the how to get to the objective. Thus the complication prompts us to find what is the key that unlocks the self into being open so that to be aware, to embrace the unknown, such as developing ways to balancing the activities, for what it takes to get to there, to which only really after the movement happens one can truly say, in retrospect, how to get there. To solve the problem, which is likely impossible from the view of the executor of now, we might consider to resort in developing a humble view for what happens. Would that solve? It may be a good advice as in for us to carry on an extra eye, watching ourselves.  The second aspect, after the recognition of the condition, involves being compassionate with your other self, the self that does not know, the self that is the only self that can let you escape from the self, the one which enters the space of learning, or the state of bring an apprentice. 
-
-
-
-
-
-
-#### Complication elaboration 
-
-
-
-
-
 
 
 
@@ -95,10 +114,6 @@ There are a lot of enlightened formulations that are giving us the understanding
 --> 
 
 
-
-
-
-#### Answer?
 
 
 
@@ -130,7 +145,7 @@ But of course, we understand too - from our culture and fast-paced inclination t
 
 
 
-#### The responsible guardian 
+#### A2 - Responsibility and scale 
 
 <!-- 
 @meta @todo 
@@ -179,14 +194,9 @@ This reactionary execution essentially tells the entrepreneur to do more of the 
 
 
 
-
-
-
-
-
-
-
-#### The high-performer 
+<!--
+@outline - complication 
+--> 
 
 
 
@@ -205,80 +215,8 @@ Insight of Michael, not a public quote yet, that "Categorization --> clusters --
 
 
 
-#### a2 - Transcending for impact 
 
-* Check Reid on https://youtu.be/ka--XKeI-o8?si=nPKD3gRtjmCEUNtm&t=3047
-
-Reid Hoffman recognizes a style of management, and for that he refers to the work of Fred Kofmann [^footnote_conscious_business], of a compassionated view that transcends the individual needs and wants. The example he points uses the organization of an hospital to illustrate the point from the book of Fred, Conscious Business:  
-
-[^footnote_conscious_business]: 
-
-> "Take for example doctors working on patients. And you say, 'this doctor is not doing the job well'. Well, when you get them out of the building, you are actually being hugely compassionate to patients." (Hoffman, 2017, 50:14)
-
-<!-- 
-
-## reference 
-
-Hoffman, R. (2017, August 30). *Reid Hoffman: Build A World-Changing Business | Chase Jarvis LIVE* [Video]. YouTube. https://www.youtube.com/watch?v=ka--XKeI-o8
-
--->
-
-Although this principle of management is ease to visualize as operational in an organization, is becomes applicable to the startup in the sense that individuals are likely involved in a dynamic role, although one that - as we have discussed - might not be aware about other important things at other abstract levels. Thus any exercise that transcends the views of an individual bring bring up the possibility of a managerial role that is conscious for the larger organization - even if the larger organization does not entire exist.   
-
-In other words, by embracing compassion for the organization in development, we bring in the notion that recognizes failure and adaptation as dependend on prior movement, more than to be formed by conclusions in retrospect. The driver that only learns after analysis in retrospect - logically better than no analysis at all - looses the humble viewpoint that can keep their consciousness for the business open. 
-
-
-
-
-
-
-
-#### Transcending Unbundle 
-
-
-Now, to close, and going back to thoughts from Michael Dearing, I would like to celebrate this calling where he is inviting founders to be aware of their behaviors, especially given the space where we can be pressured to execute, that calling that we may do what we do and may do it too in love with what we do:  
-
-> *"Human beings have a knack for observing, forming judgments, and taking action. When you state it like this it seems pretty linear and rational, whether you’re talking about individuals or people working in teams. Cognitive behavior theory says automatic thoughts color and distort our observations, our judgments, and our actions."* (Dearing, M., 2017)
-
-<!-- 
-@meta @references 
-* @reference - Dearing, M. (2017, March 26). The cognitive distortions of founders. Medium. https://medium.com/@mcgd/the-cognitive-distortions-of-founders-8e96c1edf60b
---> 
-
-As Michael had looked at the work of Aaron Beck - cognitive behavior theory - he had found something for us to do about ourselves instead of letting us do what we do as if we were static, as if we were just a personality that fits or not in a position:
-
-> *"Beck’s theory of cognitive behavior described how observations, judgments, and actions are tinted and changed by automatic thoughts. These automatic thoughts come to mind without even trying. They reflect deep beliefs about self, past experiences, and expectations for the future, and they have a profound impact on judgment and behavior."* (Dearing, M., 2017)
-
-<!-- 
-@meta @references 
-* @reference - Dearing, M. (2017, March 26). The cognitive distortions of founders. Medium. https://medium.com/@mcgd/the-cognitive-distortions-of-founders-8e96c1edf60b
---> 
-
-If I couldn't link to the article, I would summarize the above as "if we are too fast to do, consider how fast you are in assuming that you are what you are." But, I can link and I strongly invite you to read Michael's article because it will set us in a new place, to gain a perspective such as that a lot of superpowers of founders can be seen from a different perspective, such as to be distortions and that they can be constructed. It may indeed be uncomfortable - such as to account as well that to be calling a superpower is just the perspective of one that is in the hurry and does not have time to see the half empty glass - but I take that it is a happy news for us that we can gain a perspective from cognitive behavior theory and to know that we are essentially  nurturing ourselves and that while we may generally think that we can't do much in terms of who we are - as in when we think that we would need to take a detour to treat our beings psychologically - it matters then even more to know that there are real things that we can do in terms of improving our behaviors and that to be concerned with that can be and should be part of management, the management of the self that is essential to lead the management of the whole. 
-
-<!--
-@meta @todo 
-* @todo - p2 (Removed) - In Identity - Entrepreneurship can be taught too, Steve agreed later, and Scott (check letter from Marcio to Scott @letter @meta-refid 6565-0202-9383-1233) had provided a prompt too. @meta-refid 6565-7575-0988-1234
--->
-
-<!--
-@meta @todo 
-* todo - p2 (Done) - In Identity - Check the split that Steve Blank made between Composers and Performers of an Orchestra from "Entrepreneurship is an Art not a Job" which from the inspiring and metaphorical aspect connects with that Benjamin Zander had said in his "The Transformative Power of Classical Music" TED talk. and  https://steveblank.com/2011/03/31/entrepreneurship-is-an-art-not-a-job/ https://steveblank.com/2011/04/09/entrepreneurs-are-artists/ and the comments from his commentators / @meta-refid 1222-3332-1212-3234
-* @todo - p2 (Done) - On Identity - Check cross use of composer case around the book which had referred to Steve Blank. 3290849824-49284928-4290849284901-4988234982394
---> 
-
-
-
-
-
-
-
-
-
-
-
-
-#### Considerations the dynamic nature of objectives and key results in the growth situation 
+#### a2 - Considerations the dynamic nature of objectives and key results in the growth situation 
 
 <!--
 It might be necessary to do the course of Michael GM3 
@@ -371,7 +309,85 @@ The identified component of the playbook becomes the exercise of value, as it ha
 * @todo - p1 ( ) - In Impact vs. Identity - The work "Are you afraid of identitying yourself as a leader" could be brought into identity but it seems that it fails to pass the very point of the chapter, that our identities aren't about that willingness to identity as a leader. So then could this be brought into Impact just to make a point of how we can reframe our views? 
 --> 
 
-#### Afraid identity leader 
+
+
+
+
+#### a3 - Friendly with change 
+
+
+
+#### a2 - Transcending for impact 
+
+* Check Reid on https://youtu.be/ka--XKeI-o8?si=nPKD3gRtjmCEUNtm&t=3047
+
+Reid Hoffman recognizes a style of management, and for that he refers to the work of Fred Kofmann [^footnote_conscious_business], of a compassionated view that transcends the individual needs and wants. The example he points uses the organization of an hospital to illustrate the point from the book of Fred, Conscious Business:  
+
+[^footnote_conscious_business]: 
+
+> "Take for example doctors working on patients. And you say, 'this doctor is not doing the job well'. Well, when you get them out of the building, you are actually being hugely compassionate to patients." (Hoffman, 2017, 50:14)
+
+<!-- 
+
+## reference 
+
+Hoffman, R. (2017, August 30). *Reid Hoffman: Build A World-Changing Business | Chase Jarvis LIVE* [Video]. YouTube. https://www.youtube.com/watch?v=ka--XKeI-o8
+
+-->
+
+Although this principle of management is ease to visualize as operational in an organization, is becomes applicable to the startup in the sense that individuals are likely involved in a dynamic role, although one that - as we have discussed - might not be aware about other important things at other abstract levels. Thus any exercise that transcends the views of an individual bring bring up the possibility of a managerial role that is conscious for the larger organization - even if the larger organization does not entire exist.   
+
+In other words, by embracing compassion for the organization in development, we bring in the notion that recognizes failure and adaptation as dependend on prior movement, more than to be formed by conclusions in retrospect. The driver that only learns after analysis in retrospect - logically better than no analysis at all - looses the humble viewpoint that can keep their consciousness for the business open. 
+
+
+
+
+
+
+
+#### Transcending Unbundle 
+
+
+Now, to close, and going back to thoughts from Michael Dearing, I would like to celebrate this calling where he is inviting founders to be aware of their behaviors, especially given the space where we can be pressured to execute, that calling that we may do what we do and may do it too in love with what we do:  
+
+> *"Human beings have a knack for observing, forming judgments, and taking action. When you state it like this it seems pretty linear and rational, whether you’re talking about individuals or people working in teams. Cognitive behavior theory says automatic thoughts color and distort our observations, our judgments, and our actions."* (Dearing, M., 2017)
+
+<!-- 
+@meta @references 
+* @reference - Dearing, M. (2017, March 26). The cognitive distortions of founders. Medium. https://medium.com/@mcgd/the-cognitive-distortions-of-founders-8e96c1edf60b
+--> 
+
+As Michael had looked at the work of Aaron Beck - cognitive behavior theory - he had found something for us to do about ourselves instead of letting us do what we do as if we were static, as if we were just a personality that fits or not in a position:
+
+> *"Beck’s theory of cognitive behavior described how observations, judgments, and actions are tinted and changed by automatic thoughts. These automatic thoughts come to mind without even trying. They reflect deep beliefs about self, past experiences, and expectations for the future, and they have a profound impact on judgment and behavior."* (Dearing, M., 2017)
+
+<!-- 
+@meta @references 
+* @reference - Dearing, M. (2017, March 26). The cognitive distortions of founders. Medium. https://medium.com/@mcgd/the-cognitive-distortions-of-founders-8e96c1edf60b
+--> 
+
+If I couldn't link to the article, I would summarize the above as "if we are too fast to do, consider how fast you are in assuming that you are what you are." But, I can link and I strongly invite you to read Michael's article because it will set us in a new place, to gain a perspective such as that a lot of superpowers of founders can be seen from a different perspective, such as to be distortions and that they can be constructed. It may indeed be uncomfortable - such as to account as well that to be calling a superpower is just the perspective of one that is in the hurry and does not have time to see the half empty glass - but I take that it is a happy news for us that we can gain a perspective from cognitive behavior theory and to know that we are essentially  nurturing ourselves and that while we may generally think that we can't do much in terms of who we are - as in when we think that we would need to take a detour to treat our beings psychologically - it matters then even more to know that there are real things that we can do in terms of improving our behaviors and that to be concerned with that can be and should be part of management, the management of the self that is essential to lead the management of the whole. 
+
+<!--
+@meta @todo 
+* @todo - p2 (Removed) - In Identity - Entrepreneurship can be taught too, Steve agreed later, and Scott (check letter from Marcio to Scott @letter @meta-refid 6565-0202-9383-1233) had provided a prompt too. @meta-refid 6565-7575-0988-1234
+-->
+
+<!--
+@meta @todo 
+* todo - p2 (Done) - In Identity - Check the split that Steve Blank made between Composers and Performers of an Orchestra from "Entrepreneurship is an Art not a Job" which from the inspiring and metaphorical aspect connects with that Benjamin Zander had said in his "The Transformative Power of Classical Music" TED talk. and  https://steveblank.com/2011/03/31/entrepreneurship-is-an-art-not-a-job/ https://steveblank.com/2011/04/09/entrepreneurs-are-artists/ and the comments from his commentators / @meta-refid 1222-3332-1212-3234
+* @todo - p2 (Done) - On Identity - Check cross use of composer case around the book which had referred to Steve Blank. 3290849824-49284928-4290849284901-4988234982394
+--> 
+
+
+
+
+
+
+
+<!--
+@outline - Afraid identity leader 
+-->
 
 The insight from a research cited by "Are You Afraid to Identify as a Leader?, has shown that how challenge it is to support the developement of leaders as the consideration of a self-identity of a leader, has brought reputational concerns. As an example, employees might fear being seen as autocratic, different, or unqualified, when they consider themselves to embrace the role of leaders. Their research  suggests that organizations can impact the development of leaders and support a viewpoint that affects the psychological standpoint as taking leadership roles can be viewed as positive, and can be shown to be an area that is oriented to skills, and not as an innate ability: 
 
@@ -387,7 +403,6 @@ The insight from a research cited by "Are You Afraid to Identify as a Leader?, h
 
 
 
-#### Friendly critic 
 
 <!--
     @outline - Friendly critic (#autonomous #creative)
@@ -406,7 +421,9 @@ If we seek a friendly critic, we shall consider a somewhat cold critic eye on to
 
 
 
-#### Editor critics 
+<!--
+@outline - friendly 
+-->
 
 Of course, especially for the case of writers but not limited, we should realize that intermediary conflict celebrate its existence as in respecting and noticing when that creative doer fights with our know-it-all critic. Indeed, these personalities are roles in the same room, especially in the beginning of professional journeys, where we engage in a fight and it looks like a struggle and it's a struggle that confuses us. The light, at the end of the tunnel, if we accept to see it, is an enlightened place where they can collaborate and as well said by Dorothea Brandy from *Becoming a Writer*. Dorothe Brand, in 1934, pulled that truth from her well, to tell yet-to-become writers about the peaceful place where these personalities do not have to attack each other in realtime. I think that this is applicable to the life of a writer, to the life of a developer writing code, to an individual going through projects and writing the narrative of their lives and their startups:  
 
