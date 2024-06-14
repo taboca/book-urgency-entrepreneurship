@@ -31,7 +31,7 @@ Silicon Valley investor Michael Dearing, of Harrison Metal, consistently starts 
 * reference - Dearing, M. (2019, July 30). Executive communication w/ Harrison Metal [Video]. Heavybit. Retrieved from https://www.heavybit.com/library/video/executive-communication
 --> 
 
-So he points to what had happened during the industrial revolution, not exactly entering the potentially heated discussion about the good and bad things happening but making a point that the curve does pays for everything that is happening. Now the curve, we like it or not,  is part of the path of founders, and things from that curve will affect what we do. That curve has a lot to tell us, as it tell us too, right of the bat that the space is quite active, that things are too fast, that things can be quite heated. The curve also set us to consider that the many things we can do can be done by using resources and ideas from others. And with that that we do by using management. Now there is a catch with the curve not a message encrusted in it but something we may think of the curve if we look too fast. We may think that a prior movement of success may actually pay for what is next, that is a puzzle if we think of it too fast and to not recognize that the curve only moves up fast because of an intrnsic process of destruction which does not seem to be accounted visualilly perhaps exaclty because history and accounting generally accounts the positive outcome and not the negative, the price to pay, the learnings. Here, as we consider impact, we are onto something, onto considering the curve of the self that is not expendable and how the team can be alive. Implictly, we are going through all this to celebrate that we must grow and move accross, be free from the heated space.  
+So he points to what had happened during the industrial revolution, not exactly entering the potentially heated discussion about the good and bad things happening but making a point that the curve does pays for everything that is happening. Now the curve, we like it or not,  is part of the path of founders, and things from that curve will affect what we do. That curve has a lot to tell us, as it tell us too, right of the bat that the space is quite active, that things are too fast, that things can be quite heated. The curve also set us to consider that the many things we can do can be done by using resources and ideas from others. And with that that we do by using management. Now there is a catch with the curve not a message encrusted in it but something we may think of the curve if we look too fast. We may think that a prior movement of success may actually pay for what is next, that is a puzzle if we think of it too fast and to not recognize that the curve only moves up fast because of an intrnsic process of destruction which does not seem to be accounted visualilly perhaps exaclty because history and accounting generally accounts the positive outcome and not the negative, the price to pay, the learnings. Here, as we consider impact, we are onto something, onto considering the curve of the self that is not expendable and how the team can be alive. Implictly, we are going through all this to celebrate that we must grow and move accross, be free from the heated space - and especially try to remind us that our priour successes give us a playbook but not ont that is static. If we follow a curve of pouring resources, and pouring the same views, no matter how successful we are, that movement will only set ourselves to be out of the way of the curve, to be the dust of a self cleaning oven. The curve is telling us - it won't stop. You either set yourself fresh again or you are grilled to the point of being carbon. 
 
 In other words, the success that you acquire by your movements, will sum up, certainly. But it will sum up up to a point. And to continue to sum up, to scale, you will need to see things from a perspective. Let us dive into the reflection that may help us into that zone of impact. First, let us consider the setting we are - startups as entities to grow and the individuals challenges to move through the stages which requires them to grown. Then we will reflect about a model for scaling that works for the individual, teams, and startups. And finally we will consider the importance of being friendly with that challenging growth path. 
 
@@ -325,14 +325,11 @@ Reid Hoffman recognizes a style of management, and for that he refers to the wor
 
 [^footnote_conscious_business]: 
 
-> "Take for example doctors working on patients. And you say, 'this doctor is not doing the job well'. Well, when you get them out of the building, you are actually being hugely compassionate to patients." (Hoffman, 2017, 50:14)
+> *"Take for example doctors working on patients. And you say, 'this doctor is not doing the job well'. Well, when you get them out of the building, you are actually being hugely compassionate to patients."* (Hoffman, 2017, 50:14)
 
 <!-- 
-
-## reference 
-
-Hoffman, R. (2017, August 30). *Reid Hoffman: Build A World-Changing Business | Chase Jarvis LIVE* [Video]. YouTube. https://www.youtube.com/watch?v=ka--XKeI-o8
-
+@reference 
+* reference - Hoffman, R. (2017, August 30). *Reid Hoffman: Build A World-Changing Business | Chase Jarvis LIVE* [Video]. YouTube. https://www.youtube.com/watch?v=ka--XKeI-o8
 -->
 
 Although this principle of management is ease to visualize as operational in an organization, is becomes applicable to the startup in the sense that individuals are likely involved in a dynamic role, although one that - as we have discussed - might not be aware about other important things at other abstract levels. Thus any exercise that transcends the views of an individual bring bring up the possibility of a managerial role that is conscious for the larger organization - even if the larger organization does not entire exist.   
@@ -345,8 +342,9 @@ In other words, by embracing compassion for the organization in development, we 
 
 
 
-#### Transcending Unbundle 
-
+<!--
+@outline - moving towards perhaps an enemy?
+-->
 
 Now, to close, and going back to thoughts from Michael Dearing, I would like to celebrate this calling where he is inviting founders to be aware of their behaviors, especially given the space where we can be pressured to execute, that calling that we may do what we do and may do it too in love with what we do:  
 
