@@ -1,5 +1,8 @@
 # Todo # 
 
+
+* @todo - p1 ( ) - In Identity - Check how many other points that the growth situation of startup was referred. This might be one real first case. [Prior:] Growth feat. PG accross chapters - Marcio have copied a quote from Paul Graham that was way ahead, in chapter 3, to now; because it needs to be evident, from the beginning of the book, that growth is the situation we are talking; this creates a match with the audience. Moreover, we need to make sure that the audience gets to this point with a full awareness of the growth situation. @meta-refid 1212-3212-3328-3834
+
 * @todo - p2 ( ) - In Impact - Check Michael's GM2 objective definition with Harriet's model - Harriet's objective, although not clear from the beginning, goes inline with Michael's GM2 definition of what what is an objective: consistent with your values, reflects your first principles, world-view, generates pride, sense of accomplishment. 
 
 * @todo - p2 ( ) - Check the above footnote, and also the context of Blitzscaling "what got you here does not take you there" and the stages, if it were in fact referred to it before since I am bringing that back, trying to reconcile. @meta-refid 7676-9494-8884-3333
@@ -9,8 +12,6 @@
 * @todo - p2 ( ) - In Impact - Bring the scaling model for startups through the story from Michael Dearing, and do a round of reflection from it, which may even reconcile religion but using the model of Dorothea Brande to point that for one to scale and grow, some philosophical model may be present to support transcending and focusing in the new. @meta-refid 1222-2333-4444-9994
 
 * @todo - p2 ( ) - In Impact - Treat objection of hero, and case for hero's time for non-heroic transcending, When we recognize the hero's case, in p.113 ("In theory, this should be good, ... ) we need to do so also acknowledgingg the potential objection (Like Paulo colleage of PM world has given to Marcio once) that the a state of flow that allows one to give superpowers can be good; thus we recognize that supporting confidence for a human, like the self, towards growth is key, but the reason for acknowledging this is to allow moving on, while be specific that reflections on ways to support confidence and development are being discussed elesewhere, such as in wantrepreneur, which points back our frame goal of the future, which has a start to grow, which naturally requires transcending which does not mean killing the "self in progress" and means more to allow the "self representing the whole in progress", some time to that. Thus, this statement shapes the A, general line for points given. 478248274-4294924729-983953-43984983
-
-* @todo - p1 ( ) - In Identity - Growth feat. PG accross chapters - Marcio have copied a quote from Paul Graham that was way ahead, in chapter 3, to now; because it needs to be evident, from the beginning of the book, that growth is the situation we are talking; this creates a match with the audience. Moreover, we need to make sure that the audience gets to this point with a full awareness of the growth situation. @meta-refid 1212-3212-3328-3834
 
 * @todo - p2 ( ) - From Running, Fear, Trough of Sorrow - Check the quote from Fisher's book which connects with the https://en.wikipedia.org/wiki/Sociometer theory. @meta-refid 1222-2223-3344-4555 
 
