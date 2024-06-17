@@ -83,7 +83,7 @@ With that considered, the good news is that the success that we acquire by our m
 
 
 
-![The growth of a startup](images/100/strip-rocket-160.png)
+![](images/100/strip-rocket-160.png)
 
 <!--
 @outline - a1.1 - Growth path for the startup, follows from the curve, and sets the challenge. 
