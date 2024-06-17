@@ -13,6 +13,12 @@ When things are starting the usage of resources might become a bit arbitrary as 
 
 ### Obsession for the mission 
 
+<!--
+@cross 
+* @cross - "growth paul graham" - In Accounting, Respect Time. #footnote_growth_paul_graham 
+* @cross - "growth paul graham" - In Running, Impact. Ref "startup definition from Paul Graham", "A startup is a company designed to grow fast"  
+-->
+
 All entrepreneurial action seeks growth. Some entrepreneurs start with what seems to be vision. They dream aboutnew categories of solutions to make the world different [^footnote_category_design] like it may go all the way to be the kind of things that put a dent in the universe, like new ways to go to the moon. Other entrepreneurs start with other kinds of needs such as improve how a system words, generate value and take money and have success; as in the money maker o a money appropriator [^footnote_ayn_rand_money_maker]. Others simply are pushed into a work, and they need to do that because, in a way or another, of money, such as to pay the rent. What seems to be common among situations is that the entrepreneurial journey will always ask from them the growth which is evidently recognized for the situation of startups [^footnote_growth_paul_graham], but to get out from an initial state into another, better state, where they give value and expect benefits in return, such as benefits that sustain more growth. 
 
 [^footnote_growth_paul_graham]: 

@@ -131,6 +131,13 @@ With that considered, the good news is that the success that we acquire by our m
 
 Now to frame the startup within the context, in alignment with our expectations from the curve, the first things to be considered is to map a requirement of growth. Thus our statup as an entity that is aimed to stick around, to sustain itself - this can be celebrated by the startup definition from Paul Graham: 
 
+
+<!--
+@cross 
+* @cross - "growth paul graham" - In Accounting, Respect Time. #footnote_growth_paul_graham 
+* @cross - "growth paul graham" - In Running, Impact. Ref "startup definition from Paul Graham", "A startup is a company designed to grow fast"  
+-->
+
 <!--
 @meta @todo 
 * @todo - p1 ( ) - In Identity - Check how many other points that the growth situation of startup was referred. This might be one real first case. [Prior:] Growth feat. PG accross chapters - Marcio have copied a quote from Paul Graham that was way ahead, in chapter 3, to now; because it needs to be evident, from the beginning of the book, that growth is the situation we are talking; this creates a match with the audience. Moreover, we need to make sure that the audience gets to this point with a full awareness of the growth situation. @meta-refid 1212-3212-3328-3834
@@ -163,7 +170,13 @@ Now a point must be made about what means fast since we might have covered growt
 * @todo - p2 ( ) - In Identity - Check footnote within quote. @meta-refid 1111-2222-3232-8888
 --> 
 
-Now as for how we respond, we had too celebrated the general notion of the the *Infinite Apprentice*, by the  reflections from Brian Chesky and Reid Hoffman, in the face of the situation of uncertainty which Reid framed as "what got you here won't get you there. [^footnote_blizscaling_brianchesky_got_you_there]" Brian's way to explain, of what one feels going through the stages of growth, involved considering the sports metaphor but recognizing that more than to be skilled one has to enjoy and learn a whole new sport. And in alignment with setting structure for our challenge, throughout the Blitzscaling lectures Reid kept on essentially asking about these characterizations for moving accross. One in special, as for how founders should evaluate themselves across these stages, set the team into the in and out:  
+<!--
+@cross
+* "Infinite apprentice" - In Accounting, Respect Time. 
+--> 
+
+
+Now as for how to respond in the face of that general fast movement, we have as well celebrated the general notion of the the *Infinite Apprentice*, by the reflections from Brian Chesky and Reid Hoffman, in the face of the situation of uncertainty which Reid framed as "what got you here won't get you there. [^footnote_blizscaling_brianchesky_got_you_there]" Brian's way to explain, of what one feels going through the stages of growth, involved considering the sports metaphor but recognizing that more than to be skilled one has to enjoy and learn a whole new sport. And in alignment with setting structure for our challenge, throughout the Blitzscaling lectures Reid kept on essentially asking about these characterizations for moving accross. One in special, as for how founders should evaluate themselves across these stages, set the team into the in and out:  
 
 <!-- 
 @meta @todo 
