@@ -61,9 +61,31 @@ Now that curve, either we like it or not, is on the way of founders and their st
 
 [^footnote_schumpeter_creative_descruction]: Creative Destruction is a concept proposed by economist Joseph Schumpeter that describes the transformative process accompanying radical innovation. According to Schumpeter, successful business innovations lead to the destruction of old economic arrangements and the creation of new ones. This can cause significant disruptions, but it is a necessary and vital force for long-term economic development. 
 
+
+
+
+
+
+
+
+
+
+<!--
+@outline - complication 
+--> 
+
+
+
+
+
+
+
 In other words, if we keep on mapping that chart, and with that that truth, into the curve of our own spaces, we come to terms to face the stories of failure, the effort, the learning, to respect these factors. It means that bad management and bad kingdoms leave the seat to the others, eventually, in the right time and context, exactly because of the creative movement. And digging even more into the realm of ourselves as individuals, to our teams, it sets into us the challenge where we need to a) respect our successes, our past movement which works, but also to be ready to leave our acquired views, our perspectives. This puzzle set us to recognize that in order for us to not think of ourselves, and our colleagues, as expendable, as we have considered in the first chapter entitled Accounting, we need to face not being expendable - into the movement of growth. In other words, if we follow our success curve, by pouring resources that we have acquired, and the knowledge as acquired, from the perspective and the goggles of our past, no matter how successful we are that movement will only set ourselves to be out of the way of the curve ahead somewhere - sooner or laters. In other words, the curve of growth does not care and if we do not follow through. The curve shall eat ourselves through the path, and the curve will capture the value from what we did effort, and make dust out of us [^footnote_through_inflection_points] if we do not respond. This is so because the curve is a self-cleaning oven. Once we are into that heated oven, we either set ourselves fresh again or we get to be grilled.  
 
 [^footnote_through_inflection_points]: The idea of us being recycled into dust might set ourselves to consider the inflection points which Andy Grove had given to us as we have considered in a prior section, the reflection which applies to individuals, to our teams, and to any grown up organization. 
+
+
+Now, the celebration of that truth in entrepreneurship unlocks a complication. That is what means there and the how to get there? And it becomes quite complicated because if the team is small, consider that many startups started with one before the other, and especially if vision - or love or passion or you name it - is present, it is naturally expected a kind of vision that creates a roadmap for the there which naturally pushes them to gamble since "what got you here won't get you there" reveals that they might be in seeking the objective as much as the how to get to the objective. Thus the complication prompts us to find what is the key that unlocks the self into being open so that to be aware, to embrace the unknown, such as developing ways to balancing the activities, for what it takes to get to there, to which only really after the movement happens one can truly say, in retrospect, how to get there. To solve the problem, which is likely impossible from the view of the executor of now, we might consider to resort in developing a humble view for what happens. Would that solve? It may be a good advice as in for us to carry on an extra eye, watching ourselves.  The second aspect, after the recognition of the condition, involves being compassionate with your other self, the self that does not know, the self that is the only self that can let you escape from the self, the one which enters the space of learning, or the state of bring an apprentice. 
 
 
 
@@ -84,11 +106,27 @@ With that considered, the good news is that the success that we acquire by our m
 
 
 
+
+
+
+
+
+
 <!--
-@outline - a1.1 - Growth path for the startup, follows from the curve, and sets the challenge. 
+@outline - A.1 - How we experience, structure - Growth path for the startup, follows from the curve, and sets the challenge. 
 -->
 
+
+
+
+
+
+#### Responsibility towards scale 
+
 ![](images/100/strip-rocket-160.png)
+
+
+
 
 
 Now to frame the startup within the context, in alignment with our expectations from the curve, the first things to be considered is to map a requirement of growth. Thus our statup as an entity that is aimed to stick around, to sustain itself - this can be celebrated by the startup definition from Paul Graham: 
@@ -110,8 +148,10 @@ Now a point must be made about what means fast since we might have covered growt
 
 
 
+
+
 <!--
-@outline - a1.2 - A whole sport 
+@outline 
 -->
 
 
@@ -123,7 +163,7 @@ Now a point must be made about what means fast since we might have covered growt
 * @todo - p2 ( ) - In Identity - Check footnote within quote. @meta-refid 1111-2222-3232-8888
 --> 
 
-Now as for how we respond, we may take ourselves back to what we have celebrated before, the ida of the *Infinite Apprentice*, the reflections from Brian Chesky and Reid Hoffman, where they considered that "what got you here won't get you there. [^footnote_blizscaling_brianchesky_got_you_there]" Brian's opinion was that through the stages of growth one is not in it to become skilled in a sport. Instead, one has to enjoy and learn a whole new sport. And in alignment with setting structure for our challenge, throughout the Blitzscaling lectures, Reid kept on essentially asking about these characterizations for moving accross. One in special was given as he approached Michael Dearing, considering how founders should evaluate themselves:
+Now as for how we respond, we had too celebrated the general notion of the the *Infinite Apprentice*, by the  reflections from Brian Chesky and Reid Hoffman, in the face of the situation of uncertainty which Reid framed as "what got you here won't get you there. [^footnote_blizscaling_brianchesky_got_you_there]" Brian's way to explain, of what one feels going through the stages of growth, involved considering the sports metaphor but recognizing that more than to be skilled one has to enjoy and learn a whole new sport. And in alignment with setting structure for our challenge, throughout the Blitzscaling lectures Reid kept on essentially asking about these characterizations for moving accross. One in special, as for how founders should evaluate themselves across these stages, set the team into the in and out:  
 
 <!-- 
 @meta @todo 
@@ -146,13 +186,6 @@ Now as for how we respond, we may take ourselves back to what we have celebrated
 
 
 
-
-
-
-
-
-
-
 But of course, some other considerations must be embraced if we are to use the situation of Brian. We should take in the consideration the context which he were in. Consider, for example, how he valued as key the effort of accessing the best books which sets right away the challenging of knowing which are the best books. We should keep in mind too that Brian's team had been accepted by YCombinator, which was already considered in Silicon Valley as a top-tier network of knowleged, and the path that his team went through, being supported by networks from top VC firms and investors like Reid Hoffman. 
 
 <!-- 
@@ -165,7 +198,6 @@ But of course, some other considerations must be embraced if we are to use the s
 
 
 
-Now, the celebration of that truth in entrepreneurship unlocks a complication. That is what means there and the how to get there? And it becomes quite complicated because if the team is small, consider that many startups started with one before the other, and especially if vision - or love or passion or you name it - is present, it is naturally expected a kind of vision that creates a roadmap for the there which naturally pushes them to gamble since "what got you here won't get you there" reveals that they might be in seeking the objective as much as the how to get to the objective. Thus the complication prompts us to find what is the key that unlocks the self into being open so that to be aware, to embrace the unknown, such as developing ways to balancing the activities, for what it takes to get to there, to which only really after the movement happens one can truly say, in retrospect, how to get there. To solve the problem, which is likely impossible from the view of the executor of now, we might consider to resort in developing a humble view for what happens. Would that solve? It may be a good advice as in for us to carry on an extra eye, watching ourselves.  The second aspect, after the recognition of the condition, involves being compassionate with your other self, the self that does not know, the self that is the only self that can let you escape from the self, the one which enters the space of learning, or the state of bring an apprentice. 
 
 
 
@@ -174,15 +206,6 @@ Now, the celebration of that truth in entrepreneurship unlocks a complication. T
 
 
 
-
-
-
-
-
-
-
-
-#### Responsibility and scale 
 
 <!-- 
 @meta @todo 
@@ -223,9 +246,9 @@ This reactionary execution essentially tells the entrepreneur to do more of the 
 
 
 
-<!--
-@outline - complication 
---> 
+
+
+
 
 
 
@@ -271,7 +294,7 @@ Michael's observations, in retrospect and based his history research and analysi
 * @todo - p2 ( ) - In Impact - Check Michael's GM2 objective definition with Harriet's model - Harriet's objective, although not clear from the beginning, goes inline with Michael's GM2 definition of what what is an objective: consistent with your values, reflects your first principles, world-view, generates pride, sense of accomplishment. 
 --> 
 
-First, the identificatin of her values. Her movement to free herself can be seen as a key result but of course not the ultimate outcome she wanted - it showed a connection with wish for freedom for enslaved people. As she escaped she had tested a model, and from that she saved her friends and family so all of that can be simplified now as herself exercising her values. Thus she found a model from her successes and, from that, according to Michael's second point, she exercised "quick wins building trust" and from that "recruiting allies and building a network." 
+First, the identification of values. Her movement to free herself can be seen as a key result but of course not the ultimate outcome she wanted - it showed a connection with wish for freedom for enslaved people. As she escaped she had tested a model, and from that she saved her friends and family so all of that can be simplified now as herself exercising her values. Thus she found a model from her successes and, from that, according to Michael's second point, she exercised "quick wins building trust" and from that "recruiting allies and building a network." 
 
 To celebrate her improvement of methods, and access to that scaling power, Michael in *Two Blasts from the Past* (2018) highlights a period around "about ten years after she had really seized her own freedom," when she became a favorite secret agent for the North. The following is a letter, which she carried in the pocket, which meant free pass in terms of transport, ability to buy supplies, and more. The letter was signed by David Hunter, a Union general and represented one of many acts of trust and support to her mission as she were at this point building a strong network of information and gathering information: 
 
