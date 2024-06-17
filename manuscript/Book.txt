@@ -27,6 +27,7 @@
 100/095_environment/024_transcending.txt
 
 ########## reconsider?
+
 #100/095_environment/030_operating_systems.txt
 #100/095_environment/040_words.txt 
 #100/095_environment/050_narratives_improving.txt

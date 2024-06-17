@@ -467,6 +467,12 @@ It implies that you can create solutions and many of them can even become simple
 * @cross - In Impact - "what got you here won't get you there."
 -->
 
+<!--
+@cross 0110 
+* @cross - In Urgency - "Conscious Business"
+* @cross - In Impact - Conscious Business
+-->
+
 Consider the complex situation that people can get into as they are going through these layers which according to Reid Hoffman are part of the situation where "the game changes" or that "what got you here is not all to get you there." More specific tuning to Reid's through, what happens is that in this phase we go from doers to become managers of ourselves and managers of doer. In this context, Reid illustrates a situation and a takeway that he had learned from Fred Kofmann in Conscious Business. When asked about the classic mistakes of entrepreneurs by Chase Jarvis (ChaseJarvis, 2017) Reid had brought the problem of transitions in leadership, and the key takeway he had learned from Fred Kofman in *Conscious Business* [^footnote_fred_kofman_conscious_business] pointing that compassion is a way to help people understand these transitions and to access a mature viewpoint that considers the new layers or the whole organization: 
 
 [^footnote_fred_kofman_conscious_business]: Fred Kofman, a renowned thought leader in the fields of leadership and organizational development, advocates in Conscious Business (2006), for the approach that involves moving beyond the confines of self-interest and immediate team objectives, towards accessing higher layers of awareness about values where the collective purpose is considered. 

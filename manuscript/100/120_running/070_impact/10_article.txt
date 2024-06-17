@@ -408,6 +408,12 @@ The identified component of the playbook becomes the exercise of value, as it ha
 -->
 
 
+<!--
+@cross 0110 
+* @cross - In Urgency - "Conscious Business"
+* @cross - In Impact - Conscious Business
+-->
+
 Reid Hoffman recognizes a style of management, and for that he refers to the work of Fred Kofmann [^footnote_conscious_business], of a compassionated view that transcends the individual needs and wants. The example he points uses the organization of an hospital to illustrate the point from the book of Fred, Conscious Business:  
 
 [^footnote_conscious_business]: 
