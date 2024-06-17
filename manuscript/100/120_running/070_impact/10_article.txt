@@ -83,14 +83,15 @@ With that considered, the good news is that the success that we acquire by our m
 
 
 
-![](images/100/strip-rocket-160.png)
 
 <!--
 @outline - a1.1 - Growth path for the startup, follows from the curve, and sets the challenge. 
 -->
 
+![](images/100/strip-rocket-160.png)
 
-Now to frame the startup within the context, to serve within the purpose of the curve, the first things to be considered is to map out this as an implicit requirement. In other words, we can set the startup as an entity trying to be around that curve, the best possible, in ways to stick to it from its position as an external into producing output and the outcome that sustains it, this to become that business that Michael wants, and not an idea or a science project only. This frame can be celebrated by the startup definition from Paul Graham: 
+
+Now to frame the startup within the context, in alignment with our expectations from the curve, the first things to be considered is to map a requirement of growth. Thus our statup as an entity that is aimed to stick around, to sustain itself - this can be celebrated by the startup definition from Paul Graham: 
 
 <!--
 @meta @todo 
@@ -105,10 +106,7 @@ Now to frame the startup within the context, to serve within the purpose of the 
 --> 
 
 
-Now a point must be made about what means fast. As for the growth part, the reason can be explained by the possibility that the whole sum of all other forces sets an entity to either be part or to be out - as in recycled to help others that do it well. But the fast, I would think, is a idea which recognizes that this whole environment may be to a great extent dictacting the speed - exactly by its pace. An example would be that consideration from the chapter Environment where we have considered the conditions for Uber to rise - such as the technological considerations, as in Iphone shipped, GPS integrated, 3G network - and as well the target needs, the audience's interested in solving their needs in better ways, such as to ask for a cab from anywhere. 
-
-
-
+Now a point must be made about what means fast since we might have covered growth. But as for fast, I would think, there is an implicit notion that our environment may, to a great extent, dictacte certain moments, or setting a context. An example would be that consideration from our chapter Environment where we have considered the conditions for Uber (and the various other ride-hailing solutions that emerged), such as the technological considerations - as in Iphone shipped, GPS integrated, 3G network - and as well the target needs - the audience's interest in solving their ride needs in better ways such as to ask for a cab from anywhere. 
 
 
 
@@ -117,10 +115,15 @@ Now a point must be made about what means fast. As for the growth part, the reas
 -->
 
 
-Now as for how we respond, to define our challenge, we may take ourselves back to what we have considered, in a previous chapter, in the section *Infinite Apprentice*, the reflections from Brian Chesky and Reid Hoffman, an idea of the infinite learner which went along as a way to see how one can move on knowing that "what got you here won't get you there." Brian's opinion was that through the stages of growth one is not in it to become skilled in a sport. Instead, one has to enjoy and get into a whole new sport. 
 
-There are a lot of enlightened formulations that are giving us the understanding and colors to the challenging situation of being a leader when the startup goes through growth. Throughout the Blitzscaling lectures, Reid Hoffman kept on focusing on essentially asking most of the interviewed leaders about the challenges of scaling but making sure to focus in the challenges from the perspective of the leader that essentially is going through "what got you here is not what will get you there."[^footnote_blizscaling_brianchesky_got_you_there] To point an example consider the how Michael Dearing prioritized talking about the challenges of the growth phases when Reid asked how founders can evaluate themselves as founders: 
 
+
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Identity - Check footnote within quote. @meta-refid 1111-2222-3232-8888
+--> 
+
+Now as for how we respond, we may take ourselves back to what we have celebrated before, the ida of the *Infinite Apprentice*, the reflections from Brian Chesky and Reid Hoffman, where they considered that "what got you here won't get you there. [^footnote_blizscaling_brianchesky_got_you_there]" Brian's opinion was that through the stages of growth one is not in it to become skilled in a sport. Instead, one has to enjoy and learn a whole new sport. And in alignment with setting structure for our challenge, throughout the Blitzscaling lectures, Reid kept on essentially asking about these characterizations for moving accross. One in special was given as he approached Michael Dearing, considering how founders should evaluate themselves:
 
 <!-- 
 @meta @todo 
