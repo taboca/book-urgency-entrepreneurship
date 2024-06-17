@@ -1,5 +1,7 @@
 # Todo # 
 
+* @todo - p1 ( ) - In Accounting, Respect Time - And others - Review startup vs. growth - and footnotes such as footnote_growth_paul_graham . Ref 24928498-429849284-4928492-4928492849
+
 * @todo - p1 ( ) - #dup - Creative Destruction footnote dup - Check for the ongoing referencing of creative destruction which appears in Foreword, Accounting, Environment, and Impact. @meta-refid 3434-6565-8787-8585
 
 * @todo - p2 ( ) - In Identity - Check footnote within quote. @meta-refid 1111-2222-3232-8888
@@ -305,8 +307,6 @@
 * ( ) 200 / Irreducible minimum - Consider the situation of Michael about people in the boat, equity solution after millions of years. 384983498-43849384-43849834-493849384
 
 * p2 ( ) - Lean no lean - Review vanity metrics footnote - Which was the first full parapraph written by ChatGPT "[^footnote_eric_ries_vanity_metrics]: Vanity metrics, as discussed by Eric Ries in his Lean Startup methodology, refer to data points that look impressive on paper but do not necessarily correlate with the metrics that really matter in business, such as those that reflect true growth, revenue, and customer engagement. These metrics can often be misleading, as they offer a superficially positive view of a company's performance while failing to provide insights into sustainable success or long-term viability." 492489284-42849824-294092049-483483948
-
-* p1 ( ) - All - Review startup vs. growth - and footnotes such as footnote_growth_paul_graham. Also we should check the directionary definition of start-up. Ref 24928498-429849284-4928492-4928492849
 
 * p2 ( ) - Lean no lean - Principles of lean, back to lean, as a board - Can principles like "failing fast" and "learning" be brought to guide the way to curate lean? Ref HBR 2013 - - "principles of failing fast and continually learning". It may be worth to check these principles, and cross with the framework of Marcio, suggestion. It may be also worth to check McCallum's letter? / ref 28492849-429842984-5725795-5892579
 
