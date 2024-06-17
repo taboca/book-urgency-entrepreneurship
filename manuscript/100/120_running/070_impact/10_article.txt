@@ -86,6 +86,21 @@ In other words, if we keep on mapping that chart, and with that that truth, into
 [^footnote_through_inflection_points]: The idea of us being recycled into dust might set ourselves to consider the inflection points which Andy Grove had given to us as we have considered in a prior section, the reflection which applies to individuals, to our teams, and to any grown up organization. 
 
 
+
+<!--
+@todo
+* @todo - p2 ( ) - In Impact, in Identity, In Urgency - Check "what you got you here" where should this go. Maybe, if this was not clearly explained in the first, part, it should really be part of the complication in this section. @meta-refid 1222-3332-8887-8484
+
+* @todo - p2 (Done) - In Identity - Check a reference to Reid Hoffman's "what got you here is not what take you there" or "what brought you here ..." official and also across this materials. Marcio confirms that he also refered about that under Urgency. @meta-refid 1212-2212-3233-4482
+-->
+
+<!--
+@cross 0100 
+* @cross - In Urgency  "what got you here is not all to get you there."
+* @cross - In Impact  "what got you here won't get you there." (@complication)
+* @cross - In Impact  "what got you here won't get you there." (@responsibility scale)
+-->
+
 Now, the celebration of that truth in entrepreneurship unlocks a complication. That is what means there and the how to get there? And it becomes quite complicated because if the team is small, consider that many startups started with one before the other, and especially if vision - or love or passion or you name it - is present, it is naturally expected a kind of vision that creates a roadmap for the there which naturally pushes them to gamble since "what got you here won't get you there" reveals that they might be in seeking the objective as much as the how to get to the objective. Thus the complication prompts us to find what is the key that unlocks the self into being open so that to be aware, to embrace the unknown, such as developing ways to balancing the activities, for what it takes to get to there, to which only really after the movement happens one can truly say, in retrospect, how to get there. To solve the problem, which is likely impossible from the view of the executor of now, we might consider to resort in developing a humble view for what happens. Would that solve? It may be a good advice as in for us to carry on an extra eye, watching ourselves.  The second aspect, after the recognition of the condition, involves being compassionate with your other self, the self that does not know, the self that is the only self that can let you escape from the self, the one which enters the space of learning, or the state of bring an apprentice. 
 
 
@@ -177,19 +192,13 @@ Now a point must be made about what means fast since we might have covered growt
 --> 
 
 <!--
-@cross 0100 
-* @cross - In Urgency  "what got you here is not all to get you there."
-* @cross - In Impact  "what got you here won't get you there."
+@todo
+* @todo - p2 ( ) - In Impact, in Identity, In Urgency - Check "what you got you here" where should this go. Maybe, if this was not clearly explained in the first, part, it should really be part of the complication in this section. @meta-refid 1222-3332-8887-8484
 -->
 
-Now as for how to respond in the face of that general fast movement, we have as well celebrated the general notion of the the *Infinite Apprentice*, by the reflections from Brian Chesky and Reid Hoffman, in the face of the situation of uncertainty which Reid framed as "what got you here won't get you there. [^footnote_blizscaling_brianchesky_got_you_there]" Brian's way to explain, of what one feels going through the stages of growth, involved considering the sports metaphor but recognizing that more than to be skilled one has to enjoy and learn a whole new sport. And in alignment with setting structure for our challenge, throughout the Blitzscaling lectures Reid kept on essentially asking about these characterizations for moving accross. One in special, as for how founders should evaluate themselves across these stages, set the team into the in and out:  
+Now as for how to respond in the face of that general fast movement, we have as well celebrated the general notion of the the *Infinite Apprentice*, by the reflections from Brian Chesky and Reid Hoffman, which Brian's way to explain what it takes through the stages involved the sports metaphor recognizing that more than to be skilled one has to enjoy and learn a whole new sport [^footnote_blizscaling_brianchesky_new_sport]. And in alignment with setting structure for our challenge, throughout the Blitzscaling lectures Reid kept on essentially asking about these characterizations for moving accross. One in special, as for how founders should evaluate themselves across these stages, set the team into the in and out:  
 
-<!-- 
-@meta @todo 
-* @todo - p2 (Done) - In Identity - Check a reference to Reid Hoffman's "what got you here is not what take you there" or "what brought you here ..." official and also across this materials. Marcio confirms that he also refered about that under Urgency. @meta-refid 1212-2212-3233-4482
---> 
-
-[^footnote_blizscaling_brianchesky_got_you_there]: In Blitzscaling lecture number 18 (2015), Reid Hoffman asked Brian about the challenges of being a leader when the startup is going through the growth stages of Blitzscaling; to which Brian pointed out first about the absence of guidance for these transitions, stressing that leaders must evolve their perspective because the situation demands a whole new mindset as if the leader is being exposed to a whole new sport on every phase. 
+[^footnote_blizscaling_brianchesky_new_sport]: In Blitzscaling lecture number 18 (2015), Reid Hoffman asked Brian about the challenges of being a leader when the startup is going through the growth stages of Blitzscaling; to which Brian pointed out first about the absence of guidance for these transitions, stressing that leaders must evolve their perspective because the situation demands a whole new mindset as if the leader is being exposed to a whole new sport on every phase. 
 
 <!--
 @meta @references 

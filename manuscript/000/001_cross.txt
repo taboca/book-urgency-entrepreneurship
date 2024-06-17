@@ -1,6 +1,7 @@
 @cross 0100 
-* @cross - In Urgency - "what got you here is not all to get you there."
-* @cross - In Impact - "what got you here won't get you there."
+* @cross - In Urgency  "what got you here is not all to get you there."
+* @cross - In Impact  "what got you here won't get you there." (@complication)
+* @cross - In Impact  "what got you here won't get you there." (@responsibility scale)
 
 @cross 0110 
 * @cross - In Urgency - "Conscious Business"

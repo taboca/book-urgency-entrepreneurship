@@ -1,5 +1,7 @@
 # Todo # 
 
+* @todo - p2 ( ) - In Impact, in Identity, In Urgency - Check "what you got you here" where should this go. @meta-refid 1222-3332-8887-8484
+
 * @todo - p1 ( ) - In Accounting, Respect Time - And others - Review startup vs. growth - and footnotes such as footnote_growth_paul_graham . Ref 24928498-429849284-4928492-4928492849
 
 * @todo - p1 ( ) - #dup - Creative Destruction footnote dup - Check for the ongoing referencing of creative destruction which appears in Foreword, Accounting, Environment, and Impact. @meta-refid 3434-6565-8787-8585
