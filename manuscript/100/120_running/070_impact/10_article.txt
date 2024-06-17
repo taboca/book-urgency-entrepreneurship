@@ -106,7 +106,7 @@ Now to frame the startup within the context, in alignment with our expectations 
 --> 
 
 
-Now a point must be made about what means fast since we might have covered growth. But as for fast, I would think, there is an implicit notion that our environment may, to a great extent, dictacte certain moments, or setting a context. An example would be that consideration from our chapter Environment where we have considered the conditions for Uber (and the various other ride-hailing solutions that emerged), such as the technological considerations - as in Iphone shipped, GPS integrated, 3G network - and as well the target needs - the audience's interest in solving their ride needs in better ways such as to ask for a cab from anywhere. 
+Now a point must be made about what means fast since we might have covered growth. This circles back to that notion that our environment may, to a great extent, dictacte certain moments, or setting a context. In our chapter Environment we have considered the conditions for Uber (and other ride-hailing solutions that emerged) from the perspective of technologies - as in Iphone shipped, GPS integrated, 3G network - and people's needs - the audience's interest in solving their ride needs, such as to ask for a taxi from anywhere. 
 
 
 
