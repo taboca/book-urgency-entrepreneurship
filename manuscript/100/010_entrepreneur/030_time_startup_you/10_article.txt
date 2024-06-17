@@ -39,9 +39,8 @@ When they are in it for a startup, in the face of uncertainty which is like the 
 A related idea was presented by Fabrício Morini, a situation of entrepreneurs that adopt a reactive style, moving in response to environmental situation, like the present. He called it "fazejamento", an English equivalent would be the "Do-ification" that is common wit all sorts of enterprises and may actually work for some situations. Plus, learning after is certainly better than nothing. But in the context of startups and any entrepreneurial effort oriented to growth, the doing and learning after mistakes is not enough. 
 
 <!-- 
-
+@note 
 In the article about success, 080_winning.txt, Reid interviews Brian Chesky about the challenges to face unseen challenges as the game changes, with the line "What got you here does not get you there". 
-
 -->
 
 ### Love transcends time 

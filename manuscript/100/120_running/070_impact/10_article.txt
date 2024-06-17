@@ -176,6 +176,11 @@ Now a point must be made about what means fast since we might have covered growt
 * "Infinite apprentice" - In Accounting, Respect Time. 
 --> 
 
+<!--
+@cross 0100 
+* @cross - In Urgency  "what got you here is not all to get you there."
+* @cross - In Impact  "what got you here won't get you there."
+-->
 
 Now as for how to respond in the face of that general fast movement, we have as well celebrated the general notion of the the *Infinite Apprentice*, by the reflections from Brian Chesky and Reid Hoffman, in the face of the situation of uncertainty which Reid framed as "what got you here won't get you there. [^footnote_blizscaling_brianchesky_got_you_there]" Brian's way to explain, of what one feels going through the stages of growth, involved considering the sports metaphor but recognizing that more than to be skilled one has to enjoy and learn a whole new sport. And in alignment with setting structure for our challenge, throughout the Blitzscaling lectures Reid kept on essentially asking about these characterizations for moving accross. One in special, as for how founders should evaluate themselves across these stages, set the team into the in and out:  
 
