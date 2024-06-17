@@ -4,13 +4,9 @@
 
 * @todo - p2 ( ) - In Identity - Check footnote within quote. @meta-refid 1111-2222-3232-8888
 
-* @todo - p2 ( ) - In Impact - #self-actualization #growth #transcending #impact - On Redefition of Self-Actualization from Maslow - Consider the quote "This makes it possible for us to redefine self-actualization in such a way as to purge it of its static and typological shortcomings, and to make it less a kind of all-or-none pantheon into which some rare people enter at the age of 60. We may define it as an episode, or a spurt in which the powers of the person come together in a particularly eficient and intensely enjoyable way, and in which he is more integrated and less split, more open for experience, more idiosyncratic, more perfectly expressive or spontaneous, or fully funcioning, more creative, more humorous, more ego-transcending, more independent of this lower needs, etc. He becomes in these episodes more truly himself, more perfectly actualizing his potentialitiws, closer to the core of his Being. " (Abraham, Maslow., 2011, p.91) / @meta-refid 1222-2333-4333-5666 
-
 * @todo - p1 ( ) - In Identity - Check how many other points that the growth situation of startup was referred. This might be one real first case. [Prior:] Growth feat. PG accross chapters - Marcio have copied a quote from Paul Graham that was way ahead, in chapter 3, to now; because it needs to be evident, from the beginning of the book, that growth is the situation we are talking; this creates a match with the audience. Moreover, we need to make sure that the audience gets to this point with a full awareness of the growth situation. @meta-refid 1212-3212-3328-3834
 
 * @todo - p2 ( ) - In Impact - Check Michael's GM2 objective definition with Harriet's model - Harriet's objective, although not clear from the beginning, goes inline with Michael's GM2 definition of what what is an objective: consistent with your values, reflects your first principles, world-view, generates pride, sense of accomplishment. 
-
-* @todo - p2 ( ) - Check the above footnote, and also the context of Blitzscaling "what got you here does not take you there" and the stages, if it were in fact referred to it before since I am bringing that back, trying to reconcile. @meta-refid 7676-9494-8884-3333
 
 * @todo - p2 ( ) - In Impact - Fix page, find page, or check with Michael or buy the book. @meta-refid 1222-3233-4949-9494
 
@@ -451,6 +447,10 @@ https://chat.openai.com/share/b7eb16c5-4c18-4709-9220-bd2629f34a3d
 * Culture 
 
 ## Done
+
+* @todo - p2 (Done) - In Impact - #self-actualization #growth #transcending #impact - On Redefition of Self-Actualization from Maslow - Consider the quote "This makes it possible for us to redefine self-actualization in such a way as to purge it of its static and typological shortcomings, and to make it less a kind of all-or-none pantheon into which some rare people enter at the age of 60. We may define it as an episode, or a spurt in which the powers of the person come together in a particularly eficient and intensely enjoyable way, and in which he is more integrated and less split, more open for experience, more idiosyncratic, more perfectly expressive or spontaneous, or fully funcioning, more creative, more humorous, more ego-transcending, more independent of this lower needs, etc. He becomes in these episodes more truly himself, more perfectly actualizing his potentialitiws, closer to the core of his Being. " (Abraham, Maslow., 2011, p.91) / @meta-refid 1222-2333-4333-5666 
+
+* @todo - p2 (Done) - In Impact - Check the above footnote, and also the context of Blitzscaling "what got you here does not take you there" and the stages, if it were in fact referred to it before since I am bringing that back, trying to reconcile. @meta-refid 7676-9494-8884-3333
 
 * @todo - p1 (Done, dup of 12-3212-3328-3834) - In Identity - Check if the situation of growth should be brought to the beginning, as the situation or the complication of the intro; and if this was introduced in the book before, such as in Wantrepreneur. @meta-refid 1212-3231-3349-9393
 

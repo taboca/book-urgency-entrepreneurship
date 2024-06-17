@@ -324,27 +324,21 @@ In other words, she were growing as one of the conductors of the Underground Rai
 
 The story of Harriet became for Michael a landscape for a reflect about the challenges of scaling. He came up with a map (2018, 12:42) for when teams are small leading them to get bigger. Starting with the small, we use our energy and check with our values. Achieve quick wins, you are build trust. Recruit allies, you are building your network. Michael pointed out that "she took what she knew and she taught other people how to be good conductors on the road," which meant she were crafting a play book. The outcome was that she were making small batches of sucesses, she were iterating. When bigger, the first step again which now turns her self energy and her values translated as other people's energy, people who shared the same values. Michael reminds us that Harriet was trusted with other people's resources and skills, that she were walking aroung with the equivalent of a year's salary of a senior officer. With that stronger trust network, she could approach supporters now with bolder ideas which in normal circumstances could be seen as crazy and unrealistic. Through the growth iteratins, "her networks became quite literally armies." And she kept on iterating the playbook, in other words, passing on the playbook. 
 
-This model, is for Michael how startups should be scaling. He too sets a provocation, for founders and their teams,asks for a reflection, about when the gas is available, how eager founders go into pouring their resources while they aren't quite ready for it. What Michael is taking us is an opportunity to reconcicle with something we have celebrated before - a thinking from Reid Hoffman which he refers to it as the challenge of growth and where essentially "what brought you here is not what takes you there." [^editornote_reid_stages]. 
-
-[^editornote_reid_stages]: Check the quote from Reid, perhaps from the above interview video if not from the Blitzscaling one. 
-
-<!--
-@meta @todo 
-* @todo - p2 ( ) - Check the above footnote, and also the context of Blitzscaling "what got you here does not take you there" and the stages, if it were in fact referred to it before since I am bringing that back, trying to reconcile. @meta-refid 7676-9494-8884-3333
--->
-
-The identification of values shows a good startint point for founders. Exactly because in many endeavours that people get into, they might right there have not a clear picture of values. Thus, it becomes vital for any entrepreneur to use time in this regard - work time. And it is not that founders's envisioned project don't have values - a lot of projects created with passion, and vision, actually connect with strong values. It is just that the energy to make the project real sometimes, can hide values that could also improve the founder's chances towards freeing themselves. When lacking values analysis, they can lock themselves and even bring premature ends to what they do. The search for values is then a great exercise that opens the realm of possibilities beyond one or another current project, experiment or activity that is being undertaken. 
-
-Another aspect goes straight to the discovery of the next stage. As one is experimenting with ideas, thus of course it should be recognized hands on projects, still the entrepreneur is also openning herself to the validating the system to be in place for the world ahead which of course synchronizes with values but should not be lock in a form or another. This very approach to what is being done opens a reflective model of management for the startup which seeks to validate or "to recruit" allies which are resources that signal, or funds, larger experiments and at the same time the evaluation of the larger goal. 
-
-The identified component of the playbook becomes the exercise of value, as it has its built in mechanism for objectives evaluation. In the course of Harrison Metal, entitled General Management 2, Michael elaborates on principles for managing execution that takes in consideration that objectives can be both strong and weak. Strong in the sense of values, from the perspective of the objectives that gives motivation for movement, strong in the sense of the wider view that allows rooms for failure, for adaptation, for a conscious view for going from small and into growth. And weak, or better, humble, is the flexibility of evaluation that recognizes that the activities we pick, the key results we aim for, are at the same time closing a gap but also lifting ideas, understanding, evaluation, of the objective itself. Thus, one in a mission for a startup is automatically one in a mission for new management which requires a humble component that accepts that the objective,or the larger objective, is being discovered. 
-
-
 <!-- 
 @meta @references 
 * @reference - Dearing, M. (2018, February 13). Michael Dearing at the 2018 NYC Product Leader Summit: "Two Blasts from the Past" [Video]. YouTube. Spero Ventures. https://www.youtube.com/watch?v=oBOOcBgHxTU
 -->
 
+
+<!--
+@meta @todo 
+* @todo - p2 (Done, removed) - In Impact - Check the above footnote, and also the context of Blitzscaling "what got you here does not take you there" and the stages, if it were in fact referred to it before since I am bringing that back, trying to reconcile. @meta-refid 7676-9494-8884-3333
+
+* Was - This model, is for Michael how startups should be scaling. He too sets a provocation, for founders and their teams,asks for a reflection, about when the gas is available, how eager founders go into pouring their resources while they aren't quite ready for it. What Michael is taking us is an opportunity to reconcicle with something we have celebrated before - a thinking from Reid Hoffman which he refers to it as the challenge of growth and where essentially "what brought you here is not what takes you there." [^editornote_reid_stages] [^editornote_reid_stages]: Check the quote from Reid, perhaps from the above interview video if not from the Blitzscaling one. 
+
+-->
+
+The identification of values shows a good startint point for founders. Exactly because in many endeavours that people get into, they might right there have not a clear picture of values. Thus, it becomes vital for any entrepreneur to use time in this regard - work time. And it is not that founders's envisioned project don't have values - a lot of projects created with passion, and vision, actually connect with strong values. It is just that the energy to make the project real sometimes, can hide values that could also improve the founder's chances towards freeing themselves. When lacking values analysis, they can lock themselves and even bring premature ends to what they do. The search for values is then a great exercise that opens the realm of possibilities beyond one or another current project, experiment or activity that is being undertaken. 
 
 
 
@@ -370,7 +364,30 @@ The identified component of the playbook becomes the exercise of value, as it ha
 
 
 
-* Check Reid on https://youtu.be/ka--XKeI-o8?si=nPKD3gRtjmCEUNtm&t=3047
+
+
+<!-- 
+@outline - Challenge of Harriet for the startup? Viewpoints of who? Philosophical view?
+-->
+
+
+
+
+Another aspect goes straight to the discovery of the next stage. As one is experimenting with ideas, thus of course it should be recognized hands on projects, still the entrepreneur is also openning herself to the validating the system to be in place for the world ahead which of course synchronizes with values but should not be lock in a form or another. This very approach to what is being done opens a reflective model of management for the startup which seeks to validate or "to recruit" allies which are resources that signal, or funds, larger experiments and at the same time the evaluation of the larger goal. 
+
+The identified component of the playbook becomes the exercise of value, as it has its built in mechanism for objectives evaluation. In the course of Harrison Metal, entitled General Management 2, Michael elaborates on principles for managing execution that takes in consideration that objectives can be both strong and weak. Strong in the sense of values, from the perspective of the objectives that gives motivation for movement, strong in the sense of the wider view that allows rooms for failure, for adaptation, for a conscious view for going from small and into growth. And weak, or better, humble, is the flexibility of evaluation that recognizes that the activities we pick, the key results we aim for, are at the same time closing a gap but also lifting ideas, understanding, evaluation, of the objective itself. Thus, one in a mission for a startup is automatically one in a mission for new management which requires a humble component that accepts that the objective,or the larger objective, is being discovered. 
+
+
+
+
+
+
+
+
+<!-- 
+@outline - Compassion with the others that matter, and the needs in the future. 
+-->
+
 
 Reid Hoffman recognizes a style of management, and for that he refers to the work of Fred Kofmann [^footnote_conscious_business], of a compassionated view that transcends the individual needs and wants. The example he points uses the organization of an hospital to illustrate the point from the book of Fred, Conscious Business:  
 
@@ -383,10 +400,9 @@ Reid Hoffman recognizes a style of management, and for that he refers to the wor
 * reference - Hoffman, R. (2017, August 30). *Reid Hoffman: Build A World-Changing Business | Chase Jarvis LIVE* [Video]. YouTube. https://www.youtube.com/watch?v=ka--XKeI-o8
 -->
 
-Although this principle of management is ease to visualize as operational in an organization, is becomes applicable to the startup in the sense that individuals are likely involved in a dynamic role, although one that - as we have discussed - might not be aware about other important things at other abstract levels. Thus any exercise that transcends the views of an individual bring bring up the possibility of a managerial role that is conscious for the larger organization - even if the larger organization does not entire exist.   
+Although this principle of management is illustrated as operational in an organization, for the startup that is not only a reminder for situations in the past but has a significance in terms of principles applicable at all times, especially going through stages of successes. One which essentially set us into the exercise, that asks us to transcend from the present views, and into allowing the view from the group, or the higher-order larger viewpoint. 
 
-In other words, by embracing compassion for the organization in development, we bring in the notion that recognizes failure and adaptation as dependend on prior movement, more than to be formed by conclusions in retrospect. The driver that only learns after analysis in retrospect - logically better than no analysis at all - looses the humble viewpoint that can keep their consciousness for the business open. 
-
+In other words, the principle tell us to keep ourselves open, and embracing the compassionate level for the organization in development, in the future, which should set us to recognize present needs for adaptation which is different from forming conclusions in retrospect only after we are totally sure that something has gone wrong. The driver that only learns after analysis in retrospect - logically better than no analysis at all - looses the humble viewpoint that keeps her from the opportunity to see the road from above. 
 
 
 
@@ -394,10 +410,14 @@ In other words, by embracing compassion for the organization in development, we 
 
 
 <!--
-@outline - moving towards perhaps an enemy?
+@outline - Challenging starts from within, open to listen, the problem of dictatorship. 
 -->
 
-Now, to close, and going back to thoughts from Michael Dearing, I would like to celebrate this calling where he is inviting founders to be aware of their behaviors, especially given the space where we can be pressured to execute, that calling that we may do what we do and may do it too in love with what we do:  
+
+
+
+
+Now a problem yet remains open, especially in the setting of apparently growing startups where a lot of movement happens to be highly influenced by the leadership is strong. How come to see from different goggles? Thus even if knowing of a compassionate viewpoint needed, for others existing or other views for for the business in the future, requires a first movement, the self to listen, to be open, in the first place. The way that Michael Dearing set us to be open is by first making a point that our superpowers come with a price to pay: 
 
 > *"Human beings have a knack for observing, forming judgments, and taking action. When you state it like this it seems pretty linear and rational, whether you’re talking about individuals or people working in teams. Cognitive behavior theory says automatic thoughts color and distort our observations, our judgments, and our actions."* (Dearing, M., 2017)
 
@@ -406,7 +426,7 @@ Now, to close, and going back to thoughts from Michael Dearing, I would like to 
 * @reference - Dearing, M. (2017, March 26). The cognitive distortions of founders. Medium. https://medium.com/@mcgd/the-cognitive-distortions-of-founders-8e96c1edf60b
 --> 
 
-As Michael had looked at the work of Aaron Beck - cognitive behavior theory - he had found something for us to do about ourselves instead of letting us do what we do as if we were static, as if we were just a personality that fits or not in a position:
+Which comes with a good news - especially for the moments when we believe we are static and responding with a formed identity - where Michael does see the leaders in us as able to change their goggles, which goes along with the supporting points from cognitive behavioral theory from Aaron Beck: 
 
 > *"Beck’s theory of cognitive behavior described how observations, judgments, and actions are tinted and changed by automatic thoughts. These automatic thoughts come to mind without even trying. They reflect deep beliefs about self, past experiences, and expectations for the future, and they have a profound impact on judgment and behavior."* (Dearing, M., 2017)
 
@@ -415,7 +435,20 @@ As Michael had looked at the work of Aaron Beck - cognitive behavior theory - he
 * @reference - Dearing, M. (2017, March 26). The cognitive distortions of founders. Medium. https://medium.com/@mcgd/the-cognitive-distortions-of-founders-8e96c1edf60b
 --> 
 
-If I couldn't link to the article, I would summarize the above as "if we are too fast to do, consider how fast you are in assuming that you are what you are." But, I can link and I strongly invite you to read Michael's article because it will set us in a new place, to gain a perspective such as that a lot of superpowers of founders can be seen from a different perspective, such as to be distortions and that they can be constructed. It may indeed be uncomfortable - such as to account as well that to be calling a superpower is just the perspective of one that is in the hurry and does not have time to see the half empty glass - but I take that it is a happy news for us that we can gain a perspective from cognitive behavior theory and to know that we are essentially  nurturing ourselves and that while we may generally think that we can't do much in terms of who we are - as in when we think that we would need to take a detour to treat our beings psychologically - it matters then even more to know that there are real things that we can do in terms of improving our behaviors and that to be concerned with that can be and should be part of management, the management of the self that is essential to lead the management of the whole. 
+
+
+
+
+I would tease you into that theme with the thinking that "if you are too fast doing it, consider how fast you are in assuming that you are what you are." But of course the power of superpowers will always set the hero to miss the perspective by its own style of movement. That because, they can be great, fast and slow. From a perspective, for now, it may be then uncomfortable - such as what we feel if we account one in a position of superpower to recognize a negative side, or a half-empty glass. While a truth exists in that, as in to know that a rain is next to the sunny situation, to look for that view as a negative viewpoint is not the actual point Michael, or Aaron and perhaps in harmony with the modern waves of psychology who sets the self into enlightment by asking us to create the conditions, friendly conditions. In this context, we shall celebrate Maslow's own reflection as for who are the beings able to access self-actualization: 
+
+> *"This makes it possible for us to redefine self-actualization in such a way as to purge it of its static and typological shortcomings, and to make it less a kind of all-or-none pantheon into which some rare people enter at the age of 60. We may define it as an episode, or a spurt in which the powers of the person come together in a particularly eficient and intensely enjoyable way, and in which he is more integrated and less split, more open for experience, more idiosyncratic, more perfectly expressive or spontaneous, or fully funcioning, more creative, more humorous, more ego-transcending, more independent of this lower needs, etc. He becomes in these episodes more truly himself, more perfectly actualizing his potentialitiws, closer to the core of his Being. "* (Abraham, Maslow., 2011, p.91) 
+
+<!--
+@meta @todo 
+* @todo - p2 (Done) - In Impact - #self-actualization #growth #transcending #impact - On Redefition of Self-Actualization from Maslow - Consider the quote "This makes it possible for us to redefine self-actualization in such a way as to purge it of its static and typological shortcomings, and to make it less a kind of all-or-none pantheon into which some rare people enter at the age of 60. We may define it as an episode, or a spurt in which the powers of the person come together in a particularly eficient and intensely enjoyable way, and in which he is more integrated and less split, more open for experience, more idiosyncratic, more perfectly expressive or spontaneous, or fully funcioning, more creative, more humorous, more ego-transcending, more independent of this lower needs, etc. He becomes in these episodes more truly himself, more perfectly actualizing his potentialitiws, closer to the core of his Being. " (Abraham, Maslow., 2011, p.91) / @meta-refid 1222-2333-4333-5666 
+-->
+
+
 
 <!--
 @meta @todo 
@@ -435,16 +468,22 @@ If I couldn't link to the article, I would summarize the above as "if we are too
 
 
 <!--
-@outline - Afraid identity leader 
+@outline - Example, supporting, afraid identity leader 
 -->
 
-The insight from a research cited by "Are You Afraid to Identify as a Leader?, has shown that how challenge it is to support the developement of leaders as the consideration of a self-identity of a leader, has brought reputational concerns. As an example, employees might fear being seen as autocratic, different, or unqualified, when they consider themselves to embrace the role of leaders. Their research  suggests that organizations can impact the development of leaders and support a viewpoint that affects the psychological standpoint as taking leadership roles can be viewed as positive, and can be shown to be an area that is oriented to skills, and not as an innate ability: 
+As example of supporting views that can be created to the self, we may consider the power of support and the challenge of support. The insight from a research cited by *Are You Afraid to Identify as a Leader?* (2022), has shown how hard we can be influenced by our views, who we are, the identity we feel we must hold, and how weak all of that can be given that a special supportinng view sets a new perspective for these identities. I think that the exercice greatly reconciles some of our reflections as for our identities with our fears: 
 
-> "In one study, we found that participants who listened to a podcast in which we framed leadership as risky were less likely to identify or act as leaders than those who listened to a podcast that described leadership as low-risk. This suggests that simply by presenting leadership as less risky and lower-stakes (for example, by clarifying that leadership mistakes are expected and will not be a black mark on an employee’s record), managers can help employees feel more comfortable seeing themselves as leaders." https://hbr.org/2022/09/are-you-afraid-to-identify-as-a-leader
+> "In one study, we found that participants who listened to a podcast in which we framed leadership as risky were less likely to identify or act as leaders than those who listened to a podcast that described leadership as low-risk. This suggests that simply by presenting leadership as less risky and lower-stakes (for example, by clarifying that leadership mistakes are expected and will not be a black mark on an employee’s record), managers can help employees feel more comfortable seeing themselves as leaders." (Cunningham, Sonday, & Ashford, 2022)
 
-> "At first glance, this may seem counterintuitive. Why would perceptions of riskiness influence something as deeply ingrained as your identity? From a psychological standpoint, however, this effect is not surprising at all. No one likes to think of themselves as driven by fear, and leadership can often come with substantial challenges. So, when pursuing leadership feels risky, people subconsciously redefine their own identities to justify avoiding it. It’s a lot more comfortable to rationalize an unwillingness to lead by telling yourself that you’re “just not a leader” than to admit that you’re afraid of what others might think." - https://hbr.org/2022/09/are-you-afraid-to-identify-as-a-leader
+<!--
+@references 
+* reference - Cunningham, J. L., Sonday, L., & Ashford, S. (2022, September 5). Are you afraid to identify as a leader? Harvard Business Review. Retrieved from https://hbr.org/2022/09/are-you-afraid-to-identify-as-a-leader
+--> 
 
-> "And across our studies, we found that people who reported higher levels of fear around these reputational risks were less likely to see themselves as leaders. As a result, they were less likely to act as leaders, and therefore less likely to be seen as leaders by their supervisors." - https://hbr.org/2022/09/are-you-afraid-to-identify-as-a-leader 
+In other words, it sounds quite scary that we can fear things after crafting our own identity as projected, tied, or pressured by the work situation, the startup situation. 
+
+> *"At first glance, this may seem counterintuitive. Why would perceptions of riskiness influence something as deeply ingrained as your identity? From a psychological standpoint, however, this effect is not surprising at all. No one likes to think of themselves as driven by fear, and leadership can often come with substantial challenges. So, when pursuing leadership feels risky, people subconsciously redefine their own identities to justify avoiding it. It’s a lot more comfortable to rationalize an unwillingness to lead by telling yourself that you’re “just not a leader” than to admit that you’re afraid of what others might think."* - (Cunningham, Sonday, & Ashford, 2022).
+
 
 
 
@@ -457,22 +496,11 @@ The insight from a research cited by "Are You Afraid to Identify as a Leader?, h
     @outline - Friendly critic (#autonomous #creative)
 --> 
 
+
+
+To conclude, in alighment with the compassionate view for our creating conditions for us to grow, we shall then celebrate an idea, which can well take us to be less uncomfortable and perhaps towards challenging our views more naturally. This is the view that ask us to be friends with the critic in ourselves. 
+
 If we seek a friendly critic, we shall consider a somewhat cold critic eye on top of the performers that may at times be able to experiment, to play too. The whole idea of this cold supervisor may be about to be calmer, as opposed to applauding the kids too quick all the time and making a parade for their movements. He gives the leg, the arm, supports. But he or she is cold, keeps her child informed about potential risks too. Keeps the team aware. Thus to enable a path of less frustration but also helps in structuring the episode with more rigor and less bet, like thinking it will work out. This model of strategizing says that there is an overarching meta control - as if it were a premeditated battle where the outcome, positive or negative, is always positive, an experiment. This parent, growth educator, and therapeut coach, is there to support curiosity and to let the team to be calm with a good critic. The valley, call it the throgh of sorrow or the valley of confusion, is valley of opportunity, is where life rises, is where the team can be enlightened. The path is the solution. 
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-@outline - friendly 
--->
 
 Of course, especially for the case of writers but not limited, we should realize that intermediary conflict celebrate its existence as in respecting and noticing when that creative doer fights with our know-it-all critic. Indeed, these personalities are roles in the same room, especially in the beginning of professional journeys, where we engage in a fight and it looks like a struggle and it's a struggle that confuses us. The light, at the end of the tunnel, if we accept to see it, is an enlightened place where they can collaborate and as well said by Dorothea Brandy from *Becoming a Writer*. Dorothe Brand, in 1934, pulled that truth from her well, to tell yet-to-become writers about the peaceful place where these personalities do not have to attack each other in realtime. I think that this is applicable to the life of a writer, to the life of a developer writing code, to an individual going through projects and writing the narrative of their lives and their startups:  
 
