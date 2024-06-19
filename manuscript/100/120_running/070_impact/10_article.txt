@@ -189,6 +189,10 @@ Now a point must be made about what means fast since we might have covered growt
 
 
 
+
+
+
+
 <!--
 @outline 
 -->
@@ -197,10 +201,6 @@ Now a point must be made about what means fast since we might have covered growt
 
 
 
-<!--
-@meta @todo 
-* @todo - p2 ( ) - In Identity - Check footnote within quote. @meta-refid 1111-2222-3232-8888
---> 
 
 <!--
 @cross
@@ -230,11 +230,19 @@ As for the meaning of growing fast for ourselves as leaders, especially in the f
 
 
 
-But of course, some other considerations must be embraced if we are to use the situation of Brian. We should take in the consideration the context which he were in. Consider, for example, how he valued as key the effort of accessing the best books which sets right away the challenging of knowing which are the best books. We should keep in mind too that Brian's team had been accepted by YCombinator, which was already considered in Silicon Valley as a top-tier network of knowleged, and the path that his team went through, being supported by networks from top VC firms and investors like Reid Hoffman. 
 
-<!-- 
-@Reference 
-* reference - Hoffman, R. (2017, August 30). *Reid Hoffman: Build A World-Changing Business | Chase Jarvis LIVE* [Video]. YouTube. https://www.youtube.com/watch?v=ka--XKeI-o8
+
+
+
+
+
+
+
+
+
+
+<!--
+@outline - Recognition of the challenging from being successful and leaving the perspective for scale. 
 --> 
 
 
@@ -243,44 +251,15 @@ But of course, some other considerations must be embraced if we are to use the s
 
 
 
+Now, pretty solid and simple enough and hard enough, is the given from Michael. One which breaks down the definition of the startup which does follow the general curve, now setting a requirement for us to be conductors of a 3-tier endeavor. Now, just like the fast word needed a word, as for the "startup is a company designed to grow fast," Michael's evaluation model too gives us a viewpoint for wondering. Because of that God part. This is Michael reminding ourselves of how it feels in the face of a change needed that may not likely happen. It's in our language, believers of God or not, and it does express the complex feeling when one is required to look at what happens not with the eyes of the man, the present eyes.
 
+I shall call it G.O.D., the Good Old Dilemma, of entrepreneurship. One which ssentially circles back to that observation from under the surface of our macro curve, the one which makes the curve to go up anyway, that creative destruction element from within. In our context, this force is essentially asking us to live, and to move, by getting things done in the first place. But too, in addition, to use the opportunity from our movement, our prior successes acquired, to fuel ourselves. And too, in addition, to use that fuel to balance out, our viewpoints and with that our activities. With that, to take us to use new goggles, to gain new perspectives. 
 
+And all of that sounds great, but up to the point when we do something great. This is so because of so many factors we have considered - like love and support from the environment - essentially energizes us.  When our actions show traction, the consequence is inevitable, that we set ourselves to operate in ways that feel proactive. According to angel investor Jason Calacanis [^footnote_jasoncalacanis_reactive], the biggest mistake founders make is that they become maniacs: They enter in a reactionary mode, responding to emails, tweets, and openning tickets in whatever project management system they like. We get into the business of putting out fires and don't reconsider the risky place we set ourselves in, in the first place: 
 
+[^footnote_jasoncalacanis_reactive]: Jason Calacanis is an American entrepreneur, angel investor, and author known for his investments in various tech startups and his role in the podcasting and media industry. He is the founder of several companies, including Mahalo.com, Inside.com, and the podcast "This Week in Startups." Calacanis is also an early investor in companies like Uber and Robinhood.
 
-
-
-
-
-<!-- 
-@meta @todo 
-* @todo - p2 ( ) - In Part 2 - In Searching Impact - there is a whole section entitled "The guardian" which seems as a good introduction to the chapter "The feedback of urgency". Ref 9884-8944-9492-9044 #duplicated #crossreference 
---> 
-
-There exists a compelling force that can lead us to pack our schedules—a result of the belief that more work yields greater outcomes. This force calls for increased production or enhanced efficiency for ongoing activities. Such a drive towards productivity is natural, as entrepreneurial actions are also guided by the feedback from outcomes. However, the challenge lies in discerning which type of feedback to heed and recognizing the need to engage across the various fronts of a business. Focusing solely on product design, for example, fails to address the key issues vital for the growth and sustainability of the business.
-
-This pressure becomes positive because entrepreneurs interpret signs of traction, which can manifest in various ways. A developer-entrepreneur, for instance, may feel effective in the process of design and product development, influencing his actions and the overall direction based on the belief that he is on the right path.
-
-In another scenario, an entrepreneur might spend all their time addressing support tickets or extinguishing fires related to current customers, creating a barrier against seeing other strategic needs. The principle is simple—if something is working, just do more of the same, or "if it ain't broke, don't fix it." If the product continues to sell, then the solution seems to be just to replant the same, follow the same rules.
-
-Yet, the issue with reactionary execution isn't always due to external pressure, like positive feedback (a market signal). Even amidst uncertainty, entrepreneurs suffer from this syndrome of execution and productivity, always ready to scale, always in a rush.
-
-From identifying the problem, or syndrome, entrepreneurs must acknowledge their responsibility towards the other dimensions of their business. High productivity is good, but success in certain areas does not guarantee progress in others.
-
-This syndrome puts the business at risk because of biases—thought patterns, habits, processes, or even cultural issues that govern the entrepreneur's actions. James Green, in his work "Opportunity Analysis Canvas" (2015), warns of a trait known as representativeness, which is the entrepreneurial tendency to trust what they hear and see in their immediate domain, relying on their previous knowledge, known data, their current customers, friends, etc.
-
-It's common for entrepreneurs to stumble upon something right, or seemingly right, and craft their own narrative that justifies not only continuing to advance their business in the same manner but even to accelerate their plans without questioning them—assuming there is a plan at all. Others simply proceed with a "doing" mindset, hoping the part that works will offset the part that doesn't.
-
-The real issue is advancing on various fronts without a clear understanding of what works and what doesn't. Worse, eventually, the functioning aspect is diluted by the failing side, turning special products mediocre, adding more and more options until the menu becomes bland.
-
-
-
-
-Thus, entrepreneurs add more products to the shelves, launch more campaigns, hire more staff, negotiate better with their suppliers—in short, they do more activities with the idea that more is better. More promotions, more services, more products, more customers, etc.
-
-Worse, when their actions show traction, the consequence is inevitable. They operate in reactive mode. According to investor Jason Calacanis (This Week in Startups, 2017, 3:04), the biggest mistake founders make is that they become maniacs. They enter a reactionary mode, responding to emails, tweets, and open tickets in their own project management systems. In other words, these entrepreneurs get used to putting out fires and don't reconsider the risk conditions they've set in the first place. For Jason, they fail to realize that sometimes they need to stop and make space in their minds for ideas, revelations, and insights.
-
-This reactionary execution essentially tells the entrepreneur to do more of the same, or more of what comes from the same source. So, if they've built relationships with customers who don't pay on time, it becomes normal to continue respecting this vicious cycle and accelerate actions that try to remedy the delays, rather than revisiting the entire history that would prevent them.
-
+> *"What founders don't realize is that in a lot of times what you need is down time, and space in your brain, for ideas, and for revelations and for insights to happen."* (Calacanis, Jason., 2017, 3:10)
 
 <!--
 @meta @references 
@@ -290,6 +269,19 @@ This reactionary execution essentially tells the entrepreneur to do more of the 
 
 
 
+Now, to hear that in theory is a thing but a key element that frames us back to that complex space is exactly the very feeling of what happens if we, doers especially when doing it well, think of the act of balancing out, the very uncomfortable place, the unproductive space, as in to be one which waits for a revelation - likely an objective objection from any real doer. And likely too, even when we are into it, finding ways to be better at time, that may certainly for many of us - by us I mean the stage of life we are - set ourselves into a sort of discomfort that is not good in terms of happiness. It may be so worth for a reflection that with all the versions of that moment of change we are yet quite not comfortable to think: The big corporation going through an inflection point, in the face of death from chaos or into the chaothic idea of reign in chaos. The startup situation, going through that moment of successes, such as from launches, followed by the boredom referred as the through of sorrow. The team or the individual that when trying to push from B to A enters that C space, into confusion. With all these situations, there is something sad yet in it, which we propagate to ourselves. And perhaps that something is worth reflecting, how we see ourselves in the face of balancing out from our views of success and our state as controllers. 
+
+<!--
+@todo - p2 ( ) - In Impact - Consider to bring about the challenge of tolerance for ambiguity, ft. James Green. @meta-refid 1233-9393-9393-9494
+
+* James Green on improving tolerance for ambiguity - "To understand your own tolerance for ambiguity, consider your comfort with uncertainty, with change, and with unfamiliar situations. Think about how you can improve your tolerance through experience. As you experience new things, the next time that you experience them, they’re not new. You have new know-how. You have new capabilities that you’ve established. You have new insights, new relationships, and new resource for next time. Trying new things beyond your comfort zone, professionally and personally, is a good way to develop your tolerance for ambiguity." (Green, James., p. 36, )
+
+* @reference - Green, J. V. (2015). The Opportunity Analysis Canvas (3rd ed.). Venture Artisans, LLC.
+
+--> 
+
+
+For the next sections, we will celebrate first an experience of transformation of a hero from history, a blast from the past; a story that may take us to reflect about the ways to scale ourselves. And we shall conclude with thoughts about healthy ways to be comfortable with these challenges of change. 
 
 
 
@@ -297,9 +289,10 @@ This reactionary execution essentially tells the entrepreneur to do more of the 
 
 
 
-When Marcio had insight and told Michael that the major problem was of a party, for what was nice, like flow. And not the denial to do the boring. So the doing the so good things led to use of energy in excess. Insigh of Marcio - "Thank you Michael. Your reply resonated so much with things in my head, concerns, sometimes not clear; it adds so much clarity. A few months ago, I had, virtually speaking, screamed — ah! It's that freaking party the problem. The party would be, for example, a 4h engineering activity that goes over the time of other important things (not seen as critical of course). The benefit was so great that a sort of specialized mindset acts. I was not conscious and would never judge that as a potential evil act. Well, how could it be? The very greatness, supposedly my creative engine, the productive engine. And worse, the general brain command was — continue! Do it, Marcio, advance that. You can fix other things later. I was assuming that a great actor would compensate for the other stuff running slow. "
 
-Insight of Michael, not a public quote yet, that "Categorization --> clusters --> patterns --> priorities -- that's it exactly. Natural multi-taskers with a strong work ethic (that's what I hear in your opening above) can easily lose site of what matters most because getting things done feels terrific and is comparatively easy / cheap for them. That's a problem if you compound the implicit deprioritization of the few most important things, in favor of many things because we love to get lots of things done, over a long period of time. Thank you for the note. It's very helpful to see through your goggles." 
+
+
+
 
 
 
@@ -397,6 +390,56 @@ The identification of values shows a good startint point for founders. Exactly b
 
 
 #### Friendly with growth 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+@outline - Marcio's goggles 
+--> 
+
+
+
+
+
+
+When Marcio had insight and told Michael that the major problem was of a party, for what was nice, like flow. And not the denial to do the boring. So the doing the so good things led to use of energy in excess. Insigh of Marcio - "Thank you Michael. Your reply resonated so much with things in my head, concerns, sometimes not clear; it adds so much clarity. A few months ago, I had, virtually speaking, screamed — ah! It's that freaking party the problem. The party would be, for example, a 4h engineering activity that goes over the time of other important things (not seen as critical of course). The benefit was so great that a sort of specialized mindset acts. I was not conscious and would never judge that as a potential evil act. Well, how could it be? The very greatness, supposedly my creative engine, the productive engine. And worse, the general brain command was — continue! Do it, Marcio, advance that. You can fix other things later. I was assuming that a great actor would compensate for the other stuff running slow. "
+
+Insight of Michael, not a public quote yet, that "Categorization --> clusters --> patterns --> priorities -- that's it exactly. Natural multi-taskers with a strong work ethic (that's what I hear in your opening above) can easily lose site of what matters most because getting things done feels terrific and is comparatively easy / cheap for them. That's a problem if you compound the implicit deprioritization of the few most important things, in favor of many things because we love to get lots of things done, over a long period of time. Thank you for the note. It's very helpful to see through your goggles." 
+
+
+
+ 
+
+
+
+
+<!--
+@outline - Lucky Brian? Lucky network? Or network of capability that had an eye for values?
+--> 
+
+But of course, some other considerations must be embraced if we are to use the situation of Brian. We should take in the consideration the context which he were in. Consider, for example, how he valued as key the effort of accessing the best books which sets right away the challenging of knowing which are the best books. We should keep in mind too that Brian's team had been accepted by YCombinator, which was already considered in Silicon Valley as a top-tier network of knowleged, and the path that his team went through, being supported by networks from top VC firms and investors like Reid Hoffman. 
+
+<!-- 
+@Reference 
+* reference - Hoffman, R. (2017, August 30). *Reid Hoffman: Build A World-Changing Business | Chase Jarvis LIVE* [Video]. YouTube. https://www.youtube.com/watch?v=ka--XKeI-o8
+--> 
+
+
+
+
+
+
 
 
 
@@ -549,5 +592,15 @@ Of course, especially for the case of writers but not limited, we should realize
 @meta @references
 * reference - Brande, D. (2019). Becoming a Writer. General Press.
 -->
+
+
+
+
+
+
+
+
+
+
 
 

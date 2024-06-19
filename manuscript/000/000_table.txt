@@ -1,5 +1,7 @@
 # Todo # 
 
+* @todo - p2 ( ) - In Impact - Consider to bring about the challenge of tolerance for ambiguity, ft. James Green. @meta-refid 1233-9393-9393-9494
+
 * @todo - p2 ( ) - In Impact - Review stages of Blitzscaling. https://www.youtube.com/watch?v=s3RrVmv5WwA  @meta-refid 1234-4321-5433-8674
 
 * @todo - p2 ( ) - In Impact, in Identity, In Urgency - Check "what you got you here" where should this go. @meta-refid 1222-3332-8887-8484
@@ -7,8 +9,6 @@
 * @todo - p1 ( ) - In Accounting, Respect Time - And others - Review startup vs. growth - and footnotes such as footnote_growth_paul_graham . Ref 24928498-429849284-4928492-4928492849
 
 * @todo - p1 ( ) - #dup - Creative Destruction footnote dup - Check for the ongoing referencing of creative destruction which appears in Foreword, Accounting, Environment, and Impact. @meta-refid 3434-6565-8787-8585
-
-* @todo - p2 ( ) - In Identity - Check footnote within quote. @meta-refid 1111-2222-3232-8888
 
 * @todo - p1 ( ) - In Identity - Check how many other points that the growth situation of startup was referred. This might be one real first case. [Prior:] Growth feat. PG accross chapters - Marcio have copied a quote from Paul Graham that was way ahead, in chapter 3, to now; because it needs to be evident, from the beginning of the book, that growth is the situation we are talking; this creates a match with the audience. Moreover, we need to make sure that the audience gets to this point with a full awareness of the growth situation. @meta-refid 1212-3212-3328-3834
 
@@ -142,8 +142,6 @@
 * @todo - ( ) p2 - In Environment, Space - Check footnote of Tony Ulwick when it refers to JTBD, check if it is a framework of a theory or what according to the latest articles. @meta-refid 1212-2223-4432-9873
 
 * @todo - p2 ( ) - In Environment, Space - Check reference if Andy Grove were really first hire. @meta-refid 1212-2223-3392-9394
-
-* @todo - p2 ( ) - In Part 2 - In Searching Impact - there is a whole section entitled "The guardian" which seems as a good introduction to the chapter "The feedback of urgency". Ref 9884-8944-9492-9044 #duplicated #crossreference 
 
 * @todo - ( ) p1 - In Identity - Check from the following, the outcome from the paper; @meta-refid 1212-2211-3321-9834 
 
@@ -451,6 +449,10 @@ https://chat.openai.com/share/b7eb16c5-4c18-4709-9220-bd2629f34a3d
 * Culture 
 
 ## Done
+
+* @todo - p2 ( Lost ) - In Identity - Check footnote within quote. @meta-refid 1111-2222-3232-8888
+
+* @todo - p2 (Done, not understood ) - In Part 2 - In Searching Impact - there is a whole section entitled "The guardian" which seems as a good introduction to the chapter "The feedback of urgency". Ref 9884-8944-9492-9044 #duplicated #crossreference 
 
 * @todo - p2 (Done) - In Impact - #self-actualization #growth #transcending #impact - On Redefition of Self-Actualization from Maslow - Consider the quote "This makes it possible for us to redefine self-actualization in such a way as to purge it of its static and typological shortcomings, and to make it less a kind of all-or-none pantheon into which some rare people enter at the age of 60. We may define it as an episode, or a spurt in which the powers of the person come together in a particularly eficient and intensely enjoyable way, and in which he is more integrated and less split, more open for experience, more idiosyncratic, more perfectly expressive or spontaneous, or fully funcioning, more creative, more humorous, more ego-transcending, more independent of this lower needs, etc. He becomes in these episodes more truly himself, more perfectly actualizing his potentialitiws, closer to the core of his Being. " (Abraham, Maslow., 2011, p.91) / @meta-refid 1222-2333-4333-5666 
 

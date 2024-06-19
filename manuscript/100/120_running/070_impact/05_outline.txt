@@ -90,3 +90,16 @@ Check email Michael
 
 
 
+# Done
+
+<!-- 
+@meta @todo 
+* @todo - p2 (Ignored,  Not understood ) - In Part 2 - In Searching Impact - there is a whole section entitled "The guardian" which seems as a good introduction to the chapter "The feedback of urgency". Ref 9884-8944-9492-9044 #duplicated #crossreference 
+--> 
+
+<!--
+@meta @todo 
+* @todo - p2 (Lost) - In Identity - Check footnote within quote. @meta-refid 1111-2222-3232-8888
+--> 
+
+

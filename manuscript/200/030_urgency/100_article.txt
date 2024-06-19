@@ -2,10 +2,8 @@
 <!--
 
 @meta @todo 
-* @todo - p1 ( ) - In The Feedback of Urgency - In Maslow's book, Toward the Psychology of Being (p.55) Maslow brings a point, within the context of a formula that explains growth of a child and decision-making, about a feedback mechanism where the child's mastery in something done supports self-trust and self-esteem. @meta-refid 1232-8383-8384-8484
 
-@meta @todo
-* @todo - p2 ( ) - In The Feedback of Urgency - In Part 1, Searching Impact, there is a whole section entitled "The guardian" which seems as a good introduction to the chapter "The feedback of urgency". Ref 9884-8944-9492-9044 #duplicated #crossreference 
+* @todo - p1 ( ) - In The Feedback of Urgency - In Maslow's book, Toward the Psychology of Being (p.55) Maslow brings a point, within the context of a formula that explains growth of a child and decision-making, about a feedback mechanism where the child's mastery in something done supports self-trust and self-esteem. @meta-refid 1232-8383-8384-8484
 
 -->
 
@@ -718,3 +716,7 @@ As interpersonal relationship arises, feedback systems chimes in. We gotta be dr
 
 As an aside of the phenomenon, I ask us to go back to that extremme situation pointed: how easy it is to get approved anything that supports values, such as the values that we have captured and perceived, and conversely how difficult we make for strategic ideas to get in our way. I will close with the situation of writers: If I happen to become good in writing in English, as in grammatically correct, I might value that to a point that wouldn't allow myself to write poorly in terms of grammar. But what if writing poorly, or more freely, were the closest path to finding something beautiful and meaningful. To close, entrepreneurship is like writing. 
 
+
+<!--
+* @todo - p2 (Done, not understood) - In The Feedback of Urgency - In Part 1, Searching Impact, there is a whole section entitled "The guardian" which seems as a good introduction to the chapter "The feedback of urgency". @meta-ref 9884-8944-9492-9044 #duplicated #crossreference 
+-->
