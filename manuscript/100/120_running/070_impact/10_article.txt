@@ -161,7 +161,7 @@ Let us, first, consider the general landscape considering the situation of expec
 
 
 
-Now to frame the startup within the context, in alignment with our expectations from the curve, the first things to be considered is to map a requirement of growth. Thus our statup as an entity that is aimed to stick around, to sustain itself - this can be celebrated by the startup definition from Paul Graham: 
+Now the first thing before we move into solving the Impact's Equation, is to frame the situation for our startups and ourselves, to set our expectations which can be derived from that curve. Keeping things simple and to the point, we should think of our startup as an entity that is aimed to stick around, to sustain itself. This can be celebrated by the startup definition from Paul Graham: 
 
 
 <!--
