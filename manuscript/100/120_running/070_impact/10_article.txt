@@ -157,8 +157,9 @@ Next, we will first make it formal our landspace for growth which shall frame ou
 
 #### Responsibility towards scale 
 
+<!--
 ![](images/100/strip-rocket-160.png)
-
+-->
 
 
 
