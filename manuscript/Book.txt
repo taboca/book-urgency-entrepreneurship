@@ -47,9 +47,12 @@
 100/120_running/060_fear/10_article_130_being_right_honest.txt
 100/120_running/060_fear/10_article_150_startup_right_sorrow.txt
 100/120_running/060_fear/10_article_160_grown_up_blocky.txt
+
 #100/120_running/060_fear/10_article_170_transcending.txt
 
 100/120_running/070_impact/10_article.txt
+100/120_running/070_impact/20_article_scaling_harriet.txt
+100/120_running/070_impact/30_article_friendly.txt
 
 #100/900_personal_board-en-us.txt
 
