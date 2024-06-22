@@ -1,3 +1,18 @@
+<!--
+
+@outline - Check against the startup case - Back to startup, check on the Blitzscaling case and Brian's case. Airbnb said to be case of scaling. And Brian of leader, as an infinite learner. 
+@outline - Check: Is this luck of good network? Luck? Reid says Brian was different.  
+@outline - Cases: Small, PG told them to do things that don't scale. Big, Reid supported them to be strong, against major competition. In both situations the energy channeled through values, brought them impact.  
+
+@outline - Complication - Still, complication from within, from that small place of autonomy and again from our own success. Benevolent dictatorship or autocracy or 4h feels great, and we are ethical. Ft. MD. We may fall into doing. 
+ The inclination from obsession with certain dimension of value may take us to either grow or to defend. More than to talk about, to reflect, the problem of anger can be present, the feeling of half glass empty, sadness or lack for happiness for seeing the greatest from our own movement. As in the fear of rubris, the pain.  
+
+@outline - gka - Need a compassionate model, through values. @outline - #AfraidLeader #Case 
+@outline - Answer - Compassion view Ft. Reid; soft and strong, hard and weak, Ft. MD. #CBT #StructuredHoles. #Variability #Conversation #Creative
+@outline - Answer - Friends with critic. Ft. DB. Ft. MD. #Disney
+
+-->
+
 #### Friendly with growth 
 
 
@@ -10,18 +25,44 @@
 
 <!--
 @outline - Lucky Brian? Lucky network? Or network of capability that had an eye for values?
+@outline - Check against the startup case - Back to startup, check on the Blitzscaling case and Brian's case. Airbnb said to be case of scaling. And Brian of leader, as an infinite learner. 
 --> 
 
-But of course, some other considerations must be embraced if we are to use the situation of Brian. We should take in the consideration the context which he were in. Consider, for example, how he valued as key the effort of accessing the best books which sets right away the challenging of knowing which are the best books. We should keep in mind too that Brian's team had been accepted by YCombinator, which was already considered in Silicon Valley as a top-tier network of knowleged, and the path that his team went through, being supported by networks from top VC firms and investors like Reid Hoffman. 
+Now if all or some of this makes a bit of sense we need to check using a modern case, a journey that started small and created impact to the world. For that I am using the iconic case of Airbnb, which is recognized [^footnote_blitzscaling_airbnb] by the Blitzscaling crew as a case that started with an idea and passed through the stages of growth. Like we did with the historical context of Harriet, we may first lock the world's forces, to consider that a world's potential 10x force were in the air, that the world wanted to push forward the sharing economy, which to the context of Airbnb had to do with enabling ways for people to stay in other people's houses; which weren't not invented but the modern world - of fears - may have created barriers for a while. With that, then the question goes back to the founder - to wonder if they are up to it? And like we did with Harriet, we may too help ourselves and, temporarily, assume that Airbnb's future was written, that Airbnb was to be the actual materialization of the modern experience about to happen to solve the problem of people staying at each other's homes. And like we did, we will go back to deconstruct that premise later. 
 
-<!-- 
-@Reference 
-* reference - Hoffman, R. (2017, August 30). *Reid Hoffman: Build A World-Changing Business | Chase Jarvis LIVE* [Video]. YouTube. https://www.youtube.com/watch?v=ka--XKeI-o8
+[^footnote_blitzscaling_airbnb]: Airbnb and Brian's interview within the context of Blitzscaling is key, likely Airbnb and Brian's story had big impact in the construction of the Blitzscaling, likely through values. 
+
+[^footnote_brian_earlyteam]: I am using the notion of Brian but just like we won't know what are the key elements inside one person, in the self, we won't know how much their characterization as a leader depends on others. With that, it is implied the role of his cofounder and friend, Joe Gebbia, and if we dig into that, we will certain find Brian's parents. The point here is that the word Brian is a good representation for the early stage exactly because of the strong and weak representation and the potential - a leader in the beginning can well just stop doing it and go back to do something else at any time. 
+
+Now and focusing on the characterizations of Brian, or Brian's team [^footnote_brian_earlyteam] but let us use Brian for now, one is of the said *Infinite Learner*, and with that we can wonder how one learner learns in a way where they can scale and grow, from small wins and developing ties with the right networks of support. A quick reading from their situation, from far, brings me to wonder about luck. Brian was lucky. When questioned about learning, through the Blitzscaling interview, he said that to solve the problems ahead one needs to find the right source of knowledge, such as the right person in the network, but if accessing the right person is not possible, then there is the right book. He and Reid celebrated that *High Output Management* is one of these materials, and then they recognized too the moment, and the special person who had recommended the book to them. 
+
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Impact, Friendly growth - Bring reference to the Blitzscaling interview moment when Brian talks about the book and the source. @meta-refid 1212-3232-8383-8484 
 --> 
 
+Which brings us to honor an objection - to minimally notice that Brian were already next to Reid Hoffman, that Greylock had already invested in Airbnb, and that before all of that Brian's team had been accepted by YCombinator, and that YCombinator were already a top-tier accelerator in Silicon Valley, and that they were already recognized as a network of knowlege and a network for accessing top-tier investors. These are just a few observation that sets me to, again, not to be mad with the idea that all attempt of mapping lessons is pointless but to think that too many variables were in the air preventing a solid lesson to settle. 
 
+But there are things to be taken from subtle givens, like the case of Harriet, that may well explain how Brian were able to go along with a) that world's 10x force and b) that destiny of Airbnb in the growth situation. In other worlds, Brian was not let go, through the stages of Blitzscaling. Which set us to wonder about characterizations, or the thing, which they had which enabled them to kept on building alliances with their support network, throughout the stages of growth. Two different moments of Airbnb, given by Brian, shows how his learning were both a learning and a movement of follow through that went along in syncronicity not only with what his grown up advisor roles were telling but actually enabling those advisors to learn with him. 
 
+The first is a situation which Brian considered as one of the best advices, one which he got from Paul Graham that is also know as *Do Things that Don't Scale*: 
 
+> *"Probably the most important single piece of advice I got, which is probably advice that is probably the most important advice I can give you, or one of the most important advice. He basically drew out this chart and he basically said, it's better to have 100 people that love you, 100 customers that love you, than a million customers that just sort of like you. In other words, if you have 100 people that absolutely love your product, they'll tell 100 people, and then they'll tell 100 people, or even 10 people, and this thing will grow. We call it growing virally. In fact, almost all movements in history have grown this way as well. There's like deeply passionate followers and they grow it. And they're customer advocates. And the problem is, in Silicon Valley, the general wisdom is, I need to build some app, this thing it needs to have this viral coefficient. I need to get millions of people to use it. And they gotta like it enough to share it. That's totally the wrong way to think about it, especially if you're in a service business like ours. So Paul Graham said, 'All you have to do is get 100 people to like you. Don't worry about millions of people.' That was totally freeing. 'Cause until then I was like, 'How the hell am I gonna get a million people to do this if I can't even get my mom or my sister to do it?' But I can find 100 people. And so we literally decided, do things that don't scale."* (Chesky, Brian., 2015, 22:13)
+
+Now, if if you listen to how he says that, if you hear his voice, you will also feel that he had connected with the idea. He were free. They had given permission to do what they knew was right. Which brought them to focus on the right thing which one example picture is themselves as founders flying to New York to take better photos of apartments of their early hosts. They were not going there to take quick photos and come back. They were really listening to their hosts, they were living through empathy. They were celebrating life values that could be exposed all the way to the listing of apartments. I will tell you what this means. Once when visiting the profile of an apartment from the city of Sao Carlos in Brazil, I was scared to see a photo of the dirtiest kitchen ever as the cover photo. It took me two seconds to understand how these students were honest. When that early Airbnb team took that message, do things that don't scale, they took it in a way which perhaps even scared their advisors. They took it to the next level. Paul Graham were likely surprised by Brian's movement. Paul Graham grew and learned. 
+
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Impact - Check quote from Blitzscaling Reid and Brian' interview where he is honest that he had learned with Brian. @meta-refid 1222-3332-9993-3333 
+--> 
+
+Just like Reid Hoffman who told us [^footnote_blitzscaling_reid_learning_with_brian] that he learned with Brian. This is building of a strong alliance. This is listening, which brings us to another given moment of Airbnb's history where, again, alliances were growing through values. At a point in Airbnb's history two brothers had decided to copy Airbnb idea, to do it better. And these two were good and already experts in doing that. They did it and the message was already clear and given to Brian. If they do with your idea, it is over. When Brian called his alliances to understand the situation amid the facts, the odds of a place they didn't know what to do, it appears again Paul Graham, which again gave to them an even better advice, "You are missionaries, they are mercenaries. You should basically just pretend like they had this baby, but they don't wanna raise the baby." And Brian had listened to that, and through that he again had understood values: 
+
+[^footnote_blitzscaling_reid_learning_with_brian]: Marcio, pick the moment from the Blitzscalingn lecture where Reid honestly revels that he learned with Brian. 
+
+> *"And so I thought, well we're founders. We wanna grow this company. So I'm like a parent and I want this child to grow into this wonderful company. And so I said... Well, I didn't say this to Oliver Samwer, but my view was, my biggest punishment, my biggest revenge on you is, I'm gonna make you run this company long term. So you had the baby, now you gotta raise the child. And you're stuck with it for 18 years. 'Cause I knew he wanted to sell the company, I'm like, "No, no. You're running this company." And I knew he maybe could move faster than me for a year, but he wasn't gonna keep doing it. And so that was our strategy. And we built company long term. And the ultimate way we won is, we had a better community. He couldn't understand community."* Brian (Greylock, 2015, 1:6:00)
+
+So through values they kept on building their strongest value. And through their product they were able to let their community do that as well. In other words, the community were too growing with them. For me, a major lesson to be taken from the story of Harriet and the story of Brian has to do with the lessons being taken from the generals of the past and the advisors of Brian's day. And this, again, take us to deconstruct that premisse, of destiny: Is it that they were essentially following through or were these soldiers or the community charging themselves with creativity being unblocked by fears and launching themselves? Who shall we blame?
 
 
 
