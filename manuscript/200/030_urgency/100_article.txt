@@ -9,7 +9,7 @@
 
 # Feedback of urgency
 
-At any time, a sense of urgency can take the attention of the startup team; which is generally not too bad, as to work in what is urgent comes with a direction, even if it is so to maintain some equilibrium, to sustain a value. But it is also the case that teams - under the consideration of their future - can be concerned that focusing on what is urgent could can put the future at risk. Let us reflect about the things that changes, as the startup advances, and how feedback interferes with how the team prioritizes their activities, such as to get stuck with urgent and non-important activites. 
+At any time, a sense of urgency can take the attention of the startup team; which is generally not too bad, as to work in what is urgent comes with a direction, even if it is so to maintain some equilibrium, to sustain a value. But it is also the case that teams - under the consideration of their future - can be concerned that focusing on what is urgent could can put the future at risk. Let us reflect about the things that changes as the start-up advances and specifically consider how we read feedback interferes with the prioritization of our activities, taking us to do it, sure, but too to get stuck or unable to see values of other activities which could be important.
 
 It comes a day when the team is concerned that some important work is not being done as the team is too busy. This discussion can be explored using the Eisenhower matrix [^footnote_matrix_important_vs_urgent], where the urgent axis intersects with the important axis, resulting in four quadrants: urgent and important, urgent and non-important, non-urgent but important, and non-urgent non-important. Should this matrix appear or not, the core of the discussion has to do with questions such as "why the urgent work is really urgent?" or "why we aren't we working more on the other things that could change our situation to better?" 
 
@@ -42,6 +42,10 @@ The first analysis that follows the temporal analysis that naturally rises, the 
 
 Another exercise of reflection, which also follows we will be recognizing success as an allocation of resources which is urgent, thus the means that we make urgent to be urgent, the reflection that feedback systems are present, and the critic or measurment system that makes things appears as critical. As much as attempting to talk about the future seems arbitrary, or a risky idea, even more risky is the actual fact that pushes many to do the things as urgent completely driven by a critic that sets them in the actual not have perspectives, such as driven by values, by principles, and undeniably deniying important things, and raising the bar too much for what is impotarnt, as in lacking compassion. 
 --> 
+
+
+
+
 
 
 
@@ -92,12 +96,15 @@ As an aside, this accounting and management around rising problems, or a managem
 
 
 
+
+
+
 <!--
 @meta @outline
 * outline - Answer - k1.1 - New present is formed? Parallel reality from the past expectation. 
+### The formation of a parallel reality 
 --> 
 
-### The formation of a parallel reality 
 
 
 
@@ -145,12 +152,20 @@ Now, from a mature managerial pespective, all of this makes sense, doesn't it? T
 
 
 
+
+
+
+
+
 <!--
 @meta @outline
 * outline - Answer - k1.3 - The business of forecasting indeed solves the puzzle 
+### Our future is whatever we make it 
 --> 
 
-### Our future is whatever we make it 
+
+
+
 
 
 
@@ -263,6 +278,9 @@ With that said, what is configured now is a setting that a team yet sticks with 
 
 
 
+
+
+
 <!--
 @meta @outline
 * outline - Answer - k2 - Escavating beyond political affairs, searching values   
@@ -290,12 +308,16 @@ With that said, let us explore how we value feedback that grows from the entrepr
 
 
 
+
+
+
+
 <!--
 @meta @outline
 * outline - Answer -          \___ Valuation of feedback - early stages challenges and transitioning 
+### Early valuation of feedback 
 --> 
 
-### Early valuation of feedback 
 
 
 
@@ -307,9 +329,29 @@ Thus the real challenge if we return to the entrepreneurial situation that is co
 
 Now, to recap our trajectory, it is fair to assume a situation of a team that justifies their urgencies with a current feedback system that is outstanding. Thus what makes urgent to be urgent seems quite strong, although it can be subjective. In addition our assumed situation and concern is of a situation of saturation that may go all the way to maintain a objective aversion to any new idea, or to set clear demands searching for objective assurances, for anything that challenges the estability of what is urgent. In other words, the paradox lies if we envision the extremmes: how easy it is to get approved activites that seem to support urgent vs. how difficult it is to get approved new important non-urgent category. 
 
-Now, and before the reflection that follows, we have to celebrate feedback in the first place. Let us do it. We need to embrace the natural gift of our human operating system and our evolution. This is the thing that we use to monitor what happens, to feel what happens, the thing that help us to improve the narratives of our lives. In other words, we should acknowledge that we don't get into the affairs of monitoring the things we monitor for the sake of being in the same place, static. If we do it it is because we are driven by values or that we use values as reference points so that we can climb up the pyramid of life. In the end of the day, the end has a sort of good intention since we just generally want to be safe so that we can mess up with risky activities that may provide reward - all of that to take place before we mess up with transcendence, growth, success, happiness, and the like. 
 
-Thus, if we were programmed to value valuable things, we do so that we can continue to invest. Like good friends, we value, we keep them around, and with them around, we hope to feel in better condition to move on and improve our lives. And to tease us in what is ahead, as you well expect, it needless to elaborate much that we do pick the wrong kind of friends for feedback under conditions where we don't have a wider view, a mature view. Therefore, an exploration of navigating feedback with family is friends is first given for the sake of our reflection on how feedback shows strong ties with values and the logic we use to navigate growth, a logic that sometimes misses the view from above. Then, we move on advancing with other situations of growth of teams, establishing a perspective for how the presence of vibrant feeback, in the sense of present, becomes valuated by teams in the face of perceived present values that are assumed to be values that enables further growth. All these reflections are here so that we can gain a point of view, in perspective, about how strong we give value to feedback, and possible misinterpretations such as how we allow a strong feedback to transcend and set signals out of the our radar, that either lies or are strong enough to not even allow us to seek to see through, to transcend, to reflect and interpret the real values we seen, then to life potential activities that can be more strategic. 
+
+
+
+
+
+
+Now, and before the reflection that follows, we have to celebrate feedback in the first place. Let us do it. We need to embrace the natural gift of our human operating system and our evolution. This is the thing that we use to monitor what happens, to feel what happens, the thing that help us to improve the narratives of our lives. In other words, we should acknowledge that we don't get into the affairs of monitoring the things we monitor for the sake of being in the same place, static. If we do it it is because we are driven by values or that we use values as reference points so that we can climb up the pyramid of life. In the end of the day, the end has a sort of good intention since we just generally want to be safe so that we can mess up with risky activities that may provide reward - all of that to take place before we mess up with transcendence, growth, success, happiness, and the like. Thus, if we were programmed to value valuable things, we do so that we can continue to invest. Like good friends, we value, we keep them around, and with them around, we hope to feel in better condition to move on and improve our lives. And to tease us in what is ahead, as you well expect, it needless to elaborate much that we do pick the wrong kind of friends for feedback under conditions where we don't have a wider view, a mature view. 
+
+
+
+
+
+
+
+
+Therefore, an exploration of navigating feedback with family is friends is first given for the sake of our reflection on how feedback shows strong ties with values and the logic we use to navigate growth, a logic that sometimes misses the view from above. Then, we move on advancing with other situations of growth of teams, establishing a perspective for how the presence of vibrant feeback, in the sense of present, becomes valuated by teams in the face of perceived present values that are assumed to be values that enables further growth. All these reflections are here so that we can gain a point of view, in perspective, about how strong we give value to feedback, and possible misinterpretations such as how we allow a strong feedback to transcend and set signals out of the our radar, that either lies or are strong enough to not even allow us to seek to see through, to transcend, to reflect and interpret the real values we seen, then to life potential activities that can be more strategic. 
+
+
+
+
+
+
 
 
 
@@ -317,15 +359,17 @@ Thus, if we were programmed to value valuable things, we do so that we can conti
 <!--
 @meta @outline
 * outline - Answer - k2.1.1        \____ Feedback and values in the friends and family situation.   
+#### The values through amateur feedback, family 
 --> 
 
-#### The values through amateur feedback 
 
 
 
 
 
-Let us start with a phenomenon where entrepreneurs seek feedback from family and friends. Although it may not directly explain how teams use feedback to define what is urgent, or what they should do, it is a good starting point for the reflection about how feedback has ties with values. 
+
+
+Let us start to look at the phenomenon where entrepreneurs seek feedback starting from family and friends. Although this does not fully explain how they use feedback to prioritize the urgent, and with that what they do. This is a good starting point to check about the rise of feedback systems tied with values.
 
 It is quite common, as entrepreneurs and teams begin their efforts, to exist interactions of seeking feedback from close networks such as seeking feedback from family and friends. It could be that, by doing so, a team is actually exercising navigating by feedback more than actually trying to pull precise truths such as if they are on the right track. But being for one or another reason, it is real that it happens such as in the beginnings where they are more lonely [^footnote_sam_altman_entrepreneurs_lonely], when local network inteaction happens to characterize them trying to reach higher networks of support that supports growth. 
 
@@ -406,20 +450,20 @@ With that said, we do also have to acknowledge that the movement ahead will just
 <!--
 @meta @outline
 * outline - Answer -                \____ Feedback and values first customers and juvenily    
+#### Transitions 
 --> 
 
-#### Transitions 
 
 
 
 
 
 
-Still, if the analysis is intended to move away from the experienced situation of a higher degree of subjectiveness, such as given by the prior section, yet we should be concerned that there is always a degree of subjectiveness that appears to be objective or quite strong exactly because the nature of values changes the move we navigate towards growth and maturity. In other words, we do find mature personalities, or strongser views, which are intended to help us to grow. 
+Still, if the analysis is intended to move away from the situation of a higher degree of variability of objective feedback, we should be concerned about the degree of subjectiveness that gets translated as objective assumptions, which gets to be strong under circumstances of the reinterpretation of values through the stages of growth and maturity. 
 
 Now imagine an experienced and successful psychologist who uses a time machine to visit herself fifteen years ago, on the first day a client was late. Today, her clients are rarely late, as they are, let's say, well-trained. But as she went back, the she of the present is astonished to see that her past self had greeted that late client with a big smile and even a hug. She thinks now, "Wow, did I use to hug my patients?" Indeed, she seemed to have celebrated their late arrival, as in reassuring to a friend that everything was okay, as if they were brothers. It is now clear that the psychologist from the past was happy, as if she was supporting the client's tardiness, not for the sake of being late, but as a sort of ethical protocol of compassion.
 
-Moving forward after looking back, she wonders if she wanted to look nice, as in if that behavior was a form of protection linked her insecurities as she feared to lose the client. She also remembers the context, when she had five patients, when she was quite happy to have five patients. That plus the fact that she was genuinely helping that late person, that she cared about them. Today, she has 50 patients and most of them are on time, as she knows that allowing them to attend their sessions late bring problems for themselves and also for her entire work situation. In other words, she's seems to be more conscious about her whole business, which goes with a degree of confusion because, one the other hand, she still feels a bit sad that she now makes tough decision such as to give up on patients that don't show up consecutively.
+Moving forward after looking back, she wonders if she wanted to look nice, as in if that behavior was a form of protection linked her insecurities as she feared to lose the client. She also remembers the context, when she had five patients, when she was quite happy to have five patients. That plus the fact that she was genuinely helping that late person, that she cared about them. Today, she has 50 patients and most of them are on time, as she knows that allowing them to attend their sessions late bring problems for themselves and also for her entire work situation. In other words, she's seems to be more conscious about her whole business. 
 
 The passage might shows the complex situations that professionals face. As they advance in maturity through the entrepreneurial path of growth, their value systems also shifts such as from the values they held to - as trained as specialists such as the case of a psychologist - now embracing entrepreneurial values or generalist values to hold the organization standing. In other words, the psychologist of the past had strong beliefs that the core element of her practice, to which the possibility of growth would happen, heavily lied in the doing good, to be compassionate. This idea could even push further the professional to take longer to see the growth problems of the same behaviors or to - as indicated in the introduction - to move on with these values and then face eventually the sum of problems and to see them as "good problems to have." 
 
@@ -432,9 +476,9 @@ As a side note, in this area, it seems to me that many doctors actually do not f
 <!--
 @meta @outline
 * outline - Answer -                   \____ Feedback and values first customers and juvenily    
+##### Transcending using values towards vision 
 --> 
 
-##### Transcending using values towards vision 
 
 
 
@@ -471,16 +515,21 @@ It implies that you can create solutions and many of them can even become simple
 * @cross - In Impact - Conscious Business
 -->
 
-Consider the complex situation that people can get into as they are going through these layers which according to Reid Hoffman are part of the situation where "the game changes" or that "what got you here is not all to get you there." More specific tuning to Reid's through, what happens is that in this phase we go from doers to become managers of ourselves and managers of doer. In this context, Reid illustrates a situation and a takeway that he had learned from Fred Kofmann in Conscious Business. When asked about the classic mistakes of entrepreneurs by Chase Jarvis (ChaseJarvis, 2017) Reid had brought the problem of transitions in leadership, and the key takeway he had learned from Fred Kofman in *Conscious Business* [^footnote_fred_kofman_conscious_business] pointing that compassion is a way to help people understand these transitions and to access a mature viewpoint that considers the new layers or the whole organization: 
+
+
+What she went through, her analysis in retrospect, essentially involved her reflections about herself transitioning her behaviors, transitioning her activities, transitioning her communications or processes, given the new  perspectives that she acquired. In other words, she found ways that could truly move her enterprise goals in more healthy ways, yet and more effectively supporting the underlying values that she had. Or, we may say that she ended up editing her value-based feedback system, or editing her radar that monitors the health of the whole situation. 
+
+This essentially connects with what we have seen in our prior chapter entitled *Impact*, when we considered ideas from from Fred Kofman [^footnote_fred_kofman_conscious_business] from *Conscious Business* highlighted by Reid Hoffman and Chase Jarvis (ChaseJarvis, 2017) where they used an example of a new perspective of compassion which were brought to reconciliate a healthier condition of a hospital - in the case a justification to fire a doctor - which involved doing good across the wider layers - for patients, for the doctor, and for the whole system. 
 
 [^footnote_fred_kofman_conscious_business]: Fred Kofman, a renowned thought leader in the fields of leadership and organizational development, advocates in Conscious Business (2006), for the approach that involves moving beyond the confines of self-interest and immediate team objectives, towards accessing higher layers of awareness about values where the collective purpose is considered. 
 
 <!-- 
 @meta @references 
 * reference - Kofman, F. (2006). Conscious business: How to build value through values. Boulder, CO.
---> 
 
 > *"Fred makes this awesome and very important point in the book, which is, if you think of compassion, like, for example, doctors working on patients. And you say, 'Well, this doctor is not doing the job well.' Well, when you actually get them out of the building, you're actually being hugely compassionate to patients."* (ChaseJarvis, 2017, 50:14)
+--> 
+
 
 
 <!-- 
@@ -493,7 +542,16 @@ Consider the complex situation that people can get into as they are going throug
 * reference - Hoffman, R. (2017, August 30). *Reid Hoffman: Build A World-Changing Business | Chase Jarvis LIVE* [Video]. YouTube. https://www.youtube.com/watch?v=ka--XKeI-o8
 --> 
 
-The point and illustration from Reid help us to return and understand the difficulties of the professional that is having issues with a coworker-friend but struggles to transcend the friendship such as to engage and the possibility that firing her friend actually means doing good. In other words, the possibility of supporting the friend gets in the way because of the priour views and values that are outstanding. This situation also set us to see that these might be lagging values under the rising opportunity of the organization in the future. This also is not far from the prior situation of the entrepreneur that struggles with the mom's response. It's just that the mom's concerns are transcending back to the core element of keeping her child alive and well which depends on the establishment of securities first before any risk with ideas like "make sure your job has health insurance," as Brian has pointed out.  
+They didn't only celebrate the view but acknowledged as a classic mistake of entrepreneurs, and contextualized it as the problem of transitions. The point from Reid help us to return and understand the difficulties of the professional that is having issues with a coworker-friend but struggles to transcend the friendship such as to engage and the possibility that firing her friend actually means doing good. In other words, the possibility of supporting the friend gets in the way because of the priour views and values that are outstanding. 
+
+But looking at these situations, the past and the future, we can too recognize that those lagging indicators - the radar as currently definned - which are indeed setting the future of the organization in risk, are actually tied not only to lack of clarity but also due to excess of clarity and valuation of the current tools and methods given. With this, it becomes difficult to transcend, interpret, and try to create ways for a new future to pave the way for improvements; that to break the current assumptions involves breaking through the wall of protection - where the bricks appears to be arguments, data and where the foundation is supported by values. When that psychologist faced the challenge of "at this moment, I can't do that to my patient," she essentially could not break the wall as her level of compassion with saving the patients were stronger to a point she didn't see that she were failing with the whole organization, her clinic, her business, her role as a leader. 
+
+
+
+
+
+
+
 
 Thus, we are all essentially trying to first to understand and then to consider breaking the value-based assumptions, which likely supports the arguments of the parties involved, in the face of openning up and developing the Conscious Business (2006) where other layers can be acessed, where impact of the whole system can be checked by checking the views from the many constituents and systems involved. 
 
@@ -502,7 +560,6 @@ Thus, we are all essentially trying to first to understand and then to consider 
 * @todo - p2 (Done) - In The Feedback of Urgency - Check Fred Koffman foonote and APA reference for book COnscious Business - @meta-refid 7686-8475-6464-8383 
 --> 
 
-With this, it becomes difficult to transcend, interpret, and try to create ways for a new future to pave the way for improvements; that to break the current assumptions involves breaking through the wall of protection - where the bricks appears to be arguments, data and where the foundation is supported by values. When that psychologist faced the challenge of "at this moment, I can't do that to my patient," she essentially could not break the wall as her level of compassion with saving the patients were stronger to a point she didn't see that she were failing with the whole organization, her clinic, her business, her role as a leader. 
 
 
 
@@ -514,9 +571,9 @@ With this, it becomes difficult to transcend, interpret, and try to create ways 
 <!--
 @meta @outline
 * outline - Answer -          \___ Valuation of feedback - maturity challenges  
+### The valuation of feedback through growth  
 --> 
 
-### The valuation of feedback through growth  
 
 
 
@@ -536,9 +593,9 @@ Thus, to break that wall will be certain be difficult. And likewise more walls a
 <!--
 @meta @outline
 * outline - Answer -                \___ The feeback traps with experts representativeness 
+#### Towards growth and the risks of representativeness 
 --> 
 
-#### Towards growth and the risks of representativeness 
 
 
 
