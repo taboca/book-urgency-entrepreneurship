@@ -5,7 +5,7 @@
 ## Outstanding 
 
 * (WAITING) #OKR - Thiago Christoph - IamFounder. Refs 423098490238490-2/6/24, 45390254902385908-1/31/24 
-* (WAITING) #pitch - Chris Hoffman - of Mozilla. Refs 6464-7565-7676-8888, prior 7747-7575-9898-9399
+* (WAITING) #pitch* - Chris Hoffman - of Mozilla. Refs 6464-7565-7676-8888, prior 7747-7575-9898-9399
 * (WAITING) #Communications - Barbara Minto, and Adrian @meta-refids 7676-8585-9823-1200, 6575-8787-0987-7584
 * (WAITING) #OKR  - Andre to give another review Ref https://mail.google.com/mail/u/0/#inbox/QgrcJHsbcVCVdjlpqTFRVtvfFhtBPvFSBHg 
 
@@ -13,6 +13,8 @@
 * (ACCEPTED, WAITING, physical letter) - [ ] Pick selection, Armand Neto @ @meta-refid 1212-7765-4989-9898 
 * (ACCEPTED, WAITING, physical letter) - [ ] Environment?, Andre Figueiredo @ be2e55e7-3d3d-4caa-9a8e-b37d5023f924 [Done, Feedback of Urgency?]
 * (ACCEPTED, WAITING, physical letter) - [ ] #OKR, Thiago Christoph @ 423098490238490-2/6/24, 45390254902385908-1/31/24 
+
+* (WAITING, ACCEPTED) José Maurício - [ ] Conversation via Whatsapp, accepted to read some arbitrary piece. @meta-refid 1212-2333-9393-99494
 
 ## Chapter - Letter of introduction 
 
@@ -70,6 +72,15 @@
 
 * Ted - https://mail.google.com/mail/u/0/#inbox/QgrcJHsBtPszjcdSZGMtPVbJdtZbDRNjSrq 
 * Andre - https://mail.google.com/mail/u/0/#inbox/QgrcJHsbcVCVdjlpqTFRVtvfFhtBPvFSBHg
+
+
+## ----------------------------------------------------------
+## José Maurício Boni 
+
+* (WAITING, ACCEPTED) José Maurício - [ ] Conversation via Whatsapp, accepted to read some arbitrary piece. @meta-refid 1212-2333-9393-99494
+* Context - Boni didn't like popular books from Brazil like Cury and others and loved some special books like Dune. 
+* Via whatsapp 
+
 
 ## -----------------------------------------------------------------------
 ## Reading - Chapter Environment - [Slow Down to Start-up] Reading by Andre for chapter Environment / ## Reviewing - Follow up with Andre Figueiredo be2e55e7-3d3d-4caa-9a8e-b37d5023f924'

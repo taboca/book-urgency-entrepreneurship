@@ -1,5 +1,10 @@
 # Introduction #
 
+<!--
+@meta @Todo
+* p2 ( ) - In introduction - Should growth - as defined by Paul Graham - be indicated as a pressure of the startup setting? Ref "[^editornote_paulgraham_growth]: Paul Graham covers both the aspect that startups are for a growth situation but also covers that founders follow instincs such as a willingness to play the game. The through of sorrow of Paul Graham also depicts that startups force their status as political, projections, leading to falling in their own traps, such as to be sad that their projections were not real." / ref 829482-2948492-429084928-429884922
+--> 
+
 <!-- 
 
 * pt-br for intro leading for Vanessa's review - https://docs.google.com/document/d/1sTIs2S5betG4cnDFLIMl4pX9DmjlQfw_Ktd4XVUetZk/edit

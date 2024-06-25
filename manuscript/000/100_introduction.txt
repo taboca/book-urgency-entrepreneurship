@@ -1,34 +1,84 @@
+
 # Introduction #
 
 <!-- 
 @meta @Outline
-* outline - 
+* outline - introduction, pitch - Slow down sounds complex but speed up sounds good, generally, of course.
 --> 
 
-<!-- 
-@meta @Outline
-* outline - introduction - #Pitch - Slow down sounds complex but speed up sounds good, generally.
---> 
 
 When an incidental voice says "let's slow down!" in a modern workplace it doesn't sound good. It may quickly prompt another to "hold your horses!" If they pause, doing so briefly, they wonder "what is it now that we need to stop doing what we are doing?" On the other hand, the "let's speed up!" or the modern version, the "keep craking," appeals as a sign of support. They are in the right direction. It sonds coherent. It goes with let's close the gap, we are getting there earlier, it sells more, we deliver faster, we are the first, we are the king, and more. 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- 
 @meta @Outline
-* outline - introduction - #Situation of fun to work, hetic, "perks" support a fast-paced culture.  
+* outline - introduction, situation - of fun to work, hetic, "perks" support a fast-paced culture.  
 --> 
 
 Now more realistically, we said good bye to the "let's speed up!" and perhaps even the "let's keep cranking!" office space. The new pace is the "it's fun to work". It may look like an amuzement park, although what was once a dinossaur made of beverage cans is now a digital mascot and it's alive. Yet the remote workers are all digitally accounting their phisical intake of sodas and they celebrate their monumental yet-to-be-completed bridge made of soda cans of their multiverse projection. In this culture, there are beasts to be defeated, as opposed to the calmer and boring  space of work. If one even thinks about bringing up a complication with the team's strategy, an invisible but pragmatic hand increases the fader of "let's speed up folks" while the channel of "things aren't right" is silenced. It's a music remixed in a way that does justice to effort, to rithm, and fast-paced cadence first. But then when things really go wrong, an automatic course-correction response appears in the form of "folks, we didn't do well. Or, well enough. Well, we did great, although we can do more." Therefore, as more of the same action hits the fan, the spirits get back on track with the chorus of "let's not lose the momentum!" In the background, an unofficial and solitary track appears as "life finds a way" but no one heard anyway. But as long as there is life in this park, the adventure won't stop. A sign in the lobby reads "When Dinousaurs Ruled the Earth," reaffirms that humans are in control even when all seems to be chaotic. And if anyone insists in taking too seriously - to pause the party and claim that management is acting weird - the actual physical hallways brings back the colorfulness and the incidental soft drink dispenser and premium quality ice cream which make us all remember the charismatic investor who spared no expense. which reaffirms the "it's fun to work" place which is not to be taken too serious which supports the let's get back on track. 
 
+
+
+
+
+
+
+
+
+
 <!-- 
 @meta @Outline
-* outline - introduction - #Situation The normality erases the "wait" and auguments the movement.
+* outline - introduction, situation - Erases the whiner, management chimes in, erases the "wait"
 --> 
 
 Try to cry for a breath, you will get an "eyes of tiger!" Try to spark distress and you earn a 'whiner' flair on your jacket. But a flair not too big, not too offensive, quite colored and fun; and enough to silence your "whinning call" but not enough to lose you as a warrior. In other words, when the crew speaks that too many man and too many people are making too many problems, a critical manager is right there, pronto, and offers a helping hand that pours enough rain on the parade but not enough to cloud the horizon and the rainbow. In other words, the corporate setting carries the duty to maintain the equilibrium, keep serving the spirits, and to ensure that flow is incessant. 
 
+
+
+
+
+
+
+
+
+<!-- 
+@meta @Outline
+* outline - introduction, situation - Back to normality, improve the mood back, into high traction. 
+--> 
+
 If this high-speed train were real, it treats human resources like coal. In an extremme, this language promotes a culture of "we can't waste time," or "waste is not an option," but in doing so it makes the work place to become wasteful in its essence. But not in the surface, unfortunatelly, as it is perceived and promoted as an express - a highly performant train that incessantly arrives at the next station, no matter how turbulent was the ride. It can be difficult to stop our brains to read the underlying nature of this fast-moving train; because we happened to be dropped from the air after an "if you chose to accept this mission". And indeed, when the train seems to rest in a station, its crew quickly enters the celebration mode as opposed to get into the boring, reflective, never-ending, frustrating, and painful analysis of a post-mortem nature. On the contrary, the resting at the stations coherently speaks that "if we've exerted so much energy, and given that some of us have been lost along the way, let's just go ahead and have a moment of silence, let's just go ahead and respect our efforts, our soldiers, our resources." That call is enough to take our attention away from the reflection, and any spark for a revolution. Now it is the time for our moods to be energized, again, so the people joins with the lambs and sloths and carps and anchovies and orangutans, and breakast cereal, and fruits and bats, and of course the guacamole plus all of that goes well with the option to return home a couple hours early. Moreover, if everyone suddenly are the heroes of such an effort, it is then plausibly required a promotion which happens to go for the ones who stood for them, the ones that did the magic to supress any revolt, the ones that kept pouring the spirits high, the ones that kept the momentum going, that the fire burning. 
 
-But in perspective, if any of that language of action exists, it might do so as a result of an passive-aggressive work environment that favors a situation that leans heavily on extracting effort from humans. Althought guacamole could be evidently present [^footnote_guacamole_traning] in some of the best working places, it is arguably unfair to celebrate the exagerations given by these illustrations such as the implied idea that an action-oriented style of management, as opposed to real management, is the main beast we should fear. But the truth that I am after - throughout my attempt to turn what appears to be fun into bitterness - lies in considering the dangers of our inclination, as humans, to rather grab the wheel and pursue the end no matter the means. Not a truth sought by the modern worker that operates  a mechanical equipment that put the life of their colleagues at risk, but in the sense of an entrepreneur that enters into entrepreneurship as if it is a car and suddently focuses on the road ahead, and feels that the equipment is there to accelerate into the destination, and by doing so denies to invest in developing consciousness for its behaviors, such as the management of entrepreneurship. 
+
+
+
+
+
+
+
+
+<!-- 
+@meta @Outline
+* outline - introduction, complication - An abstraction, a question, a provocation: Can this be a passive-aggressive managerial system? If I turn fun -> bitter, conclusion is bad management? All is wrong or just wrong if we take the wheel to use this translate into entrepreneurial action?
+--> 
+
+But in perspective, if any of that language of action exists, it might do so as a result of an passive-aggressive work environment that favors a situation that leans heavily on extracting effort from humans. Althought guacamole could be evidently present [^footnote_guacamole_traning] in some of the best working places, it is arguably unfair to celebrate the exagerations given by these illustrations such as the implied idea that an action-oriented style of management, as opposed to real management, is the main beast we should fear. But the truth that I am after - throughout my attempt to turn what appears to be fun into bitterness - lies in considering the dangers of our inclination, as humans, to when we turn to become entrepreneurs and grab the wheel. When we operate the early stage with the same kinds of movements of the accelerated or productive world as we know it, as in to pursue the end no matter the means. Not a truth sought by the modern worker that operates  a mechanical equipment that put the life of their colleagues at risk, but in the sense of an entrepreneur that enters into entrepreneurship as if it is a car and suddently focuses on the road ahead, and feels that the equipment is there to accelerate into the destination, and by doing so denies to invest in developing consciousness for its behaviors, such as the management of entrepreneurship. 
 
 [^footnote_guacamole_traning]: In the 2018 ASU GSV Summit during the Main Stage Panel titled "The Future of Talent -- Transcending Work," Rob Biederman, Co-Founder and CEO of Catalant Technologies, highlighted an intriguing aspect of corporate spending priorities. He pointed out that a large company which likely the audience were shareholders, allocates less budget per employee on training than his own startup spends on avocados. This remark emphasizes the disparity in investment priorities, particularly in training and education, compared to seemingly trivial expenses like avocados (Global Silicon Valley, 2018) expect that it may not be trivial in the sense of keeping the train moving as it is. 
 
@@ -36,6 +86,13 @@ But in perspective, if any of that language of action exists, it might do so as 
 @meta @references 
 * reference - Global Silicon Valley. (2018, April 28). ASU GSV Summit: Main Stage Panel: The Future of Talent -- Transcending Work [Video]. YouTube. https://www.youtube.com/watch?v=GFKgJ4wkxQU&t=345s
 --> 
+
+
+
+
+
+
+
 
 <!-- 
 @meta @Outline
@@ -51,22 +108,60 @@ Therefore, I rather pull the hand brake and invite us to take another turn, and 
 
 To put in perspective, in the light of our strategy throught the book, the recognition of that language of action - particularly illustrated in the corporate sphere - is a starting point so that we can consider who we are, or who we are likely to become, when we are willing to thrive, to achieve, to beat the competition, to win, to survive, you name it. As an example, consider that our propensity to drive by key results, such as seeking key results connected with outcomes, rises from the individual which makes it synergentically projected in the collaborative situations of work. In the same perspective, it isn't a higher-order force, such as the above layers of management of a given organization, that brought us to where we are, such as to when we behave as urgent beings. In fact, we brought ourselves there as our success made a new world that we are into - the world of abundance of tools, resources, information, and the hyper-fast potential of a network. 
 
-<!-- 
+
+<!--
 @meta @Outline
-* outline - introduction - #Complication - #Situation from Complication of system, data and systems 
+* outline - introduction - #Complication -Jump to conclusions, if we translate it. 
+
+* You are in it, from the corporate. 
+* You are in it, from the educational system. 
+* You are in it, essentially from growing. 
+
 --> 
 
 And this situation, which is undeniably good, actually sets a challenge ahead of entrepreneurs, such as if you consider that an arbitrary entrepreneur might not see an inferno ahead, a so clear reason to free the world, and more importantly to the context of our book, so clear reason to execute entrepreneurship differently. In other words, if we are running along, or rolling, in the pace of the corporate sphere, anb in the pace of the urgent and networked world, we may have no reasons to break through, to think through, to break the norm, to break the speed, to break automatic responses, and so on. And this becomes a major complication for us, entrepreneurs or anyone that cares about them, and anyone who cares about humanity, because the environment of our success gives the means, such as an inclusive, or easy, or cheap, or acessible, of supporting an arbitraty entrepreneur such as one in a hurry, to just jump into actions, as if they had a "Jump to Conclusions Mat" where they can jump to. 
+
+
+
+
+
+
+
+
+
+
+<!-- 
+@meta @Outline
+* outline - introduction, general answer strategy - 
+--> 
+
+
+Where we are going we don't need roads? 
 
 Thus the focus area in our book comes down to reflecting on this accelerated pace that entrepreneurs might fit and how it impacts everything precisely at in the moment that we need energy, like willpower, and good ideas, and the right conditions to move on and achieve growth as individuals and for our organizations. What stands before us is the prioritization of the startup foundation, in the opposed direction where the end justifies the means. As we delve into the slowing down the fast-paced situation of entrepreneurship, we also touch on the age-old problem of navigation, the map of the story, the how to walk the story, more than a problem of speed. Andy Grove, in the book "High Output Management," reminds us of an old saying that if you don't know where you're going, any path will take you there [^editornote_andy_anyroad]. 
 
 [^editornote_andy_anyroad]: This saying, according to Andy Grove, is an indian saying. Others say it's from elsewhere. But if Andy brought to his book, it is a saying necessary to acknowledge; just like Peter Drucker, as cited in the foreword, has reminded us that the balance between activities is connected to the organization of organization. 
 
-<!--
-Another aspect of how we experience - Data and information 
+Beyond what seems to be a narrative pushing for accelerated effort, the fast-paced mode of execution has also infiltrated the context of management analysis and planning. Things have not sped up simply because people are running more, working more intensively, or because managers coordinate the frantic pace because they enjoy it. The fast mode is supported by functions, or resources, that are “ready” and available at hand. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 
+@meta @Outline
+* outline - introduction, answer 1 - situation of data and information improving - feat. Peter Drucker of data  
 --> 
 
-Beyond what seems to be a narrative pushing for accelerated effort, the fast-paced mode of execution has also infiltrated the context of management analysis and planning. Things have not sped up simply because people are running more, working more intensively, or because managers coordinate the frantic pace because they enjoy it. The fast mode is supported by functions, or resources, that are “ready” and available at hand. 
 
 In the modern reality of the knowledge worker, data have come to be used as tools, as mechanisms to accelerate decisions. The former CEO of Intel, Andy Grove, in "Arguing with Data," warned [^grovefastdata] readers that large companies are indoctrinated by contemporary management, suggesting that people should argue their debates with data already in hand (GROVEDATA, p.116).
 
@@ -78,16 +173,8 @@ In the modern reality of the knowledge worker, data have come to be used as tool
 [^grovefastdata]: In Andy Grove's book, "Only the Paranoid Survive," the quoted phrase in English reads, “Contemporary management doctrine suggests that you should approach any debate and argument with data in hand. It’s good advice. All too often, people substitute opinions for facts and emotions for analysis.” The warning applies to what he termed a "Strategic Inflection Point," situations so adverse and unexpected that they befuddle companies. Intel survived crises of this magnitude and later also became a leading player. In these situations, the anticipatory data can be misleading.
 
 <!--
-
-## editorial and writing insight - growing abstration 
-
-Following advice from William Zinsser, we then contextualize a higher abstracted degree, giving value to the specifics above. 
-
---> 
-
-<!-- 
-@meta @Outline
-* outline - introduction - #Complication - Supporting abstraction point on abundance - feat. Peter Drucker of data  
+@note @editor
+* Improving abstraction level - We are trying to follow an advice from William Zinsser, we then contextualize a higher abstraction thought, giving value to the specifics above. 
 --> 
 
 In Technology, Management, and Society, Peter Drucker has contextualized that the situation of information abundance does impact effective communications which was stressed as the kind of communication where the receiver effectively understand and collaborates, as opposed to passively accept the message: 
@@ -102,66 +189,116 @@ In Technology, Management, and Society, Peter Drucker has contextualized that th
 
 This form of operating decisions — with data — provokes us to reflect upon what can apparently look like a mechanization of cognition, which runs together with the the pressure of greater efficiency at work. The presence of data becomes concrete, providing people with "good data" which supports good reasons when faced with a decision that needs to be made. Data captivate us, certainly, because they work so well, when they do work.
 
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- 
 @meta @Outline
-* outline - SCqA K1 - #new-situation-complication - All is interactive and iterative, systems, networks, platforms.  
+* outline - introduction, answer 2 - All is interactive and iterative, systems, networks, platforms.  
 --> 
 
-In the interconnected and turbulent world, experts are constantly under pressure to provide "faster" and more modern solutions for things they are already familiar with. Why send individual emails when you can send a million at once? It seems as though all available solutions appear useful and efficient. Additionally, in this chaotic environment, when you seek assistance, it’s not hard to find a multitude of resources available that, in one way or another, say "yes, I can help." These resources are experts in their fields, ready to execute what they know, showcasing their expertise. A programmer who codes faster, an engineer who calculates more quickly. The tools are more automated, and the data, now more readily available, are ready to assist in decision-making. Amidst this immediate availability of models, it’s easy to get swept up in the current—let’s face it—and choose solutions that promise quicker delivery among the options, without reconsidering the strategy of the process itself.
-
-<!-- 
-@meta @Outline
-* outline - SCqA K1 - #Abstraction point that action is not navigation. 
---> 
+In the interconnected and turbulent world, experts are constantly under pressure to provide "faster" and more modern solutions for things they are already familiar with. Why send individual emails when you can send a million at once? It seems as though all available solutions appear useful and efficient. Additionally, in this chaotic environment, when you seek assistance, it’s not hard to find a multitude of resources available that, in one way or another, say "yes, I can help." These resources are experts in their fields, ready to execute what they know, showcasing their expertise. A programmer who codes faster, an engineer who calculates more quickly. The tools are more automated, and they deal with more data, or live data, and are readily available, and it leads to one click decision-making. Amidst this immediate availability of models, it’s easy to get swept up in the current—let’s face it—and choose solutions that promise quicker delivery among the options, without reconsidering the strategy of the process itself.
 
 Being an action in the language, the availability of data, and tools that are now connected with data, an inertial force conveniently asks us to continue on that highly performant execution path - precisely because the external reference point, for navigation, is ignored. In this world, where speed can accelerate any specialty, we are led to believe that we can move even faster, even if we make mistakes or take a detour. Failing faster and learning is a theme that makes sense. 
 
-However, reflection is necessary and important, as getting to the wrong place faster not only means delay but also implies the consumption of energy, resources, willpower, and motivation. Therefore, it can't be said that entrepreneurs will promptly jump into the action, the data, and the tools that support flow decisions; exactly because anyone willing to engage in entrepreneurship is now equipped with stories, methods, and systems that are made for entrepreneurs. Therefore, there is an ecosystem of entrepreneurship available which does cover the theme specialists vs. generalist. 
+However, reflection is necessary and important, as getting to the wrong place faster not only means delay but also implies the consumption of energy, resources, willpower, and motivation. Therefore, it can't be said that entrepreneurs will promptly jump into the action, the data, and the tools that support flow decisions; exactly because anyone willing to engage in entrepreneurship is now equipped with stories, methods, and systems that are made for entrepreneurs. Therefore, there is an ecosystem of entrepreneurship available which does cover the theme specialists vs. generalist. This goes back to Drucker's thought about the excess of information, it only requires more from us. And the solution gone haywire which generally chimes in - likely one to tell you what to go, a plug and play something, a framework for that too. 
+
+
+
+
+
+
+
+
 
 <!-- 
 @meta @Outline
-* outline - SCqA K2 - #Abstraction, with #situation-complication, that generalist is not specialist [feat. Steve Blank]
+* outline - introduction, answer 3 - Comes decision making, lean induction, generalist-specialist [feat. Steve Blank]
 --> 
 
 The renowned Steve Blank has acknowledged and addressed a fundamental issue with startups when he revealed a vision he had in 2014. According to Steve, the precursor idea of the lean movement is that entrepreneurs think their ideas can be materialized as smaller versions of large companies. Steve states that "startups are not smaller versions of large companies," emphasizing the difference between a startup and an established company. He notes that a startup is in the discovery phase, which differs from a large company that has already identified its role in the market and has a validated product. When ideas are not validated, operating as if it were a large company is dangerous and risky since the young company is in the process of discovery and has limited resources for betting. 
 
-By now, much about this subject (not operating as a large company and recognizing the discovery phase) exists in startup literature and is also present in the world of platforms, methodologies, and startup structures. But now a decade later, the lean startup movement, and the whole entrepreneurial ecosystem, grew in size so there literally a sea of solutions to be used by entrepreneurs, that puts them in a position to be harassed by specialized solutions - likely driven by a specialized mindset - which sets them in a cockpit that promises high performance startup development as an option that leads to innovation; which offers "plug-and-play" options from the urgent world, such as the abudant world of lean methodologies, frameworks, platforms of all sorts and supporting systems by too many choices in terms of growingh startups, such as when a team decides to join, in the pressure to advance, a bootcamp, enroll in an incubator, dive into an accelerator, participate in a contest, and other participations with collaboration that promisses potential results that would perhaps sling them into even faster growth. These are situations that promise acceleration and claim to solve the entrepreneur's journey. 
+By now, much about this subject (not operating as a large company and recognizing the discovery phase) exists in startup literature and is also present in the world of platforms, methodologies, and startup structures. But now a decade later us running with the lean startup movement, and the whole entrepreneurial ecosystem, grew in size so there is literally a sea of solutions to be used by entrepreneurs, that puts them in a position to be harassed by specialized solutions - likely driven by a specialized mindset. We are not being called to embrace being specialized generalists. All of this sets us in a high-performance cockpit of startup development where it seems applicable to run on a great high-speed road of innovation. It is all one-click to do, it is all "plug-and-play". It's beautiful.
 
-Although we can't blame abundance, still the reality is that it is a strong idea that leads entrepreneurs to rush into acting as reactive entrepreneurs on instinct, for example, when they scramble to seek solutions that they think are things that startups do. Similarly, entrepreneurs might, in their urgent processes, flee from corporate behavior - or a general cultural machine of interacting and producing - and be drawn to the automatic behavior typical of how startups do. For example, they may become immersed in lean processes, enamored with the processes, promote that they are practicing lean while they are actually procrastinating [^editornote_procrastination_lean]with lean, and much more.
+The key problem is that these are now connected, and lean leads to decision making. They are now essentially subject to being trapped by using lean, claiming to use lean, which is essentially in a business of closing the wrong gap. They enter closing the gap of validation, so they bring equilibrium for advancing as specialists. 
 
-[^editornote_procrastination_lean]: A further chapter shows the interview with Steve Blank where the talking about lean without doing lean appears as a potential phenomenon. 
+Frameworks, platforms, and all sorts and supporting systems - accelerators, incubators, networking and funding platforms, are all part of the richer landscape which also sets them to pass by valid data. When a team decides to join, in the pressure to advance, a bootcamp, enroll in an incubator, dive into an accelerator, participate in a contest, and other participations with collaboration that promisses potential results that would perhaps sling them into even faster growth. These are situations that promise acceleration and claim to solve the entrepreneur's journey. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 
+@meta @Outline
+* outline - introduction, Complication, answer - Generalist decision-making gone haywire 
+--> 
+
+Can we blame abudance of options? No one is being forced, we know. So we can't blame abundance plus too that all good exciting new things are being done by the building blocks given, in a way or another. Still, the reality is that in the rush to act by these productive instincts, they scramble to seek solutions that they think are things that startups do. Similarly, entrepreneurs might, in their urgent processes, flee as followers of a mechanized and known corporate behavior - or a general cultural that grow ups do. It's not even a thin line to miss the point about misusing lean methods, it's generally a straight line to be thirsty for validation (about anything), to be immersed in lean processes at the risk of being enamored with the processes, which can be observation by the self promotion and self satisfaction of being advancing by practicing lean while their actions may be about actually procrastinating using lean. 
 
 <!-- 
 @meta @references
 * reference - Steve Blank @ MAP Unimelb, Published on Mar 13, 2014 [video]. Retrieved from https://www.youtube.com/watch?v=UFx2CQUTpYo
 --> 
 
+
 <!-- 
 @meta @Outline
-* outline - SCqA K2 - #Abstraction point that situation is of being hungry 
+* outline - Introduction, complication - Hungry spirit, enhances the complication. 
 --> 
 
 When we are hungry for the breakfast and in front of the all-you-can-it buffet, with solutions for everything for all the phases of growth, the crew feels empowered to pick more. And worse of all, taken from the beauty of all, entrepreneurship rises from a hungry spirit, on one hand, and on the other entrepreneurship demands the crew to accept that digestion problems are part of the course. Thus, entrepreneurship calls for growth and growth supports call to action, such as to eat more and to shop more. 
 
-<!--
-@meta @Todo
-* p2 ( ) - In introduction - Should growth - as defined by Paul Graham - be indicated as a pressure of the startup setting? Ref "[^editornote_paulgraham_growth]: Paul Graham covers both the aspect that startups are for a growth situation but also covers that founders follow instincs such as a willingness to play the game. The through of sorrow of Paul Graham also depicts that startups force their status as political, projections, leading to falling in their own traps, such as to be sad that their projections were not real." / ref 829482-2948492-429084928-429884922
---> 
+
+
+
+
+
+
+
+
+
+
 
 <!-- 
 @meta @Outline
-* outline - SCqA K3 - Answer - book's intention 
+* outline - introduction - Answer - book's intention 
 --> 
 
-Where we are going we don't need roads. This book challenges entrepreneurs to embrace the principle of courage in the first place; or permission such as permission to say no, or to enter in not being so fast in the onboarding of that high-speed train that is typically taken as others do so. It's not necessarily about joining the club because the beat seems to be the "beat of the moment." The greatest abuse an entrepreneur can commit is when they start to sacrifice their identity, trample over their highest value, leading to confusion, or fusion, defining an identity that results in burnout.
+This book is about courage, permission, and self-respect. It takes courage, and a leap of faith, to innovate the perspecive of what means management for innovation. It takes courage to see productivity as procrastination. It takes permission to see through new goggles, to believe that something really great can be found by not being a controller. And self-respect because entrepreneurship recognizes the doer that is not a know-it-all, recognizes that the real A comes from Fs and not from Bs. It's not necessarily about joining the club because the beat seems to be the "beat of the moment." The greatest abuse an entrepreneur can commit is when they start to sacrifice who they are and see them through the eyes of the system - to shape a professional identity. From that they fail to comply with their own values, with the well-being, and with their ability to discover what they are essentially doing. It takes them to confusion, or into a fusion, and from that to produce far too many outcomes to their selves, to their colleagues, to the future of their corporations. It costs them. 
 
-We will see that respect for the entrepreneurial body and mind, establishing the path of conscious entrepreneurship, we will give strenght the entrepreneurial body agains the toxic developments, which is auto-immune. In this urgent, fast-paced, and turbulent world, the entrepreneur needs to act but does so under a stressful condition that is engaged as in it is the way to perform, to thrive, to beat a competition. However, these actions should not arise from arbitrary pressures that lead entrepreneurs to ignore the strategic issues of work conduct. 
+By establishing the path of conscious entrepreneurship, we will give strenght and support a healthier entrepreneurial body against toxic developments, against an auto-immune reaction. In this urgent, fast-paced, and turbulent world, the entrepreneur needs to act but does so under a stressful condition that is engaged as in it is the way to perform, to thrive, to beat a competition. However, these actions should not arise from arbitrary pressures that lead entrepreneurs to ignore the strategic issues of work conduct. 
 
-In other words, we aim a strategy that ceases to be reactive or speed-oriented from the pressures clamoring for results. Thus we will set themselves to avoid resorting to abuses that form a toxic culture centered where the end justifies the means. In such a culture, work dances with the bursts of motivational incentives, while possible signs of an environment detrimental to the work itself and the development of the team's work methodology are silenced.The strategy cannot be reduced to just going with the flow, under the shadow of the world’s accelerated pace. We don’t just want speed, to run for the sake of running. On the contrary, we need to learn as we execute, but leaning about growth both as individuals and as leaders of our organizations. By doing so, we create a learning organization, which is one of the goals of this reflection and opportunity. 
+In other words, we aim a strategy that ceases to be reactive or speed-oriented from the pressures clamoring for results. Thus we will set themselves to avoid resorting to abuses that form a toxic culture centered where the end justifies the means. In such a culture, work dances with the bursts of motivational incentives, while possible signs of an environment detrimental to the work itself and the development of the team's work methodology are silenced. The strategy cannot be reduced to just going with the flow, by following the shadows of the world’s accelerated pace. We don’t just want speed, to run for the sake of running. On the contrary, execution and effort is meant to set us to be learners again, to start again, to renew our views, to gain perspective. Thus, we are into a mission for leaning about growth, as individuals and as leaders of our organizations. By doing so, we create a learning organization, which is one of the goals of this reflection and opportunity. 
+
+
+
+
+
+
+
+
+
 
 <!-- 
 @meta @Outline
-* outline - SCqA kxx - Answer - book's intention - Book wants to not be crazy, not arbitrary  
+* outline - introduction - Answer - book's intention 
 --> 
 
 Therefore, we bring situations, complications, and reflections that were not designed as recipes, as ready-made solutions to solve the adversities and complexities of the urgent mode. The idea is to strengthen, or to recover, or to keep alive, the entrepreneurial side of the entrepreneur — so that when you are confronted with chaos, and pressure, and a "normal" crazyness at work which is incessantly urgent and rarely seen as toxic and that is actually presented as a price to pay, or the norm, for success. In this sense, Fried and Hansson [^basecampcrazy] invite us to reflect:
@@ -175,36 +312,66 @@ Therefore, we bring situations, complications, and reflections that were not des
 * p2 ( ) - In Introduction - Check the quote again, from the English book of Fried and Hansson "It Doesn't Have to be Crazy at Work" / Ref - 9a7b111c-8c02-4d1e-b9eb-79a344c1c0f0
 -->
 
-With the goal of running less arbitrarily, and creating conditions for conscious actions, entrepreneurs need a more suitable approach to navigate this environment which, without a conscious attitude, proves to be frustrating and exhausting. This approach, above all, begins with something that is internal rather than external, requiring a regulation to the compulsive tendency to constantly seek solutions from the outside. In this sense, this material is not made for a machine. Our most essential reference is valuing the human being as the foundation of the entrepreneurial spirit. In other words, our strategy does not involve selling out the human being as part of the process, discarding our greatest resource. This idea necessarily creates a force, or principle, of self-respect in terms of setting boundaries, but these are justified in order to create well-being for the entrepreneur and the enterprise. This will be our guide for many of our reflections in the three parts to come.
+
+
+
+
+
+In this sense, this material is not made for a machine. Our most essential reference is valuing the human being as the foundation of the entrepreneurial spirit. In other words, our strategy does not involve selling out the human being as part of the process, discarding our greatest resource. This idea necessarily creates a force, or principle, of self-respect. It sets boundaries for the well-being for the entrepreneur which I regard as the highest investment and the actual only real way to navigate through the startup environment and into growth. This will be our guiding principle for many of the reflections through the three parts to come.
+
+
+
+
+
 
 <!-- 
 @meta @Outline
 * outline - SCqA kxx - Answer - book's intention - Chapter - Behavioral 
 --> 
 
-The first part, entitled "Behavioral Urgency," deals with the nature of the entrepreneur, an introspection, as it is useless to discuss the dangers and pitfalls of the urgent world without analyzing habits and behaviors. With this, we enrich a basic framework of principles that will guide us in the accelerated world, against traps.
+
+
+
+In part one, through *Urgency of the Self*, to support our conscious attitude for the road ahead, the road of growth of the startup which we assume that can only be achieved by self growth under the tenet that we are not expendable, that we value our beings and that who we are as entrepreneurs matches who we are as human beings - that everyone is an entrepreneur and that the role developed by entrepreneurship is not an indentity that is used for a business which is separated from us as a whole. We look at who we are, we value who we are, so that we can respect ourselves through the navigation that may set us into traps, into a disconnect. Through this part we go from key elements of who we are and straightly reflecting about our situation in the middle of the environment, through the inclination for running, through the journey of impact. Above all, we check on ourselves rather than to look for the external. Although the startup journey can't be controlled, our invest relies in observations and reflections about us doing it in ways that are less frustrating, less confusing, less arbitrary, and more fruitful, minimally in terms of the being conscious about our best selves which is key for the road ahead. 
+
+
+
+
+
+
+
+
+
 
 <!-- 
 @meta @Outline
-* outline - SCqA kxx - Answer - book's intention - Chapter - Interpersonal 
+* outline - introduction - part 2 - Interpersonal 
 --> 
 
-The second agenda, "Interpersonal Urgency," is an opportunity for us to reflect on our accelerated communication in the environment where people collaborate. We will look at how the reactive and urgent mode of execution creates pressure for urgent entrepreneurship where actions have become more specialized, with ready-made solutions for everything and where we are always engaged, such as the propensity for entrepreneurs to execute their plans with support from interactive platforms where the protagonists are registered and participating actively. Our reflection does not ask entrepreneurs to stop navigating this world. It asks for a little less precision in execution and more attention to knowing how to guide themselves. This will be an opportunity to reflect on the fact that the world's agenda, even if it is super efficient, is not always compatible with the developing agenda of the entrepreneur and their venture; consequently affecting their goals and dreams.
+Through the second part, *Urgency of the Team*, we extent our reflections to improve the health of the team dynamics as it improve its collaboration. We start by considering how the urgent rises from execution and the challenging space this creates for keep the conscious view of purpose, such as how we start to fail with our entrepreneurial characterizations and entrepreneurship well-being causing the entrepreneurial function to lag behind, or be obfuscated by the movement of progress. We give special consideration for the dynamics that are given by applicability of lean movements and how teams generally think they are advancing but actually building up a great level of disconnection from their purpose. We wrap this part by valuing communication not as a communication serving the purpose of goals, like a tool, but a view for communication that serves for the growing the team in the first place. 
+
+
+
+
+
+
 
 <!-- 
 @meta @Outline
-* outline - SCqA kxx - Answer - book's intention - Chapter - Systems  
+* outline - introduction - part  - systems  
 --> 
 
-The last part is an opportunity to look at the entrepreneur who grows their organization that seeks to develop a sustainable work entity but in an external environment that, as evident everywhere, is connected, urgent, transactional. In this part, the reflection will allow us to consider that we will be growing an organization in an environment that generates pressure and that in all forms of entities are connected and influencing control - through platforms, networks, systems, tools, technologies, and more.
-
-<!-- 
-@meta @Outline
-* outline - SCqA kxx - Answer - book's intention - Closing - Audience? 
---> 
-
-This is a book for everyone who supports entrepreneurs, but particularly for those who care about them and are concerned with their health and their psychological well-being; hence for those who do not think that entrepreneurs are expendable. They are the ones in the arena, and it is a complicated space, full of urgencies and a fast-paced nature, which could prompt them into action and a natural inclination to miss the space for evaluating themselves. Thus, it becomes a book for entrepreneurs themselves as naturally, they will likely be alone at times, and will bear the responsibility to grow themselves, to learn and adapt from experiences. Being open to enlightenment should be acknowledged as part of entrepreneurship. This is especially necessary as entrepreneurs are expected to be in a position to change reality, to free themselves from the normal way things are done, which requires adapting and changing themselves. Entrepreneurial action invites new management.
+We complete the book through *Urgency in the system*, considering general elements that affects teams organization-wide ways. We recognize that the growth up and productive state of an organization demands a goal system that needs to be efficient but should never disconnection from being flexible. And we conclude back to communications, with a reflective moment about the beautiful and critically powerful world of narratives and how we can use that for doing amazing things but why to never do it without being conscious of our own manipulative and persuasive narratives that are the means to influencing control - given by voices through platforms, networks, systems, tools, technologies - but should not be the means to take us away from our capabilities to see in perspective or to be creative.  
 
 
+
+
+
+
+
+
+
+
+This is a book for everyone who supports entrepreneurs, but particularly for those who care about them and are concerned with their health and their psychological well-being; hence for those who do not think that entrepreneurs are expendable. They are the ones in the arena, and it is a complicated space, full of urgencies and a fast-paced nature, which could prompt them into action and a natural inclination to miss the space for evaluating themselves. Thus, it becomes a book for entrepreneurs themselves as naturally, they will likely be alone at times, and will bear the responsibility to grow themselves, to learn and adapt from experiences. Being open, and involved, into an enlightenment should be acknowledged as part of entrepreneurship. This is especially necessary as entrepreneurs are expected to be in a position to change reality, to free themselves from the normal way things are done, which requires adapting and changing themselves. Entrepreneurial action invites new management.
 
 
