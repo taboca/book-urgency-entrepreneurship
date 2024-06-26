@@ -9,7 +9,7 @@
 000/050_foreword_world.txt
 000/050_foreword_marcio_fit.txt
 
-000/100_introduction.txt
+000/100_introduction/010_article.txt
 
 100/000_part1.txt
 
