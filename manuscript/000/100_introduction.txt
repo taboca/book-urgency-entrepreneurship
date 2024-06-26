@@ -1,6 +1,15 @@
 
 # Introduction #
 
+
+<!--
+@note #research - Maslow, Toward the Psychology of Being, p. 169 - "As far as they go, I agree with them, but I feel they don't go far enough. They contain in a hidden form the danger that I have referred to, that although mastery, effectiveness and competence may be active rather than passive styles of adjustment to reality, they are still variations of adjustment theory. I feel we must leap beyond these statements, admirable though they may be, to declare recognition of transcendence of the environment, independence of it, ability to stand against it, to fight it, to neglect it, or to turn one's back to it, to refuse it or adapt to it." 
+
+* @note #research - Maslow, Toward the Psychology of Being, p. 109 - "For shock purposes I could even call the self-actualizing person as a self-accepting, insightful neurotic, for this phrase may be defined in such a way as to be almost synonymous with ' understanding and accepting the intrinsic human situation,' i.e. facing and accepting courageously, and even enjoying, being amused by the 'shortcomings' of human nature instead of trying to deny them." P 109 Maslow, Toward the Psychology of Being.
+
+--> 
+
+
 <!-- 
 @meta @Outline
 * outline - introduction, pitch - Slow down sounds complex but speed up sounds good, generally, of course.
@@ -8,7 +17,7 @@
 
 
 
-If an incidental voice says "let's slow down," in a modern-world workplace, it doesn't great. But if the team pauses, doing so briefly, they might wonder why - why is it that we can't keep doing what we are doing. On the other hand, the "let's speed up," is a more plausible answer, although in the real world the modern variations of "keep cranking" are now digitally and coherently by collaboration systems not as noisy given by the beat of thumbs or applauses or by the votes. And this makes sense, doesn't it? That we keep the beat, we sum our efforts, especially in the corporate situation which naturally assumes a coherent movement for what is to a certain extent working. This goes with closing the gap, getting things done earlier, selling more, delivering faster, and other things which works well to keep companies moving in the face of the comparative situation of the competition. The complication, on the other hand, happens in the entrepreneurial domain, exactly because these situations require the new mindset where more of the same does not work. But it gets even more complicated that the thoughts of slowing down are generally seen as frustrating in other situations of smaller settings, up to the head of the individual, and exactly when they are in need to for being creative, into the quest of discovery, for what to do, for how to do, and also for why to do it. This is concern we carry on through, that our life as founders is somehow taken by a system of self management that favors and welcomes productivity, as soon as possible, and at the same time feels sad with the new, the different, and uncertain. And too given that the movemnt to A requires eventual Fs, the sad reality that we generally accept changes after a major and clear failure, in post-mortem, in restrospect. 
+When an incidental voice says "let's slow down," in a modern-world workplace, it doesn't sound great. If the team if pauses, they might wonder "why is it that we can't keep doing what we were doing?" On the other hand, the "let's speed up," sounds more plausible, although modern-world variations of "keep cranking" are not noisy and given by the smooth beat of digitalized thumbs ups and claps by the hour. And that makes sense, doesn't it? That is how we keep the beat, how we sum our efforts, especially in the corporate situation of the coherent movement, when things are working. That goes with closing the gap, getting things done earlier, selling more, delivering faster, all things that in a way or another follows the wider rithm of the competition, more or less eloquently. The complication, on the other hand, and in the entrepreneurial domain, happens to be that the thoughts of slowing down generally are seen as frustrating too, in the small setting of an early team or the head of one that is now a founder. Now we do know that founders and innovators are resilient and navigate a world of uncertainty, this that they need to be prepared to what does not look productive initially. This a concern we carry on through, that our life as founders is somehow teased by a system of self management that favors and welcomes productivity, as in as soon as possible. But moreover we should be concerned about the feeling of sadness that sets in when the unproductive condition chimes in - which is generally the case in the startup situation or any creative journey. In other words, given that the movemnt to A requires eventual Fs, the sad reality that we keep on living, generally inclined, to accept to change after a major and clear failure, as in restrospect. That model may work to some extent but carries on a lack of strategy from within. 
 
 
 
@@ -30,7 +39,9 @@ Now in this fun to work space to bring a complication requires skill. Try to cry
 
 Now it is even funny that the pro and corporate world can even make it sound nice even when shit hits the fan, when the situaton would get to the "folks, we didn't do well," the pro world too brings the spirits back and planes back on track. As long as there is life in this park, the adventure won't stop. A sign in the lobby reads "When Dinousaurs Ruled the Earth," reaffirms they are okay in the middle of that colorful and chaotic world of beasts and not so broken broken things being improved. And if anyone insists in taking things too seriously - looking around or suspecting that the whole park is a mess - the actual hallways are there too to remind them, to bring back the colorfulness and the soft drink dispensers and premium quality ice cream which is a reminder that all of that is supported by the monumental investment of a charismatic investor who spared no expenses. They will protect us to keep the park running. Our motto says that "it's fun to work". Here we do not take life so serious anyway. 
 
-But it may be too that the corporate world didn't invent this fun to work thing. Perhaps they added more toppings, but didn't come up with. Maybe that thing goes back to the our educated world after that early walk. The one which took us to do things the right way. This is, again, a problem for founders, especially because of having that big requirement, of being right, and then, or being required to be fun. 
+But it may be too that the corporate world didn't invent this fun to work thing. Perhaps they added more toppings, but didn't come up with. Maybe that thing goes back to the our educated world after that early walk. The one which took us to do things the right way. 
+
+This is, again, a problem for founders, especially because of having that big requirement, of being right, and then, or being required to be fun. 
 
 
 
