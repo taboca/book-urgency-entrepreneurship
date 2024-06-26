@@ -2,18 +2,20 @@
 # Introduction #
 
 
-<!--
-@note #research - Maslow, Toward the Psychology of Being, p. 169 - "As far as they go, I agree with them, but I feel they don't go far enough. They contain in a hidden form the danger that I have referred to, that although mastery, effectiveness and competence may be active rather than passive styles of adjustment to reality, they are still variations of adjustment theory. I feel we must leap beyond these statements, admirable though they may be, to declare recognition of transcendence of the environment, independence of it, ability to stand against it, to fight it, to neglect it, or to turn one's back to it, to refuse it or adapt to it." 
 
-* @note #research - Maslow, Toward the Psychology of Being, p. 109 - "For shock purposes I could even call the self-actualizing person as a self-accepting, insightful neurotic, for this phrase may be defined in such a way as to be almost synonymous with ' understanding and accepting the intrinsic human situation,' i.e. facing and accepting courageously, and even enjoying, being amused by the 'shortcomings' of human nature instead of trying to deny them." P 109 Maslow, Toward the Psychology of Being.
 
---> 
+
+
+
 
 
 <!-- 
 @meta @Outline
-* outline - introduction, pitch - Slow down sounds complex but speed up sounds good, generally, of course.
-* expanded - Seeking greatness, grain by grain, obsessively reading by little sucesses. 
+### Punchline - 
+
+- Slowing down feels bad, while the urge to hurry up and run feels better.
+- Slowing down is associated with uncertainty, whereas running feels connected with certainty.
+- The new language of "hurry up" or "run" is reinforced by digital signals like claps, likes, and votes in collaborative environments.
 --> 
 
 
@@ -23,23 +25,6 @@ When an incidental voice says "let's slow down," in a modern-world workplace, it
 The complication, on the other hand and in the heads of entrepreneurs, happens to be that thoughts of slowing down are generally felt as frustrating. In other words, it does not matter - this happens: That when we are caught opening the gap, and not getting things done sooner or selling less or delivering slower, and the like, we just don’t like it. And this is so because we are caught by that uncomfortable feeling. Now, we do know that founders or innovators have to be resilient, that they are aware of a world of uncertainty, that they need to be prepared for what does not look productive, or prepared to be wrong, initially certainly but as well throughout the growth path. And we know too, to be fair, that for many of them entrepreneurs that fear of failure, maybe a raw fear, does work as a kind of fear that drives growth, that takes them to move mountains.
 
 But what we may not know, or feel, or fail to notice, is a feeling that happens on a by-the-hour basis, or real-time, now something that we might be quite used to. That feeling of sadness, into ourselves, into the self, felt grain by grain, to subtitle anyway to be noted. But apparent anyway from our needs to be constantly monitoring, constantly seeking to grab, constantly seeking validation. One which may materialize an inner system, a certain operating system of management; again perhaps fueled or teased or mirrored by that outer operating system of getting things done, the one that wants to feel great by those great things, the one which welcomes productivity; as in, as soon as possible.
-
-
-
-
-
-
-<!--
-@outline next, 
-jump to corporate language of action, 
-jump to data, processing, flow, 
-jump to lean, 
-conclude with the following?
---> 
-
-
-
-
 
 But here we are worried, to our lives as founders and entrepreneurs of ourselves, living our own journeys, that that normal movement for grabbing what feels productive is not enough to bring out the great, for us, for the startup, and for the long term business, and for society. As for what we do out there, bargains rise as outcomes. For startups? They may pivot quickly into the first thing that seems to work. Some of them then fail and simply don't get why some weird competitor does it better. For the big corporations? It dies, by not having a way to change, or they acquire others to delay or in an attempt to import some new characterization of change. And for their leaders, they rather be replaced than to be seen as babies again.
 
@@ -53,9 +38,22 @@ But to ourselves, we can’t see what we pay for ourselves, running our projects
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 <!-- 
 @meta @Outline
 * outline - introduction, situation - of fun to work, hetic, "perks" support a fast-paced culture.  
+- This is not necessarily a corporate issue but a general life trend, although corporations may have added some fun to it.
+
 --> 
 
 But we can't blame our corporate world as the producers of that specialist spirit preventing us from embracing the generalist mindset. In fact it's all around, from our educated world as we know it, from work, from our families, and inside of us. Deep inside, we know it, the size of that monumental investment we took before we did that great walking far from the leg of our mother. We know how it felt great, to walk. We know, that it takes such a big effort to fight against that will, the will to stick, if you will, the will to sum, the will to conquer by doing what we know by how we know, and to rinse and repeat. 
@@ -67,6 +65,26 @@ And it is not that complications can't be brought up to the everyone. It just re
 But it may be too that the corporate world didn't invent this fun to work thing. Perhaps they added more toppings, but didn't come up with. Maybe that thing goes back to the our educated world after that early walk of ours. The one which took us to do things the right way. 
 
 
+
+
+
+
+
+
+
+
+
+
+<!--
+@outline
+### 2. Impact on Founders
+
+- Founders are driven to pursue small grains of success obsessively.
+- This obsession can lead to missing larger opportunities.
+  - Small successes may not align with the external environment and desired outcomes.
+  - Reduced attention spans, reduced level of calmess, leads to becoming specialists, seeking to be right, and professionals, but missing broader opportunities.
+- Moreover, eergy is wasted by focusing on misleading goals, preventing greater achievements.
+--> 
 
 
 
@@ -89,9 +107,33 @@ Now there is another problem from the corporate park that in the startup situati
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- 
 @meta @Outline
-* outline - introduction, complication - An abstraction, a question, a provocation: Can this be a passive-aggressive managerial system? If I turn fun -> bitter, conclusion is bad management? All is wrong or just wrong if we take the wheel to use this translate into entrepreneurial action?
+### 3. Situational Alert
+
+- The general language of action, in life and corporate world suggests using humans as expendable resources.
+  - Example: High spending on guacamole (positive experience) vs. low spending on training (boring but necessary).
+- Founders cannot replace themselves and must take care not to see themselves as expendable.
+- For us all, and founders too, retrospective fixing our actions are costly and should be avoided.
+
+* Prior outline - introduction, complication - An abstraction, a question, a provocation: Can this be a passive-aggressive managerial system? If I turn fun -> bitter, conclusion is bad management? All is wrong or just wrong if we take the wheel to use this translate into entrepreneurial action?
 --> 
 
 But in perspective, if any of that language of action exists, it might do so as a result of an passive-aggressive work environment that favors a situation that leans heavily on extracting effort from humans. Althought guacamole could be evidently present [^footnote_guacamole_traning] in some of the best working places, it is arguably unfair to celebrate the exagerations given by these illustrations such as the implied idea that an action-oriented style of management, as opposed to real management, is the main beast we should fear. But the truth that I am after - throughout my attempt to turn what appears to be fun into bitterness - lies in considering the dangers of our inclination, as humans, to when we turn to become entrepreneurs and grab the wheel. When we operate the early stage with the same kinds of movements of the accelerated or productive world as we know it, as in to pursue the end no matter the means. Not a truth sought by the modern worker that operates  a mechanical equipment that put the life of their colleagues at risk, but in the sense of an entrepreneur that enters into entrepreneurship as if it is a car and suddently focuses on the road ahead, and feels that the equipment is there to accelerate into the destination, and by doing so denies to invest in developing consciousness for its behaviors, such as the management of entrepreneurship. 
@@ -112,51 +154,60 @@ But in perspective, if any of that language of action exists, it might do so as 
 
 <!-- 
 @meta @Outline
-* outline - introduction - #SCqA #Question #Complication - Should we wait a bit?
+### 4. Complications from Situations
+- The fast-paced, networked environment dictates what to do, how to do, and why to do it.
+- The hypermarket of solutions provides answers for everything, creating a positive bias in decision-making.
+- Generalist of the shelf, entrepreneurship confused with BAU 
+
+* prior outline - introduction - #Complication that Managers are followers?
 --> 
+
+
+
+To put in perspective, in the light of our strategy throught the book, the recognition of that language of action - particularly illustrated in the corporate sphere - is a starting point so that we can consider what we do, how we do, and what we do, is a movement that is driven. As an example, consider that our propensity to drive by key results, such as seeking key results connected with outcomes, rises from the individual which makes it synergentically projected in the collaborative situations of work. In the same perspective, it isn't a higher-order force, such as the above layers of management of a given organization, that brought us to where we are, such as to when we behave as urgent beings. In fact, we brought ourselves there as our success made a new world that we are into - the world of abundance of tools, resources, information, and the hyper-fast potential of a network. 
+
+And this situation, which is undeniably good - and that is the problem - actually sets a challenge ahead of entrepreneurs, such as if you consider that an arbitrary entrepreneur might not see an inferno ahead, a so clear reason to free the world, and more importantly to the context of our book, so clear reason to execute entrepreneurship differently. In other words, if we are running along, or rolling, in the pace of the corporate sphere, anb in the pace of the urgent and networked world, we may have no reasons to break through, to think through, to break the norm, to break the speed, to break automatic responses, and so on. And this becomes a major complication for us, entrepreneurs or anyone that cares about them, and anyone who cares about humanity, because the environment of our success gives the means, such as an inclusive, or easy, or cheap, or acessible, of supporting an arbitraty entrepreneur such as one in a hurry, to just jump into actions, as if they had a "Jump to Conclusions Mat" where they can jump to. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 
+@meta @Outline
+### 5. General situation for the Book
+
+- Punch - there is a need to pull the handbrake.
+- Punch - Watch out for the "need for speed" and escape the "land of confusion."
+- Referencing Maslow, the enlightened being may not follow the environment blindly. 
+- We now can get then, data, tools, and flow to be more conscious in entrepreneurial movements.
+--> 
+
 
 Therefore, I rather pull the hand brake and invite us to take another turn, and to consider that our need for speed drives us into a land of confusion that harms work in general, that harms us as entrepreneurs, that harms us as human beings, therefore the development of humanity. 
 
-<!-- 
-@meta @Outline
-* outline - introduction - #Complication that Managers are followers?
---> 
 
-To put in perspective, in the light of our strategy throught the book, the recognition of that language of action - particularly illustrated in the corporate sphere - is a starting point so that we can consider who we are, or who we are likely to become, when we are willing to thrive, to achieve, to beat the competition, to win, to survive, you name it. As an example, consider that our propensity to drive by key results, such as seeking key results connected with outcomes, rises from the individual which makes it synergentically projected in the collaborative situations of work. In the same perspective, it isn't a higher-order force, such as the above layers of management of a given organization, that brought us to where we are, such as to when we behave as urgent beings. In fact, we brought ourselves there as our success made a new world that we are into - the world of abundance of tools, resources, information, and the hyper-fast potential of a network. 
+> *"The danger that I see is the resurgence, in new and more sophisticated forms, of the old identification of psychological health with adjustment, adjustment to reality, adjustment to society, adjustment to other people. That is, the authentic or healthy person may be defined not in his own right, not in his autonomy, not by his own intra-psychic and non-environmental laws, not as *different* from the environment, independent of it or opposed to it, but rather in environment-centered terms, e.g., of ability to master the environment, to be capable, adequate, effective, competent in relation to it, to do a good job, to perceive it well, to be in good relations to it, to be successful in its terms. To say it in another way, the job-analysis, the requirements of the task, should not be the major criterion of worth or health of the individual. There is not only an orientation to the outer but also to the inner. An extra-psychic centering point cannot be used for the theoretical task of defining the healthy psyche."* (Maslow, Abrahan., 2011, p.168) 
 
 
 <!--
-@meta @Outline
-* outline - introduction - #Complication -Jump to conclusions, if we translate it. 
-
-* You are in it, from the corporate. 
-* You are in it, from the educational system. 
-* You are in it, essentially from growing. 
-
---> 
-
-And this situation, which is undeniably good, actually sets a challenge ahead of entrepreneurs, such as if you consider that an arbitrary entrepreneur might not see an inferno ahead, a so clear reason to free the world, and more importantly to the context of our book, so clear reason to execute entrepreneurship differently. In other words, if we are running along, or rolling, in the pace of the corporate sphere, anb in the pace of the urgent and networked world, we may have no reasons to break through, to think through, to break the norm, to break the speed, to break automatic responses, and so on. And this becomes a major complication for us, entrepreneurs or anyone that cares about them, and anyone who cares about humanity, because the environment of our success gives the means, such as an inclusive, or easy, or cheap, or acessible, of supporting an arbitraty entrepreneur such as one in a hurry, to just jump into actions, as if they had a "Jump to Conclusions Mat" where they can jump to. 
-
-
-
-
-
-
-
-
-
-
-<!-- 
-@meta @Outline
-* outline - introduction, general answer strategy - 
+@meta @reference 
+* reference - Maslow, A. H. (2011). Toward the Psychology of Being. Martino Publishing.
 --> 
 
 
-Where we are going we don't need roads? 
 
-Thus the focus area in our book comes down to reflecting on this accelerated pace that entrepreneurs might fit and how it impacts everything precisely at in the moment that we need energy, like willpower, and good ideas, and the right conditions to move on and achieve growth as individuals and for our organizations. What stands before us is the prioritization of the startup foundation, in the opposed direction where the end justifies the means. As we delve into the slowing down the fast-paced situation of entrepreneurship, we also touch on the age-old problem of navigation, the map of the story, the how to walk the story, more than a problem of speed. Andy Grove, in the book "High Output Management," reminds us of an old saying that if you don't know where you're going, any path will take you there [^editornote_andy_anyroad]. 
+Thus the focus area in our book comes down to reflecting on this accelerated pace that entrepreneurs might fit and how it impacts everything precisely at in the moment that we need energy, like willpower, and good ideas, and the right conditions to move on and achieve growth as individuals and for our organizations. What stands before us is the prioritization of the startup foundation, in the opposed direction where the end justifies the means. 
 
-[^editornote_andy_anyroad]: This saying, according to Andy Grove, is an indian saying. Others say it's from elsewhere. But if Andy brought to his book, it is a saying necessary to acknowledge; just like Peter Drucker, as cited in the foreword, has reminded us that the balance between activities is connected to the organization of organization. 
+
+
 
 Beyond what seems to be a narrative pushing for accelerated effort, the fast-paced mode of execution has also infiltrated the context of management analysis and planning. Things have not sped up simply because people are running more, working more intensively, or because managers coordinate the frantic pace because they enjoy it. The fast mode is supported by functions, or resources, that are “ready” and available at hand. 
 
