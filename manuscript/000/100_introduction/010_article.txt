@@ -6,9 +6,6 @@
 
 
 
-
-
-
 <!-- 
 @meta @Outline
 ### Punchline - 
@@ -16,6 +13,19 @@
 - Slowing down feels bad, while the urge to hurry up and run feels better.
 - Slowing down is associated with uncertainty, whereas running feels connected with certainty.
 - The new language of "hurry up" or "run" is reinforced by digital signals like claps, likes, and votes in collaborative environments.
+- Founder struggle, being right. 
+
+@outline
+### 2. Impact on Founders
+
+- Founders are driven to pursue small grains of success obsessively.
+- This obsession can lead to missing larger opportunities.
+  - Small successes may not align with the external environment and desired outcomes.
+  - Reduced attention spans, reduced level of calmess, leads to becoming specialists, seeking to be right, and professionals, but missing broader opportunities.
+- Moreover, eergy is wasted by focusing on misleading goals, preventing greater achievements.
+
+* [ ] Through growth path, can't feel bad, need to manage. 
+
 --> 
 
 
@@ -47,60 +57,15 @@ But to ourselves, we can’t see what we pay for ourselves, running our projects
 
 
 
-
-
-<!-- 
-@meta @Outline
-* outline - introduction, situation - of fun to work, hetic, "perks" support a fast-paced culture.  
-- This is not necessarily a corporate issue but a general life trend, although corporations may have added some fun to it.
-
---> 
-
-But we can't blame our corporate world as the producers of that specialist spirit preventing us from embracing the generalist mindset. In fact it's all around, from our educated world as we know it, from work, from our families, and inside of us. Deep inside, we know it, the size of that monumental investment we took before we did that great walking far from the leg of our mother. We know how it felt great, to walk. We know, that it takes such a big effort to fight against that will, the will to stick, if you will, the will to sum, the will to conquer by doing what we know by how we know, and to rinse and repeat. 
-
-Now and different from parents the corporate world made it fun to just do it or to keep walking. Because "it's fun to work," isn't it? Maybe not all office spaces anyway but certainly there is one that looks like an amuzement park. In this one anyway there is a modern bridge made of soda cans. And for building it, they can digitally scan their daily cans and see the great team bridge growth in realtime. In this culture, they have beasts to be defeated, not problems to be solved. 
-
-And it is not that complications can't be brought up to the everyone. It just requires skill. If that arbitrary voice tries to cry arbitrarity, she could get a 'whiner' flair on her jacket. But that is not a flair too big, nor too offensive. This one is colorful and it is fun to get one of those, here and there. And by that they equalize things by silencing the potential networked echoes of that whinning call but not enough to lose she as a warrior. In other words, when some of the crew speaks that too many man and too many people are making too many problems, a critical manager chimes in pronto. And they offer a helping hand, one that pours just enough rain on the parade but not enough to cloud the horizon from a rainbow. This is how equilibrium and positve beat is maintained in this country - by serving the spirits and ensuring that the positive flow is incessant. In other words, if you can't do it in the right way, or in the fun way, please don't do it, let it go. 
-
-But it may be too that the corporate world didn't invent this fun to work thing. Perhaps they added more toppings, but didn't come up with. Maybe that thing goes back to the our educated world after that early walk of ours. The one which took us to do things the right way. 
-
-
-
-
-
-
-
-
-
-
-
-
 <!--
-@outline
-### 2. Impact on Founders
-
-- Founders are driven to pursue small grains of success obsessively.
-- This obsession can lead to missing larger opportunities.
-  - Small successes may not align with the external environment and desired outcomes.
-  - Reduced attention spans, reduced level of calmess, leads to becoming specialists, seeking to be right, and professionals, but missing broader opportunities.
-- Moreover, eergy is wasted by focusing on misleading goals, preventing greater achievements.
---> 
-
-
-
-
-
-
-
-
+@lost-and-found Expendable, fun, HR, acept this mission, regulating. 
 
 This is, again, a problem for founders, especially because of having that big requirement, of being right, and then, or being required to be fun. 
-
 
 Now there is another problem from the corporate park that in the startup situation too is critical. It is that when shit really really hits the fan, and when course-correction can't be taken and spirits can't go back, then park treats their roles like resources, like coal, think of them as expendable, and they are fired. Of course, HR chimes in to not touch their real identities as humans. They will be protected for the other journey. But it is through that medium of "we can't waste time," that people take themselves to enter the binary situation, in or out, sooner or later. But not in the surface, unfortunatelly, as it is perceived and promoted as an express - a highly performant train that incessantly arrives at the next station, no matter how turbulent was the ride. It can be difficult to stop our brains to read the underlying nature of this fast-moving train; because we happened to be dropped from the air after an "if you chose to accept this mission". And indeed, when the train seems to rest in a station, its crew quickly enters the celebration mode as opposed to get into the boring, reflective, never-ending, frustrating, and painful analysis of a post-mortem nature. On the contrary, the resting at the stations coherently speaks that "if we've exerted so much energy, and given that some of us have been lost along the way, let's just go ahead and have a moment of silence, let's just go ahead and respect our efforts, our soldiers, our resources." That call is enough to take our attention away from the reflection, and any spark for a revolution. Now it is the time for our moods to be energized, again, so the people joins with the lambs and sloths and carps and anchovies and orangutans, and breakast cereal, and fruits and bats, and of course the guacamole plus all of that goes well with the option to return home a couple hours early. Moreover, if everyone suddenly are the heroes of such an effort, it is then plausibly required a promotion which happens to go for the ones who stood for them, the ones that did the magic to supress any revolt, the ones that kept pouring the spirits high, the ones that kept the momentum going, that the fire burning. 
 
 
-
+--> 
 
 
 
@@ -134,7 +99,45 @@ Now there is another problem from the corporate park that in the startup situati
 - For us all, and founders too, retrospective fixing our actions are costly and should be avoided.
 
 * Prior outline - introduction, complication - An abstraction, a question, a provocation: Can this be a passive-aggressive managerial system? If I turn fun -> bitter, conclusion is bad management? All is wrong or just wrong if we take the wheel to use this translate into entrepreneurial action?
+
+
+* @external-article @meta-refid 6565-4774-9994-4433 - https://taboca.medium.com/who-invented-the-specialist-a0efa204ec3d
+
 --> 
+
+
+
+
+### It's fun to work and do it right 
+
+
+
+Should we blame our corporate world, as the producers of that specialist spirit which prevent us from embracing that generalist mindset when we need it? I don’t think so, in fact it’s all around. Our office space just happens to carry on a characterization. There seems to be something, Mechanized or Specialized, that grows in us. A strength that sticks with us. And one too that take us to fear, so badly or cryptic, the idea of slowing down.
+
+Something about that we seem to know. It may be observable in our educated world as we know it, certainly in our work spaces, in our families, and inside of us. Deep inside, we know it, somewhere from our regressions — the size of that monumental investment we took before that great walking far from the leg of our mother. And how it felt after we went back to her hugging and lovely smile. We went through our first exit, successfully.
+
+From that, we carried as well that other knowing. The knowing of another monumental thing needed, to pull from us or someone else, before we do that other new movement. This may be the will to stick, if you will.
+
+But a bit different from our parents who were trying to balance their part policeman and part therapist roles, the corporate world, policies if you will, might have added some fun to the whole thing. In particular, focusing on the “just do it” or “keep walking” element. Because “it’s fun to work,” isn’t it? Well, maybe not in all office spaces but certainly there is one that looks like an amusement park somewhere. Somewhere, remotely or closer to you, there is a modern bridge made of soda cans, now digitally mastered. There their builders can digitally scan their daily intake of cans and they can then see their own monster effort, in real-time, a reflection of their ability to build. This is much better than vanity metrics, they know. Because they can see effort, not prizes. So it’s honest, to some extent, and it is fun, and it is colorful, and the bridge looks like a rainbow.
+
+A slight complication of this fun-to-work office space is that some new complications can’t be just brought up. For complaints, for things not so fun, it may not be too fun if you don’t know how to do it. If an arbitrary crying voice escapes through the hallways, he or she may get a ‘whiner’ flair on her jacket. But that is not a flair too big, nor meant to hurt. It’s one that is colorful, one that to some extent is fun to wear, to get one of those. Through that, we may have invented some humanized ways to do these relations that does the function of equalizing the situation. And it does avoid big trouble, we know it, it prevents the whole bridge falling apart by silencing the potential networked echoes of that cry. And of course, it’s humanized too in other ways because it knows some of the therapeutic tricks and it’s principled to just enough silence the cry but not enough to silence the spirit. In other words, it never loses the warrior, it never goes gray.
+
+In other words, if a few heads say that too many men or too many people are making too many problems, from somewhere it comes, up in the sky, a supermanager wearing his red shirt with a big yellow M and the cape is for embracing all of them whiners, pronto. He is there to offer a hand made of steel, a helping hand, one that pours just enough rain on their blowing parade but not enough to cloud their horizon from that view, that rainbow, that fun-to-work office. This is how equilibrium is dispensed in this great-to-work space. It does so by serving the spirits and by setting us to keep walking with these special shoes that just do it.
+
+I don’t think that our corporate world had invented Doing it or took us into the walking, being specialists, and into fears of being generalists. Perhaps the corporate Machine just added more toppings to that good ice cream.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 But in perspective, if any of that language of action exists, it might do so as a result of an passive-aggressive work environment that favors a situation that leans heavily on extracting effort from humans. Althought guacamole could be evidently present [^footnote_guacamole_traning] in some of the best working places, it is arguably unfair to celebrate the exagerations given by these illustrations such as the implied idea that an action-oriented style of management, as opposed to real management, is the main beast we should fear. But the truth that I am after - throughout my attempt to turn what appears to be fun into bitterness - lies in considering the dangers of our inclination, as humans, to when we turn to become entrepreneurs and grab the wheel. When we operate the early stage with the same kinds of movements of the accelerated or productive world as we know it, as in to pursue the end no matter the means. Not a truth sought by the modern worker that operates  a mechanical equipment that put the life of their colleagues at risk, but in the sense of an entrepreneur that enters into entrepreneurship as if it is a car and suddently focuses on the road ahead, and feels that the equipment is there to accelerate into the destination, and by doing so denies to invest in developing consciousness for its behaviors, such as the management of entrepreneurship. 
 
@@ -149,7 +152,7 @@ But in perspective, if any of that language of action exists, it might do so as 
 
 
 
-
+### Three dimensional problem 
 
 
 <!-- 
@@ -167,8 +170,6 @@ But in perspective, if any of that language of action exists, it might do so as 
 To put in perspective, in the light of our strategy throught the book, the recognition of that language of action - particularly illustrated in the corporate sphere - is a starting point so that we can consider what we do, how we do, and what we do, is a movement that is driven. As an example, consider that our propensity to drive by key results, such as seeking key results connected with outcomes, rises from the individual which makes it synergentically projected in the collaborative situations of work. In the same perspective, it isn't a higher-order force, such as the above layers of management of a given organization, that brought us to where we are, such as to when we behave as urgent beings. In fact, we brought ourselves there as our success made a new world that we are into - the world of abundance of tools, resources, information, and the hyper-fast potential of a network. 
 
 And this situation, which is undeniably good - and that is the problem - actually sets a challenge ahead of entrepreneurs, such as if you consider that an arbitrary entrepreneur might not see an inferno ahead, a so clear reason to free the world, and more importantly to the context of our book, so clear reason to execute entrepreneurship differently. In other words, if we are running along, or rolling, in the pace of the corporate sphere, anb in the pace of the urgent and networked world, we may have no reasons to break through, to think through, to break the norm, to break the speed, to break automatic responses, and so on. And this becomes a major complication for us, entrepreneurs or anyone that cares about them, and anyone who cares about humanity, because the environment of our success gives the means, such as an inclusive, or easy, or cheap, or acessible, of supporting an arbitraty entrepreneur such as one in a hurry, to just jump into actions, as if they had a "Jump to Conclusions Mat" where they can jump to. 
-
-
 
 
 
@@ -348,11 +349,14 @@ When we are hungry for the breakfast and in front of the all-you-can-it buffet, 
 * outline - introduction - Answer - book's intention 
 --> 
 
-This book is about courage, permission, and self-respect. It takes courage, and a leap of faith, to innovate the perspecive of what means management for innovation. It takes courage to see productivity as procrastination. It takes permission to see through new goggles, to believe that something really great can be found by not being a controller. And self-respect because entrepreneurship recognizes the doer that is not a know-it-all, recognizes that the real A comes from Fs and not from Bs. It's not necessarily about joining the club because the beat seems to be the "beat of the moment." The greatest abuse an entrepreneur can commit is when they start to sacrifice who they are and see them through the eyes of the system - to shape a professional identity. From that they fail to comply with their own values, with the well-being, and with their ability to discover what they are essentially doing. It takes them to confusion, or into a fusion, and from that to produce far too many outcomes to their selves, to their colleagues, to the future of their corporations. It costs them. 
+This book is about procrastination disguised as entrepreneurial action, that looks like getting things done. Then it's about courage to use time to balance our views. Then it's about permission to work in what matters beyond the known matters of what appears to matter, then it's about and self-respect, which accounts our energy. 
 
-By establishing the path of conscious entrepreneurship, we will give strenght and support a healthier entrepreneurial body against toxic developments, against an auto-immune reaction. In this urgent, fast-paced, and turbulent world, the entrepreneur needs to act but does so under a stressful condition that is engaged as in it is the way to perform, to thrive, to beat a competition. However, these actions should not arise from arbitrary pressures that lead entrepreneurs to ignore the strategic issues of work conduct. 
+It takes courage to see productivity as procrastination. It takes permission to see through, through new goggles, to believe that something really great can be found by not being a controller. And self-respect because entrepreneurship recognizes the doer that is not a know-it-all, recognizes that the real A comes from Fs and not from Bs. It's not necessarily about joining the club because the beat seems to be the "beat of the moment." The greatest abuse an entrepreneur can commit is when they start to sacrifice who they are and see them through the eyes of the system - to shape a professional identity. From that they fail to comply with their own values, with the well-being, and with their ability to discover what they are essentially doing. It takes them to confusion, or into a fusion, and from that to produce far too many outcomes to their selves, to their colleagues, to the future of their corporations. It costs them. 
 
-In other words, we aim a strategy that ceases to be reactive or speed-oriented from the pressures clamoring for results. Thus we will set themselves to avoid resorting to abuses that form a toxic culture centered where the end justifies the means. In such a culture, work dances with the bursts of motivational incentives, while possible signs of an environment detrimental to the work itself and the development of the team's work methodology are silenced. The strategy cannot be reduced to just going with the flow, by following the shadows of the world’s accelerated pace. We don’t just want speed, to run for the sake of running. On the contrary, execution and effort is meant to set us to be learners again, to start again, to renew our views, to gain perspective. Thus, we are into a mission for leaning about growth, as individuals and as leaders of our organizations. By doing so, we create a learning organization, which is one of the goals of this reflection and opportunity. 
+
+
+
+
 
 
 
@@ -367,6 +371,8 @@ In other words, we aim a strategy that ceases to be reactive or speed-oriented f
 @meta @Outline
 * outline - introduction - Answer - book's intention 
 --> 
+
+In other words, we aim a strategy that ceases to be reactive or speed-oriented from the pressures clamoring for results. Thus we will set themselves to avoid resorting to abuses that form a toxic culture centered where the end justifies the means. In such a culture, work dances with the bursts of motivational incentives, while possible signs of an environment detrimental to the work itself and the development of the team's work methodology are silenced. The strategy cannot be reduced to just going with the flow, by following the shadows of the world’s accelerated pace. We don’t just want speed, to run for the sake of running. On the contrary, execution and effort is meant to set us to be learners again, to start again, to renew our views, to gain perspective. Thus, we are into a mission for leaning about growth, as individuals and as leaders of our organizations. By doing so, we create a learning organization, which is one of the goals of this reflection and opportunity. 
 
 Therefore, we bring situations, complications, and reflections that were not designed as recipes, as ready-made solutions to solve the adversities and complexities of the urgent mode. The idea is to strengthen, or to recover, or to keep alive, the entrepreneurial side of the entrepreneur — so that when you are confronted with chaos, and pressure, and a "normal" crazyness at work which is incessantly urgent and rarely seen as toxic and that is actually presented as a price to pay, or the norm, for success. In this sense, Fried and Hansson [^basecampcrazy] invite us to reflect:
 
@@ -383,8 +389,7 @@ Therefore, we bring situations, complications, and reflections that were not des
 
 
 
-
-In this sense, this material is not made for a machine. Our most essential reference is valuing the human being as the foundation of the entrepreneurial spirit. In other words, our strategy does not involve selling out the human being as part of the process, discarding our greatest resource. This idea necessarily creates a force, or principle, of self-respect. It sets boundaries for the well-being for the entrepreneur which I regard as the highest investment and the actual only real way to navigate through the startup environment and into growth. This will be our guiding principle for many of the reflections through the three parts to come.
+In other words, our strategy does not involve selling out the human being as part of the process, discarding our greatest resource. This idea necessarily creates a force, or principle, of self-respect. It sets boundaries for the well-being for the entrepreneur which I regard as the highest investment and the actual only real way to navigate through the startup environment and into growth. This will be our guiding principle for many of the reflections through the three parts to come.
 
 
 
