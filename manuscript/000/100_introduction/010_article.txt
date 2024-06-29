@@ -1,7 +1,33 @@
 
+
 # Introduction #
 
 
+
+If I start his book - as if I am next to you and you are driving it - telling you that I am about to pull the hand brake, and invite us to take a different kind of turn, essentially asking us to reflect about our need for speed, how would you feel? And furthermore, I shift the radio from a song "Eye of the Tiger," and to a station that is a slow beat lecture telling us that the way we are driving ourselves through life, and how we drive our startups, and our companies, are taking us into a land of confusion, and it too say that this harm work in general, and harms us as entrepreneurs, and harms us as human beings, and the development of humanity. How would we feel? This probably does not fit the situation, it may be too fragmented, or too brutal. It does not matter the arguments. 
+
+While, on the other hand, if I tell you to watch out, or to take care, 1000 points for not hitting the granny, save fuel, or a quick pit stop to change the tire faster, that sort of language; of course, it sounds coherent by the implict situation of being in the cockpit, even when I distract you it is easier to deal with these things which goes along with the pleasure of turning back on a high beat music. Now we know that founders, entrepreneurs, are on a mission of learning and discovery - and with that that they are involved with the necessity for self growth. But we know too that they are in the cockpit in the first place. It's a requirement of entrepreneurs like the requirement of artists - that they get things done, that they do it, and that it is from while doing it that they are called to learn. We know that too.  
+
+Now, a complication comes on our way. Or a few complications anyway, from that situation of being in the cockpit first and having to learn too, which may have to do with the need for speed. We are, to some or great extent, teased to use the thing we see. And what we see is not even a destination ahead, the future. What we see, mostly, and actually, and in fact, is the cockpit and part of the road. When I wrote this, it reminded of an old Atari game, a racing game called Enduro. It was basically a car, and I could accelerate or hit the break and move to the right or to left. And then my goal, as I felt and remember, was to pass the cars coming ahead, and not hit them, as I were speeding. And some nice thing was that the view changed, out of the sudden. From a sunny day to night or to rain or snow or a cloudy. With these different weather settings it required me to use a different way to drive. I liked the cloudy one, because I could see only a short road ahead and the cars would come out, out of a the sudden. The whole playing experience was amazing. Anyone could understand, could be onboarded into that game experience. It had something in it, so simple and fun. The gamification characteristization which I felt even in the days when the idea of gamification wasn't generally known. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Slow down and hurry up 
 
 
 
@@ -101,12 +127,10 @@ I don’t think that our corporate world had invented Doing it or took us into t
 
 
 
-
-
-
-
-
-
+<!-- 
+@meta @Outline
+* @outline - Guacamole instead of trainig, observable. 
+-->
 
 
 But in perspective, if any of that language of action exists, it might do so as a result of an passive-aggressive work environment that favors a situation that leans heavily on extracting effort from humans. Althought guacamole could be evidently present [^footnote_guacamole_traning] in some of the best working places, it is arguably unfair to celebrate the exagerations given by these illustrations such as the implied idea that an action-oriented style of management, as opposed to real management, is the main beast we should fear. But the truth that I am after - throughout my attempt to turn what appears to be fun into bitterness - lies in considering the dangers of our inclination, as humans, to when we turn to become entrepreneurs and grab the wheel. When we operate the early stage with the same kinds of movements of the accelerated or productive world as we know it, as in to pursue the end no matter the means. Not a truth sought by the modern worker that operates  a mechanical equipment that put the life of their colleagues at risk, but in the sense of an entrepreneur that enters into entrepreneurship as if it is a car and suddently focuses on the road ahead, and feels that the equipment is there to accelerate into the destination, and by doing so denies to invest in developing consciousness for its behaviors, such as the management of entrepreneurship. 
@@ -134,6 +158,14 @@ But in perspective, if any of that language of action exists, it might do so as 
 
 * prior outline - introduction - #Complication that Managers are followers?
 --> 
+
+
+<!--
+@meta-todo
+
+* @todo - p1 ( ) - In Foreword vs. Introduction - Reconcile the point of abundance from capitalism with the confusion of information. Check foreword_world check "Therefore, we are in a paradoxal situation. Because despite the turbulence and potential confusion, we have so much more information and tools of unquestionable quality in front of us, more accessible and cheaper. This should be a factor that promotes an optimistic view, for better chances. And if you dig, it is quite rational as we must agree that we now have much more data, more stories, more references, more tools, more means of interaction, more for growth, and even more. In this regard, we should consider the optimistic view from A16Z, the renowned top-tier venture capital firm from Silicon Valley, for where we are going: > "We believe the measure of abundance is falling prices. Every time a price falls, the universe of people who buy it get a raise in buying power, which is the same as a raise in income. If a lot of goods and services drop in price, the result is an upward explosion of buying power, real income, and quality of life." > (Andreessen, 2023)" @meta-refid 1222-3334-8884-9999
+-->
+
 
 
 
