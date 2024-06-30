@@ -27,7 +27,6 @@
 # Todos p2s #
 
 * p2 ( ) - In introduction -  Check the footnote of Andy Grove, pick original quote from Only the Paranoid Survive / Ref 123e4567-e89b-12d3-a456-426614174000
-* p2 ( ) - In Introduction - Check the quote again, from the English book of Fried and Hansson "It Doesn't Have to be Crazy at Work" / Ref - 9a7b111c-8c02-4d1e-b9eb-79a344c1c0f0
 * p2 ( ) - In introduction - Should growth - as defined by Paul Graham - be indicated as a pressure of the startup setting? Ref "[^editornote_paulgraham_growth]: Paul Graham covers both the aspect that startups are for a growth situation but also covers that founders follow instincs such as a willingness to play the game. The through of sorrow of Paul Graham also depicts that startups force their status as political, projections, leading to falling in their own traps, such as to be sad that their projections were not real." / ref 829482-2948492-429084928-429884922
 
 * @todo - p2 ( ) - In Impact - Check quote from Blitzscaling Reid and Brian' interview where he is honest that he had learned with Brian. @meta-refid 1222-3332-9993-3333 
@@ -462,6 +461,8 @@ https://chat.openai.com/share/b7eb16c5-4c18-4709-9220-bd2629f34a3d
 * @todo - p1 (Done) - Inducing vs Autonomous - Consider correlation of the being with the corporate - From Let Chaos Reign - "Alert strategic leadership is cognizant of the important role of both induced and autonomous processes in strategy-making, tolerates a sufficient level of uncommitted resources and looseness in control to continue to maintain a portfolio of autonomous initiatives, and is able to select at the right time those that need to be converted to the discipline of the induced process in order to cope with nonlinear strategic dynamics. " https://www.gsb.stanford.edu/gsb-box/route-download/318706 Feat. Andy Grove.  Reference - Burgelman, R. A., & Grove, A. S. (2007). Let chaos reign, then rein in chaos – repeatedly: Managing strategic dynamics for corporate longevity (Research Paper No. 1954). Stanford Graduate School of Business. https://www.gsb.stanford.edu/gsb-box/route-download/318706 @meta-refid 5454-7474-8585-9894
 
 # Done p2
+
+* p2 (Done, removed) - In Introduction - Check the quote again, from the English book of Fried and Hansson "It Doesn't Have to be Crazy at Work" / Ref - 9a7b111c-8c02-4d1e-b9eb-79a344c1c0f0
 
 * @todo - p2 (Done) - In Running, introduction - Should we incorporate the note from Andy and his colleague? in Let the Chaos Reign. @meta-refid 1222-3322-4433-8484 
 

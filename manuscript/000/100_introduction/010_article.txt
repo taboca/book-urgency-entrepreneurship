@@ -125,6 +125,12 @@ I don’t think that our corporate world had invented Doing it or took us into t
 
 
 
+
+
+
+
+
+
 <!-- 
 @meta @Outline
 * @outline - Guacamole instead of trainig, observable. 
@@ -139,6 +145,12 @@ But in perspective, if any of that language of action exists, it might do so as 
 @meta @references 
 * reference - Global Silicon Valley. (2018, April 28). ASU GSV Summit: Main Stage Panel: The Future of Talent -- Transcending Work [Video]. YouTube. https://www.youtube.com/watch?v=GFKgJ4wkxQU&t=345s
 --> 
+
+
+
+
+
+
 
 
 
@@ -167,7 +179,20 @@ But in perspective, if any of that language of action exists, it might do so as 
 
 
 
-To put in perspective, in the light of our strategy throught the book, the recognition of that language of action - particularly illustrated in the corporate sphere - is a starting point so that we can consider what we do, how we do, and what we do, is a movement that is driven. As an example, consider that our propensity to drive by key results, such as seeking key results connected with outcomes, rises from the individual which makes it synergentically projected in the collaborative situations of work. In the same perspective, it isn't a higher-order force, such as the above layers of management of a given organization, that brought us to where we are, such as to when we behave as urgent beings. In fact, we brought ourselves there as our success made a new world that we are into - the world of abundance of tools, resources, information, and the hyper-fast potential of a network. 
+To put in perspective, in the light of our strategy throught the book, the recognition of that language of action - particularly illustrated in the corporate sphere - is a starting point so that we can consider what we do, how we do, and what we do, is a movement that is driven. As an example, consider that our propensity to drive by key results, such as seeking key results connected with outcomes, rises from the individual which makes it synergentically projected in the collaborative situations of work. 
+
+
+
+
+
+
+
+
+
+<!--
+@outline - note - abstract, recognition of good 
+--> 
+
 
 And this situation, which is undeniably good - and that is the problem - actually sets a challenge ahead of entrepreneurs, such as if you consider that an arbitrary entrepreneur might not see an inferno ahead, a so clear reason to free the world, and more importantly to the context of our book, so clear reason to execute entrepreneurship differently. In other words, if we are running along, or rolling, in the pace of the corporate sphere, anb in the pace of the urgent and networked world, we may have no reasons to break through, to think through, to break the norm, to break the speed, to break automatic responses, and so on. And this becomes a major complication for us, entrepreneurs or anyone that cares about them, and anyone who cares about humanity, because the environment of our success gives the means, such as an inclusive, or easy, or cheap, or acessible, of supporting an arbitraty entrepreneur such as one in a hurry, to just jump into actions, as if they had a "Jump to Conclusions Mat" where they can jump to. 
 
@@ -270,6 +295,16 @@ From these considerations, we may be pleased to pause this thinking with an obje
 * Reference - Drucker, P. (2011). Technology, management, and society. Routledge.
 --> 
 
+
+
+
+
+
+
+<!--
+@meta@outline - grade 5 - narrative rationality. 
+--> 
+
 This form of operating decisions — with data — provokes us to reflect upon what can apparently look like a mechanization of cognition, which runs together with the the pressure of greater efficiency at work. The presence of data becomes concrete, providing people with "good data" which supports good reasons when faced with a decision that needs to be made. Data captivate us, certainly, because they work so well, when they do work.
 
 
@@ -285,15 +320,16 @@ This form of operating decisions — with data — provokes us to reflect upon w
 
 
 <!-- 
-@meta @Outline
+@meta @outline
+* @meta@outline outline - @keyword - #tools 
 * outline - introduction, answer 2 - All is interactive and iterative, systems, networks, platforms.  
 --> 
 
-In the interconnected and turbulent world, experts are constantly under pressure to provide "faster" and more modern solutions for things they are already familiar with. Why send individual emails when you can send a million at once? It seems as though all available solutions appear useful and efficient. Additionally, in this chaotic environment, when you seek assistance, it’s not hard to find a multitude of resources available that, in one way or another, say "yes, I can help." These resources are experts in their fields, ready to execute what they know, showcasing their expertise. A programmer who codes faster, an engineer who calculates more quickly. The tools are more automated, and they deal with more data, or live data, and are readily available, and it leads to one click decision-making. Amidst this immediate availability of models, it’s easy to get swept up in the current—let’s face it—and choose solutions that promise quicker delivery among the options, without reconsidering the strategy of the process itself.
+In the interconnected and turbulent world, experts are constantly under pressure to provide "faster" and more modern solutions for things they are already familiar with. Why send individual emails when you can send a million at once? It seems as though all available solutions appear useful and efficient. Additionally, in this environment, when you seek assistance, it’s not hard to find a multitude of resources available that, in one way or another, say "yes, I can help," but by the intrinsic applicability of pulling data and transforming data in what generally appers to be information. In other words, these resources by their implied expertise in their fields and their readiness, in terms of able to pull data, or to execute with data, induces the decision-making process. It may be a programmer who codes faster, an engineer who calculates more quickly; but in the real world are are to a greater extent the become the gatekeepers as they know how to use the tools that are on the way of the data. In other words, we depend on the people that knows how to use tools that can get the data - which can be seen as the data people. And under an extremme point of view, the more they are busy being experts in terms of how to deal with these tools and data and less with purpose, they essentially become tools. And this situation gets too quite complex the more we get tools which are more integrated, or automated, or connected with data, or integrated with live data, and are readily available, therefore enabling us to be decision makers which may react from the presence of outstanding data. 
 
-Being an action in the language, the availability of data, and tools that are now connected with data, an inertial force conveniently asks us to continue on that highly performant execution path - precisely because the external reference point, for navigation, is ignored. In this world, where speed can accelerate any specialty, we are led to believe that we can move even faster, even if we make mistakes or take a detour. Failing faster and learning is a theme that makes sense. 
+These are some of the elements that may promote action that gets into the language of our managerial narratives. Through the availability of data, and tools that are now connected with data, it sets a movement of inertial which conveniently asks us to continue on that highly performant execution path - precisely because an external reference point may not be always present to prompt a counterview of purpose. In this world, where speed can accelerate any specialty, we are led to believe that we can move even faster, even if we make mistakes or take a detour. Or we are to believe that it's okay to be failing faster and learning from post-mortem analysis, as a theme that makes sense. 
 
-However, reflection is necessary and important, as getting to the wrong place faster not only means delay but also implies the consumption of energy, resources, willpower, and motivation. Therefore, it can't be said that entrepreneurs will promptly jump into the action, the data, and the tools that support flow decisions; exactly because anyone willing to engage in entrepreneurship is now equipped with stories, methods, and systems that are made for entrepreneurs. Therefore, there is an ecosystem of entrepreneurship available which does cover the theme specialists vs. generalist. This goes back to Drucker's thought about the excess of information, it only requires more from us. And the solution gone haywire which generally chimes in - likely one to tell you what to go, a plug and play something, a framework for that too. 
+However, reflection is necessary and important, as getting to the wrong place faster not only means delay but also implies the consumption of energy, resources, willpower, and motivation. Therefore, it can't be said that entrepreneurs will promptly jump into the action, the data, and the tools that support flow decisions; exactly because anyone willing to engage in entrepreneurship is now equipped with stories, methods, and systems that are made for entrepreneurs. This goes back to Drucker's thought about the excess of information, it only requires more from us. And the solution gone haywire which generally chimes in - likely one to tell you what to go, a plug and play something, a framework for that too. 
 
 
 
@@ -308,13 +344,13 @@ However, reflection is necessary and important, as getting to the wrong place fa
 * outline - introduction, answer 3 - Comes decision making, lean induction, generalist-specialist [feat. Steve Blank]
 --> 
 
-The renowned Steve Blank has acknowledged and addressed a fundamental issue with startups when he revealed a vision he had in 2014. According to Steve, the precursor idea of the lean movement is that entrepreneurs think their ideas can be materialized as smaller versions of large companies. Steve states that "startups are not smaller versions of large companies," emphasizing the difference between a startup and an established company. He notes that a startup is in the discovery phase, which differs from a large company that has already identified its role in the market and has a validated product. When ideas are not validated, operating as if it were a large company is dangerous and risky since the young company is in the process of discovery and has limited resources for betting. 
+The renowned Steve Blank, a father of the lean movement, had addressed a fundamental issue with startups since 2014. His vision was that entrepreneurs think of their startups as smaller versions of large companies. He kept on reminding them that "startups are not smaller versions of large companies," because they are essentially in a discovery phase, which differs from a large company that has already identified its function in the market with a better validation of its product. One key takeaway is many of these lean methodologies started with good principles, such as asking us to keep up the purpose and keep up learing is key elements.  
 
-By now, much about this subject (not operating as a large company and recognizing the discovery phase) exists in startup literature and is also present in the world of platforms, methodologies, and startup structures. But now a decade later us running with the lean startup movement, and the whole entrepreneurial ecosystem, grew in size so there is literally a sea of solutions to be used by entrepreneurs, that puts them in a position to be harassed by specialized solutions - likely driven by a specialized mindset. We are not being called to embrace being specialized generalists. All of this sets us in a high-performance cockpit of startup development where it seems applicable to run on a great high-speed road of innovation. It is all one-click to do, it is all "plug-and-play". It's beautiful.
+By now, lean methods have matured, and a lot about the subject (not operating as a large company and recognizing the discovery phase) exists in startup literature and also be recognized through the modern systems that support lean movements, through platforms, methodologies, and startup structures. However, now and a decade later from many of us running with the lean startup movement (in a quite dynamic entrepreneurial ecosystem that grew in size) there are far too many solutions being used by entrepreneurs, that puts them in a position to be harassed by these solutions which would not be exacltly, or initially, seen as specialized solutions. But ends up being so, creating a specialized mindset for operating with these. In other words, many of these methods to help with decisions are used in ways where we can embrace being a kind of specialized generalist. All of this sets us in a high-performance cockpit of startup development where it seems applicable to run on a great high-speed road of innovation. It is all one-click to do, it is all "plug-and-play". It's beautiful.
 
-The key problem is that these are now connected, and lean leads to decision making. They are now essentially subject to being trapped by using lean, claiming to use lean, which is essentially in a business of closing the wrong gap. They enter closing the gap of validation, so they bring equilibrium for advancing as specialists. 
+The key problem is that these are now connected, and lean leads to decision making. They are now essentially subject to being trapped by using lean, claiming to use lean, which is essentially in a business of closing gaps, not matter the gaps. As an example, they can enter closing the gap of validation, so they bring equilibrium by advancing as specialists under what seems to be a generalist activity. The function of many lean methods in the start-up space is a function of supporting decision making for innovation. And that may take too, by its power, to become powerful, and powerfully dangerous, the exact reason for us to be conscious about the power of being "experts" dealing with these methodologies, tools, and data. 
 
-Frameworks, platforms, and all sorts and supporting systems - accelerators, incubators, networking and funding platforms, are all part of the richer landscape which also sets them to pass by valid data. When a team decides to join, in the pressure to advance, a bootcamp, enroll in an incubator, dive into an accelerator, participate in a contest, and other participations with collaboration that promisses potential results that would perhaps sling them into even faster growth. These are situations that promise acceleration and claim to solve the entrepreneur's journey. 
+Now coherent narratives are done by systems. In other words, frameworks, platforms, and all sorts and supporting systems - accelerators, incubators, networking and funding platforms, are all part of the richer landscape - supports teams to achieve potential output that would perhaps sling them into even faster growth. These solutions promise acceleration and claim to solve the entrepreneur's journey. 
 
 
 
@@ -359,14 +395,19 @@ When we are hungry for the breakfast and in front of the all-you-can-it buffet, 
 
 
 
+
+
 <!-- 
 @meta @Outline
+* @outline - rating - 5/5 
 * outline - introduction - Answer - book's intention 
 --> 
 
 This book is about procrastination disguised as entrepreneurial action, that looks like getting things done. Then it's about courage to use time to balance our views. Then it's about permission to work in what matters beyond the known matters of what appears to matter, then it's about and self-respect, which accounts our energy. 
 
-It takes courage to see productivity as procrastination. It takes permission to see through, through new goggles, to believe that something really great can be found by not being a controller. And self-respect because entrepreneurship recognizes the doer that is not a know-it-all, recognizes that the real A comes from Fs and not from Bs. It's not necessarily about joining the club because the beat seems to be the "beat of the moment." The greatest abuse an entrepreneur can commit is when they start to sacrifice who they are and see them through the eyes of the system - to shape a professional identity. From that they fail to comply with their own values, with the well-being, and with their ability to discover what they are essentially doing. It takes them to confusion, or into a fusion, and from that to produce far too many outcomes to their selves, to their colleagues, to the future of their corporations. It costs them. 
+It takes courage to see productivity as procrastination. It takes permission to see through, through new goggles, to believe that something really great can be found by not being a controller. And self-respect because entrepreneurship recognizes the doer that is not a know-it-all, recognizes that the real A comes from Fs and not from Bs. It's not necessarily about joining the club because the beat seems to be the "beat of the moment." The greatest abuse an entrepreneur can commit is when they start to sacrifice who they are and see them through the eyes of the system - to shape a professional identity. 
+
+From that they fail to comply with their own values, with the well-being, and with their ability to discover what they are essentially doing. It takes them to confusion, or into a fusion, and from that to produce far too many outcomes to their selves, to their colleagues, to the future of their corporations. It costs them. 
 
 
 
@@ -389,16 +430,18 @@ It takes courage to see productivity as procrastination. It takes permission to 
 
 In other words, we aim a strategy that ceases to be reactive or speed-oriented from the pressures clamoring for results. Thus we will set themselves to avoid resorting to abuses that form a toxic culture centered where the end justifies the means. In such a culture, work dances with the bursts of motivational incentives, while possible signs of an environment detrimental to the work itself and the development of the team's work methodology are silenced. The strategy cannot be reduced to just going with the flow, by following the shadows of the world’s accelerated pace. We don’t just want speed, to run for the sake of running. On the contrary, execution and effort is meant to set us to be learners again, to start again, to renew our views, to gain perspective. Thus, we are into a mission for leaning about growth, as individuals and as leaders of our organizations. By doing so, we create a learning organization, which is one of the goals of this reflection and opportunity. 
 
-Therefore, we bring situations, complications, and reflections that were not designed as recipes, as ready-made solutions to solve the adversities and complexities of the urgent mode. The idea is to strengthen, or to recover, or to keep alive, the entrepreneurial side of the entrepreneur — so that when you are confronted with chaos, and pressure, and a "normal" crazyness at work which is incessantly urgent and rarely seen as toxic and that is actually presented as a price to pay, or the norm, for success. In this sense, Fried and Hansson [^basecampcrazy] invite us to reflect:
+Therefore, we bring situations, complications, and reflections that were not designed as recipes, as ready-made solutions to solve the adversities and complexities of the urgent mode. The idea is to strengthen, or to recover, or to keep alive, a truly entrepreneurial side of the entrepreneurial spirit. This is so that you can confront the chaos, the pressure, or what appears to be a normal crazyness [^basecampcrazy] of work which is incessantly urgent and rarely seen as toxic. 
 
-[^basecampcrazy]: Fried and Hansson are the founders of Basecamp, a well-known company from Silicon Valley focused on productivity. In the book "It Doesn't Have to Be Crazy at Work," they argue that it is necessary to work against the industry's toxic instincts and norms that avoids the possibility of managing a company calmly. The expression "It's crazy at work" is used by them to describe a work environment where pressure, such as excessive working hours, and consequences like anxiety, are the norm; and they reject this idea in favor of a calmer and more balanced work environment.
-
-> *"Infelizmente, administrar uma empresa de maneira tranquila não é o modo padrão de gerir uma empresa atualmente. Você precisa ir contra seus instintos por um tempo. Você precisa deixar de lado as normas tóxicas da indústria. Você precisa reconhecer que 'É loucura no trabalho' não está certo."* (Fried & Hansson, 2018, p. 9, tradução nossa).
+[^basecampcrazy]: Fried and Hansson are the founders of Basecamp, a well-known company from Silicon Valley, in "It Doesn't Have to Be Crazy at Work," argue that it is necessary to work against the industry's toxic instincts and norms that avoids the possibility of managing a company calmly. The expression "It's crazy at work" is used by them to describe a work environment where pressure, such as excessive working hours, and consequences like anxiety, are the norm; and they reject this idea in favor of a calmer and more balanced work environment.
 
 <!--
 @meta @todo 
-* p2 ( ) - In Introduction - Check the quote again, from the English book of Fried and Hansson "It Doesn't Have to be Crazy at Work" / Ref - 9a7b111c-8c02-4d1e-b9eb-79a344c1c0f0
+* p2 (Done) - In Introduction - Check the quote again, from the English book of Fried and Hansson "It Doesn't Have to be Crazy at Work" / Ref - 9a7b111c-8c02-4d1e-b9eb-79a344c1c0f0
 -->
+
+
+
+
 
 
 
