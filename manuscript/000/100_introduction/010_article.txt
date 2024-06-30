@@ -3,17 +3,15 @@
 # Introduction #
 
 
+If I am next to you and you are driving — telling you that I am about to pull the hand brake - and I invite us to take a different turn, asking us to reflect about our need for speed, how would you feel? And furthermore, I shift the radio from *Eye of the Tiger*, by Survivor, to a lecture essentially telling us that how we conduct ourselves through life — and how we drive our startups and our companies — are driving us into a land of confusion. How would you feel? Probably, a shift that doesn't fit. We both feel a not-so-smooth move, not coherent, perhaps brutal. It may even not matter the arguments since we may not get to that point anyway.
 
-If I start his book - as if I am next to you and you are driving it - telling you that I am about to pull the hand brake, and invite us to take a different kind of turn, essentially asking us to reflect about our need for speed, how would you feel? And furthermore, I shift the radio from a song "Eye of the Tiger," and to a station that is a slow beat lecture telling us that the way we are driving ourselves through life, and how we drive our startups, and our companies, are taking us into a land of confusion, and it too say that this harm work in general, and harms us as entrepreneurs, and harms us as human beings, and the development of humanity. How would we feel? This probably does not fit the situation, it may be too fragmented, or too brutal. It does not matter the arguments. 
+Now imagine that we shift places. Yes, I start still or stuck but I accept to take the steering wheel, and we go. Now you tell me to watch out, to take care, and that I get 1000 points for not hitting the granny. You tell me too some stratetic moves, like to save fuel, and you ask us for a quick stop to replace our tires, that sort of language. Of course, this feels coherent, to some extent, by the implied situation of the position that we are, in the cockpit. Actually, right now, I ask us for that high beat music although I rather go with “Believe,” by Cher.
 
-While, on the other hand, if I tell you to watch out, or to take care, 1000 points for not hitting the granny, save fuel, or a quick pit stop to change the tire faster, that sort of language; of course, it sounds coherent by the implict situation of being in the cockpit, even when I distract you it is easier to deal with these things which goes along with the pleasure of turning back on a high beat music. Now we know that founders, entrepreneurs, are on a mission of learning and discovery - and with that that they are involved with the necessity for self growth. But we know too that they are in the cockpit in the first place. It's a requirement of entrepreneurs like the requirement of artists - that they get things done, that they do it, and that it is from while doing it that they are called to learn. We know that too.  
+Now, when we reflect about the road of founders, as entrepreneurs, or us as entrepreneurs of our lives, we all know that they are on a path of learning. We see the coherence from there. So we know that for them to do things well requires self-growth. But we know too that they do so by being, in the first place, before becoming. This is not different from the situation of artists that get things done and, while doing, are being called to learn.
 
-Now, a complication comes on our way. Or a few complications anyway, from that situation of being in the cockpit first and having to learn too, which may have to do with the need for speed. We are, to some or great extent, teased to use the thing we see. And what we see is not even a destination ahead, the future. What we see, mostly, and actually, and in fact, is the cockpit and part of the road. When I wrote this, it reminded of an old Atari game, a racing game called Enduro. It was basically a car, and I could accelerate or hit the break and move to the right or to left. And then my goal, as I felt and remember, was to pass the cars coming ahead, and not hit them, as I were speeding. And some nice thing was that the view changed, out of the sudden. From a sunny day to night or to rain or snow or a cloudy. With these different weather settings it required me to use a different way to drive. I liked the cloudy one, because I could see only a short road ahead and the cars would come out, out of a the sudden. The whole playing experience was amazing. Anyone could understand, could be onboarded into that game experience. It had something in it, so simple and fun. The gamification characteristization which I felt even in the days when the idea of gamification wasn't generally known. 
+Now, a complication goes back to that cockpit, especially now that the cockpit appears to be richer, or smarter, or better. It may be that the cockpit, and its dashboard, drive us to the need for speed. It may be that we are teased to use the things we see in front of us. What we see, to some extent, seems clear, well designed, and applicable. This is the cockpit. We see controls, and instruments, and meters, and counters, and lights. We see the dashboard. And we feel the empowering seats too, to some extent, and how it feels safe, and comfortable. And of course, to be fair, we do see the road ahead.
 
-
-
-
-
+When I wrote this, I remembed of an old Atari game, a racing game called Enduro. It was basically a car, and I could accelerate or hit the break and move, to the right or to the left. The goal, as far as I remember, was to pass other cars ahead, to not hit their back while running fast. A nice thing was how the weather changed out of the sudden, from sunny to rainy to snowy and into the evening and the night. For each of these conditions, it required a specific skill. The one I liked in particular was the foggy, because the cars would appear out of the gray, from nowhere. It was fun and challenging to play.
 
 
 
@@ -183,6 +181,13 @@ And this situation, which is undeniably good - and that is the problem - actuall
 
 
 
+
+
+
+
+
+
+
 <!-- 
 @meta @Outline
 ### 5. General situation for the Book
@@ -194,7 +199,12 @@ And this situation, which is undeniably good - and that is the problem - actuall
 --> 
 
 
-Therefore, I rather pull the hand brake and invite us to take another turn, and to consider that our need for speed drives us into a land of confusion that harms work in general, that harms us as entrepreneurs, that harms us as human beings, therefore the development of humanity. 
+Therefore, I rather go back to situation oof the hand brake, assuming that we left the cockpit for a while; so then to reaffirm that invitation for us to take another turn, to consider that our need for speed drives us into a land of confusion, and that this mode of doing is harming work in general, that harms us as entrepreneurs, that harms us as human beings, therefore the development of humanity. 
+
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Introduction - Dup of "need fro speed" 
+--> 
 
 
 > *"The danger that I see is the resurgence, in new and more sophisticated forms, of the old identification of psychological health with adjustment, adjustment to reality, adjustment to society, adjustment to other people. That is, the authentic or healthy person may be defined not in his own right, not in his autonomy, not by his own intra-psychic and non-environmental laws, not as *different* from the environment, independent of it or opposed to it, but rather in environment-centered terms, e.g., of ability to master the environment, to be capable, adequate, effective, competent in relation to it, to do a good job, to perceive it well, to be in good relations to it, to be successful in its terms. To say it in another way, the job-analysis, the requirements of the task, should not be the major criterion of worth or health of the individual. There is not only an orientation to the outer but also to the inner. An extra-psychic centering point cannot be used for the theoretical task of defining the healthy psyche."* (Maslow, Abrahan., 2011, p.168) 
@@ -212,7 +222,7 @@ Thus the focus area in our book comes down to reflecting on this accelerated pac
 
 
 
-Beyond what seems to be a narrative pushing for accelerated effort, the fast-paced mode of execution has also infiltrated the context of management analysis and planning. Things have not sped up simply because people are running more, working more intensively, or because managers coordinate the frantic pace because they enjoy it. The fast mode is supported by functions, or resources, that are “ready” and available at hand. 
+Beyond what seems to be a narrative pushing for accelerated effort, the fast-paced mode of execution has also infiltrated the context of management analysis and planning. Things have not sped up simply because people are running more, working more intensively, or because managers coordinate the frenetic pace because they enjoy it. The fast mode is supported by functions, or resources, that are “ready” and available at hand. And furthermore, an outstanding necessity of using the data, which can be seen as decision making induced. 
 
 
 
@@ -233,7 +243,9 @@ Beyond what seems to be a narrative pushing for accelerated effort, the fast-pac
 --> 
 
 
-In the modern reality of the knowledge worker, data have come to be used as tools, as mechanisms to accelerate decisions. The former CEO of Intel, Andy Grove, in "Arguing with Data," warned [^grovefastdata] readers that large companies are indoctrinated by contemporary management, suggesting that people should argue their debates with data already in hand (GROVEDATA, p.116).
+In the modern reality of the knowledge worker, data have come to be used as tools, as mechanisms to accelerate decisions. The former CEO of Intel, Andy Grove, in "Arguing with Data," warned [^grovefastdata] readers that large companies are indoctrinated by contemporary management, suggesting that people should argue their debates with data already in hand (GROVEDATA, p .116). In alignment with Andy's consideration, Jeff Besos's concern is also recognized among managers in general and within Amazon that people lie with data [^footnote_jeff_besos_amazon_data], and that they do that not as an evil by intention but to please the audience. 
+
+[^footnote_jeff_besos_amazon_data]: I don't know much about Amazon but I have heard some strong ideas from Jeff Besos which are flowing through and helping out managers, which goes along with the consideration from Andy; his effort to make a culture that is known as a truth-seeking culture, his recognition that people can lie with data, such as to please others of themselves, and his call to use reflecting writing, and reflecting reading, as a way to escape the traps of looking to data in the face of needs. I would then say through Amazon Jeff had supported the consideration from Andy into the culture. 
 
 <!--
 @meta @todo
@@ -247,7 +259,8 @@ In the modern reality of the knowledge worker, data have come to be used as tool
 * Improving abstraction level - We are trying to follow an advice from William Zinsser, we then contextualize a higher abstraction thought, giving value to the specifics above. 
 --> 
 
-In Technology, Management, and Society, Peter Drucker has contextualized that the situation of information abundance does impact effective communications which was stressed as the kind of communication where the receiver effectively understand and collaborates, as opposed to passively accept the message: 
+
+From these considerations, we may be pleased to pause this thinking with an objection, as in to say "hold your horsers there too," as you saying that more data, and more information actually is worse than no information and guesses? Maybe, but temporarily. Maybe we are considering here that in front of more we may fall with confusion. In Technology, Management, and Society, Peter Drucker has contextualized that the situation of information abundance does impact effective communications which was stressed as the kind of communication where the receiver effectively understand and collaborates, as opposed to passively accept the message: 
 
 > *"More and better information does not solve the communication problem, nor does it bridge the communication gap. On the contrary, the more information the greater is the need for functioning and effective communication becomes. The more information available, in other words, the greater is the communications gap likely to be. The more impersonal and formal the information process in the first place, the more will it depend on prior agreement on meaning and application, that is, on communications. In the second place, the more effective the information process, the more impersonal and formal will it become, the more will it separate human beings and thereby require separate, but also much greater, efforts, to re-establish the human relationships, the relationship of communication. It may be said that the effectiveness of the information process will depend increasingly on our ability to communicate, and that, in the absence of effective communication - that is, in the present situation - the information revolution cannot really produce information. All it can produce is data."*
 > (Drucker, 2011, p. 15)
@@ -392,6 +405,17 @@ Therefore, we bring situations, complications, and reflections that were not des
 
 
 In other words, our strategy does not involve selling out the human being as part of the process, discarding our greatest resource. This idea necessarily creates a force, or principle, of self-respect. It sets boundaries for the well-being for the entrepreneur which I regard as the highest investment and the actual only real way to navigate through the startup environment and into growth. This will be our guiding principle for many of the reflections through the three parts to come.
+
+Running the risk of commiting a fault in the world of standard writers, I will bring part part of a quote I used in this introduction, Maslow's advice that we can't be driven by the outer: 
+
+> *"There is not only an orientation to the outer but also to the inner. An extra-psychic centering point cannot be used for the theoretical task of defining the healthy psyche."* (Maslow, Abrahan., 2011, p.168) 
+
+
+<!--
+@meta @reference 
+* reference - Maslow, A. H. (2011). Toward the Psychology of Being. Martino Publishing.
+--> 
+
 
 
 
