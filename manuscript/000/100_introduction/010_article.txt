@@ -3,15 +3,50 @@
 # Introduction #
 
 
-If I am next to you and you are driving — telling you that I am about to pull the hand brake - and I invite us to take a different turn, asking us to reflect about our need for speed, how would you feel? And furthermore, I shift the radio from *Eye of the Tiger*, by Survivor, to a lecture essentially telling us that how we conduct ourselves through life — and how we drive our startups and our companies — are driving us into a land of confusion. How would you feel? Probably, a shift that doesn't fit. We both feel a not-so-smooth move, not coherent, perhaps brutal. It may even not matter the arguments since we may not get to that point anyway.
 
-Now imagine that we shift places. Yes, I start still or stuck but I accept to take the steering wheel, and we go. Now you tell me to watch out, to take care, and that I get 1000 points for not hitting the granny. You tell me too some stratetic moves, like to save fuel, and you ask us for a quick stop to replace our tires, that sort of language. Of course, this feels coherent, to some extent, by the implied situation of the position that we are, in the cockpit. Actually, right now, I ask us for that high beat music although I rather go with “Believe,” by Cher.
 
-Now, when we reflect about the road of founders, as entrepreneurs, or us as entrepreneurs of our lives, we all know that they are on a path of learning. We see the coherence from there. So we know that for them to do things well requires self-growth. But we know too that they do so by being, in the first place, before becoming. This is not different from the situation of artists that get things done and, while doing, are being called to learn.
 
-Now, a complication goes back to that cockpit, especially now that the cockpit appears to be richer, or smarter, or better. It may be that the cockpit, and its dashboard, drive us to the need for speed. It may be that we are teased to use the things we see in front of us. What we see, to some extent, seems clear, well designed, and applicable. This is the cockpit. We see controls, and instruments, and meters, and counters, and lights. We see the dashboard. And we feel the empowering seats too, to some extent, and how it feels safe, and comfortable. And of course, to be fair, we do see the road ahead.
 
-When I wrote this, I remembed of an old Atari game, a racing game called Enduro. It was basically a car, and I could accelerate or hit the break and move, to the right or to the left. The goal, as far as I remember, was to pass other cars ahead, to not hit their back while running fast. A nice thing was how the weather changed out of the sudden, from sunny to rainy to snowy and into the evening and the night. For each of these conditions, it required a specific skill. The one I liked in particular was the foggy, because the cars would appear out of the gray, from nowhere. It was fun and challenging to play.
+
+
+
+
+
+<!--
+@outline - getting things done and growth, the relationship with the environment.
+--> 
+
+
+This is a book about getting things done [^footnote_schumpeter_getting_things_done]. Now I know that this is a pretty strong statement for a book entitled *Slow Down to Start Up*. On top of that I, also feel that this is a book about the fastest way to get things done, specifically for founders and their start-ups. When I wrote this other statement, I almost took it back. But I had calmed down when I thought that there are ways to achieve results faster which are the ways where getting things done involves a) winning bets - as in by gambling - or b) by capturing value directly without bothering to know how to make value. In a simplified view, success, or impact, can be created or taken. 
+
+[^footnote_schumpeter_getting_things_done]: The theme of getting things done have sometimes created confusion to me when I thought about innovation and impact. Because I first thought that getting things done for the sake of getting things done may be arbitrary and appears to be about a waste of resources. The view of Schumpeter helped me to be calmer, because he simplified, under the perspective that in a dynamic world of exchanges it appears a necessity for effiency and from comparison among similar ways to get things done people pick more efficient ones. And from that creative new things solves their problems in new ways, as in 10x more effient, this connects with the idea of creative destruction. 
+
+Now if that is a crossroad, I am inviting you to take a left, right there. This one is the road to making things happen, as opposed to take the other, the one that appears to be right, or faster, or closer. Indeed ours appear longer but it does carry a great value. This value also defines our relationship and as sets a requirement to our road ahead. Founders are not expendable. So if I wanted you to be around, not only through this reading but through the path of your start-up, is not enough; the other good reason is that by valuing the most precious resource and requiring us to be around, we are in it implicitly make a culture that does not think of its resources as expendable which turns out in alignment with making as taking involves a less conscious movement in alignment with take your chances while making sets us into a conscious movement in alighment with the necessity not only to learn but to growth. Thus this a book about founders, on their way to get things done, doing it through their startups, in ways that they are around.
+
+Now this bring us to consider the definition of the startup. Our startup characterization is of an entity that is in it for growth, to grow, in alignment with the thought that startup equals to growth [^foonote_paulgraham_startup_growth]. From this perspective, we will have to lock in that the startup is in an evolutionary path. In mean, an entity that is formed, that starts with an idea or thoughts of purpose. And then, it changes which it materializes something - as a product or a service or as a functional entity - and this materialization happens to produce interactions with the environment, offering value and establishing an exchange, and then by that it may capture value, as a consequence of the dynamics with this external environment - the world or the market or audiences - value that may make the conditions for greater growth. 
+
+[^foonote_paulgraham_startup_growth]: Paul Graham's definition of startup equals to growth is used here, although to do it fast might confuse me, on what that means; while I become calmer when I think that essentially the fast means the more conscious way of growing before others. Visit Startup = Growth, retrieved August 29, 2023, from http://www.paulgraham.com/growth.html
+
+<!--
+@meta @reference 
+* @reference - Graham, P. (2012, September). Startup = Growth. Retrieved August 29, 2023, from http://www.paulgraham.com/growth.html
+--> 
+
+
+
+
+
+
+
+
+
+<!--
+@outline - situation of founders in the world 
+--> 
+
+Therefore, this a book about us on our ways to get things done by running a startup and interested in us to be around while taking our startup into the path of growth through evolving. A key take away when we set us there is that we are too required to grow and to evolve. And here is where our challenge gets warner, a challenge that may take tease us to take that other road, the road that appears to be right, the road that appears to be faster, or closer. 
+
+
 
 
 
