@@ -21,7 +21,7 @@ This is a book about getting things done [^footnote_schumpeter_getting_things_do
 
 [^footnote_schumpeter_getting_things_done]: The theme of getting things done have sometimes created confusion to me when I thought about innovation and impact. Because I first thought that getting things done for the sake of getting things done may be arbitrary and appears to be about a waste of resources. The view of Schumpeter helped me to be calmer, because he simplified, under the perspective that in a dynamic world of exchanges it appears a necessity for effiency and from comparison among similar ways to get things done people pick more efficient ones. And from that creative new things solves their problems in new ways, as in 10x more effient, this connects with the idea of creative destruction. 
 
-Now if that is a crossroad, I am inviting you to take a left, right there. This one is the road to making things happen, as opposed to take the other, the one that appears to be right, or faster, or closer. Indeed ours appear longer but it does carry a great value. This value also defines our relationship and as sets a requirement to our road ahead. Founders are not expendable. So if I wanted you to be around, not only through this reading but through the path of your start-up, is not enough; the other good reason is that by valuing the most precious resource and requiring us to be around, we are in it implicitly make a culture that does not think of its resources as expendable which turns out in alignment with making as taking involves a less conscious movement in alignment with take your chances while making sets us into a conscious movement in alighment with the necessity not only to learn but to growth. Thus this a book about founders, on their way to get things done, doing it through their startups, in ways that they are around.
+Now if that is a crossroad, I am inviting you to take a left, right there. This one is the road to making things happen, as opposed to the other which appears right, the apparently faster or apparently closer. Althought ours appear longer it does carry a value, one which characterizes our relationship and sets a requirement to the road ahead. That founders are not expendable. So if I wanted you to be around, not only through this reading but through the path of your start-up, is not enough; the other good reason is that by valuing the most precious resource and requiring us to be around, we are in it implicitly make a culture that does not think of its resources as expendable which turns out in alignment with making as taking involves a less conscious movement in alignment with take your chances while making sets us into a conscious movement in alighment with the necessity not only to learn but to growth. Thus this a book about founders, on their way to get things done, doing it through their startups, in ways that they are around.
 
 Now this bring us to consider the definition of the startup. Our startup characterization is of an entity that is in it for growth, to grow, in alignment with the thought that startup equals to growth [^foonote_paulgraham_startup_growth]. From this perspective, we will have to lock in that the startup is in an evolutionary path. In mean, an entity that is formed, that starts with an idea or thoughts of purpose. And then, it changes which it materializes something - as a product or a service or as a functional entity - and this materialization happens to produce interactions with the environment, offering value and establishing an exchange, and then by that it may capture value, as a consequence of the dynamics with this external environment - the world or the market or audiences - value that may make the conditions for greater growth. 
 
@@ -32,20 +32,16 @@ Now this bring us to consider the definition of the startup. Our startup charact
 * @reference - Graham, P. (2012, September). Startup = Growth. Retrieved August 29, 2023, from http://www.paulgraham.com/growth.html
 --> 
 
-
-
-
-
-
-
-
-
 <!--
 @outline - situation of founders in the world 
 --> 
 
-Therefore, this a book about us on our ways to get things done by running a startup and interested in us to be around while taking our startup into the path of growth through evolving. A key take away when we set us there is that we are too required to grow and to evolve. And here is where our challenge gets warner, a challenge that may take tease us to take that other road, the road that appears to be right, the road that appears to be faster, or closer. 
+Therefore, this a book about us on our ways to get things done by running a startup and interested in us to be around while taking our startup into the path of growth through evolving. A key take away when we set us there is that we are too required to grow and to evolve - that would be then a simplified way to see what this book is really about. And here is where our challenge gets warmer, a challenge that will keep teasing us to take that other side through the many crossroads on our way, the side that appears to be right which generally what appears to be faster or closer. 
 
+Now I said getting warmer too because there is something else that had happened in our world of founders - new characterizations of a quite busy world, or faster world, one that appears in many ways to be hot, or hotter. As the world had gotten bigger and bigger, the world of getting things done too.
+
+
+Thus, founders are thrown in a space where lots of things appear in front of them, more things, and with that more opportunities for interactions. And a lot of these things are things that are apparently cheap or important if not required. In this new world, they are teased - not yet to say bombarded - by the many solutions, ideas, thoughts, tools, methods, approaches, frameworks, platforms, advices, and more. It's a hypermarket. And more than that, this is a hypermarket where a lot of these solutions look quite applicable to the founder's journey. 
 
 
 
