@@ -23,6 +23,18 @@ This is a book about getting things done [^footnote_schumpeter_getting_things_do
 
 Now if that is a crossroad, I am inviting you to take a left, right there. This one is the road to making things happen, as opposed to the other which appears right, the apparently faster or apparently closer. Althought ours appear longer it does carry a value, one which characterizes our relationship and sets a requirement to the road ahead. That founders are not expendable. So if I wanted you to be around, not only through this reading but through the path of your start-up, is not enough; the other good reason is that by valuing the most precious resource and requiring us to be around, we are in it implicitly make a culture that does not think of its resources as expendable which turns out in alignment with making as taking involves a less conscious movement in alignment with take your chances while making sets us into a conscious movement in alighment with the necessity not only to learn but to growth. Thus this a book about founders, on their way to get things done, doing it through their startups, in ways that they are around.
 
+
+
+
+
+
+
+
+<!--
+@outline - situation - growth of startups 
+--> 
+
+
 Now this bring us to consider the definition of the startup. Our startup characterization is of an entity that is in it for growth, to grow, in alignment with the thought that startup equals to growth [^foonote_paulgraham_startup_growth]. From this perspective, we will have to lock in that the startup is in an evolutionary path. In mean, an entity that is formed, that starts with an idea or thoughts of purpose. And then, it changes which it materializes something - as a product or a service or as a functional entity - and this materialization happens to produce interactions with the environment, offering value and establishing an exchange, and then by that it may capture value, as a consequence of the dynamics with this external environment - the world or the market or audiences - value that may make the conditions for greater growth. 
 
 [^foonote_paulgraham_startup_growth]: Paul Graham's definition of startup equals to growth is used here, although to do it fast might confuse me, on what that means; while I become calmer when I think that essentially the fast means the more conscious way of growing before others. Visit Startup = Growth, retrieved August 29, 2023, from http://www.paulgraham.com/growth.html
@@ -32,17 +44,21 @@ Now this bring us to consider the definition of the startup. Our startup charact
 * @reference - Graham, P. (2012, September). Startup = Growth. Retrieved August 29, 2023, from http://www.paulgraham.com/growth.html
 --> 
 
+
+
+
+
+
+
 <!--
 @outline - situation of founders in the world 
 --> 
 
-Therefore, this a book about us on our ways to get things done by running a startup and interested in us to be around while taking our startup into the path of growth through evolving. A key take away when we set us there is that we are too required to grow and to evolve - that would be then a simplified way to see what this book is really about. And here is where our challenge gets warmer, a challenge that will keep teasing us to take that other side through the many crossroads on our way, the side that appears to be right which generally what appears to be faster or closer. 
+Therefore, this a book about us on our ways to get things done by running a startup and interested in being around while taking our startups into the path of growth through evolving. What we will see, the more we dig it further, is that this setting take us to face our own path of growth, to evolve on the way. Another simplified way to see what this book is about is to think of it as a moment that inviting us to be conscious, and by that to nurture or support the conditions, about those synergistic growth entities - the founder and the startup - growing together. 
 
-Now I said getting warmer too because there is something else that had happened in our world of founders - new characterizations of a quite busy world, or faster world, one that appears in many ways to be hot, or hotter. As the world had gotten bigger and bigger, the world of getting things done too.
+And here is where our challenge gets warmer. A general point can be taken from Reid Hoffman's characterization of our learning challenge - that we jump out of a cliff trying to assemble an airplane on our way down. That is quite intense, by the impled element of pressure given by the time and gravity of the situation. This image in itself tells me that I have to figure out a way to escape, as in to do it fast. But aside from pressure the saying celebrates the implicit situation where founders enter in it by getting things done, in the first place, and learning on their way from doing it. This is already challenging enough.
 
-
-Thus, founders are thrown in a space where lots of things appear in front of them, more things, and with that more opportunities for interactions. And a lot of these things are things that are apparently cheap or important if not required. In this new world, they are teased - not yet to say bombarded - by the many solutions, ideas, thoughts, tools, methods, approaches, frameworks, platforms, advices, and more. It's a hypermarket. And more than that, this is a hypermarket where a lot of these solutions look quite applicable to the founder's journey. 
-
+But it gets warmer, or hotter, our ways. Because of some other characterizations from our our environment of entrepreneurship, or how we perceive it. What is new, innevitably appears as something great and comes from the characterizations of our world, of our new and busy world, or faster and accelerated world. Our world that had gotten bigger and bigger, or warmer and hotter, or more interactive and iterative, and so the world and ways for getting things done. Back to the metaphor, imagine that we jump of a cliff, trying to assemble that airplane on our way down, in a weather that changes looking at others around that did the same, and with a lot of things falling next to you that you can pick to help. And a lot of these things are things are there to help, make no mistake. None of them are evil, or at least a lot in there are to some extent valid. And a lot of these things are cheap and easy to plug, or important, if not required. In this new world, or an assumed short ride, we are teased - not yet to say bombarded - by these packages or boxes, teased to see and to unbox, and involved, by these which comes with good content (ideas, thoughts, methods), no doubt there. And some of these too can give us some superpowers - professionals can ride along, platforms and frameworks are given to set us in a better path, advices and great thoughts all coming too in quite colorful and enchanting ways. Again, none of that is evil. All of these things are a given, are the actual tools, the building blocks. But it is too, down to earth and in reality, a sort of hypermarket, with too many aisles and too many solutions. And all of them have good boxes, good or great narratives. Many of them are proven solutions - we can see many others using it. And many of them comes with the proper, or regulated, descriptions of its ingredients and risks of incorrect use. On top of that challenging new ride, one thing we know of founders. That they can be hungry. 
 
 
 
@@ -50,52 +66,11 @@ Thus, founders are thrown in a space where lots of things appear in front of the
 
 
 
-
-
-
-
-
-
-### Slow down and hurry up 
-
-
-
-
-<!-- 
-@meta @Outline
-### Punchline - 
-
-- Slowing down feels bad, while the urge to hurry up and run feels better.
-- Slowing down is associated with uncertainty, whereas running feels connected with certainty.
-- The new language of "hurry up" or "run" is reinforced by digital signals like claps, likes, and votes in collaborative environments.
-- Founder struggle, being right. 
-
-@outline
-### 2. Impact on Founders
-
-- Founders are driven to pursue small grains of success obsessively.
-- This obsession can lead to missing larger opportunities.
-  - Small successes may not align with the external environment and desired outcomes.
-  - Reduced attention spans, reduced level of calmess, leads to becoming specialists, seeking to be right, and professionals, but missing broader opportunities.
-- Moreover, eergy is wasted by focusing on misleading goals, preventing greater achievements.
-
-* [ ] Through growth path, can't feel bad, need to manage. 
-
-* ref, article, seeking greatness, grain by grain 2334-6565-6677-5567 
-
+<!--
+@outline - The crossroads, the pains, the problem of slow and pain, is a bit of an abstraction, of the actual complication
 --> 
 
-
-
-When an incidental voice says "let's slow down," in a modern-world workplace, it doesn't sound great. If the team pauses, they might wonder "why is it that we can't keep doing what we were doing?" On the other hand, the "let's speed up," sounds more plausible, although modern-world variations of "keep cranking" are not noisy and given by the smooth beat of digitalized thumbs ups and claps by the hour. And that makes sense, doesn't it? That is how we keep the beat, how we sum our efforts, especially in the corporate situation that follows a somehow coherent movement that things are working, even when things aren’t. That goes with closing the gap, getting things done earlier, selling more, delivering faster, all things that in a way or another follows the wider rhythm of the competition, more or less eloquently or more or less mediocre.
-
-The complication, on the other hand and in the heads of entrepreneurs, happens to be that thoughts of slowing down are generally felt as frustrating. In other words, it does not matter - this happens: That when we are caught opening the gap, and not getting things done sooner or selling less or delivering slower, and the like, we just don’t like it. And this is so because we are caught by that uncomfortable feeling. Now, we do know that founders or innovators have to be resilient, that they are aware of a world of uncertainty, that they need to be prepared for what does not look productive, or prepared to be wrong, initially certainly but as well throughout the growth path. And we know too, to be fair, that for many of them entrepreneurs that fear of failure, maybe a raw fear, does work as a kind of fear that drives growth, that takes them to move mountains.
-
-But what we may not know, or feel, or fail to notice, is a feeling that happens on a by-the-hour basis, or real-time, now something that we might be quite used to. That feeling of sadness, into ourselves, into the self, felt grain by grain, to subtitle anyway to be noted. But apparent anyway from our needs to be constantly monitoring, constantly seeking to grab, constantly seeking validation. One which may materialize an inner system, a certain operating system of management; again perhaps fueled or teased or mirrored by that outer operating system of getting things done, the one that wants to feel great by those great things, the one which welcomes productivity; as in, as soon as possible.
-
-But here we are worried, to our lives as founders and entrepreneurs of ourselves, living our own journeys, that that normal movement for grabbing what feels productive is not enough to bring out the great, for us, for the startup, and for the long term business, and for society. As for what we do out there, bargains rise as outcomes. For startups? They may pivot quickly into the first thing that seems to work. Some of them then fail and simply don't get why some weird competitor does it better. For the big corporations? It dies, by not having a way to change, or they acquire others to delay or in an attempt to import some new characterization of change. And for their leaders, they rather be replaced than to be seen as babies again.
-
-But to ourselves, we can’t see what we pay for ourselves, running our projects or startups or our own lives like that. That we are too involved - by now - with that mechanized way of looking at life - constantly dispensing our attention, our focus, to that other part of the equation, welcoming greatness, even little great grains, grain by grain. As in, by the hour, or by the minute, and obsessively. But more than that, we can’t see that by that grain-by-grain movement we are taking us into a condition of saturation and missing living our journeys in ways connected with fundamental values. And by living that we too get, grain by grain, disconnected from our true potential.
+Our complication,  will keep teasing us to take that other side through the many crossroads on our way, the side that appears to be right which generally what appears to be faster or closer. 
 
 
 
@@ -116,40 +91,6 @@ But to ourselves, we can’t see what we pay for ourselves, running our projects
 
 
 
-
-
-<!-- 
-@meta @Outline
-### 3. Situational Alert
-
-- The general language of action, in life and corporate world suggests using humans as expendable resources.
-  - Example: High spending on guacamole (positive experience) vs. low spending on training (boring but necessary).
-- Founders cannot replace themselves and must take care not to see themselves as expendable.
-- For us all, and founders too, retrospective fixing our actions are costly and should be avoided.
-
-* Prior outline - introduction, complication - An abstraction, a question, a provocation: Can this be a passive-aggressive managerial system? If I turn fun -> bitter, conclusion is bad management? All is wrong or just wrong if we take the wheel to use this translate into entrepreneurial action?
-
-* @external-article @meta-refid 6565-4774-9994-4433 
---> 
-
-
-
-
-### It's fun to work and do it right 
-
-
-
-Should we blame our corporate world, as the producers of that specialist spirit which prevent us from embracing that generalist mindset when we need it? I don’t think so, in fact it’s all around. Our office space just happens to carry on a characterization. There seems to be something, Mechanized or Specialized, that grows in us. A strength that sticks with us. And one too that take us to fear, so badly or cryptic, the idea of slowing down.
-
-Something about that we seem to know. It may be observable in our educated world as we know it, certainly in our work spaces, in our families, and inside of us. Deep inside, we know it, somewhere from our regressions — the size of that monumental investment we took before that great walking far from the leg of our mother. And how it felt after we went back to her hugging and lovely smile. We went through our first exit, successfully. From that, we like it or not, we carried too that other knowing. The knowing about what it takes, that other monumental thing we need (from us or someone else,) before we do that other new thing ahead of us, that new movement. This may be the will to stick, if you will.
-
-But a bit different from our parents who were trying to balance their part policeman and part therapist roles, the corporate world, policies if you will, might have added some fun to the whole thing. In particular, focusing on the “just do it” or “keep walking” element. Because “it’s fun to work,” isn’t it? Well, maybe not in all office spaces but certainly there is one that looks like an amusement park somewhere. Somewhere, remotely or closer to you, there is a modern bridge made of soda cans, now digitally mastered. There their builders can digitally scan their daily intake of cans and they can then see their own monster effort, in real-time, a reflection of their ability to build. This is much better than vanity metrics, they know. Because they can see effort, not prizes. So it’s honest, to some extent, and it is fun, and it is colorful, and the bridge looks like a rainbow.
-
-A slight complication of this fun-to-work office space is that some new complications can’t be just brought up. For complaints, for things not so fun, it may not be too fun if you don’t know how to do it. If an arbitrary crying voice escapes through the hallways, he or she may get a ‘whiner’ flair on her jacket. But that is not a flair too big, nor meant to hurt. It’s one that is colorful, one that to some extent is fun to wear, to get one of those. Through that, we may have invented some humanized ways to do these relations that does the function of equalizing the situation. And it does avoid big trouble, we know it, it prevents the whole bridge falling apart by silencing the potential networked echoes of that cry. And of course, it’s humanized too in other ways because it knows some of the therapeutic tricks and it’s principled to just enough silence the cry but not enough to silence the spirit. In other words, it never loses the warrior, it never goes gray.
-
-In other words, if a few heads say that too many men or too many people are making too many problems, from somewhere it comes, up in the sky, a supermanager wearing his red shirt with a big yellow M and the cape is for embracing all of them whiners, pronto. He is there to offer a hand made of steel, a helping hand, one that pours just enough rain on their blowing parade but not enough to cloud their horizon from that view, that rainbow, that fun-to-work office. This is how equilibrium is dispensed in this great-to-work space. It does so by serving the spirits and by setting us to keep walking with these special shoes that just do it.
-
-I don’t think that our corporate world had invented Doing it or took us into the walking, being specialists, and into fears of being generalists. Perhaps the corporate Machine just added more toppings to that good ice cream.
 
 
 
@@ -164,7 +105,7 @@ I don’t think that our corporate world had invented Doing it or took us into t
 
 <!-- 
 @meta @Outline
-* @outline - Guacamole instead of trainig, observable. 
+* @outline - Complication - The getting things done implies in specialized movement first, and it feels great. And that sets the complication of change, as comparative analysis. Feels bad for us and for the worker. Us, learning again seen as pain versus execution better. Corporations, specialist, expenddable, Guacamole instead of trainig, observable. 
 -->
 
 
