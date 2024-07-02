@@ -14,6 +14,7 @@
 
 <!--
 @outline - getting things done and growth, the relationship with the environment.
+@outline - export - https://taboca.medium.com/the-hypermarket-of-solutions-for-getting-things-done-6afed2a1f9b2
 --> 
 
 
@@ -23,17 +24,9 @@ This is a book about getting things done [^footnote_schumpeter_getting_things_do
 
 Now if that is a crossroad, I am inviting you to take a left, right there. This one is the road to making things happen, as opposed to the other which appears right, the apparently faster or apparently closer. Althought ours appear longer it does carry a value, one which characterizes our relationship and sets a requirement to the road ahead. That founders are not expendable. So if I wanted you to be around, not only through this reading but through the path of your start-up, is not enough; the other good reason is that by valuing the most precious resource and requiring us to be around, we are in it implicitly make a culture that does not think of its resources as expendable which turns out in alignment with making as taking involves a less conscious movement in alignment with take your chances while making sets us into a conscious movement in alighment with the necessity not only to learn but to growth. Thus this a book about founders, on their way to get things done, doing it through their startups, in ways that they are around.
 
-
-
-
-
-
-
-
 <!--
 @outline - situation - growth of startups 
 --> 
-
 
 Now this bring us to consider the definition of the startup. Our startup characterization is of an entity that is in it for growth, to grow, in alignment with the thought that startup equals to growth [^foonote_paulgraham_startup_growth]. From this perspective, we will have to lock in that the startup is in an evolutionary path. In mean, an entity that is formed, that starts with an idea or thoughts of purpose. And then, it changes which it materializes something - as a product or a service or as a functional entity - and this materialization happens to produce interactions with the environment, offering value and establishing an exchange, and then by that it may capture value, as a consequence of the dynamics with this external environment - the world or the market or audiences - value that may make the conditions for greater growth. 
 
@@ -59,6 +52,17 @@ Therefore, this a book about us on our ways to get things done by running a star
 And here is where our challenge gets warmer. A general point can be taken from Reid Hoffman's characterization of our learning challenge - that we jump out of a cliff trying to assemble an airplane on our way down. That is quite intense, by the impled element of pressure given by the time and gravity of the situation. This image in itself tells me that I have to figure out a way to escape, as in to do it fast. But aside from pressure the saying celebrates the implicit situation where founders enter in it by getting things done, in the first place, and learning on their way from doing it. This is already challenging enough.
 
 But it gets warmer, or hotter, our ways. Because of some other characterizations from our our environment of entrepreneurship, or how we perceive it. What is new, innevitably appears as something great and comes from the characterizations of our world, of our new and busy world, or faster and accelerated world. Our world that had gotten bigger and bigger, or warmer and hotter, or more interactive and iterative, and so the world and ways for getting things done. Back to the metaphor, imagine that we jump of a cliff, trying to assemble that airplane on our way down, in a weather that changes looking at others around that did the same, and with a lot of things falling next to you that you can pick to help. And a lot of these things are things are there to help, make no mistake. None of them are evil, or at least a lot in there are to some extent valid. And a lot of these things are cheap and easy to plug, or important, if not required. In this new world, or an assumed short ride, we are teased - not yet to say bombarded - by these packages or boxes, teased to see and to unbox, and involved, by these which comes with good content (ideas, thoughts, methods), no doubt there. And some of these too can give us some superpowers - professionals can ride along, platforms and frameworks are given to set us in a better path, advices and great thoughts all coming too in quite colorful and enchanting ways. Again, none of that is evil. All of these things are a given, are the actual tools, the building blocks. But it is too, down to earth and in reality, a sort of hypermarket, with too many aisles and too many solutions. And all of them have good boxes, good or great narratives. Many of them are proven solutions - we can see many others using it. And many of them comes with the proper, or regulated, descriptions of its ingredients and risks of incorrect use. On top of that challenging new ride, one thing we know of founders. That they can be hungry. 
+
+
+
+
+
+
+
+
+
+
+
 
 
 
