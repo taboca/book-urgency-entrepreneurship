@@ -1,4 +1,23 @@
 ## ----------------------------------------------------------
+## Letter to Christian 
+
+* Reflection 
+
+* How collaboration looks like when apparently a solo writer is doing it?
+* Whatsapp
+
+```
+Um exemplo de colaboração, no livro, que volta naquele problema de procurar visão de fora, em qualquer contexto. Quando mando para alguém, um trecho do livro, alguém dá um comentário. Daria para ouvir, reouvir, tentar ver em perspectiva, etc. Ou daria para ignorar e se defender também. Ainda, sabemos, que normalmente todo e qualquer comentário se aplica em algum contexto. Então o problema é o contexto, também. 
+
+Um caso: Eu enviei um texto, que era uma versão X de uma carta-convite apresentando o livro, tipo para investidores ou celebridades, pré-convidando eles. Em uma dessas interações, um ex-colega da Mozilla enviou um review - de fato ele fez um grande review apontando vários problemas no texto. Na pressão, suposta ou real, de responder eu encontrei uma certa tensão. Ou iria pegar muito leve, algum ponto menor acatado, ou talvez até ignorar e falar que não se aplicava porque XYZ. 
+
+Mas tinha algo a mais que notei que diante da impossibilidade de um reply rápido mas mantendo em aberto. Neste meio tempo notei que eu estava carregando algumas questões que ele colocou. Como se eu tivesse de fato tentando resolver o ponto que ele comentou naquela carta. Masnão exatamente no contexto daquela carta introdutória. No caso eu acabei por umas 2 semanas resolvendo alguns pontos mas na Introdução do livro. Ou seja, para eu responder ele eu precisei editar e rever a introdução toda e até de certa forma alguns elementos do livro como um todo. 
+
+Em outras palavras, como eu iria saber que a "pequena colaboração ou interação dele" iria  me levar a "travar" - por X semanas - e ter que resolver um problema mais fundamental? A razão que documentei isso, agora, é porque foi muito leve. É muito sutil e quase não percebi que eu estava tentando resolver uma outra coisa que me levaria então a chegar em mais qualidade naquela carta, em eventual revisão da carta. Não parece colaboração, nesta fase. Agora tendo refletido isso, eu notei uma intensa colaboração, até profunda, longe de pequenas interações do tipo, acatar algo simples (que parece colaboração) ou até se defender.
+```
+
+
+## ----------------------------------------------------------
 ## Letter to Dan Portillo
 
 * Ref - mozilla - 

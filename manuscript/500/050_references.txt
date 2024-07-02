@@ -25,6 +25,11 @@ Andreessen, M. (2023, October 16). The Techno-Optimist Manifesto. a16z. https://
  
 --> 
 
+<!-- dup? --> 
+
+Graham, P. (2012, September). Startup = Growth. Retrieved August 29, 2023, from http://www.paulgraham.com/growth.html
+
+
 Hari, J. (2023). Foco roubado: Os ladrões de atenção da vida moderna. (L. Reyes Gil, Trad.). Vestígio.
 
 <!-- 

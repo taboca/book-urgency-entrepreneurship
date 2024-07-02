@@ -2,16 +2,6 @@
 
 # Introduction #
 
-
-
-
-
-
-
-
-
-
-
 <!--
 @outline - getting things done and growth, the relationship with the environment.
 @outline - export - https://taboca.medium.com/the-hypermarket-of-solutions-for-getting-things-done-6afed2a1f9b2
@@ -22,15 +12,31 @@ This is a book about getting things done [^footnote_schumpeter_getting_things_do
 
 [^footnote_schumpeter_getting_things_done]: The theme of getting things done have sometimes created confusion to me when I thought about innovation and impact. Because I first thought that getting things done for the sake of getting things done may be arbitrary and appears to be about a waste of resources. The view of Schumpeter helped me to be calmer, because he simplified, under the perspective that in a dynamic world of exchanges it appears a necessity for effiency and from comparison among similar ways to get things done people pick more efficient ones. And from that creative new things solves their problems in new ways, as in 10x more effient, this connects with the idea of creative destruction. 
 
-Now if that is a crossroad, I am inviting you to take a left, right there. This one is the road to making things happen, as opposed to the other which appears right, the apparently faster or apparently closer. Althought ours appear longer it does carry a value, one which characterizes our relationship and sets a requirement to the road ahead. That founders are not expendable. So if I wanted you to be around, not only through this reading but through the path of your start-up, is not enough; the other good reason is that by valuing the most precious resource and requiring us to be around, we are in it implicitly make a culture that does not think of its resources as expendable which turns out in alignment with making as taking involves a less conscious movement in alignment with take your chances while making sets us into a conscious movement in alighment with the necessity not only to learn but to growth. Thus this a book about founders, on their way to get things done, doing it through their startups, in ways that they are around.
+Now if that is a crossroad, I am inviting you to take a left, right there. This one is the road to making things happen, as opposed to the other which appears right, the apparently faster or apparently closer. Althought ours appear longer it does carry a value, one which characterizes our relationship and sets a requirement to the road ahead. That founders are not expendable. We will get to that later but in short I want you to be around, not only through the reading and this reflective moment but through the path of your start-up. 
+
+
+
+
+
+
 
 <!--
 @outline - situation - growth of startups 
 --> 
 
-Now this bring us to consider the definition of the startup. Our startup characterization is of an entity that is in it for growth, to grow, in alignment with the thought that startup equals to growth [^foonote_paulgraham_startup_growth]. From this perspective, we will have to lock in that the startup is in an evolutionary path. In mean, an entity that is formed, that starts with an idea or thoughts of purpose. And then, it changes which it materializes something - as a product or a service or as a functional entity - and this materialization happens to produce interactions with the environment, offering value and establishing an exchange, and then by that it may capture value, as a consequence of the dynamics with this external environment - the world or the market or audiences - value that may make the conditions for greater growth. 
 
-[^foonote_paulgraham_startup_growth]: Paul Graham's definition of startup equals to growth is used here, although to do it fast might confuse me, on what that means; while I become calmer when I think that essentially the fast means the more conscious way of growing before others. Visit Startup = Growth, retrieved August 29, 2023, from http://www.paulgraham.com/growth.html
+Another value, and reason, for us to take the (apparently) slower way is that the situation of founders executing their start-ups - although consists of getting things done - requires them to learn as they go. But this is not only because of any implied characterizations of learning, as in to be learning skills, but essentially because the success of themselves and their startups requires them both to synergentically learn as they go, so as they grow. I will explain but to do that we should define what a startup is. A definition from Paul Graham, that a *Startup = Growth* (2012) will guide us there:
+
+> *"A startup is a company designed to grow fast. Being newly founded does not in itself make a company a startup. Nor is it necessary for a startup to work on technology, or take venture funding, or have some sort of "exit." The only essential thing is growth. Everything else we associate with startups follows from growth.*" (Graham, Paul., 2012)
+
+<!--
+@reference 
+* @meta @reference - Graham, P. (2012, September). Startup = Growth. Retrieved August 29, 2023, from http://www.paulgraham.com/growth.html
+--> 
+
+By growth [^foonote_paulgraham_startup_growth] , Paul is talking about growth in a market. I will call it the world for a moment. In short, an entity formed from an idea, and a purpose (which is a thesis for being accepted by the world,) then it changes as it materializes as something (as a product or a service or as a functional entity,) in ways that produce interactions with this world, offering value and establishing an exchange, and by that it captures value as a consequence of the dynamics with this external environment - the world or the market or audiences - value that may, again, create conditions for further and greater growth. 
+
+[^foonote_paulgraham_startup_growth]: Paul Graham's definition of startup equals to growth is used here, although to do it fast might confuse me, on what that means; while I become calmer when observing Paul Graham's article entitled *Do Things that Don't Scale* and other ideas where essentially fast means the find conscious ways of growing. Visit Startup = Growth, retrieved August 29, 2023, from http://www.paulgraham.com/growth.html
 
 <!--
 @meta @reference 
@@ -47,11 +53,13 @@ Now this bring us to consider the definition of the startup. Our startup charact
 @outline - situation of founders in the world 
 --> 
 
-Therefore, this a book about us on our ways to get things done by running a startup and interested in being around while taking our startups into the path of growth through evolving. What we will see, the more we dig it further, is that this setting take us to face our own path of growth, to evolve on the way. Another simplified way to see what this book is about is to think of it as a moment that inviting us to be conscious, and by that to nurture or support the conditions, about those synergistic growth entities - the founder and the startup - growing together. 
+Now if we reconcile Paul Graham's *Startup = Growth* with his other views *Do Things that Don't Scale*, we will find innevitably what can be broken down in two stages, a conscious stage of learning that precedes the growth situation. Now, on top of that we should too consider some of the characterizations of the Blitzscaling model set by Chris Yeh and Reid Hoffman, which defines that situations where a start-up goes through stages of growth. In short, Blitzscaling categorizes these stages in terms of company size (family, tribe, village, city, nation) which is one way to look at the whole characterization of growth, aside from market considerations. There are many other ways. From the Blitzscaling lectures, Brian Chesky, from Airbnb, had considered the learnign challenges that a founder  (one that is around through) undergoes through these stages as not about developing a skill but essentially about having to learn a whole new sport. 
 
-And here is where our challenge gets warmer. A general point can be taken from Reid Hoffman's characterization of our learning challenge - that we jump out of a cliff trying to assemble an airplane on our way down. That is quite intense, by the impled element of pressure given by the time and gravity of the situation. This image in itself tells me that I have to figure out a way to escape, as in to do it fast. But aside from pressure the saying celebrates the implicit situation where founders enter in it by getting things done, in the first place, and learning on their way from doing it. This is already challenging enough.
+Therefore, going back to what this book is about, we may reconcile that the particular situation is of a founder that in its path of things done by running a startup, interested in being around, takes her startup into the path of growth which requires to go through stages of growth which requires the founder to evolve along the way. This is quite challenging already but it's not the main reason for us to be here. 
 
-But it gets warmer, or hotter, our ways. Because of some other characterizations from our our environment of entrepreneurship, or how we perceive it. What is new, innevitably appears as something great and comes from the characterizations of our world, of our new and busy world, or faster and accelerated world. Our world that had gotten bigger and bigger, or warmer and hotter, or more interactive and iterative, and so the world and ways for getting things done. Back to the metaphor, imagine that we jump of a cliff, trying to assemble that airplane on our way down, in a weather that changes looking at others around that did the same, and with a lot of things falling next to you that you can pick to help. And a lot of these things are things are there to help, make no mistake. None of them are evil, or at least a lot in there are to some extent valid. And a lot of these things are cheap and easy to plug, or important, if not required. In this new world, or an assumed short ride, we are teased - not yet to say bombarded - by these packages or boxes, teased to see and to unbox, and involved, by these which comes with good content (ideas, thoughts, methods), no doubt there. And some of these too can give us some superpowers - professionals can ride along, platforms and frameworks are given to set us in a better path, advices and great thoughts all coming too in quite colorful and enchanting ways. Again, none of that is evil. All of these things are a given, are the actual tools, the building blocks. But it is too, down to earth and in reality, a sort of hypermarket, with too many aisles and too many solutions. And all of them have good boxes, good or great narratives. Many of them are proven solutions - we can see many others using it. And many of them comes with the proper, or regulated, descriptions of its ingredients and risks of incorrect use. On top of that challenging new ride, one thing we know of founders. That they can be hungry. 
+Now what has changed have to do with the space and the things we use to get things done. Now our world which is hotter, or bigger, or faster, or accelerated, is giving us a lot of things to help us to get things done. What is new innevitably appears as something great from this world that is more interactive and iterative. While all that is given give us tools and reasons to do it, it give us too so many things that can be overwhelming. 
+
+I am referring to the world of solutions for getting things done. I am referring to the things that are teasing us - not yet to say bombarded - by their packages, or boxes, and voices. In reality, these aren't there to bring us trouble, we know that. None of them are evil, or at least a lot are, to some or greater extent, valid or applicable thus pragmatic to certain conditions. These things solve real problems. And many are cheap, easy to plug, and important too. And, sometimes, security seems fantastic. And, sometimes, some of them are required. In this new space, we are teased — not to say bombarded — by packages. Teased to check them, teased to taste, or to buy or to pick and then unbox them. And on top of these things, or on the side or underneath, there are beings, like us or different. They are involved, they are practitioners or advisors or experts, you name it. But they care, with us, so they are not indifferent. And there are systems too. And sometimes I look at all and I sum all and I see superpowers. But no superpower is as powerful as another thing they give us which is that we do not feel alone. And there is more, that our ways there are other interesting things which are platforms. These don’t appear to be falling when I look at. Relativelly, I see roads for taking off. And then we hear the calls, by these voices. I would not say that they are enchanting, because I do see solid narratives. I see coherence.
 
 
 
@@ -72,50 +80,10 @@ But it gets warmer, or hotter, our ways. Because of some other characterizations
 
 <!--
 @outline - The crossroads, the pains, the problem of slow and pain, is a bit of an abstraction, of the actual complication
---> 
-
-Our complication,  will keep teasing us to take that other side through the many crossroads on our way, the side that appears to be right which generally what appears to be faster or closer. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- 
-@meta @Outline
 * @outline - Complication - The getting things done implies in specialized movement first, and it feels great. And that sets the complication of change, as comparative analysis. Feels bad for us and for the worker. Us, learning again seen as pain versus execution better. Corporations, specialist, expenddable, Guacamole instead of trainig, observable. 
 -->
 
-
-But in perspective, if any of that language of action exists, it might do so as a result of an passive-aggressive work environment that favors a situation that leans heavily on extracting effort from humans. Althought guacamole could be evidently present [^footnote_guacamole_traning] in some of the best working places, it is arguably unfair to celebrate the exagerations given by these illustrations such as the implied idea that an action-oriented style of management, as opposed to real management, is the main beast we should fear. But the truth that I am after - throughout my attempt to turn what appears to be fun into bitterness - lies in considering the dangers of our inclination, as humans, to when we turn to become entrepreneurs and grab the wheel. When we operate the early stage with the same kinds of movements of the accelerated or productive world as we know it, as in to pursue the end no matter the means. Not a truth sought by the modern worker that operates  a mechanical equipment that put the life of their colleagues at risk, but in the sense of an entrepreneur that enters into entrepreneurship as if it is a car and suddently focuses on the road ahead, and feels that the equipment is there to accelerate into the destination, and by doing so denies to invest in developing consciousness for its behaviors, such as the management of entrepreneurship. 
-
-[^footnote_guacamole_traning]: In the 2018 ASU GSV Summit during the Main Stage Panel titled "The Future of Talent -- Transcending Work," Rob Biederman, Co-Founder and CEO of Catalant Technologies, highlighted an intriguing aspect of corporate spending priorities. He pointed out that a large company which likely the audience were shareholders, allocates less budget per employee on training than his own startup spends on avocados. This remark emphasizes the disparity in investment priorities, particularly in training and education, compared to seemingly trivial expenses like avocados (Global Silicon Valley, 2018) expect that it may not be trivial in the sense of keeping the train moving as it is. 
+Now our complication, going back to that crossroad of being right and fast or left or slow, is that this dynamic world of solutions for getting things done might be inducing a movement which is action oriented. It pulls a language of action that is intrisic by the whole environment for getting things done in the world of abundance. If we use the corporate world, to see a pattern of that language, we will observe that spending in training (the grown up term for learning) is yet a very low investment in comparison with execution investments. In the 2018, in a summit entitled *The Future of Talent - Transcending Work*, (Global Silicon Valley, 2018) Rob Biederman, the then CEO of Catalant Technologies, highlighted an intriguing aspect of corporate spending priorities, pointing that a large company which likely the audience were shareholders, allocates less budget per employee on training than his own startup spends on avocados. 
 
 <!-- 
 @meta @references 
@@ -124,15 +92,12 @@ But in perspective, if any of that language of action exists, it might do so as 
 
 
 
+This language of action is not created by the corporations. It is a reflex of something we know so corporations just happens to be, like us, in a situation of struggle in the face of the challenges of learning. Training goes inline with learning and learning goes inline with death, and we do not want to die. Because when we engage, with the new, we have to kill our own strong lion, before setting the new free. And to new the new, the one that does not know, we need to nurture the conditions for them.
 
 
 
 
 
-
-
-
-### Three dimensional problem 
 
 
 <!-- 
