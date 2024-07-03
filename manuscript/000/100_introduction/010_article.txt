@@ -50,10 +50,31 @@ By growth [^foonote_paulgraham_startup_growth] , Paul is talking about growth in
 
 
 <!--
-@outline - situation of founders in the world 
+@outline - Growth and Evolution. 
 --> 
 
 Now what Paul Graham has done, through *Startup = Growth*, is a work in favor to the reconciliation between the growth expectatins of a start-up and the how to achieve that. Right there he had invited founders - and however cares about them - to that calmer, or conscious reflective moment which aligns with his views from *Do Things that Don't Scale*, and innevitably invite us to the characterization of the conscious stage of learning that precedes the growth situation. In alignment, other characterizations of the dynamics between founders and start-ups also recognizes growth. One in special is the Blitzscaling model, brought by Chris Yeh and Reid Hoffman, which breaks down the growth situation by stages, which is an invitation to think about the key values to make thart happen. In short, Blitzscaling breaks down the curve by company size (family, tribe, village, city, and nation) which is essentially a way to organize and invite us to understand that growth characterizations are intrinsically given by values and the need for evolution through stages. Thus Blitzscaling is a framework in the first place one to understand what it takes. As an example, we may consider the view given by Brian Chesky, in Lecture 18 of Blitzscaling, who considered that the learning challenges for a founder (one that is around through) undergoes through these stages as not about developing a skill but essentially about having to learn a whole new sport. I see a butterfly. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 
+@outline - Complicated situation - Abundant world, interactions, confusion. Intro to mechanized founder. 
+--> 
+
+
 
 Therefore, and again back to what this book is about, we can say that a founder, interested in being around - therefore not expendable - takes her startup through the growth path which requires them both to evolve through stages. But this, although a special situation that entrepreneurs are interested, is not the special reason for us to be here. Now what has changed, or what is changing and which deserves a viewpoint, has to do with our space. This is so because our world is hotter, or bigger and faster. We now have lot of things, things that are interactive and iterative, for doing it. These things, solution to help our ways, can be overwhelming, and confusing, not only for the young and inexperienced founder but also to experienced entrepreneurs and leaders running complex organizations. 
 
@@ -77,11 +98,10 @@ In this bigger world, we have an abundance of solutions for getting things done.
 
 
 <!--
-@outline - The crossroads, the pains, the problem of slow and pain, is a bit of an abstraction, of the actual complication
-* @outline - Complication - The getting things done implies in specialized movement first, and it feels great. And that sets the complication of change, as comparative analysis. Feels bad for us and for the worker. Us, learning again seen as pain versus execution better. Corporations, specialist, expenddable, Guacamole instead of trainig, observable. 
+* @outline - Complication - The getting things done implies in specialized movement first, and it feels great. And that sets the complication of change, as comparative analysis. Although ambitions for entrepreneurial action is widespread, the outcomes as in to innovate, are driven by execution first; tied to the environment. Which seems not in alignment with entrepreneurial action which refuses the environment. Corporations, specialists, expenddable, Guacamole, means lower investment in training. But effects of new training are coming in other ways, through methods that does the job of the learning. We are not required to evolve ourselves.  
 -->
 
-Now our complication, going back to that crossroad of being right and fast or left or slow, is that this dynamic world of solutions for getting things done set us into an induced movement which is action oriented. It pulls a language of action that is intrisic by the whole environment for getting things done in the world of abundance. If we use the corporate world, to see a pattern of that language, we will observe that spending in training (the grown up term for learning) is yet a very low investment in comparison with execution investments. In the 2018, in a summit entitled *The Future of Talent - Transcending Work*, (Global Silicon Valley, 2018) Rob Biederman, the then CEO of Catalant Technologies, highlighted an intriguing aspect of corporate spending priorities, pointing that a large company which likely the audience were shareholders, allocates less budget per employee on training than his own startup spends on avocados. 
+Now our complication, going back to that crossroad of being right and fast or left or slow, is that this dynamic world of solutions for getting things done set us into an induced movement which is action oriented. It pulls a language of action that is intrisic by the whole environment for getting things done in the world of abundance. In other worlds, the more we are busy with mostly execution the more we may create an organization that is not interested in learning. It propagates through, it grows too. If we use the corporate world, to see a pattern of that language, we will observe that spending in training (the grown up term for learning) is yet a very low investment in comparison with execution investments. In the 2018, in a summit entitled *The Future of Talent - Transcending Work*, (Global Silicon Valley, 2018) Rob Biederman, the then CEO of Catalant Technologies, highlighted an intriguing aspect of corporate spending priorities, pointing that a large company which likely the audience were shareholders, allocates less budget per employee on training than his own startup spends on avocados. 
 
 <!-- 
 @meta @references 
@@ -90,7 +110,10 @@ Now our complication, going back to that crossroad of being right and fast or le
 
 
 
-But this language of action is not created by the corporations, althought corporations may have added a good deal of fun ways to act. It is a reflex of something we know so corporations just happens to be, like us, in a situation of struggle in the face of the challenges of learning. Training goes inline with learning and learning goes inline with death, and we do not want to die. Because when we engage, with the new, we have to kill our own strong lion, before setting the new free. And to new the new, the one that does not know, we need to nurture the conditions for them.
+
+
+
+
 
 
 
@@ -100,25 +123,11 @@ But this language of action is not created by the corporations, althought corpor
 
 <!-- 
 @meta @Outline
-### 4. Complications from Situations
-- The fast-paced, networked environment dictates what to do, how to do, and why to do it.
-- The hypermarket of solutions provides answers for everything, creating a positive bias in decision-making.
-- Generalist of the shelf, entrepreneurship confused with BAU 
-
-* prior outline - introduction - #Complication that Managers are followers?
+* @outline - complication - BAU, entrepreneurship, innovation. 
 --> 
 
 
-<!--
-@meta-todo
-
-* @todo - p1 ( ) - In Foreword vs. Introduction - Reconcile the point of abundance from capitalism with the confusion of information. Check foreword_world check "Therefore, we are in a paradoxal situation. Because despite the turbulence and potential confusion, we have so much more information and tools of unquestionable quality in front of us, more accessible and cheaper. This should be a factor that promotes an optimistic view, for better chances. And if you dig, it is quite rational as we must agree that we now have much more data, more stories, more references, more tools, more means of interaction, more for growth, and even more. In this regard, we should consider the optimistic view from A16Z, the renowned top-tier venture capital firm from Silicon Valley, for where we are going: > "We believe the measure of abundance is falling prices. Every time a price falls, the universe of people who buy it get a raise in buying power, which is the same as a raise in income. If a lot of goods and services drop in price, the result is an upward explosion of buying power, real income, and quality of life." > (Andreessen, 2023)" @meta-refid 1222-3334-8884-9999
--->
-
-
-
-
-To put in perspective, in the light of our strategy throught the book, the recognition of that language of action - particularly illustrated in the corporate sphere - is a starting point so that we can consider what we do, how we do, and what we do, is a movement that is driven. As an example, consider that our propensity to drive by key results, such as seeking key results connected with outcomes, rises from the individual which makes it synergentically projected in the collaborative situations of work. 
+This language is not created by corporations, we know that. But corporations are quite involved in characterizations of a controller, yet. In other words, they went further to add fun to execution, and ways to act. Furthermore, since all businesses are involved in innovation - by the very necessity of the environment - their actions in the space of learning under the world of abundance do involve embrancing the ways - methods or building blocks - to innovate and to set them within the realm of business as usual. In other words, all business will likely welcome that innovation comes from normal work. In other words, the creative brain of corporations are somewhat controlled, not to say mechanized or automated. Now this seems, to some extent, to be fair or natural because in the grown up setting a level of control is a must. Yes, we are trying to automate or mechanize the ways to innovate. Now if that is a problem for corporations, let us set that aside and go back to us. 
 
 
 
@@ -127,13 +136,27 @@ To put in perspective, in the light of our strategy throught the book, the recog
 
 
 
+Now the problem, in the realm of the entrepreneur or founders and their start-ups, goes back to the rise of these ways to innovate which may involve us to take for granted as the way to do it, certain by its own merits, as in the merits from methods that supports discovery, execution and decision-making. Now to provoke ourselves, we may think of a certain intrisic element of entrepreneurship which is that the founder, like the artist, is not 100% taken by the normal ways of execution, which is a way to see that they are not taken by the rules of the environment. If we look back, through many situations through life, entrepreneurial movement had some other thing in it which intrisically carries ones ability to break the environment with a somewhat synergetic ability to rethink the tools, or the methods. A thought from Maslow, in *Toward the Psychology of Being* can help us too: 
+
+> *"The danger that I see is the resurgence, in new and more sophisticated forms, of the old identification of psychological health with adjustment, adjustment to reality, adjustment to society, adjustment to other people. That is, the authentic or healthy person may be defined not in his own right, not in his autonomy, not by his own intra-psychic and non-environmental laws, not as *different* from the environment, independent of it or opposed to it, but rather in environment-centered terms, e.g., of ability to master the environment, to be capable, adequate, effective, competent in relation to it, to do a good job, to perceive it well, to be in good relations to it, to be successful in its terms. To say it in another way, the job-analysis, the requirements of the task, should not be the major criterion of worth or health of the individual. There is not only an orientation to the outer but also to the inner. An extra-psychic centering point cannot be used for the theoretical task of defining the healthy psyche."* (Maslow, Abrahan., 2011, p.168) 
 
 <!--
-@outline - note - abstract, recognition of good 
+@meta @reference 
+* reference - Maslow, A. H. (2011). Toward the Psychology of Being. Martino Publishing.
 --> 
 
 
-And this situation, which is undeniably good - and that is the problem - actually sets a challenge ahead of entrepreneurs, such as if you consider that an arbitrary entrepreneur might not see an inferno ahead, a so clear reason to free the world, and more importantly to the context of our book, so clear reason to execute entrepreneurship differently. In other words, if we are running along, or rolling, in the pace of the corporate sphere, anb in the pace of the urgent and networked world, we may have no reasons to break through, to think through, to break the norm, to break the speed, to break automatic responses, and so on. And this becomes a major complication for us, entrepreneurs or anyone that cares about them, and anyone who cares about humanity, because the environment of our success gives the means, such as an inclusive, or easy, or cheap, or acessible, of supporting an arbitraty entrepreneur such as one in a hurry, to just jump into actions, as if they had a "Jump to Conclusions Mat" where they can jump to. 
+
+
+
+
+
+
+
+So when we see a reflex of something we know so corporations just happens to be, like us, in a situation of struggle in the face of the challenges of learning. But again, if we think that it is about learning, we may well into a somewhat mechanized thinking that learning, as in training, can be taken, as in off the shelf. This is essentially to transform the work of learning through the eyes of the work, or to see as business as usual. 
+
+Essentially, on the other hand, we are then, or should be, concerned with evolving. This is then a book interested in helping us to be conscious about a path that will innevitably prompt us to learn. But then, right there, we may think that we are learning a skill. But no, it's evolving. And evolving is something else, like the butterfly situation. And in here, through the eyes of evolution, this something else requires us to face death. Because, deep inside we know, that when we engage with the new, we are in fact prompted to kill our own strong lion, our know-it-all acquired, before setting us free. So to be able to face the new, the one that does not know, we need to nurture the conditions. This is what this book is about.  
+
 
 
 
@@ -163,30 +186,43 @@ And this situation, which is undeniably good - and that is the problem - actuall
 --> 
 
 
-Therefore, I rather go back to situation oof the hand brake, assuming that we left the cockpit for a while; so then to reaffirm that invitation for us to take another turn, to consider that our need for speed drives us into a land of confusion, and that this mode of doing is harming work in general, that harms us as entrepreneurs, that harms us as human beings, therefore the development of humanity. 
+
+
+
+
+We if go back to that crossroad, to be right as we know it or to take the left, we are in fact stopped, and we may have left the cockpit, for a while anyway. Here I am calling us to reflecting on that 100% focus, or a need for speed, one which drives. I am inviting us as I have invited myself and am reminding myself, again and again, that this force may driving us into a land of confusion which does not translate in doing our start-up faster and that it may not take us too to see inside of us what we really want to do, and may not take the best of us too. That mode of following - of a world that tell us that it is faster - is essentially following, a mode of doing is harming our creative well-being, the well-being of how we work with our colleagues, thus harming the entrepreneurial characterization, and us as human beings, and with that the development of humanity. 
 
 <!--
-@meta @todo 
-* @todo - p2 ( ) - In Introduction - Dup of "need fro speed" 
---> 
-
-
-> *"The danger that I see is the resurgence, in new and more sophisticated forms, of the old identification of psychological health with adjustment, adjustment to reality, adjustment to society, adjustment to other people. That is, the authentic or healthy person may be defined not in his own right, not in his autonomy, not by his own intra-psychic and non-environmental laws, not as *different* from the environment, independent of it or opposed to it, but rather in environment-centered terms, e.g., of ability to master the environment, to be capable, adequate, effective, competent in relation to it, to do a good job, to perceive it well, to be in good relations to it, to be successful in its terms. To say it in another way, the job-analysis, the requirements of the task, should not be the major criterion of worth or health of the individual. There is not only an orientation to the outer but also to the inner. An extra-psychic centering point cannot be used for the theoretical task of defining the healthy psyche."* (Maslow, Abrahan., 2011, p.168) 
-
-
-<!--
-@meta @reference 
-* reference - Maslow, A. H. (2011). Toward the Psychology of Being. Martino Publishing.
---> 
-
-
-
-Thus the focus area in our book comes down to reflecting on this accelerated pace that entrepreneurs might fit and how it impacts everything precisely at in the moment that we need energy, like willpower, and good ideas, and the right conditions to move on and achieve growth as individuals and for our organizations. What stands before us is the prioritization of the startup foundation, in the opposed direction where the end justifies the means. 
+@meta-todo
+* @todo - p1 ( ) - In Foreword vs. Introduction - Reconcile the point of abundance from capitalism with the confusion of information. Check foreword_world check "Therefore, we are in a paradoxal situation. Because despite the turbulence and potential confusion, we have so much more information and tools of unquestionable quality in front of us, more accessible and cheaper. This should be a factor that promotes an optimistic view, for better chances. And if you dig, it is quite rational as we must agree that we now have much more data, more stories, more references, more tools, more means of interaction, more for growth, and even more. In this regard, we should consider the optimistic view from A16Z, the renowned top-tier venture capital firm from Silicon Valley, for where we are going: > "We believe the measure of abundance is falling prices. Every time a price falls, the universe of people who buy it get a raise in buying power, which is the same as a raise in income. If a lot of goods and services drop in price, the result is an upward explosion of buying power, real income, and quality of life." > (Andreessen, 2023)" @meta-refid 1222-3334-8884-9999
+-->
 
 
 
 
-Beyond what seems to be a narrative pushing for accelerated effort, the fast-paced mode of execution has also infiltrated the context of management analysis and planning. Things have not sped up simply because people are running more, working more intensively, or because managers coordinate the frenetic pace because they enjoy it. The fast mode is supported by functions, or resources, that are “ready” and available at hand. And furthermore, an outstanding necessity of using the data, which can be seen as decision making induced. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thus the focus area in our book comes down to reflecting on this accelerated pace that entrepreneurs might fit and how it impacts everything precisely at in the moment that we need energy, like willpower, and good ideas, and the right conditions to move on and achieve growth as individuals and for our organizations. What stands before us is the prioritization of a conscious startup foundation, in the opposed direction where the end justifies the means which innevitably take us to take solutions, not to evolve.  
+
+Beyond what seems to be a narrative pushing for accelerated effort, the fast-paced mode of execution has also infiltrated the context of management analysis and planning. Things have not sped up simply because people are running more, working more intensively, or because managers coordinate the frenetic pace because they enjoy it. The fast mode is supported by functions, or resources, that are “ready” and available at hand. And furthermore, an outstanding availability of data, and tools, and decision-making by methods, is a force strong, supporting decision making induced, and moreover taking our time totally, taking our focus from a wider view. 
+
+
 
 
 
