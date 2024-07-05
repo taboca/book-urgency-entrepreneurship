@@ -10,9 +10,7 @@
 
 
 
-
-
-Silicon Valley investor Michael Dearing, of Harrison Metal, can't resist to start many of his lectures [^footnote_michaeldearing_lectures_curve] showing a curve. And he always says that that is his favorite curve. And he always say thanks to professor Delong from Berkeley for coming up with that nice curve. It's a graph that shows the GDP per capita, through time, from One Million B.C. to the present [^footnote_braddelong_graph_curve]. In addition, he chops off the period between 1 million B.C. and 1000 (Dearing, M., 2018, 1:58), concluding that nothing special were happening. Now, as for what is left for consideration, and before celebrating the exciting period, Michael reminds us about the particular period around the 1eth century when our productivity dropped badly, the plague: 
+Before we conclude part one, and given that we have celebrated characterizations of the founder - or the roles of the founder or the startup entity - in terms of a conscious execution, we should how the enlightened by an entrepreneurial action of the self is connected with the startup growth in ways that causes in impact in the world. This brings us to a particular curve [^footnote_michaeldearing_lectures_curve], one in which Silicon Valley investor Michael Dearing calls his favorite curve, one which he can't resist to bring up when in the beginning of many of lectures. Michael is thankful to professor Delong from Berkeley for coming up with that nice curve. It's a graph that shows the GDP per capita, through time, from One Million B.C. to the present [^footnote_braddelong_graph_curve]. In addition, he chops off the period between 1 million B.C. and 1000 (Dearing, M., 2018, 1:58), concluding that nothing special were happening. Now, as for what is left for consideration, and before celebrating the exciting period, Michael reminds us about the particular period around the 1eth century when our productivity dropped badly, the plague: 
 
 [^footnote_michaeldearing_lectures_curve]: Michael's favorite curve can be seen in at least three of his talks: *Capitalism, Creativity, and Creative Destruction* (Greylock, 2015), *Two Blasts from the Past* (Spero Ventures, 2018), *Executive Communication* (Heavybit, 2019). 
 
@@ -41,11 +39,6 @@ Leaving that dark period in the past, and moving to when things started to look 
 
 
 
-
-<!--
-Which means that what can be done can be done by using existing resources - in alignment with what we have considred in the chapter Environment - and ideas and management; which certainly provoke us to think not only of the building blocks but also of the need to revisting the playbooks for getting things done in better ways. With all of that, we feel the pressure, the heat, what it is like to be in the middle of it. 
--->
-
 <!--
 
 @cross #creativedestruction
@@ -61,7 +54,7 @@ Which means that what can be done can be done by using existing resources - in a
 
 
 
-Now since that curve is on our way, we like it or not, we might as well try to listen to other signals from it with the hope of supporting our quest for impact. One key point might be a catch with the curve - as in a thing in it which may take us to take things for granted. On the surface, we certain see that exponential rise of productivity, that indeed does pay for everything. Now as for the unseen element, we should acknowledge the implied process of destruction that is not generally accounted by the first impression. This is so because what gets accounted is the sum of the output as told, as history tells, which goes well with our intents and how stories are told - we do account by using the metrics of our days. Nevertheless, these can be the hidden efforts, or the negative additions,  which is unfair to call them negative to start with exaclty because we know that our failures, our mistakes, are in fact the thing that take us to learn, to be creative, to to reinvent, then to come back to the positive. Back to the macro chart, the idea is carried by a process know of Creative Destruction [^footnote_schumpeter_creative_descruction] considered by Joseph Schumpeter. 
+Since that curve is on our way, we like it or not, we might as well to listen to signals from it with the hope of supporting our quest for impact. One key point might be a catch with the curve - as in a thing in it which may take us to take things for granted. On the surface, we certain see that exponential rise of productivity, that indeed does pay for everything. Now as for the unseen element, we should acknowledge the implied process of destruction that is not generally accounted by the first impression. This is so because what gets accounted is the sum of the output as told, as history tells, which goes well with our intents and how stories are told - we do account by using the metrics of our days. Nevertheless, these can be the hidden efforts, or the negative additions,  which is unfair to call them negative to start with exaclty because we know that our failures, our mistakes, are in fact the thing that take us to learn, to be creative, to to reinvent, then to come back to the positive. Back to the macro chart, the idea is carried by a process know of Creative Destruction [^footnote_schumpeter_creative_descruction] considered by Joseph Schumpeter. 
 
 <!--
 @meta @todo - p1 ( ) - In Impact - #dup - Creative Destruction footnote dup - Check for the ongoing referencing of creative destruction which appears in Foreword, Accounting, Environment, and Impact. Consider to bring here the case of Oliver Evans doing autonomous systems and enabling the economic movement. @meta-refid 3434-6565-8787-8585
@@ -78,100 +71,12 @@ Now since that curve is on our way, we like it or not, we might as well try to l
 
 
 
-<!--
-@outline - complication 
---> 
-
-
-
-
-
-
-
-This digging is really important to our quest, which as we know is about learning or evolution, and it reaffirms the importance to respect the managerial effort. It follows too, from this reflections, for the sake of who is interested in the continued growth, the acknowledgement that bad management - as in from a bad kingdom or king - innevitably leaves the seat at some point in time, to a strange new management by a strange new queen. Or, the new queen gets to stay if she happen to creatively destroy her bad management. In other words, the curve of growth does not care. Thus, if we do not follow through, the curve offers the seat, it does capture some value of it. Thus, the curve may make dust out of us if we do not respond [^footnote_through_inflection_points] as if it is a self-cleaning oven. Thus, once in that oven, our mission is to figure how to set ourselves fresh again. This necessity sets our challenge as people who a) need to respect our successes, our past movement which worked, but at the same time to be ready to be free from our own perspectives. The consequence is that we, and our colleagues, cannot be expendable, as we have considered in the first chapter entitled Accountin. In other words, if we follow our success curve, by pouring resources that we have acquired, and the knowledge as acquired, from the perspective and the goggles of our past, no matter how successful we are that movement will only set ourselves to be out of the way of the curve ahead somewhere - sooner or later. 
-
-[^footnote_through_inflection_points]: The idea of us being recycled into dust might set ourselves to consider the inflection points which Andy Grove had given to us as we have considered in a prior section, the reflection which applies to individuals, to our teams, and to any grown up organization. 
-
-
-
-
-
-
-
-
-<!--
-@todo
-* @todo - p2 ( ) - In Impact, in Identity, In Urgency - Check "what got you here" where should this go. Maybe, if this was not clearly explained in the first, part, it should really be part of the complication in this section. @meta-refid 1222-3332-8887-8484
-
-* @todo - p2 (Done) - In Identity - Check a reference to Reid Hoffman's "what got you here is not what take you there" or "what brought you here ..." official and also across this materials. Marcio confirms that he also refered about that under Urgency. @meta-refid 1212-2212-3233-4482
-
-* @todo - p2 (Done, removed) - In Impact - Check the above footnote, and also the context of Blitzscaling "what got you here does not take you there" and the stages, if it were in fact referred to it before since I am bringing that back, trying to reconcile. @meta-refid 7676-9494-8884-3333
-
-* Was - This model, is for Michael how startups should be scaling. He too sets a provocation, for founders and their teams,asks for a reflection, about when the gas is available, how eager founders go into pouring their resources while they aren't quite ready for it. What Michael is taking us is an opportunity to reconcicle with something we have celebrated before - a thinking from Reid Hoffman which he refers to it as the challenge of growth and where essentially "what brought you here is not what takes you there." [^editornote_reid_stages] [^editornote_reid_stages]: Check the quote from Reid, perhaps from the above interview video if not from the Blitzscaling one. 
-
--->
-
-<!--
-@cross 0100 
-* @cross - In Urgency  "what got you here is not all to get you there."
-* @cross - In Impact  "what got you here won't get you there." (@complication)
-* @cross - In Impact  "what got you here won't get you there." (@responsibility scale)
--->
-
-
-
-
-
-
-
-
-<!--
-@outline - gka and next steps 
---> 
-
-
-
-
-Now, with this idea set, and as we proceed to how to create impact or not to be out from the curve, I shall again pick up a handy thought, one carried by Reid Hoffman, an idea that "what got you here won't get you there." This thought goes along with some characterizations of our start, in the Introduction - the view that through phases we will be required to evolve - for example for growth given by Blitzscaling phases of growth start with family, tribe, village, city, and nation. 
-
-<!--
-@meta @todo 
-* @todo - p2 ( ) - In Impact - Review stages of Blitzscaling. https://www.youtube.com/watch?v=s3RrVmv5WwA  @meta-refid 1234-4321-5433-8674
-
-@meta @todo 
-* @todo - p2 ( ) - In Impact - Consider bring Brian back here? @meta-refid 6677-5656-8987-4567
---> 
-
-Next, we will first make it formal our landspace for growth which shall frame our challenge as conductors and to value our efforts of leadership from the start. To celebrate the rise of a leader from a dooer, we will reflect about the life of a hero history which were able, through getting things done, to grow herself, which took her to be alive across stages of growth of her mission. To end, we will consider a model based on compassion where we respect our sucesses but also respect our beginners, as key for the path of leadership required for growth. 
-
-
-
-
-
-
-
-
-
-
-<!--
-@outline - A.1 - How we experience, structure - Growth path for the startup, follows from the curve, and sets the challenge. 
--->
 
 
 ## Being responsible 
 
 
-
-
-
-<!--
-![](images/100/strip-rocket-160.png)
--->
-
-
-
-
-Now the first thing before we move into solving this equation for impact, is to frame the situation for our startups and ourselves, to set our expectations derived from that curve. For the startup, this formality can be celebrated with the startup definition from Paul Graham from his article entitled *Startup equals to Growth*: 
+Now, this brief lookup at the macro curve is important because the movement to that curve - think of a little push towards the exponential growth - does so because entities that acts in ways which go along with the what the startup does by the definition of Paul Graham - the one we brought in the introduction - where startup equals to growth, which we shall recapitulate again: 
 
 <!--
 @cross 
@@ -192,23 +97,11 @@ Now the first thing before we move into solving this equation for impact, is to 
 --> 
 
 
-Now a reflection is worth about the meaning of fast. This circles back to that notion that our environment may, to a great extent, expect more from us or that it may appear to do so. It may then dictacte certain movements, either by giving us building blocks, which appears to be faster. As an illustration, from our chapter Environment, we recounted some of the conditions from the environment that have supported the rise Uber (and other ride-hailing solutions that emerged at the time) from the perspective of technologies, as in Iphone shipped, GPS integrated, 3G network; and on the other hand emerging people's needs, the audience's interest in transportation improvements such as to ask for a taxi from anywhere. 
+This time, however, we should dig within the meaning of "fast" because it also supports that movement of impact into the major curve. In *Startup = Growth* (2012) Paul Graham approaches that subject, when considering the theme of rate, by eliciting the consciousness about the relative movement: 
 
-
-
-
-
-
-
-
-
-<!--
-@outline 
--->
-
-
-
-
+> *"So the real question is not what growth rate makes a company a startup, but what growth rate successful startups tend to have. For founders that's more than a theoretical question, because it's equivalent to asking if they're on the right path." (Graham, Paul., 2012)
+ 
+He points out a kind of holistic process of growth where although it starts slow, in its path for figuring out, its slowness is "partly due to internal limits and partly because the company is starting to bump up against the limits of the markets it serves." 
 
 
 <!--
@@ -221,14 +114,9 @@ Now a reflection is worth about the meaning of fast. This circles back to that n
 * @todo - p2 ( ) - In Impact, in Identity, In Urgency - Check "what you got you here" where should this go. Maybe, if this was not clearly explained in the first, part, it should really be part of the complication in this section. @meta-refid 1222-3332-8887-8484
 -->
 
-Which brings us to honor a moment of reflection about the meaning of growing fast for ourselves, as leaders, especially given that potential movement which may set us to move by instincts. In this regard, I we go back to celebrate that idea of the *Infinite Apprentice*, given to us from from Brian Chesky and Reid Hoffman. From rian's point of view, using the sports metaphor, the challenge of going through the stages it not about one becoming skilled in the same sport but learning a whole new sport [^footnote_blizscaling_brianchesky_new_sport]. Throughout the Blitzscaling lectures, Reid Hoffman kept on wondering about interpretations and characterizations of the challenge. A special and structured insight was given in response to how founders should evaluate themselves across these stages:  
 
-[^footnote_blizscaling_brianchesky_new_sport]: In Blitzscaling lecture number 18 (2015), Reid Hoffman asked Brian about the challenges of being a leader when the startup is going through the growth stages of Blitzscaling; to which Brian pointed out first about the absence of guidance for these transitions, stressing that leaders must evolve their perspective because the situation demands a whole new mindset as if the leader is being exposed to a whole new sport on every phase. 
+This intent for impact sets the necessity for structure that reconciles the creative element from ideas and the necessity of materialization of the business. Throughout the Blitzscaling lectures, Reid Hoffman kept on wondering about the characterizations both in terms of structure and logic and challenges. A special and structured insight was given in response to how founders should evaluate themselves across these stages:  
 
-<!--
-@meta @references 
-* @reference - Greylock. (2015, November 30). Blitzscaling 18: Brian Chesky on Launching Airbnb and the Challenges of Scale [Video]. YouTube. https://www.youtube.com/watch?v=W608u6sBFpo
---> 
 
 > *"First you have to have an insight, a technical insight. Second you have to turn that insight into a product, and third you have to, hopefully God willing, turn that product into a business. Those are about as different sets of pursuits with very little in common with each other. And so if you energized by the idea of coming up with a technical insight and then moving to productization and then moving to the business building phase, that journey will be satisfying and exciting to you. If you find yourself totally in love with the technical insight manufacturing process, that is a real problem. And then you end up having science projects, not companies. If you find yourself endlessly prototyping and tinkering with the product without regard to the business economics, then that’s a warning flag as well."* (Michael Dearing, Greylock Partners, October 2015, 47:47)
 
@@ -260,17 +148,13 @@ Which brings us to honor a moment of reflection about the meaning of growing fas
 
 
 
-This is then solid and structured, as a general requirement for us to be conductors. It's a 3-tier endeavor. Now, and since our problems are not over, and just like a reflection was necessary for the fast part given that a "startup is a company designed to grow fast," Michael's perspective give us too a signal for what is next - that God word which I think is a sign. This is Michael reminding ourselves of how we feel when we are in front of certain situations where change is required but in ways we may not know. It's in our language, believers of God or not, and it does express the complex feeling, from one who is required to look at what happens not with the eyes of the man, our views of the present. 
+This is then solid and structured, as a general requirement for us to be conductors. It's a 3-tier endeavor. Just like a reflection was necessary for the fast part given that a "startup is a company designed to grow fast," Michael's perspective give us too a signal for what is next - that "God" word is the sign and reminder of these "different sets of pursuits with very little in common." This is Michael reminding ourselves of how we feel when we are in front of certain situations where change is required but in ways we may not know. It's in our language, believers of God or not, and it does express the complex feeling, from one who is required to look at what happens not with the eyes of the man, our views of the present. 
 
-If I follow that sign, which I see as G.O.D., it may take us to the Good Old Dilemma of entrepreneurship. One which essentially circles back to that hidden and special thing under our general curve, that necessity for creative destruction. And again, refining our context, this dilemma is essentially about respecting a force that essentially asks us to honor the the past, and the present, as an the thing that give us the opportunity to live, to move. From that, from that getting things done in the first place, we move. In addition to that, to use the opportunity from that prior movement, successes acquired, to fuel ourselves. And in addition to that, to use that fuel to balance out our viewpoints and with that our activities. To see things from perspective. 
+Now, if we follow that sign, which I'll frame it as G-O-D, the Good Old Dilemma of entrepreneurship, it goes along with the implied transformation of evolving process in the macro curve, requiring the creative destruction, with the startup impact by push growth in the market, which involves the characterizations of *Do Things That Don't Scale*, which will set us in the necessity of a movement of transcending of the self. 
 
+Therefore, reconciling these two maps is really key, because the growth of the startup only happens in ways that impact the general growth, which characterizes the continued growth by the process of creative destruction, which on the other hand on the startup growth side means figuring out from the conscious movement the way to break the speed of the curve in relative terms with the implied characterizations of the do things that don't scale and the general consciousness movement and all of that set us to face the challenges of transcending.
 
-
-
-
-
-
-Now all of that sounds great, in theory, but not really in the real world of action such as after we make the right movement, after we do something great. This is so because of so many factors we have considered - like love and support from the environment - which essentially energizes us. And from our actions, when that shows traction, which brings as a consequence the inevitable, us to operate in ways that feels productive, and proactive, energetic, into the flow. In other words, it may be due to the greatness of achievement that we feel bad about the idea of looking to ourselves as a sort of biggest stone on our way. 
+Which brings us back to reality and some of the key fundamental characterizations of the self, the founder, the doer, which goes back getting things done and the necessity for something great that is implied. And from our actions, when that shows traction, which brings as a consequence the inevitable, us to operate in ways that feels productive, and proactive, energetic, into the flow. In other words, it may be due to the greatness of achievement that we feel bad about the idea of looking to ourselves as a sort of biggest stone on our way. 
 
 In other views, only a view from far may actually see the greatest of all movements as a movement that is inadequate. According to angel investor Jason Calacanis [^footnote_jasoncalacanis_reactive], the biggest mistake founders make is that they become maniacs: They enter in a reactionary mode, responding to emails, tweets, and openning tickets in whatever project management system they like. We get into the business of putting out fires and don't reconsider the risky place we set ourselves in, in the first place: 
 
