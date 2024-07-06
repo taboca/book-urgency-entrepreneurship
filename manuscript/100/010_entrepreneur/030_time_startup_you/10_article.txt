@@ -1,6 +1,7 @@
 ## Respect time 
 
-All entrepreneurs are investors to a certain extent. One thing they share is that they invest their time and energy. Other characterization is that they are essentially fine in the bumpy road of the venture world which may bring big hits, sometimes, or lemons, sometimes [^footnote_billdraper_bighits_and_lemons]. They too are inclined to relate to actually professional investors or other kids of supporters performing roles of investors. What is complicated for them,especially in the very early stage, is that they may think that they have too much capital (no matter if that is money, time or energy) which may set them, like non-profesional investors and unlike top-tier investors, to burn their resources without awareness, without accountability. Thus it is tricky for many of us, especially in this beginning, where the mountain of these resources are too big in comparison with the size of the startup, giving the illusion and permission to focus on execution with no reagard to consciousness about the use of these resources. 
+All entrepreneurs are investors. It is observable as they invest their time and energy as an example. Other characterizations, they're mutual with investors, may involve that they're fine with a bumpy road, acquainted as investors who are acquainted with a road of big hits, sometimes, and lemons [^footnote_billdraper_bighits_and_lemons]. What is complicated for them,especially in the very early stage, is that they may think that they have too much capital (no matter if that is money, time or energy) which may set them, like non-profesional investors and unlike top-tier investors, to burn their resources without awareness, without accountability. Thus, it is tricky for many of us, especially in the beginning, especially if the ammount of resources are big in comparison with the size of the startup,; which gives the illusion and permission to focus on execution, such as to jump in an arbitrary race with no regard to being conscious about the use of these resources.
+
 
 [^footnote_billdraper_bighits_and_lemons]: Bill Draper, a renowned Silicon Valley investor, recognizes the ups and downs nature familiar to those knowledgeable about the venture capital world: "If you know anything about the venture world, there are these big hits and then there are some lemons, and you end up with very blocky earnings" (Draper, 2016, 4:15). This quote highlights the sporadic earnings characteristic of venture investments, contrasting with industries favoring steady financial growth.
 
@@ -9,9 +10,18 @@ All entrepreneurs are investors to a certain extent. One thing they share is tha
 * reference - Draper, B. (2016, May 31). The Rise of Sand Hill Road and Silicon Valley. Stanford. Available at https://www.youtube.com/watch?v=KxDxRUYEMXg
 --> 
 
+
 When things are starting the usage of resources might become a bit arbitrary as some of the activities are experiments. This should be no reason for giving up balancing activities, such as the management of resources, and the management of time. At the earlier stages it's even more critical - because the lack of interest to this theme will spread accross. In case things shows signs of success, the problem - not generally seen as a problem which is a problem - will only spread. Common sense indicates startup ability to pivot fast, as a plus. Yes, the ship is small, so we can turn around quick. But the general idea of pivoting fast, and dynamics of the small team, seem to hide the a chaotic reality that can mislead teams to navigate thinking that what they are doing means to be productive. In other words, they can be productively arbitrary. The major problem starts with lack of awareness about learning, or the cost of learning, and the underlying dimension that justifies learning, time. We will reflect about respecting time. At times, this invitation may sound as an absurd. I hope that your are not reading this during your lunch time. 
 
-### Obsession for the mission 
+
+
+
+
+
+
+
+
+
 
 <!--
 @cross 
@@ -24,30 +34,85 @@ When things are starting the usage of resources might become a bit arbitrary as 
 * @todo - p1 ( ) - In Accounting, Respect Time - And others - Review startup vs. growth - and footnotes such as footnote_growth_paul_graham . Ref 24928498-429849284-4928492-4928492849
 --> 
 
-All entrepreneurial action seeks growth. Some entrepreneurs start with what seems to be vision. They dream aboutnew categories of solutions to make the world different [^footnote_category_design] like it may go all the way to be the kind of things that put a dent in the universe, like new ways to go to the moon. Other entrepreneurs start with other kinds of needs such as improve how a system words, generate value and take money and have success; as in the money maker o a money appropriator [^footnote_ayn_rand_money_maker]. Others simply are pushed into a work, and they need to do that because, in a way or another, of money, such as to pay the rent. What seems to be common among situations is that the entrepreneurial journey will always ask from them the growth which is evidently recognized for the situation of startups [^footnote_growth_paul_graham], but to get out from an initial state into another, better state, where they give value and expect benefits in return, such as benefits that sustain more growth. 
 
-[^footnote_growth_paul_graham]: 
+
+
+
+
+
+
+
+
+<!--
+### Love transcends time 
+@outline - situation -- growth, modes..
+--> 
+
+
+
+
+
+
+All entrepreneurial action seeks growth, as we have considered. Some entrepreneurs start with what seems to be vision. They dream aboutnew categories of solutions to make the world different [^footnote_category_design] like it may go all the way to be the kind of things that put a dent in the universe, like new ways to go to the moon. Other entrepreneurs start with other kinds of needs such as improve how a system words, generate value and take money and have success; as in the money maker o a money appropriator [^footnote_ayn_rand_money_maker]. Others simply are pushed into a work, and they need to do that because, in a way or another, of money, such as to pay the rent. What seems to be common among situations is that the entrepreneurial journey will always ask from them the growth which is evidently recognized for the situation of startups [^footnote_growth_paul_graham], but to get out from an initial state into another, better state, where they give value and expect benefits in return, such as benefits that sustain more growth. 
+
+Others were driven with that seem to be what Eric von Hippel referred as User Innovation. They all started with a problem they wanted to solve. That function seems to be quite alive, as anyone might "live through the challenges first-hand" that gives them a viewpoint for what can be different, motivation to seek answers, perhaps even their connection with the story is a supporting factor that makes them run through the stages when stages change. Perhaps they find the right cofounders too on their ways, exactly because of their identity with their goals, the general story that likely supports them. In other words, a good mission and one that is really into that, shows to be effective. 
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+@outline - situation 2 - learning as we have seen 
+goal - make a point of comparatively great 
+-->
+
+
+
 
 The situation involves failing and learning, as part of the journey to grow. This failure is a known outcome of any growth aspect. Growth simply does not happen without failure, although the necessary learning aspect comes after. Some of the practitioners, or mentors or parters, do recognize failure, and the necessary aspect of resillience in the face of failure - needed traits to this journey. Fail, fail, fail, and learn, fail fast, learn fast, that sort of idea. This is also part of the entrepreneurial setting situation. [^footnote_bill_drapper_fail_fail]. 
 
 [^footnote_bill_drapper_fail_fail]: https://www.youtube.com/watch?v=KxDxRUYEMXg 
 
-When they are in it for a startup, in the face of uncertainty which is like the case when a team needs to innovate, the reality is that the pressure for learning with experience is part of the process. Thus learning happens, and the phenomenon involves the nature of assembling a ship as they sail [^footnote_reid_assemble_airplane]. With that, learning in retrospect is likely what happens, which is not bad, but that shows the inclination, or willingness, to not consider the learning component, or planning for learning, or anything that accounts what it takes to get since you don't have references for that, again, no guides. 
+When they are in it for a startup, in the face of uncertainty which is like the case when a team needs to innovate, the reality is that the pressure for learning with experience is part of the process. Thus learning happens, and the phenomenon involves the nature of assembling a ship as they sail [^footnote_reid_assemble_airplane]. With that, learning in retrospect is likely what happens, which is not bad, but that shows the inclination, or willingness, to to consider a productive learning component from doing it; to it may feel great to be learning even when that learning involves trial-and-error; so comparatively is great by the ability to learn and pivot fast, in relative terms. 
 
 [^footnote_reid_assemble_airplane]: 
 
-A related idea was presented by Fabrício Morini, a situation of entrepreneurs that adopt a reactive style, moving in response to environmental situation, like the present. He called it "fazejamento", an English equivalent would be the "Do-ification" that is common wit all sorts of enterprises and may actually work for some situations. Plus, learning after is certainly better than nothing. But in the context of startups and any entrepreneurial effort oriented to growth, the doing and learning after mistakes is not enough. 
+
+
 
 <!-- 
-@note 
-In the article about success, 080_winning.txt, Reid interviews Brian Chesky about the challenges to face unseen challenges as the game changes, with the line "What got you here does not get you there". 
--->
+@outline - situation 2.1 optional - faejamento? 
+--> 
 
-### Love transcends time 
 
-But why the nature supports that sort of approach of doing? We have a few components. The situation allows room for say cheaply mixing ideas and coming up with innovative models that can indeed scale. People accept that out of their thirstness to innovate they can do things, and that their movements can be hyper fast. 
 
-It starts with chaos, fail, fail, learning, fail fast, pivot fast, ability to course correct, inertia, the nature of startups, small teams, or an individual considering the project phase / Risk and bets are higher at the beginning, relatively - how we experience, warp, user innovation, paying rent, effort, motivation, romantic notions, or bets engaged like what? - Others were driven with that seem to be what Eric von Hippel referred as User Innovation. They all started with a problem they wanted to solve. That function seems to be quite alive, as anyone might "live through the challenges first-hand" that gives them a viewpoint for what can be different, motivation to seek answers, perhaps even their connection with the story is a supporting factor that makes them run through the stages when stages change. Perhaps they find the right cofounders too on their ways, exactly because of their identity with their goals, the general story that likely supports them. In other words, a good mission and one that is really into that, shows to be effective. 
+A related idea was presented by Fabrício Morini, a situation of entrepreneurs that adopt a reactive style, moving in response to environmental situation, like the present. He called it "fazejamento", an English equivalent would be the "Do-ification" that is common wit all sorts of enterprises and may actually work for some situations. Plus, learning after is certainly better than nothing. But in the context of startups and any entrepreneurial effort oriented to growth, the doing and learning after mistakes is not enough. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 
+@outline - complication 
+--> 
+
+
+
 
 What really seems challenging is that in the face of this general growth need, many pick a given path. It's not a complication, it's a door. But once the door is openned, it is trick to get out from it. It is not that the person has the "entrepreneurial room" where they can enter that dorm sometimes, live through the challenges of doing it, and then go to the living room, to live a little. No, it's more like a time-capsure or a space ship that puts us to only see the reality of the ship. We go out, fix the ship, try to assemble the ship. 
 
@@ -55,7 +120,30 @@ The journey of entrepreneurship generally, at least it seems to be up to nowaday
 
 Then, the real complication comes. Again, you can't go back to base. You can't say "Houston, we have a problem!". And it is not that you don't have a radio. You have it but it is connected and no one cares really for what is happening with you. It's a lot of voices. It is a space where it is really difficult to see the origin of problems. As an example, a startup path being taken seems to be a precise best path of an idea that comes the way of a founder. But that startup path is one of the paths, and seems based in good intentions towards growth but the idea and the motivations of the founder, when of other origin, can pull them to later figure that they were in a startup sort of ship, moving at high-speed, or what seems to be high-speed, but they find themselves locked in sort of dead end later. Eventually caught themselves, after time passes, after learning in retrospect. TIme will always solve the equation, time is the universal underlying thing.  Them, the real complication, is that founders deny time beyond anything. This article is about honoring time. 
 
-In stage 0, currency that moves seems to be love, values, vision, motivation. Trips seem to be fast. But any attempt into growth, of earlier higher investments, leads to bets of higher. In relative terms, the sense of productivity is too big, for the scale of what happens.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+@outline - a 2.2 
+--> 
+
+
+
 
 Our tendency in growth for the mission ignores growth for the self, team, and the situation of stage. The complication is our inability contextualize the context, as in the learning does not fit the context, learning cannot zoom in and zoom out. 
 
@@ -63,34 +151,53 @@ The productive engine, which is natural, need, needs to depend on a reflective e
 
 A major complication, of challenge of an entrepreneur, is the dichotonomous situation between the founder and the investor, such as a venture capitalist investor. It appears to be irrelevant for a founder to look the world of risk-based investment, and to understand the nature of entrepreneurship and the scaling nature, and release of control for what seems to be what is going on. 
 
-Entrepreneurs do understand, or sense or feel, that they are seeking to innovate towards worlds that they do not know how what the rules are. The all sorts of odds shall come our way, things of a nature they don't know. And in the face of those things, the need for speed seems to be must. The situation provokes us to consider the role of management, at best. 
 
 
- deny the that the cycle of learning in the setting of entrepreneurship is a cycle of experiential learning, that happens again and again. 
 
-Consider frustration potential accumululation, then time of life competes. Unfortunatelly, there is not a lot of data for the many that had great vision, really first-hand experience, and even time and energy, but failed to find the right pieces such as good cofounders, or that heard an impressive investor, and where warped into fading, diying slowly [^footnote_brian_pg_startsfade].
 
-### Scaling investments  
 
-Scaling models affects time reality -- capsules of models -  unconscious about unit of resources and investing bet, analysis of models of support, parallel realities.  -  Models do what? Framwork? Incubation? Tools, frameworks, traction with customers?  With some of these pathways being promising, but the entrepreneurs capsule having rudimentar setting and limited fuel. The willingness to find a solution in a new world, a given path of effort, pulls. Part of them want to visit planet X because of love, part of them seem to know that time is moving, that fuel is being used. The complication is that, new data comes their way, such as insights from the team about management of resources, they fail to manage the fuel of the critical energy unit, the human being and each individual. The answer to the problem lies in respecttime and to know that time is relative. Could, perhaps, connect with how entrepreneurial journeys start. Perhaps the idea of "I will make a startup" fits in a wider bucket, in the end of the day. Let's be honest, and for that we need to look at some of the patters of growth, in terms of organizations. Some startups start with the ideal to scale fast but then notice that the area/domain chosen might need some other strategy for that. In Blitzscaling, Reid and Chris bring about the fact, or the test, that are things that could indeed have a scaling nature. But then, what happens with the entrepreneur, the team, founders call it whatever you want that are into something and then out of the sudden comes to notive a big - oh, wait, I thought I was doing X with a Y model but reality is different. I thought I knew how relativity works. And the metaphor here, slightly implied, of an entrepreneur that dives in a space journey within a capsure warping hyperfast, sort of believing that she is strong and that the thin layer won't break, is in fact, when new worlds are ahead, going to come across such big waves and the real experience of being there, where time seems to move slow, but when they come back from these journeys, hopefully alive to experience and tell what has happened, they are then, to start that experience by first notice that time has moved too fast for whowever where down to earth. And then, sayings such as "I thought I was making a startup, that would have time to visit that planet and come back with a solution to people from Earth" but this mission, lazarous , somehoew brought me here, older and I hope wisier, to tell that reality is different. And I don't even know if I went there in the first palce to save the people from earth. Maybe I am just wanted to learn what is out there. We should keep annotated, that some of these astronauts do find interesting new worlds and ways to change reality of earth, and ways to impact people from earth. When that journey involves the right team, the right planet, and a lot of learning that helps them to assemble what they need, on the go, or when they get support from the beings of a higher dimension, yes, it seems to be amazing journey. Is what I hear from people that reported on the actual life journeys. 
 
-### Infinite apprentice 
 
-We need to respect ourselves, starting with time. In other words, the question is: At the minimal level, with no no map to assemble the rest of the ship as it travels fast, with no guide to pick the right guide, and no special star appears to be more promissing, what to do? 
 
-For an enlighed view on what it takes to grow, we can make evident that awareness about the learning of how we do it is key, can be expressed by the question "How did I do?" Reid Hoffman says that Brian cheeky asked that question in the light of his first press event for Airbnb. For Reid, Brian is an infinite learner [^footnote_reid_hoffman_brian_infinite_learner].  Thus, perhaps, the actual complication is that we see no reasons for being an always learner, or we shall not even grasp what is the nature of that. And if we face, it, why? Isn't it an infinite learner one that wastes time? It would be, if one actually in fact reads Reid's comment too fast. A too-fast consideration for this notion can take us to find an instant objection - a yellow light that blinks and tell us that we would run the risk of being obsessed with learning, or losing focus. 
 
-[^footnote_reid_hoffman_brian_infinite_learner]: 
 
-The nature for explaining the infinite learner lives in the very same interview video when Brian recognizes the know-it-all model and the risks of bring one: 
 
-> *"" Brian Chesky 
 
-In other worlds, an infinite learner that is not a know-it-all suggests the notion of the infinite apprentice, as illustrated in the situation that was light for Reid, Brian displayed a self-awareness of being an apprentice on the go, which is very different from being an apprentince after the fact. In other words, being humble and to be aware that what might be happening at all stages, need a state of awareness about its learning, which bring us to the the notion of the experiential learning and connecting the dots that learning in the environment of entrepreneurship involves the recognition of learning with the experience, experiential learning. 
+
+
+
+
+
+<!--
+@outline - a3 - concluding 
+--> 
+
+
+
+
+Potential output that is undesirable may actually start to form, although it may not be noticeable, is the actual implication from the excessiveness of trial and error in the face of the excessive amount of love and passion and aspirations. It's in another way, because love and aspirations can be too ambitious and too far, it feels that energy through time can be allocated, and in many circumstances that life can be kept on a side, and with that the potential outcome aligns with what Brian Chesky from Airbnb had recognized as the worst enemy of a startup, which is everybody's people's lives. In other words, not exactly the startup dies out of the sudden in front of a sudden output that is undesirable, but a constant depth is being accumulated, and it may take the startup to actually fade as a consequence, which is also pointed by Brian in alignment with the observational program, where the startup fades in the face of life events of every single person that may out of the sudden achieve a relative new stage of transformation. As an example, a baby may be born in parallel, and then you are suddenly awakened.
+
+
+
+But then, what happens with the entrepreneur, the team, founders call it whatever you want that are into something and then out of the sudden comes to notive a big - oh, wait, I thought I was doing X with a Y model but reality is different. I thought I knew how relativity works. And the metaphor here, slightly implied, of an entrepreneur that dives in a space journey within a capsure warping hyperfast, sort of believing that she is strong and that the thin layer won't break, is in fact, when new worlds are ahead, going to come across such big waves and the real experience of being there, where time seems to move slow, but when they come back from these journeys, hopefully alive to experience and tell what has happened, they are then, to start that experience by first notice that time has moved too fast for whowever where down to earth. And then, sayings such as "I thought I was making a startup, that would have time to visit that planet and come back with a solution to people from Earth" but this mission, lazarous , somehoew brought me here, older and I hope wisier, to tell that reality is different. 
+
 
 Not able to account, and respect, this basic unit of investment is bad. It is the learning effort, or the cycle of learning and creating abstrations after experimentation, experiential learning. 
 
 Respect kolb, Respect the individual, and establish learning about self. Consider let it go and the post-mortem freedom of that. Respect time of team - and respect management. Consider team let it go and the post-mortem freedom of that. Respect time of investing and respect risk. Consider let it go and the post-mortem freedom of that.  Respect the investing nature for anything that has risk involved and the balancing of execution, or commitment activities, with aspirational or important strategic activities that closes the gap with the future, brings a different future potential, but may need effort for time-space. 
+
+
+[^footnote_kolbmodel]: Kolb's model is a theory of experiential learning, which postulates that learning is a process involving four stages: concrete experimentation, reflective observation, abstract conceptualization, and active experimentation. This learning cycle was proposed by David A. Kolb, who argued that these four stages are critical for the effective understanding and application of new concepts and skills. The space between reaction and planning is where true entrepreneurship thrives. In this space, we learn to adapt to market realities and find time to plan and reflect.
+
+
+
+
+
+
+<!--
+@outline - making time?
+--> 
+
 
 It is challenging that we do not have all the time in the world, we know. As we dive into multiple activities, and pressure for growth happens, we also scale our own inner ability to ignore time, as in trying to make time, or print currency withouth keeping the acocunting of the gold. Our approach for "making time" is our solution within pressure and involves the denial of the fundamental energy of a team, it's time, which will likely spread in the culture and enable the doing and learning after fail, a certain possible mode of operation, but quite toxic, or enablingn of a toxic by-product.  
 
@@ -98,9 +205,19 @@ This starts with the recognition that the fundamental unit of any venture, wheth
 
 From this idea, we need to consider the necessary investment in the process where execution depends on learning. In other words, it's necessary to account for the cyclical nature of the process - the time it takes - in all stages such as experimentation, reflection, conceptualization, and application [^footnote_kolbmodel]. In other words, recognizing the time to live experiences, to make mistakes, and learn. The balance between these factors is crucial for efficient management.
 
-[^footnote_kolbmodel]: Kolb's model is a theory of experiential learning, which postulates that learning is a process involving four stages: concrete experimentation, reflective observation, abstract conceptualization, and active experimentation. This learning cycle was proposed by David A. Kolb, who argued that these four stages are critical for the effective understanding and application of new concepts and skills. The space between reaction and planning is where true entrepreneurship thrives. In this space, we learn to adapt to market realities and find time to plan and reflect.
 
+
+
+
+
+
+
+
+
+<!--
+@outline - time as value
 ### Assuming clarity on time 
+-->
 
 In closing this chapter, I want to consider that inner growth - for the self and the doers - is critical for any growth such of their startup and in essence the growth of the sum of all efforts in the world of entrepreneurship. Yes, we have focused in an aspect - to respect the time of beings - that seems simple but is actually complex in the setting of entrepreneurship, especially as many of us can get excited. But I ask us, in this reflection, to consider that respecting time should be held as a value. In other words, you can't take that away. When I heard the words of Reid Hoffman in the commencement speech at Bologna Business School, I realized them as good reasons that support the principle of respect for time, your time and the time of others involved. His note also made me consider the layered view, up to the time of humankind. In other words, when you make an organization that starts with respect for the founders and pass on respecting time for everybody, you make an organization that respects people, and humankind. 
 
@@ -117,5 +234,49 @@ This direction of growth, which will often deny acceleration, comes with good ne
 The effort demands recognition and preparation but above all, courage. As we look for a balanced way to manage the entrepreneurial effort in a healthier way, and if we hold the value of respecting time, we come to terms with the idea that we won't be able to create a culture that respect the work of participants if we don't start by respecting what we do. In other words, if we dig for the most fundamental unit, or currency, that drives entrepreneurial action, we come to terms that all starts with respect for our own time. 
 
 The being gives unique energy - for achieving all sorts of things - as a function of time. We can't ask ourselves to do things outside the accounting of how we use our time. It may happen, here and there, but with respect for time, keeping this as a value and a principle, a lot of information is likely to start appearing in the equation and in the stories of what we are doing will become more clear. And it will become light to help us understand a lot of good things about a conscious entrepreneurship. In other words, respecting time not only supports the learning cycle but it also adds clarity and leads to better focus, better culture. That is the good news. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Consider frustration potential accumululation, then time of life competes. Unfortunatelly, there is not a lot of data for the many that had great vision, really first-hand experience, and even time and energy, but failed to find the right pieces such as good cofounders, or that heard an impressive investor, and where warped into fading, diying slowly [^footnote_brian_pg_startsfade].
+
+### Scaling investments  
+
+Scaling models affects time reality -- capsules of models -  unconscious about unit of resources and investing bet, analysis of models of support, parallel realities.  -  Models do what? Framwork? Incubation? Tools, frameworks, traction with customers?  With some of these pathways being promising, but the entrepreneurs capsule having rudimentar setting and limited fuel. The willingness to find a solution in a new world, a given path of effort, pulls. Part of them want to visit planet X because of love, part of them seem to know that time is moving, that fuel is being used. The complication is that, new data comes their way, such as insights from the team about management of resources, they fail to manage the fuel of the critical energy unit, the human being and each individual. The answer to the problem lies in respecttime and to know that time is relative. Could, perhaps, connect with how entrepreneurial journeys start. Perhaps the idea of "I will make a startup" fits in a wider bucket, in the end of the day. Let's be honest, and for that we need to look at some of the patters of growth, in terms of organizations. Some startups start with the ideal to scale fast but then notice that the area/domain chosen might need some other strategy for that. In Blitzscaling, Reid and Chris bring about the fact, or the test, that are things that could indeed have a scaling nature. 
+
+
+
+
+And I don't even know if I went there in the first palce to save the people from earth. Maybe I am just wanted to learn what is out there. We should keep annotated, that some of these astronauts do find interesting new worlds and ways to change reality of earth, and ways to impact people from earth. When that journey involves the right team, the right planet, and a lot of learning that helps them to assemble what they need, on the go, or when they get support from the beings of a higher dimension, yes, it seems to be amazing journey. Is what I hear from people that reported on the actual life journeys. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
