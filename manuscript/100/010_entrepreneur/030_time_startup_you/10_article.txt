@@ -43,8 +43,9 @@ When things are starting the usage of resources might become a bit arbitrary as 
 
 
 
+### But love transcends time 
+
 <!--
-### Love transcends time 
 @outline - situation -- growth, modes..
 --> 
 
@@ -69,8 +70,7 @@ Others were driven with that seem to be what Eric von Hippel referred as User In
 
 
 <!--
-@outline - situation 2 - learning as we have seen 
-goal - make a point of comparatively great 
+@outline - trial and error is recognized 
 -->
 
 
@@ -87,13 +87,10 @@ When they are in it for a startup, in the face of uncertainty which is like the 
 
 
 
-<!-- 
-@outline - situation 2.1 optional - faejamento? 
---> 
 
 
 
-A related idea was presented by Fabrício Morini, a situation of entrepreneurs that adopt a reactive style, moving in response to environmental situation, like the present. He called it "fazejamento", an English equivalent would be the "Do-ification" that is common wit all sorts of enterprises and may actually work for some situations. Plus, learning after is certainly better than nothing. But in the context of startups and any entrepreneurial effort oriented to growth, the doing and learning after mistakes is not enough. 
+
 
 
 
@@ -108,7 +105,7 @@ A related idea was presented by Fabrício Morini, a situation of entrepreneurs t
 
 
 <!-- 
-@outline - complication 
+@outline - how we experience, the complication 
 --> 
 
 
@@ -121,75 +118,30 @@ The journey of entrepreneurship generally, at least it seems to be up to nowaday
 Then, the real complication comes. Again, you can't go back to base. You can't say "Houston, we have a problem!". And it is not that you don't have a radio. You have it but it is connected and no one cares really for what is happening with you. It's a lot of voices. It is a space where it is really difficult to see the origin of problems. As an example, a startup path being taken seems to be a precise best path of an idea that comes the way of a founder. But that startup path is one of the paths, and seems based in good intentions towards growth but the idea and the motivations of the founder, when of other origin, can pull them to later figure that they were in a startup sort of ship, moving at high-speed, or what seems to be high-speed, but they find themselves locked in sort of dead end later. Eventually caught themselves, after time passes, after learning in retrospect. TIme will always solve the equation, time is the universal underlying thing.  Them, the real complication, is that founders deny time beyond anything. This article is about honoring time. 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-@outline - a 2.2 
---> 
-
-
-
-
-Our tendency in growth for the mission ignores growth for the self, team, and the situation of stage. The complication is our inability contextualize the context, as in the learning does not fit the context, learning cannot zoom in and zoom out. 
-
-The productive engine, which is natural, need, needs to depend on a reflective engine. There is no way to ignore that. Thus, it does not matter if one is in it to make money or executing or coming from vision, the need to organize how to navigate the space in the face of unknown conditions, must be accounted. It has to be done from inside out. It's quite rare that one can fix with superpowers that comes on our way. And when superpowers come our way to help, to guide, it is likely that comes for the people that are aware about the learning cost and importance. The general rule is learning that comes after failure. But the learning after failure implies in recognizing a cycle of investment is key and involves the risk factor that needs to be of the experiential learning nature. 
-
-A major complication, of challenge of an entrepreneur, is the dichotonomous situation between the founder and the investor, such as a venture capitalist investor. It appears to be irrelevant for a founder to look the world of risk-based investment, and to understand the nature of entrepreneurship and the scaling nature, and release of control for what seems to be what is going on. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-@outline - a3 - concluding 
---> 
-
-
-
-
 Potential output that is undesirable may actually start to form, although it may not be noticeable, is the actual implication from the excessiveness of trial and error in the face of the excessive amount of love and passion and aspirations. It's in another way, because love and aspirations can be too ambitious and too far, it feels that energy through time can be allocated, and in many circumstances that life can be kept on a side, and with that the potential outcome aligns with what Brian Chesky from Airbnb had recognized as the worst enemy of a startup, which is everybody's people's lives. In other words, not exactly the startup dies out of the sudden in front of a sudden output that is undesirable, but a constant depth is being accumulated, and it may take the startup to actually fade as a consequence, which is also pointed by Brian in alignment with the observational program, where the startup fades in the face of life events of every single person that may out of the sudden achieve a relative new stage of transformation. As an example, a baby may be born in parallel, and then you are suddenly awakened.
 
 
 
-But then, what happens with the entrepreneur, the team, founders call it whatever you want that are into something and then out of the sudden comes to notive a big - oh, wait, I thought I was doing X with a Y model but reality is different. I thought I knew how relativity works. And the metaphor here, slightly implied, of an entrepreneur that dives in a space journey within a capsure warping hyperfast, sort of believing that she is strong and that the thin layer won't break, is in fact, when new worlds are ahead, going to come across such big waves and the real experience of being there, where time seems to move slow, but when they come back from these journeys, hopefully alive to experience and tell what has happened, they are then, to start that experience by first notice that time has moved too fast for whowever where down to earth. And then, sayings such as "I thought I was making a startup, that would have time to visit that planet and come back with a solution to people from Earth" but this mission, lazarous , somehoew brought me here, older and I hope wisier, to tell that reality is different. 
 
 
-Not able to account, and respect, this basic unit of investment is bad. It is the learning effort, or the cycle of learning and creating abstrations after experimentation, experiential learning. 
-
-Respect kolb, Respect the individual, and establish learning about self. Consider let it go and the post-mortem freedom of that. Respect time of team - and respect management. Consider team let it go and the post-mortem freedom of that. Respect time of investing and respect risk. Consider let it go and the post-mortem freedom of that.  Respect the investing nature for anything that has risk involved and the balancing of execution, or commitment activities, with aspirational or important strategic activities that closes the gap with the future, brings a different future potential, but may need effort for time-space. 
 
 
-[^footnote_kolbmodel]: Kolb's model is a theory of experiential learning, which postulates that learning is a process involving four stages: concrete experimentation, reflective observation, abstract conceptualization, and active experimentation. This learning cycle was proposed by David A. Kolb, who argued that these four stages are critical for the effective understanding and application of new concepts and skills. The space between reaction and planning is where true entrepreneurship thrives. In this space, we learn to adapt to market realities and find time to plan and reflect.
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Assuming clarity on time 
 
 
 
@@ -208,15 +160,19 @@ From this idea, we need to consider the necessary investment in the process wher
 
 
 
+<!--
+@outline -- complication ?- investor view 
+--> 
 
+Our tendency in growth for the mission ignores growth for the self, team, and the situation of stage. The complication is our inability contextualize the context, as in the learning does not fit the context, learning cannot zoom in and zoom out. 
 
+The productive engine, which is natural, need, needs to depend on a reflective engine. There is no way to ignore that. Thus, it does not matter if one is in it to make money or executing or coming from vision, the need to organize how to navigate the space in the face of unknown conditions, must be accounted. It has to be done from inside out. It's quite rare that one can fix with superpowers that comes on our way. And when superpowers come our way to help, to guide, it is likely that comes for the people that are aware about the learning cost and importance. The general rule is learning that comes after failure. But the learning after failure implies in recognizing a cycle of investment is key and involves the risk factor that needs to be of the experiential learning nature. 
 
-
+A major complication, of challenge of an entrepreneur, is the dichotonomous situation between the founder and the investor, such as a venture capitalist investor. It appears to be irrelevant for a founder to look the world of risk-based investment, and to understand the nature of entrepreneurship and the scaling nature, and release of control for what seems to be what is going on. 
 
 
 <!--
 @outline - time as value
-### Assuming clarity on time 
 -->
 
 In closing this chapter, I want to consider that inner growth - for the self and the doers - is critical for any growth such of their startup and in essence the growth of the sum of all efforts in the world of entrepreneurship. Yes, we have focused in an aspect - to respect the time of beings - that seems simple but is actually complex in the setting of entrepreneurship, especially as many of us can get excited. But I ask us, in this reflection, to consider that respecting time should be held as a value. In other words, you can't take that away. When I heard the words of Reid Hoffman in the commencement speech at Bologna Business School, I realized them as good reasons that support the principle of respect for time, your time and the time of others involved. His note also made me consider the layered view, up to the time of humankind. In other words, when you make an organization that starts with respect for the founders and pass on respecting time for everybody, you make an organization that respects people, and humankind. 
@@ -229,6 +185,20 @@ In closing this chapter, I want to consider that inner growth - for the self and
 * @reference - Hoffman, R. (2023, September 12). You are Generation AI | 2023 Commencement Speech at Bologna Business School [Video]. YouTube. https://www.youtube.com/watch?v=kKC27SXeIB4. Video position 2:06-2:36.
 --> 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This direction of growth, which will often deny acceleration, comes with good news and bad news. It's bad because the conscious movement might create discomfort to the one that wants to be productive. Consider how frustrating it can be when we are feeling energetic and motivated - believing that the gas tank is full and will remain full - and an idea calls for pausing, such as to consider that what we are doing can be bad, or too much, or points the need to slow down. This idea would come out as raining in the parade of productivity. In other words, the need to pause, such as to to account the usage of time in a setting, has all the reasons to sound negative. A basic objection that chimes in come as simple as "it is a waste of time!" 
 
 The effort demands recognition and preparation but above all, courage. As we look for a balanced way to manage the entrepreneurial effort in a healthier way, and if we hold the value of respecting time, we come to terms with the idea that we won't be able to create a culture that respect the work of participants if we don't start by respecting what we do. In other words, if we dig for the most fundamental unit, or currency, that drives entrepreneurial action, we come to terms that all starts with respect for our own time. 
@@ -240,14 +210,23 @@ The being gives unique energy - for achieving all sorts of things - as a functio
 
 
 
+<!--
+@outline - answer - Reconcile kolb to prep to not live by post-portem 
+--> 
+
+
+
+But then, what happens with the entrepreneur, the team, founders call it whatever you want that are into something and then out of the sudden comes to notive a big - oh, wait, I thought I was doing X with a Y model but reality is different. I thought I knew how relativity works. And the metaphor here, slightly implied, of an entrepreneur that dives in a space journey within a capsure warping hyperfast, sort of believing that she is strong and that the thin layer won't break, is in fact, when new worlds are ahead, going to come across such big waves and the real experience of being there, where time seems to move slow, but when they come back from these journeys, hopefully alive to experience and tell what has happened, they are then, to start that experience by first notice that time has moved too fast for whowever where down to earth. And then, sayings such as "I thought I was making a startup, that would have time to visit that planet and come back with a solution to people from Earth" but this mission, lazarous , somehoew brought me here, older and I hope wisier, to tell that reality is different. 
 
 
 
 
+Not able to account, and respect, this basic unit of investment is bad. It is the learning effort, or the cycle of learning and creating abstrations after experimentation, experiential learning. 
+
+Respect kolb, Respect the individual, and establish learning about self. Consider let it go and the post-mortem freedom of that. Respect time of team - and respect management. Consider team let it go and the post-mortem freedom of that. Respect time of investing and respect risk. Consider let it go and the post-mortem freedom of that.  Respect the investing nature for anything that has risk involved and the balancing of execution, or commitment activities, with aspirational or important strategic activities that closes the gap with the future, brings a different future potential, but may need effort for time-space. 
 
 
-
-
+[^footnote_kolbmodel]: Kolb's model is a theory of experiential learning, which postulates that learning is a process involving four stages: concrete experimentation, reflective observation, abstract conceptualization, and active experimentation. This learning cycle was proposed by David A. Kolb, who argued that these four stages are critical for the effective understanding and application of new concepts and skills. The space between reaction and planning is where true entrepreneurship thrives. In this space, we learn to adapt to market realities and find time to plan and reflect.
 
 
 
@@ -255,6 +234,10 @@ The being gives unique energy - for achieving all sorts of things - as a functio
 
 
 Consider frustration potential accumululation, then time of life competes. Unfortunatelly, there is not a lot of data for the many that had great vision, really first-hand experience, and even time and energy, but failed to find the right pieces such as good cofounders, or that heard an impressive investor, and where warped into fading, diying slowly [^footnote_brian_pg_startsfade].
+
+
+
+
 
 ### Scaling investments  
 
