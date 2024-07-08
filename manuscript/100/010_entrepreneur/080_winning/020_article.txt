@@ -1,11 +1,16 @@
 <!--
 @meta @todo 
-* @todo - p1 ( ) - Strategic - In Success -  The following quote is from Dorothea Brandy from 1936, page 14, of Wake Up and live, there is a concept which may be applicable to the section Success: "Now this is something which we seldom see at once. Because we commonly think of failure as the conventional opposite of success, we continue to make false antithesis of the qualities which attend success and failure. Success is bracing, active, alert; so the typical attitude of failure, we believe, must be lethargy, inertia, a supine position. True enough; but that does not mean that no energy is being used. Let any psychologist tell you how much energy a mature person must expend to resist motion. A powerful struggle must be waged against the forces of life and movement in order to remain inert, although this struggle takes place so far beneath the surface of our lives that we do not always become aware of it. Physical inaction is no true sign that life-force is not being burned away. So even the idler is using fuel while they dream." (Brande, Dorothea., 2014/1936, p.14) @meta-refid 1212-2323-8838-4848
+* @todo - p1 ( ) - Strategic - In Success - Thesis: Part of the fuel must go for real success, well-being focus that maintains the whole.  The following quote is from Dorothea Brandy from 1936, page 14, of Wake Up and live, there is a concept which may be applicable to the section Success: "Now this is something which we seldom see at once. Because we commonly think of failure as the conventional opposite of success, we continue to make false antithesis of the qualities which attend success and failure. Success is bracing, active, alert; so the typical attitude of failure, we believe, must be lethargy, inertia, a supine position. True enough; but that does not mean that no energy is being used. Let any psychologist tell you how much energy a mature person must expend to resist motion. A powerful struggle must be waged against the forces of life and movement in order to remain inert, although this struggle takes place so far beneath the surface of our lives that we do not always become aware of it. Physical inaction is no true sign that life-force is not being burned away. So even the idler is using fuel while they dream." (Brande, Dorothea., 2014/1936, p.14) @meta-refid 1212-2323-8838-4848
 --> 
+
+
+
+
+
 
 ## Beyond success 
 
-In the past, pursuing success wasn't a choice. The situation, the need (not for being happy but) for pursuing success, was created by the knowledge worker [^footnote_peterdrucker_success_pursuing]. In their hurry to operationalize from options, however, they had also found distrations and other complications such as to push them away from success. They run the risk of not accepting mistakes, which prevent them from learning after mistakes. They become less creative, and more controllers, in the face of the need to adapt, given the challenges ahead.
+As pursuing success became a choice made by the knowledge worker [^footnote_peterdrucker_success_pursuing], different from the past where the pursuit for success wasn't an option, our hurry to operationalize that - by interaction with the tools and methods - also took us in a world of distrations and other complications. We can burn energy which is the very one which maintains ourselves as somebody through the journey. Some of the interactions may also push us away from success. We not only run the risk of not accepting mistakes,  we set ourselves to learn less from mistakes, we become less creative, and more controllers, in the face of the need to adapt, given the challenges ahead.
 
 [^footnote_peterdrucker_success_pursuing]: Peter Drucker, in *Managing Oneself* (2008), articulated that historically, success was not viewed as an option; and that the expectation for success came about from the knowledge workers in society. 
 
@@ -14,13 +19,14 @@ In the past, pursuing success wasn't a choice. The situation, the need (not for 
 * Reference - Drucker, P. (2008). Managing Oneself. Harvard Business School Press. pp. 53-54.
 --> 
 
-The complication, especially when the matter is an entrepreneurial effort such as when we dig in the startup journey, is that we find ourselves as somebody but do not nurture the being of somebody. This is not intentional, as in pre-planned, it can be result from our urgency to control the outcome, but it connects with distancing from what we care and who we are, we run the risk of losing connection with our integrity. With that, is lose a key result, or key needed element, that need to be maintained for any endeavor where a guide doesn't exist and where we need to be ready when the plan does not go as expected, such as to pivot or to give up the format.
 
-In honoring the enlighted success route, which indeed has to do with inner success, we expect to be somebody across the present day and aside from any failure, to advance our lives more than advancing the moment as a career. We will fist consider that to be somebody we need to release our controller; that an entrepreneurial journey happens in a space of growth, where things change, the game becomes different, and the rules change, which can be frightening. We need to be humble and, again, renew/be somebody. 
+<!--
+@outline - situation
+--> 
 
-### Somebody, the controller, and the successful
+So may be it, that we went from survival, to working for survival, to then working where some of us are aiming for success. This line of evolution, more intentionality for success, may also be characteristically with the entrepreneurial function. So we should account in this context that work towards success, as in intentionality for success, that to be aware of the action aiming success (and with that the potentiality of failure) is present in the startup situation, as in present and observable, by the conversations from the philosophical level to the the conversations happening through collaboration in the day by day, and by the hour. This level of awareness, such as awareness to measure success, is also observable if we consider lean methods; thus it is fair to take that the job of an entrepreneur which involves trial and error, for the sake of learning or validating, and through its efforts of discovery, is seen as a work in the sense of business as usual. 
 
-Peter Drucker, the father of the adminstration [^druckerfatheradm], brought up the subject of winning, or seeking success, as part of his article entitled Managing Oneself; pointing that the expectation for success didn't exist before the knowledge economy: 
+Now, a complication arises from the situation, because given that we can opt-in, as in, intentionally, into an entrepreneurial effort, and essentially that we give to us permission to do the work, which is fine, it doesn't look like a problem. But it comes with that, from the moment when we act, through failures and errors, these failures and errors might affect the fundamental structure in the sensew of the well-being that sustains us through the entrepreneurial effort. Peter Drucker, the father of the adminstration [^druckerfatheradm], brought up the subject of winning, or seeking success, as part of his article entitled Managing Oneself; first pointing that pursuing success was created, and then setting us into the potential problem from the new situation, of trying to control:  
 
 [^druckerfatheradm]: 
 
@@ -31,19 +37,126 @@ Peter Drucker, the father of the adminstration [^druckerfatheradm], brought up t
 * Reference - Drucker, P. (2008). Managing Oneself. Harvard Business School Press. pp. 53-54.
 --> 
 
-Therefore, if no one hand there is a seekness for success as one does "their job", the other viewpoint, which can be obvious but very difficult to see from the perspective of the executor, that success can't be controled. On the other hand, Peter suggests how stability can be brought to lfe of the executor in the face of the truth where execution is subject to failure. 
 
-The solution, which I'd rather not nam it a path for success, lies in splitting the person. The job of the founder, from life of the person, the one which sustains the founder. This, assuming a role of a founder that is inclined to control, to be the controller, one that when has a full control may get to the point of losing control. This mechanism is not unknown to us and it may explain when we fail big and we later come back as a new person. Actually, in fact, a lot of stories of actual success comes after the fact of major failures, although most of stories are so short and focusing in the achievements that the what has happened before is taken out. Perhaps the world does not have time for that. The point being, while we are setting ourselves in a path that involves failing, such as failing from a controller, we must keep alive the person, its consciousness.
+
+
+
+
+<!--
+@outline - complication 
+--> 
+
+
+
+The complication, especially when the matter is an entrepreneurial effort such as when we dig in the startup journey, is that we find ourselves as somebody but do not nurture the being of somebody. This is not intentional, as in pre-planned, it can be result from our urgency to control the outcome, but it connects with distancing from what we care and who we are, we run the risk of losing connection with our integrity. With that, is lose a key result, or key needed element, that need to be maintained for any endeavor where a guide doesn't exist and where we need to be ready when the plan does not go as expected, such as to pivot or to give up the format.
+
+
+
+
+It is plausible to consider that the actual somebody, which we have high hopes, can fail in terms of its fundamental structure, of course, naturally. In other words, if we set the well-being of the underlying somebody to fully depend on the successful results, the outcomes, from our actions; as in to engage with that in excessive or obsessive ways - which is to say that if we are trying to control the outcome as something that maintains oour well-being - that will take us into not in a good place of well-being, in the face of failures, not in a good place to actually learn, or to be creative, to be able to adapt. And furthermore may also affect the basic operational system in us for being around, as somebody, to do something else if needed. 
+
+Now the fact that in some extremme circumstances of failure people learn, as in after the battle ends as in post-mortem, learning after a death of a certain reality, has a truth for us. One which says that you may have under it another underlying somebody in there, giving you hope. And the fact that we learn big lessons from that sort of failure - which can be see as a deatch - means that the actual somebody from within is a fundamental element and key to our journeys. This also set us to consider that we don't have to learn only by the big lessons of failure after major losses. We may too be interested if learning - in the sense of change or learning to adapt - can be not only be done by the day but done in a way that we are happy with that. 
+
+What Peter is giving us there is perspective. If we lock in, accept and trust, that what we do with the job can be either successful or can fail, then the question is: How can I propose a successful situation - in the sense of a healthier - for the one that carries that job? Or better, what conditions I have to propose to that "other person" in a way that he or she is successful even when he or she fails in the job? It is unexcapable that the one that needs to prepare for winnning or losing needs to be, as Peter wrote, somebody. The somebody that is yet alive after a big fail is likely one that listens. He or she is likely one that reflects. He or she is likely one that learns. He or she is likely one that is happy with either winning and not winning. If we explore now what would be the us that can get a job and complete the job and still be happy, we will start exploring the space of supporting ourselves, of respecting ourselves, or planning for what has to be done that never ignores the plan for the healthy mind of the protagonist. In a way is not different from what you would to to you children if she or he is entering a championship but has a long life ahead. Solve that situation and you have success solved and likely more chances to be successful in the job as well. 
+
+
+
+
+
+
 
 Therefore, when it is time to plan the activities and the stories of entrepreneurship, we can and should focus on the proper management of the self with investments in this area. Our reflective moment starts with the celebration that we control the outcome, we can't control success. At least from an extremme perspective, it is very clear, that the total controller, that wants to manipulate the results, it just speeding up towards failure. And the other extremme we know it does not work either, that the one that does not care at all about success is more like taking a road without having a destination in mind. 
 
-The enlightening viewpoint, an the opportunity, lies in the middle, a controller role to be less of a controller, or that does regulate the wish to control with sanity and perspective. That effort, such as when we do engage in the mechanisms to gain perspective, should of course gives us perspective. The light in Peter Drucker's comment really touches the meaning of success for the human being, the indivual, that is the difficult place since the success and failure of the job is present at all times, and since the situation in the end of the day can be one or other and, of course, it is all relative. When relativeness is applied to the outcome that is being considered, the result of the provocation implies in giving a new perspective to the outcome and to put, or bring up, outcomes for the being, for the self, as the key element in the equation - to be somebody, indeed. 
 
-From that angle, one could argue that the outcome of one that seeks material success, for example, from the perspective of the protagonist, is other more abstract notion of success that is associated with that first success, such as happiness. But thinking that the success of the higher order is a consequence of the success of the present order, such as the job, is an error in the interpretation, likely if one moves too fast to grasp what goes on. 
 
-What Peter is giving us there is perspective. If we lock in, accept and trust, that what we do with the job can be either successful or can fail, then the question is: How can I propose a successful situation for the one that carries that job? Or better, what conditions I have to propose to that "other person" in a way that he or she is successful even when he or she fails in the job? It is unexcapable that the one that needs to prepare for winnning or losing needs to be, as Peter wrote, somebody. The somebody that is yet alive after a big fail is likely one that listens. He or she is likely one that reflects. He or she is likely one that learns. He or she is likely one that is happy with either winning and not winning. If we explore now what would be the us that can get a job and complete the job and still be happy, we will start exploring the space of supporting ourselves, of respecting ourselves, or planning for what has to be done that never ignores the plan for the healthy mind of the protagonist. In a way is not different from what you would to to you children if she or he is entering a championship but has a long life ahead. Solve that situation and you have success solved and likely more chances to be successful in the job as well. 
 
-### Scaling the inner self
+
+
+### Splits love
+
+
+The solution, which I'd rather not nam it a path for success, lies in splitting the person. The job of the founder, from life of the person, the one which sustains the founder. This, assuming a role of a founder that is inclined to control, to be the controller, one that when has a full control may get to the point of losing control. This mechanism is not unknown to us and it may explain when we fail big and we later come back as a new person. Actually, in fact, a lot of stories of actual success comes after the fact of major failures, although most of stories are so short and focusing in the achievements that the what has happened before is taken out. Perhaps the world does not have time for that. The point being, while we are setting ourselves in a path that involves failing, such as failing from a controller, we must keep alive the person, its consciousness.
+
+
+
+
+In other words, the self-awareness of the executor should embody its state of well-being that characteristically releases control - for when the things they so passionately involve are challenged - in the face of external environment that changes significantly. Steve Blank highlights when a founder state of a firm believer - which is likely a characteristic of great founders - provokes emotional reaction that reaffirms its beliefs: 
+
+> *"[If] they tell you that your baby is ugly, smoke is going to start coming out of your ears because cognitive dissonance is going to set in. You are a believer and now they are telling you that you are wrong? Are these people stupid? Which is - the first reaction of a great founder is: They just don’t get it."*
+> Steve Blank (MAP14, 2014, 26m39s)
+
+<!-- 
+@references 
+* reference - Steve Blank @ MAP Unimelb, Published on Mar 13, 2014 [video]. Retrieved from https://www.youtube.com/watch?v=UFx2CQUTpYo
+--> 
+
+The situation pointed by Steve is not easy for any entrepreneur since what moves entrepreneurship forward might well be connected with that is thought as the job, such as goals or an outcome ahead. This is exactly the part that deserves a reflective moment - the identification of your whole, the elements that make one to be somebody beyond what they are currently doing. It's quite challenging, especially for founders that are excited with whatever they envisioned, to pause and reflect, to pull the elements that can support them to be somebody that serves the now and as well the future. 
+
+
+
+
+
+
+
+Before we move to the following part, which is a reflection about the well being that puts us in the right place to do a job well, I want to keep in sync with the idea of splitting yourself and to indicate that this notion can bring organization that is precise to what you have ahead of you. Consider what I do for my start-up, for example. I am proposing an startup that is quite agressive and wants to put a dent in the universe. It might use AI and other elements that are considered hot. It also promises to the customer target, the people with a need, that their professional lives will be better. But the job I do is an effort. And it is because I need to trust that the bad outcome is a possibility that I have to solve a problem. An example, I do have a customer. She is a psychologist and the so-far-product helps her. But the product might out of the sudden disappear. What should I do? What is the current plan that can split success when the actual "platform" can be broken? 
+
+Consider the possibility of a contract that you can write with yourself. Where I said, or wrote, that I am doing an effort of work to help her. And, in case of failure of the start-up, the response plan is to do XYZ, such as to help her continue to improve her life. I can, for example, give to her the data of the project so that she can continue the work with others. Such as she feel that there is respect. Notice that a principle of well-being for the long run is present here and it is organizing the present situation of the start-up, for the customer, and as well for myself as a founder. 
+
+One other component based on the same principle, that what I do is published, kept alive, so that the work I do can be seen. Therefore, and since controlling success is not possible, I can at least focus on progress. I can update my résumé constantly while doing the job. I can improve myself in being on time. I can improve my writing. I can study subjects. I lean listen. I can course-correct the plan after failing. These are traits of success that can be secured, for the person, aside from the actual effort of execution. A lot of professionals are quite professionals even when they are working for companies that had funding but out of the sudden the funding dries out. These folks can still have jobs after. And these folks should have a life always. 
+
+<!--
+@meta @todo 
+* @todo - p1 ( ) - In Accounting - In "split the love" , it may be worth to check Marcio's Hackenoon article where he claimed that startup advancements should go along with résumé advancement. THis may also align with Reid's note from the Start Up of You. @meta-refid 1222-3332-4443-6667 
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Transcends somebody
+
+
+
 
 The idea of preservation of the self, being somebody, should be recognized in the long run. Consider the entrepreneurial setting of a startup that faces the potential for scaling. There is simply no way to expect scaling of a startup without the growth of the executive team involved. 
 
@@ -97,30 +210,7 @@ The job changes so much, you're almost playing a different sport every job. And 
 
 --> 
 
-In other words, the self-awareness of the executor should embody its state of well-being that characteristically releases control - for when the things they so passionately involve are challenged - in the face of external environment that changes significantly. Steve Blank highlights when a founder state of a firm believer - which is likely a characteristic of great founders - provokes emotional reaction that reaffirms its beliefs: 
 
-> *"[If] they tell you that your baby is ugly, smoke is going to start coming out of your ears because cognitive dissonance is going to set in. You are a believer and now they are telling you that you are wrong? Are these people stupid? Which is - the first reaction of a great founder is: They just don’t get it."*
-> Steve Blank (MAP14, 2014, 26m39s)
-
-<!-- 
-@references 
-* reference - Steve Blank @ MAP Unimelb, Published on Mar 13, 2014 [video]. Retrieved from https://www.youtube.com/watch?v=UFx2CQUTpYo
---> 
-
-The situation pointed by Steve is not easy for any entrepreneur since what moves entrepreneurship forward might well be connected with that is thought as the job, such as goals or an outcome ahead. This is exactly the part that deserves a reflective moment - the identification of your whole, the elements that make one to be somebody beyond what they are currently doing. It's quite challenging, especially for founders that are excited with whatever they envisioned, to pause and reflect, to pull the elements that can support them to be somebody that serves the now and as well the future. 
-
-### Split the love
-
-Before we move to the following part, which is a reflection about the well being that puts us in the right place to do a job well, I want to keep in sync with the idea of splitting yourself and to indicate that this notion can bring organization that is precise to what you have ahead of you. Consider what I do for my start-up, for example. I am proposing an startup that is quite agressive and wants to put a dent in the universe. It might use AI and other elements that are considered hot. It also promises to the customer target, the people with a need, that their professional lives will be better. But the job I do is an effort. And it is because I need to trust that the bad outcome is a possibility that I have to solve a problem. An example, I do have a customer. She is a psychologist and the so-far-product helps her. But the product might out of the sudden disappear. What should I do? What is the current plan that can split success when the actual "platform" can be broken? 
-
-Consider the possibility of a contract that you can write with yourself. Where I said, or wrote, that I am doing an effort of work to help her. And, in case of failure of the start-up, the response plan is to do XYZ, such as to help her continue to improve her life. I can, for example, give to her the data of the project so that she can continue the work with others. Such as she feel that there is respect. Notice that a principle of well-being for the long run is present here and it is organizing the present situation of the start-up, for the customer, and as well for myself as a founder. 
-
-One other component based on the same principle, that what I do is published, kept alive, so that the work I do can be seen. Therefore, and since controlling success is not possible, I can at least focus on progress. I can update my résumé constantly while doing the job. I can improve myself in being on time. I can improve my writing. I can study subjects. I lean listen. I can course-correct the plan after failing. These are traits of success that can be secured, for the person, aside from the actual effort of execution. A lot of professionals are quite professionals even when they are working for companies that had funding but out of the sudden the funding dries out. These folks can still have jobs after. And these folks should have a life always. 
-
-<!--
-@meta @todo 
-* @todo - p1 ( ) - In Accounting - In "split the love" , it may be worth to check Marcio's Hackenoon article where he claimed that startup advancements should go along with résumé advancement. THis may also align with Reid's note from the Start Up of You. @meta-refid 1222-3332-4443-6667 
--->
 
 The annedote notion for splitting the love can be treated with an enlighted view from Abraham Maslow in Maslow on Managenent. In Memorandum on Salesman and Salesmanship (1998, p. 259), Maslow ilustrates a salesperson type that is concerned with the present, a practical type, that is less aware of the consequences of what they do in time and space: 
 
