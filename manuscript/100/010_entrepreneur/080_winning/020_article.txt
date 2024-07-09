@@ -1,9 +1,8 @@
+
 <!--
 @meta @todo 
-* @todo - p1 ( ) - Strategic - In Success - Thesis: Part of the fuel must go for real success, well-being focus that maintains the whole.  The following quote is from Dorothea Brandy from 1936, page 14, of Wake Up and live, there is a concept which may be applicable to the section Success: "Now this is something which we seldom see at once. Because we commonly think of failure as the conventional opposite of success, we continue to make false antithesis of the qualities which attend success and failure. Success is bracing, active, alert; so the typical attitude of failure, we believe, must be lethargy, inertia, a supine position. True enough; but that does not mean that no energy is being used. Let any psychologist tell you how much energy a mature person must expend to resist motion. A powerful struggle must be waged against the forces of life and movement in order to remain inert, although this struggle takes place so far beneath the surface of our lives that we do not always become aware of it. Physical inaction is no true sign that life-force is not being burned away. So even the idler is using fuel while they dream." (Brande, Dorothea., 2014/1936, p.14) @meta-refid 1212-2323-8838-4848
---> 
-
-
+* @todo - p1 ( ) - Strategic - In Success -  The following quote is from Dorothea Brandy from 1936, page 14, of Wake Up and live, there is a concept which may be applicable to the section Success: "Now this is something which we seldom see at once. Because we commonly think of failure as the conventional opposite of success, we continue to make false antithesis of the qualities which attend success and failure. Success is bracing, active, alert; so the typical attitude of failure, we believe, must be lethargy, inertia, a supine position. True enough; but that does not mean that no energy is being used. Let any psychologist tell you how much energy a mature person must expend to resist motion. A powerful struggle must be waged against the forces of life and movement in order to remain inert, although this struggle takes place so far beneath the surface of our lives that we do not always become aware of it. Physical inaction is no true sign that life-force is not being burned away. So even the idler is using fuel while they dream." (Brande, Dorothea., 2014/1936, p.14) @meta-refid 1212-2323-8838-4848
+-->
 
 
 
@@ -51,26 +50,49 @@ Now, a complication arises from the situation, because given that we can opt-in,
 
 
 
-The complication, especially when the matter is an entrepreneurial effort such as when we dig in the startup journey, is that we set ourselves as somebody - for the task - but do not nurture the somebody - for the being. This is not intentional, as in pre-planned, it can be result from our urgency to control the outcome. But it is observable and unintended consequences are observable. It may set us to distance from what we care, or who we are, or who we want to be. We may risk losing connection with ourselfs in the sense of breaking our integrity; these are situations which can be observable in the extremme. But before that, the more we don't care to being conscious about this underlying well-being, the more we set ourselves into a game, like gamblers, and like gamblers living with the intermediary day by day becoming controllers and not nurturing our well-being. 
-
-
-
-It is plausible to consider that the actual somebody, which we have high hopes, can fail in terms of its fundamental structure, of course, naturally. In other words, if we set the well-being of the underlying somebody to fully depend on the successful results, the outcomes, from our actions; as in to engage with that in excessive or obsessive ways - which is to say that if we are trying to control the outcome as something that maintains oour well-being - that will take us into not in a good place of well-being, in the face of failures, not in a good place to actually learn, or to be creative, to be able to adapt. And furthermore may also affect the basic operational system in us for being around, as somebody, to do something else if needed. 
-
-
+The complication, especially when the matter is an entrepreneurial effort such as when we dig in the startup journey, is that we do set ourselves as somebody - for the task - but we may not nurture the being that maintains the somebody. This is not intentional, as in pre-planned. 
 
 <!--
-@outline - general 
+@meta @todo 
+* @todo - p1 (Done) - In Success or Impact - Dorothea Brande's insight for success; Quote from p.43 of Wake up and Live: "That is the mental picture we make of the trial and error method of learning. Roughly, it is right, but it omits to emphasize one element of the process which, although we may not dwell upon it intentionally, is never forgotten by the Unconscious: the element of pain. We believe, or speak and write as though we believed, that the one success remains as the total residue of the series of attempts, and that it cancels from our minds all the failures which went before it. We do not take into account the tremendous importance to our future conduct of those discarded trials which ended in failure. We succeed at last, it is true; but meanwhile we experience failure, sometimes ridicule, sometimes real pain, sometimes grave humiliation. We by no means retain in our memories only the item of the final success, nor does the success operate to make the failures and pain unimportant to our Unconscious." @meta-refid 1222-9393-9393-4444
 -->
 
+Dorothea Brande, in *Wake Up and Live* (2014), had considered how we as humans in our attempts to succeed, and by engaging with trial-and-error - inded living through life between failures and successes and inded with Peter Drucker as "wherever there is success there has to be failure," - will miss a key understanding that our efforts by failure matters a lot and beyond the idea of lessons learned, that for the self, in special, our unconscious will not forget the cost of failures, what she referred as "the element of pain." She had considered our mistaken views that success acquired, to some extent, erases the pains acquired:   
 
-Now the fact that in some extremme circumstances of failure people learn, as in after the battle ends as in post-mortem, learning after a death of a certain reality, has a truth for us. One which says that you may have under it another underlying somebody in there, giving you hope. And the fact that we learn big lessons from that sort of failure - which can be see as a deatch - means that the actual somebody from within is a fundamental element and key to our journeys. This also set us to consider that we don't have to learn only by the big lessons of failure after major losses. We may too be interested if learning - in the sense of change or learning to adapt - can be not only be done by the day but done in a way that we are happy with that. 
+> *"We believe, or speak and write as though we believed, that the one success remains as the total residue of the series of attempts, and that it cancels from our minds all the failures which went before it. We do not take into account the tremendous importance to our future conduct of those discarded trials which ended in failure. We succeed at last, it is true; but meanwhile we experience failure, sometimes ridicule, sometimes real pain, sometimes grave humiliation. We by no means retain in our memories only the item of the final success, nor does the success operate to make the failures and pain unimportant to our Unconscious."* (Brande, Dorothea., 2014, p.43) 
 
-This mechanism is not unknown to us and it may explain when we fail big and we later come back as a new person. Actually, in fact, a lot of stories of actual success comes after the fact of major failures, although most of stories are so short and focusing in the achievements that the what has happened before is taken out. Perhaps the world does not have time for that. The point being, while we are setting ourselves in a path that involves failing, such as failing from a controller, we must keep alive the person, its consciousness.
+<!--
+@meta @references 
+* reference - Brande, D. (2014). Wake up and live. BN Publishing.
+--> 
 
-What Peter is giving us there is perspective. If we lock in, accept and trust, that what we do with the job can be either successful or can fail, then the question is: How can I propose a successful situation - in the sense of a healthier - for the one that carries that job? Or better, what conditions I have to propose to that "other person" in a way that he or she is successful even when he or she fails in the job? It is unexcapable that the one that needs to prepare for winnning or losing needs to be, as Peter wrote, somebody. The somebody that is yet alive after a big fail is likely one that listens. He or she is likely one that reflects. He or she is likely one that learns. He or she is likely one that is happy with either winning and not winning. If we explore now what would be the us that can get a job and complete the job and still be happy, we will start exploring the space of supporting ourselves, of respecting ourselves, or planning for what has to be done that never ignores the plan for the healthy mind of the protagonist. In a way is not different from what you would to to you children if she or he is entering a championship but has a long life ahead. Solve that situation and you have success solved and likely more chances to be successful in the job as well. 
 
-Therefore, when it is time to plan the activities and the stories of entrepreneurship, we can and should focus on the proper management of the self with investments in this area. Our reflective moment starts with the celebration that we control the outcome, we can't control success. At least from an extremme perspective, it is very clear, that the total controller, that wants to manipulate the results, it just speeding up towards failure. And the other extremme we know it does not work either, that the one that does not care at all about success is more like taking a road without having a destination in mind. 
+In other words, the management of the self by lacking self-awareness about the situation of a path of pursuing success under uncertain conditions (and founders are a special kind either because they are the roots and that their ways will propagate,) may understimate the cost of failure, which may be characterized as they run in a sort of "under the influence" (of execution) situation, especially in the beginning when they are passionate, or feeling energetic, or call it whatever you want. The lack of awareness about such real cost, or lack of accountability of their well-being, may take them to a number of scenarios which are unknown to them. It may take them to control successes, not allowing themselves to enter risky experiments and to to adapt. It can be result from our urgency to control the outcome. But it is observable and unintended consequences are observable. It may set us to distance from what we care, or who we are, or who we want to be. We may risk losing connection with ourselves in the sense of breaking our integrity; these are situations which can be observable in the extremme. But before that, the more we don't care to being conscious about this underlying well-being, the more we set ourselves into a game, like gamblers, and like gamblers living with the intermediary day by day becoming controllers and not nurturing our well-being. 
+
+
+
+
+
+Now the situation in particularly complicated as the most important resource does not get acquaintaied with this need of preparing this well-being for truly learning from the challenges and also acquiring a perspective, and getting involved in supporting the development of underlying values, in the context of the succcessul being that preserves the being. Thus, while we have high hopes, yet we fail in terms of its fundamental structure. From the extremme situations we may get into becoming a being that does it excessive ways, or obsessive ways, which may be a forceful characterization of the personality, as in controlling the outcome inadvertedly taking the being to be out of the zone of the learner being and of one who needs to be prepared to adapt. 
+
+Now we do know that we human beings can learn in the extremme situations after major failures, as in after the battle ends as in post-mortem, learning after a death of a certain reality, has a truth for us. One which says that you may have under it another underlying somebody in there, giving you hope. And the fact that we learn big lessons from that sort of failure - which can be see as a deatch - means that the actual somebody from within is a fundamental element and key to our journeys. And to know that fundamental truth, that it is a being before the being that holds the hopes, we can then consider the actual complications for the life of the founder in terms of managing the self and the self in this path for success; that to neglect that openning herself up, for not expecting big major learning lessons from big major losses, can be a good investment, and that it can be created, can be nurtured, and that it will make a difference. 
+
+
+
+
+
+What Peter is giving us there is perspective. If we lock in, accept and trust, that what we do with the job can be either successful or can fail, then the question is: How can I propose a successful situation - in the sense of a healthier - for the one that carries that job? Or better, would it be possible to propose a characterization of our roles as one that is "another person" in a way that he or she is successful even when he or she fails in the job? 
+
+It is unexcapable that the one that needs to prepare for winnning or losing needs to be, as Peter wrote, somebody. The somebody that is yet alive after a big fail is likely one that listens. He or she is likely one that reflects. He or she is likely one that learns. He or she is likely one that is happy with either winning and not winning. If we explore now what would be the us that can get a job and complete the job and still be happy, we will start exploring the space of supporting ourselves, of respecting ourselves, or planning for what has to be done that never ignores the plan for the healthy mind of the protagonist. In a way is not different from what you would to to you children if she or he is entering a championship but has a long life ahead. Solve that situation and you have success solved and likely more chances to be successful in the job as well. 
+
+Through the following two sections we will consider characterizations for giving us a perspective and awareness and to make a point, and a call, to set us to be aware, and involved. Through the first, *Split the Love*, we will consider a horizontal expansion exercise, that we are getting acquainted with the idea of not being a target from our experiments, not to be blind by the successful or the failure, in parallel, and engaging with being aware as a meta-executor. NExt, we will consider a vertical expansion, where we use the day investments and develop a conscious view that through the execution we are giving ourselves a chance to understand underlying values and investments that set us as the true successful being for the challenges ahead. 
+
+
+
+
+
+
+
 
 
 
@@ -82,18 +104,7 @@ Therefore, when it is time to plan the activities and the stories of entrepreneu
 
 You're probably aware of a condition, or state, that is generally known as to be heartbroken; when something breaks your heart. It may be a state of desperation in the face of the major loss. And it certainly involves a condition associated with grief. And from that - although it may not feel that we're even hopeful at during the moment - it's generally the case that it follows acceptance, which may imply the reflection. To think about possible extremmes, from that situation of one that were heartbroken, some of us may never allow ourselves to love again; and some others may eventually fall into loving again, and being as hard as before, heartbroken again. Something tells me that the answer lies in the middle and which requires to love us as beings. 
 
-A solution, coming back to the world of us beings and founders, which I'd rather not call it a solution for success, lies in splitting our loves. The job of the founder, from life of the person, the one which sustains the founder. Which would also go along with the lover situation by following along wth the idea of self love in the first place. 
-
-This, assuming a role of a founder that is inclined to control, to be the controller, one that when has a full control may get to the point of losing control. 
-
-
-
-
-
-
-
-
-In other words, the self-awareness of the executor should embody its state of well-being that characteristically releases control - for when the things they so passionately involve are challenged - in the face of external environment that changes significantly. Steve Blank highlights when a founder state of a firm believer - which is likely a characteristic of great founders - provokes emotional reaction that reaffirms its beliefs: 
+Now in the realm of the founder this is relevant because it is observable that we can be too involved with our views both in the situation of the day and also in the situation through the stages of the start-up evolution. In other words, the self-awareness of the executor should embody its state of well-being that characteristically releases control - for when the things they so passionately involve are challenged - in the face of external environment that changes significantly. Steve Blank highlights when a founder state of a firm believer - which is likely a characteristic of great founders - provokes emotional reaction that reaffirms its beliefs: 
 
 > *"[If] they tell you that your baby is ugly, smoke is going to start coming out of your ears because cognitive dissonance is going to set in. You are a believer and now they are telling you that you are wrong? Are these people stupid? Which is - the first reaction of a great founder is: They just don’t get it."*
 > Steve Blank (MAP14, 2014, 26m39s)
@@ -111,89 +122,14 @@ The situation pointed by Steve is not easy for any entrepreneur since what moves
 
 
 
-Before we move to the following part, which is a reflection about the well being that puts us in the right place to do a job well, I want to keep in sync with the idea of splitting yourself and to indicate that this notion can bring organization that is precise to what you have ahead of you. Consider what I do for my start-up, for example. I am proposing an startup that is quite agressive and wants to put a dent in the universe. It might use AI and other elements that are considered hot. It also promises to the customer target, the people with a need, that their professional lives will be better. But the job I do is an effort. And it is because I need to trust that the bad outcome is a possibility that I have to solve a problem. An example, I do have a customer. She is a psychologist and the so-far-product helps her. But the product might out of the sudden disappear. What should I do? What is the current plan that can split success when the actual "platform" can be broken? 
 
-Consider the possibility of a contract that you can write with yourself. Where I said, or wrote, that I am doing an effort of work to help her. And, in case of failure of the start-up, the response plan is to do XYZ, such as to help her continue to improve her life. I can, for example, give to her the data of the project so that she can continue the work with others. Such as she feel that there is respect. Notice that a principle of well-being for the long run is present here and it is organizing the present situation of the start-up, for the customer, and as well for myself as a founder. 
-
-One other component based on the same principle, that what I do is published, kept alive, so that the work I do can be seen. Therefore, and since controlling success is not possible, I can at least focus on progress. I can update my résumé constantly while doing the job. I can improve myself in being on time. I can improve my writing. I can study subjects. I lean listen. I can course-correct the plan after failing. These are traits of success that can be secured, for the person, aside from the actual effort of execution. A lot of professionals are quite professionals even when they are working for companies that had funding but out of the sudden the funding dries out. These folks can still have jobs after. And these folks should have a life always. 
-
-One situation in particular may be interesting to observe and within the actual start-up context has originally puzzled me when I was studying the Blitzscaling lectures. It's a known moment from the history of Airbnb before Airbnb, then they were Air Bed and Breakfast. You can also remember of this moment as the story of the Cereal Entrepreneur; a joke according to Brian Chesky but it became for me very serious when I got the underlying lesson from it, that through their effort they were both founders and professional beings: 
-
-> *"So we started making breakfast cereal. And we made presidential-themed breakfast cereal. We made a Barack Obama themed cereal. We called it Obama Oh's, The Breakfast of Change. And we created John McCain themed cereal. We called it Capt'n McCain's, A Maverick in Every Bite. And we literally hand crafted our own cereal boxes. And we basically used a gin up press and also, frankly desperation. And I hadn't been eating at this point, so I was probably also starting to get slightly delirious. But, we called General Mills, they were like, "What are you talking about? You seriously think we're gonna make unlicensed presidential-themed cereal?" We're like, "Okay, I guess you won't." And so then, we called these medium-sized cereal companies. They're like, "Great, just send us a non-refundable check for $200,000." I'm like, "OK, that's not gonna work." So we found this guy in Berkley. He was an alumni of RISD. He says, "I can't print you 100,000 boxes of cereal, but here's what I'll do. I'll print you 1,000 boxes of cereal for free, just give me a royalty." We're like, "Thank you!" One day, Joe comes back with 1,000 pieces of giant cardboard. I'm like, "What the hell is that?" He's like, "These are the cereal boxes." They were just pieces of cardboard we had to fold and glue into boxes. No one told me that. So, to fund the company we basically folded, like giant origami, 1,000 boxes of collectible breakfast cereal, had to pack cereal in them, and we sold them for $40 a box. We thought who was going to pay $40 a box, but they were limited edition, so we hand numbered every one. We called it limited edition. And we ended up selling $30,000 of cereal. And that's actually how we funded the company."* (Chesky Brian., 2015, 17:18)
-
-It may not be the case that they were intentional, that what they did had to do with establishing a sort of plan B, what I call plan P - being professional - because it came in a way that looks like real life, because they needed money. Nevertheless, observations for their characterization as professionals with ties with the characterizations of founders which were recognized as valuable. One in particular was how Paul Graham, of YCombinator have seen their movement - which likely would be first considered as a distraction to the core business: 
-
-> *"And so we meet with Paul Graham at Y Combinator. And he thought the idea was absolutely terrible. In fact, he said, 'People are actually doing this?' And I said, 'Yeah.' And the second question was, 'What's wrong with them?' And I said, 'Oh shit!' So I thought this was a really bad interview, but by the end of the interview, Joe hands him a box of Obama Oh's. And Paul Graham thought that we just bought this stupid box of cereal. And he's like, 'No, this is how we funded the company.' And Paul Graham said, 'If you can convince people to pay $40 for a $4 box of cereal, maybe you can get strangers to stay in other strangers' homes.' And he also liked us 'cause he said we were cockroaches. And he said, 'It's an investment nuclear winter and the only people that will survive are cockroaches and you're a cockroach.'"* (Chesky Brian., 2015, 19:54)
-
-For Paul Graham certainly he took other characterizations  - they ability to do it, their qualities as designers, their ability to engage with the effort. If things didn't work, they had done something. So then, right then, I would say that what they did were a plan XYZ. This may connect a thought from Reid and Ben Casnocha from *The Start-up of You* when he considered that you need to get into new opportunities but never in a way that you don't have a known condition. 
-
-
-
-
-
-<!--
-@meta @todo 
-* @todo - p1 ( ) - In Accounting - In "split the love" , it may be worth to check Marcio's Hackenoon article where he claimed that startup advancements should go along with résumé advancement. THis may also align with Reid's note from the Start Up of You. @meta-refid 1222-3332-4443-6667 
--->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Transcends somebody
-
-
-
-
-The idea of preservation of the self, being somebody, should be recognized in the long run. Consider the entrepreneurial setting of a startup that faces the potential for scaling. There is simply no way to expect scaling of a startup without the growth of the executive team involved. 
-
-The challenges for adaptability of the self, the founding team, was brought by when Reid Hoffman, when he interviewed Brian Chesky wondering how truthful is the thesis of "What got you here does not get you there. " We should keep in mind that Airbnb went through the various stages of growth from Blitzscaling [^footnote_blizscaling_growth_stages] - family, tribe, village, city and nation. In this context, Brian points a strange perception, as a kind of question he used to get from people about Airbn, that growing a company is mostly about its founding days and then things goes like "you have this idea, it takes off, and you just gotta find a way to manage it." 
+Now another characterized situation of challenge can be taken from the case of a founder that lasts, which is not so common, but thankfully is the case of Brian Chesky of Airbnb; and because of that we have takeaways given by the Blitzscaling lectures. In terms of the challenges for adaptability of the self, the founding team, was brought by when Reid Hoffman, when he interviewed Brian Chesky wondering how truthful is the thesis of "What got you here does not get you there. " We should keep in mind that Airbnb went through the various stages of growth from Blitzscaling - family, tribe, village, city and nation. In this context, Brian points a strange perception, as a kind of question he used to get from people about Airbn, that growing a company is mostly about its founding days and then things goes like "you have this idea, it takes off, and you just gotta find a way to manage it." 
 
 > *"I think stage one is actually fairly straight forward. [..] I don't think it's that complicated and even if it is, it's well written about. But the thing after that, there's not a lot of books about and everyone gives you the wrong advice. You gotta figure it out and you're kinda on your own. And the risk is, if I ask a CEO how to manage and they work at a huge company, they're gonna tell me the wrong thing. It's like you talk about you're skating, but it's not ice it's water. The ice skates don't work yet. We invited a former CEO over, and he gave me this piece of advice I'll never forget. He said, "Every six months you keep your job "it's a promotion." I almost think, in hindsight, it's better to say every six months is a totally different job. So it's not like this metaphor of you're an athlete and you're a tennis player and you play small tournaments and you work your way up. You start playing tennis, then you're like a bowler, then you're like a football player and then you're playing hockey. The job changes so much, you're almost playing a different sport every job."* 
 > Brian Chesky, (Greylock, 2015, 56:36)
 
 <!-- 
-
+@note
 https://youtu.be/W608u6sBFpo?si=-hnqksLinDbtPZpW&t=3396
 
 Greylock. (2015, November 30). Blitzscaling 18: Brian Chesky on Launching Airbnb and the Challenges of Scale [Video]. YouTube. https://www.youtube.com/watch?v=W608u6sBFpo
@@ -236,6 +172,59 @@ and you work your way up. You start playing tennis, then you're like a bowler, t
 The job changes so much, you're almost playing a different sport every job. And this is why it's fairly,
 
 --> 
+
+Brian is essentially considering, by noting that "there's not a lot of books about and everyone gives you the wrong advice," a potentially situation of anawareness due to the characterization of the model of execution which turns out to think of people as expendable resources. In other words, if the major entity, somehow grows but the inner entities (people) aren't up to it, they are replaceble. This might be the case of the start-up that grows and it may be a recognized key trait of the capitalist engine - that management can replace ideas and resources - which sets the self-cleaning oven to work as we have celebrated in the Introduction. However, we shall remind ourselves that this is a book for founders and framed the situation from their point of view, assuming that they are not expendable, in alighment with what I had briefly introduced in the Introduction that I want us to be around for more than this reading. Therefore, to have Brian being around, and to have him to reflect about what it takes to being around is key; another reason for us to be thankful for the Blitzscaling crew. Anyway, the point is that for the situation of one who wants to be around, to know the means to be around is key; and right there Brian does it exercising talking about, being reflective about, noting it; the importance of nurturing yourself as a being to learn and adapt. This is part of our job. 
+
+
+
+<!--
+@outline - answer 
+--> 
+
+
+To exercise our perception for adaptation and reframing success and failures, we may consider the exercit of splitting our loves. The job of the executor which may characterize its structure based on success and failures, with the matter being executed.  What this exercise may do for us to essentially to sets us involved as a being that has self-love a being beyond to be a sole lover and potential target. Which would also go along with the lover situation by following along wth the idea of self love in the first place. 
+
+<!--
+@meta @todo 
+* @todo - p1 ( ) - In Accounting - In "split the love" , it may be worth to check Marcio's Hackenoon article where he claimed that startup advancements should go along with résumé advancement. THis may also align with Reid's note from the Start Up of You. @meta-refid 1222-3332-4443-6667 
+-->
+
+Let us move to a case of one, making an MVP, an experiment, and planning a sort of plan B for life if the startup experiment goes bad. Imagine that you don't have time, and that you only have six months. And you are in a major project already, somehow you believe that this is a go and no go, and you too involved. Thus, from now, considering the end of it, which may have an outcome, you might engage in being prepared for things not working. One way I came accross, it I tell you that it came for the sake of need, was to think that what were doing were a simple résumé. And then you do it, and now you have a problem which is that you have two things in the front of you, and actual thing being done and a résumé. A sort of executor critic will chime in - to tell you to focus, or to commit, if the résumé building characterizations could create distraction. But see, if it is risky anyway, too risky, the full devotion to do it should not be anyway a reason that will fix. In fact you may well need to keep yourself involved in having a perspective. The actual résumé in this case than will take you through a path that is to some extent sets you as a professional, as a being, a professional; while giving you a view for a reflection too. 
+
+A major concern for any of this effort will rise as using time for that kind of engagment, which may be seen as unproductive; thus this is where we should go back to recognize that to respect time is important. We aren't entering this to actually do the experiments on the side, using time that it does not exist, as it an excuse. The whole point is to bring in, is to be intentional. We can't nurture ourselves as ones who to solve major problems of adaptation will eventually ask help from outside. In other words help should comme from inside. Moreover, the more we put this investiment within the accounting structure, we more we will set ourselves to be responsible with this activity. 
+
+But a key value from there is not only the setting of a plan B for a job; but in fact it's an involvement in separating the professional that does from the outcome produced; actually to some extent turning the outcome to become an output and then coming back to valuing yourself as a executor of activities. This may sound an absurd, if we lock ourselves in the view that outcomes is all that matters, but we are not saying full ignorance to outcome but in face promoting the awareness of the successful being where activities counts, effort counts, accounting of effort counts; which also set us to organize, and to plan. This is essentially being out of being attacked by the results from the outcome.
+
+
+
+
+
+
+### Transcends somebody
+
+
+Before we move to the following part, which is a reflection about the well being that puts us in the right place to do a job well, I want to keep in sync with the idea of splitting yourself and to indicate that this notion can bring organization that is precise to what you have ahead of you. Consider what I do for my start-up, for example. I am proposing an startup that is quite agressive and wants to put a dent in the universe. It might use AI and other elements that are considered hot. It also promises to the customer target, the people with a need, that their professional lives will be better. But the job I do is an effort. And it is because I need to trust that the bad outcome is a possibility that I have to solve a problem. An example, I do have a customer. She is a psychologist and the so-far-product helps her. But the product might out of the sudden disappear. What should I do? What is the current plan that can split success when the actual "platform" can be broken? 
+
+Consider the possibility of a contract that you can write with yourself. Where I said, or wrote, that I am doing an effort of work to help her. And, in case of failure of the start-up, the response plan is to do XYZ, such as to help her continue to improve her life. I can, for example, give to her the data of the project so that she can continue the work with others. Such as she feel that there is respect. Notice that a principle of well-being for the long run is present here and it is organizing the present situation of the start-up, for the customer, and as well for myself as a founder. 
+
+One other component based on the same principle, that what I do is published, kept alive, so that the work I do can be seen. Therefore, and since controlling success is not possible, I can at least focus on progress. I can update my résumé constantly while doing the job. I can improve myself in being on time. I can improve my writing. I can study subjects. I lean listen. I can course-correct the plan after failing. These are traits of success that can be secured, for the person, aside from the actual effort of execution. A lot of professionals are quite professionals even when they are working for companies that had funding but out of the sudden the funding dries out. These folks can still have jobs after. And these folks should have a life always. 
+
+One situation in particular may be interesting to observe and within the actual start-up context has originally puzzled me when I was studying the Blitzscaling lectures. It's a known moment from the history of Airbnb before Airbnb, then they were Air Bed and Breakfast. You can also remember of this moment as the story of the Cereal Entrepreneur; a joke according to Brian Chesky but it became for me very serious when I got the underlying lesson from it, that through their effort they were both founders and professional beings: 
+
+> *"So we started making breakfast cereal. And we made presidential-themed breakfast cereal. We made a Barack Obama themed cereal. We called it Obama Oh's, The Breakfast of Change. And we created John McCain themed cereal. We called it Capt'n McCain's, A Maverick in Every Bite. And we literally hand crafted our own cereal boxes. And we basically used a gin up press and also, frankly desperation. And I hadn't been eating at this point, so I was probably also starting to get slightly delirious. But, we called General Mills, they were like, "What are you talking about? You seriously think we're gonna make unlicensed presidential-themed cereal?" We're like, "Okay, I guess you won't." And so then, we called these medium-sized cereal companies. They're like, "Great, just send us a non-refundable check for $200,000." I'm like, "OK, that's not gonna work." So we found this guy in Berkley. He was an alumni of RISD. He says, "I can't print you 100,000 boxes of cereal, but here's what I'll do. I'll print you 1,000 boxes of cereal for free, just give me a royalty." We're like, "Thank you!" One day, Joe comes back with 1,000 pieces of giant cardboard. I'm like, "What the hell is that?" He's like, "These are the cereal boxes." They were just pieces of cardboard we had to fold and glue into boxes. No one told me that. So, to fund the company we basically folded, like giant origami, 1,000 boxes of collectible breakfast cereal, had to pack cereal in them, and we sold them for $40 a box. We thought who was going to pay $40 a box, but they were limited edition, so we hand numbered every one. We called it limited edition. And we ended up selling $30,000 of cereal. And that's actually how we funded the company."* (Chesky Brian., 2015, 17:18)
+
+It may not be the case that they were intentional, that what they did had to do with establishing a sort of plan B, what I call plan P - being professional - because it came in a way that looks like real life, because they needed money. Nevertheless, observations for their characterization as professionals with ties with the characterizations of founders which were recognized as valuable. One in particular was how Paul Graham, of YCombinator have seen their movement - which likely would be first considered as a distraction to the core business: 
+
+> *"And so we meet with Paul Graham at Y Combinator. And he thought the idea was absolutely terrible. In fact, he said, 'People are actually doing this?' And I said, 'Yeah.' And the second question was, 'What's wrong with them?' And I said, 'Oh shit!' So I thought this was a really bad interview, but by the end of the interview, Joe hands him a box of Obama Oh's. And Paul Graham thought that we just bought this stupid box of cereal. And he's like, 'No, this is how we funded the company.' And Paul Graham said, 'If you can convince people to pay $40 for a $4 box of cereal, maybe you can get strangers to stay in other strangers' homes.' And he also liked us 'cause he said we were cockroaches. And he said, 'It's an investment nuclear winter and the only people that will survive are cockroaches and you're a cockroach.'"* (Chesky Brian., 2015, 19:54)
+
+For Paul Graham certainly he took other characterizations  - they ability to do it, their qualities as designers, their ability to engage with the effort. If things didn't work, they had done something. So then, right then, I would say that what they did were a plan XYZ. This may connect a thought from Reid and Ben Casnocha from *The Start-up of You* when he considered that you need to get into new opportunities but never in a way that you don't have a known condition. 
+
+
+
+
+
+
+
 
 
 
