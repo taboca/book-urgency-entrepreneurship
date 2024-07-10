@@ -35,7 +35,7 @@ Before we conclude part one, and given that we have celebrated characterizations
 * reference - Dearing, M. (2015, October 8). Blitzscaling 03: Michael Dearing on Capitalism, Creativity, and Creative Destruction [Video]. Greylock. https://www.youtube.com/watch?v=3vCdfa_aeI8
 --> 
 
-Leaving that dark period in the past, and moving to when things started to look different - throughout the industrial revolution - we see the world's producvitity growing and and kept on growing fast. Any ressemblance with the hokey stick alike exponential image is not a mere coincidence. Michael points too that many things had happened and are happening, good and bad things. But to the point, he points, or prompt us to reflect, about how that the curve pays for everything. If I accept the challenge, from the many thoughts about how it pays, when I try to extract a sort of "small version" of the curve applicaple to our lives, a parallel which can be observable, I think of a mother who offers safety to her baby in the first place, and then she supports the movement, a little exploration, far from her leg and then awaits her back to her arms. Or perhaps the angel investor who joins the startup boat, and gives support offering resources and perspectives, or protection to the future of the business, enabling them to learn or to do that exploratory work, and welcoming back the team for the sake of growth. Or I can remember too some of the considerations we have seen from the chapter Environment, given by the rise of platforms like after the iPhone which enabled app-based ride-sharing experiences that had changed transportation. 
+Leaving that dark period in the past, things started to look different through the industrial revolution, with the world's producvitity growth which kept on growing, growing fast. Any resemblance with the hockey-stick-like exponential image is not a mere coincidence. Michael points too that many things had happened and are happening, good and bad things. But to the point, he points, or prompt us to reflect, about how that the curve pays for everything. If I accept the challenge, from the many thoughts about how it pays, when I try to extract a sort of "small version" of the curve applicaple to our lives, a parallel which can be observable, I think of a mother who offers safety to her baby in the first place, and then she supports the movement, a little exploration, far from her leg and then awaits her back to her arms. Or perhaps the angel investor who joins the startup boat, and gives support offering resources and perspectives, or protection to the future of the business, enabling them to learn or to do that exploratory work, and welcoming back the team for the sake of growth. Or I can remember too some of the considerations we have seen from the chapter Environment, given by the rise of platforms like after the iPhone which enabled app-based ride-sharing experiences that had changed transportation. 
 
 
 
@@ -53,8 +53,7 @@ Leaving that dark period in the past, and moving to when things started to look 
 
 
 
-
-Since that curve is on our way, we like it or not, we might as well to listen to signals from it with the hope of supporting our quest for impact. One key point might be a catch with the curve - as in a thing in it which may take us to take things for granted. On the surface, we certain see that exponential rise of productivity, that indeed does pay for everything. Now as for the unseen element, we should acknowledge the implied process of destruction that is not generally accounted by the first impression. This is so because what gets accounted is the sum of the output as told, as history tells, which goes well with our intents and how stories are told - we do account by using the metrics of our days. Nevertheless, these can be the hidden efforts, or the negative additions,  which is unfair to call them negative to start with exaclty because we know that our failures, our mistakes, are in fact the thing that take us to learn, to be creative, to to reinvent, then to come back to the positive. Back to the macro chart, the idea is carried by a process know of Creative Destruction [^footnote_schumpeter_creative_descruction] considered by Joseph Schumpeter. 
+Now we like it or not, that curve is on our way; thus we might listen to signals since we are into it in a quest for impact. One key point might be a catch with the curve - as in a thing in it which may take us to take things for granted. On the surface, we certain see that exponential rise of productivity, that indeed does pay for everything. Now as for the unseen element, we should acknowledge the implied process of destruction that is not generally accounted by the first impression. This is so because what gets accounted is the sum of the output as told, as history tells, which goes well with our intents and how stories are told - we do account by using the metrics of our days. Nevertheless, these can be the hidden efforts, or the negative additions,  which is unfair to call them negative to start with exaclty because we know that our failures, our mistakes, are in fact the thing that take us to learn, to be creative, to to reinvent, then to come back to the positive. Back to the macro chart, the idea is carried by a process know of Creative Destruction [^footnote_schumpeter_creative_descruction] considered by Joseph Schumpeter. 
 
 <!--
 @meta @todo - p1 ( ) - In Impact - #dup - Creative Destruction footnote dup - Check for the ongoing referencing of creative destruction which appears in Foreword, Accounting, Environment, and Impact. Consider to bring here the case of Oliver Evans doing autonomous systems and enabling the economic movement. @meta-refid 3434-6565-8787-8585
@@ -96,13 +95,11 @@ Now, this brief lookup at the macro curve is important because the movement to t
 * Reference -  Graham, P. (2012, September). Startup = Growth. Retrieved August 29, 2023, from http://www.paulgraham.com/growth.html
 --> 
 
-
-This time, however, we should dig within the meaning of "fast" because it also supports that movement of impact into the major curve. In *Startup = Growth* (2012) Paul Graham approaches that subject, when considering the theme of rate, by eliciting the consciousness about the relative movement: 
+This time, however, we should talk about that word, "fast," to contextualize a point given that a quick reading can take us away from key insights that can't be missed from reading Paul Graham. In *Startup = Growth* (2012), he approaches that theme, talks about the rate of growth, setting us to see the relativeness of the movement:
 
 > *"So the real question is not what growth rate makes a company a startup, but what growth rate successful startups tend to have. For founders that's more than a theoretical question, because it's equivalent to asking if they're on the right path." (Graham, Paul., 2012)
  
-He points out a kind of holistic process of growth where although it starts slow, in its path for figuring out, its slowness is "partly due to internal limits and partly because the company is starting to bump up against the limits of the markets it serves." 
-
+It provokes the self-conscious process within the process. It may be unfair to say that it it calls for some slowness but to see this ways help me to at least regulate the rushness. Now this observation sets a link between the founder, the startup, and the growth curve; because it considers the materialization of the startup - as a business within the relative motion of the whole growth. It considers the sustainable condition in the face of the relative motion of the world, which in colorful ways I can think of a startup that puts a dent in the universe, or call it whatever you want, or we can see that it has values being produced in ways that it sustains itself, as a business through time. This gives us an initial structure if we're thinking about impact, one that can be visualized with the support from the Blitzscaling lectures, given that Reid Hoffman kept on wondering about characterizations both in terms of structure, logic, and the challenges. From many views, one in special is a response from the interview with Michael Dearing: 
 
 <!--
 @cross
@@ -114,10 +111,6 @@ He points out a kind of holistic process of growth where although it starts slow
 * @todo - p2 ( ) - In Impact, in Identity, In Urgency - Check "what you got you here" where should this go. Maybe, if this was not clearly explained in the first, part, it should really be part of the complication in this section. @meta-refid 1222-3332-8887-8484
 -->
 
-
-This intent for impact sets the necessity for structure that reconciles the creative element from ideas and the necessity of materialization of the business. Throughout the Blitzscaling lectures, Reid Hoffman kept on wondering about the characterizations both in terms of structure and logic and challenges. A special and structured insight was given in response to how founders should evaluate themselves across these stages:  
-
-
 > *"First you have to have an insight, a technical insight. Second you have to turn that insight into a product, and third you have to, hopefully God willing, turn that product into a business. Those are about as different sets of pursuits with very little in common with each other. And so if you energized by the idea of coming up with a technical insight and then moving to productization and then moving to the business building phase, that journey will be satisfying and exciting to you. If you find yourself totally in love with the technical insight manufacturing process, that is a real problem. And then you end up having science projects, not companies. If you find yourself endlessly prototyping and tinkering with the product without regard to the business economics, then that’s a warning flag as well."* (Michael Dearing, Greylock Partners, October 2015, 47:47)
 
 <!-- 
@@ -125,38 +118,13 @@ This intent for impact sets the necessity for structure that reconciles the crea
 * reference - Michael Dearing. Greylock. (2015, October 8). Blitzscaling 03: Michael Dearing on Capitalism, Creativity, and Creative Destruction [video]. Retrieved from https://www.youtube.com/watch?v=3vCdfa_aeI8
 --> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!--
 @outline - Recognition of the challenging from being successful and leaving the perspective for scale. 
 --> 
 
+This is solid, and structured, and challenging. And not different from what we did reflecting about fast, we should too look to contextualize the word God. This is Michael implicitly reminding ourselves of the complex situations, where we call God, such as through the stages of grief, therefore it's used exactly to contextualize that the trouble is not about shifting as in increasing the level of complexity; and it sets us as conductors to be involved into that is likely a major challenge. I like to frame it G.O.D., the Good Old Dilemma of entrepreneurship. Now if I proceed and use this structure as a requirement to our journey, I might as well use the principles of this book and look to these masters of scale and ask them to "hold your horses, right there," and wonder "are you telling me that I should be have amazing ideas, to be great in productizing, and then to be great it growing the business?" They're doing that, to a certain perspective; however, the nuanced observation may be a calling for us not to sums more views, or skills, or abilities, but one which provoke us to be better in releasing our views. Moreover, to engage with that as part of our jobs, to use time from management for that, to be conscious of this ability for the sake of being better in terms of changing, of understanding context. Therefore, certainly, it becomes even more challenging given that many of the actual too that the ways we enters this space generally involves an initial movement which has ties with elements like passions, or energy, and one's ability to do it with confidence, and related characterizations. 
 
-
-
-
-
-
-This is then solid and structured, as a general requirement for us to be conductors. It's a 3-tier endeavor. Just like a reflection was necessary for the fast part given that a "startup is a company designed to grow fast," Michael's perspective give us too a signal for what is next - that "God" word is the sign and reminder of these "different sets of pursuits with very little in common." This is Michael reminding ourselves of how we feel when we are in front of certain situations where change is required but in ways we may not know. It's in our language, believers of God or not, and it does express the complex feeling, from one who is required to look at what happens not with the eyes of the man, our views of the present. 
-
-Now, if we follow that sign, which I'll frame it as G-O-D, the Good Old Dilemma of entrepreneurship, it goes along with the implied transformation of evolving process in the macro curve, requiring the creative destruction, with the startup impact by push growth in the market, which involves the characterizations of *Do Things That Don't Scale*, which will set us in the necessity of a movement of transcending of the self. 
-
-Therefore, reconciling these two maps is really key, because the growth of the startup only happens in ways that impact the general growth, which characterizes the continued growth by the process of creative destruction, which on the other hand on the startup growth side means figuring out from the conscious movement the way to break the speed of the curve in relative terms with the implied characterizations of the do things that don't scale and the general consciousness movement and all of that set us to face the challenges of transcending.
-
-Which brings us back to reality and some of the key fundamental characterizations of the self, the founder, the doer, which goes back getting things done and the necessity for something great that is implied. And from our actions, when that shows traction, which brings as a consequence the inevitable, us to operate in ways that feels productive, and proactive, energetic, into the flow. In other words, it may be due to the greatness of achievement that we feel bad about the idea of looking to ourselves as a sort of biggest stone on our way. 
-
-In other views, only a view from far may actually see the greatest of all movements as a movement that is inadequate. According to angel investor Jason Calacanis [^footnote_jasoncalacanis_reactive], the biggest mistake founders make is that they become maniacs: They enter in a reactionary mode, responding to emails, tweets, and openning tickets in whatever project management system they like. We get into the business of putting out fires and don't reconsider the risky place we set ourselves in, in the first place: 
+Now a point that should be made here is that not all the kinds of investors will ask us to get involved with that. So, there is a category of investors, which I like to think of the kinds that enters the boat with you, that don't think that you are expendable. They really want from you and from us to be involved throughout the stages. In other words, they want us to be around. This is the case of the angel investor Jason Calacanis [^footnote_jasoncalacanis_reactive]. When asked about biggest mistake founders make, he were concerned with their focus when they do it in ways comparable with being maniacs: They enter in a reactionary mode, responding to emails, tweets, and openning tickets in whatever project management system they like. We get into the business of putting out fires and don't reconsider the risky place we set ourselves in, in the first place: 
 
 [^footnote_jasoncalacanis_reactive]: Jason Calacanis is an American entrepreneur, angel investor, and author known for his investments in various tech startups and his role in the podcasting and media industry. He is the founder of several companies, including Mahalo.com, Inside.com, and the podcast "This Week in Startups." In this talk (Calacanis, Jason., 2017) Jason reminds founders of the perils of their movement which he referred as reactionary.
 
@@ -167,24 +135,11 @@ In other views, only a view from far may actually see the greatest of all moveme
 * Reference - This Week In Startups. (April 28th 2017). E728: “Angel” Sneak Peek+Startup Tune-up: First-look & lessons from Jason’s book + pitches [video]. Retrieved from https://www.youtube.com/watch?v=Krgz7b9oKLA
 --> 
 
+Yet, as we know, we can grasp these ideas in theory. But we know too that nothing is like when we are right there living the feeling of what happens, especially in the middle of what appears to be doing it well. To consider balancing out, if that could be considered at all, feels uncomfortable, or it feels unproductive. And when we hear points like to wait for a revelation, that pulls an instant picture of us, under our called objective lenses, which we materialize that picture in a frame - we don't look like real doers, or productive workers. This feeling of discomfort is a subject for us worth reflecting. Why is it that we set ourselves and feel that discomfort which may seem not as the state of happiness? 
 
+We have considered the feeling of what happens, in part, in the prior chapter, for example when we approached the theme of fears in front of moments of change, like the *Raw Fear* which Doug Leone mentioned to express what moves him and which sets him and his VC firm to reinvent itself. Or the fears associated with loss - and stages of grief - brought by Mr. Andy Grove referred as *The Valley of Death* to explain the challenges of leadership that undergoes the inflection points in front of the 10x force, before the commitments to reign in chaos. For the start-up situation, in particular, we considered the painful or confusing situation through the *Trough of Sorrow*, brought by top-tier investor-advisors Paul Graham and Andrew Chen, asking us to be patient right there in the face of the actual realization of lost battles preventing us to see how the real learning grows. Now unlike these situations, the structure which Michael refers as "different set of pursuits" we will certainly tap on our fears which may prevent us to engage potentially taking us into the straight movement of denial, and or of the use of our time to engage with the matters - as in unknown or undesired matters. In all these situations, there is something being said, there is certainly needs for adaptability, that's why it's certainly important to celebrate the situation as not the end of the world but as part of the process, which is what these masters of scale are asking us.
 
-Yet, and again, sometimes we can grasp these ideas in theory but nothing is like to be in that complex space living the feeling of what happens, especially when doing it well, where to consider balancing out, if can be considered at all, is very uncomfortable, or feels very unproductive. To consider us as beings that awaits for a very relation, that pulls an instant picture of us. We look at this picture using our so called objective lenses, we materialize that frame, that does not look like real doers or productive workers. 
-
-
-
-
-
-
-
-
-
-
-
-
-This feeling of discomfort is a subject for us worth reflecting. Why is it that we set ourselves and feel that discomfort which may seem not as the state of happiness? That comes through the many ways when we are passing through those moments of change: That raw fear, felt by the Mr. Leone in the face his VC-firm's firm belief of reinventing itself; those feelings of loss or stages of grief as given by Mr. Grove when considering Intel through the inflection points, through facing death from in the chaotic situation of the 10x force and facing the fears of commitment to reign in chaos; The startup painful situation through the trough of sorrow, given by top-tier investor-advisors like Paul Graham and Andrew Chen asking them to be patient enough and call to pull real value from the learning lessons and the decline from launches; The fear of not being right of the young writer, needed to be faced before becoming a writer. With all these situations, there is something sad, something that we propagate to ourselves. 
-
-This is where we are going next, because this is, perhaps, something worth reflecting, to wonder about that sadness or confusing or uncomfortable space and how that mindset impacts us in the first place, and how that may prevent us to see through when seeing through is needed. For the next sections, we will celebrate first an experience of transformation of a hero from history, a blast from the past; a story that may take us to reflect about the ways to scale ourselves. And we shall conclude with thoughts about healthy ways to be comfortable with these challenges of change. 
+For the next sections, we will celebrate first an experience of transformation of a hero from history, a blast from the past; a story that may take us to reflect about the ways to scale ourselves. And we shall conclude with thoughts about healthy ways to be comfortable with these challenges of change. 
 
 
 
