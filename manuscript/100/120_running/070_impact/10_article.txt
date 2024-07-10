@@ -72,10 +72,14 @@ Now we like it or not, that curve is on our way; thus we might listen to signals
 
 
 
-## Being responsible 
+## For growth
 
+Now, this brief check on that big curve is important because the movement of it - think of a little push towards the exponential growth - does so because of these certain entities that acts in the entrepreneurial ways. From the industrial revolution days an interesting push, the mill industry in US, shows ties with efforts from entrepreneurs like Oliver Evans. Now for us in the modern days the startup is seen as an entity that does that, so we should bring back the definition from Paul Graham - the one we brought in the introduction - where startup equals to growth:
 
-Now, this brief lookup at the macro curve is important because the movement to that curve - think of a little push towards the exponential growth - does so because entities that acts in ways which go along with the what the startup does by the definition of Paul Graham - the one we brought in the introduction - where startup equals to growth, which we shall recapitulate again: 
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Impact - Bring the footnote about Oliver Evans work and impact to the mill industry growth in US according to Maury Klein. @meta-ref 1222-3334-4949-9494
+-->
 
 <!--
 @cross 
