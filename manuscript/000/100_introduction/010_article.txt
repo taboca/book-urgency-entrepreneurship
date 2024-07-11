@@ -97,20 +97,12 @@ There are so many other characterizations to that but one from Brian Chesky, als
 * @reference - Greylock. (2015, November 30). Blitzscaling 18: Brian Chesky on Launching Airbnb and the Challenges of Scale [Video]. YouTube. https://www.youtube.com/watch?v=W608u6sBFpo
 --> 
 
-
 <!--
 @note 
 * Quote - And, of course it turned out that the crazy little idea that we thought no one else would do, became the big idea. And I think there were a couple lessons there. Number one, all these really good ideas or big ideas often sound like stupid ideas. Somebody once told me in the early days, don't worry about anyone stealing your idea. If it's any good, everyone will dismiss it.
 -->
 
-
-
-
-
-
-
-
-Now if we reconciliate this characteristic place with a world of the givens in front of us - such as ideas, tools and methods - besides the fact that options may keep us busy, no doubt; or creatively busy, no doubt; we will also take that these things are enriched by the richer ecosystem. So on top of them, or on the side, or underneath, there are beings which now are acessible through the networked environment which we use to interact and iterate. These are the practitioners, advisors, experts, or you name, and comparatively other founders doing sort of the same and interacting with; which supports a richer and social environment where many others are together with us. In other words, they care therefore they are not indifferent. When I look at the situation, I certainly see these things giving us superpowers but no superpower is as powerful as the power of not being alone. In other words, if we look around, we see people using tools and people using methods and people giving advice. Plus, they also got better in terms of narratives and storytelling. But then, again, that's part of our challenge, isn't it? The challenge that we sort of know. Still, it's quite challenging, every day, by the networks, even to a point that we sometimes do not see from far and get taken by perspectives when we look to these things. If I were to mix Reid's clear thought with how the air looks for me, I can see that one now jumping off a cliff with many things in the air. And things of different categories - not only hammers and shovels falling, of course. One particular kind of thing are the platforms. So if I am there, trying to assemble that airplane on my way down, I see a platform somehow differently. I don't see a platform falling along. I see, relatively, a carrier. And it seems fully equipped and there's a nice road for landing and then taking off. But we know, there's a truth in there, and it's coherently given by so many of them platforms which are actually real. Comee one, they are really our ways to take off. So that's how the abundant world looks for founders which may be unfair to say that it's enchanting, or evil, but it is fair to consider that it's complex and can be confusing because we're going to feel embraced. By so many options, now with amazing narratives, with coherence, and actually in fact very good reasons for using for deciding.
+Now if we reconciliate this characteristic place with a world of the givens in front of us - such as ideas, tools and methods - besides the fact that options may keep us busy, no doubt; or creatively busy, no doubt; we will also take that these things are enriched by the richer ecosystem. So on top of them, or on the side, or underneath, there are beings which now acessible through the networked environment which we use to interact and iterate. These are the practitioners, advisors, experts, or you name, and comparatively other founders doing sort of the same and interacting with; which supports a richer and social environment where many others are together with us. In other words, they care therefore they are not indifferent. When I look at the situation, I certainly see these things giving us superpowers but no superpower is as powerful as the power of not being alone. In other words, if we look around, we see people using tools and people using methods and people giving advice. Plus, they also got better in terms of narratives and storytelling. But then, again, that's part of our challenge, isn't it? The challenge that we sort of know. Still, it's quite challenging, every day, by the networks, even to a point that we sometimes do not see from far and get taken by perspectives when we look to these things. If I were to mix Reid's clear thought with how the air looks for me, I can see that one now jumping off a cliff with many things in the air. And things of different categories - not only hammers and shovels falling, of course. One particular kind of thing are the platforms. So if I am there, trying to assemble that airplane on my way down, I see a platform somehow differently. I don't see a platform falling along. I see, relatively, a carrier. And it seems fully equipped and there's a nice road for landing and then taking off. But we know, there's a truth in there, and it's coherently given by so many of them platforms which are actually real. Comee one, they are really our ways to take off. So that's how the abundant world looks for founders which may be unfair to say that it's enchanting, or evil, but it is fair to consider that it's complex and can be confusing because we're going to feel embraced. By so many options, now with amazing narratives, with coherence, and actually in fact very good reasons for using for deciding.
 
 
 
@@ -141,20 +133,6 @@ Now if we reconciliate this characteristic place with a world of the givens in f
 
 
 
-Now to consider that dynamic and busy world influencing (our path for getting things done) we may consider an inductive movement, one which is action-oriented or perhaps one which creates a language of action. This may be intrinsic and driven by that abundance. In other words, we're compelled to be busy with execution. But it's one which in the modern view does not ignore learning. As an example, we may consider the corporate world and how learning is being carried over through the actual execution. Considering the spending in training in comparison with other execution investments. In the 2018, in a summit entitled *The Future of Talent - Transcending Work*, (Global Silicon Valley, 2018) Rob Biederman, the then CEO of Catalant Technologies, highlighted an intriguing aspect of corporate spending priorities, pointing that a large company which likely the audience were shareholders, allocates less budget per employee on training than his own startup spends on avocados. 
-
-<!-- 
-@meta @references 
-* reference - Global Silicon Valley. (2018, April 28). ASU GSV Summit: Main Stage Panel: The Future of Talent -- Transcending Work [Video]. YouTube. https://www.youtube.com/watch?v=GFKgJ4wkxQU&t=345s
---> 
-
-
-
-
-
-
-
-
 
 
 
@@ -163,12 +141,23 @@ Now to consider that dynamic and busy world influencing (our path for getting th
 
 <!-- 
 @meta @Outline
-* @outline - complication - BAU, entrepreneurship, innovation. 
+* @outline - complication - Learning for innovcation into the machine.  #BAU
 --> 
 
 
 
-That view can certainly show part of the problem, although we cannot infer that on the other side execution is merely execution that doesn't care about innovation or doesn't care about learning. That is not the case. Therefore, if we consider the many processes and that businesses are essentially wishing to innovate, certainly by the necessity of the environment and the competitive forces minimally; which can be observable as it shows clearly that there are elements or methods and the building blocks following goals, aspirational goals to innovate, and by that using means, like design thinking or many lean methods, and others intended for that. In other words, our businesses welcome innovation, they want to innovate, while they do so by creating a normal work routine which certainly carry ties with the control organization that is in need to organize and attempt to execute all of that as normal work, which may lead to business as usual if possible. In other words, the creative brain of corporations are somewhat controlled, not to say mechanized or automated, which is not an absurd as indeed they're trying to automate it - if that were possible. If that may be a problem or not for some organizations and corporations, we might take that aside as a consideration which might be applicable to us.
+Now, by this brief observation of the abundance we can surely be very busy in a world which invites us to do it by getting things done, first. Nevertheless, this world of execution is known as one where management of the entrepreneurial consists of evaluating these movements, by internal or external interactions, against achieving the goals. Nevertheless, we know that our values and goals are not 100% clear in the very beginning. That is why we should be thankful for an intrinsic human trait, which is the ability to learn, which is probably what we think of as our escape hatch from the potential traps of any induced movement that can take us to take our focus away or to burn too many resources and miss the view of purpose. 
+
+In this context, learning, we consider how the world of work, or the corporate world, has improved, and is evolving in terms of ways where learning is carried over by the machine. Considering the spending in training in comparison with other execution investments. In the 2018, in a summit entitled *The Future of Talent - Transcending Work*, (Global Silicon Valley, 2018) Rob Biederman, the then CEO of Catalant Technologies, highlighted an intriguing aspect of corporate spending priorities, pointing that a large company which likely the audience were shareholders, allocates less budget per employee on training than his own startup spends on avocados. 
+
+<!-- 
+@meta @references 
+* reference - Global Silicon Valley. (2018, April 28). ASU GSV Summit: Main Stage Panel: The Future of Talent -- Transcending Work [Video]. YouTube. https://www.youtube.com/watch?v=GFKgJ4wkxQU&t=345s
+--> 
+
+That view can certainly show part of the problem, although we cannot infer that learning equals to training since the the other, the side of execution, isn't about an execution that doesn't care about innovation or doesn't care about learning. That is not the case, the world has revolved there too. As an example, we should consider the many processes and that businesses are essentially using to innovate, certainly pushed by many factors such as the competitive forces which in more richer ways innovates with higher dynamics with users or customers, minimally. Along with that, we can clearly observe the many methods, positioned as building blocks to solve aspirational goals and innovate, to set the context we can think of the reach of methods like design thinking or lean methods into the corporate world [^footnote_lean_corporate]. In other words, our businesses welcome innovation, they want to innovate, while they do so by creating a normal work routine which certainly carry ties with the control organization that is in need to organize and attempt to execute all of that as normal work. It may be unfair to say that corporations are trying to innovate by doing business as usual, or to think that the creative brain of corporations are somewhat controlled, not to say mechanized or automated. On the other hand, if it were possible, corporations would seriously consider to automate it. If that is a problem, or not, for some organizations, we might take that aside for now and come back to how this circles back to us.
+
+[^footnote_lean_corporate]: Both Steve Blank and Eric Ries, founders or fathers of the Lean Startup Movement, have accepted or embraced, in part, the challenge of or the requests of the corporate world that also wanted to innovate likely in the face of being out-competed by users themselves (by their startups.) An example, we may observe the demand for *The Start-up Way* (for corporations) from the *The Lean Start-up*. 
 
 
 
@@ -179,7 +168,16 @@ That view can certainly show part of the problem, although we cannot infer that 
 
 
 
-This setting may set us to wonder if these characterizations are brought in realm of the entrepreneur of the modern day - characterizing the beginning, the early stage of startup too, and if there are ties from the beginning causing the later situation too. In other worlds, does the environment - given by data or knowledge and tools or process and methods for deciding causes pressure or to influence the movement of getting things done to be somewhat controlled or inducing decision making, and moreover to a point where founders miss the conscious view? Now, to provoke ourselves, would it be the case that an intrinsic element of entrepreneurship or the founder - or the artist - that is not 100% taken by normal ways of execution, may be taken of clouded by methods, or mechanized or automated, ways for executing entrepeneurship? Setting them not to be involved in breaking the rules of the environment and furthermore too involved in what appears tobe breaking the rules of the environment by doing so in synergistic ways given by the environment? To support this, we may consider a thought from Maslow in *Toward the Psychology of Being*:
+
+
+<!--
+@outline - Question
+--> 
+
+
+Exactly because the very methods of innovating by using methods are both applicable in the startup space and the corporate space because they compete in the end of the day, this situation may then help us to set and prompt a question before us. In other words, does the environment given by data or knowledge and tools and methods for deciding causes pressures or influence our movement of getting things done in somewhat controlled ways or induced decision-making ways? Moreover, to a point where we may miss the conscious view or the view of purpose?
+
+Before we move on with potential concerns in this direction, I invite us to pause briefly to provoke ourselves with another question: Would it be the case that an intrinsic element of entrepreneurship or the founder - or the artist - where they are not 100% taken by normal ways of execution, may be clouded by methods, or the building blocks, which are generally being used for executing entrepeneurship? As in, setting them not to be involved, or to be less involved anyway, with breaking the rules of the environment? And furthermore, to be involved in what appears to be breaking the rules of the environment by doing so in synergistic ways given by the very rich environment? To support this, we may consider a thought from Maslow in *Toward the Psychology of Being*:
 
 > *"The danger that I see is the resurgence, in new and more sophisticated forms, of the old identification of psychological health with adjustment, adjustment to reality, adjustment to society, adjustment to other people. That is, the authentic or healthy person may be defined not in his own right, not in his autonomy, not by his own intra-psychic and non-environmental laws, not as *different* from the environment, independent of it or opposed to it, but rather in environment-centered terms, e.g., of ability to master the environment, to be capable, adequate, effective, competent in relation to it, to do a good job, to perceive it well, to be in good relations to it, to be successful in its terms. To say it in another way, the job-analysis, the requirements of the task, should not be the major criterion of worth or health of the individual. There is not only an orientation to the outer but also to the inner. An extra-psychic centering point cannot be used for the theoretical task of defining the healthy psyche."* (Maslow, Abrahan., 2011, p.168) 
 
@@ -202,7 +200,9 @@ This setting may set us to wonder if these characterizations are brought in real
 * @todo - p1 ( ) - In Foreword vs. Introduction - Reconcile the point of abundance from capitalism with the confusion of information. Check foreword_world check "Therefore, we are in a paradoxal situation. Because despite the turbulence and potential confusion, we have so much more information and tools of unquestionable quality in front of us, more accessible and cheaper. This should be a factor that promotes an optimistic view, for better chances. And if you dig, it is quite rational as we must agree that we now have much more data, more stories, more references, more tools, more means of interaction, more for growth, and even more. In this regard, we should consider the optimistic view from A16Z, the renowned top-tier venture capital firm from Silicon Valley, for where we are going: > "We believe the measure of abundance is falling prices. Every time a price falls, the universe of people who buy it get a raise in buying power, which is the same as a raise in income. If a lot of goods and services drop in price, the result is an upward explosion of buying power, real income, and quality of life." > (Andreessen, 2023)" @meta-refid 1222-3334-8884-9999
 -->
 
-What this sets to us is the possibility to consider, as in moving toward the psychology of the founder, or toward the psychology of the entrepreneur, the ways in which the whole environment does act on us. Moreover, Maslow's consideration, his worries from early 1960s, can serve as a prompt to wonder how the world solutions take us, indeed in perhaps sophisticated forms. Let us then recount some of the thoughts or considerations of the transformations happening in the world affecting management - evidently observable in the corporate space first - but nevertheless considerations that may well set a mode of work by the cultural work norms for every single being that wants to get things done. 
+Maslow thinking is not only a reflective consideration but actually in the context of this book take us into a certain spot. In other words, we are here to reflect about the psychology of the founder, or toward the psychology of the entrepreneur, such as to be thougtful about in which we grow or be defensive by this movement which is so involved with the whole environment. Maslow's consideration, these potential worries from early 1960s, can serve as a prompt to wonder how this rich world solutions define us and define entrepreneurship, in, indeed, perhaps sophisticated forms. 
+
+
 
 
 
@@ -214,7 +214,16 @@ What this sets to us is the possibility to consider, as in moving toward the psy
 * outline - introduction, answer 1 - situation of data and information improving - feat. Peter Drucker of data  
 --> 
 
-As our modern reality is paved by the knowledge worker; it's been a while that great minds had brought up some concerns about the knowledge elements influencing our decisions. This former CEO of Intel, Angy Grove, in *Arguing with Data*, warned [^footnote_andygrove_fastdata] readers that large companies are indoctrinated by contemporary management, suggesting that people entered into a thiking where they should argue their debates with data right in hand. In alignment with Andy's observations and reflections, Jeff Bezos, the CEO of Amazon, is known for his concern helping management in general to be aware and conscious that people lie with data and that they don't do so because of necessary evil of intention, but in part to please audiences [^footnote_jeff_lie_data], which may be inferred and it's clearly observed that it's part of a phenomenon where we're essentially being both controllers or controlled by the very presence of data.
+
+
+Now, and since the prompt is from 1960, if I thought of myself as being a sort of AI robot, or tool, to give the answer, I would seem reasonable to hear what experienced or renowned leaders in management had considered about the corporate world transformations in the face of decisions tied with a richer system of information, or data, or tools, or methods. 
+
+Let us start with data. The former CEO of Intel, Angy Grove, in *Arguing with Data*, warned [^footnote_andygrove_fastdata] readers that large companies are indoctrinated by contemporary management, suggesting that people entered into a thiking where they should argue their debates with data right in hand. In alignment with Andy's observations and reflections, Jeff Bezos, the CEO of Amazon, is known for his concern helping management in general to be aware and conscious that people lie with data and that they don't do so because of necessary evil of intention, but in part to please audiences [^footnote_jeff_lie_data], which may be inferred and it's clearly observed that it's part of a phenomenon where we're essentially being both controllers or controlled by the very presence of data.
+
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Introduction - Check *Argue with Data* where it is. @meta-refid 1234-6464-8484-4444 
+--> 
 
 [^footnote_andygrove_fastdata]: In Andy Grove's book, *Only the Paranoid Survive*, the quoted phrase in English reads, “Contemporary management doctrine suggests that you should approach any debate and argument with data in hand. It’s good advice. All too often, people substitute opinions for facts and emotions for analysis.” The warning applies to what he termed a "Strategic Inflection Point," situations so adverse and unexpected that they befuddle companies. Intel survived crises of this magnitude and later also became a leading player. In these situations, the anticipatory data can be misleading.
 
@@ -238,7 +247,7 @@ As our modern reality is paved by the knowledge worker; it's been a while that g
 
 
 
-If an objection din't cross your mind, I'll throw the stone as in to say "hold your horses! are you telling me that more data and more information, as in passively available, does worse than no information at all and managing with guesses?" Maybe yes, maybe no. We are essentially considering that. Certainly there's no evil in passive data and knowledge available. But we are considering that there's something in us, from our willingness to use it and to engage with it, that might actually take us into that space of confusion - one which we may not even see as in when we become followers of a passive-aggressive movement. In *Technology, Management, and Society*, Peter Drucker has contextualized a situation where information abundance does impact effective communication, which he highlights defining it as the kind of communication where the receiver actually understands and collaborates, as opposed to passive acceptance of the message:
+If an objection din't cross your mind, I'll throw the stone and say to "hold your horses! are you telling me that more data and more information, as in passively available, does worse than no information at all and managing with guesses?" Maybe yes, maybe no. No, because they recognize data. Yes because they point that we are arguing with emotions. Certainly there's no evil in passive data and knowledge available. But we are considering that there's something in us, from our willingness to use it and to engage with it, that might actually take us into that space of confusion - one which we may not even see as in when we become followers of a passive-aggressive movement. In *Technology, Management, and Society*, Peter Drucker has contextualized a situation where information abundance does impact effective communication, which he highlights defining it as the kind of communication where the receiver actually understands and collaborates, as opposed to passive acceptance of the message:
 
 > *"More and better information does not solve the communication problem, nor does it bridge the communication gap. On the contrary, the more information the greater is the need for functioning and effective communication becomes. The more information available, in other words, the greater is the communications gap likely to be. The more impersonal and formal the information process in the first place, the more will it depend on prior agreement on meaning and application, that is, on communications. In the second place, the more effective the information process, the more impersonal and formal will it become, the more will it separate human beings and thereby require separate, but also much greater, efforts, to re-establish the human relationships, the relationship of communication. It may be said that the effectiveness of the information process will depend increasingly on our ability to communicate, and that, in the absence of effective communication - that is, in the present situation - the information revolution cannot really produce information. All it can produce is data."*
 > (Drucker, 2011, p. 15)
@@ -247,19 +256,6 @@ If an objection din't cross your mind, I'll throw the stone as in to say "hold y
 @meta @references 
 * Reference - Drucker, P. (2011). Technology, management, and society. Routledge.
 --> 
-
-
-
-
-
-
-
-<!--
-@meta@outline - grade 5 - narrative rationality. 
---> 
-
-Peter Drucker is essentially calling our attention to the importance of establishing potential shock-absorbers and consciousness in the face of an actual rise of elements which appears as information and the intrinsic disconnect from context, or as he pointed, impersonal or formal. This should prompt us to consider our ability to operate by decisions tied with the environment; and in special to reflect about the tools and systems that we have created throughout these years, tools for dealing with data, for pulling data, for querying data, for analyzing data, or dispatching data. That our tools, and systems, brought to us efficiency in terms of manipulating data, we know.  Moreover that the abundance of these building blocks can be quite meaningful in the right moment in time, as in that under the abundance it is possible to find good data that becomes good reasons for the narratives of decision-making in the collaborative environment-based communication. In other words, data captivate us because they may be so well ready in the right context and time. By induction, we follow, as we know that the right data in the right time supports a good narrative - we have seen it working. Thus, when the stars align, we may be teased to decide.
-
 
 
 
@@ -280,8 +276,22 @@ Peter Drucker is essentially calling our attention to the importance of establis
 --> 
 
 
+Peter Drucker were preparing us to creating consciousness in the face of an actual rise of elements which appears as information and the intrinsic disconnect from context; or as he pointed, impersonal or formal. This should prompt us to consider our ability to operate by decisions tied with the environment; and in special to reflect about the tools and systems that we have created throughout these years, tools for dealing with data, for pulling data, for querying data, for analyzing data, or dispatching data. Now, Peter and Andy had certainly seen and tasted a bit of that world but I don't think they experienced the whole enchilada. For now, it's been a while that we are acquainted with tools for dealing with data, like the tools to pull data or tools to dispatch data. And because data is valued, or that we value things through data, these tools become valuable by induction; like a shovel that is seen as value because it is know for its potential efficiency to dig, as in to find gold if we dig in history. Similarly, why to send an individual email if one can send a million at once? Why to pull and pick data by hand data if one can deal with millions of records? Thus, comparatively, there's certainly pain or latent need for these tools given that the others, like the competition, might be using them for doing it. From that it comes too a need for seeking assistance to access and use these things. Thus, in order to understand its meaning before decisions, we go to the experts, the people that know how to use these tools, which are certainly, generally, people that are passionate about technologies and tools. In other words, there's a programmer, or an expert in data, or an engineer who calculates quickly by operating a special kind of calculator. He or she who knows knows how to manipulate, thus they become important, and then in a way gatekeepers for tools. Moreover, they are incentivized and seen as valuable by the simple fact they manipulate the data. On an extreme point of view, we incentivize them to get busy with these tools and skills, also because these tools are being developed very fast and they gotta keep up to it, mostly up to date with the latest tools or trends. And with that, they might be less involved in looking from above, or to bother to check the contrarian view, or to consider the view of purpose, or to see things from perspective. In other words, not that they're comfortable with tools, but they're busy with looking at the tools methods of using and its evolution. Certainly, their tools are not arbitrary. Thus, in a way or another, these tools will always get better even if many of them are getting there by trial and error. 
 
-Now it's been a while that we are acquainted with tools for dealing with data, like the tools to pull data or tools to dispatch data. And because data is valued, or that we value things through data, these tools become valuable by induction; like a shovel that is seen as value because it is know for its potential efficiency to dig, as in to find gold if we dig in history. Similarly, why to send an individual email if one can send a million at once? Why to pull and pick data by hand data if one can deal with millions of records? Thus, comparatively, there's certainly pain or latent need for these tools given that the others, like the competition, might be using them for doing it. From that it comes too a need for seeking assistance to access and use these things. Thus, in order to understand its meaning before decisions, we go to the experts, the people that know how to use these tools, which are certainly, generally, people that are passionate about technologies and tools. In other words, there's a programmer, or an expert in data, or an engineer who calculates quickly by operating a special kind of calculator. He or she who knows knows how to manipulate, thus they become important, and then in a way gatekeepers for tools. Moreover, they are incentivized and seen as valuable by the simple fact they manipulate the data. On an extreme point of view, we incentivize them to get busy with these tools and skills, also because these tools are being developed very fast and they gotta keep up to it, mostly up to date with the latest tools or trends. And with that, they might be less involved in looking from above, or to bother to check the contrarian view, or to consider the view of purpose, or to see things from perspective. In other words, not that they're comfortable with tools, but they're busy with looking at the tools methods of using and its evolution. Certainly, their tools are not arbitrary. Thus, in a way or another, these tools will always get better even if many of them are getting there by trial and error. This circles back to a possibility of a strategy induced by the movement by an assumption that experts in tools are experts (valued to support decisions) while they may be in fact be reduced to becoming tools themselves. 
+
+
+
+
+
+
+
+<!--
+@meta@outline - grade 5 - narrative rationality. 
+--> 
+
+
+This circles back to a possibility of a strategy induced by the movement by an assumption that experts in tools are experts (valued to support decisions) while they may be in fact be reduced to becoming tools themselves.  That our tools, and systems, brought to us efficiency in terms of manipulating data, we know. Moreover that the abundance of these building blocks can be quite meaningful in the right moment in time, as in that under the abundance it is possible to find good data that becomes good reasons for the narratives of decision-making in the collaborative environment-based communication. In other words, data captivate us because they may be so well ready in the right context and time. By induction, we follow, as we know that the right data in the right time supports a good narrative - we have seen it working. Thus, when the stars align, we may be teased to decide.
+
 
 
 
@@ -306,19 +316,15 @@ Now it's been a while that we are acquainted with tools for dealing with data, l
 
 
 
-We're certainly here looking at the grown-up world and wondering if it's all interconnected. If that data and knowledge and information and tools are essentially in fact entering the space of entrepreneurs and their startup situations. And moreover, more than that, if decision-making is actually induced by methods and the implications of using them. In this context, we may consider the concerns from Steve Blank, the father of the lean movement, when he addressed the fundamental issues with startups since 2014. His vision that entrepreneurs think that their startups are smaller versions of large companies and since he kept alert and conscious about that. He kept on reminding them that startups are not smaller versions of large companies. He kept reminding them that they essentially are in the discovery phase. Discovery phase. One take away. It's clear. If you really go into the lean methodology you'll see good principles and solid principles. And the lean leader is always present and concerned about that. Asking us to keep an eye on the purpose. To keep learning. To keep aware. 
-
-
-By now, a decade later, the lean movement have matured and is widely used by founders, and teams and startups, and also by corporations trying to innovate. We have a great deal of conversations, and reflections, about the potential uses and misuses of these methods. And certainly interesting considerations of the phenomenon from widespread use and the potentiality of the controller who - perhaps by the urge to get things done - enters the space of using this methods in ways aligned with the considerations from Andy Grove - of people arguing with data - and the reflections from Jeff Bezos' concern about people using data to please, which we may too consider the extremme of lying with data, although without intent. In fact, within the realm of lean, this is observable and discussed by these fathers of lean, such as the extreme which can be see as founders talking about using lean but not using, as in procrastinating with lean, or being enamorated with the process, and there are other ways to see that, but in general shows the pattern of founders involved in missing the view of purpose [^footnote_ericries_purpose].
+Now that the grown-up world is interconnected with the young (and hopeful inventive world) we know, so let us go back to our situation and wonder if that data and knowledge and information and tools are essentially in fact entering the space of entrepreneurs and their startup situations. And moreover, more than that and beyond the benefits of that which are widely addressed by now, to wonder if decision-making is actually induced by methods and the implications of using them. In this context, we may being again the father of the lean movement, and some observations from Steve Blank, one in particular which he addressed as a fundamental issue with startups since 2014. His vision, which connects with fundamental motivations to the whole movement, was that entrepreneurs think that their startups are smaller versions of large companies. Since then, Steve kept alert, and conscious, about that problem of a phenomenon. He kept on, reminding them, that startups are not smaller versions of large companies. He kept reminding them that they essentially are in the discovery phase. Discovery phase, that is one take away and it's clear from the beginnings. By now, a decade later, the lean movement have matured and is widely used by founders, and teams and startups, and also by corporations trying to innovate. We have a great deal of conversations, and reflections, about the potential uses and misuses of these methods. And certainly interesting considerations of the phenomenon from widespread use and the potentiality of the controller who - perhaps by the urge to get things done - enters the space of using this methods in ways aligned with the considerations from Andy Grove - of people arguing with data - and the reflections from Jeff Bezos' concern about people using data to please, which we may too consider the extremme of lying with data, although without intent. In fact, within the realm of lean, this is observable and discussed by these fathers of lean, such as the extreme which can be see as founders talking about using lean but not using, as in procrastinating with lean, or being enamorated with the process, and there are other ways to see that, but in general shows the pattern of founders involved in missing the view of purpose [^footnote_ericries_purpose].
 
 [^footnote_ericries_purpose]: Eric Ries, the renowned author of *The Lean Start-Up* and *The Start-up Way* carries his concern with the situation when the view of purpose is lost even in organizations that can use the lean methods professionally. 
 
-Now, we may characterize our complication in two levels, the potential extreme of us being trapped and too involved by these dimensions - like data, tools and methods - influencing our decisions, as in taking us to close gaps no matter what gaps, seeking validation for the sake of validation, or valuing methods that can validate, or an extreme as a way to keep the equilibrium that we are advancing, thus inducing us into becoming a specialist as in a specialized generalist. This extreme by the superpowers may set one to feel as certainly powerful, or becoming powerful, and with that powerfully dangerous. But the more nuanced and more important but different than this extreme situation is the actual intermediary situation of us being distracted. On this side, we may actually be involved in using our energy, our creative energy. This may too appear as a movement of execution characterized by significant trial-and-error  activities, certainly supported by the effiency of these solutions, but to the point it may take us to overfocus on that, or to take our attention which may for example take us to be movers that learn in retrospect, such as by post-mortem analysis if not using methods for analysis that may not even characterize post-mortem. In other words, using our energy and focus and setting ourselves out of being conscious, out of the position of one interested in acquiring different perspectives, not interested in shock-absorbing our views; thefore setting us out of that view from above that supports growth through evolution, which are evident for the whole situation of growth or the phases given by Blitzscaling but moreover it is implied that the one who does not care about evolving may miss the apparent minor moments, by the hour and by the day, where change is required for looking towards purpose. 
 
-<!-- 
-@meta @references
-* reference - Steve Blank @ MAP Unimelb, Published on Mar 13, 2014 [video]. Retrieved from https://www.youtube.com/watch?v=UFx2CQUTpYo
---> 
+
+
+
+
 
 
 
@@ -329,56 +335,19 @@ Now, we may characterize our complication in two levels, the potential extreme o
 * outline - introduction, Complication, answer - Generalist decision-making gone haywire 
 --> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- 
 @meta @Outline
 * outline - introduction - Answer - book's intention 
+--> 
+
+
+#### Where we are going we don't need roads 
+
+Now, we may characterize our complication in two levels, the potential extreme of us being trapped and too involved by these dimensions - like data, tools and methods - influencing our decisions, as in taking us to close gaps no matter what gaps, seeking validation for the sake of validation, or valuing methods that can validate, or an extreme as a way to keep the equilibrium that we are advancing, thus inducing us into becoming a specialist as in a specialized generalist. This extreme by the superpowers may set one to feel as certainly powerful, or becoming powerful, and with that powerfully dangerous. But the more nuanced and more important but different than this extreme situation is the actual intermediary situation of us being distracted. On this side, we may actually be involved in using our energy, our creative energy. This may too appear as a movement of execution characterized by significant trial-and-error  activities, certainly supported by the effiency of these solutions, but to the point it may take us to overfocus on that, or to take our attention which may for example take us to be movers that learn in retrospect, such as by post-mortem analysis if not using methods for analysis that may not even characterize post-mortem. In other words, using our energy and focus and setting ourselves out of being conscious, out of the position of one interested in acquiring different perspectives, not interested in shock-absorbing our views; thefore setting us out of that view from above that supports growth through evolution, which are evident for the whole situation of growth or the phases given by Blitzscaling but moreover it is implied that the one who does not care about evolving may miss the apparent minor moments, by the hour and by the day, where change is required for looking towards purpose. 
+
+<!-- 
+@meta @references
+* reference - Steve Blank @ MAP Unimelb, Published on Mar 13, 2014 [video]. Retrieved from https://www.youtube.com/watch?v=UFx2CQUTpYo
 --> 
 
 

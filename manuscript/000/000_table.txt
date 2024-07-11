@@ -1,5 +1,7 @@
 # Todo p1s # 
 
+* @todo - p2 ( ) - In Introduction - Check *Argue with Data* where it is. @meta-refid 1234-6464-8484-4444 
+
 * @todo - p2 ( ) - In Impact - Bring the footnote about Oliver Evans work and impact to the mill industry growth in US according to Maury Klein. @meta-ref 1222-3334-4949-9494
 
 * @todo - p1 ( ) - In Accounting - In "split the love" , it may be worth to check Marcio's Hackenoon article where he claimed that startup advancements should go along with résumé advancement. THis may also align with Reid's note from the Start Up of You. @meta-refid 1222-3332-4443-6667 
