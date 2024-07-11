@@ -35,25 +35,85 @@ Now, as we take that path, the slower or the calmer which I like to call the con
 * @meta @reference - Graham, P. (2012, September). Startup = Growth. Retrieved August 29, 2023, from http://www.paulgraham.com/growth.html
 --> 
 
-Now there's something observable right there, by that fragment, if we just take that picture and pass it on like the old telephone game, which would take us to misunderstand his invitation through growth [^foonote_paulgraham_startup_growth]. But a strong constraint is given by the saying that "everything else we associate with startups follows from growth." If we accept this idea as required, we will inevitably set us into reflections, such as the ones in *Startup = Growth* (2012) which also aligns with other reflections he wrote, like *Do Things that Don't Scale*." In other words, this frame set us to consider what is the conscious founder and a conscious team and the conscious startup situation that actually, in fact, brings about real growth. This framing aligns with other considerations for the dynamics between founders and startups with the market. One in special is given by the Blitzscaling model brought by Chris Yeh and Reid Hoffman, which starts from the view of growth too although sets a breakdown by stages - family, tribe, village, city and nation - which again essentially invite us to organize and into the discussion and to reflect about the other characterizations in terms of what it takes. As an example, from the Blitzscaling lecture 18, an interview with Brian Chesky (the CEO of Airbnb), he had put in perspective the learning challenges throughout these stages - for a founder that is around throughout all the stages - as one that is not about developing a skill continuously but essentially about having to learn something complete new, like a whole new sport. We'll come back to Brian in further chapters. But right now, to think about what it takes through these stages takes me to think that of a path of evolution, so I see the biological process for a butterfly.
-
-[^foonote_paulgraham_startup_growth]: Paul Graham's definition of startup equals to growth is used here, although to do it fast might confuse me, on what that means; while I become calmer when observing Paul Graham's article entitled *Do Things that Don't Scale* and other ideas where essentially fast means the find conscious ways of growing. Visit Startup = Growth, retrieved August 29, 2023, from http://www.paulgraham.com/growth.html
+Now there's something observable right there, by that fragment, if we just take that picture and pass it on like the old telephone game, which would take us to misunderstand his invitation through growth [^foonote_paulgraham_startup_growth]. But a strong constraint is given by the saying that "everything else we associate with startups follows from growth." If we accept this idea as required, we will inevitably set us into reflections, such as the ones in *Startup = Growth* (2012) which also aligns with other reflections he wrote, like *Do Things that Don't Scale*." In other words, this frame set us to consider what is the conscious founder and a conscious team and the conscious startup situation that actually, in fact, brings about real growth. 
 
 <!--
 @meta @reference 
 * @reference - Graham, P. (2012, September). Startup = Growth. Retrieved August 29, 2023, from http://www.paulgraham.com/growth.html
 --> 
 
+This frame goes along with other considerations for the dynamics between founders and startups with the market. One in special is given by the Blitzscaling model brought by Chris Yeh and Reid Hoffman, which starts from the view of growth too although sets a breakdown by stages - family, tribe, village, city and nation - which again essentially invite us to organize and into the discussion and to reflect about the other characterizations in terms of what it takes. As an example, from the Blitzscaling lecture 18 (2015), an interview with Brian Chesky (the CEO of Airbnb), he had put in perspective the learning challenges throughout these stages - for a founder that is around throughout all the stages - as one that is not about developing a skill continuously but essentially about having to learn something complete new, like a whole new sport. Brian Chesky will come back to visit us in further chapters. But now, when I think about what he is saying through these stages, I think about a path that is more like an evolution. The evolutionary path that makes a butterfly.
+
+[^foonote_paulgraham_startup_growth]: Paul Graham's definition of startup equals to growth is used here, although to do it fast might confuse me, on what that means; while I become calmer when observing Paul Graham's article entitled *Do Things that Don't Scale* and other ideas where essentially fast means the find conscious ways of growing. Visit Startup = Growth, retrieved August 29, 2023, from http://www.paulgraham.com/growth.html
+
+<!--
+@meta @reference 
+* @reference - Greylock. (2015, November 30). Blitzscaling 18: Brian Chesky on Launching Airbnb and the Challenges of Scale [Video]. YouTube. https://www.youtube.com/watch?v=W608u6sBFpo
+--> 
+
+
 <!-- 
 @outline - Complicated situation - Abundant world, interactions, confusion. Intro to mechanized founder. 
 --> 
 
-When I look to a holistic view - a growth curve if you will - and consider the learning challenges, it comes to my mind a saying from Reid Hoffman which he carries in his pocket and says that essentially a founder jumps off a cliff and tries to assemble an airplane on her way down. When I sum some nuanced observations from Blitzscaling or Brian, and think about the evolution of the butterfly, it takes me to see the challenge as of one that jumps off a cliff,  tries to assemble an airplane on the way down, and assembles it, and then is prompted to learn how to fly, and as it does, and then it's prompted to know where to go, and so on.
 
-Although this frames the situation for what this book is about, the special reason for us to be here has to do with something that has changed on our way. It may be since the industrial revolution, and over the years, but now might be a source of concern. This is our space, the space where we do things. Because our world is hotter, bigger, faster, we have lots of things, in terms of solutions, things to go for doing it, that are interactive or iterative. These things, solutions, and here and there to help our ways but they can be overwhelming or confusing, we know that. And dealing with that is not only important to the young, but also to the experienced founders, and quite applicable to experienced leaders in major and grown-up organizations. In this bigger world, with its abundance of solutions, there are just too many things now teasing us, not to say bombarded, by their packages and voices. Again, we know that. An we know too that these aren't there to bring us trouble. So we know that they are not evil, at least that a lot of things aren't, to some or a greater extent, that they are valid and applicable to specific conditions. Because these are the things that solve real problems, and these are the tools or the building blocks, and many are cheap and easy to plug in and quite important too. And sometimes security is fantastic and other things are quite required.
+In other words, we might think that there are levels of zoom applicable to describe these growth challenges or that growth curve situation. As an example, from far, Reid Hoffman carries a saying in his pocket that essentially describes a founder jumping off a cliff and trying to assemble an airplane on the way down. But them, the more I read from Reid Hoffman, and from the Blitzscaling crew such as Brian Chesky’s observations, it brought me to expand the metaphor (with that butterfly in my mind,) and describe the challenge as of one who jumps off a cliff, assembles an airplane on the way down, and, if they do well, then must learn how to fly; and, if successful and if it does fall, they are challenged to figure where to go.
 
 
-But we are teased to check them, teased to taste, or to buy, or to pick and unbox them. We can be involved with these things which can be good - ideas, tools, and methods - no doubt. And on top, or on the side, or underneath, there are the beings, like us or different, but anyway involved. They are the practitioners, or advisors, or experts, you name it. So they care, with us, they are not indifferent. When I look to all of that, if I sum all I see, I see superpowers. But no superpower from this environment seem to be as powerful as the power of not being alone. Especially when we start, an idea also reflected by Sam Altman, that founders are lonely. But there is more on our ways, a particular thing can be the platforms. When I picture myself in that fall trying to assemble my airplane, or to control it, I don’t see these platforms falling. Relativelly, I see a sort of carrier, fully equipped, and its roads for taking off. And then we hear the calls, their voices, which I can't say that are enchanting, because a lot I hear seem to be solid narratives. I see coherence.
+
+
+
+
+
+<!--
+@outline - World has changed 
+--> 
+
+
+This situation, which brought us here, by such brief effort analysis, does set that the challenges for the growth of the startup into a business are intertwined with the evolution given by learning and adaptability of their founders, naturally because the founders are key in terms of characterization of the future of the business. But that's not the main reason that we are here. The reason that we are here is because something has changed along the way, and likely or characteristically since the Industrial Revolution, and it's growing over the years. It's basically giving us the good and the bad news, but nevertheless a chance for a reflection.
+
+
+
+
+Starting with the good news, this is our space. There is a space now for doing things because our world is bigger, our faster, therefore lots of solutions for doing it. All we have is interactive and iterative and we know that the many things there are there to help our ways. If to some extent they seem to be about the ways to work and get things done as part of general life, we know that, but it also grew bigger, given by tools and methods, and abundant and richer, in ways to support founders by the entrepreneurial ecosystem. It totally set new ways to start, or if you will to jump off that cliff - or into execution - by picking things in the air. 
+
+Now, in this bigger world, generally experienced managers or experienced founders, and others like advisors who cares about them, and to some extent young founders, they're well acquainted that. In essence, what they do is to deal with the abundance of options and pick the tools and methods that matters for them. In other words, they do understand that, from abundance, they are in a quest, even if they're bombarded or teased by so many patches or voices; that what they do essentially has to do with the management of how to do it. In other words, we know that these things aren't evil, to some or a greater extent, because in the middle of this abundance there are many things that are applicable, methods or tools, advices, ideas, you name it; because we know that some of these, in fact, do solve real problems. These are building blocks, and some of them can be cheap, and others easy to plug, and security can be fantastic. If all is a valuable contribution, options seems to favor the wiser or the one doing it faster or doing it faster and better - some of these thoughts sound coherent. 
+
+Now, one thing is to consider that to get into these affairs is part of the management of any entrepreneurial effort. That's okay and founders know, so we know. However, one way to generally solve this problem - if any exists which may be characterizes as to see signal from noise - is to actually interact with the environment, which gives them the other viewpoint, or you may call it shock-absorbing views. Basically, they do seek perspective, so not to be alone in a possible path leading to trouble without synchronicity with the outside; call it audiences, our customers, our partners or the industry dynamics, or the market. Thus, comparatively, in relative terms, we move towards growth by actually interacting with external environment. Founders and managers, experienced or fresh, know that to a more or less extent. 
+
+However, and specifically to the situation of founders, we will also recognize that founders are lonely, or may start lonely, or find themselves in lonely places (this one we will get back to experienced founders and leaders will too find themselves in lonely places.) This idea that the startup situation is a lonely place may have to do with the very fact that what is baking, some new or bold idea, does not smell familiar, not until they haven't figured out how to put it in a way that the world gets it. About a decade ago in *Founder Depression* (2014), Sam Altman who is now widely known as the CEO of OpenAI, had reflected about that place: 
+
+> *"Founders end up with a lot of weight on their shoulders—their employees and their families, their customers, their investors, etc.  Founders usually feel a responsibility to make everyone happy, even though interests are often opposed. And it’s lonely in a way that’s difficult to explain, even with a cofounder (one of the things that works about organizations like Y Combinator is that you have a peer group you can lean on for support)."* (Altman, Sam., 2014)
+
+<!--
+@meta @references 
+* reference - Altman, S. (2014, June 13). Founder depression. Sam Altman's Blog. https://blog.samaltman.com/founder-depression
+-->
+
+There are so many other characterizations to that but one from Brian Chesky, also given by the Blitzscaling lecture 18 (2015) goes on to say that "all these really good ideas or big ideas often sound like stupid ideas," and that "don't worry about anyone stealing your idea. If it's any good, everyone will dismiss it." 
+
+<!--
+@meta @reference 
+* @reference - Greylock. (2015, November 30). Blitzscaling 18: Brian Chesky on Launching Airbnb and the Challenges of Scale [Video]. YouTube. https://www.youtube.com/watch?v=W608u6sBFpo
+--> 
+
+
+<!--
+@note 
+* Quote - And, of course it turned out that the crazy little idea that we thought no one else would do, became the big idea. And I think there were a couple lessons there. Number one, all these really good ideas or big ideas often sound like stupid ideas. Somebody once told me in the early days, don't worry about anyone stealing your idea. If it's any good, everyone will dismiss it.
+-->
+
+
+
+
+
+
+
+
+Now if we reconciliate this characteristic place with a world of the givens in front of us - such as ideas, tools and methods - besides the fact that options may keep us busy, no doubt; or creatively busy, no doubt; we will also take that these things are enriched by the richer ecosystem. So on top of them, or on the side, or underneath, there are beings which now are acessible through the networked environment which we use to interact and iterate. These are the practitioners, advisors, experts, or you name, and comparatively other founders doing sort of the same and interacting with; which supports a richer and social environment where many others are together with us. In other words, they care therefore they are not indifferent. When I look at the situation, I certainly see these things giving us superpowers but no superpower is as powerful as the power of not being alone. In other words, if we look around, we see people using tools and people using methods and people giving advice. Plus, they also got better in terms of narratives and storytelling. But then, again, that's part of our challenge, isn't it? The challenge that we sort of know. Still, it's quite challenging, every day, by the networks, even to a point that we sometimes do not see from far and get taken by perspectives when we look to these things. If I were to mix Reid's clear thought with how the air looks for me, I can see that one now jumping off a cliff with many things in the air. And things of different categories - not only hammers and shovels falling, of course. One particular kind of thing are the platforms. So if I am there, trying to assemble that airplane on my way down, I see a platform somehow differently. I don't see a platform falling along. I see, relatively, a carrier. And it seems fully equipped and there's a nice road for landing and then taking off. But we know, there's a truth in there, and it's coherently given by so many of them platforms which are actually real. Comee one, they are really our ways to take off. So that's how the abundant world looks for founders which may be unfair to say that it's enchanting, or evil, but it is fair to consider that it's complex and can be confusing because we're going to feel embraced. By so many options, now with amazing narratives, with coherence, and actually in fact very good reasons for using for deciding.
+
+
+
 
 
 

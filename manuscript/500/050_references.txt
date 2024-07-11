@@ -30,6 +30,10 @@ Andreessen, M. (2023, October 16). The Techno-Optimist Manifesto. a16z. https://
 Graham, P. (2012, September). Startup = Growth. Retrieved August 29, 2023, from http://www.paulgraham.com/growth.html
 
 
+
+Altman, S. (2014, June 13). Founder depression. Sam Altman's Blog. https://blog.samaltman.com/founder-depression
+
+
 Hari, J. (2023). Foco roubado: Os ladrões de atenção da vida moderna. (L. Reyes Gil, Trad.). Vestígio.
 
 <!-- 
