@@ -20,6 +20,8 @@
 * Models - Reid Hoffman, 
 * Models - Brian Chesky, 
 
+* [x] Friends - Roger Soares 
+* [ ] Friends - Chandler Calkins @meta-refid 0993-0303-0303-3334
 
 * [x] Limarc - for offering help as an editor on Hackernoon, for offering a fellowship which presented critical requirements of responsility, and also his views about why to not use tools like AI tools. @meta-refid 1212-3333-4443-4443
 
@@ -31,6 +33,8 @@
 
 * [ ] Jacqueline Pereira
 * [ ] Luisa Vendrusculo. 
+
+* [ ] Paulo Hetch - Helped with reflective conversations about self and self development, will of doing versus one being overwhelmed by doing; helped with research about the role of product managers;
 
 * [ ] Elder Reami. 
 
