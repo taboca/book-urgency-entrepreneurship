@@ -30,6 +30,9 @@ Andreessen, M. (2023, October 16). The Techno-Optimist Manifesto. a16z. https://
 Graham, P. (2012, September). Startup = Growth. Retrieved August 29, 2023, from http://www.paulgraham.com/growth.html
 
 
+Graham, P. (2013, July). Do things that don't scale. Retrieved from https://www.paulgraham.com/ds.html
+
+
 
 Altman, S. (2014, June 13). Founder depression. Sam Altman's Blog. https://blog.samaltman.com/founder-depression
 
