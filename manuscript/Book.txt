@@ -5,9 +5,11 @@
 
 
 
-000/040_foreword_external.txt
-000/050_foreword_world.txt
-000/050_foreword_marcio_fit.txt
+000/050_foreword/040_foreword_external.txt
+000/050_foreword/010_foreword.txt
+
+#000/050_foreword/050_foreword_world.txt
+#000/050_foreword/050_foreword_marcio_fit.txt
 
 000/100_introduction/010_article.txt
 
