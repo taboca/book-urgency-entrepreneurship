@@ -2,7 +2,7 @@
 @outline - We don't talk, emotions in the corporate. 
 -->
 
-#### The full-blown procrastinator
+#### The grown-up procrastinator beast
 
 
 
@@ -24,18 +24,13 @@ If an act of courage consider these issues - which the corporation sees it as so
 * @todo - p2 (Done) - In Identity - Bring the case of Great America, is the main point needed - @meta-refid 3332-7866-3232-1222
 --> 
 
-That iconic conversation would be a great final scene for a 2-hour movie based in a true story. The view of the Ferris wheel of Great America, and zoom out to the room, and their final words. Then a fade out and while credits are scrolling, a sequence of true events that followed: In October 1985, Intel decided to shut down their memory manufacturing operations. Intel leadership undertook the bold decision [^foonote_hbr_intel_1996] to focus in microprocessors. Intel became known as the world's largest manufacturer of microprocessors leading the personal computer revolution. Other complementors rised along, like Microsoft Windows. New chapters to the history of Silicon Valley had openned: the rise of browsers, the rise of smartphones, and the rest is history. This movie is dedicated to the memory of Andy Grove. 
+That iconic conversation would be a great final scene for a 2-hour movie based in a true story. The view of the Ferris wheel of Great America, and zoom out to the room, and last (but not least) words. Then a fade out and while credits are scrolling, a sequence of true events that followed: In October 1985, Intel decided to shut down their memory manufacturing operations. Intel leadership undertook the bold decision [^foonote_hbr_intel_1996] to focus in microprocessors. Intel became known as the world's largest manufacturer of microprocessors leading the personal computer revolution. Other complementors rised along, like Microsoft Windows. New chapters to the history of Silicon Valley had openned: the rise of browsers, the rise of smartphones, and the rest is history. This movie is dedicated to the memory of Andy Grove. 
 
-[^foonote_hbr_intel_1996]: The article from HBR titled "Inside Intel" by Adam Brandenburger and Barry Nalebuff (1996), underscores the importance of adaptability in the face of industry crises and technological shifts. In essence, the article considers Intel's journey through significant challenges, including the competitive pressure from Japanese semiconductor manufacturers in the mid-1980 which led to a strategic pivot from memory chips to microprocessors, and how the success from transformation brings new challenges, like a totally new game or sport where the organization has to transcend in order to survive.  
+[^foonote_hbr_intel_1996]: The article from HBR titled "Inside Intel" by Adam Brandenburger and Barry Nalebuff (1996), underscores the importance of adaptability in the face of industry crises and technological shifts. In essence, the article considers Intel's journey through significant challenges, including the competitive pressure from Japanese semiconductor manufacturers in the mid-1980 which led to a strategic pivot from memory chips to microprocessors, and how the success from transformation brings new challenges, like a totally new game or sport where the organization has to transcend in order to survive. 
 
-But if Andy were here he would say "Stop!, wait. That doesn't look like real life." And I would be tempted to tell him that in real life people should read his books. Yet, we are here anyway and this is a book moment, so let us accept Andy's invitation and look through a window into a process, into the hard things for when things are hard, when the environment changes and the future is uncertain. Right there, one may miss Andy by thinking he was using a sort of soft talk. But in essence that it Andy's way to get away from the human's ability to control data by essentially accessing that level of humanity [^footnote_maslow_child_growth].  
+But if Andy were here he would say "Stop!, wait. That doesn't look like how it goes in real life." And I would be tempted to tell him that in real life people should read his books. Yet, we are here anyway and this is a book moment, not a movie. So let us accept this invitation and jump through the window from that great park scene, right into the building of real life, to consider the hard things; for when things are hard, when the environment changes in 10x-ways and the future is uncertain, no matter how grown up the organization is, the hardest things to face will come to terms with touchy-feely issues. In essence that is Andy's way to get away from the human's ability to control by essentially embracing and recognizing a great deal of humanness in us and how we are driven by it.  
 
-[^footnote_maslow_child_growth]: Andy Grove's ability to maintain humanity when doing analysis is a reason for considering the child's decision making process in front of the progressive and yet unknownn. In *Toward the Psychology of Being* (2011, p.56), Abraham Maslow considers a formula for growth where once the child sees a favorable environment (for children would be parents, therapists, teachers) and other safe conditions, then they essentially compares the attractiveness for the progressive choice versus the negative aspects for the regressive choice. 
 
-<!--
-@references 
-* reference - Maslow, A. H. (2011). Toward the Psychology of Being. Martino Publishing. (Original work published 1962)
---> 
 
 <!--
 @meta @todo 
@@ -207,7 +202,7 @@ That analysis, indeed in retrospect, is celebrated as a movement of denial or es
 * reference - Grove, Andrew. (1999). Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company. [Só os Paranóicos Sobrevivem]. Crown Publishing.
 --> 
 
-He is right. He were escaping to a place. But we shall not miss the celebration of his courage to engage in the actual reflective experience setting him into a honest spot. In other words, he didn't fear to bring that about, he didn't fear knowing. 
+He is right. He were escaping to a place. But we shall not miss the celebration of his courage to engage in the actual reflective experience setting him into a honest spot. In other words he didn't fear to bring about that reflective experience, he didn't fear knowing, and in terms of accounting he were brave to be using Intel's work time for these reflections. That's pretty brave. 
 
 
 
@@ -251,6 +246,14 @@ Now from that expectation, a level of alertness or consciousness or an ability t
 > *"But we know also that curiosity and exploration are 'higher' needs than safety, which is just to say that the need to feel safe, secure, unanxious, unafraid is prepotent, stronger over curiosity. Both in monkeys and in human children this can be openly observed. The young child in a strange environment will characteristically hang on to its mother and only then, venture out little by little from her lap to probe into things, to explore and to probe. If she disappears and he becomes frightened, the curiosity disappears until safety is restored. He explores only out of a safe harbour."* (Maslow, Abrahan., 2011, p.61) 
 
 <!--
+@note 
+
+
+
+--> 
+
+
+<!--
 @references 
 * reference - Maslow, A. H. (2011). Toward the Psychology of Being. Martino Publishing.
 -->
@@ -263,16 +266,16 @@ Now from that expectation, a level of alertness or consciousness or an ability t
 
 
 
-Now, given the celebration of these conditions, yet that does not mean that there is a sign that the valley of death has passed. That is why Andy, next to Gordon and the Ferris Wheel, referred to the conversation as a quandary and their mood as downbeat. The complexity is that, in reality, the mother wants to let the baby go. But on the other hand, she wants to keep the baby safe. 
+Now, given these conditions, yet that does not mean that there is a sign that the valley of death has passed. That is why Andy, next to Gordon and the Ferris Wheel, referred to the conversation as a quandary and to their mood as downbeat. The complexity is high, in reality, as they entered the role of mother who wants to let the baby go, on one hand; and on the other hand wants to keep the baby safe. For Abraham Maslow (2011, p.56), the formula for growth for the child depends on the favorable environment (for children would be parents, therapists, teachers) and other safe conditions so that the baby can essentially compares the attractiveness for the progressive choice versus the negative aspects for the regressive choice. 
 
-As for the corporate situation, In *Strategic Inflection Points*, Andy had illustrated how it in real life, when the decision is made and the the company has commited. That is when the leader says that "I'm going go to my best guy here." And he does, and tells the guy, "OK, you're going to go on this emerging stuff." But then, and as a result, every general manager jumps on him and ask "How can you pull him out of the business that pays all of our salaries?" So then the leader says "OK, no, no, no, I was kidding. I was kidding. It was a bad idea. Bad idea." Now they go on and replace that guy, so they pick the other guy bellow him. And now, guess what, that "new area is not going to succeed" and Andy wonders "Is it not going to succeed because it was a bad idea in the first place? Or is it not going to succeed because we put our second class people on developing it? That's how it goes in real life."  (Grove, 2019, 32:55-33:36)
+In the grown-up and corporate situation, Andy had illustrated how this struggle happens in real life - that through *Strategic Inflection Points* - and that even after the decision is made the struggle hits you back. That is when the leader says that "I'm going go to my best guy here." And he does, and tells the guy, "OK, you're going to go on this emerging stuff." But then, and as a result, every general manager jumps on him and ask "How can you pull him out of the business that pays all of our salaries?" So then the leader says "OK, no, no, no, I was kidding. I was kidding. It was a bad idea. Bad idea." Now they go on and replace that guy, so they pick the other guy bellow him. And now, guess what, that "new area is not going to succeed" and Andy wonders "Is it not going to succeed because it was a bad idea in the first place? Or is it not going to succeed because we put our second class people on developing it? That's how it goes in real life."  (Grove, 2019, 32:55-33:36)
 
 <!--
 @reference 
 * reference - Grove, A. (2019, May 31). Andrew Grove, "Strategic Inflection Points" - 1996 MIT Industry Leaders Program Lecture. MIT Video Productions. https://www.youtube.com/watch?v=LfU2Qu4MzZk
 -->
 
-And this is not different from the individual situation and circumstances of life when we choose good things to do, as in honorable things, and set ourselves in a course which we believe is not causing harm to something greater (like dreams) and in fact might be about a compromise. In *Wake Up and Live*, Dorothea Brande considers that we may do a bargain: 
+And this is not different from the individual situation and circumstances of life when we choose good things to do, as in honorable things, and set ourselves in a course which we believe is not causing harm to something greater (like dreams) and in fact might be about a compromise. In *Wake Up and Live*, Dorothea Brande considers a process - which she considers as one taking us into a will to fail - is characterized as bargain: 
 
 > *"If we manage to be fairly comfortable, to get some respect and admiration, a taste of 'a little brief authority,' and some love, we think we have made a good bargain, we acquiesce in the will to fail. We even pride ourselves on our shrewdness, not suspecting how badly we have been cheated, that we have settled for the compensations of death, not the rewards of life."* (Brande, Dorothea., 2014, p. 21)
 
@@ -289,31 +292,7 @@ And this is not different from the individual situation and circumstances of lif
 
 *The Will to Fail* is how she describes when we enter into a path of failure by accepting failure. This is when we, as the mothers of ourselves, commit our best resources, energy, creativity, our willpower. She remind us of how far we can go, how busy we can get into these affairs, of denial or escapism or bargaining. Once we route ourselves from a greater thing, we won't know, just like the situation given by Andy. I am not going to succeed because it is the wrong area in the first place? Or I am not going to succeed because I have used my second-class being doing it? I conclude, together with Andy, that this is how things go in real life. 
 
-
-
-
-
-
-(2011, p.56), Abraham Maslow considers a formula for growth where once the child sees a favorable environment (for children would be parents, therapists, teachers) and other safe conditions, then they essentially compares the attractiveness for the progressive choice versus the negative aspects for the regressive choice. 
-
-<!--
-@references 
-* reference - Maslow, A. H. (2011). Toward the Psychology of Being. Martino Publishing. (Original work published 1962)
---> 
-
-
-
-
-
-
-
-
-
-
-Another point must be said about how the mature being, the grown-up team, does deal with some the regulation of the whole being being formed by its underlying entities. Andy had pointed in *Only the Paranoid Survive* that the leadership may or may not deal with the change - and the likelyhood of replacement - but pointing the implicit duty of leadership. As for the legs, the entities, the working units which are too focusing, Andy makes a point that in these situations heads are generally replaced gexactly from the implied corporate situation and the assumed specialized characterizations of the entites as working units which can't do much for change - nor the big corporation has the means to support the recharacterization of the individual units. Thus it may be seen as the natural deprecation of leafs when the root dynamics serve different life liquids where the leaves don't understand; they die which in the corporate working world, they are fired, let go. The reason I end with this reflection is that some of the complex characterizations may actually go on, keep the beat, by bypassing the feelings or unconscious development through pathways which founders live by. In other words, by replacing, it may be assumed that the whole bean is to a certain extent being hypnotizhed, free of the pains, renewed, not carrying a painful memory. 
-
-
-Actually the very exercise that Grove and Moore did may in fact had to do with the self-therapeutic possibility and necessary if the being is into it to be around in the face of the inflection situation. What they did were indeed complicated, and in alighment with a natural incompatibility of modes, for Maslow, a dilemma "posed by the necessity for being both 'therapist' and 'policeman':
+But the very exercise that Grove and Moore did may in fact had to do with the self-therapeutic possibility and necessary if the being is into it to be around in the face of the inflection situation. What they did were indeed complicated, and in alighment with a natural incompatibility of modes, for Maslow, a dilemma "posed by the necessity for being both 'therapist' and 'policeman':
 
 > *"We already recognize a certain incompatibility in the two interpersonal attitudes implied here. Most psychotherapists will refuse to assume any disciplining or punishing function for their patients. And many executives, administrators, or generals will refuse to take on any therapeutic or personal responsibility for the people to whom they give orders and whom they have to discharge or punish."* (Maslow, Abraham., 2011, p. 115)
 

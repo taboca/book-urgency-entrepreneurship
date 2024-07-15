@@ -12,7 +12,7 @@
 --> 
 
 
-Founders don't talk about fears. That is not because they fear fears. It is so because they are doers in the first place. That does not mean that they don't recognize fears. In fact, they do it so naturally, for the sake of not failing, in the name of getting things done. It's like a fear of things that help them into the movement, to know, to act, to do it. So before we check on the ways fear act on us, we should respect fears. 
+Founders don't talk about fears. That is not because they fear fears. It is so because they are doers in the first place. That does not mean that they don't recognize fears. In fact, they do it so naturally, for the sake of not failing, in the name of getting things done. It's like a fear of things that help them into the movement, to know, to act, to do it. Before we check on the ways that fear acts on us we should respect fears because as we know even the wildest of the movements may actually be driven by fears
 
 If we set a time machine to somewhere 30000 to 36000 years ago, and find a human on a tree fearing the fearless wolf that paciently waits, we may recognize - and respect - a feeling that improve our chances for survival in the face of the danger. Someone in your ancestors tree feared a similar threat so that you can be now reading this feeling connected with them. Some of you may be now observed by your puppy, Wolfie. Make sure you feed her well. 
 
@@ -27,6 +27,10 @@ As for the how that old fear now drive us, we should too celebrate our lighting-
 
 
 
+<!--
+@todo @meta
+* @todo - p2 ( ) - In Running, In Fear - Condense what seems to be the complication, from "The reason .." to "We'll start by ..." @meta-refid 1222-3334-4444-5556
+--> 
 
 The reason for us to be together celebrating the role of fear, is that the entrepreneurial agenda does not allow room to discuss fears, or the role of fear, or how a language and dynamics oriented to fears is just part of our mechanism to be productive. In other words, we might have a reason to consider that generally unnoticed fear that drives our productivity, that in many circunstances eloquently shapes the narratives that affect our decisions. To narrow our scope at the risk of increasing the complexity of the startup situation, we should remind ourselves that the size and stage, of a small team [^footnote_blitzscaling_family_stage] which characterizes the early stage,means agility, indeed; which goes with that an degree of authority. In other words, although the mountain of resources is small comparing with a large company, it is bigger in terms of impact to the path, to the future of the startup. 
 
