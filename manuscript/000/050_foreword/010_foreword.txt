@@ -17,6 +17,11 @@ Consider, for example, the cost for acessing motivation from networks, for insta
 
 --> 
 
+<!--
+@outline - provocation - we are mechanized, as getting things done. 
+--> 
+
+
 We will get back to that, to what can be a supermarket, networked, and abundant, and how that became a concern for me and reasons to write this book. As I wondered where all of that came from, and a specific moment in time was symbolic to see the changes to the entrepreneurial movement influenced by the world's solutions. If we set our time machine to November 10, 1876, we would witness emperor of Brazil, Dom Pedro II, turned on the massive steam engine at the inauguration of the centennial exhibition of the United States' independence in Pennsylvania, Philadelphia. This milestone symbolizes the onset of new era, when the people's clock became faster by likely their attention span shorter. That engine, the Corliss Centennial Engine, became the icon of the exhibition. Standing 14 meters tall and boasting a power of 1400 horse-power, it was responsible for powering the entire exhibition setup, which encompassed more than 200 buildings spread over 5 km in length. (Wikipedia, 2019)
 
 <!--
@@ -81,8 +86,7 @@ Much of what arises every second is promising, one problem with navigating the d
 
 But how could we blame abundance, right? Since it is possible to find the right moment in time and space where opportunity to change our future exists for all needs. Because despite the turbulence and potential confusion, we have so much more information and tools of unquestionable quality in front of us, more accessible and cheaper. This should be a factor that promotes an optimistic view, for better chances. And if you dig, it is quite rational as we must agree that we now have much more data, more stories, more references, more tools, more means of interaction, more for growth, and even more. In this regard, we should consider the optimistic view from A16Z, from Marc Andreesseen, from the renowned top-tier venture capital firm from Silicon Valley, for where we are going:  
 
-> "We believe the measure of abundance is falling prices. Every time a price falls, the universe of people who buy it get a raise in buying power, which is the same as a raise in income. If a lot of goods and services drop in price, the result is an upward explosion of buying power, real income, and quality of life." 
-> (Andreessen, 2023)
+> *"We believe the measure of abundance is falling prices. Every time a price falls, the universe of people who buy it get a raise in buying power, which is the same as a raise in income. If a lot of goods and services drop in price, the result is an upward explosion of buying power, real income, and quality of life."*  (Andreessen, M., A16z, 2023)
 
 <!-- 
 @meta @reference 
