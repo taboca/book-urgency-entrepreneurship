@@ -1,5 +1,10 @@
 # Todo p1s # 
 
+* @todo - p2 ( ) - In Foreword - Check Oliver Evans industry mill data from Maury Klein. @meta-refid 1234-4567-8787-4444
+
+
+* @todo - p2 ( ) - In Foreword - Check Dom Pedro II interaction with the engine, right words and circumstances. @meta-refid 1223-3444-3939-9393
+
 * @todo - p2 ( ) - In Running, In Fear - Condense what seems to be the complication, from "The reason .." to "We'll start by ..." @meta-refid 1222-3334-4444-5556
 
 * @todo - p2 ( ) - In Introduction - Check *Argue with Data* where it is. @meta-refid 1234-6464-8484-4444 
