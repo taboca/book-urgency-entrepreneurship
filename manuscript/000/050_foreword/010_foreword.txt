@@ -17,55 +17,11 @@ Consider, for example, the cost for acessing motivation from networks, for insta
 
 --> 
 
-<!--
-@outline - provocation - we are mechanized, as getting things done. 
---> 
 
 
-We will get back to that, to what can be a supermarket, networked, and abundant, and how that became a concern for me and reasons to write this book. As I wondered where all of that came from, and a specific moment in time was symbolic to see the changes to the entrepreneurial movement influenced by the world's solutions. If we set our time machine to November 10, 1876, we would witness emperor of Brazil, Dom Pedro II, turned on the massive steam engine at the inauguration of the centennial exhibition of the United States' independence in Pennsylvania, Philadelphia. This milestone symbolizes the onset of new era, when the people's clock became faster by likely their attention span shorter. That engine, the Corliss Centennial Engine, became the icon of the exhibition. Standing 14 meters tall and boasting a power of 1400 horse-power, it was responsible for powering the entire exhibition setup, which encompassed more than 200 buildings spread over 5 km in length. (Wikipedia, 2019)
-
-<!--
-@meta @todo 
-* @todo - p2 ( ) - In Foreword - Check Dom Pedro II interaction with the engine, right words and circumstances. @meta-refid 1223-3444-3939-9393
--->
-
-![Illustration of the Corliss Engine, public domain.](images/100/CentennialEngine.png)
-
-According to historian Maury Klein (2008), the exhibition showcased all the modern wonders of the mechanization of the industrial revolution: machines that prepared molds for printing machines, sewing machines, telegraph devices, locomotives, automatic saws, belt presses, winches, scales, excavators, drilling machines, giant sugarcane mills, cotton presses, stone-crushing machines, diamond drills, stone cutters, various tools, agricultural equipment, carriages, tile and brick-making machines, bookbinding machines, paper-making machines, cardboard, machines for making threads, cables, screws, car wheels, train wheels, and so much more. Machines. I know, it might seem too much to name 26 examples - that now seem antiquated - instead of focusing on big numbers, such as 200 buildings, or the 14 meters steam engine, or the 5 kilometers lenght of the exhibition, or the 10 million visitors, or the 7 days time which one would take to visit the whole exhibition. A bit antiquated for us but nevertheless amusing in size and impact, especially for the ones who experienced the exposition and had a chance to see revolutionary solutions in many sorts of fields as all of these things were new. 
 
 
-<!-- 
-@meta @Outline
-* Outline - introduction - Answer - Key one - .1 Creative Destruction, necessary but wait, it bundles 
---> 
 
-
-These solutions, much of it materialized as mechanical solutions, were fruits of human work and collaboration at the epicenter of a destruction to an economic order; to which in the U.S. heavily based on slavery. The rising new economic model were supported by technological innovations that redefined rules of labor force that went along with societal changes in the system and shaped a new economy. The situation in the United States, the north vs. south confrontation, goes along in sunchronicity characterizing a crisis of the old older and the setting of new order with heavy use of mechanized solutions both supporting products and transportation. 
-
-
-<!--
-As these worlds collided, the industrial revolution defined the economic context that accelerated the destruction of the old economic system based on slavery and gave rise to a new system that brought freedom to certain extent or innovation. 
--->
-
-Now the reason that we start right there it's because through the very early examples of creative innovations and machinery machines, or platforms, or mechanized tools, we can visualize how our lives changed up to how entrepreneurial movement too. Consider, for example, the flour mill created by American inventor Oliver Evans around 1790. Evans' automatic mill [^footnote_oliverevans_mill] was innovative as it eliminated numerous hours of human work and at the same time reduced the risk of contamination. 
-
-![Evan's design for the automated flour mill](images/100/Oliver_Evans_-_Automated_mill.jpg)
-
-[^footnote_oliverevans_mill]: The illustration of Evans' automatic mill, which is in the public domain, was made by James Poupard and documented in the work titled "The Young Mill-Wright & Miller's Guide."
-
-From a perspective, Oliver Evans system created new rules or broke the rules of an existing production system, by setting up a new ground, defining new economic and social order, to a certain extent. As an example, we may consider the rise of the milling industry in the US which is linked to his design. According to Maury Klein, Oliver's design became the reference leading to the rise of US as the world's biggest flour industry.
-
-<!--
-@meta @todo
-* @todo - p2 ( ) - In Foreword - Check Oliver Evans industry mill data from Maury Klein. @meta-refid 1234-4567-8787-4444
--->
-
-
-In terms of the economics dynamics with people's needs, from the widespread distribution of flour through the US and economic movement, we may highlight the higher quality of flour produced, more proper ability to stock accross seasons with less contamination, cheaper prices, as observable effects; this setting observation impacting the consumer angle of but course it goes with the movement the continous development of improved designs, would would cause pain to Oliver by the impossibility to tame or control the widespread of his design which he thought would be protected by the emerging patent system - nevertheless supporting not only the explosion of this industry but the evolution of the milling industry, and related tools and methods, along with transportation, plus also creating demands for skilled people to work with these systems - more specialized environment of production, and of course the unfolding characterizations of the management practice under the needs for improved efficiency in the process. 
-
-This new order, which changed the rules of work and the economic system, is an exemplary case of a process known as Creative Destruction [^footnote_creativedestruction]. We have others that would come later, such as the revolution brought about by the advancement of electrical energy, telecommunications, and others yet to come.
-
-[^footnote_creativedestruction]: Creative Destruction is a concept proposed by economist Joseph Schumpeter that describes the transformative process accompanying radical innovation. According to Schumpeter, successful business innovations lead to the destruction of old economic arrangements and the creation of new ones. This can cause significant disruptions, but it is a necessary and vital force for long-term economic development.
 
 Let us consider, back to the future and a few chapters ahead in the history told by Creative Destruction, how people behave and interact in the modern hyperconnected world is certain an area that deserves reflection - an area that shows opportunities but it is challenging. Consider information access, for example, the contrast of a visitor of that 1876 exhibition, where an entire week was needed to fully appreciate it and where only the 10 million who could physically travel to Philadelphia were able to see firsthand the possibilities of a more automated world. Today, with large exhibitions extinct, people are bombarded with #hashtags and stories through the social media walls of their "smart phones." We can now literally walk through hallways of one or multiple exhibition too cheap to visit and too continuous - and too guided by an experience, powered by an algorithm that can literally take us into a tesseract of infinite possibilities. Today, we can find ourselves immersed in a surreal abundance of images, stories, and projections, and a lot more that captivates us with increasingly better sensational narratives, sometimes visceral.
 

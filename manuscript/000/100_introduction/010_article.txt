@@ -12,18 +12,11 @@
 * @todo - p1 (Done, reviewed with the idea of this beinng hard in the face of action energy) - In Introduction - Leading paragraph - On "getting things done" and "initial energy" against "slowness". On the first, leading paragraph, of the Introduction, I have started with "getting things done", and then saying and acknowledging that as a pretty strong statement. The prior elaboration had to do with an idea of some "faster" ways of doing it, as in gambling or to capture prizes. These can be valid but it may call the attention of the reader too far. In this review I consider that to be slow can be too daring in the face of the actual energetic movement; in other words because the team starts in energetic ways, with motivation, and inspiration, or vision, or passion, or you name it; And then they face a world that embraces them to work and supports it, a world given by a rich ecosystem that is also vibrant and which comes with call to actions, oriented to action first, and furthermore it is networked. Thus, surely, to think about slowing down, can sound counter productive, as a starter. @meta-refid 2345-9494-9494-4444
 -->
 
-This is a book about getting things done [^footnote_schumpeter_getting_things_done]. Now I know how this causes a discomfort given that this book is entitled *Slow Down to Start Up*. This may be so because starting something, especially doing the startup way involves an energy that is nothing like slow, or calm. It comes like fire in a foundry, from motivations or aspirations, given that founders who enlighten themselves throughout get things done. It's an energy opposite to being inert, or inaction, as it pulls the action. 
+This is a book about getting things done [^footnote_schumpeter_getting_things_done]. Now, I know, and we know, of the discomfort implied by just noting a book entitled *Slow Down to Start Up*. This is so because of characterizations of the entrepreneurial effort and others of the startup situation. On the side of entrepreneurs, we know that how act of doing involves energy, more like a fire from the foundry where the motion comes from motivations and aspirations and where what happens is generally perceived as the conventional opposite of anything like the calmer or the slower movement, set us to think of inaction.
 
 [^footnote_schumpeter_getting_things_done]: The theme of getting things done have sometimes created confusion to me when I thought about innovation and impact. Because I first thought that getting things done for the sake of getting things done may be arbitrary and appears to be about a waste of resources. The view of Schumpeter helped me to be calmer, because he simplified, under the perspective that in a dynamic world of exchanges it appears a necessity for effiency and from comparison among similar ways to get things done people pick more efficient ones. And from that creative new things solves their problems in new ways, as in 10x more effient, this connects with the idea of creative destruction. 
 
-To start with our challenge, I propose us to see a crossroad, take right or take left; where right seems to be about what we think is the right way of doing - sometimes faster or closer. On the other hand, comparatively, ours now appears to be the longer way. But it does carry a value that characterizes our relationship - that founders are not expendable. We'll get back to that but for now this means that I want you to be around, not only through this reading but also throughout the journey of your startup and toward a the well-being of a business in the world.
-
-
-<!--
-@outline - situation - growth of startups 
---> 
-
-Now, as we take that path, or to the matter any path for actually getting things done in the world, we will certainly acknowledge that getting things done goes along with learning, As in, learning involving the skills for what needs to be done. However, in the particular circumstance of startups, this learning, or growth if you will, needs to happen simultaneously to the self, the founders, the startup, then shaping the well-being of the organization. To elaborate on that, we should pick a start-up definition; and a good one which connects with our fundamental principles aligned with this book is the one from Paul Graham where the start-up means growth:
+Now for the other consideration, the startup counterpart, the discomfort comes given that the startup goals aim to cause impact within the environment, an environment which seems to be changing faster. To elaborate on that, we should pick a startup definition; and a good one which connects with principles aligned with this book is the one given by Paul Graham where startups means growth:
 
 > *"A startup is a company designed to grow fast. Being newly founded does not in itself make a company a startup. Nor is it necessary for a startup to work on technology, or take venture funding, or have some sort of "exit." The only essential thing is growth. Everything else we associate with startups follows from growth.*" (Graham, Paul., 2012)
 
@@ -32,25 +25,18 @@ Now, as we take that path, or to the matter any path for actually getting things
 * @meta @reference - Graham, P. (2012, September). Startup = Growth. Retrieved August 29, 2023, from http://www.paulgraham.com/growth.html
 --> 
 
-
-We will come back to that part, fast, at the end of first chapter. For now, if stick with growth, that's already a pretty strong statement. If I had received only that, as a hand-written letter, I would hold it in my hands and wonder. I could be creative, I know, or follow my instincts; but either way I would not get closer to the essence he wrote in the article where I took that quote from, *Startup = Growth* (2012), and to other calmer and conscious reflections he wrote about a decade ago like *Do Things that Don't Scale* (2013).
-
-[^foonote_paulgraham_startup_growth]: Paul Graham's definition of startup equals to growth is used here, although to do it fast might confuse me, on what that means; while I become calmer when observing Paul Graham's article entitled *Do Things that Don't Scale* and other ideas where essentially fast means the find conscious ways of growing. Visit Startup = Growth, retrieved August 29, 2023, from http://www.paulgraham.com/growth.html
-
-
-<!--
-@meta @reference 
-* @reference - Graham, P. (2012, September). Startup = Growth. Retrieved August 29, 2023, from http://www.paulgraham.com/growth.html
---> 
+We will come back to that part, fast, at the end of first chapter. For now, let us consider the growth characterization which is already a pretty strong statement. If we had received that quote in a hand-written letter and nothing more we would need to come to terms wit the essential requirement, and the implied discomfort which sets in, given by the message which states that "the only essential thing is growth."  
 
 <!--
 @references 
 * Reference - Graham, P. (2013, July). Do things that don't scale. Retrieved from https://www.paulgraham.com/ds.html
 -->
 
+The main problem with that growth goes back to the environment to which the startup aims to produce impact. This is so because the general growth impact of the whole sum of all the entrepreneurial movements produces a relative motion. And so, the startup wants to grow in relative to the general movement. Now, as for the whole movement, we know that it moves by the known ways to move, let us say not by innovating and focusing in performance, as in to go faster. Thus, and given that the general competition essentially moves together, the startup who wants to grow from the norm, now is framed into not being able to deal with performance and forced to consider doing something else, which I feel bad to even think of it as what is sometimes known as the slow, or calmer, back to that discomfort. Anyway, that in a way goes along if we follow Paul's point, given by the article where that quote was extract from, *Startup = Growth* (2012) and others he wrote such as *Do Things that Don't Scale* (2013). 
 
+Now, take our discomfort aside, or entering the space, in general terms the call set us, as doers, to get involved with thinking through, with being conscious, to being reflective, creative, inventive, and other actions but basically we are being called to figure out how to do the growth thing from the norm. Another major implication, again which links the entrepreneurs and their startups is implied by these observations, the necessity of growth to the entrepreneur and the startup, again because the getting things done of the startup only happens with getting things done in terms of figuring out how to do from the founders, the entrepreneurial function growth needs of the founders in synch with the entrepreneurial growth needs for the startup. Now that growth can be translated as learning, which we are also acquainted as a characterized element implied by the entrepreneurial function. 
 
-Yet, when I dig the precise point by the quote, it frames a situation given by that requirement that "The only essential thing is growth. Everything else we associate with startups follows from growth." There is a link in there, betweem the founder, the startup, the business, and the world or the universe where the start-up wants grow. In other words, the world that grows grows from a business that grows which grows from a startup which grows from founders. Or they are all involved in a synchronized effort of self-growth. This frame aligns with other considerations for the dynamics between founders and startups growing in the world. One in particular is brought by the Blitzscaling framework, brought by Chris Yeh and Reid Hoffman, which considers the view of growth, or the challenges of growth, by first breaking down by stages - family, tribe, village, city and nation. With that organized structure, again, they're essentially inviting us into the discussion and reflection about what it takes, about the characterizations in terms of challenges to support that growth. As an example, from the Blitzscaling lecture 18 (2015), Brian Chesky from Airbnb (who is a founder that survived through the stages of growth,) brought up a perspective describing the learning challenges through the stages as being different from continuous learning - as in developing skills - and actually in fact something completelly different, as in being challenged to learn a whole new sport. We'll come back to that in further chapters but, for now, when I visualize what he's saying, I think of the evolutionary path of a butterfly.
+This framing aligns with other considerations for the dynamics between founders and startups growing in the world. One in particular is brought by the Blitzscaling framework, brought by Chris Yeh and Reid Hoffman, which considers the view of growth, or the challenges of growth, by first breaking down by stages - family, tribe, village, city and nation. With that organized structure, again, they're essentially inviting us into the discussion and reflection about what it takes, about the characterizations in terms of challenges to support that growth. As an example, from the Blitzscaling lecture 18 (2015), Brian Chesky from Airbnb (who is a founder that survived through the stages of growth,) brought up a perspective describing the learning challenges through the stages as being different from continuous learning - as in developing skills - and actually in fact something completelly different, as in being challenged to learn a whole new sport. We'll come back to that in further chapters but, for now, when I visualize what he's saying, I think of the evolutionary path of a butterfly.
 
 
 <!--
@@ -74,18 +60,84 @@ In other words, we can see our situation of growth using various lenses. For a v
 
 
 
+
+
+
+
+
+
 <!--
 @outline - World has changed 
 --> 
 
 
-The reason that we are here is because something has changed, more characteristically from the Industrial Revolution, and it's growing over the years. What has changed is giving us good and bad news but nevertheless it's a good reason for a reflection.
+But the main reason that we are here is because the entrepreneurial function has gained new characterizations in our modern environment from its original function. In our new setting, The concern that we carry on is that although the founder doing the startup believes is essentially being an entrepreneur, they may actually be quite busy by a characterization which appears to be getting things done. But nevertheless, in the face of an abundance of solutions, in the face of the richer ecosystem of entrepreneurship, in the face of the networked and digitally connected platforms for entrepreneurial action, find themselves characterizing their own getting things done movement that carries on the narratives of entrepreneurship, that carries on the narratives of the function of the startup, that carries on the narratives of the growth function, but nevertheless takes them into the movement that in relative terms to the general growth of the other startups doesn't produce impactful growth.
 
-Starting with the good news, this is our space. There is a space now for doing things because our world is bigger, our faster, therefore lots of solutions for doing it. All we have is interactive and iterative and we know that the many things there are there to help our ways. If to some extent they seem to be about the ways to work and get things done as part of general life, we know that, but it also grew bigger, given by tools and methods, and abundant and richer, in ways to support founders by the entrepreneurial ecosystem. It totally set new ways to start, or if you will to jump off that cliff - or into execution - by picking things in the air. In this bigger world, experienced managers, experienced founders, and others, like advisors, and whoever cares about them, and to some extent all founders, are acquainted with that idea. In other words, in essence, what they do involves being able to pick the things that matters, no matter if they are are found in a space of abundance, or if we are being bombarded, or teased, by so many patches or voices, but anyway essentially it is part of what we do to get involved, into the management of how to do it. So we know that things in this nature can't be evil. No, not evil. Frigthening perhaps, but not evil. Because we know it too, deep inside, that all these tools or methods or advices, you name it, actually does solve real problems. These are the building blocks, from a world that is ours. 
+Now, to consider our modern complications from the richer entrepreneurial setting, it is worth to compare the function from the industrial revolution days to the motion from the startup-based entrepreneurial function of the nowadays. If we set our time machine to November 10, 1876, we would witness emperor of Brazil, Dom Pedro II, turning on the massive steam engine at the inauguration of the centennial exhibition of the United States' independence in Pennsylvania, Philadelphia. This milestone symbolizes the onset of new era, when the people's clock became faster by likely their attention span shorter. That engine, the Corliss Centennial Engine, became the icon of the exhibition. Standing 14 meters tall and boasting a power of 1400 horse-power, it was responsible for powering the entire exhibition setup, which encompassed more than 200 buildings spread over 5 km in length. (Wikipedia, 2019)
 
-Now, to consider that to get into these affairs is part of the management of the entrepreneurial effort, we have to acknowledge that we know how to solve, and that we do so, and are able to separate signal from noise by essentially interacting with the environment. This is the very external environment which - we hope - offers the helping hand for the actual growth, and of course, but nevetheless gives us perspectives for how to get there. You may call it shock-absorbing perspectives, or supporting perspectives. Nevertheless, this is us acting in synergistic ways the environment which regulates. Basically, we seek perspective so not to be alone in a possible path leading to trouble without synchronicity with the outside; call it audiences, our customers, partners, or the market, or industry dynamics. Thus, comparatively, in relative terms, we move towards growth by actually interacting with external environment. Founders and managers, experienced or fresh, know that to a more or less extent. 
+<!--
+@meta @todo 
+* @todo - p2 ( ) - In Foreword - Check Dom Pedro II interaction with the engine, right words and circumstances. @meta-refid 1223-3444-3939-9393
+-->
 
-However, and specifically to the situation of founders, we must recognize that founders are lonely, or start in that lonely place. (We will get back to how experienced founders, or leaders, also find themselves in lonely places.) This idea that they start from a lonely place may have to do with the very fact that what is baking, some new or bold idea, does not smell familiar, not until they haven't figured out how to put it in a way that the world gets it. About a decade ago in *Founder Depression* (2014), Sam Altman who is now widely known as the CEO of OpenAI, had reflected about that place: 
+![Illustration of the Corliss Engine, public domain.](images/100/CentennialEngine.png)
+
+According to historian Maury Klein (2008), the exhibition showcased all the modern wonders of the mechanization of the industrial revolution: machines that prepared molds for printing machines, sewing machines, telegraph devices, locomotives, automatic saws, belt presses, winches, scales, excavators, drilling machines, giant sugarcane mills, cotton presses, stone-crushing machines, diamond drills, stone cutters, various tools, agricultural equipment, carriages, tile and brick-making machines, bookbinding machines, paper-making machines, cardboard, machines for making threads, cables, screws, car wheels, train wheels, and so much more. Machines. I know, it might seem too much to name 26 examples - that now seem antiquated - instead of focusing on big numbers, such as 200 buildings, or the 14 meters steam engine, or the 5 kilometers lenght of the exhibition, or the 10 million visitors, or the 7 days time which one would take to visit the whole exhibition. A bit antiquated for us but nevertheless amusing in size and impact, especially for the ones who experienced the exposition and had a chance to see revolutionary solutions in many sorts of fields as all of these things were new. 
+
+
+<!-- 
+@meta @Outline
+* Outline - introduction - Answer - Key one - .1 Creative Destruction, necessary but wait, it bundles 
+--> 
+
+
+These solutions, much of it materialized as mechanical solutions, were fruits of human work and collaboration which produced destruction to a given economic order, giving birth to new economic models. The situation in the United States, the north vs. south confrontation, went along in synchronicity characterizing a crisis of the older order and the setting of new order. Now, if we zoom in to look at the isolated entrepreneurial movement which produced growth, or a change from the normal, we may consider, for example, the flour mill design created by American inventor Oliver Evans around 1790: 
+
+![Evan's design for the automated flour mill](images/100/Oliver_Evans_-_Automated_mill.jpg)
+
+[^footnote_oliverevans_mill]: The illustration of Evans' automatic mill, which is in the public domain, was made by James Poupard and documented in the work titled "The Young Mill-Wright & Miller's Guide."
+
+Evans' automatic mill [^footnote_oliverevans_mill] was innovative as it eliminated numerous hours of human work and at the same time reduced the risk of contamination. As an example, we may consider the rise of the milling industry in the US which is linked to his design. According to Maury Klein, Oliver's design became the reference leading to the rise of US as the world's biggest flour industry. 
+
+<!--
+@meta @todo
+* @todo - p2 ( ) - In Foreword - Check Oliver Evans industry mill data from Maury Klein. @meta-refid 1234-4567-8787-4444
+-->
+
+Now, take aside the inventor's role, as one whicih may appear in the scene and not be involved as the industry develops, the entrepreneurial function can be consider as alive, by the multiple similar ideas and efforts that share the same designs of Oliver and supported the whole industry development. In terms of the economics dynamics with people's needs, from the widespread distribution of flour through the US and economic movement, we may highlight the higher quality of flour produced, more proper ability to stock accross seasons with less contamination, cheaper prices, as observable effects; this setting observation impacting the consumer angle of but course it goes with the movement the continous development of improved designs. This new order, as it sets in, also sets in the death of the some other order, and then this movement characterizes the process of Creative Destruction [^footnote_creativedestruction]. We have others that would come later, such as the revolution brought about by the advancement of electrical energy, telecommunications, and others yet to come.
+
+[^footnote_creativedestruction]: Creative Destruction is a concept proposed by economist Joseph Schumpeter that describes the transformative process accompanying radical innovation. According to Schumpeter, successful business innovations lead to the destruction of old economic arrangements and the creation of new ones. This can cause significant disruptions, but it is a necessary and vital force for long-term economic development.
+
+
+
+
+
+
+
+
+
+
+
+
+
+The reason that we look at this past and come back to our present is to establish two functions of the getting things done entrepreneurial movement. The first part the inventive process which changes the rules and that can be considered as the movement of Oliver Evans by being an inventor. And the second process which consists of the value capture execution movement which back in this revolution days in terms of the Oliver Evans design were pretty much executed by too many others copying his designs. 
+
+
+
+
+<!-- 
+@outline - question -
+--> 
+
+Fast forward to our days and considering the challenges that growth in the startup setting wants the the startup, and for the consirations of us, the founder too, to be involved in all the process; on one hand, and on the other hand the modern entrepreneurial movement given by the tools and methods of the richer ecosystem and the wider engagement of founders had set a new order, a new characterization, given by platforms and frameworks and methods of discovery where entrepreneurs are involved into a relative movement of discoveries. That although it's characterized by certain similarities with the entrepreneurial movement carries on new characteristics given by the methods and tools and platforms and networks where they are essentially involved in execution which may set them to the second part of the equation not getting involved in the inventive parts that redefines the environment. That of course in relative terms because with more startups involved in discovery it essentially becomes a performance movement. In other words entrepreneurial function reduces its inventive component increasing its execution even though the movement itself is characterized as entrepreneurial not to say business as usual disguised as entrepreneurial. Now, if these effects could be observed, we may too observe that the normal circumstances of the the entrepreneur living through these conditions it derives that they aren't into the actual growth situation, or living through the growth stages of Blitzscaling; in other words as in they don't pass a criteria. But then a question sets in, as part of our attempts to figure our intents and challenges, do the environment have any impact influencing them into that motion by thinking they doing entrepreneurs and not being? 
+
+
+
+
+
+
+
+To reflect on these possibilities we need to address characterizations of the entrepreneur's start, the implied aspirational intent for something new, and how they move by using the environment characterized by the wider and richer ecosystem. Specifically to the situation of founders, we must recognize that founders start from a lonely place. This idea was expressed a decade ago in *Founder Depression* (2014) by Sam Altman who is today widely known as the CEO of OpenAI: 
 
 > *"Founders end up with a lot of weight on their shoulders—their employees and their families, their customers, their investors, etc.  Founders usually feel a responsibility to make everyone happy, even though interests are often opposed. And it’s lonely in a way that’s difficult to explain, even with a cofounder (one of the things that works about organizations like Y Combinator is that you have a peer group you can lean on for support)."* (Altman, Sam., 2014)
 
@@ -106,7 +158,7 @@ There are other characterizations of that idea. One in particular, again given b
 * Quote - And, of course it turned out that the crazy little idea that we thought no one else would do, became the big idea. And I think there were a couple lessons there. Number one, all these really good ideas or big ideas often sound like stupid ideas. Somebody once told me in the early days, don't worry about anyone stealing your idea. If it's any good, everyone will dismiss it.
 -->
 
-Now, we shall then picture this lonely birthplace, or birth space, where we founders are into a flow of solutions - like tools and methods - immersed in a rich ecosystem. Now, beyond that, or on top of them, or on the side, or underneath, there are voices, and warmth. These are given by beings by this this environment(, which is now a network). Therefore, we have baby founders, trying to come out, by interacting or iterating with that, the outter world of practitioners, advisors, experts, and you name it; furthermore they see other founders doing the same. To be fair, these characterizations of the rich startup ecosystem, or a social space of incumation, gives us warmth and it's involving. This is so because they care, because they're not indifferent. In other words, we're not alone. When I look at the situation, I see them giving us superpowers, but I also see that no superpower is as powerful as being able to rise into the world not being alone.
+Now, as we picture this lonely birthplace, or birth space, we shall then consider a welcoming setting where they can exercise, or execute, their function. This is now a richer environment which can be thought of an incubation ecosystem. In other words, founders are more generally using the same methods given by the richer ecosystem characterized social interactions of supporting networks. Therefore, we may have baby founders, trying to come out, by interacting or iterating with an outter world of entities, like practitioners, advisors, experts, and you name it. Furthermore, they see other founders doing the same. in other words, and to be fair, these characterizations of the rich startup ecosystem, or a social space of incubation, gives us warmth and it's involving. This is so because they care, because they're not indifferent. In other words, we're not alone. When I look at the situation, I see that this rich incubation system give us superpowers, but I also see that no superpower is as powerful as being able to rise into the world by not being alone.
 
 But then again, more than the tools and methods and that welcoming space, I see something new, that they narratives are better, are evolving, or involving. Their stories are coherent to my ears. So then again, back to our challenges, it's still quite challenging because we are challenged to be aware by the day and by the hour, about our movements through this space, or through these networks. If I go back and remix Reid's scene, I see now a space and that same one who jumps off a cliff but now on her way down finds lots of things in the air like hammers and shovels and voices and hearts and claps and white boards and avocados, and other interesting that didn't exist back in the days of the Industrial Revolution. Like platforms. This different thing don't seem to be falling along. I see a carrier, fully equipped. I see a nice road, waiting for me, to land my start up ship, waiting for me to take off. But we know, there's a truth in there, and it's coherently given by so many of them platforms which are actually real. Comee one, they are really our ways to take off. So that's how the abundant world looks for founders which may be unfair to say that it's enchanting, or evil, but it is fair to consider that it's complex and can be confusing because we're going to feel embraced. By so many options, now with amazing narratives, with coherence, and actually in fact very good reasons for using for deciding.
 
