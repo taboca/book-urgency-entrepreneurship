@@ -53,26 +53,25 @@ This initial framing aligns with other considerations that reflects about the dy
 --> 
 
 
-In other words, the challenge for getting things done can be broken down from these growth perspectives, which give us the opportunity to see things from different levels of zoom. For a view from far, I like the one that Reid Hoffman carries in his pocket: A founder who jumps off a cliff and is trying to assemble an airplane on the way down [^footnote_reidhoffman_cliff]. But as an example, if I wanted to see through using the Blitzscaling lenses, specifically picking Brian's goggles, I can then see one who jumps off a cliff, assembles an airplane on the way down, and then if they do it well, they must learn how to fly, and if they go well they just have to figure out where to go. This brief analysis about challenges of growth establishes an initial viewpoint that the evolution of the founders is linked with the evolution of the startup, linked with the evolution of the business, and then the development of the business in civilization. That's a situation. But that's not the main reason that we are here.
+In other words, the challenge for getting things done can be broken down using perspectives, and some of them can give us different levels of zoom. To view from far, I like the one that Reid Hoffman carries in his pocket: A founder who jumps off a cliff and is trying to assemble an airplane on the way down [^footnote_reidhoffman_cliff]. But if I switch to Brian's goggles, I can then see one who jumps off a cliff, assembles an airplane on the way down, and then if they do it well, they must learn how to fly, and if they go well they have to figure out where to go. 
 
 [^footnote_reidhoffman_cliff]: Reid is known for characterizing the challenging situation of a founder who runs a startup, where essentially "you throw yourself off a cliff and you assemble an airplane on the way down" (Hoffman & Casnocha, 2013). 
-
-
-
-
-
-
-
 
 
 <!--
 @outline - World has changed 
 --> 
 
+This brief analysis gives us a general picture, or a window to consider the challenges for the evolution of the founders as linked with the evolution of the startup, linked with the evolution of the business, and naturally the implications of the business growth into our civilization. That is a situation, we know, and for some it may be a reason for an intervention, or a sort of slapt on the wrist. But that isn't the main reason why I am here. The reason that we are here is because of a debit which we may not be able to solve by usual channels. This debit is a situation that we put ourselves in, by the world that may have changed the nature of getting things done. This debit is given in the face of an abundance of solutions which support us, given by the richer ecosystem of entrepreneurship, in the face of the networked and digitally connected platforms. Let us consider what has changed in the world of entrepreneurs, how the situation became a complication, which will help us to see our binding agreement of this reflective journey. 
 
-But the main reason that we are here is because the entrepreneurial function has gained new characterizations in our modern environment from its original function. In our new setting, The concern that we carry on is that although the founder doing the startup believes is essentially being an entrepreneur, they may actually be quite busy by a characterization which appears to be getting things done. But nevertheless, in the face of an abundance of solutions, in the face of the richer ecosystem of entrepreneurship, in the face of the networked and digitally connected platforms for entrepreneurial action, find themselves characterizing their own getting things done movement that carries on the narratives of entrepreneurship, that carries on the narratives of the function of the startup, that carries on the narratives of the growth function, but nevertheless takes them into the movement that in relative terms to the general growth of the other startups doesn't produce impactful growth.
 
-Now, to consider our modern complications from the richer entrepreneurial setting, it is worth to compare the function from the industrial revolution days to the motion from the startup-based entrepreneurial function of the nowadays. If we set our time machine to November 10, 1876, we would witness emperor of Brazil, Dom Pedro II, turning on the massive steam engine at the inauguration of the centennial exhibition of the United States' independence in Pennsylvania, Philadelphia. This milestone symbolizes the onset of new era, when the people's clock became faster by likely their attention span shorter. That engine, the Corliss Centennial Engine, became the icon of the exhibition. Standing 14 meters tall and boasting a power of 1400 horse-power, it was responsible for powering the entire exhibition setup, which encompassed more than 200 buildings spread over 5 km in length. (Wikipedia, 2019)
+
+
+<!--
+@outline - before 
+--> 
+
+If we set our time machine to November 10, 1876, we would witness emperor of Brazil, Dom Pedro II, turning on the massive steam engine at the inauguration of the centennial exhibition of the United States' independence in Pennsylvania, Philadelphia. This milestone symbolizes the onset of new era, when the people's clock became faster by likely their attention span shorter. That engine, the Corliss Centennial Engine, became the icon of the exhibition. Standing 14 meters tall and boasting a power of 1400 horse-power, it was responsible for powering the entire exhibition setup, which encompassed more than 200 buildings spread over 5 km in length. (Wikipedia, 2019)
 
 <!--
 @meta @todo 
@@ -81,149 +80,53 @@ Now, to consider our modern complications from the richer entrepreneurial settin
 
 ![Illustration of the Corliss Engine, public domain.](images/100/CentennialEngine.png)
 
-According to historian Maury Klein (2008), the exhibition showcased all the modern wonders of the mechanization of the industrial revolution: machines that prepared molds for printing machines, sewing machines, telegraph devices, locomotives, automatic saws, belt presses, winches, scales, excavators, drilling machines, giant sugarcane mills, cotton presses, stone-crushing machines, diamond drills, stone cutters, various tools, agricultural equipment, carriages, tile and brick-making machines, bookbinding machines, paper-making machines, cardboard, machines for making threads, cables, screws, car wheels, train wheels, and so much more. Machines. I know, it might seem too much to name 26 examples - that now seem antiquated - instead of focusing on big numbers, such as 200 buildings, or the 14 meters steam engine, or the 5 kilometers lenght of the exhibition, or the 10 million visitors, or the 7 days time which one would take to visit the whole exhibition. A bit antiquated for us but nevertheless amusing in size and impact, especially for the ones who experienced the exposition and had a chance to see revolutionary solutions in many sorts of fields as all of these things were new. 
+According to historian Maury Klein (2008), the exhibition showcased all the modern wonders of the mechanization of the industrial revolution: machines that prepared molds for printing machines, sewing machines, telegraph devices, locomotives, automatic saws, belt presses, winches, scales, excavators, drilling machines, giant sugarcane mills, cotton presses, stone-crushing machines, diamond drills, stone cutters, various tools, agricultural equipment, carriages, tile and brick-making machines, bookbinding machines, paper-making machines, cardboard, machines for making threads, cables, screws, car wheels, train wheels, and so much more. Machines. I know, it might seem too much to name 26 examples - that now seem antiquated - instead of focusing on big numbers, such as 200 buildings, or the 14 meters steam engine, or the 5 kilometers lenght of the exhibition, or the 10 million visitors, or the 7 days time which one would take to visit the whole exhibition. A bit antiquated for us but nevertheless amusing in size and impact, especially for the ones who experienced the exposition and had a chance to see revolutionary solutions in many sorts of fields as all of these things were new. These solutions, much of it materialized as mechanical solutions, were fruits of human work and collaboration which produced destruction to a given economic order, giving birth to new economic models. The situation in the United States, the north vs. south confrontation, went along in synchronicity characterizing a crisis of the older order and the setting of new order. 
 
 
-<!-- 
-@meta @Outline
-* Outline - introduction - Answer - Key one - .1 Creative Destruction, necessary but wait, it bundles 
---> 
 
 
-These solutions, much of it materialized as mechanical solutions, were fruits of human work and collaboration which produced destruction to a given economic order, giving birth to new economic models. The situation in the United States, the north vs. south confrontation, went along in synchronicity characterizing a crisis of the older order and the setting of new order. Now, if we zoom in to look at the isolated entrepreneurial movement which produced growth, or a change from the normal, we may consider, for example, the flour mill design created by American inventor Oliver Evans around 1790: 
 
-![Evan's design for the automated flour mill](images/100/Oliver_Evans_-_Automated_mill.jpg)
 
-[^footnote_oliverevans_mill]: The illustration of Evans' automatic mill, which is in the public domain, was made by James Poupard and documented in the work titled "The Young Mill-Wright & Miller's Guide."
 
-Evans' automatic mill [^footnote_oliverevans_mill] was innovative as it eliminated numerous hours of human work and at the same time reduced the risk of contamination. As an example, we may consider the rise of the milling industry in the US which is linked to his design. According to Maury Klein, Oliver's design became the reference leading to the rise of US as the world's biggest flour industry. 
 
 <!--
 @meta @todo
-* @todo - p2 ( ) - In Foreword - Check Oliver Evans industry mill data from Maury Klein. @meta-refid 1234-4567-8787-4444
+* @todo - p2 ( ) - In Introduction - Check Oliver Evans industry mill data from Maury Klein. @meta-refid 1234-4567-8787-4444
 -->
 
-Now, take aside the inventor's role, as one whicih may appear in the scene and not be involved as the industry develops, the entrepreneurial function can be consider as alive, by the multiple similar ideas and efforts that share the same designs of Oliver and supported the whole industry development. In terms of the economics dynamics with people's needs, from the widespread distribution of flour through the US and economic movement, we may highlight the higher quality of flour produced, more proper ability to stock accross seasons with less contamination, cheaper prices, as observable effects; this setting observation impacting the consumer angle of but course it goes with the movement the continous development of improved designs. This new order, as it sets in, also sets in the death of the some other order, and then this movement characterizes the process of Creative Destruction [^footnote_creativedestruction]. We have others that would come later, such as the revolution brought about by the advancement of electrical energy, telecommunications, and others yet to come.
+Now, let us zoom in and look at an isolated entrepreneurial movement which had impacted the world; consider the flour mill design created by American inventor Oliver Evans around 1790. Evan's automatic mill was innovative and eliminated numerous hours in terms of human work, and at the same time reduced the risk of contamination. The design promoted the idea of the whole system to be operated by just one person. In terms of the economic dynamics affecting people's needs, we will consider the distribution of the higher quality flour to people, likely better ability to stock the product with quality and less contamination, likely cheaper prices. Those will be considerations for the consumers.
+
+![Oliver Evans' automatic mill, which is in the public domain, was made by James Poupard and documented in the work titled "The Young Mill-Wright & Miller's Guide."](images/100/Oliver_Evans_-_Automated_mill.jpg)
+
+
+
+
+On the side of the evolving industry, many implementors had used Evan's designs and had created their mills. This wasn't good news for Oliver and for good or bad he actually didn't see the whole industry that followed highly influenced by his design. In a way we can see Evans as one which were busy with the invention side. He had patents, as an example U.S. parent number 3 was granted to him, and wanted to be involved, but even back in the days that brought to him a hell. But from the view of the entrepreneurial function, the holistic movement of getting things done, his ideas flowed anyway, which supported the general growth movement for the whole industry, which had spinned the world, minimally the flour milling industry, into a high pressure or in faster ways, this setting a new order, which supported the death of the prior order [^footnote_manual_labor_enslaved_civil]. 
+
+This set us to consider the holistic view of this single invention, and the unfolded whole entrepreneurial function which followed, which in many ways supports the characterization of the process known as *Creative Destruction* [^footnote_creativedestruction]. I have simplified the process which Oliver didn't see, from his living days in the field anyway, as the world were slow. 
 
 [^footnote_creativedestruction]: Creative Destruction is a concept proposed by economist Joseph Schumpeter that describes the transformative process accompanying radical innovation. According to Schumpeter, successful business innovations lead to the destruction of old economic arrangements and the creation of new ones. This can cause significant disruptions, but it is a necessary and vital force for long-term economic development.
 
+[^footnote_manual_labor_enslaved_civil]: Oliver had lived from 1755 and 1819, and the United States declared independence in 1776 when Oliver were 21. "The Young Mill-Wright and Miller's Guide" came about in 1795, when he was 40, so he was set to promote it. These were pre-civil war days of increasing industrialization. 
 
 
 
 
 
 
-
-
-
-
-
-
-The reason that we look at this past and come back to our present is to establish two functions of the getting things done entrepreneurial movement. The first part the inventive process which changes the rules and that can be considered as the movement of Oliver Evans by being an inventor. And the second process which consists of the value capture execution movement which back in this revolution days in terms of the Oliver Evans design were pretty much executed by too many others copying his designs. 
-
-
-
-
-<!-- 
-@outline - question -
---> 
-
-Fast forward to our days and considering the challenges that growth in the startup setting wants the the startup, and for the consirations of us, the founder too, to be involved in all the process; on one hand, and on the other hand the modern entrepreneurial movement given by the tools and methods of the richer ecosystem and the wider engagement of founders had set a new order, a new characterization, given by platforms and frameworks and methods of discovery where entrepreneurs are involved into a relative movement of discoveries. That although it's characterized by certain similarities with the entrepreneurial movement carries on new characteristics given by the methods and tools and platforms and networks where they are essentially involved in execution which may set them to the second part of the equation not getting involved in the inventive parts that redefines the environment. That of course in relative terms because with more startups involved in discovery it essentially becomes a performance movement. In other words entrepreneurial function reduces its inventive component increasing its execution even though the movement itself is characterized as entrepreneurial not to say business as usual disguised as entrepreneurial. Now, if these effects could be observed, we may too observe that the normal circumstances of the the entrepreneur living through these conditions it derives that they aren't into the actual growth situation, or living through the growth stages of Blitzscaling; in other words as in they don't pass a criteria. But then a question sets in, as part of our attempts to figure our intents and challenges, do the environment have any impact influencing them into that motion by thinking they doing entrepreneurs and not being? 
-
-
-
-
-
-
-
-To reflect on these possibilities we need to address characterizations of the entrepreneur's start, the implied aspirational intent for something new, and how they move by using the environment characterized by the wider and richer ecosystem. Specifically to the situation of founders, we must recognize that founders start from a lonely place. This idea was expressed a decade ago in *Founder Depression* (2014) by Sam Altman who is today widely known as the CEO of OpenAI: 
-
-> *"Founders end up with a lot of weight on their shoulders—their employees and their families, their customers, their investors, etc.  Founders usually feel a responsibility to make everyone happy, even though interests are often opposed. And it’s lonely in a way that’s difficult to explain, even with a cofounder (one of the things that works about organizations like Y Combinator is that you have a peer group you can lean on for support)."* (Altman, Sam., 2014)
-
-<!--
-@meta @references 
-* reference - Altman, S. (2014, June 13). Founder depression. Sam Altman's Blog. https://blog.samaltman.com/founder-depression
--->
-
-There are other characterizations of that idea. One in particular, again given by Brian Chesk from that Blitzscaling lecture 18, tell us that "all these really good ideas or big ideas often sound like stupid ideas," and that we should not worry about anyone stealing our ideas because "if it's any good, everyone will dismiss it." Again, alone.  
-
-<!--
-@meta @reference 
-* @reference - Greylock. (2015, November 30). Blitzscaling 18: Brian Chesky on Launching Airbnb and the Challenges of Scale [Video]. YouTube. https://www.youtube.com/watch?v=W608u6sBFpo
---> 
-
-<!--
-@note 
-* Quote - And, of course it turned out that the crazy little idea that we thought no one else would do, became the big idea. And I think there were a couple lessons there. Number one, all these really good ideas or big ideas often sound like stupid ideas. Somebody once told me in the early days, don't worry about anyone stealing your idea. If it's any good, everyone will dismiss it.
--->
-
-Now, as we picture this lonely birthplace, or birth space, we shall then consider a welcoming setting where they can exercise, or execute, their function. This is now a richer environment which can be thought of an incubation ecosystem. In other words, founders are more generally using the same methods given by the richer ecosystem characterized social interactions of supporting networks. Therefore, we may have baby founders, trying to come out, by interacting or iterating with an outter world of entities, like practitioners, advisors, experts, and you name it. Furthermore, they see other founders doing the same. in other words, and to be fair, these characterizations of the rich startup ecosystem, or a social space of incubation, gives us warmth and it's involving. This is so because they care, because they're not indifferent. In other words, we're not alone. When I look at the situation, I see that this rich incubation system give us superpowers, but I also see that no superpower is as powerful as being able to rise into the world by not being alone.
-
-But then again, more than the tools and methods and that welcoming space, I see something new, that they narratives are better, are evolving, or involving. Their stories are coherent to my ears. So then again, back to our challenges, it's still quite challenging because we are challenged to be aware by the day and by the hour, about our movements through this space, or through these networks. If I go back and remix Reid's scene, I see now a space and that same one who jumps off a cliff but now on her way down finds lots of things in the air like hammers and shovels and voices and hearts and claps and white boards and avocados, and other interesting that didn't exist back in the days of the Industrial Revolution. Like platforms. This different thing don't seem to be falling along. I see a carrier, fully equipped. I see a nice road, waiting for me, to land my start up ship, waiting for me to take off. But we know, there's a truth in there, and it's coherently given by so many of them platforms which are actually real. Comee one, they are really our ways to take off. So that's how the abundant world looks for founders which may be unfair to say that it's enchanting, or evil, but it is fair to consider that it's complex and can be confusing because we're going to feel embraced. By so many options, now with amazing narratives, with coherence, and actually in fact very good reasons for using for deciding.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### Can the environment influence?
 
 
 
 
 <!--
-* @outline - Complication - The getting things done implies in specialized movement first, and it feels great. And that sets the complication of change, as comparative analysis. Although ambitions for entrepreneurial action is widespread, the outcomes as in to innovate, are driven by execution first; tied to the environment. Which seems not in alignment with entrepreneurial action which refuses the environment. Corporations, specialists, expenddable, Guacamole, means lower investment in training. But effects of new training are coming in other ways, through methods that does the job of the learning. We are not required to evolve ourselves.  
--->
-
-
-
-
-
-
-
-
-
-
-<!-- 
-@meta @Outline
-* @outline - complication - Learning for innovcation into the machine.  #BAU
+@outline - question 
 --> 
 
 
+Now, and fast forward to our days, or back to the future of our entrepreneurial challenges, and the given growth challenges, there is a clear distinction given that things happens faster and we are being call to get involved with the whole holistic function. Thus, to conider the getting things done not only the inventive parts but too the parts where we get involved with the means to innovate in the market. That growth, through all these stages, goes along with the shorter timeframe where potential for impact is present. 
 
-Now, by this brief observation of the abundance we can surely be very busy in a world which invites us to do it by getting things done, first. Nevertheless, this world of execution - yet unfair to call it a land of confusion - is known as one where management of the entrepreneurial consists of evaluating these movements, by internal or external interactions, against achieving the goals. This is why, and again, we should be thankful for our intrinsic human trait, our ability to learn. But more than that, to celebrate that learning how to learn is actually what sets in as a challenge. And which can be the actual escape hat from the potential traps of us falling into that inducement movement in a space that may at times seem to be to not bring about an actual ground approaching us. It may be unfair to say that that fall can sometimes look like an infinite space where we can warp. But certainly there are some observable elements that we can take our focus away and burn too many resources into that movement. And moreover, to impact the well-being of ourselves in ways that can cause an inability to reconciliate the growth of all the entities we have considered.
-
-In this context, learning, we consider how the world of work, or the corporate world, has improved, and is evolving in terms of ways where learning is carried over by the machine. Considering the spending in training in comparison with other execution investments. In the 2018, in a summit entitled *The Future of Talent - Transcending Work*, (Global Silicon Valley, 2018) Rob Biederman, the then CEO of Catalant Technologies, highlighted an intriguing aspect of corporate spending priorities, pointing that a large company which likely the audience were shareholders, allocates less budget per employee on training than his own startup spends on avocados. That view can certainly show part of the problem, although we cannot infer that learning equals to training since the the other, the side of execution, isn't about an execution that doesn't care about innovation or doesn't care about learning. That is not the case, the world has revolved there too. As an example, we should consider the many processes and that businesses are essentially using to innovate, certainly pushed by many factors such as the competitive forces which in more richer ways innovates with higher dynamics with users or customers, minimally. Along with that, we can clearly observe the many methods, positioned as building blocks to solve aspirational goals and innovate, to set the context we can think of the reach of methods like design thinking or lean methods into the corporate world [^footnote_lean_corporate]. In other words, our businesses welcome innovation, they want to innovate, while they do so by creating a normal work routine which certainly carry ties with the control organization that is in need to organize and attempt to execute all of that as normal work. It may be unfair to say that corporations are trying to innovate by doing business as usual, or to think that the creative brain of corporations are somewhat controlled, not to say mechanized or automated. On the other hand, if it were possible, corporations would seriously consider to automate it. If that is a problem, or not, for some organizations, we might take that aside for now and come back to how this circles back to us.
-
-<!-- 
-@meta @references 
-* reference - Global Silicon Valley. (2018, April 28). ASU GSV Summit: Main Stage Panel: The Future of Talent -- Transcending Work [Video]. YouTube. https://www.youtube.com/watch?v=GFKgJ4wkxQU&t=345s
---> 
-
-
-[^footnote_lean_corporate]: Both Steve Blank and Eric Ries, founders or fathers of the Lean Startup Movement, have accepted or embraced, in part, the challenge of or the requests of the corporate world that also wanted to innovate likely in the face of being out-competed by users themselves (by their startups.) An example, we may observe the demand for *The Start-up Way* (for corporations) from the *The Lean Start-up*. 
-
-
-
-
-
-
-
-
-
-
+Now, here's where things start to get more complicated for us because the abundance of solutions, as in building blocks, are not only applicable as tools for one part, like the inventive or the inventor's moment. In fact, these building blocks are a given and support us throughout the whole process. In other words, and we are too celebrating the good news, we have tools for trying to come up with the idea, tools for validating what we do with the environment, tools for deciding, tools for growing, for all the stages. And we know too that all these things comes with good intentions. To point an intent, the Blitzscaling movement does not ask us to be the first to grow, to conquer, it asks us to be the one who lasts. Yet, and going back to the debit, all these tools can be used, or misused; and we can be busy, and miss the view of purpose. 
 
 
 <!--
@@ -243,9 +146,7 @@ Exactly because the very methods of innovating by using methods are both applica
 
 
 
-
-
-
+So here I set a potential question, I wonder, if our  environment, how giving us building blocks for decisions through all the stages, could cause an impact influencing our movement in terms of what we do, how we do, and even why we do. Or could our environment take our attention in ways that we get to be overly busy dealing with these building blocks to the e point of distracting from what we're actually doing?
 
 
 
@@ -261,6 +162,12 @@ Maslow thinking is not only a worth reflection but actually has here for us to s
 
 
 
+
+
+
+
+
+### We have the data 
 
 
 <!-- 
@@ -312,17 +219,6 @@ If an objection din't cross your mind, I'll throw the stone and say to "hold you
 --> 
 
 
-
-
-
-
-
-
-
-
-
-
-
 <!-- 
 @meta @outline
 * @meta@outline outline - @keyword - #tools 
@@ -349,6 +245,61 @@ Peter Drucker were preparing us to creating consciousness in the face of an actu
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+### We can learn 
+
+<!--
+* @outline - Complication - The getting things done implies in specialized movement first, and it feels great. And that sets the complication of change, as comparative analysis. Although ambitions for entrepreneurial action is widespread, the outcomes as in to innovate, are driven by execution first; tied to the environment. Which seems not in alignment with entrepreneurial action which refuses the environment. Corporations, specialists, expenddable, Guacamole, means lower investment in training. But effects of new training are coming in other ways, through methods that does the job of the learning. We are not required to evolve ourselves.  
+-->
+
+<!-- 
+@meta @Outline
+* @outline - complication - Learning for innovcation into the machine.  #BAU
+--> 
+
+
+
+Now, by this brief observation of the abundance we can surely be very busy in a world which invites us to do it by getting things done, first. Nevertheless, this world of execution - yet unfair to call it a land of confusion - is known as one where management of the entrepreneurial consists of evaluating these movements, by internal or external interactions, against achieving the goals. This is why, and again, we should be thankful for our intrinsic human trait, our ability to learn. But more than that, to celebrate that learning how to learn is actually what sets in as a challenge. And which can be the actual escape hat from the potential traps of us falling into that inducement movement in a space that may at times seem to be to not bring about an actual ground approaching us. It may be unfair to say that that fall can sometimes look like an infinite space where we can warp. But certainly there are some observable elements that we can take our focus away and burn too many resources into that movement. And moreover, to impact the well-being of ourselves in ways that can cause an inability to reconciliate the growth of all the entities we have considered.
+
+In this context, learning, we consider how the world of work, or the corporate world, has improved, and is evolving in terms of ways where learning is carried over by the machine. Considering the spending in training in comparison with other execution investments. In the 2018, in a summit entitled *The Future of Talent - Transcending Work*, (Global Silicon Valley, 2018) Rob Biederman, the then CEO of Catalant Technologies, highlighted an intriguing aspect of corporate spending priorities, pointing that a large company which likely the audience were shareholders, allocates less budget per employee on training than his own startup spends on avocados. That view can certainly show part of the problem, although we cannot infer that learning equals to training since the the other, the side of execution, isn't about an execution that doesn't care about innovation or doesn't care about learning. That is not the case, the world has revolved there too. As an example, we should consider the many processes and that businesses are essentially using to innovate, certainly pushed by many factors such as the competitive forces which in more richer ways innovates with higher dynamics with users or customers, minimally. Along with that, we can clearly observe the many methods, positioned as building blocks to solve aspirational goals and innovate, to set the context we can think of the reach of methods like design thinking or lean methods into the corporate world [^footnote_lean_corporate]. In other words, our businesses welcome innovation, they want to innovate, while they do so by creating a normal work routine which certainly carry ties with the control organization that is in need to organize and attempt to execute all of that as normal work. It may be unfair to say that corporations are trying to innovate by doing business as usual, or to think that the creative brain of corporations are somewhat controlled, not to say mechanized or automated. On the other hand, if it were possible, corporations would seriously consider to automate it. If that is a problem, or not, for some organizations, we might take that aside for now and come back to how this circles back to us.
+
+<!-- 
+@meta @references 
+* reference - Global Silicon Valley. (2018, April 28). ASU GSV Summit: Main Stage Panel: The Future of Talent -- Transcending Work [Video]. YouTube. https://www.youtube.com/watch?v=GFKgJ4wkxQU&t=345s
+--> 
+
+
+[^footnote_lean_corporate]: Both Steve Blank and Eric Ries, founders or fathers of the Lean Startup Movement, have accepted or embraced, in part, the challenge of or the requests of the corporate world that also wanted to innovate likely in the face of being out-competed by users themselves (by their startups.) An example, we may observe the demand for *The Start-up Way* (for corporations) from the *The Lean Start-up*. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### We can decide 
+
 <!-- 
 @meta @Outline
 * outline - introduction, answer 3 - Comes decision making, lean induction, generalist-specialist [feat. Steve Blank]
@@ -359,6 +310,43 @@ Peter Drucker were preparing us to creating consciousness in the face of an actu
 Now that the grown-up world is interconnected with the young (and hopeful inventive world) we know, so let us go back to our situation and wonder if that data and knowledge and information and tools are essentially in fact entering the space of entrepreneurs and their startup situations. And moreover, more than that and beyond the benefits of that which are widely addressed by now, to wonder if decision-making is actually induced by methods and the implications of using them. In this context, we may being again the father of the lean movement, and some observations from Steve Blank, one in particular which he addressed as a fundamental issue with startups since 2014. His vision, which connects with fundamental motivations to the whole movement, was that entrepreneurs think that their startups are smaller versions of large companies. Since then, Steve kept alert, and conscious, about that problem of a phenomenon. He kept on, reminding them, that startups are not smaller versions of large companies. He kept reminding them that they essentially are in the discovery phase. Discovery phase, that is one take away and it's clear from the beginnings. By now, a decade later, the lean movement have matured and is widely used by founders, and teams and startups, and also by corporations trying to innovate. We have a great deal of conversations, and reflections, about the potential uses and misuses of these methods. And certainly interesting considerations of the phenomenon from widespread use and the potentiality of the controller who - perhaps by the urge to get things done - enters the space of using this methods in ways aligned with the considerations from Andy Grove - of people arguing with data - and the reflections from Jeff Bezos' concern about people using data to please, which we may too consider the extremme of lying with data, although without intent. In fact, within the realm of lean, this is observable and discussed by these fathers of lean, such as the extreme which can be see as founders talking about using lean but not using, as in procrastinating with lean, or being enamorated with the process, and there are other ways to see that, but in general shows the pattern of founders involved in missing the view of purpose [^footnote_ericries_purpose].
 
 [^footnote_ericries_purpose]: Eric Ries, the renowned author of *The Lean Start-Up* and *The Start-up Way* carries his concern with the situation when the view of purpose is lost even in organizations that can use the lean methods professionally. 
+
+
+
+
+
+
+
+### And we are not alone 
+
+
+
+
+To reflect on these possibilities we need to address characterizations of the entrepreneur's start, the implied aspirational intent for something new, and how they move by using the environment characterized by the wider and richer ecosystem. Specifically to the situation of founders, we must recognize that founders start from a lonely place. This idea was expressed a decade ago in *Founder Depression* (2014) by Sam Altman who is today widely known as the CEO of OpenAI: 
+
+> *"Founders end up with a lot of weight on their shoulders—their employees and their families, their customers, their investors, etc.  Founders usually feel a responsibility to make everyone happy, even though interests are often opposed. And it’s lonely in a way that’s difficult to explain, even with a cofounder (one of the things that works about organizations like Y Combinator is that you have a peer group you can lean on for support)."* (Altman, Sam., 2014)
+
+<!--
+@meta @references 
+* reference - Altman, S. (2014, June 13). Founder depression. Sam Altman's Blog. https://blog.samaltman.com/founder-depression
+-->
+
+There are other characterizations of that idea. One in particular, again given by Brian Chesk from that Blitzscaling lecture 18, tell us that "all these really good ideas or big ideas often sound like stupid ideas," and that we should not worry about anyone stealing our ideas because "if it's any good, everyone will dismiss it." Again, alone.  
+
+<!--
+@meta @reference 
+* @reference - Greylock. (2015, November 30). Blitzscaling 18: Brian Chesky on Launching Airbnb and the Challenges of Scale [Video]. YouTube. https://www.youtube.com/watch?v=W608u6sBFpo
+--> 
+
+<!--
+@note 
+* Quote - And, of course it turned out that the crazy little idea that we thought no one else would do, became the big idea. And I think there were a couple lessons there. Number one, all these really good ideas or big ideas often sound like stupid ideas. Somebody once told me in the early days, don't worry about anyone stealing your idea. If it's any good, everyone will dismiss it.
+-->
+
+Now, as we picture this lonely birthplace, or birth space, we shall then consider a welcoming setting where they can exercise, or execute, their function. This is now a richer environment which can be thought of an incubation ecosystem. In other words, founders are more generally using the same methods given by the richer ecosystem characterized social interactions of supporting networks. Therefore, we may have baby founders, trying to come out, by interacting or iterating with an outter world of entities, like practitioners, advisors, experts, and you name it. Furthermore, they see other founders doing the same. in other words, and to be fair, these characterizations of the rich startup ecosystem, or a social space of incubation, gives us warmth and it's involving. This is so because they care, because they're not indifferent. In other words, we're not alone. When I look at the situation, I see that this rich incubation system give us superpowers, but I also see that no superpower is as powerful as being able to rise into the world by not being alone.
+
+But then again, more than the tools and methods and that welcoming space, I see something new, that they narratives are better, are evolving, or involving. Their stories are coherent to my ears. So then again, back to our challenges, it's still quite challenging because we are challenged to be aware by the day and by the hour, about our movements through this space, or through these networks. If I go back and remix Reid's scene, I see now a space and that same one who jumps off a cliff but now on her way down finds lots of things in the air like hammers and shovels and voices and hearts and claps and white boards and avocados, and other interesting that didn't exist back in the days of the Industrial Revolution. Like platforms. This different thing don't seem to be falling along. I see a carrier, fully equipped. I see a nice road, waiting for me, to land my start up ship, waiting for me to take off. But we know, there's a truth in there, and it's coherently given by so many of them platforms which are actually real. Comee one, they are really our ways to take off. So that's how the abundant world looks for founders which may be unfair to say that it's enchanting, or evil, but it is fair to consider that it's complex and can be confusing because we're going to feel embraced. By so many options, now with amazing narratives, with coherence, and actually in fact very good reasons for using for deciding.
+
 
 
 
@@ -379,8 +367,7 @@ Now that the grown-up world is interconnected with the young (and hopeful invent
 
 
 
-#### Where we are going we don't need roads 
-
+### Where we are going we don't need roads 
 
 
 

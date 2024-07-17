@@ -1,7 +1,6 @@
 # Todo p1s # 
 
-* @todo - p2 ( ) - In Foreword - Check Oliver Evans industry mill data from Maury Klein. @meta-refid 1234-4567-8787-4444
-
+* @todo - p2 ( ) - In Introduction - Check Oliver Evans industry mill data from Maury Klein. @meta-refid 1234-4567-8787-4444
 
 * @todo - p2 ( ) - In Foreword - Check Dom Pedro II interaction with the engine, right words and circumstances. @meta-refid 1223-3444-3939-9393
 
