@@ -1,6 +1,20 @@
+## -----------------------------------------------------------
+## Letter to Clauber Halic - #friends #mozilla @meta-refid 7373-9393-9494-9434
+
+* Ref - https://mail.google.com/mail/u/0/#sent/QgrcJHsbjqjwcNkhNNMndDNNNrdvrHsLVnq
+
+```
+questão da start-up. Vou colocar aqui um trecho do livro, em breve. E
+de repente, se tiver tempo e chegar em algumas considerações, eu
+agradeço muito.
+
+[]s
+
+Taboca
+```
 
 ## ----------------------------------------------------------
-## Letter to Michael Michael Inouye A16z, at the time Greylock
+## Letter to Michael Michael Inouye A16z, at the time Greylock @meta-refid 9239-8383-9393-9494
 
 * Ref linkedin 
 ```
@@ -30,9 +44,10 @@ Otherwise I would love to ping you when it's out or a major movement of support 
 ## ---------------------------------------------------------
 ## Letter to Fabricio Zuardi - @meta-refid 0222-3333-9333-3344
 
-* Status: Accepted 
+* Status: [x] Accepted 
+* Status: [x] Send, beginning of foreword.  
 * Chapter: Section Success under Accounting; Reason: Fabricio has once wondered about the meaning of success. 
-* E-mail: https://mail.google.com/mail/u/0/#sent/QgrcJHsTgtGfbgtCXkLLDrGGftzrZTRKmNG  
+* E-mail: https://mail.google.com/mail/u/0/#sent/QgrcJHsTgtGfbgtCXkLLDrGGftzrZTRKmNG 
 
 ## -------------------------------------------------------
 ## Letter to Roger Soares - @meta-refid 4093-0909-4344-4343
