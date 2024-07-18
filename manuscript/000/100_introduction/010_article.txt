@@ -24,8 +24,7 @@ This is a book about getting things done [^footnote_schumpeter_getting_things_do
 --> 
 
 
-If I had received that quote in a hand-written letter and nothing more I would need to deal with its essential requirement, and feeling the implied discomfort which sets in, to focus on the point that "the only essential thing is growth." And when writing back to Paul, I would start wondering: Are you saying that the startup, that grows, grows in our world, or in the environment? As in, in ways producing an impact? There are many other business doing business and producing things in the world, they seem to be growing, or accelerating. But I think that you are telling me that I should figure out, or that my startup should figure, how to grow in different way, or more intense way, than these others. I think that when you use the word fast, you're probably saying that. This seems to be so because of that relative movement, because everyone is generally focused on performance, doing what they do in better ways. So you want mine to be outstanding, to raise from the norm. I feel the discomfort because I feel that to do the different I need to also think in different ways. 
-
+If I had received that quote in a hand-written letter and nothing more I would need to deal with its essential requirement, and feeling the implied discomfort which sets in, to focus on the point that "the only essential thing is growth." And when writing back to Paul, I would start wondering: Are you saying that the startup, that grows, grows in our world, or in the environment? As in, in ways producing an impact? There are many other business doing business and producing things in the world, they seem to be growing, or accelerating. But I think that you are telling me that I should figure out, or that my startup should figure, how to grow in different way, or more intense way, than these others. I think that this is what you mean when you use the word fast, because everyone else is generally focusing on performance, so you want mine to be outstanding, to raise from the norm, and that makes me feel uncomfortable because it prompts me to think in different ways.
 
 <!--
 @references 
@@ -48,21 +47,18 @@ This initial framing aligns with other considerations that reflects about the dy
 
 
 
-<!-- 
-@outline - Complicated situation - Abundant world, interactions, confusion. Intro to mechanized founder. 
---> 
 
 
-In other words, the challenge for getting things done can be broken down using perspectives, and some of them can give us different levels of zoom. To view from far, I like the one that Reid Hoffman carries in his pocket: A founder who jumps off a cliff and is trying to assemble an airplane on the way down [^footnote_reidhoffman_cliff]. But if I switch to Brian's goggles, I can then see one who jumps off a cliff, assembles an airplane on the way down, and then if they do it well, they must learn how to fly, and if they go well they have to figure out where to go. 
 
-[^footnote_reidhoffman_cliff]: Reid is known for characterizing the challenging situation of a founder who runs a startup, where essentially "you throw yourself off a cliff and you assemble an airplane on the way down" (Hoffman & Casnocha, 2013). 
 
 
 <!--
 @outline - World has changed 
 --> 
 
-This brief analysis gives us a general picture, or a window to consider the challenges for the evolution of the founders as linked with the evolution of the startup, linked with the evolution of the business, and naturally the implications of the business growth into our civilization. That is a situation, we know, and for some it may be a reason for an intervention, or a sort of slapt on the wrist. But that isn't the main reason why I am here. The reason that we are here is because of a debit which we may not be able to solve by usual channels. This debit is a situation that we put ourselves in, by the world that may have changed the nature of getting things done. This debit is given in the face of an abundance of solutions which support us, given by the richer ecosystem of entrepreneurship, in the face of the networked and digitally connected platforms - if I had to put our situation in a nutshell. 
+That is quite a challenging situation, we know. For some of us, can be a reason for an intervention, or a sort of slapt on the wrist. This is so because this brief picture invite us to see through a window, to consider that the evolution of the startup is tied to the evolution of the founder, and the team. That all is connected and growth happens in synchronicity. 
+
+But that isn't the main reason why I am here. The reason that we are here is because of a debit which we may not be able to solve by usual channels. This debit is a situation that we put ourselves in, by the world that may have changed the nature of getting things done. This debit is given in the face of an abundance of solutions which support us, given by the richer ecosystem of entrepreneurship, in the face of the networked and digitally connected platforms - if I had to put our situation in a nutshell. 
 
 Let us consider what has changed in the world of entrepreneurs, how the situation became a complication, which will help us to see our binding agreement of this reflective journey. 
 
@@ -106,11 +102,15 @@ Now, let us zoom in and look at an isolated entrepreneurial movement which had i
 
 On the side of the evolving industry, many implementors had used Evan's designs and had created their mills. This wasn't good news for Oliver so for good or bad he actually didn't see the whole industry that followed influenced by his designs. In a way we can see Evans as one busy with the invention side. He had patents, as an example U.S. patent number 3 was granted to him, and he wanted to be involved although back in the days patent battles were already a hell. But from the view of the entrepreneurial function, from the holistic movement of getting things done, his ideas flourished. It supported the general growth movement for the whole flour milling industry. Evans spinned the world, minimally the flour milling world, in high-pressure ways. His work set a new order which supported the death of an existing order [^footnote_manual_labor_enslaved_civil]. 
 
-This set us to consider the holistic view, and to split ideas and invention from the materialization from the movements in the market which are followed and characterize the entrepreneurial function of getting things done. All of that supports the process known as *Creative Destruction* [^footnote_creativedestruction]. I have simplified the process for us to see although Oliver didn't see through living days in the field, as the world were slow. 
+From a holistic view, considering ideas and inventions, and materialization, and the movements towards the market which followed, we can see a characterization of a getting things done function which changed the world. Although Oliver Evans didn't see the world spinning in front of his eyes, how his involvement with the entrepreneurial function had supported the process known as *Creative Destruction* [^footnote_creativedestruction]. He had, though, used this imagination and work, as history shows, gave to the world his designs and materializations. 
 
 [^footnote_creativedestruction]: Creative Destruction is a concept proposed by economist Joseph Schumpeter that describes the transformative process accompanying radical innovation. According to Schumpeter, successful business innovations lead to the destruction of old economic arrangements and the creation of new ones. This can cause significant disruptions, but it is a necessary and vital force for long-term economic development.
 
 [^footnote_manual_labor_enslaved_civil]: Oliver had lived from 1755 and 1819, and the United States declared independence in 1776 when Oliver were 21. "The Young Mill-Wright and Miller's Guide" came about in 1795, when he was 40, so he was set to promote it. These were pre-civil war days of increasing industrialization. 
+
+[^footnote_reidhoffman_cliff]: Reid is known for characterizing the challenging situation of a founder who runs a startup, where essentially "you throw yourself off a cliff and you assemble an airplane on the way down" (Hoffman & Casnocha, 2013). 
+
+
 
 
 
@@ -127,7 +127,7 @@ This set us to consider the holistic view, and to split ideas and invention from
 --> 
 
 
-Now, and fast forward to our days, or back to the future of our entrepreneurial challenges, and the given growth challenges, there is a clear distinction given that things happens faster and we are being call to get involved with the whole holistic function. Thus, to conider the getting things done not only the inventive parts but too the parts where we get involved with the means to innovate in the market. That growth, through all these stages, goes along with the shorter timeframe where potential for impact is present. 
+Fast forward and back to the future, into these startup days, and considering the growth lenses from Paul Graham and the Blitzscaling crew, different than Evans we are being called to get involved with the whole holistic function. From far, I like to see through Reid Hoffman's wide view - the challenge is about the one who jumps off a cliff and is tries to assemble an airplane on the way down [^footnote_reidhoffman_cliff]. Switching to Brian's (butterfly) goggles, I see the one who jumps off a cliff, assembles an airplane on the way down, and if she does it, she must learn how to fly, and if she does it, to figure out where to go. In other words, we are more involved, like in a movie, not a book, quite challenging to see through. 
 
 Now, here's where things start to get more complicated for us because the abundance of solutions, as in building blocks, are not only applicable as tools for one part, like the inventive or the inventor's moment. In fact, these building blocks are a given and support us throughout the whole process. In other words, and we are too celebrating the good news, we have tools for trying to come up with the idea, tools for validating what we do with the environment, tools for deciding, tools for growing, for all the stages. And we know too that all these things comes with good intentions. To point an intent, the Blitzscaling movement does not ask us to be the first to grow, to conquer, it asks us to be the one who lasts. Yet, and going back to the debit, all these tools can be used, or misused; and we can be busy, and miss the view of purpose. 
 
