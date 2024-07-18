@@ -132,6 +132,13 @@ Fast forward and back to the future, into these startup days, and considering th
 Now, here's where things start to get more complicated for us because the abundance of solutions, as in building blocks, are not only applicable as tools for one part, like the inventive or the inventor's moment. In fact, these building blocks are a given and support us throughout the whole process. In other words, and we are too celebrating the good news, we have tools for trying to come up with the idea, tools for validating what we do with the environment, tools for deciding, tools for growing, for all the stages. And we know too that all these things comes with good intentions. To point an intent, the Blitzscaling movement does not ask us to be the first to grow, to conquer, it asks us to be the one who lasts. Yet, and going back to the debit, all these tools can be used, or misused; and we can be busy, and miss the view of purpose. 
 
 
+
+
+
+
+
+
+
 <!--
 @outline - Question
 --> 
@@ -146,19 +153,9 @@ Exactly because the very methods of innovating by using methods are both applica
 * reference - Maslow, A. H. (2011). Toward the Psychology of Being. Martino Publishing.
 --> 
 
+Maslow's consideration, potential worries from early 1960s, can be a prompt. It prompts us to wonder how our rich world solutions define us and define entrepreneurship, as in, indeed, perhaps sophisticated forms. We may wonder, if our rich environment which gives us so many building blocks through all the stages, can cause an influence to our movement, in terms of what we do, how we do, and even why we do. Or, could this new environment take our attention away in ways that we get to be overly busy dealing with the building blocks to a point of distracting from what matters? This point of view is not only a worth reflection but actually it is a characterization to our journey in this book. In other words, we are here to reflect about the well-being of the founder - tied to the well-being of the startup tied to the well-being of the business in the future - and to be thoughtful about our behaviors and our growth and defensive movements given the dynamics of our rich environment.
 
 
-
-So here I set a potential question, I wonder, if our  environment, how giving us building blocks for decisions through all the stages, could cause an impact influencing our movement in terms of what we do, how we do, and even why we do. Or could our environment take our attention in ways that we get to be overly busy dealing with these building blocks to the e point of distracting from what we're actually doing?
-
-
-
-<!--
-@meta-todo
-* @todo - p1 ( ) - In Foreword vs. Introduction - Reconcile the point of abundance from capitalism with the confusion of information. Check foreword_world check "Therefore, we are in a paradoxal situation. Because despite the turbulence and potential confusion, we have so much more information and tools of unquestionable quality in front of us, more accessible and cheaper. This should be a factor that promotes an optimistic view, for better chances. And if you dig, it is quite rational as we must agree that we now have much more data, more stories, more references, more tools, more means of interaction, more for growth, and even more. In this regard, we should consider the optimistic view from A16Z, the renowned top-tier venture capital firm from Silicon Valley, for where we are going: > "We believe the measure of abundance is falling prices. Every time a price falls, the universe of people who buy it get a raise in buying power, which is the same as a raise in income. If a lot of goods and services drop in price, the result is an upward explosion of buying power, real income, and quality of life." > (Andreessen, 2023)" @meta-refid 1222-3334-8884-9999
--->
-
-Maslow thinking is not only a worth reflection but actually has here for us to support the characterization of this book. In other words, we are here to reflect about the psychology of the founder, or toward the psychology of the entrepreneur, such as to be thougtful about in which ways our beings get to grow or become defensive by the dynamics of this environment; and along to reflect about the consequences in terms of the well-being of our organizations with we know have direct implications in the well-being of our whole civilization. Maslow's consideration, these potential worries from early 1960s, is a prompt. It prompts us, to wonder, how this rich world solutions define us and define entrepreneurship, in, indeed, perhaps sophisticated forms. 
 
 
 
@@ -180,7 +177,6 @@ Maslow thinking is not only a worth reflection but actually has here for us to s
 
 
 
-Now, and since the prompt is from 1960, if I thought of myself as being a sort of AI robot, or tool, to give the answer, I would seem reasonable to hear what experienced or renowned leaders in management had considered about the corporate world transformations in the face of decisions tied with a richer system of information, or data, or tools, or methods. 
 
 Let us start with data. The former CEO of Intel, Angy Grove, in *Arguing with Data*, warned [^footnote_andygrove_fastdata] readers that large companies are indoctrinated by contemporary management, suggesting that people entered into a thiking where they should argue their debates with data right in hand. In alignment with Andy's observations and reflections, Jeff Bezos, the CEO of Amazon, is known for his concern helping management in general to be aware and conscious that people lie with data and that they don't do so because of necessary evil of intention, but in part to please audiences [^footnote_jeff_lie_data], which may be inferred and it's clearly observed that it's part of a phenomenon where we're essentially being both controllers or controlled by the very presence of data.
 
@@ -470,3 +466,8 @@ Going back to what this book is about, and to characterize our covenant in the f
 -->
 
 
+
+<!--
+@meta-todo
+* @todo - p1 (Kept in foreword) - In Foreword vs. Introduction - Reconcile the point of abundance from capitalism with the confusion of information. Check foreword_world check "Therefore, we are in a paradoxal situation. Because despite the turbulence and potential confusion, we have so much more information and tools of unquestionable quality in front of us, more accessible and cheaper. This should be a factor that promotes an optimistic view, for better chances. And if you dig, it is quite rational as we must agree that we now have much more data, more stories, more references, more tools, more means of interaction, more for growth, and even more. In this regard, we should consider the optimistic view from A16Z, the renowned top-tier venture capital firm from Silicon Valley, for where we are going: > "We believe the measure of abundance is falling prices. Every time a price falls, the universe of people who buy it get a raise in buying power, which is the same as a raise in income. If a lot of goods and services drop in price, the result is an upward explosion of buying power, real income, and quality of life." > (Andreessen, 2023)" @meta-refid 1222-3334-8884-9999
+-->
