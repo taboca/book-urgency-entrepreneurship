@@ -38,7 +38,7 @@ Now, you may ask, why we are here? You and I. Why are you and I am here? For now
 @style - The Wall 
 --> 
 
-But can we blame all that? Well, it's tough. Because we know that althouth through turbulence and chaos these building blocks are passive, not aggressive. All in all, we know, they are just another brick. And they are there for us to build. From the fair side, or from far, I share the optimistic view from Marc Andreesseen - the founding partner of A16Z, the renowned top-tier venture capital firm from Silicon Valley - which gives me a perspective about a raise in quality of life from our abundant world:  
+But can we blame that? Well, it's tough. Because we know that althouth it appears to be chaotic, these building blocks are passive, not aggressive. All in all, we know, they are just another brick. And they are there for us, to build. From a fair side, or from far, I share the optimistic view from Marc Andreesseen (the founding partner of A16Z, the renowned top-tier venture capital firm from Silicon Valley) which sets a perspective about a raise in quality of life given by our abundant world:  
 
 > *"We believe the measure of abundance is falling prices. Every time a price falls, the universe of people who buy it get a raise in buying power, which is the same as a raise in income. If a lot of goods and services drop in price, the result is an upward explosion of buying power, real income, and quality of life."*  (Andreessen, M., A16z, 2023)
 
@@ -47,13 +47,7 @@ But can we blame all that? Well, it's tough. Because we know that althouth throu
 * Reference - Andreessen, M. (2023, October 16). The Techno-Optimist Manifesto. a16z. https://a16z.com/the-techno-optimist-manifesto
 --> 
 
-
-<!-- 
-@outline - Should we worry? My case. 
---> 
-
-
-That can't be missed, indeed. Because it looks like a supermarket, a big one, hyperconnected, networked, abundant, and cheap. And I put on that founder helmet, and take the cart, there I go again, optimistic. I feel a raise in entrepreneurial action too. I run throught the aisle, aisles for all our startup needs. There we can find solutions for everything, qualified and coherent, for every single job step [^footnote_tonyulwick_jobmap] of the startup's job to be done, setting us to be literally equipped, literally augmented, literally into the process. 
+That can't be missed. Because it looks like a supermarket, a big one, hyperconnected and networked, abundant and cheap. And when I put on again that founder helmet, and my hands on that cart, there I go again, optimistic. I can't escape from that feeling, of a raise, in terms of entrepreneurial action. I run throught the aisles, aisles for all our startup needs, where I find solutions for everything - pretty qualified and coherent - for all the job steps [^footnote_tonyulwick_jobmap] of job to be done. It set us to be literally equipped, literally augmented, literally into the process. 
 
 [^footnote_tonyulwick_jobmap]: In the article "Mapping the Job-to-be-Done" (Ulwick, 2017), Tony Ulwick defines job map as an "ideal process flow" that customers go through as they are involved in a job to be done. The steps are: Define, Locate, Prepare, Confirm, Execute, Monitor, Modify, and Conclude. The main point of the job map is to help the deconstruction of a job that customers are trying to get done, thus with the understanding of customer needs, before considering the opportunities in terms of products or solutions. With that said, I have drawn an analogy from this concept - due to its underlying universality - to provoke us to consider that if the very job of the entrepreneurial is yet another job to be done and conversely many solutions exists: methods, tools, platforms, and more. 
 
@@ -64,16 +58,13 @@ That can't be missed, indeed. Because it looks like a supermarket, a big one, hy
 
 
 
+<!--
+@outline - in the arena, should we worry?
+-->
 
 #### In the arena 
 
 Now, what we know in the arena of founders is that we can't blame the ecosystem or that supermarket. And we know because that's part of entrepreneurial entrepreneurship is that we are in the arena to deal with those things. So we know that there is a good side or a bright side and also an overwhelming side up to the point when we think of it as an evil side. But that's really how it goes in the real life of founders. It is part of the challenge, that we have to deal with our external environment, that ladder, and their building blocks. That we have to be responsible, able to break apart signal from noise, to put on and off that helmet, to think through. We know that, that that is how we get the credit, for being in the arena. And we know too that given the tools and methods for learning faster - from trial and error - we are being challenged to be fast learners too. And we know too that because things can be overwhelming, it's also weird to pause, when we take that helmet off. This is because we never know, how philosophical or deep we can go. It feels that we are paralyzed - under that brief moment trying to see when in analysis - especially given that we see so many other doers and runners passing by, with their helmets on. 
-
-
-
-
-
-
 
 
 
