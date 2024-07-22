@@ -7,21 +7,13 @@
 
 <!-- 
 @outline - Situation lead - rich ecosystem 
---> 
-
-
-
-
-
-
-<!--
 @style - The World's Fastest Indian 
 --> 
 
 Who is this author? Am I a qualified entrepreneur? I am certainly not a qualified practitioner, or an investor, or even a qualified software engineer which was the formal title I got when I moved to Silicon Valley. Now and wondering how that then-iconic company had hired an unqualified software engineer that could not speak proper English it comes to my mind another facet - of my unqualified artist. But I share something with all of these characters. I'm sympathetic to their causes, to their movement. When wearing my founder helmet, which I did many times, I had seen a promising ground, like a salt lake flat. I had put gas in the tank, an energy to accelerate, an invitation to run. And I hacked my own motorcycle, forged its pistons by hand, and polished its tires, unqualified. Having crossed an ocean and arrived there, I wanted to be timed, or validated, perhaps to break the world’s record. But too, I know, I was there to run, to accelerate. This is so because, as we know, founders aren't different from sport professionals and real artists. They want to break records, true. But they are in it for the love of being part too. I share these values. 
 
 <!--
-@style - That Don't Impress me Much, Shania Twain
+@style - Flash of Genius, You and I, and That Don't Impress me Much, Shania Twain
 @prior - @meta-refid 1223-3343-3933-3333
 -->
 
@@ -38,11 +30,15 @@ Now, you may ask, why we are here? You and I. Why are you and I am here? For now
 
 
 
+
+
+
 <!-- 
 @outline - Abstraction a16z 
+@style - The Wall 
 --> 
 
-But can we blame all that? Well, it's tough. Because we know that althouth through turbulence and chaos these building blocks are passive, not aggressive. We know that is up to us to use these bricks, when we need, as we need. That is what we do, in that arena, it is how we get our credits, our grades. All in all, we know, they are just another brick. And they are there for us to build. From the fair side, we know of that, and it goes well with the optimistic view from Marc Andreesseen - the founding partner of A16Z, the renowned top-tier venture capital firm from Silicon Valley - of a raise in quality of life: 
+But can we blame all that? Well, it's tough. Because we know that althouth through turbulence and chaos these building blocks are passive, not aggressive. All in all, we know, they are just another brick. And they are there for us to build. From the fair side, or from far, I share the optimistic view from Marc Andreesseen - the founding partner of A16Z, the renowned top-tier venture capital firm from Silicon Valley - which gives me a perspective about a raise in quality of life from our abundant world:  
 
 > *"We believe the measure of abundance is falling prices. Every time a price falls, the universe of people who buy it get a raise in buying power, which is the same as a raise in income. If a lot of goods and services drop in price, the result is an upward explosion of buying power, real income, and quality of life."*  (Andreessen, M., A16z, 2023)
 
@@ -52,28 +48,26 @@ But can we blame all that? Well, it's tough. Because we know that althouth throu
 --> 
 
 
-
-
-
-
-
 <!-- 
 @outline - Should we worry? My case. 
 --> 
 
 
-
-#### In the arena 
-
-That can't be missed, indeed. Because indeed it looks like a supermarket, a big one, hyperconnected, networked, abundant, and cheap. When I put on my founder helmet, and take the cart, there I go again, optimistic. I feel a raise in entrepreneurial action, I run throught the aisle, aisles for all our startup needs. There we can find solutions for everything, qualified and coherent, for every single job step [^footnote_tonyulwick_jobmap] of the startup's job to be done, setting us to be literally equipped, literally augmented, literally into the process. 
+That can't be missed, indeed. Because it looks like a supermarket, a big one, hyperconnected, networked, abundant, and cheap. And I put on that founder helmet, and take the cart, there I go again, optimistic. I feel a raise in entrepreneurial action too. I run throught the aisle, aisles for all our startup needs. There we can find solutions for everything, qualified and coherent, for every single job step [^footnote_tonyulwick_jobmap] of the startup's job to be done, setting us to be literally equipped, literally augmented, literally into the process. 
 
 [^footnote_tonyulwick_jobmap]: In the article "Mapping the Job-to-be-Done" (Ulwick, 2017), Tony Ulwick defines job map as an "ideal process flow" that customers go through as they are involved in a job to be done. The steps are: Define, Locate, Prepare, Confirm, Execute, Monitor, Modify, and Conclude. The main point of the job map is to help the deconstruction of a job that customers are trying to get done, thus with the understanding of customer needs, before considering the opportunities in terms of products or solutions. With that said, I have drawn an analogy from this concept - due to its underlying universality - to provoke us to consider that if the very job of the entrepreneurial is yet another job to be done and conversely many solutions exists: methods, tools, platforms, and more. 
 
-That is that, from the good side, we have seen it, we can run. From the bad side, it may take our attention. But we, entrepreneurs, aren't machines. We are the doers and we get this credit because, as we know, we are the ones in the arena. So if the ecosystem gives us the opportunity and at the same time can be a trap, that is yet another reason for us to wear the helmet of entrepreneurs and to be in the position of doers that are also learners, to be learning in the arena, from the arena. 
 
 
 
-Now, what we know in the arena of founders is that we can't blame the ecosystem or that supermarket. And we know because that's part of entrepreneurial entrepreneurship is that we are in the arena to deal with those things. So we know that there is a good side or a bright side and also an overwhelming side up to the point when we think of it as an evil side. But that's really how it goes in the real life of founders. It is part of the challenge, that we deal with the external environment, the ladder, and the building blocks, and that we have to be responsible, able to identify signal from noise, to put on the helmet on and off, to think through. We know that and we know that that is how we get the credit, for being in the arena. That we have to learn from doing, we know, and we know too that trial and error is faster, or cheaper, which challenge us to learn faster too. And because things can be overwhelming, it's also weird when we pause, when we take that helmet off. We never know, how philosophical, how deep, we can go. It feels that we are paralyzed, to think of even a brief moment of analysis, especially when we see so many other doers or runners passing by, with their helmets, somewhat protected, faster and faster. 
+
+
+
+
+
+#### In the arena 
+
+Now, what we know in the arena of founders is that we can't blame the ecosystem or that supermarket. And we know because that's part of entrepreneurial entrepreneurship is that we are in the arena to deal with those things. So we know that there is a good side or a bright side and also an overwhelming side up to the point when we think of it as an evil side. But that's really how it goes in the real life of founders. It is part of the challenge, that we have to deal with our external environment, that ladder, and their building blocks. That we have to be responsible, able to break apart signal from noise, to put on and off that helmet, to think through. We know that, that that is how we get the credit, for being in the arena. And we know too that given the tools and methods for learning faster - from trial and error - we are being challenged to be fast learners too. And we know too that because things can be overwhelming, it's also weird to pause, when we take that helmet off. This is because we never know, how philosophical or deep we can go. It feels that we are paralyzed - under that brief moment trying to see when in analysis - especially given that we see so many other doers and runners passing by, with their helmets on. 
 
 
 
