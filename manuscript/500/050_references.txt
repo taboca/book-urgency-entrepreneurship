@@ -2,6 +2,7 @@
 
 <!-- Foreword --> 
 
+
 Drucker, P. F. (1986). The Practice of Management. Harper Business. (Original work published 1954)
 
 <!-- Foreword --> 
@@ -9,12 +10,20 @@ Drucker, P. F. (1986). The Practice of Management. Harper Business. (Original wo
 Ulwick, T. (2017, January 12). Mapping the Job-to-be-Done. JTBD + Outcome-Driven Innovation. Retrieved from https://jobs-to-be-done.com/mapping-the-job-to-be-done-45336427b3bcA
 
 <!-- 
-
  000/050_foreword.txt 
- 
 --> 
 
 Andreessen, M. (2023, October 16). The Techno-Optimist Manifesto. a16z. https://a16z.com/the-techno-optimist-manifesto
+
+<!-- foreword --> 
+
+Yin, B., & Luo, J. (2018). How do accelerators select startups? Shifting decision criteria across stages. IEEE Transactions on Engineering Management, PP(99), 1-16. https://doi.org/10.1109/TEM.2018.2791501
+
+
+
+
+
+
 
 <!-- Introduction --> 
 
@@ -240,7 +249,7 @@ Charman, T. (2015, June 18). The difference between Bootcamps, Incubators and Ac
 
 Cameron, J. (1998). The Right to Write. TarcherPerigee.
 
-Dov Seidman. (2007). How: Why How We Do Anything Means Everything. Wiley.
+Dov Seidman. (2007). How: Why How We Do     Anything Means Everything. Wiley.
 
 Leone, D. (2022). Doug Leone. Sequoia Capital. Retrieved from https://web.archive.org/web/20220527121317/https://www.sequoiacap.com/people/doug-leone/
 
