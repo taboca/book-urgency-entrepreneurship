@@ -14,7 +14,7 @@
 @style - The World's Fastest Indian 
 --> 
 
-Who is this author? I'm not a qualified entrepreneur. I'm also not a qualified practitioner, or an investor, or even a qualified software engineer which was the formal title I got when I moved to Silicon Valley. Now and wondering how that iconic company [*] had hired an unqualified software engineer that could not speak English, it comes to my mind another facet - of the unqualified artist. But I share something with all of these characters - that I'm sympathetic to their causes, to their movement. When wearing my founder helmet, which I did many times, I had seen a promising ground, like a salt lake flat. I had put gas in the tank, an energy to accelerate, an invitation to run. And I hacked my own motorcycle, forged its pistons by hand, and polished its tires, unqualified. Having arrived there, I wanted to be timed, or validated, perhaps break the world’s record. But too, I knew, I wanted to run, to be there, to accelerate. Founders are not different from qualified sport professionals or qualified artists. They want to break the record, perhaps put a dent in the universe; But they also love to be part of the movement. 
+Who is this author? Am I a qualified entrepreneur? I am certainly not a qualified practitioner, or an investor, or even a qualified software engineer which was the formal title I got when I moved to Silicon Valley. Now and wondering how that then-iconic company had hired an unqualified software engineer that could not speak proper English it comes to my mind another facet - of my unqualified artist. But I share something with all of these characters. I'm sympathetic to their causes, to their movement. When wearing my founder helmet, which I did many times, I had seen a promising ground, like a salt lake flat. I had put gas in the tank, an energy to accelerate, an invitation to run. And I hacked my own motorcycle, forged its pistons by hand, and polished its tires, unqualified. Having arrived there, I wanted to be timed, or validated, perhaps break the world’s record. But too, I knew, I wanted to run, to be there, to accelerate. Founders are not different from qualified sport professionals or qualified artists. They want to break the record, perhaps put a dent in the universe; But they also love to be part of the movement. 
 
 <!--
 @style - That Don't Impress me Much, Shania Twain
@@ -74,11 +74,37 @@ That is that, from the good side, we have seen it, we can run. From the bad side
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+@outline - in and out 
+--> 
+
+
 To consider the explosion of accelerators throughout the world, I will tell you of one of my experiences from around 2016, when I had joined a Silicon Valley-based accelerator program that came to my city in Brazil. My application started with a quick background check about the program' reputation. It passed my initial criteria, I may have used 15 minutes plus watched an inspiring lecture which they gave. I also noticed that the accelerator CEO seemed to be well-connected. Plus, they had a well-known startup in their account. With all things coherent going on I did a check with their educational materials. Check there, I found quality stuff in terms of theories, and narrative was sound and seemed to go along with methods and theories which were actively being used by founders and carried over by other and known top-tier Silicon Valley narratives. 
 
-
-
 So then I had engaged and also did some tests, plus they saw my resume and I was lucky to get one of two scholarships among the class and not pay the tuition fee. So I were all set and excited, somehow characterized by them as a technical aspiring founder, because of my background in computer science from almost 2 decades ago, and entered the program feeling energetic. That lasted for three weeks, so I became a dropout. That came about because the program gave me a penalty, a task, which was a chance for me to course-correct what I have done. I couldn't really figure why why that task but it had to do with a bad grade from a pitch event plus something from my behaviors. But the actual reason I left were, initially anyway, due to the homework which they gave it to me which I didn't like. Now, as we know, usually, many of our reflections happens in a post-mortem fashion. The first things I did was to be mad, and to blame the problem. Later I engaged in reflections, trying to understand. Perhaps I did a bargain, allowed a movement into what can be a rabbit role. 
+
+
+
+
+
+<!-- 
+@outline - living the denial 
+--> 
+
+
+
 
 Anyway as part of the process of denial or being made, one think it was very clear which was obviously tied to the situation that had happened - why my pitch wasn't good? I noted that program required me to think of three different ideas, to pitch them and get feedback, and to refine. The other thing I realized is that the advisors and mentors were locals; and they seemed pretty much interested in market-specific solutions instead more global or bolder ideas. While the actual program motivated us with big and bold cases of entrepreneurs, from the lectures, when it was about time to judge they seemed to be favoring things that were obviously market-driven in Brazil if not my region. I noticed that when some of the advisors loved my 3rd best idea which had to do with something to split bills of student groups drinking beer in pubs. 
 
